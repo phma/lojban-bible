@@ -19,6 +19,9 @@
 @c    the fifth day of the month, when I was in the midst of the captives by
 @c    the river Chobar, the heavens were opened, and I saw the visions of
 @c    God.
+1:1. ca le djedi mumoi be le masti vomoi be le nanca cinomoi vi la kyvar. no'u
+le rirxe fi'o se kansa le gugbartu ki le tsani cu karbi'o .ije mi viska tu'a
+le cevni
 
 @c    The thirtieth year. . .Either of the age of Ezechiel; or, as others will
 @c    have it, from the solemn covenant made in the eighteenth year of the
@@ -26,15 +29,24 @@
 
 @c    1:2. On the fifth day of the month, the same was the fifth year of the
 @c    captivity of king Joachin,
+1:2. .i ca le djedi mumoi ca'o ru poi nanca mumoi be le za'i la .ioiaxin poi
+nolraitru cu gugbartu kei
 
 @c    1:3. The word of the Lord came to Ezechiel the priest the son of Buzi
 @c    in the land of the Chaldeans, by the river Chobar:  and the hand of the
 @c    Lord was there upon him.
+1:3. la .iaves cu cusku zo'e la .ixezykel ben buzis. noi jdaka'i ku'o vi la
+kyvar. noi rirxe le gugrkasdi .ije le xance be la .iaves cu vi cpana ra
+
+CUMBASTI: lo'u .ixezykel noi bersa la buzis noi jdakai ku'o ku'o le'u
 
 @c    1:4. And I saw, and behold a whirlwind came out of the north:  and a
 @c    great cloud, and a fire infolding it, and brightness was about it:  and
 @c    out of the midst thereof, that is, out of the midst of the fire, as it
 @c    were the resemblance of amber:
+1:4. .i mi viska le kasybi'e poi klama fi le berti ku'o .e le barda dilnu .e
+le fagri co se simle'a .e le gusni poi sruri .i le midju cu simsa lo kanla
+be la xacmil
 
 @c    1:5. And in the midst thereof the likeness of four living creatures:
 @c    and this was their appearance:  there was the likeness of a man in them.
@@ -353,11 +365,14 @@ se djedi cu dunli le se nanca
 
 @c    4:7. And thou shalt turn thy face to the siege of Jerusalem and thy arm
 @c    shall be stretched out:  and thou shalt prophesy against it.
-4:7. .i ko zgana lenu srugunta la .ierucala,im le flira be do .ije 
+4:7. .i ko zgana lenu srugunta la .ierucala,im kei le flira be do .ije le
+birka be ko cu tcena .ije ko ka'irnu'e fi .ibu
 
 @c    4:8. Behold I have encompassed thee with bands:  and thou shalt not turn
 @c    thyself from one side to the other, till thou hast ended the days of
 @c    thy siege.
+4:8. .i mi lasna do fi le skori .ija'e do ze'e lenu srugunta kei naku ka'e
+carna fi le drata mlana
 
 @c    4:9. And take to thee wheat and barley, and beans, and lentils, and
 @c    millet, and fitches, and put them in one vessel, and make thee bread
@@ -370,9 +385,11 @@ be li cisono
 
 @c    4:10. And thy meat that thou shalt eat, shall be in weight twenty
 @c    staters a day:  from time to time thou shalt eat it.
+4:10. .i ze'e ro le djedi be li pa ko di'i citka lo bundrciklu be li reno
 
 @c    4:11. And thou shalt drink water by measure, the sixth part of a hin:
 @c    from time to time thou shalt drink it,
+4:11. gi'e di'i pinxe loi dekprxinu be li fi'uxa be'u djacu
 
 @c    Hin. . .That is, a measure of liquids containing about ten pints.
 
@@ -384,11 +401,16 @@ fi'o livla lo remna kalci ga'a fo'a
 
 @c    4:13. And the Lord said:  So shall the children of Israel eat their
 @c    bread all filthy among the nations whither I will cast them out.
+4:13. .i sei la .iaves cusku lei panzi be la .isra,EL ba citka le nanba
+toljinsa be setaiku ne'i le natmi poi mi ca'ermuvgau ra ke'a li'u
 
 @c    4:14. And I said:  Ah, ah, ah, O Lord God, behold my soul hath not been
 @c    defiled, and from my infancy even till now, I have not eaten any thing
 @c    that died of itself, or was torn by beasts, and no unclean flesh hath
 @c    entered into my mouth.
+4:14. .i mi cusku lu .a'unai .ainai doi .adoNAIs .iaves ze'epu ca'o le nuncifnu
+ku bi'o le cabna na toljisri'a le sevzi be mi .i mi na citka lo rarmorsi .a lo
+te cicfergau .ije no tolcurve rectu cu nerkla le mi moklu li'u
 
 @c    4:15. And he said to me:  Behold I have given thee neat's dung for man's
 @c    dung, and thou shalt make thy bread therewith.
@@ -398,10 +420,14 @@ zbasu le nanba li'u mi
 @c    4:16. And he said to me:  Son of man:  Behold, I will break in pieces the
 @c    staff of bread in Jerusalem:  and they shall eat bread by weight, and
 @c    with care:  and they shall drink water by measure, and in distress.
+4:16. .i ko'a cusku lu doi remna bersa mi ba porpi le nanba garna pe ne'i la
+.ierucala,im .i fo'a ba xanka citka lo selmre nanba gi'e dunku pinxe lo selmre
+djacu
 
 @c    4:17. So that when bread and water fail, every man may fall against his
 @c    brother, and they may pine away in their iniquities.
-
+4:17. .itezu'ebo ca lenu loi nanba .e loi djacu cu se xaksu kei le remna cu
+[nasham] simxu gi'e fusra le ry zekri
 
 
 @c    Ezechiel Chapter 5
