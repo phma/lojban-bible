@@ -23,7 +23,7 @@
 la misra,im zi'e noi roce'u cu se kansa le ce'u lanzu
 
 @c    1:2. Ruben, Simeon, Levi, Juda,
-1:2. .i zo ruVEN .e zo cim,ON .e zo .ie'uDAS
+1:2. .i zo ruVEN .e zo cim,ON .e zo leVIS. .e zo .ie'uDAS
 
 @c    1:3. Issachar, Zabulon, and Benjamin,
 1:3 .e zo .isasxar .e zo zyvuLUN .e zo biniaMIN.
@@ -109,27 +109,35 @@ la misra,im zi'e noi roce'u cu se kansa le ce'u lanzu
 
 @c    2:1. After this there went a man of the house of Levi; and took a wife
 @c    of his own kindred.
+2:1. ni'o le nanmu lazmi'u be la leVIS. cu spebi'o le tixnu be la leVIS.
 
 @c    2:2. And she conceived, and bore a son:  and seeing him a goodly child,
 @c    hid him three months.
+2:2. .i ri goi ko'e cu frebi'o gi'e se jbena le bersa goi ko'a .i ko'e ga'ezga
+ko'a le ka xamgu gi'e mipri ko'a ca'o le masti be li ci
 
 @c    2:3. And when she could hide him no longer, she took a basket made of
 @c    bulrushes, and daubed it with slime and pitch:  and put the little babe
 @c    therein, and laid him in the sedges by the river's brink,
-2:3. .iba'o lenu ka'e mipri kei ko'e lebna le spatrskirpo lanku gi'e badgau
-lo tarla joi pesxu ly gi'e nerpu'i le cifnu ly gi'e punji ly le misryplespa
+2:3. .iba'o lenu ka'e mipri kei ko'e lebna le misryplespa lanku gi'e badgau
+lo tarla joi pesxu ly gi'e nerpu'i le cifnu ly gi'e punji ly le xagryspa
 ne'a la nil.
 
 @c    2:4. His sister standing afar off, and taking notice what would be
 @c    done.
+2:4. .i le mensi be ko'a vu sanli tezu'e lenu djuno ledu'u mokau ko'a
 
 @c    2:5. And behold the daughter of Pharao came down to wash herself in the
 @c    river:  and her maids walked by the river's brink.  And when she saw the
 @c    basket in the sedges she sent one of her maids for it:  and when it was
 @c    brought,
+2:5. .i le tixnu be la par,ON cu dzikla tezu'e lenu lumci fo la nil. .i le nixli
+pe ty cu cadzu te'e la nil .i ty viska le lanku be ne'i le xagryspa gi'e minde
+le ty fetsefta lenu cpacu .i te bevri le lanku
 
 @c    2:6. She opened it, and seeing within it an infant crying, having
 @c    compassion on it, she said:  This is one of the babes of the Hebrews.
+2:6. gi'e kargau gi'e viska le klaku cifnu .i cusku lu .uu ti xebro cifnu
 
 @c    2:7. And the child's sister said to her:  Shall I go, and call to thee a
 @c    Hebrew woman, to nurse the babe?
