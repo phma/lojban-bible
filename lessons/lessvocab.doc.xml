@@ -1,4 +1,4 @@
-<appendix> <title>Vocabulary</title> <variablelist termlength="15">
+<appendix id="lessvocab"> <title>Vocabulary</title> <variablelist termlength="15" role="vocabulary">
 
 <varlistentry><term><foreignphrase lang="art-lojban">.e</foreignphrase></term><listitem><para>and (individuals, as opposed to <foreignphrase lang="art-lojban">joi</foreignphrase>.)</para></listitem></varlistentry>
 
