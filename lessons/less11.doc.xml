@@ -9,19 +9,30 @@ also has a wide variety of words like this, known as
 (Lojban also handles some of the functions of English conjunctions in other
 ways &mdash; as we saw, <wordasword>because</wordasword> and
 <wordasword>so</wordasword> are translated with <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase>, not connectives.) There are two
-types of connective: logical and non-logical. Logical connectives say
+lang="art-lojban">sumti tcita</foreignphrase>, not connectives.) There are
+two types of connective: logical and non-logical. Logical connectives say
 something about whether and in what circumstances the two things connected
-are true; an example is <foreignphrase lang="art-lojban">.ije</foreignphrase>.
-Non-logical connectives do not deal with truth values, but are a kind of
-attitudinal; an example is <foreignphrase lang="art-lojban">ku'i</foreignphrase>
-<quote role="gloss">however</quote>. This follows the Lojban principle of
-keeping content and attitude separate as far as possible (e.g.
-<foreignphrase lang="art-lojban">.ui la djiotis. klama ti</foreignphrase> has a
-content element &mdash; the information that Jyoti is coming here, and an
-attitude element &mdash; happiness.) In this lesson we will only look at
-logical connectives; non-logical connectives (with one exception) will be
-dealt with later, along with some other attitudinals. </para>
+are true; an example is <foreignphrase
+lang="art-lojban">.ije</foreignphrase>. Non-logical connectives do not deal
+with truth values, but are a kind of attitudinal; an example is
+<foreignphrase lang="art-lojban">joi</foreignphrase>, which we've already
+seen in passing, and we'll be discussing again below.</para>
+
+<para>Moreover, Lojban distinguishes between the logical component of
+connectives, and their attitudinal content. For example, most languages
+have different words for <wordasword>and</wordasword> and
+<wordasword>but</wordasword>. Logically, they both mean the same thing. In
+terms of attitude, howeverm they are different:
+<wordasword>but</wordasword> contains a connotation of unexpectedness that
+<wordasword>and</wordasword> does not. So Lojban translates
+<wordasword>but</wordasword> in two parts: <wordasword>.e ku'i</wordasword>
+<quote role="gloss">and &mdash; however</quote>. This follows the Lojban
+principle of keeping content and attitude separate as far as possible (e.g.
+<foreignphrase lang="art-lojban">.ui la djiotis. klama ti</foreignphrase>
+has a content element &mdash; the information that Jyoti is coming here,
+and an attitude element &mdash; happiness.) In this lesson we will only
+look at logical connectives; non-logical connectives (with one exception)
+will be dealt with later, along with some other attitudinals. </para>
 
 <sect1 id="less11conntypes"><title>Types of logical connectives</title>
 
@@ -152,6 +163,26 @@ lang="art-lojban">.anai</foreignphrase>.</para></listitem>
 
 </itemizedlist>
 </para>
+
+<note><para>There is not a little controversy in the Lojban community about
+whether natural language <wordasword>if</wordasword> is best expressed as a
+logical connective (IF, IFF), or as a <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase>. There are a couple of
+strikes against IF. One is that its logical analysis, NOT A OR B, isn't
+terribly obvious. Another is that IFF is often what is meant, rather than
+IF. Yet another is that <wordasword>if</wordasword> is strongly tied up
+with notions of causality, preconditions, or deduction &mdash; none of
+which is particularly emphasised by IF as a strictly logical connective.
+For that reason, you will see many Lojbanists avoiding IF, and instead
+using <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> like
+<foreignphrase lang="art-lojban">va'o</foreignphrase> <quote
+role="gloss">under conditions...</quote>, <foreignphrase
+lang="art-lojban">seja'e</foreignphrase> <quote role="gloss">results from
+... happening</quote>, <foreignphrase lang="art-lojban">fau</foreignphrase>
+<quote role="gloss">in the event of...</quote>, or <foreignphrase
+lang="art-lojban">ni'i</foreignphrase> <quote role="gloss">logically cause
+by...</quote> </para></note>
+
 </sect1>
 
 
@@ -413,19 +444,31 @@ connective, then, we simply add <foreignphrase lang="art-lojban">j</foreignphras
 to the vowel. Returning to Susan's tastes in men, we can say
 
 <informalexample><literallayout>
-<foreignphrase lang="art-lojban">la suzyn. cinynei lo xajmi ja melbi nanmu</foreignphrase>
-Susan fancy a/some {(funny OR beautiful) man}
+<foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi ja melbi nanmu</foreignphrase>
+Susan fancy all {(funny OR beautiful) man}
 Susan fancies men who are funny or handsome (or both).
 </literallayout></informalexample>
+</para>
 
-Let's say that Susan finds the qualities of humour and good looks
+<note><para>Now, this sentence is still true even if Susan also likes men
+who are <emphasis>not</emphasis> funny or handsome. In natural language,
+social conventions means you wouldn't normally say such a sentence in that
+case, because it would be misleading. Lojban is stricter about these
+things, so you might want to add <foreignphrase
+lang="art-lojban">po'o</foreignphrase> <quote role="gloss">only</quote>
+(see <link linkend="less13">Lesson 13</link>, or use a relative clause:
+<foreignphrase lang="art-lojban">ro nanmu poi se cinynei la suzyn. cu
+xajmni ja melbi</foreignphrase>. We'll stick with the vaguer sentences 
+here, though.</para></note>
+
+<para>Let's say that Susan finds the qualities of humour and good looks
 attractive but incompatible &mdash; she fancies Woody Allen and Steven
 Segal, but thinks a mixture of the two would be just two much. We would
 then say
 
 <informalexample><literallayout>
-<foreignphrase lang="art-lojban">la suzyn. cinynei lo xajmi jonai melbi nanmu</foreignphrase>
-Susan fancy a/some {(funny EOR beautiful) man}
+<foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi jonai melbi nanmu</foreignphrase>
+Susan fancy all {(funny EOR beautiful) man}
 Susan fancies men who are either funny or handsome (but not both).
 </literallayout></informalexample>
 
@@ -434,8 +477,8 @@ their looks at all. Woody Allen would do fine, but Steven Segal wouldn't
 stand a chance unless he could tell a few jokes. What we need here is
 
 <informalexample><literallayout>
-<foreignphrase lang="art-lojban">la djiotis. cinynei lo xajmi ju melbi nanmu</foreignphrase>
-Jyoti fancy a/some {(funny WON beautiful) man}
+<foreignphrase lang="art-lojban">la djiotis. cinynei ro xajmi ju melbi nanmu</foreignphrase>
+Jyoti fancy all {(funny WON beautiful) man}
 Jyoti fancies funny men, whether they are handsome or not.
 </literallayout></informalexample>
 </para>
@@ -446,8 +489,8 @@ lang="art-lojban">.i</foreignphrase>. So if I wanted to say <quote>Either Susan
 fancies funny men, or Susan fancies handsome men</quote>, I 
 need only say
 
-<informalexample><para>.i la suzyn. cinynei lo xajmi nanmu .ijonai la 
-suzyn. cinynei lo melbi nanmu 
+<informalexample><para>.i la suzyn. cinynei ro xajmi nanmu .ijonai la 
+suzyn. cinynei ro melbi nanmu 
 </para></informalexample>
 
 </para>
@@ -599,18 +642,36 @@ sentences like
 
 <informalexample><para>
 <foreignphrase lang="art-lojban">.i la nik. klama la kalifornias. .ije la nik. 
-stali ri ca lo nanca be li ci</foreignphrase>
+stali ri ze'a lo nanca be li ci</foreignphrase>
 </para></informalexample>
 
 and change them into the much more stylish
 
 <informalexample><para>
 <foreignphrase lang="art-lojban">.i la nik. klama la kalifornias. gi'e 
-stali ri ca lo nanca be li ci</foreignphrase>
+stali ri ze'a lo nanca be li ci</foreignphrase>
+</para></informalexample>
+
+or, indeed, the even more stylish (and much less like English)
+
+<informalexample><para>
+<foreignphrase lang="art-lojban">.i la nik. la kalifornias. klama gi'e 
+stali ze'a lo nanca be li ci</foreignphrase>
 </para></informalexample>
 
 You'll be seeing a lot of <foreignphrase lang="art-lojban">gi'e</foreignphrase> in 
 Lojban for that reason.</para>
+
+<note><para><foreignphrase lang="art-lojban">ze'a</foreignphrase> as a
+<foreignphrase lang="art-lojban">sumti tcita</foreignphrase>? Sure, and you
+shouldn't be surprised at this by now. Anything that can be used as a tense
+can be used as a <foreignphrase lang="art-lojban">sumti
+tcita</foreignphrase>, and vice versa. Since <foreignphrase
+lang="art-lojban">ze'a</foreignphrase> as a tense specifies duration, as a
+<foreignphrase lang="art-lojban">sumti tcita</foreignphrase> it introduces
+the duration of the <foreignphrase 
+lang="art-lojban">bridi</foreignphrase>. So it corresponds precisely to 
+<foreignphrase>for</foreignphrase> in the English.</para></note>
 
 </sect1>
 
@@ -861,7 +922,7 @@ lang="art-lojban">.i la ranjit. cusku lu .i do ca sabji le mo cidjrkari ja
 cidjrkabobo li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i le sabji cu cusku lu .i lanme je bakni je jipci li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i le sabji cu cusku lu .i lanme jonai bakni jonai jipci li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. cu cusku lu .i mi djica lo bakni cidjrkari .e lo 
@@ -956,25 +1017,35 @@ than one.)</para></listitem>
 lang="art-lojban">mi djica le birje .u le cidjrkari</foreignphrase>
 </para></listitem>
 
-<listitem><para> <foreignphrase lang="art-lojban">mi klama la .uacintyn .onai la
-.atlyntas. la bastn.</foreignphrase> (Yes, this was meant to be tricky...
+<listitem><para><foreignphrase lang="art-lojban">mi klama la .uacintyn .onai la
+.atlantas. la bastn.</foreignphrase> (Yes, this was meant to be tricky...
 In particular, it involves IFF rather than IF, since to get from Boston to
 Atlanta, you would likely go via Washington. So you cannot go to Atlanta
 without going to Washington, and you've just said you won't go to
-Washington without going to Atlanta.)</para>
+Washington without going to Atlanta.)</para></listitem>
 
-<para>There's another trick involved here: a Lojban <foreignphrase
+</orderedlist>
+
+<tip><para>We did say that a Lojban <foreignphrase
 lang="art-lojban">cmene</foreignphrase> cannot contain <foreignphrase
 lang="art-lojban">la</foreignphrase> (as we mentioned way back in <link
 linkend="less1">Lesson 1</link>); otherwise it would break up into two
-names. How else would you tell the difference between <foreignphrase
-lang="art-lojban">la marladjonz.</foreignphrase> <quote role="gloss">Marla
-Jones</quote> and <foreignphrase lang="art-lojban">la mar. la
-djonz.</foreignphrase> <quote role="gloss">Mar, Jones</quote>? So a name
-like <foreignphrase lang="art-lojban">la .atlantas.</foreignphrase> is not
-allowed. D'oh!)</para></listitem>
-
-</orderedlist>
+names. So <foreignphrase lang="art-lojban">la malakais.</foreignphrase>
+would break up into the admittedly nonsensical <foreignphrase
+lang="art-lojban">la ma la kais.</foreignphrase>. However, when there is a
+consonant in front of the <foreignphrase
+lang="art-lojban">la</foreignphrase> inside the <foreignphrase
+lang="art-lojban">cmene</foreignphrase>, the bit before the <foreignphrase
+lang="art-lojban">la</foreignphrase> would itself be a <foreignphrase
+lang="art-lojban">cmene</foreignphrase>. Since <foreignphrase
+lang="art-lojban">cmene</foreignphrase> end in pauses, if there's no pause,
+then this is a single <foreignphrase
+lang="art-lojban">cmene</foreignphrase>. In other words, <foreignphrase
+lang="art-lojban">la .atlantas.</foreignphrase> is in fact OK, because, if
+it did fall apart, it would fall apart into <foreignphrase
+lang="art-lojban">la .at. la ntas.</foreignphrase> <quote role="gloss">At,
+Ntas</quote> &mdash; and you'd need the pauses for it to really fall apart.
+</para></tip>
 
 </para>
 </simplesect>
@@ -1062,10 +1133,15 @@ lang="art-lojban">mo</foreignphrase> in a <foreignphrase
 lang="art-lojban">tanru</foreignphrase>. As usual, this asks for the listener to 
 fill in the blank.)</para></listitem>
 
-<listitem><para>The waiter says <quote>Lamb, beef and chicken.</quote> 
-(That is to say, the sentence <quote>We serve <wordasword>x</wordasword> curries and kabobs</quote> 
-is true for <wordasword>x</wordasword> being <wordasword>lamb</wordasword>, 
-<wordasword>beef</wordasword>, and <wordasword>chicken</wordasword>.)</para></listitem>
+<listitem><para>The waiter says <quote>Lamb, beef or chicken.</quote> (That
+is to say, the sentence <quote>We serve <wordasword>x</wordasword> curries
+and kabobs</quote> is true for <wordasword>x</wordasword> being
+<wordasword>lamb</wordasword> XOR <wordasword>beef</wordasword>, XOR
+<wordasword>chicken</wordasword>. This means that the waiter has come up
+with a new kind of animal, a <quote
+role="socalled">Lamb-XOR-Cow-XOR-Chicken</quote>; but of course, that
+description fits any one of a lamb, a cow or a chicken, so what the waiter
+has said does make sense.)</para></listitem>
 
 <listitem><para>Ranjeet says <quote>I want a beef curry and an onion 
 bread.</quote> (= nan, presumably)</para></listitem>

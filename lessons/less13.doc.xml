@@ -335,7 +335,9 @@ lang="art-lojban">po'o</foreignphrase>. So <quote>Only cats like catnip</quote>
 is in Lojban <foreignphrase
 lang="art-lojban">loi mlatu po'o cu nelci loi spati be la'o ly. Nepeta 
 cataria ly.</foreignphrase> (<citetitle>Nepeta cataria</citetitle> being the 
-Linnaean name for catnip.)</para>
+Linnaean name for catnip.) If you wanted to say that something is 
+<emphasis>not</emphasis> the only applicable case, then of course you'd say <foreignphrase
+lang="art-lojban">po'onai</foreignphrase>.</para>
 
 <para>There are several more discursives, but because written English 
 doesn't particularly insist on them, you won't seem them all that often. 
@@ -375,14 +377,14 @@ between hypothetical and non-hypothetical kinds of
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="art-lojban">.i <emphasis>da'i</emphasis> do zvati le nu la rikis.martin. tugni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
+<foreignphrase lang="art-lojban">.i <emphasis>da'i</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
 If you <emphasis>had</emphasis> gone to the Ricky Martin concert, then you <emphasis>would have</emphasis> heard <citetitle>La Vida Loca</citetitle>
 </literallayout>
 </informalexample>
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="art-lojban">.i <emphasis>da'inai</emphasis> do zvati le nu la rikis.martin. tugni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
+<foreignphrase lang="art-lojban">.i <emphasis>da'inai</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
 If you <emphasis>did</emphasis> go to the Ricky Martin concert, then you <emphasis>must have</emphasis> heard <citetitle>La Vida Loca</citetitle>
 </literallayout>
 </informalexample>
@@ -417,8 +419,8 @@ each of the following sentences.
 
 <orderedlist>
 
-<listitem><para>The Eiffel Tower is, <emphasis>like</emphasis>, 20 miles tall 
-or something.</para></listitem>
+<listitem><para>The Eiffel Tower is, like, 20 miles tall 
+<emphasis>or something</emphasis>.</para></listitem>
 
 <listitem><para><emphasis>Say</emphasis> this guy goes up to you and goes, 
 <quote>Dude, your fly's undone.</quote> That'd be, like, 
@@ -593,7 +595,17 @@ lang="art-lojban">zo</foreignphrase> is a quotation marker, just like
 <emphasis>only</emphasis> the word immediately after it. This means it does
 not need a terminator: we already know where the quotation ends. The saving
 in two syllables is highly valued in a language which can get as prolix as
-Lojban does.</para></listitem>
+Lojban does.</para>
+
+<note><para>Since <foreignphrase lang="art-lojban">zo</foreignphrase>
+quotes any word following it &mdash; <emphasis>any</emphasis> word &mdash;
+it turns out that <foreignphrase lang="art-lojban">zo ki'a</foreignphrase>
+doesn't mean <quote><foreignphrase lang="art-lojban">ki'a</foreignphrase>?
+Huh?</quote> at all, but <quote>The word <foreignphrase
+lang="art-lojban">ki'a</foreignphrase>.</quote> To ask
+<quote><foreignphrase lang="art-lojban">ki'a</foreignphrase>? Huh?</quote>,
+you'll have to resort to (wait for it) <foreignphrase lang="art-lojban">zo
+zo ki'a</foreignphrase>.</para></note> </listitem>
 
 <listitem><para>Parenthetical remarks can go anywhere UI can &mdash;
 meaning pretty much anywhere in a Lojban sentence. With parentheses, just
@@ -659,6 +671,10 @@ lang="art-lojban">dansu</foreignphrase></term><listitem><para>x1 (individual,
 mass) dances to accompaniment/music/rhythm x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">dasni</foreignphrase></term><listitem><para>x1 wears/is
+robed/garbed in x2 as a garment of type x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">drata</foreignphrase></term><listitem><para>x1 isn't
 the-same-thing-as/is different-from/other-than x2 by standard x3; x1 is
 something else</para></listitem></varlistentry>
@@ -694,8 +710,13 @@ lang="art-lojban">sidju</foreignphrase> <quote role="quote">help</quote>)</para>
 lang="art-lojban">sisku</foreignphrase></term><listitem><para>x1 seeks/searches/looks
 for property x2 among set x3 (complete specification of set)</para></listitem></varlistentry>
 
+<varlistentry><term><foreignphrase
+lang="art-lojban">slabu</foreignphrase></term><listitem><para>x1 is
+old/familiar/well-known to observer x2 in feature x3 (ka) by standard
+x4</para></listitem></varlistentry>
+
 <varlistentry><term><foreignphrase lang="art-lojban">terdi bartu pensi</foreignphrase></term><listitem><para>Extra-Terrestial
-Intelligence</para></listitem></varlistentry>
+Intelligence (<quote role="gloss">earth outside thinker</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">xalfekpre</foreignphrase></term><listitem><para>inebriated, 
@@ -706,6 +727,10 @@ lang="art-lojban">fenki</foreignphrase> <quote
 role="gloss">crazy</quote> + <foreignphrase
 lang="art-lojban">prenu</foreignphrase> <quote 
 role="gloss">person</quote>)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">zirpu</foreignphrase></term><listitem><para>x1 is
+purple/violet [color adjective]</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -726,7 +751,7 @@ xalfekpre ri'a lenu klama lo drata barja
 </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ta'onai la jang. cusku 
-lu .i doi prendo si pendo .e'uru'e ki'u ma do vi zvati li'u</foreignphrase></para></listitem>
+lu .i doi le prendo si pendo .e'uru'e ki'u ma do vi zvati li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i 
 lenu mi kansa la djiotis. .e lo pendo be ri to mutce melbi .uasai toi li'u </foreignphrase></para></listitem>
@@ -755,6 +780,42 @@ ju'o lenu do tavla cu zdile li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la jang. lu .i 
 je'e .i'ese'i go'i li'u</foreignphrase></para></listitem>
+
+</orderedlist>
+
+
+</para>
+</simplesect>
+
+<simplesect role="exercise"><title>Exercise 5</title>
+
+<para>Translate into Lojban.
+
+<orderedlist>
+
+<listitem><para>Only Susan doesn't know that Ranjeet and Zhang know each 
+other. (Hint: trick question! The two instances of 
+<wordasword>know</wordasword> do <emphasis>not</emphasis> translate to the 
+same <foreignphrase lang="art-lojban">gismu</foreignphrase>!)</para></listitem>
+
+<listitem><para>Susan: <quote>Woah! You're here, and you're wearing 
+purple, too!</quote></para></listitem>
+
+<listitem><para>Zhang: <quote>If I'd known you'd be here, I'd have worn 
+nothing :-)</quote> (<wordasword>Nothing</wordasword> in Lojban is 
+<quote role="gloss">zero somethings</quote>.)</para></listitem>
+
+<listitem><para>Jyoti: <quote>Not only geeky, but insane.</quote> (Make up
+a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>, based on
+<foreignphrase lang="art-lojban">kulnu</foreignphrase> <quote
+role="gloss">x1 [mass of ideas, customs, skills, arts] is culture of
+nation/ethos x2 (mass); x1 is ethnic</quote>. Assume (for now!) the place 
+structure <quote>x1 is geeky</quote>.)</para></listitem>
+
+<listitem><para>Ranjeet is very amused, and says <quote>Probably!</quote></para></listitem>
+
+<listitem><para>(Far away, an extraterrestial intelligence sets off for 
+Earth.)</para></listitem>
 
 </orderedlist>
 
@@ -877,7 +938,7 @@ gusta</foreignphrase>, is left alone.)</para></listitem>
 </para>
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="excanswer"><title>Exercise 4</title>
 
 <para>
 <orderedlist>
@@ -940,10 +1001,10 @@ That means that you don't say you're searching for good things, but for
 <emphasis>goodness</emphasis> &mdash; that is, you're searching by checking
 whether each thing you come across has goodness or not. This is sort of an
 extension of Lojban's fill-in-the-slot approach to questions:
-<foreignphrase lang="art-lojban">.i mi sisku leka <emphasis>da</emphasis>
-terdi bartu pensi .i <emphasis>la'o gy. Martian gy.</emphasis> terdi bartu
-pensi .i <emphasis>la'o gy. Venusian gy.</emphasis> terdi bartu pensi .i
-<emphasis>la'o gy. Vuclan gy.</emphasis> terdi bartu pensi .i <emphasis>la
+<foreignphrase lang="art-lojban">.i mi sisku leka ___
+terdi bartu pensi .i <emphasis>lo fange pe la mars.</emphasis> cu terdi bartu
+pensi .i <emphasis>lo fange pe la venus.</emphasis> cu terdi bartu pensi .i
+<emphasis>lo fange pe la vulkan.</emphasis> cu terdi bartu pensi .i <emphasis>la
 jang.</emphasis> na terdi bartu
 pensi</foreignphrase>.</para></note></listitem>
 
@@ -959,6 +1020,66 @@ some comical smugness, no doubt...)</para></listitem>
 
 </para>
 </simplesect>
+
+<simplesect role="excanswer"><title>Exercise 5</title>
+
+<para>
+<orderedlist>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la suzyn. po'o na djuno ledu'u la ranjit. slabu la 
+jang. soi vo'a</foreignphrase> (Some languages, like French and German, 
+differentiate between knowing facts and knowing people. Some languages, 
+like English, do not. No prizes for guessing which side of the divide 
+Lojban is on. <foreignphrase
+lang="art-lojban">po'o</foreignphrase> follows <foreignphrase
+lang="art-lojban">la suzyn.</foreignphrase>, since that's who it applies 
+to.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la suzyn. li .uecai do vi zvati gi'e ji'a dasni loi 
+zirpu li'u</foreignphrase> or <foreignphrase
+lang="art-lojban">.i la suzyn. li .uecai do vi zvati .i je ji'a do dasni loi 
+zirpu li'u</foreignphrase> (You can 
+tone it down to <foreignphrase
+lang="art-lojban">.uesai</foreignphrase>, if you want.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la jang. lu .i da'i mi djuno ledu'o do vi zvati nagi'a 
+dasni noda zo'o li'u</foreignphrase> or <foreignphrase
+lang="art-lojban">.i la jang. lu .i da'i mi djuno ledu'o do vi zvati .inaja 
+mi dasni noda zo'o li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">la djiotis. lu .i
+kulnrgiki po'onai gi'e ji'a fekypre li'u</foreignphrase> 
+(<wordasword>But</wordasword> here doesn't contradict expectation, but 
+corroborates it; so it actually means <quote role="gloss">also</quote>! 
+You could in fact add <wordasword>also</wordasword> in the English 
+sentence. Some languages &mdash; notably German &mdash; have different 
+words for the two types of <wordasword>but</wordasword>: German here would 
+use <foreignphrase lang="deu">sondern</foreignphrase> instead of <foreignphrase 
+lang="deu">aber</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la ranjit. mutce se zdile gi'e cusku zo 
+la'a</foreignphrase> (or <foreignphrase
+lang="art-lojban">lu .i la'a go'i li'u</foreignphrase>)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">to vuku lo terdi bartu
+pensi co'a klama la terdi toi</foreignphrase> or <foreignphrase
+lang="art-lojban">to lo terdi bartu pensi vu co'a klama la
+terdi toi</foreignphrase> (You could optionally put an <foreignphrase
+lang="art-lojban">.i</foreignphrase> after <foreignphrase
+lang="art-lojban">to</foreignphrase>, but you don't have to: there's no 
+danger of the sentence within parentheses being merged in with the sentence 
+before it.)</para></listitem>
+
+</orderedlist>
+
+
+</para>
+</simplesect>
+
 
 
 </sect1>

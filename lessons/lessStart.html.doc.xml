@@ -2,7 +2,8 @@
 <!ENTITY mdash "--">
 <!ENTITY ndash "-">
 <!ENTITY rArr "=&gt;">
-<!ENTITY uuml "&#252;">
+<!ENTITY uuml "ue">
+<!ENTITY times "*">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">
@@ -16,13 +17,14 @@
 <!ENTITY less11 SYSTEM "less11.doc.xml">
 <!ENTITY less12 SYSTEM "less12.doc.xml">
 <!ENTITY less13 SYSTEM "less13.doc.xml">
+<!ENTITY less14 SYSTEM "less14.doc.xml">
 <!ENTITY lessons SYSTEM "lessons.doc.xml">
 <!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
 ]>
 <book>
-<title id="lessons">Introductory Lessons on Lojban &mdash; <foreignphrase 
-lang="art-lojban">cfari velcti be la lojban.</foreignphrase></title>
+<title id="lessons">Lojban For Beginners &mdash; <foreignphrase 
+lang="art-lojban">velcli befi la lojban. bei loi cfapre</foreignphrase></title>
 &lessinfo;
 &lessintro;
 &lessons;
