@@ -1,7 +1,8 @@
 @node pamo'o, remo'o, le fukpi, Top
 
 @menu
-* papipamo'o::	[The Book Of Genesis]
+* papipamo'o::		[The Book Of Genesis]
+* papirevomo'o::	[The Song of Solomon]
 @end menu
 
 @include ot-genesis.texinfo

@@ -1,5 +1,13 @@
-@c    SOLOMON'S CANTICLE OF CANTICLES
+@node		papirevomo'o, selsa'a1, pamo'o, pamo'o
+@chapter	papirevomo'o le selsa'a pe la solomon.
 
+@menu
+* selsa'a1::	[Song of Solomon Chapter 1]
+* selsa'a2::	[Song of Solomon Chapter 2]
+@end menu
+
+@c    SOLOMON'S CANTICLE OF CANTICLES
+le selsa'a pe la solomon.
 
 
 @c    This Book is called the Canticle of Canticles, that is to say, the most
@@ -13,7 +21,8 @@
 
 
 @c    Canticle of Canticles Chapter 1
-
+@node		selsa'a1, selsa'a2, papirevomo'o, papirevomo'o
+@section	papirevopipamo'o [Song of Solomon Chapter 1]
 
 @c    The spouse aspires to an union with Christ, their mutual love for one
 @c    another.
@@ -169,7 +178,8 @@ trina .iji'a le mi'o ckana cu crino
 
 
 @c    Canticle of Canticles Chapter 2
-
+@node		selsa'a2, , selsa'a1, papirevomo'o
+@section	papirevopiremo'o [Song of Solomon Chapter 2]
 
 @c    Christ caresses his spouse:  he invites her to him.
 
