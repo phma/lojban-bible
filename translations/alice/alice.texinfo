@@ -76,11 +76,11 @@ finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 *  vomoi pagbu::	vomo'o la ractu cu benji lo cmalu me la bil
 *  mumoi pagbu::	mumo'o se djusku lo ciftoldi
 *  xamoi pagbu::	xamo'o le xarju .e lei tsaprpiperi
-*  zemoi pagbu::	zemo'o fenki tcati te salci
+*  zemoi pagbu::	zemo'o fenki ke tcati kansi'u
 *  bimoi pagbu::	bimo'o noltruni'u kelcrkroke bo foldi
 *  somoi pagbu::	somo'o lisri fi la jitfa cakyrespa
 * panomoi pagbu::	panomo'o xasyjukni vonseldansu
-* papamoi pagbu::	papamo'o ma zerle'a le rutytisna
+* papamoi pagbu::	papamo'o papamo'o ma zerle'a lei rutytisna
 * paremoi pagbu::	paremo'o le sidydatni po'e la alis.
 @end menu
 
