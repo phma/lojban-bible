@@ -225,7 +225,7 @@ i lu mi zifre le nu pensi sei la alis noi co'a xanka cu kinli cusku li'u
 @c    and the m--'
 
 i lu du'i le nu zifre sei le noltroni'u cu cusku fa lo'e xarju le nu vofli
-i la'e di'u my li'o li'u
+i la'e di'u ma-- li'o li'u
 
 @c      But here, to Alice's great surprise, the Duchess's voice died
 @c    away, even in the middle of her favourite word `moral,' and the
@@ -233,23 +233,46 @@ i la'e di'u my li'o li'u
 @c    and there stood the Queen in front of them, with her arms folded,
 @c    frowning like a thunderstorm.
 
+i caku ja'e le nu la alis se spaji mutce kei le voksa be le noltroni'u
+cu canci caji'asai le midju be le ny se nelrai valsi no'u zo madni'i i le
+birka poi jorne le abu birka cu co'a desku i la alis catlu i le noltruni'u
+cu sanli ca'u la alis joi le noltroni'u gi'e lindi frumu
+
 @c      `A fine day, your Majesty!' the Duchess began in a low, weak
 @c    voice.
+
+i lu xamgu djedi doi nolba'i sei le noltroni'u co'a tolylau je ruble 
+voksa cusku li'u
 
 @c      `Now, I give you fair warning,' shouted the Queen, stamping on
 @c    the ground as she spoke; `either you or your head must be off,
 @c    and that in about half no time!  Take your choice!'
 
+i lu o'i pa'e sei le noltruni'u ca le nu darxi le loldi le jamfu cu 
+krixa do a le do stedu cu ei se vimcu i go'i zi pimu lo temci nomei
+i ko cuxna li'u
+
 @c      The Duchess took her choice, and was gone in a moment.
+
+i le noltroni'u cu cuxna gi'e zi klama
 
 @c      `Let's go on with the game,' the Queen said to Alice; and Alice
 @c    was too much frightened to say a word, but slowly followed her
 @c    back to the croquet-ground.
 
+i lu e'u mi'o di'a kelci sei le noltroni'u fi la alis cusku li'u i la
+alis cu dukse le ka terpa gi'e cusku no valsi gi'eku'i masno jersi ny
+fa'a le kelcrkroke foldi 
+
 @c      The other guests had taken advantage of the Queen's absence,
 @c    and were resting in the shade:  however, the moment they saw her,
 @c    they hurried back to the game, the Queen merely remarking that a
 @c    moment's delay would cost them their lives.
+
+i lei drata vitke cu se prali le nu surla bu'u le ctino kei le nu le
+noltruni'u cu nalzvati i ku'i ca le nu viska ny kei vy zi sutra le nu 
+xruti le nu kelci i le noltruni'u ja'aru'e te pinka le du'u lo mokca  
+nunlerci cu se jdima lei vy jmive
 
 @c      All the time they were playing the Queen never left off
 @c    quarrelling with the other players, and shouting `Off with his
@@ -260,22 +283,48 @@ i la'e di'u my li'o li'u
 @c    King, the Queen, and Alice, were in custody and under sentence of
 @c    execution.
 
+i ze'a piro le nu kelci kei le noltruni'u noroi de'a damba lei drata 
+kelci gi'e krixa lu ko le stedu ta vimcu li'u a lu ko le stedu tu 
+vimcu li'u i lei se dapma be ny cu se klagau lei sonci noi li'a de'a
+bargu i ba za lo cacra be li ji'ipimu ge no bargu cu zvati gi ro le 
+kelci po'u na'ebo le noltrunau a le noltruni'u a la alis cu pinfu gi'e 
+se dapma fi le nu se selmi'ecatra 
+
 @c      Then the Queen left off, quite out of breath, and said to
 @c    Alice, `Have you seen the Mock Turtle yet?'
 
+i le noltruni'u cu cliva gi'e cusku fi la alis fe lu xu do pu viska
+le jitfa cakyrespa li'u
+
 @c      `No,' said Alice.  `I don't even know what a Mock Turtle is.'
+
+i lu na go'i sei la alis cusku i mi na djuno ji'asai le du'u makau 
+jitfa cakyrespa li'u
 
 @c      `It's the thing Mock Turtle Soup is made from,' said the Queen.
 
+i lu le te zbasu be lo'e jitfa cakyrespa bo stasu sei le noltruni'u 
+cu cusku li'u
+
 @c      `I never saw one, or heard of one,' said Alice.
+
+i mi pu noroi viska sei la alis cusku li'u
 
 @c      `Come on, then,' said the Queen, `and he shall tell you his
 @c    history,'
+
+i lu e'e mi'o klama sei le noltruni'u cu cusku i cy ba te lisri cy fo 
+do li'u
 
 @c      As they walked off together, Alice heard the King say in a low
 @c    voice, to the company generally, `You are all pardoned.'  `Come,
 @c    THAT'S a good thing!' she said to herself, for she had felt quite
 @c    unhappy at the number of executions the Queen had ordered.
+
+i ca le nu cliva cadzu kei la alis tirna le nu le noltrunau tolylau
+voksa cusku fi lei zvati fe lu ro do se fraxu li'u i lu ri'e la'e ba'e
+di'u xamgu sei abu sezysku i abu pu cinmo le nu tolgleki le nu le
+noltruni'u cu minde xokau nuncatra 
 
 @c      They very soon came upon a Gryphon, lying fast asleep in the
 @c    sun.  (IF you don't know what a Gryphon is, look at the picture.)
