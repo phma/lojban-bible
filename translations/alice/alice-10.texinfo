@@ -110,21 +110,35 @@ fenki kei ze'a la'e di'u cu badri je smaji tsebi'o gi'e catlu la alis
 
 @c      `It must be a very pretty dance,' said Alice timidly.
 
+i lu ju'oda'i melbi seldansu sei la alis toldarsi cusku li'u
+
 @c      `Would you like to see a little of it?' said the Mock Turtle.
 
+i lu a'upei do viska lo mupli sei le jitfa cakyrespa cu cusku li'u
+
 @c      `Very much indeed,' said Alice.
+
+i lu a'usai go'i sei la alis cusku li'u
 
 @c      `Come, let's try the first figure!' said the Mock Turtle to the
 @c    Gryphon.  `We can do without lobsters, you know.  Which shall
 @c    sing?'
 
+i lu e'e mi'o troci le nu pamoi morna sei le jitfa cakyrespa fi le cpicinfo
+cu cusku i i'i mi'o kakne secau loi xasyjukni i le mo cu sanga li'u
+
 @c      `Oh, YOU sing,' said the Gryphon.  `I've forgotten the words.'
+
+i lu i'e ba'e do go'i sei le cpicinfo cu cusku i mi tolmorji lei valsi li'u
 
 @c      So they began solemnly dancing round and round Alice, every now
 @c    and then treading on her toes when they passed too close, and
 @c    waving their forepaws to mark the time, while the Mock Turtle
 @c    sang this, very slowly and sadly:--
 
+i co'a junri dansu ru'u la alis i ru'inai stapa lei abu jmadegji ca le nu
+dukse jbikla i sligau lei xance tezu'e le nu sinxa le rilti ize'abo
+le jitfa cakyrespa cu masno je badri mutce sanga lu 
 
 @c    `"Will you walk a little faster?" said a whiting to a snail.
 @c    "There's a porpoise close behind us, and he's treading on my
