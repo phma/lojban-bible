@@ -410,7 +410,7 @@ there's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming.</para>
 <simplesect role="exercise"><title>Exercise 3</title> <para>Add
 <foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojban
 sentences where necessary, then work out what they mean. For example, for <foreignphrase lang="art-lojban">le klama ninmu</foreignphrase>
-to make sense as a sentence, you need to add <foreignphrase lang="art-lojban">cu</foreignphrase>:
+to make sence as a sentence, you need to add <foreignphrase lang="art-lojban">cu</foreignphrase>:
 <foreignphrase lang="art-lojban">le klama <emphasis>cu</emphasis> ninmu</foreignphrase>.  </para>
 
 <para><orderedlist><listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem>
@@ -776,7 +776,7 @@ an action takes place in the past, present or future.</para>
 Someone expresses the English thing for the person(s) through a book
 The book is a medium for English to people</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">do vecnu mi le karce zo'e</foreignphrase>
+<listitem><literallayout><foreignphrase lang="art-lojban">do vecnu le karce mi zo'e</foreignphrase>
 You sell me the car for some amount
 I am sold the car by you (Notice how <foreignphrase lang="art-lojban">le karce</foreignphrase> is assigned x<subscript>2</subscript>, since it follows an x<subscript>1</subscript> place immediately.)</literallayout></listitem>
 

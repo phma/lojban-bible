@@ -136,7 +136,7 @@ lang="art-lojban">kau</foreignphrase>. So you can say
 <quote>I know how many people are learning Lojban</quote>, as
 
 <informalexample><para><foreignphrase lang="art-lojban">mi djuno ledu'u <emphasis>xo
-kau</emphasis> prenu cilre la lojban.</foreignphrase></para>
+kau</emphasis> prenu cu cilre la lojban.</foreignphrase></para>
 
 </informalexample>(Remember,
 <foreignphrase lang="art-lojban">xo</foreignphrase> is the question word
@@ -235,21 +235,16 @@ role="gloss">kindness</quote>.</para>
 <emphasis>of</emphasis> something. They are associated, not just with a
 <foreignphrase lang="art-lojban">selbri</foreignphrase>, but with a
 particular place of the <foreignphrase
-lang="art-lojban">selbri</foreignphrase>. For instance, if I am being kind
-(<foreignphrase lang="art-lojban">mi xendo</foreignphrase>), then I can
-talk about <emphasis>my</emphasis> kindness:
+lang="art-lojban">selbri</foreignphrase>. For example, kindness is not just <foreignphrase
+lang="art-lojban">le ka xendo</foreignphrase>, but the property of someone displaying 
+kindness &mdash; as a characteristic of that someone. In other words, not just
+<foreignphrase
+lang="art-lojban">le ka xendo</foreignphrase><foreignphrase
+lang="art-lojban">le ka ___ xendo</foreignphrase>, where <foreignphrase
+lang="art-lojban">___</foreignphrase> stands in for that <quote 
+role="socalled">someone</quote>.</para>
 
-<informalexample><para><foreignphrase
-lang="art-lojban">le ka <emphasis>mi</emphasis> xendo</foreignphrase></para>
-
-</informalexample>If
-Fred is being kind, we would instead speak of <emphasis>Fred</emphasis>'s
-kindness:
-
-<informalexample><para><foreignphrase lang="art-lojban">le ka <emphasis>la
-fred.</emphasis> xendo</foreignphrase></para></informalexample></para>
-
-<para>Now, consider influence and susceptibility. Both involve the
+<para>As a further example, consider influence and susceptibility. Both involve the
 relationship expressed in Lojban as <foreignphrase
 lang="art-lojban">xlura</foreignphrase>:
 
@@ -260,36 +255,27 @@ x<subscript>4</subscript></para>
 </informalexample>So the Lojban for influence is <foreignphrase
 lang="art-lojban">le ka xlura</foreignphrase>. And the Lojban for
 susceptibility is... <foreignphrase lang="art-lojban">le ka
-xlura</foreignphrase>? No, that can't be right. Let's try again.</para>
+xlura</foreignphrase>? Strictly speaking, yes: both properties involve the
+same <foreignphrase
+lang="art-lojban">bridi</foreignphrase>, <foreignphrase
+lang="art-lojban">xlura</foreignphrase></para>
 
-<para>Influence
+<para>But obviously, we can't have the same expression for both influence and
+susceptibility; we have to have a way of highlighting the place in the <foreignphrase 
+lang="art-lojban">bridi</foreignphrase> we are interested in. Though the two
+properties involve the same <foreignphrase
+lang="art-lojban">bridi</foreignphrase>, they focus on different places of
+that <foreignphrase
+lang="art-lojban">bridi</foreignphrase>. Influence
 is the property associated with the x<subscript>1</subscript> of <foreignphrase
 lang="art-lojban">xlura</foreignphrase>, the influencer. Susceptibility is
 the property associated with the x<subscript>2</subscript> of <foreignphrase
-lang="art-lojban">xlura</foreignphrase>, the influencee. I need to somehow,
-in the abstraction, highlight the place I'm interested in: <foreignphrase
-lang="art-lojban">le ka <emphasis>mi</emphasis> xlura</foreignphrase> is my
-influence, while <foreignphrase lang="art-lojban">le
-ka xlura <emphasis>mi</emphasis></foreignphrase> is my susceptibility.</para>
- 
-<para>I could play tricks like using whichever place comes first, or whichever place is empty 
-first, to tell which place I'm concentrating on. But that would just be a 
-convention; and as was the case with relative clauses and <foreignphrase
-lang="art-lojban">ke'a</foreignphrase>, you'd want some way of explicitly 
-spelling out what place you're concentrating on. Moreover, what happens if 
-both candidate places are filled? If I say 
+lang="art-lojban">xlura</foreignphrase>, the influencee. So how do we say that
+in Lojban?</para>
 
-<informalexample><para><foreignphrase
-lang="art-lojban">le ka mi xlura do</foreignphrase></para>
-
-</informalexample>am I referring to my influence over you, 
-or your susceptibility to me? Who are we concentrating on here?
-</para>
-
-<para>The solution Lojban presents is pretty similar to relative clauses
-and <foreignphrase lang="art-lojban">ke'a</foreignphrase>, as it turns out.
-(Some logicians would think of it as identical, in fact.) It's also similar
-to Lojban's approach to questions. Remember in <link
+<para>Lojban's solution to
+this problem is fairly similar
+to Lojban's approach to questions, as it turns out. Remember in <link
 linkend="less13">Lesson 13</link> that the search for extraterrestrial
 intelligence was, in terms of Lojban, a search for the value to fit in the
 slot 
@@ -297,7 +283,9 @@ slot
 <informalexample><para><foreignphrase lang="art-lojban">leka ___ terdi bartu
 pensi</foreignphrase></para>
 
-</informalexample>By the same token, influence is a property of things
+</informalexample>
+ 
+By the same token, influence is a property of things
 that fit into the x<subscript>1</subscript> place of <foreignphrase
 lang="art-lojban">xlura</foreignphrase>; so you can think of influence as
 <foreignphrase lang="art-lojban">leka ___ xlura</foreignphrase>. If we
@@ -388,42 +376,163 @@ lang="art-lojban">di</foreignphrase>)</para>
 of all programmers and 99% of all linguists) can go ahead and forget I ever
 mentioned this.</para></note>
 
-<para>When there is no <foreignphrase
-lang="art-lojban">ce'u</foreignphrase> in the abstraction, the location of
-<foreignphrase lang="art-lojban">ce'u</foreignphrase> is ambiguous, and <citetitle>The
-Complete Lojban Language</citetitle> mentions no
-convention having arisen, like with <foreignphrase
-lang="art-lojban">ke'a</foreignphrase>, on where it goes by default. The x<subscript>1</subscript>
-place (whether occupied or not) appears to be what Lojbanists assume. This means that
-<foreignphrase lang="art-lojban">le ka xlura</foreignphrase> without <foreignphrase 
-lang="art-lojban">ce'u</foreignphrase>
-means both <quote role="gloss">influence</quote> and <quote
-role="gloss">susceptibility</quote>, although <foreignphrase
-lang="art-lojban">le ka se xlura</foreignphrase> seems to be the
-preferred way of saying <quote role="gloss">susceptibility</quote>.</para>
+<para>If you cast your mind back to <link linkend="less7">Lesson 7</link>, you'll
+remember that we split up the abstractions Lojban uses into two main types: events, 
+using <foreignphrase lang="art-lojban">nu</foreignphrase>, and facts or propositions,
+using <foreignphrase
+lang="art-lojban">du'u</foreignphrase>. A property, as introduced by <foreignphrase
+lang="art-lojban">ka</foreignphrase>, is still what we called there a reification. 
+That means it's just like <foreignphrase
+lang="art-lojban">du'u</foreignphrase>: it's
+something you hold in your mind about what happens in the world, rather
+than something that objectively happens in the world. The difference is,
+<foreignphrase lang="art-lojban">ka</foreignphrase> has an empty slot, occupied
+by <foreignphrase lang="art-lojban">ce'u</foreignphrase>; and you're interested in the 
+<foreignphrase lang="art-lojban">ka</foreignphrase>-clause only
+inasmuch as you're interested in what fills the slot. On the other hand,
+<foreignphrase
+lang="art-lojban">du'u</foreignphrase>-clauses don't necessarily have any such
+slot &mdash; although they can.</para>
 
-<para>What happens if you want to put <foreignphrase
-lang="art-lojban">ce'u</foreignphrase> in the abstraction, but the place
-you want to put it is already occupied, because you know who it's a
-property of? Well, in that case you want to say that the value already
-there takes up the space where the slot would be. If <quote
-role="gloss">kindness</quote> is <foreignphrase lang="art-lojban">le ka
-ce'u xendo</foreignphrase>, <quote role="gloss">my kindness</quote> is
-<foreignphrase lang="art-lojban">le ka ce'u xendo fa mi</foreignphrase>.
-This means that both <foreignphrase lang="art-lojban">ce'u</foreignphrase>
-and <foreignphrase lang="art-lojban">mi</foreignphrase> take up the x<subscript>1</subscript> of
-<foreignphrase lang="art-lojban">xendo</foreignphrase>. A somewhat less
-painful way to do this is to use <foreignphrase
-lang="art-lojban">po'u</foreignphrase> to say that the property slot and
-the value filling it are basically the same thing:
+<note><para>This means that, when you get down to it, there is no real difference
+between <foreignphrase
+lang="art-lojban">ledu'u ce'u xendo</foreignphrase> and <foreignphrase
+lang="art-lojban">leka ce'u xendo</foreignphrase>. But as we discuss below, there 
+is a real difference between <foreignphrase
+lang="art-lojban">ledu'u xendo</foreignphrase> and <foreignphrase
+lang="art-lojban">leka xendo</foreignphrase>: by default, <foreignphrase
+lang="art-lojban">ka</foreignphrase> is assumed to contain <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> somewhere (since it is a property 
+<emphasis>of</emphasis> something.) No such assumption is made for <foreignphrase
+lang="art-lojban">du'u</foreignphrase>: <foreignphrase
+lang="art-lojban">ledu'u xendo</foreignphrase> is normally assumed to be just
+<foreignphrase lang="art-lojban">ledu'u zo'e xendo</foreignphrase>; the fact that 
+someone is kind, rather than the property of someone being kind.</para></note>
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">le ka ce'u po'u mi xendo</foreignphrase> 
-the quality of <wordasword>x</wordasword>, namely me, being kind.</literallayout></informalexample></para>
+<para>Most usage of <foreignphrase
+lang="art-lojban">ka</foreignphrase> in Lojban fits this pattern of <quote 
+role="socalled">filling a slot</quote> straightforwardly. This is particularly the
+case when a <foreignphrase lang="art-lojban">ka</foreignphrase>-asbtraction is required
+in the place structure definition of a
+<foreignphrase lang="art-lojban">gismu</foreignphrase>: a <foreignphrase 
+lang="art-lojban">ka</foreignphrase>-clause is required, because by its definition
+the <foreignphrase lang="art-lojban">gismu</foreignphrase> involves that slot.
+So with <foreignphrase lang="art-lojban">sisku</foreignphrase> <quote 
+role="gloss">seek</quote>, you search for
+<foreignphrase lang="art-lojban">ka</foreignphrase>-clauses, to find what will fill the 
+slot. With <foreignphrase lang="art-lojban">karbi</foreignphrase> <quote 
+role="gloss">compare</quote>, you compare things to see how well they fit the 
+slot. Or alternatively, the <foreignphrase lang="art-lojban">gismu</foreignphrase> 
+by definition fills that slot, by relating the property to the value satisfying it.
+For example,
 
-<note><title>Lambda Note, Part 2</title><para>The infinitesimal number of you that know about lambda calculus
+<itemizedlist>
+<listitem><para><foreignphrase lang="art-lojban">mi fange do leka ce'u se krasi le bartu 
+be le tcadu</foreignphrase>: 
+I am alien to you in the property of <quote>x<subscript>1</subscript> is from out of 
+town</quote> (as applied to me.) 
+</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi barda leka le xadni be ce'u cu 
+clani</foreignphrase>:
+I am big in the property of <quote>x<subscript>1</subscript>'s body is long</quote> 
+&mdash; i.e. <quote>x<subscript>1</subscript> is tall</quote> (as applied to me.) 
+</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi mansa do leka ce'u pensi</foreignphrase>:
+I satisfy you that the property <quote>x<subscript>1</subscript> is intelligent</quote> applies to me.
+</para></listitem>
+
+</itemizedlist></para>
+
+<para>What happens when you find the value that fills the slot? Then &mdash; and
+here Lojban parts ways with English &mdash; you no longer have a slot; so you
+no longer have a property. You've gone back to <foreignphrase 
+lang="art-lojban">du'u</foreignphrase>. If <foreignphrase lang="art-lojban">mi mansa do
+leka ce'u pensi</foreignphrase>, that's the same as saying <foreignphrase 
+lang="art-lojban">do djuno ledu'u mi pensi</foreignphrase>. A property applying to
+a known entity is no longer a property at all in Lojban, but a fact.</para>
+
+<para>Be careful here:
+what English (and in fact, most traditional usage) calls properties are
+often actually considered just states in Lojban &mdash; that is, something that
+happens in the world, but without anybody lifting a finger. Being a
+runner (also known as <quote role="socalled">running</quote>) is hard work; so we're 
+happy to think of it as an event: <foreignphrase 
+lang="art-lojban">nu bajra</foreignphrase>. But being happy (also known as <quote 
+role="socalled">happiness</quote>) is something that just happens, without
+any work; so we're inclined to call it <foreignphrase 
+lang="art-lojban">ka gleki</foreignphrase>. But that's misleading.
+English distinguishes between <wordasword>running</wordasword> and <wordasword>happiness</wordasword> grammatically, because
+<wordasword>run</wordasword> is a verb and <wordasword>happy</wordasword> is an 
+adjective. But verbs and adjectives don't
+mean anything to Lojban (or to many other languages), so there's nothing
+to say you can't say <foreignphrase lang="art-lojban">nu gleki</foreignphrase>
+instead. Much of the time, in fact, that is precisely what you should be saying.
+As a rule of thumb: if you wouldn't say <foreignphrase lang="art-lojban">ka 
+bajra</foreignphrase> in a sentence, don't say <foreignphrase 
+lang="art-lojban">ka gleki</foreignphrase> either.</para>
+
+<tip><para>In older Lojban, you'll often see phrases like <foreignphrase 
+lang="art-lojban">leka mi gleki</foreignphrase> for
+<quote>the property of me being happy.</quote> That's because we used to not know any
+better (<foreignphrase lang="art-lojban">ce'u</foreignphrase> is a recent addition
+to the language), and were treating Lojban properties pretty much the way English
+does. The proper way to say this in Lojban is <foreignphrase 
+lang="art-lojban">lenu mi gleki</foreignphrase>, or <foreignphrase 
+lang="art-lojban">ledu'u mi gleki</foreignphrase>. Alternatively, if you
+want to emphasise that the property <quote>x<subscript>1</subscript> is happy</quote> is 
+being applied to you, you can say <foreignphrase 
+lang="art-lojban">leka ce'u gleki kei poi ckaji mi</foreignphrase> &mdash; a literal 
+translation of <quote>the
+property <quote>x<subscript>1</subscript> is happy</quote> as applied to 
+me</quote>.</para></tip>
+
+<note><title>Lambda Note, Part 2</title><para>The infinitesimal number of you that 
+know about lambda calculus
 are by now thinking this is a pretty lame way of implementing
 beta-reduction. All I can say to that is, if you want LISP, you always know where 
 to find it...</para></note>
+
+<para>Sometimes you'll want to speak of properties of applying to two entities
+at once. For example, the cop wants to know who talked about the heist,
+and to whom: 
+
+<informalexample><para><foreignphrase 
+lang="art-lojban">le pulji cu djica lenu djuno ledu'u makau tavla makau le nu
+jemna zercpa</foreignphrase>.
+                   
+</para></informalexample>In that case, he's looking for x<subscript>1</subscript>s
+<emphasis>and</emphasis> x<subscript>2</subscript>s to fill in his
+<foreignphrase 
+lang="art-lojban">ka</foreignphrase>-property:
+
+<informalexample><para><foreignphrase 
+lang="art-lojban">le pulji cu sisku leka ce'u tavla ce'u lenu jemna zerle'a</foreignphrase>
+                   
+</para></informalexample></para>
+
+<tip><para>... Almost. The two instances of <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase> don't necessarily refer to different people. 
+If you want to keep
+them straight, you'll have to use subscripts. Which you'll learn about... in some other
+course.</para></tip>
+
+<para>The main use for multiple instances of <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase> is our old friend <foreignphrase 
+lang="art-lojban">simxu</foreignphrase>: if we want to speak
+about reciprocality, we are very much interested in which two places are
+related in that reciprocality:
+
+<informalexample><para><foreignphrase 
+lang="art-lojban">mi ce do simxu leka ce'u tavla ce'u lenu
+jemna zerle'a</foreignphrase>
+                   
+</para></informalexample>There are some reciprocalities that can be distinguished
+nicely in this way: <foreignphrase 
+lang="art-lojban">simxu leka draci fi ce'u ce'u</foreignphrase> is a situation where
+people take turns writing plays for each other, while <foreignphrase 
+lang="art-lojban">simxu leka draci fo
+ce'u ce'u</foreignphrase> is a situation where people take turns performing plays for
+each other.</para>
 
 <note><para>The quantity abstractor, <foreignphrase lang="art-lojban">ni</foreignphrase>
 <quote role="gloss">the amount by which...</quote> can also take <foreignphrase 
@@ -1327,7 +1436,8 @@ tavla mi mu'i ma kau</foreignphrase> (Same goes for <foreignphrase
 lang="art-lojban">mu'i ma kau</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">mi ba'o cusku lesedu'u mi 
-pu jinvi ledu'u ma kau bebna</foreignphrase> (Yes, Lojban can get prolix...)</para></listitem>
+pu jinvi ledu'u ma kau bebna</foreignphrase> (Yes, Lojban can get 
+prolix...)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">ko cusku lesedu'u le 
 birje cu zvati ma kau</foreignphrase> or <foreignphrase 
@@ -1371,8 +1481,11 @@ can worry about more in your further Lojban studies. See
 <listitem><para><foreignphrase lang="art-lojban">ka mamta ce'u</foreignphrase> or <foreignphrase lang="art-lojban">ka 
 ce'u se mamta</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka ce'u po'u mi simsa la
-arnold. cfartseneger.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la
+arnold. cfartseneger. kei poi ckaji mi</foreignphrase> (or, of course,
+<foreignphrase lang="art-lojban">du'u mi simsa la
+arnold. cfartseneger.</foreignphrase>, which actually means the same 
+thing.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">ka xanka vi 
 ce'u</foreignphrase>. A little contrived, we admit.</para></listitem>

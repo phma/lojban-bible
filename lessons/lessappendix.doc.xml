@@ -158,7 +158,83 @@ you can try using these instead.</para>
 
 <sect1 id="lessAcehu"><title>Unfilled places in <foreignphrase
 lang="art-lojban">ka</foreignphrase>-abstractions</title>
-<para></para>
+
+<para>When there is no <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> in the abstraction, there is some controversy
+as to how the <foreignphrase lang="art-lojban">ka</foreignphrase>-abstraction is to
+be interpreted. In many instances, the existence of a slot to be filled by 
+<foreignphrase lang="art-lojban">ce'u</foreignphrase> is required by the definition of 
+the <foreignphrase lang="art-lojban">bridi</foreignphrase> itself. For example,
+<foreignphrase lang="art-lojban">sisku leka pensi</foreignphrase> makes no sense, unless 
+you are looking for a specific something that fits a <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase> slot in <foreignphrase 
+lang="art-lojban">pensi</foreignphrase>.</para>
+
+<para>For such instances, the location of
+<foreignphrase lang="art-lojban">ce'u</foreignphrase> is ambiguous, and <citetitle>The
+Complete Lojban Language</citetitle> mentions no
+convention having arisen, like with <foreignphrase
+lang="art-lojban">ke'a</foreignphrase>, on where it goes by default. The current
+default assumption is that <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase> here behaves like <foreignphrase 
+lang="art-lojban">ke'a</foreignphrase>, and occupies the first empty place.
+This means that, while 
+<foreignphrase lang="art-lojban">le ka xlura</foreignphrase> without <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase>
+can potentially mean both <quote role="gloss">influence</quote> and <quote
+role="gloss">susceptibility</quote>, the default assumption is that it means <quote 
+role="gloss">influence</quote>, while <foreignphrase
+lang="art-lojban">le ka se xlura</foreignphrase> means <quote role="gloss">susceptibility</quote>. Likewise, <foreignphrase lang="art-lojban">le ka 
+xendo</foreignphrase> can usually be assumed to mean <foreignphrase lang="art-lojban">le 
+ka ce'u xendo</foreignphrase> <quote role="gloss">the property of people being 
+kind</quote>, and probably not <foreignphrase lang="art-lojban">le ka xendo fi 
+ce'u</foreignphrase> <quote role="gloss">the property of an action being
+something in which kindness is shown</quote> (although that action 
+<emphasis>is</emphasis> frequently what is meant in English by 
+<wordasword>kindness</wordasword>.)</para>
+
+<para>A more contentious issue is, whether this should hold for all <foreignphrase 
+lang="art-lojban">ka</foreignphrase>-abstraction, wherever they may occur. For
+example, does <foreignphrase lang="art-lojban">mi tavla leka xendo</foreignphrase>
+mean the same thing as <foreignphrase lang="art-lojban">mi tavla leka ce'u xendo zo'e 
+zo'e</foreignphrase>? Are you saying you are talking about kindness, as a property 
+specifically applied to the person showing the kindness?</para>
+
+<para>The majority view as of this writing is yes. This means that <foreignphrase 
+lang="art-lojban">ka</foreignphrase> is treated the same, whether it appears as a
+<foreignphrase lang="art-lojban">sumti</foreignphrase> of <foreignphrase 
+lang="art-lojban">sisku</foreignphrase> or <foreignphrase 
+lang="art-lojban">tavla</foreignphrase>.</para>
+
+<para>The catch is, when <foreignphrase 
+lang="art-lojban">ka</foreignphrase> was originally invented, <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase> didn't exist yet. And the original definition 
+of <foreignphrase lang="art-lojban">ka</foreignphrase> refers not to properties
+at all, but to qualities.</para>
+
+<para><wordasword>Property</wordasword> and <wordasword>quality</wordasword> are
+fairly abstract, as words of English go, so this may not seem to make any difference. 
+However, the objection that has been raised is that <foreignphrase 
+lang="art-lojban">ka</foreignphrase> shouldn't always be regarded as singling out one or 
+two places. The quality of kindness, it is argued, does not single out the person
+being kind, or the person to whom the kindness is shown (which is what a property
+does.) Instead, it concentrates
+only on the <foreignphrase lang="art-lojban">selbri</foreignphrase> of the 
+relationship: what it means to say that a relationship of kindness holds, whoever
+is involved in it.</para>
+
+<para>This view is not universally held; at least some of the Lojbanists who think 
+<foreignphrase lang="art-lojban">ka</foreignphrase> is all about being a property
+of something specific, think this notion is better expressed instead by <foreignphrase 
+lang="art-lojban">si'o</foreignphrase>, the abstractor defined as <quote 
+role="gloss">idea, concept</quote>.</para>
+
+<para>Talk at this level of abstraction is not something you're likely to run into
+the moment you start using Lojban. It does explain, however, why you'll see 
+<wordasword>property</wordasword> used a lot here, but <wordasword>quality</wordasword> 
+a lot elsewhere. It may also explain why you will see some grown Lojbanists blanch
+at the sight of a <foreignphrase lang="art-lojban">ce'u</foreignphrase>...</para>
+
 </sect1>
 
 </appendix>
