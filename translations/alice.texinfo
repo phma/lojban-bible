@@ -6,7 +6,7 @@
 @c %**end of header
 
 @c Thanks to the Gutenberg project for the original text.
-@c http://www.guntenberg.net.  Feel free to send them donations!
+@c http://www.gutenberg.net/.  Feel free to send them donations!
 
 
 
