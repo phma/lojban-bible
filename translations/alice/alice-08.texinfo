@@ -18,9 +18,9 @@
 
 i lo barda ke rozgu tricu cu jibni le vorme be le purdi i le rozgu poi
 xrula ty cu blabi i ku'i ci purdykurji cu cintypunji ry ja'e le nu xunre
-i la alis cu pensi le nu mutce cizra kei gi'e jbimaukla tezu'e le nu
-catlu kei gi'e tirna ca le nu ba'o klama kei le nu pa le purdykurji cu
-cusku lu o'i doi mum ko na renro lo cinta mi li'u
+i la alis cu pensi jivni le du'u mutce cizra kei gi'e jbimaukla tezu'e 
+le nu catlu kei gi'e tirna ca le nu ba'o klama kei le nu pa le purdykurji 
+cu cusku lu o'i doi mum ko na renro lo cinta mi li'u
 
 @c      `I couldn't help it,' said Five, in a sulky tone; `Seven jogged
 @c    my elbow.'
@@ -31,14 +31,14 @@ li'u
 @c      On which Seven looked up and said, `That's right, Five!  Always
 @c    lay the blame on others!'
 
-i ca la'e di'u la zel galcatlu gi'e cusku lu e'e doi mum roroi zungygau
-lo drata li'u
+i ca la'e di'u la zel galcatlu gi'e cusku lu e'e doi mum ko roroi 
+zungygau lo drata li'u
 
 @c      `YOU'D better not talk!' said Five.  `I heard the Queen say only
 @c    yesterday you deserved to be beheaded!'
 
 i lu ei ba'e do na tavla sei la mum cusku i ti'e le noltruni'u cu xusra
-ca le purlamdei le du'u ei do se sedvi'u li'u
+ca le purlamdei le du'u ei vimcu le stedu do li'u
 
 @c      `What for?' said the one who had spoken first.
 
@@ -51,7 +51,7 @@ i lu la'e di'u ba'e do na cuntu doi rel sei la zel cusku li'u
 @c      `Yes, it IS his business!' said Five, `and I'll tell him--it
 @c    was for bringing the cook tulip-roots instead of onions.'
 
-i lu ba'e ja'a go'i sei la mum cusku i mi ry jungau i krinu fa le nu
+i lu ba'e ja'a go'i sei la mum cusku i mi ta jungau i krinu fa le nu
 sabji loi tulji genja enaiba'ibo loi sluni le jukpa li'u
 
 @c      Seven flung down his brush, and had just begun `Well, of all
@@ -60,7 +60,7 @@ sabji loi tulji genja enaiba'ibo loi sluni le jukpa li'u
 @c    others looked round also, and all of them bowed low.
 
 i la zel bikygau le burcu gi'e co'a cusku lu ua verai lei ro toldra
-li'u icabo le zy kanla cu cunso farna la alis noi sanli je catlu
+li'u icabo le zy kanla cu cunso se farna la alis noi sanli gi'e catlu
 lei purdykurji i zy ze'i sezyzunti i lei ji'a drata cu trixe catlu
 i ro py dizlo krobi'o
 
@@ -85,8 +85,8 @@ i la mum e la zel cusku noda gi'e catlu la rel i la rel co'a kandi
 voksa cusku lu je'u sa'u doi citni'u ei ti ba'e xunre rozgu tricu i
 mi'a pu srera le nu sombo lo blabi i va'o le nu le noltruni'u cu
 facki la'e di'u kei ro mi'a ba katna te vimcu le stedu i to'u sa'u
-doi citni'u mi'a zukte le mi'a xagrai pu le nu ny klama li'o li'u i
-caku la mum noi pu ca'o xanka catlu le purdi cu krixa lu le noltruni'u
+doi citni'u mi'a zukte le mi'a xagrai pu le nu ny klama li'u i caku 
+la mum noi pu ca'o xanka catlu le purdi cu krixa lu le noltruni'u
 i le noltruni'u li'u i le ci purdykurji cu sezre'o ja'e le nu le flira
 cu cpana le loldi i da sance so'i nu stapa i la alis cu sruri catlu
 gi'e djica le nu viska le noltruni'u
@@ -105,18 +105,19 @@ gi'e djica le nu viska le noltruni'u
 @c    King's crown on a crimson velvet cushion; and, last of all this
 @c    grand procession, came THE KING AND QUEEN OF HEARTS.
 
-i pamoi klama fa pano sonci noi bevri loi grana i sy mintu lei purdykurji
+i klama pamoi fa pano sonci noi bevri loi grana i sy mintu lei purdykurji
 le ka makau tarmi ce'u kei no'u le ka ce'u clani kurfa gi'e plita gi'e se
 kojna le xance e le jamfu i jersi fa lei pano nolkansa noi ricfu se jadni
 lei tabjme gi'e remei cadzu du'i tu'a lei sonci i jersi fa lei noltru
 panzi noi panomei i lei cmalu dirba cu gleki plipe klama co xance jgari
-remei i ro py se jadni loi risna i jersi fa lei vitke i so'e vy cu
-noltrunau gi'a noltruni'u i la alis fakyvi'a la blabi ractu noi jbini vy
+remei i roboi py se jadni loi risna i jersi fa lei vitke i so'eboi vy cu
+noltrunau gi'a noltruni'u i la alis fakyvi'a le blabi ractu noi jbini vy
 i ry sutra je xanka tavla gi'e cisma frati ro se cusku gi'e pagre klama
 secau le nu sanji abu i jersi fa le risna nolse'u noi bevri le noltrunau
-mapku sepi'o lo zirxu'e ranbu'u kicne i romoi be le banli dzupoi be'o
-klama fa le noltrunau e le noltruni'u vu'ope lei risna
-@c {so'e vy cu noltrunau} does not parse.
+mapku sepi'o lo zirxu'e ranbu'u kicne i romoi be le banli dzupoi fa le 
+noltrunau kujoi le noltruni'u vu'ope lo'e risna
+
+@c {so'e vy cu noltrunau} does not parse.  ---fixed
 
 @c      Alice was rather doubtful whether she ought not to lie down on
 @c    her face like the three gardeners, but she could not remember
@@ -125,9 +126,9 @@ klama fa le noltrunau e le noltruni'u vu'ope lei risna
 @c    had all to lie down upon their faces, so that they couldn't see it?'
 @c    So she stood still where she was, and waited.
 
-i la alis cu senpi le du'u xukau ei cnita flira vreta si'a tu'a lei ci
+i la alis cu senpi le du'u xukau ei cnita flira vreta tai tu'a lei ci
 purdykurji i ku'i abu na morji le du'u ti'e la'e di'u dzupoi javni i lu
-ji'a ma te pilno lo dzupoi sei abu pensi va'o le nu ei ro da cnita flira
+ji'a ma ma prali lo dzupoi sei abu pensi va'o le nu ei ro da cnita flira
 vreta ja'e le nu ka'enai viska dy li'u iseki'ubo abu sanli le abu se zvati
 gi'e denpa
 
@@ -135,9 +136,9 @@ gi'e denpa
 @c    and looked at her, and the Queen said severely `Who is this?'
 @c    She said it to the Knave of Hearts, who only bowed and smiled in reply.
 
-i ca le nu le dzupoi cu crane la alis kei roda cu sisti gi'e catlu abu i le
-noltruni'u junri cusku lu ti mo li'u i ny di'u cusku le risna nolse'u noi
-krobi'o je cisma spuda
+i ca le nu le dzupoi cu crane la alis kei roda sisti gi'e catlu abu i le
+noltruni'u cu junri cusku lu ti mo li'u i ny di'u cusku le risna nolse'u 
+noi spuda fi le nu po'o krobi'o je cisma
 
 @c      `Idiot!' said the Queen, tossing her head impatiently; and,
 @c    turning to Alice, she went on, `What's your name, child?'
@@ -150,7 +151,7 @@ ny di'a cusku lu ma do cmene doi verba li'u
 @c    cards, after all.  I needn't be afraid of them!'
 
 i lu zo alis mi cmene doi banli nobli sei la alis clite mutce cusku li'u
-i ku'i abu jmina sezysku lu ua ta karda ga'i romei i einai mi terpa li'u
+i ku'i abu jmina sezysku lu ua ta karda ga'i romei i ei mi na terpa li'u
 
 @c      `And who are THESE?' said the Queen, pointing to the three
 @c    gardeners who were lying round the rosetree; for, you see, as
@@ -163,12 +164,12 @@ i lu ba'e ti mo sei le noltruni'u cu farja'o be lei ci purdykurji noi
 vreta ru'u le rozgu tricu be'o cusku li'u i ca le nu py cnita flira vreta
 kei ki'u le nu le morna be le trixe cu mintu le me ro drata moi kei
 ny ka'enai djuno le du'u py purdykurji gi'ikau sonci gi'ikau nolkansa
-gi'ikau me le ny panzi cimei
+gi'ikau panzi be ny cimei
 
 @c      `How should I know?' said Alice, surprised at her own courage.
 @c    `It's no business of MINE.'
 
-i lu a'unai sei la alis noi se spaji le nu abu darsi cu cusku i na
+i lu a'ucu'i sei la alis noi se spaji le nu abu darsi cu cusku i na
 cuntu ba'e mi li'u
 
 @c      The Queen turned crimson with fury, and, after glaring at her
@@ -177,25 +178,25 @@ cuntu ba'e mi li'u
 
 i le noltruni'u cu binxo lo xunzi'u seri'a le nu fengu i ba le nu catlu
 abu zi lo mokca tai tu'a lo cilce danlu kei ny krixa lu ko le stedu ta
-vimcu i ko li'o li'u
+vimcu i ko li'u
 
 @c      `Nonsense!' said Alice, very loudly and decidedly, and the
 @c    Queen was silent.
 
-i lu tolracli sei la alis cladu je birti cusku li'u i le noltruni'u
+i lu nonselsmu sei la alis cladu je birti cusku li'u i le noltruni'u
 cu smaji
 
 @c      The King laid his hand upon her arm, and timidly said
 @c    `Consider, my dear:  she is only a child!'
 
-i le noltrunau cu punji le xance le birxa be le noltruni'u gi'e toldarsi
-cusku lu ko pensi doi dirba le nu abu verba li'u
+i le noltrunau cu punji le xance le birka be le noltruni'u gi'e toldarsi
+cusku lu ko pensi doi dirba le nu ta verba li'u
 
 @c      The Queen turned angrily away from him, and said to the Knave
 @c    `Turn them over!'
 
-i le noltruni'u cu tolfargau le noltrunau gi'e cusku lu ko ta fa'ergau li'u
-le nolse'u
+i le noltruni'u cu torni to'o le noltrunau gi'e cusku lu ko ta fa'ergau 
+li'u le nolse'u
 
 @c      The Knave did so, very carefully, with one foot.
 
@@ -205,10 +206,11 @@ i le nolse'u cu kurji mutce co'e sepi'o lo jamfu
 @c    three gardeners instantly jumped up, and began bowing to the
 @c    King, the Queen, the royal children, and everybody else.
 
-i lu ko sanli sei le noltruni'u sepi'o lo cpina je cladu voksa cu
-cusku li'u i le ci purdykurji ze'i sa'irbi'o gi'e co'a korcu rinsa
-le noltrunau e le noltruni'u e le noltru panzi e ro drata
-@c cpina ki'a voksa?
+i lu ko sanli sei le noltruni'u cu cpina je cladu voksa cusku li'u 
+i le ci purdykurji ze'i sa'irbi'o gi'e co'a korcu rinsa le noltrunau 
+e le noltruni'u e le noltru panzi e ro drata
+
+@c cpina ki'a voksa?  --cpina le tirna te ganse
 
 @c      `Leave off that!' screamed the Queen.  `You make me giddy.'
 @c    And then, turning to the rose-tree, she went on, `What HAVE you
@@ -221,7 +223,7 @@ i fa'a le rozgu tricu ny di'a cusku lu do ma ca'o vi zukte li'u
 @c    going down on one knee as he spoke, `we were trying--'
 
 i lu doi banli nobli sei la rel ca le nu cpanygau lo cidni le foldi
-cu cumla mutce tonga cusku i mi'a troci li'o li'u
+cu cumla mutce tonga cusku i mi'a troci li'u
 
 @c      `I see!' said the Queen, who had meanwhile been examining the
 @c    roses.  `Off with their heads!' and the procession moved on,
@@ -230,8 +232,8 @@ cu cumla mutce tonga cusku i mi'a troci li'o li'u
 
 i lu je'e li'a sei le noltruni'u noi pu ca'o lanli lei rozgu cu cusku
 i ko le stedu ta vimcu li'u i le dzupoi cu di'a muvdu i ci le sonci cu
-stali mu'i le nu selmidycatra lei malselfu'a purdykurji noi bajra fa'a
-la alis mu'i le nu se marbi
+stali mu'i le nu selmidycatra lei mabla selfu'a purdykurji noi bajra 
+fa'a la alis mu'i le nu se marbi
 
 @c      `You shan't be beheaded!' said Alice, and she put them into a
 @c    large flower-pot that stood near.  The three soldiers wandered
@@ -249,7 +251,7 @@ i lu xu le stedu ba'o se vimcu sei le noltruni'u cu krixa li'u
 @c      `Their heads are gone, if it please your Majesty!' the soldiers
 @c    shouted in reply.
 
-i lu le stedu pu canci doi banli nobli sei lei sonci cu spuda krixa li'u
+i lu le stedu ba'o canci doi banli nobli sei lei sonci cu spuda krixa li'u
 
 @c      `That's right!' shouted the Queen.  `Can you play croquet?'
 
@@ -275,8 +277,9 @@ le dzupoi gi'e kucli le du'u makau ba fasnu
 @c    She was walking by the White Rabbit, who was peeping anxiously
 @c    into her face.
 
-i lu y melbi i y melbi djedi sei lo mutce toldarsi se voksa re'o abu
-cusku li'u i abu cadzu re'o la blabi ractu noi ze'i catlu le abu flira
+i lu y melbi i y melbi djedi sei lo mutce toldarsi se voksa ne'a abu
+cusku li'u i abu ca'o cadzu re'o le blabi ractu noi ze'i catlu le 
+abu flira
 
 @c      `Very,' said Alice:  `--where's the Duchess?'
 
@@ -287,10 +290,10 @@ i lu mutce sei la alis cusku i la noltroni'u ma zvati li'u
 @c    himself upon tiptoe, put his mouth close to her ear, and
 @c    whispered `She's under sentence of execution.'
 
-i lu o'i o'i sei la ractu cu tolcladu je sutra tonga cusku li'u i ry
+i lu o'i o'i sei le ractu cu lauble je sutra tonga cusku li'u i ry
 xanka catlu ga'u le janco ca le nu tavla kei gi'e sezgalgau co cpana
-lei jmadegji gi'e jbigau le moklu le abu kerlo gi'e tolylausku lu ri
-ba se selmidycatra li'u
+lei jmadegji gi'e jbigau le moklu le abu kerlo gi'e lauble cusku lu 
+ri ba se selmidycatra li'u
 
 @c      `What for?' said Alice.
 
@@ -298,7 +301,7 @@ i lu ma krinu sei la alis cusku li'u
 
 @c      `Did you say "What a pity!"?' the Rabbit asked.
 
-i lu xu do pu cusku lu mi kecti li'u sei la ractu cu retsku li'u
+i lu xu do pu cusku lu mi kecti li'u sei le ractu cu retsku li'u
 
 @c      `No, I didn't,' said Alice:  `I don't think it's at all a pity.
 @c    I said "What for?"'
@@ -312,9 +315,9 @@ krinu li'u li'u
 @c    rather late, and the Queen said--'
 
 i lu ra darxi lei kerlo be le noltruni'u sei la ractu co'a cusku li'u
-i la alis cmila krixa i lu o'i sei la ractu cu terpa tonga tolylausku
-i le noltruni'u do ba tirna i no'i ra lerci klama i le noltruni'u cu
-cusku li'o li'u
+i la alis cmila krixa i lu o'i sei la ractu cu terpa tonga laurblesku
+i le noltruni'u do ba tirna i no'i ra pu lerci klama i le noltruni'u cu
+cusku li'u
 
 @c      `Get to your places!' shouted the Queen in a voice of thunder,
 @c    and people began running about in all directions, tumbling up
@@ -326,9 +329,9 @@ cusku li'o li'u
 @c    stand on their hands and feet, to make the arches.
 
 i lu ko zvati le medomoi sei le noltruni'u cu lidvru voksa cusku li'u
-i lei prenu co'a bajra fa'a roda gi'e jalsi'u i ku'i ba bredi zi lo mentu
+i lei prenu co'a bajra fa'a roda gi'e jalsi'u i ku'i bredi zi lo mentu
 be li paji'ire i le nu kelci cu cfari i la alis jinvi le du'u noroi le
-nu jmive pu viska lo ta'i kelcrkroke foldi i cpana joi skuro i le
+nu jmive kei pu viska lo tai kelcrkroke foldi i cpana joi skuro i le
 bolci cu jmive jesymabru i le mruli cu jmive fagycpi i le sonci cu
 krosa'ibi'o fi lei xance ku joi lei jamfu ja'e le nu bargu
 
@@ -350,16 +353,16 @@ krosa'ibi'o fi lei xance ku joi lei jamfu ja'e le nu bargu
 
 i le ralju be lei nandu be la alis ca le cfari cu nu jitro le fagycpi
 i abu snada le nu kufra banzu punji le fy xadni noi le tuple cu dandu
-ge'u le cnita be le abu birka i ku'i ta'e ca le nu ge le cnebo mo'u
-sirji gi abu bredi le nu darxi le jesymabru le fy stedu kei fy
-sezytongau gi'e catlu fa'a le abu flira gi'e se cfipu frumu ja'e le
-nu abu ka'enai rivbi le nu spoja cmila i ca le nu abu ba'o punji le
-fy stedu le dizlo gi'e pu'o za'ure'u co'a co'e kei xajmi mutce fa le
-nu facki le du'u le jesymabru pu nalbolbi'o gi'e ca'o klama lo darno
-i ji'a ta'eku lo cmana a lo skuro cu zunti ca le nu abu djica le nu
-benji le jesymabru i ki'u le nu le korcu sonci roroi sa'irgau gi'e
-dzukla lo drata pagbu be le foldi kei la alis jivbi'o le du'u le
-nunkei ja'a mutce le ka nandu
+ku'o le cnita be le abu birka i ku'i ta'e ca le nu ge le cnebo mo'u
+sirji gi abu bredi le nu darxi le jesymabru le fy stedu kei fy torni 
+gi'e catlu fa'a le abu flira gi'e se cfipu frumu ja'e le nu abu ka'enai 
+rivbi le nu spoja cmila i ca le nu abu ba'o punji le fy stedu le dizlo 
+gi'e pu'o za'ure'u co'a co'e cu xajmi mutce fa le nu facki le du'u le 
+jesymabru pu nalbolbi'o gi'e ca'o klama lo darno i ji'a ta'eku lo cmana 
+a lo skuro cu zunti ca le nu abu djica le nu benji le jesymabru i ki'u 
+le nu le korcu sonci roroi sa'irgau gi'e dzukla lo drata pagbu be le 
+foldi kei la alis jivbi'o le du'u le nunkei ja'a mutce le ka nandu
+
 @c {cpina} means "spicy" not "spiny". I suggest {jesymabru} (which
 @c could also be a spiny anteater) or {ernace}. -phma
 @c The x2 of {cpina} is the sense, which can be the sense of touch 
@@ -371,7 +374,7 @@ nunkei ja'a mutce le ka nandu
 @c    stamping about, and shouting `Off with his head!' or `Off with
 @c    her head!' about once in a minute.
 
-i ro le kelci cu mintu temci kelci gi'e na denpa le me ky moi gi'e
+i ro le kelci cu kelci ca le mintu gi'e na denpa le me ky moi gi'e
 ru'i toltugni gi'e damba fi lei jesymabru i baziku le noltruni'u
 cu fengu cinmo gi'e ca'o marxa cadzu gi'e krixa lu ko le stedu ta
 vimcu li'u a lu ko le stedu tu vimcu li'u ji'iparoi ro mentu
@@ -382,10 +385,10 @@ vimcu li'u a lu ko le stedu tu vimcu li'u ji'iparoi ro mentu
 @c    me?  They're dreadfully fond of beheading people here; the great
 @c    wonder is, that there's any one left alive!'
 
-la alis co'a cinmo le ka tolkufra i i'a abu za'o na damba le noltruni'u
-gi'e ku'i djuno le du'u ka'e bazi fasnu i lu va'o la'e di'usei abu pensi
-mi mo i vi nelci le nu vimcu le stedu le prenu i manci mutce fa le nu
-da stali le ka jmive li'u
+i la alis co'a cinmo le ka tolkufra i i'a abu za'o na damba le noltruni'u
+gi'e ku'i djuno le du'u ka'e bazi fasnu i lu va'o la'e di'u sei abu pensi
+mi mo i vi nelci lo'e nu vimcu lo'e stedu lo'e prenu i manci mutce fa le 
+nu da stali le ka jmive li'u
 
 @c      She was looking about for some way of escape, and wondering
 @c    whether she could get away without being seen, when she noticed a
@@ -394,16 +397,16 @@ da stali le ka jmive li'u
 @c    be a grin, and she said to herself `It's the Cheshire Cat:  now I
 @c    shall have somebody to talk to.'
 
-i abu sisku lo tadji be le nu zi'erbi'o kei gi'e pensi le du'u xukau abu
-ka'e cliva secau le nu se viska kei kei gi'e co'a sanji lo cizra
+i abu sisku lo'e tadji be le nu zi'erbi'o kei gi'e pensi le du'u xukau 
+abu ka'e cliva secau le nu se viska kei kei gi'e co'a sanji lo cizra
 tolcanci ne le vacri i ra cfipu abu ca le cfari i ku'i ba le nu catlu
 ra ze'a lo mentu be li paji'ire kei abu facki le du'u ra nu cisma kei
-gi'e sezysku lu ua la tcecrmlatu i caku mi da ka'e tavla li'u
+gi'e sezysku lu ua le tcicymlatu i caku mi da ka'e tavla li'u
 
 @c      `How are you getting on?' said the Cat, as soon as there was
 @c    mouth enough for it to speak with.
 
-i lu do mo sei la mlatu ca le nu da tavla banzu moklu cu cusku li'u
+i lu do mo sei le mlatu ca le nu da tavla banzu moklu cu cusku li'u
 
 @c      Alice waited till the eyes appeared, and then nodded.  `It's no
 @c    use speaking to it,' she thought, `till its ears have come, or at
@@ -413,11 +416,11 @@ i lu do mo sei la mlatu ca le nu da tavla banzu moklu cu cusku li'u
 @c    Cat seemed to think that there was enough of it now in sight, and
 @c    no more of it appeared.
 
-i la alis denpa le nu lei kanla cu tolcanci gi'e tu'ifru i lu na pilno
-le nu tavla my kei sei abu pensi pu le nu zvati fa le kerlo se.u su'o ri
-li'u i za lo drata mentu le mulno stedu cu tolcanci i la alis toljgari
-le fagycpi gi'e co'a te lisri le nunkei gi'e cinmo le ka gleki le nu
-da abu tirna i la mlatu cu simlu le ka pensi pirau my ca se viska i
+i la alis denpa le nu lei kanla cu tolcanci gi'e tu'ifru i lu na prali fi
+le nu tavla ta kei sei abu pensi pu le nu zvati fa le kerlo ado'anai su'o 
+ri li'u i za lo drata mentu le mulno stedu cu tolcanci i la alis toljgari
+le fagycpi gi'e co'a te lisri le nunkei gi'e cinmo le ka gleki le nu da 
+abu tirna i le mlatu cu simlu le ka jinvi le du'u pirau my ca se viska i
 no drata pagbu be my cu tolcanci
 
 @c      `I don't think they play at all fairly,' Alice began, in rather
@@ -432,12 +435,12 @@ no drata pagbu be my cu tolcanci
 
 i lu mi na jinvi le du'u tu ca'o stace kelci sei la alis co'a pante
 tonga cusku i ro tu da'arta'a ja'e le nu na ka'e tirna le nu tavla i
-tu simlu le ka na steci javni fi ce'u iseju va'o le nu ja'a javni kei
-no da jy jundi .i zmadu be le se djuno be do be'o be'o fi le du'u ro le
-dacti cu jmive i mu'a tu no'u le bargu poi ei mi ca pagre cu cadzu bu'u
-le drata fanmo be le foldi i mi pu'o darxi le jesymabru pe le
-noltruni'u i ku'i ue cy to'o bajra ca le nu viska le nu le memimoi cu
-jbikla li'u
+tu simlu le ka na steci javni fi ce'u ija do'anai va'o le nu ja'a javni 
+kei no da jy jundi i do na se xanri le du'u tai makau cfipu fa le du'u 
+ro le dacti cu jmive i mu'a le bargu poi ei mi ca pagre cu co'a cadzu 
+le drata fanmo be le foldi i mi pu'o darxi le jesymabru pe le noltruni'u 
+ije ku'i ue jy to'o bajra ca le nu viska le nu le memimoi cu jbikla li'u
+
 @c I think that should be {mi pu'o darxrkroke} meaning that one ball
 @c hits the other - as it is, it means that
 @c Alice and the hedgehog are opponents in croquet. -phma
@@ -445,7 +448,7 @@ jbikla li'u
 
 @c      `How do you like the Queen?' said the Cat in a low voice.
 
-i lu do nelci le noltruni'u sela'u ma sei la mlatu cu tolylau voksa
+i lu do nelci le noltruni'u sela'u ma sei le mlatu cu lauble voksa
 cusku li'u
 
 @c      `Not at all,' said Alice:  `she's so extremely--'  Just then
@@ -453,10 +456,10 @@ cusku li'u
 @c    she went on, `--likely to win, that it's hardly worth while
 @c    finishing the game.'
 
-i lu li no sei la alis cusku i ny mutce li'o li'u icaku abu sanji le
-nu le noltruni'u cu jibni trixe abu gi'e tirna i seki'ubo di'a cusku
-lu le ka lakne fa le nu ce'u jinga iseki'ubo na vamji le temci fa le
-nu mo'u kelci li'u
+i lu li no sei la alis cusku i ny mutce li'u icaku abu sanji le nu le 
+noltruni'u cu jibni trixe abu gi'e tirna i seki'ubo di'a cusku lu le 
+ka lakne fa le nu ce'u jinga iseki'ubo na vamji le temci fa le nu 
+mo'u kelci li'u
 
 @c      The Queen smiled and passed on.
 
@@ -466,12 +469,12 @@ i le noltruni'u cu cisma gi'e pagre
 @c    looking at the Cat's head with great curiosity.
 
 i do ma tavla sei le noltrunau cu cusku li'u i ny klama la alis gi'e
-mutce se cinri catlu le stedu be la mlatu
+mutce se cinri catlu le stedu be le mlatu
 
 @c      `It's a friend of mine--a Cheshire Cat,' said Alice:  `allow me
 @c    to introduce it.'
 
-i lu ta mi pendo i ta tcecrmlatu sei la alis cusku i e'apei mi do ta
+i lu ta mi pendo i ta tcicymlatu sei la alis cusku i e'apei mi do ta
 pengau li'u
 
 @c      `I don't like the look of it at all,' said the King:
@@ -482,13 +485,13 @@ i ku'i e'a ta cinba le mi xance va'o le nu pluka ta li'u
 
 @c      `I'd rather not,' the Cat remarked.
 
-i mi zmanei le nu na go'i sei la mlatu cu te pinka li'u
+i mi zmanei le nu na go'i sei le mlatu cu te pinka li'u
 
 @c      `Don't be impertinent,' said the King, `and don't look at me
 @c    like that!'  He got behind Alice as he spoke.
 
-i lu ko na tolsi'a sei le noltrunau cu cusku i ko mi na catlu ta'i ta li'u
-i ny ti'ekla la alis ca le nu tavla
+i lu ko na tolsi'a sei le noltrunau cu cusku i ko mi na catlu tai ta 
+li'u i ny klama le trixe be la alis ca le nu tavla
 
 @c      `A cat may look at a king,' said Alice.  `I've read that in
 @c    some book, but I don't remember where.'
@@ -500,14 +503,15 @@ di'u lo cukta i ku'i mi na morji le du'u cy mokau li'u
 @c    he called the Queen, who was passing at the moment, `My dear!  I
 @c    wish you would have this cat removed!'
 
-i lu ei ta se vimcu sei le noltrunau cu jdice cusku li'u i ny skuta'a le
-noltruni'u noi ca jibni pagre lu au doi dirba do da vicygau le vi mlatu li'u
+i lu ei ta se vimcu sei le noltrunau cu jdice cusku li'u i ny skuta'a 
+le noltruni'u noi ca jibni pagre lu au doi dirba do da vicygau le vi 
+mlatu li'u
 
 @c      The Queen had only one way of settling all difficulties, great
 @c    or small.  `Off with his head!' she said, without even looking
 @c    round.
 
-i le noltruni'u cu cikre tai pada ro nabmi noi barda ja cmalu i lu ko
+i le noltruni'u cu cikre ta'i pada ro nabmi noi barda ja cmalu i lu ko
 le stedu ta vimcu sei ny secau le nu fa'a catlu cu cusku li'u
 
 @c      `I'll fetch the executioner myself,' said the King eagerly, and
@@ -524,13 +528,12 @@ i ny sutra klama
 @c    such confusion that she never knew whether it was her turn or
 @c    not.  So she went in search of her hedgehog.
 
-i la alis cu jdice le nu rere'u klama gi'e viska le nu le nunkelci
-cu mokau icabo abu tirna le darno voksa be le nolturni'u noi cinmo
-krixa i abu ba'o tirna le nu ny minde le nu ci kelci cu se catra
-ki'u le nu ky na kelci ca le me ky moi i abu na nelci le jvinu be
-le cuntu ki'u le nu le nunkelci cu mutce le ka cfipu kei ja'e le nu
-abu noroi djuno le du'u xukau ca ei kelci i seki'ubo abu co'a sisku
-le abu jesymabru
+i la alis cu jdice le nu xruti gi'e viska le nu le nunkelci cu mokau 
+icabo abu tirna le darno voksa be le nolturni'u noi cinmo krixa i abu 
+ba'o tirna le nu ny minde le nu ci kelci cu se catra ki'u le nu ky na 
+kelci ca le me ky moi i abu na nelci le jvinu be le cuntu ki'u le nu 
+le nunkelci cu mutce le ka cfipu kei ja'e le nu abu noroi djuno le 
+du'u xukau ca ei kelci i seki'ubo abu co'a sisku le abu jesymabru
 
 @c      The hedgehog was engaged in a fight with another hedgehog,
 @c    which seemed to Alice an excellent opportunity for croqueting one
@@ -540,9 +543,9 @@ le abu jesymabru
 @c    into a tree.
 
 i le jesymabru ca'o damba lo drata jesymabru i la alis jinvi le du'u
-xautce prali la'e di'u le nu kelcrkroke pa cy le drata i le po'o nabmi
+la'e di'u xautce le nu kelcrkroke darxi pa cy le drata i le po'o nabmi
 cu nu le abu fagycpi ba'o klama le drata fanmo be le purdi be'o noi
-la alis viska le nu vi ke'a fy tolsnada troci le nu volkla lo tricu
+la alis viska le nu bu'u ke'a fy tolsnada troci le nu volkla lo tricu
 
 @c      By the time she had caught the flamingo and brought it back,
 @c    the fight was over, and both the hedgehogs were out of sight:
@@ -563,7 +566,7 @@ cliva kei gi'e xruti le nu jmina tavla le pendo
 @c    were all talking at once, while all the rest were quite silent,
 @c    and looked very uncomfortable.
 
-i ca le nu ba'o xruti tu'a la tcecrmlatu kei spaji abu fa le nu facki
+i ca le nu ba'o xruti tu'a le tcicymlatu kei spaji abu fa le nu facki
 le du'u lo prenu so'imei ba'o jmaji le sruri be ty i da'arsi'u fa le
 selse'icatra ku joi le noltrunau ku joi le noltruni'u vu'o noi ro lu'a
 ke'a cu tavla ca le mintu ca le nu ro drata cu smaji mutce gi'e
@@ -583,15 +586,15 @@ mutce le ka se nandu le nu jimpe le du'u makau se cusku
 @c    never had to do such a thing before, and he wasn't going to begin
 @c    at HIS time of life.
 
-i le selse'icatra seldau zo'u ka'enai katna vimcu lo stedu secau le nu
-da poi xadni zo'u ka'e katna vimcu sy da i sy noroi pu simsa zukte i ai
-na co'a go'i ca le sy ca nunjmive pagbu
+i le selse'icatra seldau zo'u ka'enai katna vimcu lo stedu secau lo'e 
+nu da poi xadni zo'u ka'e katna vimcu le stedu da i sy noroi pu zukte
+lo simsa i ai na co'a go'i ca le sy ca nunjmive pagbu
 
 @c      The King's argument was, that anything that had a head could be
 @c    beheaded, and that you weren't to talk nonsense.
 
 i le noltrunau seldau zo'u ro da poi ke'a se stedu zo'u da ka'e
-sedycaugau i ei na cusku lo nalylogji
+sedycaugau i ei na cusku lo nonselsmu
 
 @c      The Queen's argument was, that if something wasn't done about
 @c    it in less than no time she'd have everybody executed, all round.
@@ -600,13 +603,13 @@ sedycaugau i ei na cusku lo nalylogji
 
 i le noltruni'u seldau zo'u va'o le nu da na se zukte sera'a le cuntu
 zi lo mleca be lo temci pinosi'e kei gau ny ro da ba se selse'icatra
-to le romoi pinka ba'o rinka le nu piro le kansi'u cu simlu le ka mutce
+to le romoi pinka cu rinka le nu piro le kansi'u cu simlu le ka mutce
 le ka junri je xanka toi
 
 @c      Alice could think of nothing else to say but `It belongs to the
 @c    Duchess:  you'd better ask HER about it.'
 
-i la alis ka'e pensi le nu cusku no na'e bo lu ta se ponse la noltroni'u
+i la alis ka'e pensi le nu cusku no na'e bo lu ta se ponse le noltroni'u
 i e'u preti ta ko ba'e ny li'u
 
 @c      `She's in prison,' the Queen said to the executioner:  `fetch
@@ -620,7 +623,7 @@ klagau li'u i le selse'icatra cu klama tai tu'a lo danti
 @c    disappeared; so the King and the executioner ran wildly up and down
 @c    looking for it, while the rest of the party went back to the game.
 
-i le stedu be la mlatu co'a kadze'a ca le nu sy cliva kei gi ba'o mu'o
+i le stedu be le mlatu co'a kadze'a ca le nu sy cliva kei gi ba'o mu'o
 canci ca le nu sy xruti co kansa be le noltroni'u iseki'ubo le noltrunau
 e le selse'icatra cu cilce bajra gi'e sisku my ca le nu lei drata cu di'a
 kelci
