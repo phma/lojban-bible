@@ -326,8 +326,8 @@ lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba
 @c      `What a curious feeling!' said Alice; `I must be shutting up
 @c    like a telescope.'
 
-i lu ue cizra selga'e sei la alis cusku i ju'o mi se polje tai lo 
-darvistci li'u
+i lu ue cizra selga'e sei la alis cusku i ru'a ju'o mi se polje tai 
+tu'a lo darvistci li'u
 
 @c      And so it was indeed:  she was now only ten inches high, and
 @c    her face brightened up at the thought that she was now the right
@@ -340,6 +340,16 @@ darvistci li'u
 @c    like after the candle is blown out, for she could not remember
 @c    ever having seen such a thing.
 
+i ca'a co'e i caku abu cenmitre li so'u remu i le abu flira cu cambi'o
+seja'e le nu pensi le nu caku abu mapti le cmalu vorme le ka pagre
+fi le melbi purdi i ku'i pamai abu denpa le nu zgana le du'u xukau
+abu za'o brajdika i abu milxe le ka xanka la'e di'u i lu cumki fa le 
+nu co'e co'u sei la alis sezysku le nu mi mo'u canci tai tu'a lo 
+lakyga'a fagri i mi kucli le du'u mi makau simsa va'o da'i la'e di'u 
+li'u i abu troci le nu se xanri le nu lo lakyga'a fagri makau simsa
+ba le nu le lakyga'a cu se gusydicra i abu ka'enai morji lo nu viska
+lo tai dacti
+
 @c      After a while, finding that nothing more happened, she decided
 @c    on going into the garden at once; but, alas for poor Alice!
 @c    when she got to the door, she found she had forgotten the
@@ -349,6 +359,14 @@ darvistci li'u
 @c    up one of the legs of the table, but it was too slippery;
 @c    and when she had tired herself out with trying,
 @c    the poor little thing sat down and cried.
+
+i bazaku abu ca le nu facki le du'u no drata cu fasnu cu jdice le nu
+zi klama le purdi i ku'i la alis uu ca le nu tolcliva le vorme cu facki
+le du'u abu tolmorji tu'a le cmalu ke solji ckiku i ca le nu ba'o xruti
+le jubme tezu'e le nu cpacu cy cu facki le du'u le ni abu galtu na banzu 
+le nu cpacu cy i abu traji troci le nu cpare pa le tuple be le jubme i
+ku'i ty dukse le ka se sakli i abu uu ca le nu tatpi le nu troci cu 
+zutse gi'e klaku
 
 @c      `Come, there's no use in crying like that!' said Alice to
 @c    herself, rather sharply; `I advise you to leave off this minute!'
@@ -362,6 +380,16 @@ darvistci li'u
 @c    there's hardly enough of me left to make ONE respectable
 @c    person!'
 
+i lu e'e noda do prali le nu tai klaku sei la alis kinli sezysku i e'u
+ko cazi sisti li'u i abu ze'a sezystidi lo xamgu mutce to ku'i ta'enai
+zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e le nu gasnu le nu 
+le se klaku cu zvati le kanla i abu paroi sei morji cu troci le nu darxi
+le abu kerlo kei mu'i le nu abu abu tcica ca lo nu abu abu fapro le nu
+kelcrkroke i le vi cizra verba cu mutce le ka nelci le nu sruma le du'u
+du re prenu i lu ku'i noda mi ca prali sei la alis uu pensi le nu sruma 
+le du'u mi du re prenu i oi le mi ve vimcu na banzu le nu marji fi ba'e
+pa se sinma prenu li'u 
+
 @c      Soon her eye fell on a little glass box that was lying under
 @c    the table:  she opened it, and found in it a very small cake, on
 @c    which the words `EAT ME' were beautifully marked in currants.
@@ -369,6 +397,15 @@ darvistci li'u
 @c    I can reach the key; and if it makes me grow smaller, I can creep
 @c    under the door; so either way I'll get into the garden, and I
 @c    don't care which happens!'
+
+i bazi le nu abu catlu cu se farna lo cmalu ke blaci tanxe noi cnita
+le jubme i abu kargau ty gi'e facki le du'u nenri ty fa lo cmalu mutce
+titnanba noi bu'u ke'a lei valsi po'u lu ko mi citka li'u se morna 
+loi sudgrute i lu ai mi ti citka sei la alis cusku i va'o da'i le nu ti 
+mi barze'agau kei mi snada le nu cpacu le ckiku i va'o da'i le nu ti mi
+cmaze'agau kei mi kakne le nu reskla ni'a le vrogai i seki'ubo va'o le
+re fasnu kei mi ka'e klama le purdi i mi na se vajni le nu le mokau cu
+fasnu li'u
 
 @c      She ate a little bit, and said anxiously to herself, `Which
 @c    way?  Which way?', holding her hand on the top of her head to
@@ -379,12 +416,30 @@ darvistci li'u
 @c    that it seemed quite dull and stupid for life to go on in the
 @c    common way.
 
+i abu citka lo spisa gi'e xanka sezysku lu fa'a ma i fa'a ma li'u gi'e
+punji le xance le cpana be le stedu tezu'e le nu ganse le nu sy banro
+fa'a makau i abu mutce le ka spaji le nu facki le du'u abu stali le nu 
+barda mintu i li'a la'edi'u ta'e fasnu ca le nu citka lo titnanba i ku'i
+la alis tai se tcaci le nu ba'akau no na'e tolfadni cu fasnu kei ja'e 
+le nu simlu le ka tolzdile gi'e bebna kei fa le nu le nunjmive cu ca'o
+fadni
+
 @c      So she set to work, and very soon finished off the cake.
+
+i abu co'a co'e gi'e bazi mo'u citka le titnanba
 
 @c         *       *       *       *       *       *       *
 
 @c             *       *       *       *       *       *
 
 @c         *       *       *       *       *       *       *
+
+@format
+
+         *       *       *       *       *       *       *
+             *       *       *       *       *       *
+         *       *       *       *       *       *       *
+
+@end format
 
 
