@@ -1,10 +1,10 @@
 @node    remo'o, cimo'o, pamo'o, Top
-@chapter remo'o The Pool of Tears
+@chapter remo'o le se klaku lalxu
 
 @c                               CHAPTER II
 
 @c                            The Pool of Tears
-
+                              le se klaku lalxu
 
 @c      `Curiouser and curiouser!' cried Alice (she was so much
 @c    surprised, that for the moment she quite forgot how to speak good
@@ -18,6 +18,17 @@
 @c    kind to them,' thought Alice, `or perhaps they won't walk the
 @c    way I want to go!  Let me see:  I'll give them a new pair of
 @c    boots every Christmas.'
+
+i lu cizra je bizra sei la alis krixa to abu tai se spaji ja'e le nu 
+ze'a tolmorji le nu ta'i makau tavla bau le drani lojbo toi i caku mi
+se tolplo tai tu'a le brarai darvistci i co'o jamfu to ca le nu abu
+catlu lei abu jamfu kei jy simlu le ka jibni le nu ka'enai se viska
+ki'u le nu ca'o binxo lo tai darno toi i uu doi cmalu jamfu ma do ba
+dasygau lei do cutci ku joi lei do smoka doi dirba i ju'o mi ba ka'enai
+go'i i mi ba mutce dukse le ka darno do kei le nu kurji do i ko renvi
+ta'i le do xagrai cumki i ku'i ei mi jy xendo sei la alis pensi i va'o
+na'ebo la'e di'u ju'ocu'i jy na cadzu veka'a le mi se djica i ua ai mi
+dunda ca ro cevjbetersla lo cnino cutci remei li'u
 
 @c      And she went on planning to herself how she would manage it.
 @c    `They must go by the carrier,' she thought; `and how funny it'll
