@@ -11,8 +11,8 @@
 @c    silence:  at last the Caterpillar took the hookah out of its
 @c    mouth, and addressed her in a languid, sleepy voice.
 
-le ciftoldi ku joi la alis ze'a simxu le nu smaji catlu i bazubo 
-le ciftoldi bevri le nargile fo le moklu gi'e o'udai a'inaidai 
+le ciftoldi ku joi la alis ze'a simxu le nu smaji catlu i bazubo
+le ciftoldi bevri le nargile fo le moklu gi'e o'udai a'inaidai
 cusku fi abu
 
 @c stidi zo jaurdamtci seba'i lu marna tubnu li'u
@@ -31,7 +31,7 @@ i lu do du ba'e ma sei le ciftoldi cu cusku li'u
 @c    at least I know who I WAS when I got up this morning, but I think
 @c    I must have been changed several times since then.'
 
-i di'u na xamgu mukti le nu co'a casnu i la alis toldarsi spusku lu mi 
+i di'u na xamgu mukti le nu co'a casnu i la alis toldarsi spusku lu mi
 y i mi na'e mulno djuno doido'u ga'inai tu'a le cabna isa'unai mi djuno
 le du'u mi du makau ca le nu mi ckana cliva ca le cabycerni iku'i pe'i 
 mi so'oroi se galfi ba la'e di'u
@@ -216,7 +216,7 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @c     i ku'i do ru'i lolsanli le stedu
       i ue do le loldi le stedu cu sanli
       i do jinvi xu le du'u drani
-     
+
 @c Poetic license, I suppose. That means "you stand on a head which is on the floor",
 @c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
 @c I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
@@ -234,7 +234,7 @@ i la alis polje lei xance gi'e co'a co'e di'e
       i ku'i do plipe puzi vi le vorme
       i ma krinu le nu ka'e go'i
 
-      i ca le mi nunci'o sei le ruskre prije 
+      i ca le mi nunci'o sei le ruskre prije
       cu cusku mi rotsu se xadni
       sepi'o le vi kruji noi fepni li pa
       i xu do te vecnu lo remei
@@ -242,12 +242,12 @@ i la alis polje lei xance gi'e co'a co'e di'e
       i do tolci'o sei cusku i se xedja co ruble
       fi ro da poi jarmau lo grasu
       i ku'i le gunse do mu'o se citka
-      i a'u ta'i ma do snada  
+      i a'u ta'i ma do snada
 
       i ca le mi nunci'o mi flara'a gunka
       gi'e roda le speni cu darlu
       i le jalge ke sluji kamtsa pe le xedja
-      cu renvi fi le mi nunjmive  
+      cu renvi fi le mi nunjmive
 
       i do tolci'o sei cusku i nandu co sruma
       le nu le do kanla cu vlipa
@@ -388,7 +388,7 @@ xejni'a i ri darxi le jamfu
 i abu carmi terpa le suksa nunstika iku'i cinmo le nu ei na fesygau
 le temci mu'i lenu abu sutra tolba'o ije zi co'a zukte lenu citka piso'u
 le drata cmalu i le abu xedja cu tai tagji te damre le jamfu ja'e le nu
-carmi nandu fa lenu kargau le moklu iku'i ca le fanmo cu kargau gi'e 
+carmi nandu fa lenu kargau le moklu iku'i ca le fanmo cu kargau gi'e
 snada lenu tulcti lo pagbu be le zunle cmalu
 
 @c         *       *       *       *       *       *       *
@@ -413,7 +413,7 @@ snada lenu tulcti lo pagbu be le zunle cmalu
 @c    far below her.
 
 i lu ua le stedu be mi cu zifre li'u se cusku la alis fi'o tonga le ka gleki
-poi bazi binxo le ka tepselspaji kei ca lenu facki le du'u na ka'e tolcri 
+poi bazi binxo le ka tepselspaji kei ca lenu facki le du'u na ka'e tolcri
 le janco i abu fa'ani'a catlu gi'e viska lo tcebra clani cnebo po'o
 noi stani simsa sanli le xamsi be fi lo ni'azu crino pezli
 
@@ -479,7 +479,7 @@ noda lo'e since cu pluka li'u
 @c    use in saying anything more till the Pigeon had finished.
 
 i la alis zenba le ka cfipu ce'u iku'i abu pensi le du'u noda prali
-le nu jmina cusku pu lenu la tcacpi cu mu'o tavla 
+le nu jmina cusku pu lenu la tcacpi cu mu'o tavla
 
 @c      `As if it wasn't trouble enough hatching the eggs,' said the
 @c    Pigeon; `but I must be on the look-out for serpents night and
@@ -492,7 +492,7 @@ jeftu be li ci mi sipna noda li'u
 @c      `I'm very sorry you've been annoyed,' said Alice, who was
 @c    beginning to see its meaning.
 
-i lu mi mutce xenru le nu do se fanza sei la alis noi co'a jimpe 
+i lu mi mutce xenru le nu do se fanza sei la alis noi co'a jimpe
 le smuni be fi cy cu cusku li'u
 
 @c      `And just as I'd taken the highest tree in the wood,' continued
@@ -537,7 +537,7 @@ bazi cusku le sedu'u do ze'epu na vu'izga lo sovda li'u
 @c    serpents do, you know.'
 
 i lu mi ja'a vu'izga lo sovda sei la alis noi mutce jetsku verba
-cu cusku iku'i ka'u lo'e cmalu nixli cu dunli lo'e since le ni 
+cu cusku iku'i ka'u lo'e cmalu nixli cu dunli lo'e since le ni
 citka lo'e sovda li'u
 
 @c      `I don't believe it,' said the Pigeon; `but if they do, why
@@ -553,17 +553,17 @@ since da i mi ja'o cusku di'u li'u
 @c    serpent?'
 
 i le sidbo tai cnino la alis ja'e le nu abu smaji ze'a lo mentu be
-li paji'ire i la'e di'u curmi le nu le tcacpi cu jmina lu ju'osai
-do sisku lo'e sovda i na vajni mi fa le du'u do cmalu nixli gi'ikau 
-since li'u 
+li pabi'ire i la'e di'u curmi le nu le tcacpi cu jmina lu ju'osai
+do sisku lo'e sovda i na vajni mi fa le du'u do cmalu nixli gi'ikau
+since li'u
 
 @c      `It matters a good deal to ME,' said Alice hastily; `but I'm
 @c    not looking for eggs, as it happens; and if I was, I shouldn't
 @c    want YOURS:  I don't like them raw.'
 
 i lu mutce vajni ba'e mi sei la alis sutra cusku i ku'i mi na sisku
-lo'e sovda ca'aku i ji'a romu'ei le du'u mi go'i kei mi na djija lei
-me do moi i mi na nelci lo'e nalseljukpa sovda li'u 
+lo'e sovda ca'aku i ji'a romu'ei le du'u mi go'i kei mi na djica lei
+me do moi i mi na nelci lo'e nalseljukpa sovda li'u
 
 @c      `Well, be off, then!' said the Pigeon in a sulky tone, as it
 @c    settled down again into its nest.  Alice crouched down among the
@@ -576,12 +576,12 @@ me do moi i mi na nelci lo'e nalseljukpa sovda li'u
 @c    succeeded in bringing herself down to her usual height.
 
 i lu ko cliva va'oku sei le tcacpi cu tolxendo tonga cusku li'u i ty
-za'ure'u zutse le ty zdani i la alis dzikla le jbini be lei tricu 
-serai le kamxamgu verai lei selka'e va'o le nu le abu cnebo ku joi lei 
-jimca cu za'o se jgena i so'iroiku abu bilga le nu tolselto'i cy i 
-baku abu morji le nu abu za'o jgari lei gumri spisa lei xance i abu 
-co'a junri zukte le nu citka pa spisa pamai e le drata remai i abu 
-su'oroi zenba gi'e su'oroi jdika iromai abu snada le nu tcaci clani 
+za'ure'u zutse le ty zdani i la alis dzikla le jbini be lei tricu
+serai le kamxamgu verai lei selka'e va'o le nu le abu cnebo ku joi lei
+jimca cu za'o se jgena i so'iroiku abu bilga le nu tolselto'i cy i
+baku abu morji le nu abu za'o jgari lei gumri spisa lei xance i abu
+co'a junri zukte le nu citka pa spisa pamai e le drata remai i abu
+su'oroi zenba gi'e su'oroi jdika iromai abu snada le nu tcaci clani
 
 @c      It was so long since she had been anything near the right size,
 @c    that it felt quite strange at first; but she got used to it in a

@@ -775,13 +775,22 @@ joi la lyVAN. joi la xatseROT. joi la diza'AV.
 
 @c    6:6. And these words which I command thee this day, shall be in thy
 @c    heart:
+6:6. .i di'u poi mi ca minde ke'a do nenri le risna be ko
+@c This of course implies that the words are blood. Does this make any sense,
+@c even metaphorically?
 
 @c    6:7. And thou shalt tell them to thy children, and thou shalt meditate
 @c    upon them sitting in thy house, and walking on thy journey, sleeping
 @c    and rising.
+6:7. .ije di'u lisri fi le do panzi ko .ije ko pensi di'u calenu do zutse
+nenri le zdani be do gi'a klama fo lo dargu gi'a sipna gi'a sanli
+@c dargu? pluta? klaji?
 
 @c    6:8. And thou shalt bind them as a sign on thy hand, and they shall be
 @c    and shall move between thy eyes.
+6:8. .i ko lasna di'u no'u lo sinxa le xance be do .i di'u mortci jbini
+le kanla be do
+@c mortci: "totafot" is replaced in a parallel passage with "zikharon".
 
 @c    6:9. And thou shalt write them in the entry, and on the doors of thy
 @c    house.
