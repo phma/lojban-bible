@@ -278,6 +278,11 @@
 @c    Isaac, and the God of Jacob hath sent me to you; this is my name for
 @c    ever, and this is my memorial unto all generations.
 
+i le cevni cu za'ure'u cusku fi la moCES fe lu ko cusku di'u le lanzu pe
+le bronai i lu la turni poi cevni lei dzena be do zi'epoi cevni la avra'AM
+zi'epoi cevni la iitsxak zi'epoi cevni la iaKOV cu benji mi do i cmene mi
+ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
+
 @c    3:16. Go and gather together the ancients of Israel, and thou shalt say
 @c    to them:  The Lord God of your fathers, the God of Abraham, the God of
 @c    Isaac, and the God of Jacob, hath appeared to me, saying:  Visiting I
@@ -2219,11 +2224,15 @@ le cmene be la .iaves noi cmene da zo'u la .iaves na xusra ledu'u da zercau
 20:11. .iki'ubo la .iaves cu zbasu le terdi .e le xamsi .e le se vasru be ri
 ca'o lo djedi be li xa gi'e surla ca'o le zemoi djedi .iseki'ubo la .iaves
 cu toldapma gi'e cesri'a le zemoi djedi
+@c zo toldapma cu xlatce pe'i i cu'i zo zabna cu mapti zmadu mi'e adam
 
 @c    20:12. Honour thy father and thy mother, that thou mayst be longlived
 @c    upon the land which the Lord thy God will give thee.
 20:12. .i ko salci [?] le do patfu .e ledo mamta mu'i lenu do clatei jivni
-fi'o se xabju le tumla poi la .iaves noi cevni do ku'o cu dandu fi do
+fi'o se xabju le tumla poi la .iaves noi cevni do ku'o cu dundu fi do
+@c i mi stidu zo sinma peseba'i zo salci 
+@c iji'a lu do ze'u jmive vi le tumla poi la turni noi cevni do cu dunda ke'a fi do li'u
+@c i mi mutce co xebni zo fi'o i zo ku'o poi lidne zo cu na sarcu -- mi'e adam
 
 @c    20:13. Thou shalt not kill.
 20:13. .i ko na zercatra
