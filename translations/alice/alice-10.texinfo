@@ -1,11 +1,11 @@
 @node    panomo'o, papamo'o, somo'o, Top
-@chapter panomo'o [The Lobster Quadrille]
+@chapter panomo'o xasyjukni vonseldansu
 
 
 @c                                CHAPTER X
 
 @c                          The Lobster Quadrille
-
+                            xasyjukni vonseldansu
 
 @c      The Mock Turtle sighed deeply, and drew the back of one flapper
 @c    across his eyes.  He looked at Alice, and tried to speak, but for
@@ -15,15 +15,33 @@
 @c    his voice, and, with tears running down his cheeks, he went on
 @c    again:--
 
+i le jitfa cakyrespa cu condi vruvasxu gi'e mosra le trixe be pa le limna'i
+lei kanla gi'e catlu la alis gi'e troci le nu tavla i ku'i ze'a lo mentu be
+li paji'ire loi nu vruvasxu cu dicra le voksa i lu mintu le nu da'i lo bongu 
+cu zunti le galxe sei le cpicinfo li'u i cy co'a gunka le nu desygau gi'e
+darxi fo le trixe ibazabo le cakyrespa cu xruti le ka se voksa kei gi'e 
+di'a selklaku flira cusku  
+
 @c      `You may not have lived much under the sea--' (`I haven't,' said Alice)--
 @c    `and perhaps you were never even introduced to a lobster--'
 @c    (Alice began to say `I once tasted--' but checked herself hastily,
 @c    and said `No, never') `--so you can have no idea what a delightful
 @c    thing a Lobster Quadrille is!'
 
+lu ju'ocu'i do na ze'u xabju le xamsi cnita to'i lu mi na go'i sei la alis
+cusku lu toi i ju'ocu'i do noroi penmi lo xasyjukni to'i la alis co'a cusku
+lu mi paroi vu'irga'e li'u gi'e ku'i sutra sezydicra gi'e cusku lu noroi go'i
+li'u toi iseki'ubo do na ka'e se xanri le nu lo xasyjukni vonseldansu cu
+mokau kukte li'u 
+
 @c      `No, indeed,' said Alice.  `What sort of a dance is it?'
 
+i lu ie na go'i sei la alis cusku i ri mo seldansu li'u
+
 @c      `Why,' said the Gryphon, `you first form into a line along the sea-shore--'
+
+i lu ta'a do'u sei le cpicinfo cu cusku pamai lei dansu pada se linji pa'a 
+le xamsi korbi li'u
 
 @c      `Two lines!' cried the Mock Turtle.  `Seals, turtles, salmon, and so on;
 @c    then, when you've cleared all the jelly-fish out of the way--'
