@@ -1,5 +1,5 @@
 <chapter id="less7"><title>Getting Personal: Pro-<foreignphrase 
-lang="art-lojban">sumti</foreignphrase> and more abstractions</title>
+lang="art-lojban">sumti</foreignphrase> and more abstractions</title><titleabbrev>Getting Personal</titleabbrev>
 <sect1 id="less7refer"><title>Referring back</title>
 
 <para>So far we've been referring to everybody by name, which can get very
@@ -8,9 +8,7 @@ together (as you will have seen in the last few exercises.) Consider the
 following:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama le barja .i la suzyn ze'a pinxe loi vanju .i la suzyn. zgana lo nanmu .i le nanmu cu melbi .i caku le nanmu cu zgana la suzyn.</foreignphrase>
-Susan goes to the bar. Susan drinks some wine for a while. Susan notices [sees, observes] a man. The man is beautiful. At that moment, the man notices Susan.</literallayout></informalexample>
-
-</para>
+Susan goes to the bar. Susan drinks some wine for a while. Susan notices [sees, observes] a man. The man is beautiful. At that moment, the man notices Susan.</literallayout></informalexample></para>
 
 <note><para>Notice the use of <foreignphrase
 lang="art-lojban">melbi</foreignphrase> &mdash; in English we usually
@@ -68,9 +66,9 @@ means <quote role="gloss">some male person mentioned earlier.</quote> This
 works in the example here, because there is only one man in the story, but
 what about
 
-<informalexample><para>Bill saw Rick. He hit him.</para></informalexample>
+<informalexample><para>Bill saw Rick. He hit him.</para>
 
-Did Bill hit Rick, or did Rick hit Bill? We don't know. Lojban does have
+</informalexample>Did Bill hit Rick, or did Rick hit Bill? We don't know. Lojban does have
 other tricks up its sleeve, and as we will see next lesson, <foreignphrase
 lang="art-lojban">le se go'i</foreignphrase> will do the trick. But counting
 <foreignphrase lang="art-lojban">sumti</foreignphrase> from the preceding
@@ -83,9 +81,9 @@ role="gloss">the most recent <foreignphrase
 lang="art-lojban">sumti</foreignphrase>.</quote> So we can say
 
 <informalexample><para><foreignphrase lang="art-lojban">.i le go'i cu zgana lo
-nanmu .i ri melbi</foreignphrase></para></informalexample>
+nanmu .i ri melbi</foreignphrase></para>
 
-<foreignphrase lang="art-lojban">ri</foreignphrase> is one of a series,
+</informalexample><foreignphrase lang="art-lojban">ri</foreignphrase> is one of a series,
 <foreignphrase lang="art-lojban">ri/ra/ru</foreignphrase>, meaning <quote
 role="gloss">the most recent/fairly recent/distant sumti</quote>, but as
 far as I've noticed, <foreignphrase lang="art-lojban">ra</foreignphrase> and
@@ -185,8 +183,7 @@ gleki</foreignphrase></para></listitem>
 badri</emphasis> cu nandu .i <emphasis>lenu la suzyn. 
 badri</emphasis> na se zgana</foreignphrase></para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -226,24 +223,24 @@ which would be something of a miracle. </para></note>
 <para>OK, let's go back to Susan's story.  We start by saying
 
 <informalexample><para><foreignphrase lang="art-lojban">la suzyn. <emphasis>goi
-ko'a</emphasis> klama le barja</foreignphrase></para></informalexample>
+ko'a</emphasis> klama le barja</foreignphrase></para>
 
-This means that from now on, every time we use <foreignphrase
+</informalexample>This means that from now on, every time we use <foreignphrase
 lang="art-lojban">ko'a</foreignphrase>, we mean <quote role="gloss">Susan</quote>.
 The man she sees can then be <foreignphrase
 lang="art-lojban">ko'e</foreignphrase>, so we say
 
 <informalexample><para><foreignphrase lang="art-lojban">.i ko'a zgana lo nanmu goi
-ko'e</foreignphrase></para></informalexample>
+ko'e</foreignphrase></para>
 
-Now every time we use <foreignphrase lang="art-lojban">ko'e</foreignphrase>, it
+</informalexample>Now every time we use <foreignphrase lang="art-lojban">ko'e</foreignphrase>, it
 means that particular man, so the full story so far reads:
 
 <informalexample><para><foreignphrase lang="art-lojban">la suzyn.  goi ko'a klama
 le barja .i ko'a ze'e pinxe loi vanju .i ko'a zgana lo nanmu goi ko'e .i
-ko'e melbi .i caku ko'e zgana ko'a</foreignphrase></para></informalexample>
+ko'e melbi .i caku ko'e zgana ko'a</foreignphrase></para>
 
-(Note how the <foreignphrase lang="art-lojban">cu</foreignphrase>s have
+</informalexample>(Note how the <foreignphrase lang="art-lojban">cu</foreignphrase>s have
 disappeared: <foreignphrase lang="art-lojban">ko'a</foreignphrase>, like
 <foreignphrase lang="art-lojban">mi</foreignphrase>, doesn't need them, since it
 can't join with a <foreignphrase lang="art-lojban">selbri</foreignphrase> to form
@@ -272,9 +269,8 @@ lang="art-lojban">sumti</foreignphrase> when you're counting back. For example
 
 <informalexample><para><foreignphrase
 lang="art-lojban">la suzyn. rinsa ko'e .i ri cisma
-</foreignphrase></para></informalexample>
-
-doesn't mean that <foreignphrase lang="art-lojban">ko'e</foreignphrase> (the man,
+</foreignphrase></para>
+</informalexample>doesn't mean that <foreignphrase lang="art-lojban">ko'e</foreignphrase> (the man,
 in this context) smiles, but that <emphasis>Susan</emphasis> smiles. Why?
 Because it is pointless to have a replacing word (anaphor), like
 <foreignphrase lang="art-lojban">ri</foreignphrase>, replace another replacing
@@ -290,16 +286,13 @@ important things. </para></note>
 wondering where I get all these unusual names from, Jyoti is an old
 Gujarati friend of mine). We continue ....
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">caku la djiotis. goi ko'i mo'ine'i .i ko'i cusku lu coi ranjit. li'u ko'e</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">caku la djiotis. goi ko'i mo'ine'i .i ko'i cusku lu coi ranjit. li'u ko'e</foreignphrase>
 At that time, Jyoti (henceforth #3), into. #3 says <quote>Hello Ranjeet</quote> to #2.
 Just then Jyoti comes in and says <quote>Hello, Ranjeet</quote> to the guy.</literallayout>
-</informalexample>
-
-<foreignphrase lang="art-lojban">mo'ine'i</foreignphrase> is another space <quote
+</informalexample><foreignphrase lang="art-lojban">mo'ine'i</foreignphrase> is another space <quote
 role="socalled">tense</quote>. <foreignphrase
 lang="art-lojban">mo'i</foreignphrase> indicates movement; <foreignphrase
-lang="art-lojban">ne'i</foreignphrase> means "inside" (from the <foreignphrase
+lang="art-lojban">ne'i</foreignphrase> means <quote role="gloss">inside</quote> (from the <foreignphrase
 lang="art-lojban">gismu</foreignphrase>, <foreignphrase
 lang="art-lojban">nenri</foreignphrase>). So <foreignphrase
 lang="art-lojban">mo'ine'i</foreignphrase> corresponds to the English preposition
@@ -365,7 +358,7 @@ lang="art-lojban">ko'a/e/i</foreignphrase> that we have been using so far (i.e.
 
 </para>
 
-<note><para> <foreignphrase lang="art-lojban">doi</foreignphrase> is used to show
+<note><para><foreignphrase lang="art-lojban">doi</foreignphrase> is used to show
 who you're talking to (without <foreignphrase
 lang="art-lojban">doi</foreignphrase>, the <foreignphrase
 lang="art-lojban">cmene</foreignphrase> might become the first <foreignphrase
@@ -374,8 +367,7 @@ lang="art-lojban">bridi</foreignphrase>). It's a bit like English
 <wordasword>O</wordasword> (as in <quote>O ye of little faith</quote>) or
 the Latin vocative (as in <quote>Et tu, Brute</quote>.) </para></note>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko'a ca cusku lu .ue coi li'u 
 ko'i</foreignphrase></para></listitem> 
@@ -397,9 +389,7 @@ cu pendo mi li'u  </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko'a xunfirbi'o</foreignphrase></para></listitem> 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -434,9 +424,9 @@ So in
 
 <informalexample><para><foreignphrase
 lang="art-lojban">la suzyn. rinsa lo nanmu .i ny cisma
-</foreignphrase></para></informalexample>
+</foreignphrase></para>
 
-<foreignphrase lang="art-lojban">ny</foreignphrase> stands for <foreignphrase
+</informalexample><foreignphrase lang="art-lojban">ny</foreignphrase> stands for <foreignphrase
 lang="art-lojban">nanmu</foreignphrase>. There is no need to explicitly assign
 <foreignphrase lang="art-lojban">ny</foreignphrase> with <foreignphrase
 lang="art-lojban">goi</foreignphrase>; but you can, and in fact if you assign it
@@ -463,32 +453,20 @@ lang="art-lojban">li'u</foreignphrase> is one of the few terminators that can
 almost never be missed out, since that would make everything else that
 follows part of the quotation. You can also nest quotations, e.g.
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la ranjit. pu cusku lu la djiotis. pu cusku lu coi li'u mi li'u</foreignphrase>
-Ranjeet said <quote>Jyoti said <quote>Hello</quote> to me.</quote>
-</literallayout>
-</informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. pu cusku lu la djiotis. pu cusku lu coi li'u mi li'u</foreignphrase>
+Ranjeet said <quote>Jyoti said <quote>Hello</quote> to me.</quote></literallayout>
+</informalexample>which is similar to
 
-which is similar to
+<informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. pu cusku lu la djiotis. pu rinsa mi li'u</foreignphrase>
+Ranjeet said <quote>Jyoti greeted me.</quote></literallayout>
+</informalexample></para>
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la ranjit. pu cusku lu la djiotis. pu rinsa mi li'u</foreignphrase>
-Ranjeet said <quote>Jyoti greeted me.</quote>
-</literallayout>
-</informalexample>
-</para>
+<para>Both can also be expressed in a rather more subtle way:
 
-<para>
-Both can also be expressed in a rather more subtle way:
-
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la ranjit. pu cusku le sedu'u la djiotis. pu rinsa ry</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. pu cusku le sedu'u la djiotis. pu rinsa ry</foreignphrase>
 Ranjeet past-express the-predicate Jyoti past-greet R
-Ranjeet said that Jyoti greeted him.
-</literallayout>
-</informalexample>
-
-What is this <foreignphrase lang="art-lojban">sedu'u</foreignphrase>?  Well, to
+Ranjeet said that Jyoti greeted him.</literallayout>
+</informalexample>What is this <foreignphrase lang="art-lojban">sedu'u</foreignphrase>?  Well, to
 explain that, we have to go via <foreignphrase
 lang="art-lojban">du'u</foreignphrase>.
 </para>
@@ -503,13 +481,9 @@ equivalent in English is <wordasword>that</wordasword>, as in
 <quote>Ranjeet thinks <emphasis>that</emphasis> ...</quote>. Here's an
 example of <foreignphrase lang="art-lojban">du'u</foreignphrase> used on its own:
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jang. cinynei ra</foreignphrase>
-Susan doesn't know that Zhang fancies (<quote role="gloss">sexually-likes</quote>) her.
-</literallayout>
-</informalexample>
-
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jang. cinynei ra</foreignphrase>
+Susan doesn't know that Zhang fancies (<quote role="gloss">sexually-likes</quote>) her.</literallayout>
+</informalexample></para>
 
 <para><foreignphrase lang="art-lojban">du'u</foreignphrase> belongs to
 <foreignphrase lang="art-lojban">selma'o</foreignphrase> (= <foreignphrase
@@ -582,9 +556,7 @@ lang="art-lojban">mi djuno lesu'u mi dotco</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">mi cusku lesu'u mi dotco</foreignphrase></para></listitem>
-</itemizedlist>
-
-Admittedly, <foreignphrase lang="art-lojban">su'u</foreignphrase> has not been
+</itemizedlist>Admittedly, <foreignphrase lang="art-lojban">su'u</foreignphrase> has not been
 much used to date; it is a fairly late addition to the language (as is
 <foreignphrase lang="art-lojban">du'u</foreignphrase>!), and people haven't got
 used to it yet. But if you can't be bothered specifying what kind of
@@ -616,9 +588,7 @@ easy.</para></listitem>
 easy.</para></listitem> 
 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 </sect1>
 
@@ -637,9 +607,7 @@ things:
 <listitem><para>A number of people I'm talking to.</para></listitem>
 <listitem><para>The person or people I'm talking to and some other person or people.</para></listitem>
 <listitem><para>Anyone (as in <quote>Money can't buy you love.</quote>)</para></listitem>
-</orderedlist>
-
-Lojban gets round the confusion between (1) and (2) by using numbers. The
+</orderedlist>Lojban gets round the confusion between (1) and (2) by using numbers. The
 most common way to express (2) is <foreignphrase
 lang="art-lojban">rodo</foreignphrase>, <quote role="gloss">all of
 you</quote> (or Southern U.S. <quote role="gloss">Y'all</quote>) and, as
@@ -686,32 +654,17 @@ lang="art-lojban">mi'a</foreignphrase></term><listitem><para>I and another/other
 lang="art-lojban">ma'a</foreignphrase></term><listitem><para>you and I and
 another/others</para></listitem></varlistentry>
 
-</variablelist>
+</variablelist>Some examples:
 
-Some examples:
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi prami do</foreignphrase>
-I love you.
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi'a penmi do ti'u la cicac.</foreignphrase>
-We'll meet you at three o'clock.
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ma'a remna</foreignphrase>
-We are all human.
-</literallayout>
-</informalexample>
-
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi prami do</foreignphrase>
+I love you.</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi'a penmi do ti'u la cicac.</foreignphrase>
+We'll meet you at three o'clock.</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">ma'a remna</foreignphrase>
+We are all human.</literallayout>
+</informalexample></para>
 
 </sect1>
 
@@ -748,8 +701,7 @@ lang="art-lojban">du'u</foreignphrase>)</para></listitem>
 lang="art-lojban">sumti</foreignphrase> (<foreignphrase 
 lang="art-lojban">do'o, mi'o, mi'a, ma'a</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-</para>
+</itemizedlist></para>
 
 
 
@@ -840,8 +792,7 @@ lang="art-lojban">simxu</foreignphrase> does pretty much the same thing,
 as a <foreignphrase lang="art-lojban">gismu</foreignphrase>. We'll be
 looking at both next lesson.</para></note></para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko'a 
 burna</foreignphrase></para></listitem>
@@ -882,8 +833,7 @@ bebna</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i .e'u <emphasis>ma'a</emphasis>
 klama lo dansydi'u</foreignphrase></para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -986,8 +936,7 @@ as</wordasword>. And use the <foreignphrase
 lang="art-lojban">soi vo'a</foreignphrase> trick for <quote role="gloss">each 
 other</quote>)</para></listitem>
  
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 </sect1>
 
@@ -995,8 +944,7 @@ other</quote>)</para></listitem>
 <title>Answers to Exercises</title>
 
 <simplesect role="excanswer"><title>Exercise 1</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">le go'i</foreignphrase>: Yes. <foreignphrase 
 lang="art-lojban">ri</foreignphrase>: No. (<foreignphrase 
@@ -1044,14 +992,12 @@ lang="art-lojban">ra</foreignphrase>: Yes. (<foreignphrase lang="art-lojban">len
 badri</foreignphrase> is the second <foreignphrase lang="art-lojban">sumti</foreignphrase> 
 counting backwards from the start of the sentence.)</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>Susan says <quote>Oh! Hello!</quote> to Jyoti.</para></listitem> 
 
@@ -1097,8 +1043,7 @@ lang="art-lojban">selbri</foreignphrase>.)</para></listitem>
 
 <listitem><para>Susan blushes.</para></listitem> 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 
 
 <para>Note that in order to get this into understandable English, we've had
@@ -1150,15 +1095,12 @@ your brain, <emphasis>before</emphasis> you either put them into words, or
 into action.</para></listitem> 
 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
 <simplesect role="excanswer"><title>Exercise 4</title>
-<para>
-<variablelist><title>pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></title>
+<para><variablelist><title>pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></title>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">ra</foreignphrase></term><listitem><para><foreignphrase
@@ -1167,7 +1109,9 @@ lang="art-lojban">lenu zgana ri kei</foreignphrase>, because the <foreignphrase
 lang="art-lojban">lenu</foreignphrase>-<foreignphrase
 lang="art-lojban">sumti</foreignphrase> isn't finished yet &mdash; and that
 interpretation would be as wierdly self-referential as any Escher drawing. 
-Not that Lojban isn't perfectly capable of such mischief!  But we couldn't
+Not that Lojban isn't perfectly capable of such mischief!</para>
+
+<para>But we couldn't
 refer back to <foreignphrase lang="art-lojban">le la cardoNES. kabri</foreignphrase> with
 <foreignphrase lang="art-lojban">ri</foreignphrase>, either: the way
 <foreignphrase lang="art-lojban">sumti</foreignphrase> are counted, the
@@ -1218,9 +1162,7 @@ lang="art-lojban">la suzyn. .e la ranjit. .e la djiotis.</foreignphrase></para><
 
 </variablelist></para>
 
-<para>
-
-<orderedlist><title>Translation</title>
+<para><orderedlist><title>Translation</title>
 
 <listitem><para>Susan felt embarrassed.</para></listitem>
 
@@ -1278,8 +1220,7 @@ on, you're both being silly,</quote> she said.</para></listitem>
 
 <listitem><para><quote>Let's go to the disco.</quote></para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 
 </simplesect>
 <simplesect role="exercise"><title>Exercise 5</title>
@@ -1324,9 +1265,7 @@ lang="art-lojban">ri cismyfra</foreignphrase>, though: <foreignphrase
 lang="art-lojban">ri</foreignphrase> here is <foreignphrase 
 lang="art-lojban">lu go'i li'u</foreignphrase>! Infuriating but true...)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 

@@ -4,6 +4,7 @@
 <!ENTITY rArr "=&gt;">
 <!ENTITY ouml "oe">
 <!ENTITY uuml "ue">
+<!ENTITY icirc "i">
 <!ENTITY times "*">
 <!ENTITY minus "-">
 <!ENTITY lambda "LAMBDA">
@@ -35,6 +36,7 @@
 <!ENTITY lessons SYSTEM "lessons.doc.xml">
 <!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
+<!ENTITY lessvocab SYSTEM "lessvocab.doc.xml">
 ]>
 <book>
 <title id="lessons">Lojban For Beginners &mdash; <foreignphrase 
@@ -42,4 +44,5 @@ lang="art-lojban">velcli befi la lojban. bei loi co'a cilre</foreignphrase></tit
 &lessinfo;
 &lessintro;
 &lessons;
+&lessvocab;
 </book>

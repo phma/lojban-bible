@@ -1,14 +1,14 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "urn:x-oasis:docbook-xml-v4.1.2" [
 <!ENTITY glottal "&#660;">
-<!ENTITY akl "&#x0251;">
-<!ENTITY dkl "&#x0256;">
-<!ENTITY gkl "&#x0263;">
-<!ENTITY tlh "t&#x026c;">
-<!ENTITY shkl "&#x0282;">
-<!ENTITY stress "&#x02c8;">
-<!ENTITY length "&#x02d0;">
-<!ENTITY zhkl "&#x0292;">
-<!ENTITY ekl "&#x025b;">
+<!ENTITY akl "&#593;">
+<!ENTITY dkl "&#598;">
+<!ENTITY gkl "&#611;">
+<!ENTITY tlh "t&#620;">
+<!ENTITY shkl "&#642;">
+<!ENTITY stress "&#712;">
+<!ENTITY length "&#720;">
+<!ENTITY zhkl "&#658;">
+<!ENTITY ekl "&#603;">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">
@@ -27,6 +27,7 @@
 <!ENTITY lessons SYSTEM "lessons.doc.xml">
 <!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
+<!ENTITY lessvocab SYSTEM "lessvocab.doc.xml">
 ]>
 <book>
 <title id="lessons">Lojban For Beginners &mdash; <foreignphrase 
@@ -34,4 +35,5 @@ lang="art-lojban">velcli befi la lojban. bei loi co'a cilre</foreignphrase></tit
 &lessinfo;
 &lessintro;
 &lessons;
+&lessvocab;
 </book>

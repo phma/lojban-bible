@@ -4,7 +4,7 @@
 fifteen lessons. It has been authored
 by Robin Turner and Nick Nicholas,
 and gives a gentle introduction to the structure of the language. Robin
-authored lessons 1&ndash;8 and 10&mdash;11 in 1999; Nick added to the
+authored lessons 1&ndash;8 and 10&ndash;11 in 1999; Nick added to the
 existing lessons, and authored the remainder, in 2001.
 </para> 
 
@@ -12,10 +12,8 @@ existing lessons, and authored the remainder, in 2001.
 the learner to understand most of the Lojban they are likely to see in the 
 online Lojban discussion groups, or in the publications of the Logical 
 Language Group. For information on Lojban, please contact the Logical 
-Language Group:
-
-<address>
-<firstname>Bob</firstname> <surname>LeChevalier</surname>
+Language Group: 
+<address><firstname>Bob</firstname> <surname>LeChevalier</surname>
 <affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
 <street>2904 Beau Lane</street>
 <city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
@@ -24,9 +22,7 @@ Language Group:
 <email><ulink
 url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email>
 <otheraddr><ulink
-url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr>
-</address>
-
+url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr></address>
 The document <citetitle>What is Lojban?</citetitle> (available online at
 <ulink
 url="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>)
@@ -65,10 +61,8 @@ finti le drata vau ca la 2001nan. </foreignphrase></para>
 te ctuca cu pe'i banzu lenu ka'enri'a le cilre lenu jimpe piso'a loi lojbo 
 poi lakne fa lenu cy. tcidu ke'a vi le samclupa ke lojbo casnu girzu .a le 
 se prigau be la lojbangirz. .i mu'i tu'a loi tcila pe la lojban. ko te 
-notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase>
-
-<address>
-<firstname>Bob</firstname> <surname>LeChevalier</surname>
+notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase> 
+<address><firstname>Bob</firstname> <surname>LeChevalier</surname>
 <affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
 <street>2904 Beau Lane</street>
 <city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
@@ -77,10 +71,7 @@ notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase>
 <email><ulink
 url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email>
 <otheraddr><ulink
-url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr>
-</address>
-
-<foreignphrase lang="art-lojban">gy. .i le seltcidu po'u la'e <quote>lu la
+url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr> </address><foreignphrase lang="art-lojban">gy. .i le seltcidu po'u la'e <quote>lu la
 lojban mo. li'u</quote> zi'enoi ka'e se cpacu fi le samclupa tu'i zoi gy.
 <ulink
 url="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>

@@ -9,49 +9,28 @@ run, I could say just that:
 
 <informalexample>
 <literallayout>I want you to run</literallayout>
-</informalexample>
-
-but I'd probably just say:
-
+</informalexample>but I'd probably just say: 
 <informalexample>
 <literallayout>Run!</literallayout>
-</informalexample>
-
-How do we do this in Lojban?  We can't copy English grammar and just say
+</informalexample>How do we do this in Lojban?  We can't copy English grammar and just say
 <foreignphrase lang="art-lojban">bajra</foreignphrase>, since, as we've seen, this means <quote>Look! Someone/something 
 runs</quote>. 
 Instead we say
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ko bajra</foreignphrase>
-</literallayout>
-</informalexample>
-
-<foreignphrase lang="art-lojban">ko</foreignphrase> means you, the person I'm
+<literallayout><foreignphrase lang="art-lojban">ko bajra</foreignphrase></literallayout>
+</informalexample><foreignphrase lang="art-lojban">ko</foreignphrase> means you, the person I'm
 talking to, but only in commands (in normal sentences it's <foreignphrase
 lang="art-lojban">do</foreignphrase>).  Normally it comes in the first place of
 the <foreignphrase lang="art-lojban">bridi</foreignphrase>, since normally you're
 asking people to do something or be something, not to have something done
 to them.  However, you can put it elsewhere, e.g.
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">nelci ko</foreignphrase>
-</literallayout>
-</informalexample>
-
-This means something like <quote>Act so that [someone unspecified] likes
+<informalexample><literallayout><foreignphrase lang="art-lojban">nelci ko</foreignphrase></literallayout></informalexample>This means something like <quote>Act so that [someone unspecified] likes
 you</quote>, and sounds pretty odd in English, but you could use it in the
 sense of <quote>Try to make a good impression.</quote> Another example is:
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi dunda le cifnu ko</foreignphrase>
-</literallayout>
-</informalexample>
-
-or <quote>Act so that I give the baby to you,</quote> with the possible
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi dunda le cifnu ko</foreignphrase></literallayout></informalexample>or <quote>Act so that I give the baby to you,</quote> with the possible
 meaning <quote>Get up and put your cigarette out &mdash; I'm going to pass
 you the baby.</quote> </para>
 
@@ -59,25 +38,15 @@ you the baby.</quote> </para>
 two places in a <foreignphrase lang="art-lojban">bridi</foreignphrase>, for
 example,
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ko kurji ko</foreignphrase>
-[Act so that] you take care of you</literallayout>
-</informalexample>
-
-or in other words, <quote>Take care of yourself.</quote> In fact, since we
+<informalexample><literallayout><foreignphrase lang="art-lojban">ko kurji ko</foreignphrase>
+[Act so that] you take care of you</literallayout></informalexample>or in other words, <quote>Take care of yourself.</quote> In fact, since we
 can put the <foreignphrase lang="art-lojban">selbri</foreignphrase>
 anywhere other than the beginning of the sentence (since, without
 <foreignphrase lang="art-lojban">fa</foreignphrase> before it, this would
 imply <quote role="gloss">someone/something</quote> for the first place),
 we can (and do) say
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ko ko kurji</foreignphrase>
-</literallayout>
-</informalexample>
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">ko ko kurji</foreignphrase></literallayout></informalexample></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -146,15 +115,7 @@ the magic word.  Putting the word <foreignphrase
 lang="art-lojban">.e'o</foreignphrase> before a sentence with <foreignphrase
 lang="art-lojban">ko</foreignphrase> changes it into a request e.g.
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">
-.e'o ko dunda le cukta mi
-</foreignphrase>
-</literallayout>
-</informalexample>
-
-is literally <quote>Please give me the book,</quote> but is actually more
+<informalexample><literallayout><foreignphrase lang="art-lojban">.e'o ko dunda le cukta mi</foreignphrase></literallayout></informalexample>is literally <quote>Please give me the book,</quote> but is actually more
 like <quote>Could you give me the book, please?</quote>. (Of course, norms 
 of politeness in English do not necessarily translate into other languages, 
 so it is better in such cases to be safe than sorry.)
@@ -174,24 +135,12 @@ question by simply putting <foreignphrase
 lang="art-lojban">xu</foreignphrase> somewhere in the sentence (usually at
 the beginning.) Some examples:
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">xu do nelci la bil.</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">xu do nelci la bil.</foreignphrase>
 Do you like Bill?</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">xu mi klama</foreignphrase>
+</informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">xu mi klama</foreignphrase>
 Am I coming?</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">xu crino</foreignphrase>
-Is it green?</literallayout>
-</informalexample>
-</para>
+</informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">xu crino</foreignphrase>
+Is it green?</literallayout></informalexample></para>
 
 <para>There are two ways to answer these questions. Lojban, like some other
 languages, does not have words that mean <quote role="gloss">yes</quote> or
@@ -205,10 +154,7 @@ bil.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">nelci</foreignphrase></para></listitem>
 
-</itemizedlist>
-
-
-We can also use <foreignphrase lang="art-lojban">go'i</foreignphrase>,
+</itemizedlist>We can also use <foreignphrase lang="art-lojban">go'i</foreignphrase>,
 which repeats the last <foreignphrase
 lang="art-lojban">bridi</foreignphrase> (without the question). However, if
 you say <quote>You like Bill</quote>, and <emphasis>I</emphasis> say
@@ -273,10 +219,8 @@ instruction to fill in the missing place. For example:
 <listitem><para><foreignphrase lang="art-lojban">do klama ma</foreignphrase>
 </para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">la london.</foreignphrase>
-</para>
-<para>
-</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la london.</foreignphrase></para>
+</listitem>
 </itemizedlist>
 
 <itemizedlist>
@@ -339,8 +283,7 @@ instruction to fill in the missing place. For example:
 
 </listitem>
 
-</itemizedlist>
-</para>
+</itemizedlist></para>
 
 <para>Finally we have <foreignphrase lang="art-lojban">mo</foreignphrase>.
 This is like <foreignphrase lang="art-lojban">ma</foreignphrase>, but
@@ -353,13 +296,9 @@ to describe the relationship between the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> in the question. For example:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">do mo la klaudias.</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">do mo la klaudias.</foreignphrase>
 You ??? Claudia
-What are you to Claudia?</literallayout>
-</informalexample>
-
-The answer depends on the context.  Possible answers to this question are:
+What are you to Claudia?</literallayout></informalexample>The answer depends on the context.  Possible answers to this question are:
 
 <itemizedlist>
 <listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase>: <quote>I like her.</quote></para></listitem>
@@ -368,9 +307,7 @@ The answer depends on the context.  Possible answers to this question are:
 <listitem><para><foreignphrase lang="art-lojban">xebni</foreignphrase>: <quote>I hate her.</quote></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">fengu</foreignphrase>: <quote>I'm angry with her.</quote></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cinba</foreignphrase>: <quote>I kissed her</quote></para></listitem>
-</itemizedlist>
-
-Note that the time is not important here: just as <foreignphrase
+</itemizedlist>Note that the time is not important here: just as <foreignphrase
 lang="art-lojban">cinba</foreignphrase> can mean <quote role="gloss">kiss</quote>,
 <quote role="gloss">kissed</quote>, <quote role="gloss">will kiss</quote> and so on, <foreignphrase
 lang="art-lojban">mo</foreignphrase> does not ask a question about any particular
@@ -405,9 +342,7 @@ singing.</quote></para></listitem>
 <quote>She's beautiful.</quote> (possibly a pun, since this is what
 <foreignphrase lang="zho">meili</foreignphrase> means in Chinese!)</para></listitem>
 
-</itemizedlist>
-
-There are ways to be more specific, but these normally involve a
+</itemizedlist>There are ways to be more specific, but these normally involve a
 <foreignphrase lang="art-lojban">ma</foreignphrase> question; for example
 <foreignphrase lang="art-lojban">la meilis.  gasnu ma</foreignphrase> (<quote>Mei
 Li does what?</quote>).  </para>
@@ -423,8 +358,7 @@ it?</quote>) will come in the lessons on numbers, time and attitudes.
 </para>
 
 <simplesect role="exercise"><title>Exercise 2: Lojban general knowledge 
-quiz</title><para>
-Answer the following questions (in Lojban, of course).  Most of the answers are very easy; the trick is to understand the question!
+quiz</title><para>Answer the following questions (in Lojban, of course).  Most of the answers are very easy; the trick is to understand the question!
 <orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">la brutus. mo la .iulius.</foreignphrase></para></listitem>
@@ -464,14 +398,9 @@ Porsches. Your friends will (normally) have different names, which you can
 use to tell them apart. But if you're discussing their cars, how do you
 tell <emphasis>them</emphasis> apart? Or take the following sentence:
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi nelci le tamne</foreignphrase>
-I like the cousin
-</literallayout>
-</informalexample>
-
-Not as informative a sentence as it might be: the question that you should 
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi nelci le tamne</foreignphrase>
+I like the cousin</literallayout>
+</informalexample>Not as informative a sentence as it might be: the question that you should 
 be hollering at this instant is, <quote>Whose cousin?</quote> Is it my 
 cousin? Your cousin? Frederick II's cousin?
 </para>
@@ -607,9 +536,7 @@ lang="art-lojban">le cukta pe ma</foreignphrase></para></listitem>
 lang="art-lojban">le cmene pe la roz.</foreignphrase></para></listitem>
 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -704,9 +631,7 @@ lang="art-lojban">pe</foreignphrase>.
 
 <listitem><para>My present (that I gave)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -726,14 +651,12 @@ lang="art-lojban">pe</foreignphrase> and forethought nesting;</para></listitem>
 <listitem><para>express association between two <foreignphrase 
 lang="art-lojban">sumti</foreignphrase> more precisely, as alienable or 
 inalienable possession.</para></listitem>
-</itemizedlist>
-</para>
+</itemizedlist></para>
 </sect1>
 
 <sect1 id="less3answers"><title>Answers to Exercises</title>
 <simplesect role="excanswer"><title>Exercise 1</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>Come to me.
 </para></listitem>
@@ -749,12 +672,10 @@ inalienable possession.</para></listitem>
 
 <listitem><para>Like yourself. (note that changing the word order doesn't change 
 the meaning here)</para></listitem>
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 2</title><para>
-<orderedlist>
+<simplesect role="excanswer"><title>Exercise 2</title><para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">catra</foreignphrase> (assuming
 it's Julius Caesar we're talking about.) </para></listitem>
@@ -807,14 +728,12 @@ lang="art-lojban">finti</foreignphrase> (<quote role="gloss">creator</quote>). <
 <foreignphrase lang="art-lojban">go'i</foreignphrase> &mdash; we're talking about
 Laurel and Hardy here.</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">le la meiris. cifnu</foreignphrase> (Mary's child)</para></listitem>
@@ -861,15 +780,11 @@ role="gloss">rose</quote>, <foreignphrase
 lang="art-lojban">rozgu</foreignphrase>.)</para></listitem>
 
 
-</orderedlist>
-
-</para>
-</simplesect>
+</orderedlist></para></simplesect>
 
 <simplesect role="excanswer"><title>Exercise 4</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">po</foreignphrase>: You own it.</para></listitem>
@@ -903,9 +818,7 @@ gift is my property nonetheless.</para></listitem>
 given the gift away, I do not own it in any real sense. But the gift 
 is still uniquely associated with me, since it was me that gave it away.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 

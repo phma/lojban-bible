@@ -1,5 +1,5 @@
 <chapter id="less14"><title>Why didn't I think of that before? More 
-connectives</title>
+connectives</title><titleabbrev>Why didn't I think of that before?</titleabbrev>
 
 <para>We have already seen in <link linkend="less11">Lesson 11</link> 
 several Lojban connectives described. This lesson rounds off discussion of 
@@ -23,9 +23,9 @@ realise that there's a conditional going on only halfway through. Recall
 what a typical instance of IF looks like:
 
 <informalexample><para><foreignphrase lang="art-lojban">.i mi djuno ledu'u do
-vi zvati .inaja mi dasni noda</foreignphrase></para></informalexample>
+vi zvati .inaja mi dasni noda</foreignphrase></para>
 
-You read the first sentence, and everything goes swimmingly: 
+</informalexample>You read the first sentence, and everything goes swimmingly: 
 <quote>I know that you're here.</quote> Then, shazam! you get the 
 connective: <quote>IF that were the case, I would wear nothing.</quote> You 
 didn't know in advance that the first sentence was going to be an IF. This 
@@ -102,9 +102,9 @@ lang="art-lojban">bridi</foreignphrase>. So our forethought version of
 Zhang's statement of wishful thinking is:
 
 <informalexample><para><foreignphrase lang="art-lojban">.i <emphasis>ganai</emphasis> mi djuno lenu do
-vi zvati <emphasis>gi</emphasis> mi dasni noda</foreignphrase></para></informalexample>
+vi zvati <emphasis>gi</emphasis> mi dasni noda</foreignphrase></para>
 
-You'll notice that there is no second <foreignphrase 
+</informalexample>You'll notice that there is no second <foreignphrase 
 lang="art-lojban">.i</foreignphrase> here. Two <foreignphrase 
 lang="art-lojban">bridi</foreignphrase> connected by GA belong to the same 
 sentence; we already know from the grammar that what's coming up after the <foreignphrase 
@@ -118,18 +118,17 @@ lang="art-lojban">.i</foreignphrase>.
 For example, remember in <link linkend="less10">Lesson 10</link> that we 
 gave two sentences, and their logical conclusion:
 
-<informalexample><para><foreignphrase lang="art-lojban">
-.i la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. seni'i na ze'u jmive
-</foreignphrase></para></informalexample>
+<informalexample><para><foreignphrase lang="art-lojban">.i la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. seni'i na ze'u jmive
+</foreignphrase></para>
 
-We should be able from that to say 
+</informalexample>We should be able from that to say 
 
 <informalexample><para><foreignphrase lang="art-lojban">
 <emphasis>.i</emphasis> la flufis. ractu <emphasis>.ije</emphasis> ro ractu
 na'e ze'u jmive <emphasis>.iseni'ibo</emphasis> la flufis. na ze'u jmive
-</foreignphrase></para></informalexample>
+</foreignphrase></para>
 
-right? Actually, no we can't: <foreignphrase 
+</informalexample>right? Actually, no we can't: <foreignphrase 
 lang="art-lojban">bo</foreignphrase> has the function of 
 connecting sentences through <foreignphrase 
 lang="art-lojban">sumti tcita</foreignphrase>, because it connects sentences 
@@ -167,16 +166,14 @@ version is
 
 <informalexample><para><foreignphrase lang="art-lojban">la suzyn. cinynei 
 ro melbi naja xajmi nanmu
-</foreignphrase></para></informalexample>
+</foreignphrase></para>
 
-To make this slightly (but only slightly!) more comprehensible, we can put 
+</informalexample>To make this slightly (but only slightly!) more comprehensible, we can put 
 this in forethought mode:
 
 <informalexample><para><foreignphrase lang="art-lojban">la suzyn. cinynei 
 ro <emphasis>gu'anai</emphasis> melbi <emphasis>gu'i</emphasis> xajmi nanmu
-</foreignphrase></para></informalexample>
-
-</para>
+</foreignphrase></para></informalexample></para>
 
 <para>There are no forethought versions of <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>-tail connectives. In practice, 
@@ -218,9 +215,7 @@ nanba .e loi jisra</foreignphrase> (Remember: Lojban nests to the left!)</para><
 lang="art-lojban">.i la djiotis. .onai la suzyn. djuno ledu'u la jang. zvati 
 .inaja la jang. se denpa </foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -346,9 +341,7 @@ recaclec. bi'i la pacaclec.</foreignphrase>, the order of the two times
 would not matter at all; so I could still be talking about a one-hour
 interval, rather than a 23-hour interval. </para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 <note><para>You can use non-logical connectives in forethought mode, too: 
 the forethought connective is the non-logical connective followed by <foreignphrase 
@@ -383,9 +376,7 @@ Ranjeet</emphasis>, Zhang is the purplest.</para></listitem>
 
 <listitem><para><emphasis>Ranjeet and Zhang</emphasis> are wearing shirts.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -469,10 +460,7 @@ bracket</quote>:
 
 <informalexample><literallayout><foreignphrase 
 lang="art-lojban">.i mi pu zi te vecnu lo xlali <emphasis>ke</emphasis> zgike karni .i tolzau la'o gy. Eurythmics gy.</foreignphrase>
-I just bought a bad {music magazine [}]. It dissed the Eurythmics.
-</literallayout></informalexample>
-
-</para>
+I just bought a bad {music magazine [}]. It dissed the Eurythmics.</literallayout></informalexample></para>
 
 <para>That's one way of grouping together <foreignphrase
 lang="art-lojban">gismu</foreignphrase> in <foreignphrase
@@ -549,9 +537,7 @@ lang="art-lojban">tanru</foreignphrase>-grouping <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> (<foreignphrase
 lang="art-lojban">ke, ke'e, bo</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -687,9 +673,7 @@ lang="art-lojban">.i la ranjit. krixa lu .i ckafi li'u</foreignphrase></para></l
 lang="art-lojban">.i la jang. se cfipu catlu gi'ebabo ke cmila gi'e cusku 
 lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -727,9 +711,7 @@ the four friends from the disco. (Use <foreignphrase
 lang="art-lojban">ce'o</foreignphrase> to join the steps in this somewhat
 unlikely sequence of events.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -740,8 +722,7 @@ unlikely sequence of events.)</para></listitem>
 
 <simplesect role="excanswer"><title>Exercise 1</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. nelci ga loi cidjrkari gi loi nanba</foreignphrase></para></listitem>
@@ -770,9 +751,7 @@ lang="art-lojban">loi jisra</foreignphrase>)</para></listitem>
 lang="art-lojban">.i ganai go la djiotis. ginai la suzyn. djuno ledu'u la jang. zvati 
 gi la jang. se denpa </foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -829,9 +808,7 @@ lang="art-lojban">.e</foreignphrase>: This is a perfectly logical
 connective: what Ranjeet and Zhang do with their shirts, they do 
 independently.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -923,9 +900,7 @@ lang="art-lojban">.i ge la jang. se cfipu catlu gibabo ge cmila gi cusku
 lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para>
 </listitem>
 
-</orderedlist>
-
-</para></simplesect>
+</orderedlist></para></simplesect>
 
 <simplesect role="exercise"><title>Exercise 4</title>
 
@@ -955,9 +930,8 @@ cabdei li'u</foreignphrase></para></listitem>
 lang="art-lojban">.i lu xamgu fa ge lenu la jang. vi zvati gi lenu do penmi ri ca le 
 cabdei li'u</foreignphrase></para></listitem>
 
-</itemizedlist>
-</para></listitem>
-
+</itemizedlist></para></listitem>
+ 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
 ko tavla ge la ranjit. ginai la jang. mi</foreignphrase>
 <emphasis>or</emphasis> <foreignphrase lang="art-lojban">.i la suzyn. cusku
@@ -1006,9 +980,7 @@ vehicle intended only for alien space &mdash; which can't be right, since
 the spaceship has just paid planet Earth a surprise visit. 
 <emphasis>Way</emphasis> surprising...)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 

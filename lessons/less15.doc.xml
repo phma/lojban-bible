@@ -1,4 +1,4 @@
-<chapter id="less15"><title>Singled out: Isolating specific places</title>
+<chapter id="less15"><title>Singled out: Isolating specific places</title><titleabbrev>Singled out</titleabbrev>
 
 <para>In this lesson, we look at three features of Lojban grammar which
 normally get relegated to the <quote role="socalled">too-hard</quote>
@@ -127,9 +127,7 @@ knows whether they want to eat lamb or beef; in Lojban,
 <informalexample><para><foreignphrase
 lang="art-lojban">ba'o lenu la djiotis. .e la suzyn. spuda kei le bevri cu
 djuno ledu'u ra djica lenu citka loi lanme <emphasis>je'i kau</emphasis>
-bakni</foreignphrase></para></informalexample>
-
-</para>
+bakni</foreignphrase></para></informalexample></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -188,10 +186,7 @@ Dylan here, but this is kind of a trick question. But do translate it as an
 indirect one, anyway.)</para></listitem>
 
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -321,9 +316,7 @@ in third year (if you were even offered it)
 just because it had all sorts of strange Greek letters and more mathematics
 than you were used to (i.e. none);</para></listitem>
 
-</itemizedlist>
-
-then it will mean something to you that <foreignphrase
+</itemizedlist>then it will mean something to you that <foreignphrase
 lang="art-lojban">ce'u</foreignphrase> is a lambda variable, and that
 <foreignphrase lang="art-lojban">le ka ce'u xlura da de di</foreignphrase>
 corresponds to &lambda;<wordasword>x</wordasword>.<foreignphrase
@@ -332,9 +325,7 @@ lang="art-lojban">da</foreignphrase>,<foreignphrase
 lang="art-lojban">de</foreignphrase>,<foreignphrase
 lang="art-lojban">di</foreignphrase>). The rest of you (which includes 90%
 of all programmers and 99% of all linguists) can go ahead and forget I ever
-mentioned this.
-
-</para></note>
+mentioned this.</para></note>
 
 <para>When there is no <foreignphrase
 lang="art-lojban">ce'u</foreignphrase> in the abstraction, the location of
@@ -417,9 +408,7 @@ lang="art-lojban">ce'u</foreignphrase> explicitly in all cases.
 Use <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -620,9 +609,7 @@ appropriate translation, in either case.
 
 <listitem><para>The irritation has begun.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -845,10 +832,7 @@ cu nandu</foreignphrase>
 </para>
 </listitem>
 
-</itemizedlist>
-
-</informalexample>
-</para>
+</itemizedlist></informalexample></para>
 
 <para>You'll notice that, with these new place structures, the Lojban
 phrases sound pretty much like their English equivalents: <foreignphrase
@@ -1074,9 +1058,7 @@ gy.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">.i la jang. cusku lu .i tu'a le fange na drani so'a da li'u</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
@@ -1120,9 +1102,7 @@ hall.</para></listitem>
 &stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase></quote>, which is 
 translated as <quote>Human logic. Yuck.</quote></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -1164,9 +1144,7 @@ lang="art-lojban">ko cusku fi mi fe lesedu'u pei kau do sepli gi'e na
 djuno le farna gi'e simsa lo gunro rokci</foreignphrase>. Told you this was 
 kind of a trick question...</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
@@ -1195,9 +1173,7 @@ arnold. cvartseneger.</foreignphrase></para></listitem>
 ce'u</foreignphrase>. A little contrived, we admit.</para></listitem>
 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
@@ -1253,9 +1229,7 @@ both be describing the same thing &mdash; without needing to strain abstractions
 out of one or the other using <foreignphrase
 lang="art-lojban">tu'a</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 4</title>
@@ -1314,9 +1288,7 @@ most regards.</quote> (In other words, there are properties
 involving these aliens that are not correct in most regards; for example, 
 their sense of direction.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 5</title>
@@ -1379,11 +1351,9 @@ dansydi'u</foreignphrase></para></listitem>
 gy. </foreignphrase><foreignphrase lang="art-klingon">xu&stress;m&akl;n &stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase> <foreignphrase lang="art-lojban">
 gy. noi se fanva fi lu .i remna logji .a'unai li'u</foreignphrase> (or, in
 Lojban phonetic approximation, <foreignphrase lang="art-lojban">lo'u xuman.
-mekok. uedj pux. le'u</foreignphrase>.)</para></listitem>
+mekok. uedj. pux. le'u</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>

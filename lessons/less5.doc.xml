@@ -12,18 +12,14 @@ lang="art-lojban">selbri</foreignphrase> meaning <quote role="gloss">is the
 time</quote>. The place structure of <foreignphrase
 lang="art-lojban">tcika</foreignphrase> is
 
-<informalexample><para>
-x1 (hours, minutes, seconds) is the time of state/event x2 on
-day/date x3, at location x4, by calendar x5</para></informalexample>
-
-So in Lojban, times does not exist in the abstract: times are always the 
+<informalexample><para>x1 (hours, minutes, seconds) is the time of state/event x2 on
+day/date x3, at location x4, by calendar x5</para></informalexample>So in Lojban, times does not exist in the abstract: times are always the 
 times <emphasis>of</emphasis> something. So we ask what the time is of <foreignphrase
 lang="art-lojban">ti</foreignphrase>, meaning <quote role="gloss">this event</quote>, or, in
 other words <quote role="gloss">now</quote>.  
 </para>
 
-<para>
-A full answer would obviously be very long-winded, but remembering the
+<para>A full answer would obviously be very long-winded, but remembering the
 Lojban convention that you miss out all the places after the last one you
 really need, a typical exchange would be:
 
@@ -46,9 +42,7 @@ really need, a typical exchange would be:
 
 
 </itemizedlist>
-</informalexample>
-
-Note the <foreignphrase lang="art-lojban">li</foreignphrase>, since we are
+</informalexample>Note the <foreignphrase lang="art-lojban">li</foreignphrase>, since we are
 talking about a number here. <foreignphrase lang="art-lojban">li
 papa</foreignphrase> is short for <foreignphrase lang="art-lojban">li papa cu
 tcika ti</foreignphrase> &mdash; <quote>the number four is the time of this
@@ -72,23 +66,12 @@ role="gloss">part</quote>, not <quote role="gloss">decimal point</quote>.
 So an alternative answer to the question could be
 
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">li papa pi'e mu</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">li papa pi'e mu</foreignphrase>
 Five past eleven.
-(The number eleven, and five parts of eleven)</literallayout>
-</informalexample>
-
-
-or if you want to be particularly precise,
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">li papa pi'e mu pi'e pabi</foreignphrase>
+(The number eleven, and five parts of eleven)</literallayout></informalexample>or if you want to be particularly precise, 
+<informalexample><literallayout><foreignphrase lang="art-lojban">li papa pi'e mu pi'e pabi</foreignphrase>
 Five minutes and eighteen seconds past eleven
-(The number eleven, and five parts of eleven, and eighteen parts of five)</literallayout>
-</informalexample>
-</para>
+(The number eleven, and five parts of eleven, and eighteen parts of five)</literallayout></informalexample></para>
 
 <para>Let's imagine, though, that the time is not five past eleven, but five
 <emphasis>to</emphasis> eleven. We can say <foreignphrase
@@ -149,10 +132,7 @@ to 16 (hexadecimal), so we have the extra numbers
 <listitem><para>15</para></listitem></varlistentry>
 
 
-</variablelist>
-
-
-Obviously for anything other than talking about computer programming, the
+</variablelist>Obviously for anything other than talking about computer programming, the
 numbers 13&ndash;15 are useless, but we can use 10&ndash;12 for hours.
 <quote role="gloss">Ten o'clock</quote> under this scheme is <foreignphrase
 lang="art-lojban">la daucac.</foreignphrase>, <quote role="gloss">eleven
@@ -172,8 +152,7 @@ lang="art-lojban">la mucac. lir.</foreignphrase> is five in the morning.
 so the 24-hour system is preferred by popular acclamation.</para>
 
 <simplesect role="exercise"><title>Exercise 1</title>
-<para>
-What are the following times in Lojban?
+<para>What are the following times in Lojban?
 
 
 <orderedlist>
@@ -203,8 +182,7 @@ What are the following times in Lojban?
 <listitem><para>17:50</para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 </sect1>
 
@@ -249,8 +227,7 @@ Logfest is Robin's celebration/celebrating</para></listitem></varlistentry>
 <listitem><para>I like the event such that Robin celebrates &mdash; I like 
 Robin's celebration</para></listitem></varlistentry>
 
-</variablelist>
-</para>
+</variablelist></para>
 
 
 <para>When used to introduce a <foreignphrase
@@ -261,14 +238,7 @@ article (<foreignphrase lang="art-lojban">le</foreignphrase> or
 separate word. So what we want is
 
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la daucac. tcika le<emphasis>nu</emphasis> mi klama</foreignphrase>
-</literallayout>
-</informalexample>
-
-
-(note that there is no <foreignphrase lang="art-lojban">cu</foreignphrase> here,
+<informalexample><literallayout><foreignphrase lang="art-lojban">la daucac. tcika le<emphasis>nu</emphasis> mi klama</foreignphrase></literallayout></informalexample>(note that there is no <foreignphrase lang="art-lojban">cu</foreignphrase> here,
 since <foreignphrase lang="art-lojban">la daucac.</foreignphrase> is a
 <foreignphrase lang="art-lojban">cmene</foreignphrase>)
 
@@ -282,14 +252,7 @@ and second places of any <foreignphrase
 lang="art-lojban">bridi</foreignphrase>.
 
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le nu mi klama cu <emphasis>se</emphasis> tcika la daucac.</foreignphrase>
-</literallayout>
-</informalexample>
-
-
-means exactly the same thing. <foreignphrase
+<informalexample><literallayout><foreignphrase lang="art-lojban">le nu mi klama cu <emphasis>se</emphasis> tcika la daucac.</foreignphrase></literallayout></informalexample>means exactly the same thing. <foreignphrase
 lang="art-lojban">se</foreignphrase> coincidentally is pretty much the
 same as Spanish <wordasword>se</wordasword>, but is actually part of a
 series along with <foreignphrase lang="art-lojban">te, ve</foreignphrase>
@@ -314,64 +277,44 @@ following pairs mean the same thing:
 
 <listitem>
 
-<literallayout>
-<foreignphrase lang="art-lojban">mi viska do</foreignphrase>
-I see you
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">mi viska do</foreignphrase>
+I see you</literallayout>
 
-<literallayout>
-<foreignphrase lang="art-lojban">do se viska mi</foreignphrase>
-You are seen by me
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">do se viska mi</foreignphrase>
+You are seen by me</literallayout>
 
 </listitem>
 
 <listitem>
 
-<literallayout>
-<foreignphrase lang="art-lojban">le nanmu cu klama lo barja</foreignphrase>
-The man goes to a bar
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">le nanmu cu klama lo barja</foreignphrase>
+The man goes to a bar</literallayout>
 
-<literallayout>
-<foreignphrase lang="art-lojban">lo barja cu se klama le nanmu</foreignphrase>
-A bar is gone to by the man
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">lo barja cu se klama le nanmu</foreignphrase>
+A bar is gone to by the man</literallayout>
+</listitem>
+
+<listitem>
+
+<literallayout><foreignphrase lang="art-lojban">la spot. mlatu la .abisinian.</foreignphrase>
+Spot is a feline of the breed Abyssinian</literallayout>
+
+<literallayout><foreignphrase lang="art-lojban">la .abisinian. se mlatu la spot.</foreignphrase>
+Abyssinian is the breed of cat Spot is</literallayout>
 
 </listitem>
 
 <listitem>
 
-<literallayout>
-<foreignphrase lang="art-lojban">la spot. mlatu la .abisinian.</foreignphrase>
-Spot is a feline of the breed Abyssinian
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">lenu mi cilre la lojban. cu xamgu mi</foreignphrase>
+My learning Lojban is good for me</literallayout>
 
-<literallayout>
-<foreignphrase lang="art-lojban">la .abisinian. se mlatu la spot.</foreignphrase>
-Abyssinian is the breed of cat Spot is
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">mi se xamgu lenu mi cilre la lojban</foreignphrase>
+I am benefitted by my learning Lojban</literallayout>
 
 </listitem>
 
-<listitem>
-
-<literallayout>
-<foreignphrase lang="art-lojban">lenu mi cilre la lojban. cu xamgu mi</foreignphrase>
-My learning Lojban is good for me
-</literallayout>
-
-<literallayout>
-<foreignphrase lang="art-lojban">mi se xamgu lenu mi cilre la lojban</foreignphrase>
-I am benefitted by my learning Lojban
-</literallayout>
-
-</listitem>
-
-</itemizedlist>
-
-
-</para>
+</itemizedlist></para>
 
 <para>Still too long and clumsy? Get ready for more Lojban tricks. It would
 be really nice if <foreignphrase lang="art-lojban">klama</foreignphrase>
@@ -385,14 +328,8 @@ lang="art-lojban">cmavo</foreignphrase> which add extra places to the
 role="gloss">occurring at the time of day...</quote>. So we can now say
 
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi klama ti'u la daucac.</foreignphrase>
-I am going at 10:00
-</literallayout>
-</informalexample>
-
-<foreignphrase lang="art-lojban">klama</foreignphrase> now expresses a 
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi klama ti'u la daucac.</foreignphrase>
+I am going at 10:00</literallayout></informalexample><foreignphrase lang="art-lojban">klama</foreignphrase> now expresses a 
 relationship between six things: a goer, a destination, a source, a route, 
 a vehicle, <emphasis>and</emphasis> a time at which this all takes place.
 </para>
@@ -450,11 +387,7 @@ Judeo-Christian convention of taking Sunday as the first day, giving
 <varlistentry><term>Tuesday</term> 
 <listitem><para><foreignphrase lang="art-lojban">la <emphasis>ci</emphasis>djed.</foreignphrase></para></listitem></varlistentry>
 
-</variablelist>
-
-
-
-... and so on. (Conveniently for one of your authors, this matches Greek
+</variablelist>... and so on. (Conveniently for one of your authors, this matches Greek
 for Monday through to Thursday.) However, in a meeting in 1992 it was
 agreed that Monday be day 1, and Sunday be either 7 (<foreignphrase
 lang="art-lojban">la zedjed.</foreignphrase>) or zero (<foreignphrase
@@ -484,8 +417,7 @@ lang="art-lojban">la daumast.</foreignphrase> .
 
 </para>
 
-<para>
-Just in case you're interested, the words for seasons are:
+<para>Just in case you're interested, the words for seasons are:
 <variablelist>
 <varlistentry><term><foreignphrase lang="art-lojban">vensa</foreignphrase></term> 
 <listitem><para>Spring</para></listitem></varlistentry>
@@ -495,11 +427,7 @@ Just in case you're interested, the words for seasons are:
 <listitem><para>Autumn</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="art-lojban">dunra</foreignphrase></term> 
 <listitem><para>Winter</para></listitem></varlistentry>
-</variablelist>
-
-
-
-(for full definitions of these words, see the <foreignphrase
+</variablelist>(for full definitions of these words, see the <foreignphrase
 lang="art-lojban">gismu</foreignphrase> list). If the seasons where you
 live don't match this pattern, then you can easily create new words. For
 example, the rainy season or monsoon could be <foreignphrase
@@ -522,8 +450,7 @@ role="gloss">the windy rain</quote> &mdash; Autumn</para></listitem></varlistent
 <varlistentry><term><foreignphrase lang="art-lojban">la duncarv.</foreignphrase></term> 
 <listitem><para><quote 
 role="gloss">the freezing rain</quote> &mdash; Winter</para></listitem></varlistentry>
-</variablelist>
-</para>
+</variablelist></para>
 
 <para>Joking aside, this shows two features of word-building in Lojban:
 making <foreignphrase lang="art-lojban">cmene</foreignphrase> by losing the
@@ -541,8 +468,7 @@ in this course.
 </para>
 
 <simplesect role="exercise"><title>Exercise 2</title>
-<para>
-What are these days and months in Lojban?
+<para>What are these days and months in Lojban?
 
 <orderedlist>
 <listitem><para>Saturday</para></listitem>
@@ -563,26 +489,19 @@ What are these days and months in Lojban?
 <listitem><para>December</para></listitem>
 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
 
 <sect1 id="less5dates"><title>Dates</title>
-<para>
-The <foreignphrase lang="art-lojban">gismu</foreignphrase> for dates is
+<para>The <foreignphrase lang="art-lojban">gismu</foreignphrase> for dates is
 <foreignphrase lang="art-lojban">detri</foreignphrase>:
 
 
-<informalexample><para>
-x1 is the date (day, week, month, year) of state/event x2, at location x3,
+<informalexample><para>x1 is the date (day, week, month, year) of state/event x2, at location x3,
 by calendar x4</para>
-</informalexample>
-
-
-Phew! Like <foreignphrase lang="art-lojban">tcika</foreignphrase>, though,
+</informalexample>Phew! Like <foreignphrase lang="art-lojban">tcika</foreignphrase>, though,
 most places of <foreignphrase lang="art-lojban">detri</foreignphrase> can
 be left out. The location is only important if we're talking about
 radically different timezones, or different planets, and the calendar is
@@ -596,8 +515,7 @@ probably assume that the Arabic calendar was being used.)
 
 </para>
 
-<para>
-The tricky bit is the number in x1.  Normally we don't want to specify the
+<para>The tricky bit is the number in x1.  Normally we don't want to specify the
 day, week, month <emphasis>and</emphasis> year!  To prevent confusion, the following
 conventions are used:
 
@@ -623,19 +541,13 @@ pasoxaso</foreignphrase> is 21/7/69 &mdash; the date of the first moon
 landing.</para></listitem>
 
 
-</itemizedlist>
-
-
-We can therefore say
+</itemizedlist>We can therefore say
 
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le lunra</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le lunra</foreignphrase>
 21/7/1969 is-the-date-of the-event a human first go (to) the moon</literallayout>
-</informalexample>
-
-</para></sect1>
+</informalexample></para></sect1>
 
 <sect1 id="less5terminators"><title>Terminators</title>
 
@@ -645,13 +557,9 @@ wasn't the 21st of June everywhere on Earth. In Tokyo, it was closer to the
 need to specify the x3 place of <foreignphrase
 lang="art-lojban">detri</foreignphrase>. So we can simply say:
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
+<informalexample><para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
 lunra la xustyn.
-</foreignphrase></para></informalexample>
-
-right?
-</para>
+</foreignphrase></para></informalexample>right?</para>
 
 <para>Actually, no. Look at that sentence again. How would we say that the
 21st was the day Armstrong went to the moon <emphasis>[going] from
@@ -694,11 +602,8 @@ inside another <foreignphrase lang="art-lojban">bridi</foreignphrase>
 means that our sentence about the moon landing is fully elaborated like
 this (putting in some braces to make things clearer): </para>
 
-<para>
-<informalexample><para>
-<foreignphrase lang="art-lojban">{li repa pi'e ze pi'e pasoxaso boi} cu detri [le{nu [lo remna ku] cu pamoi klama
-[le lunra ku] vau kei} ku] la xustyn.  vau</foreignphrase></para></informalexample>
-</para>
+<para><informalexample><para><foreignphrase lang="art-lojban">{li repa pi'e ze pi'e pasoxaso boi} cu detri [le{nu [lo remna ku] cu pamoi klama
+[le lunra ku] vau kei} ku] la xustyn.  vau</foreignphrase></para></informalexample></para>
 
 <para>The <foreignphrase lang="art-lojban">kei</foreignphrase> goes before
 <foreignphrase lang="art-lojban">la xustyn.</foreignphrase> . This means
@@ -735,19 +640,14 @@ looking at, that you'll get terminators appearing in normal Lojban usage at
 all. So our two possible interpretations of the sentence with Neil 
 Armstrong would normally appear as:
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
+<informalexample><para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
 lunra la xustyn.
-</foreignphrase> (date for going to the moon <emphasis>from</emphasis> Houston)</para></informalexample>
-
-<informalexample><para>
-<foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
+</foreignphrase> (date for going to the moon <emphasis>from</emphasis> Houston)</para>
+</informalexample><informalexample>
+<para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
 lunra kei la xustyn.
 </foreignphrase> (date for going to the moon <emphasis>according 
-to</emphasis> Houston)</para></informalexample>
-
-
-</para>
+to</emphasis> Houston)</para></informalexample></para>
 
 <note><para>Remember those pesky possessive constructions from a <link 
 linkend="less3">while 
@@ -770,41 +670,31 @@ lang="art-lojban">sumti</foreignphrase>. </para></note>
 
 <sect1 id="less5dates2"><title>Dates, Part 2</title>
 
-<para>
-Just as with <foreignphrase lang="art-lojban">tcika</foreignphrase>, we often want
+<para>Just as with <foreignphrase lang="art-lojban">tcika</foreignphrase>, we often want
 to put the event first &mdash; after all, in most languages we would
 normally say <quote>My birthday is on the fifteenth of August</quote>
 rather than <quote>The fifteenth of August is the date of my
 birthday.</quote> We can manage this change by using place tags, e.g.
 
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">fe lenu mi jbena [kei] cu detri fa li pamu pi'e bi </foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">fe lenu mi jbena [kei] cu detri fa li pamu pi'e bi </foreignphrase>
 the-event I am-born is-dated 15/8</literallayout>
-</informalexample>
-
-
-but it is easier to use <foreignphrase lang="art-lojban">se</foreignphrase> like this:
+</informalexample>but it is easier to use <foreignphrase lang="art-lojban">se</foreignphrase> like this:
 
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">lenu mi jbena cu <emphasis>se</emphasis> detri li pamu pi'e bi</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">lenu mi jbena cu <emphasis>se</emphasis> detri li pamu pi'e bi</foreignphrase>
 the-event I am-born is-dated 15/8</literallayout>
-</informalexample>
-</para>
+</informalexample></para>
 
-<para>
-In both cases, putting the <foreignphrase lang="art-lojban">lenu</foreignphrase> 
+<para>In both cases, putting the <foreignphrase lang="art-lojban">lenu</foreignphrase> 
 phrase before the <foreignphrase lang="art-lojban">cu</foreignphrase> is 
 convenient &mdash; and a well-established Lojban trick of the trade: <foreignphrase 
 lang="art-lojban">cu</foreignphrase> is powerful enough to close off any 
 structure in front of it, including <foreignphrase lang="art-lojban">lenu mi jbena</foreignphrase>.
 </para>
 
-<para>
-And, as you probably guessed, there is a <foreignphrase lang="art-lojban">sumti
+<para>And, as you probably guessed, there is a <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> for <quote role="gloss">dated</quote>: <foreignphrase
 lang="art-lojban">de'i</foreignphrase> (notice how <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> tend to be similar to the <foreignphrase
@@ -812,12 +702,8 @@ lang="art-lojban">selbri</foreignphrase> they suggest).  So the other way I can
 tell you my birthday is:
 
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">mi jbena de'i li pamupi'ebi
-</foreignphrase></para></informalexample>
-
-
-</para>
+<informalexample><para><foreignphrase lang="art-lojban">mi jbena de'i li pamupi'ebi
+</foreignphrase></para></informalexample></para>
 
 <formalpara>
 <title>Question</title><para>If only one number is used with
@@ -828,8 +714,7 @@ well?
 
 </formalpara>
 
-<para>
-The <foreignphrase lang="art-lojban">gismu</foreignphrase>, <foreignphrase
+<para>The <foreignphrase lang="art-lojban">gismu</foreignphrase>, <foreignphrase
 lang="art-lojban">nanca</foreignphrase> cannot be used instead of <foreignphrase
 lang="art-lojban">detri</foreignphrase>, since it has the place-structure
 <quote>x1 is x2 years in duration, by standard x3,</quote> i.e. it gives
@@ -884,8 +769,7 @@ role="gloss">thought-book</quote>)</para></listitem></varlistentry>
 <simplesect role="exercise"><title>Exercise 3 &mdash; history quiz</title>
 
 
-<para>
-Give the dates to answer these questions, using <foreignphrase lang="art-lojban">cmene</foreignphrase> for the years.
+<para>Give the dates to answer these questions, using <foreignphrase lang="art-lojban">cmene</foreignphrase> for the years.
 
 
 <orderedlist>
@@ -910,8 +794,7 @@ finti le guntrusi'o selpeicku ku de'i ma</foreignphrase></para></listitem>
 medinas. de'i ma</foreignphrase></para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -922,8 +805,7 @@ medinas. de'i ma</foreignphrase></para></listitem>
 
 <sect1 id="less5summary"><title>Summary</title>
 
-<para>
-Apart from times and dates, this lesson has covered some important points
+<para>Apart from times and dates, this lesson has covered some important points
 of Lojban grammar.
 
 
@@ -948,10 +830,7 @@ and <foreignphrase lang="art-lojban">de'i</foreignphrase> (<quote role="gloss">w
 date</quote>).</para></listitem>
 
 
-</itemizedlist>
-
-
-</para>
+</itemizedlist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title> 
 <variablelist>
@@ -1058,11 +937,9 @@ at/attending/present at x2
 lang="art-lojban">nu</foreignphrase> which would properly be expressed 
 using <foreignphrase lang="art-lojban">du'u</foreignphrase> instead. Since 
 you don't know what <foreignphrase lang="art-lojban">du'u</foreignphrase> 
-is yet, stay tuned for <link linkend="less7">Lesson 7</link>.</para></note>
+is yet, stay tuned for <link linkend="less7">Lesson 7</link>.</para>
 
-<orderedlist>
-
-<listitem><para><foreignphrase lang="art-lojban">.i la jang. cu zvati le
+</note><orderedlist><listitem><para><foreignphrase lang="art-lojban">.i la jang. cu zvati le
 barja</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la jang. denpa lenu la suzyn. 
@@ -1093,8 +970,7 @@ birje</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i la jang. cliva le
 barja</foreignphrase></para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5 (Advanced)</title>
@@ -1122,8 +998,7 @@ Susan.</quote>)</para></listitem>
 Jyoti at 22:45. (Hint: treat the <quote role="gloss">so that</quote>-clause 
 as a <foreignphrase lang="art-lojban">sumti</foreignphrase> of <wordasword>want</wordasword>.)</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -1134,8 +1009,7 @@ as a <foreignphrase lang="art-lojban">sumti</foreignphrase> of <wordasword>want<
 
 <simplesect role="excanswer"><title>Exercise 1</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">la
@@ -1172,17 +1046,13 @@ pavopimu</foreignphrase></para></listitem>
 pabini'upano</foreignphrase></para></listitem>
 
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
 
 <simplesect role="excanswer"><title>Exercise 2</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">la zedjed.</foreignphrase></para></listitem>
@@ -1203,14 +1073,12 @@ pabini'upano</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">la gaimast.</foreignphrase></para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">la pavosorenanc.</foreignphrase></para></listitem>
@@ -1230,13 +1098,11 @@ pabini'upano</foreignphrase></para></listitem>
 the Muslim calendar)</para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 4</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>Zhang is at the bar.</para></listitem>
 
@@ -1293,13 +1159,11 @@ with its x1 missing is considered an observative.)</para></listitem>
 
 <listitem><para>Zhang leaves the bar.</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">.i la suzyn. klama le barja ti'u li rere le 
@@ -1343,8 +1207,7 @@ lang="art-lojban">sumti</foreignphrase> of <foreignphrase
 lang="art-lojban">zvati</foreignphrase>, not of <foreignphrase 
 lang="art-lojban">djica</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 

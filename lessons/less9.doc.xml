@@ -1,5 +1,5 @@
 <chapter id="less9"><title>Let me qualify that: internal <foreignphrase 
-lang="art-lojban">sumti</foreignphrase> and relative clauses</title>
+lang="art-lojban">sumti</foreignphrase> and relative clauses</title><titleabbrev>Let me qualify that</titleabbrev>
 
 <sect1 id="less9internal"><title>Internal <foreignphrase 
 lang="art-lojban">sumti</foreignphrase></title>
@@ -68,42 +68,28 @@ lang="art-lojban">be</foreignphrase> fills in the x2 place of the <foreignphrase
 lang="art-lojban">sumti</foreignphrase>. So:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la renas. mensi mi</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la renas. mensi mi</foreignphrase>
 Rena is my sister
 <foreignphrase lang="art-lojban">le mensi be mi</foreignphrase>
-My sister
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la renas. te dunda le cukta</foreignphrase>
+My sister</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">la renas. te dunda le cukta</foreignphrase>
 Rena is given the book
 <foreignphrase lang="art-lojban">le te dunda be le cukta</foreignphrase>
-The recipient of the book
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la renas. klama la sidnis.</foreignphrase>
+The recipient of the book</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">la renas. klama la sidnis.</foreignphrase>
 Rena is going to Sydney
 <foreignphrase lang="art-lojban">le klama be la sidnis.</foreignphrase>
-The one going to Sydney
-</literallayout>
-</informalexample>
-
-As you can see, <foreignphrase lang="art-lojban">be</foreignphrase> translates
+The one going to Sydney</literallayout>
+</informalexample>As you can see, <foreignphrase lang="art-lojban">be</foreignphrase> translates
 often &mdash; but not always &mdash; to English
 <wordasword>of</wordasword>. In fact, it covers surprisingly many of the
 functions of <wordasword>of</wordasword>. And because it is tied to a
 specific place of the <foreignphrase lang="art-lojban">sumti</foreignphrase>, its
 relation to the main <foreignphrase lang="art-lojban">sumti</foreignphrase> is
 unambiguous (another one of Lojban's <quote role="socalled">selling
-points</quote>!)
-
-</para>
+points</quote>!)</para>
 </sect1>
 
 <sect1 id="less9intmore"><title>More internal <foreignphrase 
@@ -112,24 +98,16 @@ lang="art-lojban">sumti</foreignphrase></title>
 to a place other than x2, you can use a FA tag. So:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la renas. klama fi la melbn.</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la renas. klama fi la melbn.</foreignphrase>
 Rena is going from Melbourne
 <foreignphrase lang="art-lojban">le klama be fi la melbn.</foreignphrase>
-The one going from Melbourne
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ti xatra fo lei dinske</foreignphrase>
+The one going from Melbourne</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">ti xatra fo lei dinske</foreignphrase>
 This is a letter about economics
 <foreignphrase lang="art-lojban">le xatra be fo lei dinske</foreignphrase>
-The letter about economics
-</literallayout>
-</informalexample>
-
-</para>
+The letter about economics</literallayout>
+</informalexample></para>
 
 <para>If you want to be really thorough, you can add more than one
 <foreignphrase lang="art-lojban">sumti</foreignphrase> to the <foreignphrase
@@ -146,24 +124,16 @@ lang="art-lojban">sumti</foreignphrase> you just added, rather than the original
 clear. Let me illustrate:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la renas. klama {le jarbu be la melbn.}</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la renas. klama {le jarbu be la melbn.}</foreignphrase>
 Rena is going to a suburb of Melbourne
 <foreignphrase lang="art-lojban">le klama {be le jarbu be la melbn.}</foreignphrase>
-The one going to a suburb of Melbourne
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la renas. klama {le jarbu} {la melbn.}</foreignphrase>
+The one going to a suburb of Melbourne</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">la renas. klama {le jarbu} {la melbn.}</foreignphrase>
 Rena is going to a suburb, from Melbourne
 <foreignphrase lang="art-lojban">le klama {be le jarbu} {bei la melbn.}</foreignphrase>
-The one going to a suburb, from Melbourne
-</literallayout>
-</informalexample>
-
-This means you can nest <foreignphrase
+The one going to a suburb, from Melbourne</literallayout>
+</informalexample>This means you can nest <foreignphrase
 lang="art-lojban">sumti</foreignphrase> inside <foreignphrase
 lang="art-lojban">sumti</foreignphrase> inside <foreignphrase
 lang="art-lojban">sumti</foreignphrase>, up to and including the point
@@ -177,8 +147,7 @@ lang="art-lojban">be'o</foreignphrase>. Armed with this little word, you
 can inflict on the world such untold misery as this:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le xatra be la jang. bei la suzyn.</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">le xatra be la jang. bei la suzyn.</foreignphrase>
 The letter from Zhang to Susan
 <foreignphrase lang="art-lojban">la djiotis. mrilu ti la ranjit.</foreignphrase>
 Jyoti mails this to Ranjeet
@@ -187,11 +156,8 @@ Jyoti mails {Zhang's letter to Susan} to Ranjeet
 <foreignphrase lang="art-lojban">le mrilu be le xatra be la jang. bei la suzyn. be'o bei la ranjit.</foreignphrase>
 The one who mails {Zhang's letter to Susan} to Ranjeet
 <foreignphrase lang="art-lojban">le mrilu be le xatra be la jang. bei la suzyn.      bei la ranjit.</foreignphrase>
-The one who mails {Zhang's letter to Susan about Ranjeet}
-</literallayout>
-</informalexample>
-
-</para>
+The one who mails {Zhang's letter to Susan about Ranjeet}</literallayout>
+</informalexample></para>
 
 <note><para>Just because you can inflict such untold misery doesn't mean
 you have to, of course. In fact, like <foreignphrase
@@ -247,8 +213,7 @@ lang="art-lojban">be'o</foreignphrase> as needed to link the existing
 translate the <foreignphrase lang="art-lojban">sumti</foreignphrase> into as
 colloquial English as you can manage. </para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">ti fanza la suzyn.</foreignphrase></para></listitem>
 
@@ -271,9 +236,7 @@ ctuca</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">ti kansa le ctuca be la ranjit. 
 lenu pinxe loi birje</foreignphrase> (Hint: be careful about this one!)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -296,14 +259,14 @@ internal <foreignphrase lang="art-lojban">sumti</foreignphrase>, as well. This
 can often be useful. For example, if I wanted to say
 
 <informalexample><para>This letter, dated the 4th, was mailed on the 
-7th</para></informalexample>
+7th</para>
 
-I could try 
+</informalexample>I could try 
 
 <informalexample><para><foreignphrase lang="art-lojban">le vi xatra de'i li pa cu 
-se mrilu de'i li ze</foreignphrase></para></informalexample>
+se mrilu de'i li ze</foreignphrase></para>
 
-But this would not work at all. A date tagged with <foreignphrase
+</informalexample>But this would not work at all. A date tagged with <foreignphrase
 lang="art-lojban">de'i</foreignphrase> applies to the whole <foreignphrase
 lang="art-lojban">bridi</foreignphrase>, and can appear anywhere in that
 <foreignphrase lang="art-lojban">bridi</foreignphrase>. So there's no
@@ -316,9 +279,9 @@ lang="art-lojban">le xatra</foreignphrase>. So it is an internal
 <foreignphrase lang="art-lojban">sumti</foreignphrase>:
 
 <informalexample><para><foreignphrase lang="art-lojban">le vi xatra be de'i li pa cu 
-se mrilu de'i li ze</foreignphrase></para></informalexample>
+se mrilu de'i li ze</foreignphrase></para>
 
-Much better. A pity you won't actually see <foreignphrase 
+</informalexample>Much better. A pity you won't actually see <foreignphrase 
 lang="art-lojban">sumti tcita</foreignphrase> handled like this.
 </para>
 
@@ -352,9 +315,9 @@ lang="art-lojban">fi'e</foreignphrase> is almost always used as an internal
 <foreignphrase lang="art-lojban">sumti</foreignphrase>. This means you can say
 
 <informalexample><para><foreignphrase lang="art-lojban">le cukta be fi'e la 
-dikens.</foreignphrase></para></informalexample>
+dikens.</foreignphrase></para>
 
-(As it happens, that's the same as saying <foreignphrase lang="art-lojban">le cukta be fi la 
+</informalexample>(As it happens, that's the same as saying <foreignphrase lang="art-lojban">le cukta be fi la 
 dikens.</foreignphrase> . The good thing about <foreignphrase 
 lang="art-lojban">sumti tcita</foreignphrase> is, you can use them when you've 
 forgotten the default places of your <foreignphrase lang="art-lojban">selbri</foreignphrase>. Which you will.)
@@ -366,9 +329,9 @@ is very good</quote>? I <emphasis>could</emphasis> say
 
 <informalexample><para><foreignphrase 
 lang="art-lojban">la .Oliver.tuist. be fi'e la dikens. cu mutce 
-xamgu</foreignphrase></para></informalexample>
+xamgu</foreignphrase></para>
 
-But that looks kind of odd: <foreignphrase
+</informalexample>But that looks kind of odd: <foreignphrase
 lang="art-lojban">.Oliver.tuist</foreignphrase> is not really a <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, so it is strange to say that it actually
 has <foreignphrase lang="art-lojban">sumti</foreignphrase> places of its 
@@ -377,9 +340,9 @@ But if you say
 
 <informalexample><para><foreignphrase 
 lang="art-lojban">la .Oliver.tuist. pe fi'e la dikens. cu mutce 
-xamgu</foreignphrase></para></informalexample>
+xamgu</foreignphrase></para>
 
-you aren't really committing to <foreignphrase
+</informalexample>you aren't really committing to <foreignphrase
 lang="art-lojban">.Oliver.tuist</foreignphrase> being a <foreignphrase
 lang="art-lojban">selbri</foreignphrase>; you're merely saying that the phrase
 <quote>authored by Dickens</quote> is closely associated with the thing
@@ -425,8 +388,7 @@ lang="art-lojban">sumti</foreignphrase> (in which case use <foreignphrase
 lang="art-lojban">pe</foreignphrase> to link it in), or a normal <foreignphrase 
 lang="art-lojban">sumti</foreignphrase>.</para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>I mail you <emphasis>in Lojban</emphasis> (<foreignphrase 
 lang="art-lojban">bau</foreignphrase>: in language..., from <foreignphrase 
@@ -456,9 +418,7 @@ Ranjeet cannot go to the Pakistani restaurant</emphasis> (<foreignphrase
 lang="art-lojban">mu'u</foreignphrase>: exemplified by..., from <foreignphrase 
 lang="art-lojban">mupli</foreignphrase> <quote role="gloss">example</quote>)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -511,17 +471,13 @@ economics</quote>? Let's take
 it by steps:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">do pu tavla le mi mensi loi dinske</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">do pu tavla le mi mensi loi dinske</foreignphrase>
 You talked to my sister about economics
 <foreignphrase lang="art-lojban">le mi mensi na nelci la rikis.martin.</foreignphrase>
 My sister does not like Ricky Martin
 <foreignphrase lang="art-lojban">do pu tavla le mi mensi {poi ri na nelci la rikis.martin. ku'o} loi dinske</foreignphrase>
-You talked to my sister who doesn't like Ricky Martin about economics
-</literallayout>
-</informalexample>
-
-Notice that you needed the <foreignphrase lang="art-lojban">ku'o</foreignphrase>
+You talked to my sister who doesn't like Ricky Martin about economics</literallayout>
+</informalexample>Notice that you needed the <foreignphrase lang="art-lojban">ku'o</foreignphrase>
 there, to keep the relative clause out of the hair of the main
 <foreignphrase lang="art-lojban">bridi</foreignphrase>. Otherwise, <foreignphrase
 lang="art-lojban">loi dinske</foreignphrase> would be a <foreignphrase
@@ -563,44 +519,23 @@ you've been talking about. So now, we can make a stab at all four relative
 clauses in our example:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le mi mensi poi ke'a na nelci la rikis.martin.</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">le mi mensi poi ke'a na nelci la rikis.martin.</foreignphrase>
 My sister, such that she doesn't like Ricky Martin
-My sister who doesn't like Ricky Martin
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le mi mensi poi do viska ke'a ca le purlamcte</foreignphrase>
+My sister who doesn't like Ricky Martin</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">le mi mensi poi do viska ke'a ca le purlamcte</foreignphrase>
 My sister, such that you saw her at the restaurant during the immediately-preceding-night
-My sister whom you saw at the restaurant last night
-</literallayout>
-</informalexample>
-
-<informalexample>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">{le gusta be loi kisto be'o} poi ke'a berti le tcadu</foreignphrase>
+My sister whom you saw at the restaurant last night</literallayout>
+</informalexample><informalexample><para><literallayout><foreignphrase lang="art-lojban">{le gusta be loi kisto be'o} poi ke'a berti le tcadu</foreignphrase>
 The restaurant of Pakistani things such that it is north of the city
-The Pakistani restaurant which is north of town
-</literallayout>
-(The <foreignphrase 
+The Pakistani restaurant which is north of town </literallayout>(The <foreignphrase 
 lang="art-lojban">be'o</foreignphrase> is needed, because what you're describing 
-as being north is the restaurant, not the Pakistani cuisine it serves.)
-</para>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le gusta be loi kisto be'o poi mi citka loi cidjrkari ne'i ke'a</foreignphrase>
+as being north is the restaurant, not the Pakistani cuisine it serves.)</para>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">le gusta be loi kisto be'o poi mi citka loi cidjrkari ne'i ke'a</foreignphrase>
 The restaurant of Pakistani things, such that I eat curry in it
 The Pakistani restaurant [that] I eat curry in
-The Pakistani restaurant where I eat curry
-</literallayout>
-</informalexample>
-
-</para>
+The Pakistani restaurant where I eat curry</literallayout></informalexample></para>
 
 <para>To make things somewhat more succinct, there's a convention that,
 when a relative clause is missing its <foreignphrase
@@ -617,27 +552,13 @@ languages' relative clauses, as they don't use a distinct word for
 lang="art-lojban">poi</foreignphrase>. So our example phrases become:</para>
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le mi mensi poi na nelci la rikis.martin.</foreignphrase>
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le mi mensi poi do viska ca le purlamcte</foreignphrase>
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le gusta be loi kisto be'o poi berti le tcadu</foreignphrase>
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le gusta be loi kisto be'o poi mi citka loi cidjrkari vi ke'a</foreignphrase>
-</literallayout>
+<literallayout><foreignphrase lang="art-lojban">le mi mensi poi na nelci la rikis.martin.</foreignphrase></literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">le mi mensi poi do viska ca le purlamcte</foreignphrase></literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">le gusta be loi kisto be'o poi berti le tcadu</foreignphrase></literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">le gusta be loi kisto be'o poi mi citka loi cidjrkari vi ke'a</foreignphrase></literallayout>
 </informalexample>
 
 <para>The last sentence hasn't changed: the convention does not apply to
@@ -653,9 +574,7 @@ true. (More on this in <link linkend="less11">Lesson 11</link>.) For
 example, <foreignphrase lang="art-lojban">le mi mensi poi na nelci la
 rikis.martin. <emphasis>zi'e</emphasis> poi do viska ca le
 purlamcte</foreignphrase> <quote>My sister who doesn't like Ricky Martin
-<emphasis>and</emphasis> whom you saw last night.</quote></para></note>
-
-</para>
+<emphasis>and</emphasis> whom you saw last night.</quote></para></note></para>
 
 <simplesect role="exercise"><title>Exercise 3</title>
 
@@ -670,17 +589,11 @@ lang="art-lojban">ku'o</foreignphrase> where this would not result in ambiguity.
 For example:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">.i mi viska <emphasis>le botpi</emphasis> .i <emphasis>le botpi</emphasis> cu culno</foreignphrase>
-<foreignphrase lang="art-lojban">.i mi viska le botpi poi culno</foreignphrase>
-</literallayout>
-</informalexample>
+<literallayout><foreignphrase lang="art-lojban">.i mi viska <emphasis>le botpi</emphasis> .i <emphasis>le botpi</emphasis> cu culno</foreignphrase>
+<foreignphrase lang="art-lojban">.i mi viska le botpi poi culno</foreignphrase></literallayout>
+</informalexample>Watch out for any terminators you may have to insert!</para>
 
-Watch out for any terminators you may have to insert!
-</para>
-
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">.i le ninmu cu dunda le cifnu <emphasis>le nanmu</emphasis> .i 
@@ -714,9 +627,7 @@ ninmu cu dunda le cifnu <emphasis>le kansa be le ninmu</emphasis></foreignphrase
 lang="art-lojban">.i mi kakne <emphasis>lenu citka loi cidjrkari</emphasis> .i 
 <emphasis>lenu citka loi cidjrkari</emphasis> cu nandu</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -730,10 +641,9 @@ used just to supply extra information about someone or something whose
 identity we've already worked out. For example, if I say
 
 <informalexample><para>Lojban, which is descended from (Institute) Loglan, 
-has a public domain grammar 
-</para></informalexample>
+has a public domain grammar</para>
 
-I'm hardly saying that Lojban is descended from Institute Loglan in order
+</informalexample>I'm hardly saying that Lojban is descended from Institute Loglan in order
 to distinguish it from the scores of Lojbans <emphasis>not</emphasis>
 descended from Loglan! Instead, I'm providing extra, incidental
 information, to fill in the listener or reader. </para>
@@ -757,14 +667,11 @@ lang="art-lojban">noi</foreignphrase>, rather than <foreignphrase
 lang="art-lojban">poi</foreignphrase>. Otherwise, their grammar is identical:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la lojban. <emphasis>noi</emphasis> [ke'a] se dzena la loglan. pe le ckule cu se gerna lo gubni</foreignphrase>
-Lojban, which (non-restrictive) [it] has-the-ancestor Loglan-of-the-institute, has-as-its-grammar something-public
-</literallayout></informalexample>
+<literallayout><foreignphrase lang="art-lojban">la lojban. <emphasis>noi</emphasis> [ke'a] se dzena la loglan. pe le ckule cu se gerna lo gubni</foreignphrase>
+Lojban, which (non-restrictive) [it] has-the-ancestor Loglan-of-the-institute, has-as-its-grammar something-public</literallayout>
 
-(Yes, that's the old <quote><foreignphrase lang="art-lojban">cu</foreignphrase> 
-closing off everything in its wake</quote> trick in action.)
-</para>
+</informalexample>(Yes, that's the old <quote><foreignphrase lang="art-lojban">cu</foreignphrase> 
+closing off everything in its wake</quote> trick in action.)</para>
 
 <note><para>The restrictive/non-restrictive divide also applies to a
 word we saw back in <link linkend="less3">Lesson 3</link>: <foreignphrase
@@ -798,9 +705,7 @@ lang="art-lojban">poi, ku'o, ke'a</foreignphrase>)</para></listitem>
 <listitem><para>Non-restrictive relative clauses (<foreignphrase 
 lang="art-lojban">noi, ne</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -896,8 +801,7 @@ performed/produced by x2 (event)</para></listitem></varlistentry>
 
 <para>Translate from Lojban:</para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i bazi lo cacra be li pimu kei le 
 karce cu zvati le kisto gusta
@@ -930,9 +834,7 @@ djiotis.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i ko penmi mi'a vi le dansydi'u 
 pe vi la re moi klaji ba lo cacra be li re li'u</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -941,8 +843,7 @@ pe vi la re moi klaji ba lo cacra be li re li'u</foreignphrase></para></listitem
 
 <para>Translate into Lojban:</para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>When Jyoti goes to the interior of the restaurant, Susan 
 asks her <quote>Where were you?</quote></para></listitem>
@@ -970,9 +871,7 @@ to a restaurant north of town.</quote></para></listitem>
 supplier (= waiter) to 
 her left to come.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -983,8 +882,7 @@ her left to come.</para></listitem>
 
 <simplesect role="excanswer"><title>Exercise 1</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">le fanza be la 
 suzyn.</foreignphrase>: Susan's annoyance, what annoyed Susan</para></listitem>
@@ -1033,15 +931,12 @@ is a fact (<foreignphrase lang="art-lojban">du'u</foreignphrase>) and not an
 event (<foreignphrase lang="art-lojban">nu</foreignphrase>) &mdash; and you would 
 <emphasis>never</emphasis> get the two confused. Right?</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">mi mrilu fi do bau la
 lojban.</foreignphrase></para></listitem>
@@ -1074,15 +969,12 @@ mu'u lenu la ranjit na kakne lenu klama le kisto gusta</foreignphrase>
 (Ranjeet's navigational difficulties are an illustration of the complexity
 of city streets &mdash; not of the streets themselves.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i le ninmu cu dunda le cifnu le
 nanmu poi citka loi cidjrkari</foreignphrase> <quote>The woman gives the
@@ -1156,15 +1048,12 @@ lang="art-lojban">kei</foreignphrase>, so that the relative clause applies to th
 entire abstraction. Otherwise, what is difficult is not eating the curry, 
 but the curry itself.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 4</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>A little after half an hour, the car is at the Pakistani 
 restaurant.</para>
@@ -1234,15 +1123,12 @@ lang="art-lojban">nomoi</foreignphrase> <quote role="gloss">zeroth</quote>,
 <foreignphrase lang="art-lojban">romoi</foreignphrase> <quote role="gloss">allth =
 last</quote> &mdash; are formed in the same way.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca lenu la djiotis. klama le
 nenri be le gusta kei la suzyn. te preti fi dy. fe lu .i do zvati ma
@@ -1329,9 +1215,7 @@ vo'a</foreignphrase>) (As you can see, <foreignphrase
 lang="art-lojban">vo'a</foreignphrase> is more useful than you might
 think!)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 

@@ -32,31 +32,20 @@ building blocks of Lojban vocabulary. <foreignphrase
 lang="art-lojban">gismu</foreignphrase> are easy to recognise, because they
 always have five letters, in the form
 
-<informalexample>
-<literallayout>
-CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu</foreignphrase>
-</literallayout>
-</informalexample>
+<informalexample><literallayout>CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></informalexample>
 or
-<informalexample>
-<literallayout>
-CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene</foreignphrase>
-(C=consonant; V=vowel).
-</literallayout>
-</informalexample>
-</para>
+<informalexample><literallayout>CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene</foreignphrase>
+(C=consonant; V=vowel).</literallayout></informalexample></para>
 
 
 
 <simplesect role="exercise"><title>Exercise 1</title>
-<para>
-Which of the following Lojban words are:
+<para>Which of the following Lojban words are:
 <orderedlist numeration="loweralpha">
 <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem>
 <listitem><para>neither?</para></listitem>
-</orderedlist>
-</para>
+</orderedlist></para>
 
 <para>Note: I've left out the full stops in the <foreignphrase
 lang="art-lojban">cmene</foreignphrase> &mdash; that would make it too easy!
@@ -72,9 +61,7 @@ lang="art-lojban">cmene</foreignphrase> &mdash; that would make it too easy!
 <listitem><para><foreignphrase lang="art-lojban">ka'e</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">dublin</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">selbri </foreignphrase></para></listitem>
-</orderedlist>
-</para>
-</simplesect>
+</orderedlist></para></simplesect>
 </sect1>
 
 <sect1 id="less2places"><title>Take your places...</title> 
@@ -85,16 +72,8 @@ lang="art-lojban">gismu</foreignphrase>, let's see what we can make it do.
 role="gloss">give</quote>, and as a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> it describes a relationship
 between a giver, something they give, and someone who receives it. Let's
-say we have three people, Maria, Claudia and Julia. If we say
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">
-la mari,as. dunda la .iulias. la klaudias.
-</foreignphrase>
-</literallayout>
-</informalexample>
-
+say we have three people, Maria, Claudia and Julia. If we say 
+<informalexample><literallayout><foreignphrase lang="art-lojban">la mari,as. dunda la .iulias. la klaudias.</foreignphrase></literallayout></informalexample> 
 we mean that Maria gives Julia to Claudia. (Let's say Julia is a
 baby, as since the abolition of slavery, we don't normally give people as
 presents. In English you <emphasis>can</emphasis> <quote
@@ -111,16 +90,8 @@ like <wordasword>a</wordasword> and <wordasword>the</wordasword> in English.
 Its job is to signal to the listener that the word coming up is a name, and 
 not some other kind of word.</para></note>
 
-<para>If, on the other hand, we say
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">
-la .iulias. dunda la mari,as. la klaudias.
-</foreignphrase>
-</literallayout>
-</informalexample>
-
+<para>If, on the other hand, we say 
+<informalexample><literallayout><foreignphrase lang="art-lojban">la .iulias. dunda la mari,as. la klaudias.</foreignphrase></literallayout></informalexample> 
 we mean that Maria is the baby, and Julia gives her to Claudia. How do we
 know this? English uses the word <wordasword>to</wordasword> to indicate
 the receiver, and in some other languages (like Latin or Turkish) the form
@@ -128,14 +99,8 @@ of the words themselves change. In Lojban, as in logic, we have what is
 called <emphasis>place structure</emphasis>. </para>
 
 <para>Place-structure means that <foreignphrase
-lang="art-lojban">dunda</foreignphrase> doesn't just mean <wordasword>give</wordasword>, it means
-
-<informalexample>
-<literallayout>
-x1 gives x2 to x3
-</literallayout>
-</informalexample>
-
+lang="art-lojban">dunda</foreignphrase> doesn't just mean <wordasword>give</wordasword>, it means 
+<informalexample><literallayout>x1 gives x2 to x3</literallayout></informalexample> 
 where <wordasword>x</wordasword> means someone or something. Even if we
 just say <foreignphrase lang="art-lojban">dunda</foreignphrase> on its own, we
 still mean that someone gives something to someone; we just aren't
@@ -153,16 +118,8 @@ places are called <foreignphrase lang="art-lojban">sumti</foreignphrase> in Lojb
 <emphasis>does</emphasis>. The simplest Lojban sentence is a <foreignphrase
 lang="art-lojban">bridi</foreignphrase>, i.e. a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> and a bunch of <foreignphrase
-lang="art-lojban">sumti</foreignphrase>. In other words,
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">
-bridi = selbri + sumti
-</foreignphrase>
-</literallayout>
-</informalexample>
-</para>
+lang="art-lojban">sumti</foreignphrase>. In other words, 
+<informalexample><literallayout><foreignphrase lang="art-lojban">bridi = selbri + sumti</foreignphrase></literallayout></informalexample></para>
 
 <note><title>Note for logicians and computer programmers</title><para>For
 <foreignphrase lang="art-lojban">selbri</foreignphrase> read <quote
@@ -285,8 +242,7 @@ cases where it's worth learning the place structure to avoid
 misunderstanding, but usually you can guess place structures using context
 and a few rules of thumb. </para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>The first place is often the person or thing who
 <emphasis>does</emphasis> something or <emphasis>is</emphasis> something
@@ -304,8 +260,7 @@ he/she/it is usually in the second place.  </para></listitem>
 like <quote role="gloss">by standard</quote>, <quote role="gloss">by
 means</quote> or <quote role="gloss">made of</quote>.</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 
 <para>The general idea is that the places which are most likely to be
 filled come first. You don't have to use all the available places, and any
@@ -325,8 +280,7 @@ where she goes to. Where she starts her journey, the route she takes and
 what transport she uses are progressively less important, so they occupy
 the third, fourth and fifth places. </para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 <listitem><para><foreignphrase lang="art-lojban">karce</foreignphrase> &ndash; car</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase> &ndash; like</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> &ndash; name</para></listitem>
@@ -337,8 +291,7 @@ the third, fourth and fifth places. </para>
 <listitem><para><foreignphrase lang="art-lojban">barda</foreignphrase> &ndash; big</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cusku</foreignphrase> &ndash; say, express</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">tavla</foreignphrase> &ndash; talk, chat</para></listitem>
-</orderedlist>
-</para>
+</orderedlist></para>
 
 <note><para>What the place structure for <foreignphrase 
 lang="art-lojban">gismu</foreignphrase> should be is often enough an 
@@ -356,25 +309,12 @@ lang="art-lojban">sumti</foreignphrase></title> <para>So far we've seen how a
 between two or more <foreignphrase lang="art-lojban">cmene</foreignphrase>, so we
 can say things like
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>
-Bill likes Mei Li
-</literallayout>
-</informalexample>
-
-But if we don't know her name, how can we say <quote>Bill likes the
+<informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>
+Bill likes Mei Li</literallayout></informalexample>But if we don't know her name, how can we say <quote>Bill likes the
 woman</quote>? If we say <foreignphrase lang="art-lojban">la bil. nelci la
 ninmu</foreignphrase>, we mean that Bill likes someone whose name is
-<wordasword>Woman</wordasword>. What we say, in fact, is
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase>
-</literallayout>
-</informalexample>
-
-What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? We
+<wordasword>Woman</wordasword>. What we say, in fact, is 
+<informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase></literallayout></informalexample>What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? We
 translated it into English as <quote role="gloss">the</quote>, and like
 <wordasword>the</wordasword> and <foreignphrase
 lang="art-lojban">la</foreignphrase>, it <emphasis>is</emphasis> an article; but
@@ -404,7 +344,7 @@ lang="art-lojban">mi</foreignphrase> (I/me), <foreignphrase
 lang="art-lojban">do</foreignphrase> (you, the person I'm talking to) or any words
 like this (<quote role="socalled">pro-<foreignphrase
 lang="art-lojban">sumti</foreignphrase></quote>, in Lojban
-jargon). Nut <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> doesn't
+jargon). But <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> doesn't
 mean <quote>The woman goes</quote>. Two <foreignphrase 
 lang="art-lojban">gismu</foreignphrase> next to each other form a
 compound <foreignphrase lang="art-lojban">selbri</foreignphrase> (or
@@ -414,14 +354,7 @@ lang="art-lojban">klama</foreignphrase> get run together &mdash; with the result
 that it means <quote>The woman-type-of goer</quote> (maybe a female
 traveller). What we say instead, to avoid this, is
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">
-le ninmu cu klama
-</foreignphrase>
-</literallayout>
-</informalexample>
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">le ninmu cu klama</foreignphrase></literallayout></informalexample></para>
 
 <warning><para><foreignphrase lang="art-lojban">cu</foreignphrase> does 
 <emphasis>not</emphasis> mean
@@ -433,9 +366,7 @@ there's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming.</para>
 <foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojban
 sentences where necessary, then work out what they mean.  </para>
 
-<para>
-<orderedlist>
-<listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem>
+<para><orderedlist><listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">le karce sutra</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase></para></listitem>
@@ -447,9 +378,7 @@ sentences where necessary, then work out what they mean.  </para>
 <listitem><para><foreignphrase lang="art-lojban">le cipni vofli </foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">ninmu</foreignphrase></para></listitem>
-</orderedlist>
-</para>
-</simplesect> 
+</orderedlist></para></simplesect> 
 </sect1>
 
 <sect1 id="less2changeplaces"><title>Changing Places</title> <para>We've
@@ -469,15 +398,7 @@ In fact <foreignphrase lang="art-lojban">zo'e</foreignphrase> is always implied,
 even if we don't say it. If someone says <foreignphrase
 lang="art-lojban">klama</foreignphrase>, what they actually mean is
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">
-zo'e klama zo'e zo'e zo'e zo'e
-</foreignphrase>
-</literallayout>
-</informalexample>
-
-but it would be pretty silly to say all that.
+<informalexample><literallayout><foreignphrase lang="art-lojban">zo'e klama zo'e zo'e zo'e zo'e</foreignphrase></literallayout></informalexample>but it would be pretty silly to say all that.
 </para>
 
 <note><para>A <foreignphrase lang="art-lojban">bridi</foreignphrase> containing only a
@@ -521,13 +442,8 @@ comes in the sentence: <foreignphrase lang="art-lojban">fa</foreignphrase>
 introduces what would normally be the first place, <foreignphrase
 lang="art-lojban">fe</foreignphrase> the second place, and so on. For example,
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>
-Susan goes in the car / Susan goes by car
-</literallayout>
-</informalexample>
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>
+Susan goes in the car / Susan goes by car</literallayout></informalexample></para>
 
 <para><foreignphrase lang="art-lojban">fu</foreignphrase> marks <foreignphrase
 lang="art-lojban">le karce</foreignphrase> as the fifth place of <foreignphrase
@@ -537,14 +453,8 @@ lang="art-lojban">klama</foreignphrase> (the means of transport).  Without
 
 <para>With place tags you can also swap places around.  For example,
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">fe le cukta cu dunda fi la klaudias.</foreignphrase>
-The book was given to Claudia.
-</literallayout>
-</informalexample>
-
-(The book &mdash; <foreignphrase lang="art-lojban">le cukta</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">fe le cukta cu dunda fi la klaudias.</foreignphrase>
+The book was given to Claudia.</literallayout></informalexample>(The book &mdash; <foreignphrase lang="art-lojban">le cukta</foreignphrase>
 &mdash; is the second place of <foreignphrase
 lang="art-lojban">dunda</foreignphrase>, what is given; Claudia &mdash;
 <foreignphrase lang="art-lojban">la klaudias.</foreignphrase> &mdash; is the third
@@ -591,8 +501,7 @@ Lojban sentences so that no place tags are necessary, and the
 places. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where 
 necessary.</para>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 <listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe la 
 lojban. fi le prenu </foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">fe mi vecnu fa do fi le karce</foreignphrase></para></listitem>
@@ -600,15 +509,13 @@ lojban. fi le prenu </foreignphrase></para></listitem>
 glico fa la fitsdjerald.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">fi le rokci cu kabri</foreignphrase></para></listitem>
-</orderedlist>
-</para>
+</orderedlist></para>
 
 </simplesect> 
 </sect1>
 
 <sect1 id="less2summary"><title>Summary</title>
-<para>
-In this lesson we've covered the following points:
+<para>In this lesson we've covered the following points:
 <itemizedlist>
 
 <listitem><para>The basic <foreignphrase lang="art-lojban">bridi</foreignphrase>
@@ -641,8 +548,7 @@ and so on.  </para>
 
 <sect1 id="less2answers"><title>Answers to exercises</title>
 <simplesect role="excanswer"><title>Exercise 1</title>
-<para>
-<orderedlist spacing="compact">
+<para><orderedlist spacing="compact">
 
 <listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">lojban</foreignphrase></term> <listitem><para>
 <foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem></varlistentry></variablelist></listitem>
@@ -680,13 +586,10 @@ Ireland)</para></listitem></varlistentry></variablelist></listitem>
 it's a <foreignphrase lang="art-lojban">lujvo</foreignphrase> or compound
 word</para></listitem></varlistentry></variablelist></listitem>
 
-</orderedlist>
-</para>
-</simplesect>
+</orderedlist></para></simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
-<para>
-<orderedlist spacing="compact">
+<para><orderedlist spacing="compact">
 
 <listitem><para><variablelist><varlistentry><term><foreignphrase
 lang="art-lojban">karce</foreignphrase></term> <listitem><para>x1 is a
@@ -743,7 +646,6 @@ x2 for audience x3 via expressive medium x4
 lang="art-lojban">tavla</foreignphrase></term> <listitem><para>x1 talks/speaks to
 x2 about subject x3 in language x4
 </para></listitem></varlistentry></variablelist>
-
 Note the different place structures of <foreignphrase
 lang="art-lojban">cusku</foreignphrase> and <foreignphrase
 lang="art-lojban">tavla</foreignphrase>. With <foreignphrase
@@ -760,16 +662,12 @@ emphasis is rather more on the social act of talking: you can
 <foreignphrase lang="art-lojban">tavla</foreignphrase> about nothing in
 particular. </para></listitem>
 
-</orderedlist>
-
-</para> </simplesect>
+</orderedlist></para> </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
-<para>
-<orderedlist spacing="compact">
+<para><orderedlist spacing="compact">
 <listitem><para>
-<literallayout>
-<foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil.</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil.</foreignphrase>
 Claudia gives the book(s) to Bill.</literallayout></para></listitem>
 
 <listitem><para><literallayout><foreignphrase lang="art-lojban">le karce <emphasis>cu</emphasis> sutra</foreignphrase>
@@ -826,8 +724,7 @@ an action takes place in the past, present or future.</para>
 
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 4</title><para>
-<orderedlist spacing="compact">
+<simplesect role="excanswer"><title>Exercise 4</title><para><orderedlist spacing="compact">
 <listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cusku la lojban. le prenu le cukta</foreignphrase>
 Someone expresses Lojban for the person(s) through a book
 The book is a medium for Lojban to people</literallayout></para></listitem>
@@ -849,9 +746,7 @@ zo'e le rokci</foreignphrase>
 Something is a cup, containing something, made of stone
 Stone is something cups are made of</literallayout></para></listitem>
 
-</orderedlist>
-</para>
-</simplesect> 
+</orderedlist></para></simplesect> 
 
 </sect1>
 </chapter>

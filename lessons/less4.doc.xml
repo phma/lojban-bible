@@ -19,9 +19,7 @@ more than just counting; for example, in Lojban,
 <listitem><para><foreignphrase lang="art-lojban">ze</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">bi</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">so</foreignphrase></para></listitem>
-</orderedlist>
-
-This leaves zero, which is <foreignphrase
+</orderedlist>This leaves zero, which is <foreignphrase
 lang="art-lojban">no</foreignphrase> (think <quote>yes, we have no
 bananas</quote>). You may have noticed that the numbers repeat the vowels
 <wordasword>AEIOU</wordasword>. Since you can't get by without memorising
@@ -46,9 +44,7 @@ just like you'd say a telephone number.  For example:
 <listitem><para>603</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="art-lojban">vomusore</foreignphrase></term> 
 <listitem><para>4,592</para></listitem></varlistentry>
-</variablelist>
-
-4,592 has a comma in it (or a full stop in some languages, just to make
+</variablelist>4,592 has a comma in it (or a full stop in some languages, just to make
 things confusing). We can't use a comma in Lojban, because that means
 <quote>separate these two syllables</quote> (as we saw in <link
 linkend="less1">Lesson 1</link> with Lojbanised names like <foreignphrase
@@ -99,8 +95,7 @@ lang="art-lojban">li</foreignphrase>!)
 <listitem><para>6,000</para></listitem>
 <listitem><para>7.54</para></listitem>
 <listitem><para>6,891,573.905</para></listitem>
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 </sect1>
 
@@ -127,21 +122,9 @@ beginners' course. </para></note>
 <para>We can use numbers either before or after <foreignphrase
 lang="art-lojban">le</foreignphrase>.  For example,
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ci le gerku</foreignphrase>
-</literallayout>
-</informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">ci le gerku</foreignphrase></literallayout></informalexample>means <quote role="gloss">three of the dogs</quote>, while
 
-means <quote role="gloss">three of the dogs</quote>, while
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">le ci gerku</foreignphrase>
-</literallayout>
-</informalexample>
-
-means <quote role="gloss">the three dogs.</quote>
+<informalexample><literallayout><foreignphrase lang="art-lojban">le ci gerku</foreignphrase></literallayout></informalexample>means <quote role="gloss">the three dogs.</quote>
 </para>
 
 <para>What do we do, though, if we just want to say <quote>three
@@ -290,8 +273,7 @@ lang="art-lojban">loi ci lo nanmu cu bevri le pipno</foreignphrase>:
 
 <listitem><para><emphasis>The students</emphasis> liked talking about elephants.</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -321,13 +303,8 @@ bevri le pipno</foreignphrase>.) You would therefore only use the
 number+<foreignphrase lang="art-lojban">lo</foreignphrase>+number formula
 if you knew the actual numbers rather than just the proportions, e.g.
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">re lo mi ci mensi cu nelci la rikis.martin.</foreignphrase>
-Two of my three sisters like Ricky Martin.
-</literallayout>
-</informalexample>
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">re lo mi ci mensi cu nelci la rikis.martin.</foreignphrase>
+Two of my three sisters like Ricky Martin.</literallayout></informalexample></para>
 
 <para>This states two facts. First, that I have three sisters (though it is
 not actually true in my case!) Second, that two of them like Ricky Martin
@@ -433,103 +410,50 @@ least</para></listitem></varlistentry>
 </variablelist>
 </listitem>
 
-</itemizedlist>
-</para>
+</itemizedlist></para>
 
-<para>
-Some examples:
+<para>Some examples:
 
 <informalexample>
 <itemizedlist>
 
 <listitem>
 <para>
-<literallayout>
-<foreignphrase lang="art-lojban">no le ninmu cu nelci la bil.</foreignphrase>
-None of the women like Bill.
-</literallayout>
-</para>
+<literallayout><foreignphrase lang="art-lojban">no le ninmu cu nelci la bil.</foreignphrase>
+None of the women like Bill.</literallayout></para>
 </listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">no lo ninmu cu nelci la bil.</foreignphrase>
-No women like Bill. </literallayout>(because <foreignphrase lang="art-lojban">lo ninmu</foreignphrase> potentially includes all women that exist)
-</para>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">no lo ninmu cu nelci la bil.</foreignphrase>
+No women like Bill. </literallayout>(because <foreignphrase lang="art-lojban">lo ninmu</foreignphrase> potentially includes all women that exist)</para>
 </listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">coi rodo</foreignphrase>
-Hi, everyone
-</literallayout>
-</para>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">coi rodo</foreignphrase>
+Hi, everyone</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">mi nelci ro lo mlatu</foreignphrase>
+I like all cats.</literallayout></para>
 </listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">mi nelci ro lo mlatu</foreignphrase>
-I like all cats.
-</literallayout>
-</para>
-</listitem>
-
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">mi na nelci ro lo gerku</foreignphrase>
-It's not true that I like all dogs.
-</literallayout>
-
-(this is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
+<listitem><para><literallayout><foreignphrase lang="art-lojban">mi na nelci ro lo gerku</foreignphrase>
+It's not true that I like all dogs.</literallayout>(this is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
 <foreignphrase lang="art-lojban">mi nelci no lo gerku</foreignphrase>. There are 
 other ways of saying this, but we haven't got enough grammar under our 
 belt yet.) </para>
 </listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
-Many Americans like Nirvana (the group, not the mystical state. Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)
-</literallayout>
-</para>
-</listitem>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
+Many Americans like Nirvana (the group, not the mystical state. Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)</literallayout></para></listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
-Few Chinese people like Nirvana.
-</literallayout>
-</para>
-</listitem>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
+Few Chinese people like Nirvana.</literallayout></para></listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">su'e mu le muno prenu cu cmila</foreignphrase>
-No more than five out of the fifty people laugh(ed) (let's say a comedian told a bad joke). 
-</literallayout>
-</para>
-</listitem>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">su'e mu le muno prenu cu cmila</foreignphrase>
+No more than five out of the fifty people laugh(ed) (let's say a comedian told a bad joke).</literallayout></para></listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
-At least one person loves you.
-</literallayout>
-</para>
-</listitem>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
+At least one person loves you.</literallayout></para></listitem>
 
-</itemizedlist>
-</informalexample>
-
-This last one is logically the same as <foreignphrase lang="art-lojban">lo
+</itemizedlist></informalexample>This last one is logically the same as <foreignphrase lang="art-lojban">lo
 prenu cu prami do</foreignphrase>, which means <quote>there exists at least
 one person such that that person loves you,</quote> but it makes the
 meaning clearer and more emphatic. In fact, all articles in Lojban have
@@ -611,10 +535,7 @@ role="socalled">Whiskas.</quote> (use a <foreignphrase
 lang="art-lojban">cmene</foreignphrase>)</para></listitem>
 
 
-</orderedlist>
-</para>
-</simplesect>
-</sect1>
+</orderedlist></para></simplesect></sect1>
 
 <sect1 id="less4numquestions"><title>Number Questions</title>
 
@@ -627,60 +548,30 @@ So, remembering the sentence <foreignphrase lang="art-lojban">re lo mi ci mensi
 cu nelci la rikis.martin.</foreignphrase>, how would I answer the following
 question?
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">xo le mensi cu nelci la rikis.martin.</foreignphrase>
-</literallayout>
-</informalexample>
-
-The answer, of course, is <foreignphrase lang="art-lojban">re</foreignphrase>. 
+<informalexample><literallayout><foreignphrase lang="art-lojban">xo le mensi cu nelci la rikis.martin.</foreignphrase></literallayout></informalexample>The answer, of course, is <foreignphrase lang="art-lojban">re</foreignphrase>. 
 (But not all questions that can be answered with a number have to take
 <foreignphrase lang="art-lojban">xo</foreignphrase>, as we'll see in the next
 lesson).</para>
 
 <para><foreignphrase lang="art-lojban">xo</foreignphrase> is also used in mathematics, as in
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">li ci su'i vo du li xo</foreignphrase>
-3 + 4 = ?
-</literallayout>
-</informalexample>
-</para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">li ci su'i vo du li xo</foreignphrase>
+3 + 4 = ? </literallayout></informalexample></para>
 
-<para>
-A few more examples:
+<para>A few more examples:
 
 <itemizedlist>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">xo le botpi cu kunti</foreignphrase>
-How many of the bottles are empty?
-</literallayout>
-</para>
-</listitem>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">xo le botpi cu kunti</foreignphrase>
+How many of the bottles are empty?</literallayout></para></listitem>
 
 <listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">xo lo prenu cu klama ti</foreignphrase>
-How many people come here?
-</literallayout>
-</para>
-</listitem>
+<para><literallayout><foreignphrase lang="art-lojban">xo lo prenu cu klama ti</foreignphrase>
+How many people come here?</literallayout></para></listitem>
 
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">do viska xo lo sonci</foreignphrase>
-How many soldiers do you see?
-</literallayout>
-</para>
-</listitem>
-</itemizedlist>
-</para>
+<listitem><para><literallayout><foreignphrase lang="art-lojban">do viska xo lo sonci</foreignphrase>
+How many soldiers do you see?</literallayout></para></listitem>
+</itemizedlist></para>
 
 <note><para>It is not actually necessary to include the <foreignphrase
 lang="art-lojban">lo</foreignphrase> after <foreignphrase
@@ -731,9 +622,7 @@ is</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase
 lang="art-lojban">li</foreignphrase></term><listitem><para>the
 number</para></listitem></varlistentry>
-</variablelist>
-
-(<foreignphrase lang="art-lojban">lu</foreignphrase> is not an article, it's a
+</variablelist>(<foreignphrase lang="art-lojban">lu</foreignphrase> is not an article, it's a
 quotation mark!)</para>
 
 
@@ -791,9 +680,7 @@ lang="art-lojban">lo'i</foreignphrase></term><listitem><para>the set which reall
 is</para></listitem></varlistentry>
 </variablelist>
 </listitem>
-</itemizedlist>
-
-(Sets turn out to be pretty useful in Lojban, as we'll see towards the end of this course.)
+</itemizedlist>(Sets turn out to be pretty useful in Lojban, as we'll see towards the end of this course.)
 </para>
 
 <para>We also looked briefly at <foreignphrase
@@ -821,8 +708,7 @@ for that matter <wordasword>the two womans</wordasword> in English.  </para>
 
 <sect1 id="less4answers"><title>Answers to Exercises</title>
 <simplesect role="excanswer"><title>Exercise 1</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>35: <foreignphrase lang="art-lojban">li
 cimu</foreignphrase></para></listitem>
@@ -842,13 +728,11 @@ pimuvo</foreignphrase> (again the space is optional)</para></listitem>
 ki'o muzeci pisonomu</foreignphrase> (if that looks long, try writing it as
 a word in English!)  </para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>Individual. The students might have been in a group while
 listening to the radio, but listening to the radio is something a person is
@@ -887,13 +771,11 @@ elephants, as well.</para></listitem>
 something you do individually, and the students are being described as
 likers first, and as talkers second.</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">ro lo cifnu cu melbi</foreignphrase></para></listitem>
 
@@ -931,8 +813,7 @@ rectu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">sofi'upano loi mlatu cu nelci la .uiskas.</foreignphrase></para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>A final question</title> <para><quote

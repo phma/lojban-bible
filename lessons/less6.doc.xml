@@ -1,5 +1,5 @@
 <chapter id="less6"><title>Time and Space &mdash; basic Lojban <quote
-role="socalled">tenses</quote></title>
+role="socalled">tenses</quote></title><titleabbrev>Time and Space</titleabbrev>
 
 <para>By this time, you may have been wondering what had happened to all
 the tenses. After all, a large part of learning a language is learning
@@ -39,32 +39,23 @@ the last lesson:
 
 <informalexample><para><foreignphrase lang="art-lojban">la jang. cliva le barja
 ti'u la jaucac. .i la la suzyn. klama le barja ti'u la
-feicac.</foreignphrase></para></informalexample>
+feicac.</foreignphrase></para>
 
-However, if the actual times are not important, we can say:
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">ba lenu la jang. cliva kei la suzyn. klama le barja</foreignphrase>
-After Zhang left, Susan came into the bar.
-</literallayout>
-</informalexample>
-
-or:
+</informalexample>However, if the actual times are not important, we can say:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">pu lenu la suzyn. klama le barja kei la jang. cliva</foreignphrase>
-Before Susan came into the bar, Zhang left.
-</literallayout>
-</informalexample>
+<literallayout><foreignphrase lang="art-lojban">ba lenu la jang. cliva kei la suzyn. klama le barja</foreignphrase>
+After Zhang left, Susan came into the bar.</literallayout>
+</informalexample>or:
 
-which translates more naturally as:
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">pu lenu la suzyn. klama le barja kei la jang. cliva</foreignphrase>
+Before Susan came into the bar, Zhang left.</literallayout>
+</informalexample>which translates more naturally as:
 
 <informalexample><para>When Susan came into the bar, Zhang had already
-left.</para></informalexample>
-
-(This, by the way, is another case of context meaning you don't have to put
+left.</para>
+</informalexample>(This, by the way, is another case of context meaning you don't have to put
 everything in &mdash; we haven't said that the place Zhang leaves is the
 bar, we just understand it from the context.)
 
@@ -96,14 +87,13 @@ lang="art-lojban">bridi</foreignphrase> relative to the here-and-now, we
 can leave out the <foreignphrase lang="art-lojban">sumti</foreignphrase>,
 and just use the tense <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> on its own. So if we want to
-say that Susan came to the bar after now, and not after Zhang's leaving, we can then say:
+say that Susan came to the bar some time after right now, and not after Zhang's leaving, we can then say:
 
 
 <informalexample><para><foreignphrase lang="art-lojban">baku la suzyn. klama le
-barja</foreignphrase> </para></informalexample>
+barja</foreignphrase> </para>
 
-
-<foreignphrase lang="art-lojban">baku</foreignphrase> here is not a city in
+</informalexample><foreignphrase lang="art-lojban">baku</foreignphrase> here is not a city in
 Azerbaijan; it means <quote role="gloss">afterwards</quote> or <quote
 role="gloss">later</quote>. The <foreignphrase
 lang="art-lojban">ku</foreignphrase> is necessary to separate the <foreignphrase
@@ -114,9 +104,7 @@ difference). Similarly, <quote>Zhang left earlier (than now)</quote> would be:
 
 
 <informalexample><para><foreignphrase lang="art-lojban">puku la jang.
-cliva</foreignphrase></para> </informalexample>
-
-</para>
+cliva</foreignphrase></para></informalexample></para>
 
 <note><para>What's actually going on is that <foreignphrase
 lang="art-lojban">ba</foreignphrase> starts a <foreignphrase
@@ -135,26 +123,22 @@ any <foreignphrase lang="art-lojban">sumti</foreignphrase> following it. So
 left.</quote></para>
 </note>
 
-<para>
-Let's imagine that Susan is not so unlucky, and arrives just as Zhang is
+<para>Let's imagine that Susan is not so unlucky, and arrives just as Zhang is
 leaving.  We can then say:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">ca lenu la jang. cliva le barja kei la suzyn. klama le barja</foreignphrase>
-At the moment when Zhang was leaving the bar, Susan came to the bar.</literallayout></informalexample>
+At the moment when Zhang was leaving the bar, Susan came to the bar.</literallayout>
 
-<foreignphrase lang="art-lojban">ca</foreignphrase> also comes from a
+</informalexample><foreignphrase lang="art-lojban">ca</foreignphrase> also comes from a
 <foreignphrase lang="art-lojban">gismu</foreignphrase>, in this case
 <foreignphrase lang="art-lojban">cabna</foreignphrase>, which means
 <quote role="gloss">simultaneous with</quote>, so another way to
 say the same thing would be
 
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">lenu la jang. cliva le barja cu cabna lenu la suzyn. klama le barja</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">lenu la jang. cliva le barja cu cabna lenu la suzyn. klama le barja</foreignphrase>
 The event of Zhang leaving the bar is simultaneous with the event of Susan coming to the bar.</literallayout>
-</informalexample>
-
-</para>
+</informalexample></para>
 
 <note><para>There is a difference between <foreignphrase
 lang="art-lojban">ku</foreignphrase> and <foreignphrase
@@ -189,12 +173,9 @@ it is happening now; so <foreignphrase
 lang="art-lojban">caku</foreignphrase> itself just means <quote 
 role="gloss">now</quote>:
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">caku la suzyn. klama le barja</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">caku la suzyn. klama le barja</foreignphrase>
 Now, Susan goes to the bar.</literallayout>
-</informalexample>
-
-</para>
+</informalexample></para>
 
 
 <para>We now have three <quote role="socalled">time words</quote>:
@@ -218,17 +199,14 @@ lang="art-lojban">puzu</foreignphrase> could be thousands of years; if you've
 missed your train it could be a matter of minutes.
 </para> 
 
-<para>
-Let's say this time the unlucky Susan missed Zhang by only a few minutes. 
+<para>Let's say this time the unlucky Susan missed Zhang by only a few minutes. 
 We could then say:
 
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">bazi lenu la jang. cliva kei la suzyn. klama le
-barja</foreignphrase></para></informalexample>
+<informalexample><para><foreignphrase lang="art-lojban">bazi lenu la jang. cliva kei la suzyn. klama le
+barja</foreignphrase></para>
 
-
-And if you're in the position of having to tell Susan that she's just 
+</informalexample>And if you're in the position of having to tell Susan that she's just 
 missed Zhang, you would say:
 
 
@@ -292,8 +270,7 @@ lang="art-lojban">kei</foreignphrase>'s!
 <listitem><para>Tracy was sad just a minute ago.  But Mike is happy now.</para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -326,15 +303,15 @@ immediately by <foreignphrase lang="art-lojban">ku</foreignphrase>, with an
 empty <foreignphrase lang="art-lojban">sumti</foreignphrase> in between. So
 
 
-<informalexample><para> <foreignphrase lang="art-lojban">la jang. pu cliva le
-barja</foreignphrase></para></informalexample>
+<informalexample><para><foreignphrase lang="art-lojban">la jang. pu cliva le
+barja</foreignphrase></para>
 
-and 
+</informalexample>and 
 
-<informalexample><para> <foreignphrase lang="art-lojban">puku la jang. cliva le
-barja</foreignphrase></para></informalexample>
+<informalexample><para><foreignphrase lang="art-lojban">puku la jang. cliva le
+barja</foreignphrase></para>
 
-both mean <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left
+</informalexample>both mean <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left
 the bar.</quote> We can do the same thing with <foreignphrase
 lang="art-lojban">zi/za/zu</foreignphrase>, so <foreignphrase
 lang="art-lojban">la jang. puza cliva le barja</foreignphrase>, just like
@@ -359,29 +336,18 @@ while ago, I ran for a long time.</quote> A few more examples ...
 
 <itemizedlist>
 
-<listitem> <para>
-<literallayout>
-<foreignphrase lang="art-lojban">.oi.uinai le mi zdani puzi se lindi</foreignphrase>
-Oh no! My house has just been struck by lightning! (Every language course has to have a few of these ridiculously artificial examples!) </literallayout>
-
-Note that if you have a tense before the <foreignphrase
+<listitem><para><literallayout><foreignphrase lang="art-lojban">.oi.uinai le mi zdani puzi se lindi</foreignphrase>
+Oh no! My house has just been struck by lightning! (Every language course has to have a few of these ridiculously artificial examples!) </literallayout>Note that if you have a tense before the <foreignphrase
 lang="art-lojban">selbri</foreignphrase> you don't need <foreignphrase
 lang="art-lojban">cu</foreignphrase> &mdash; <foreignphrase lang="art-lojban">le
 zdani</foreignphrase> cannot run into <foreignphrase
 lang="art-lojban">puzi</foreignphrase> to form a single <foreignphrase
-lang="art-lojban">sumti</foreignphrase>.
-
-</para>
+lang="art-lojban">sumti</foreignphrase>.</para>
 </listitem>
 
 <listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">la bil. ze'u pinxe loi birje</foreignphrase>
-Bill drinks beer for a long time.
-</literallayout>
-
-Remember: you don't drink something which is <emphasis>a</emphasis> beer, but 
+<para><literallayout><foreignphrase lang="art-lojban">la bil. ze'u pinxe loi birje</foreignphrase>
+Bill drinks beer for a long time. </literallayout>Remember: you don't drink something which is <emphasis>a</emphasis> beer, but 
 rather something which is <emphasis>some</emphasis> beer. As discussed way 
 back in <link linkend="less4">Lesson 4</link>, that means a mass rather than an 
 individual &mdash; though as it happens <foreignphrase lang="art-lojban">lo 
@@ -390,27 +356,15 @@ quantity of beer</quote>.
 </para></listitem>
 
 <listitem>
-<para>
-<literallayout>
-<foreignphrase lang="art-lojban">mi bazize'a xabju la djakartas.</foreignphrase>
-Pretty soon I'm going to live in Jakarta for a while.
-</literallayout>
-
-</para></listitem>
+<para><literallayout><foreignphrase lang="art-lojban">mi bazize'a xabju la djakartas.</foreignphrase>
+Pretty soon I'm going to live in Jakarta for a while.</literallayout></para></listitem>
 
 <listitem>
-<para>
-
-<literallayout>
-<foreignphrase lang="art-lojban">lo la natos. vinji baze'u gunta la BE,ograd.</foreignphrase>
-NATO aircraft will attack Belgrade for a long time.</literallayout>
-</para>
+<para><literallayout><foreignphrase lang="art-lojban">lo la natos. vinji baze'u gunta la BE,ograd.</foreignphrase>
+NATO aircraft will attack Belgrade for a long time.</literallayout></para>
 </listitem>
 
-</itemizedlist>
-
-
-</para> 
+</itemizedlist></para> 
 
 <para>Note that this does not mean that NATO is not attacking Belgrade now
 (it is at the time I'm writing this). In Lojban, if we say that something
@@ -462,16 +416,9 @@ lang="art-lojban">ti</foreignphrase> might be the end of your toe, while if you'
 talking about astronomy, <foreignphrase lang="art-lojban">ti</foreignphrase> could
 be the solar system. We can therefore say
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">viku mi gunka</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">viku mi gunka</foreignphrase>
 Here, I work.</literallayout>
-</informalexample>
-
-or, more naturally, <quote>I work here.</quote>
-
-
-</para>
+</informalexample>or, more naturally, <quote>I work here.</quote></para>
 
 <para>We've seen that <foreignphrase lang="art-lojban">puku</foreignphrase> means
 <quote role="gloss">before the here-and-now</quote>. Similarly,
@@ -484,27 +431,15 @@ the same way, to say what an event is in the immediate vicinity of; e.g.
 
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">vi la paris. mi gunka</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">vi la paris. mi gunka</foreignphrase>
 In Paris, I work.</literallayout>
-</informalexample>
-
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">vu le mi zdani mi gunka</foreignphrase>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">vu le mi zdani mi gunka</foreignphrase>
 A long way from my home, I work</literallayout>
-</informalexample>
-
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">va lenu la KEnedis. se catra kei mi gunka</foreignphrase>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">va lenu la KEnedis. se catra kei mi gunka</foreignphrase>
 A medium distance from where Kennedy was killed, I work</literallayout>
-</informalexample>
-
-
-</para>
+</informalexample></para>
 
 <note><para>If <foreignphrase lang="art-lojban">kei</foreignphrase> in the 
 last sentence wasn't there, <foreignphrase lang="art-lojban">catra</foreignphrase> would run
@@ -519,14 +454,9 @@ you might think), you would use <foreignphrase
 lang="art-lojban">bu'u</foreignphrase> <quote role="gloss">coinciding 
 with</quote>:
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi sanli bu'u lenu la KEnedis. se catra</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi sanli bu'u lenu la KEnedis. se catra</foreignphrase>
 I'm standing in the very spot where Kennedy was killed (i.e. I've made a visit to the Texas Book Depository)</literallayout>
-</informalexample>
-
-
-</para>
+</informalexample></para>
 
 <para>Just like the time <foreignphrase lang="art-lojban">cmavo</foreignphrase>,
 place <foreignphrase lang="art-lojban">cmavo</foreignphrase> can be attatched to
@@ -551,13 +481,10 @@ direction, as in <quote>come here</quote> (and archaic English
 <wordasword>hither</wordasword>.) For example:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">la bil. fa'avi catlu</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la bil. fa'avi catlu</foreignphrase>
 Bill towards-this-place looks
 Bill looks here.</literallayout>
-</informalexample>
-
-</para>
+</informalexample></para>
 
 <para>Note that the more natural translation is ambiguous, since it could
 also translate <foreignphrase lang="art-lojban">la bil. vi catlu</foreignphrase>,
@@ -634,8 +561,7 @@ sitting position] on surface x2</para></listitem></varlistentry>
 
 <simplesect role="exercise"><title>Exercise 2</title>
 
-<para>
-Translate the following.
+<para>Translate the following.
 
 
 <orderedlist>
@@ -655,8 +581,7 @@ Translate the following.
 
 <listitem><para><foreignphrase lang="art-lojban">mi bafa'avu tavla</foreignphrase></para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 </sect1>
 
@@ -757,8 +682,7 @@ lang="art-lojban">melbi</foreignphrase>: beautiful)</para></listitem>
 <listitem><para>imaginary (<foreignphrase 
 lang="art-lojban">fatci</foreignphrase>: factual, real)</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -766,8 +690,7 @@ lang="art-lojban">fatci</foreignphrase>: factual, real)</para></listitem>
 
 <sect1 id="less6summary"><title>Summary</title>
 
-<para>
-In this lesson we have covered the following:
+<para>In this lesson we have covered the following:
 
 
 <orderedlist>
@@ -797,10 +720,7 @@ zu'a</foreignphrase> (and so on).</para></listitem>
 and <foreignphrase lang="art-lojban">to'e</foreignphrase>.</para></listitem>
 
 
-</orderedlist>
-
-
-There are many more <foreignphrase lang="art-lojban">cmavo</foreignphrase> to
+</orderedlist>There are many more <foreignphrase lang="art-lojban">cmavo</foreignphrase> to
 describe time and space (and a couple more for negation, for that matter),
 but they are only there if you need them. In fact, unless you want to be
 specific about time or space, you don't even need the ones in this lesson.
@@ -881,14 +801,12 @@ ko dunda lo cnino vanju botpi mi</foreignphrase></quote></para></listitem>
 <listitem><para><quote><foreignphrase lang="art-lojban">.i .ei na dotco</foreignphrase></quote></para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
 
-<para>
-Translate into Lojban these (hopefully much less brain-squelching than the 
+<para>Translate into Lojban these (hopefully much less brain-squelching than the 
 previous lesson's) sentences:
 
 
@@ -916,8 +834,7 @@ long-time friends.</para></listitem>
 <listitem><para>Susan sits away from the German beer.</para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -930,8 +847,7 @@ long-time friends.</para></listitem>
 
 <simplesect role="excanswer"><title>Exercise 1</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">puzaku la juLIET. cliva la paris.</foreignphrase></para></listitem>
@@ -954,8 +870,7 @@ kei la .iocikos. cinba la xorxes.</foreignphrase></para></listitem>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
-<para>
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para>Where is your house? (Literally <quote>[something] is the house 
@@ -982,14 +897,12 @@ speaking metaphorically about the spirit of Darwin.)</para></listitem>
 <listitem><para>I will talk into the distance.</para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 <listitem><para>disinterested: <foreignphrase 
 lang="art-lojban">no'e cinri</foreignphrase></para></listitem>
 
@@ -1050,8 +963,7 @@ role="gloss">imaginary</quote> has its own <foreignphrase
 lang="art-lojban">gismu</foreignphrase>: <foreignphrase
 lang="art-lojban">xanri</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -1103,14 +1015,12 @@ a duration without specifying a tense.)</para></listitem>
 <listitem><para><quote>It should not be German.</quote></para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 5</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i puzuku la suzyn. ze'i xabju le
@@ -1143,8 +1053,7 @@ lang="art-lojban">sumti</foreignphrase> take tenses and durations, too.)</para><
 birje</foreignphrase></para></listitem>
 
 
-</orderedlist>
-</para>
+</orderedlist></para>
 </simplesect>
 
 

@@ -1,4 +1,4 @@
-<chapter id="less11"><title>Putting it together: Lojban connectives</title>
+<chapter id="less11"><title>Putting it together: Lojban connectives</title><titleabbrev>Putting it together</titleabbrev>
 
 <para>All languages need ways to connect words, phrases and sentences. In
 English there are a host of words for this purpose: <wordasword>and, or,
@@ -26,7 +26,7 @@ have different words for <wordasword>and</wordasword> and
 terms of attitude, however, they are different:
 <wordasword>but</wordasword> contains a connotation of unexpectedness which
 <wordasword>and</wordasword> does not. So Lojban translates
-<wordasword>but</wordasword> in two parts: <wordasword>.e ku'i</wordasword>
+<wordasword>but</wordasword> in two parts: <foreignphrase lang="art-lojban">.e ku'i</foreignphrase>
 <quote role="gloss">and &mdash; however</quote>. This follows the Lojban
 principle of keeping content and attitude separate as far as possible (e.g.
 <foreignphrase lang="art-lojban">.ui la djiotis. klama ti</foreignphrase>
@@ -56,12 +56,9 @@ will only come up with pages that contain both games and strategy: you will
 get pages on strategy games, for example, but not (ideally) on simulation
 games or military strategy. Similarly in Lojban
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u 
+<informalexample><para><foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u 
 jmive</foreignphrase>
-</para></informalexample>
-
-is false if Fluffy is not a rabbit, or if some rabbits are long-lived. 
+</para></informalexample>is false if Fluffy is not a rabbit, or if some rabbits are long-lived. 
 </para>
 
 <para>The next type we need to look at is OR. This is not always, or even
@@ -78,9 +75,7 @@ sentences:
 <listitem><para>The winner of the competition will receive a holiday in
 Hawaii or the cash equivalent.</para></listitem>
 
-</orderedlist>
-
-In the first sentence common sense tells us that if it is both cold and
+</orderedlist>In the first sentence common sense tells us that if it is both cold and
 rainy we will also stay inside. However, in the second case, the winner
 would have a hard time convincing the competition organisers that he/she is
 entitled to both the holiday and the cash. The first case is a genuine
@@ -99,15 +94,12 @@ weather is beautiful. In fact there are two potential meanings here:
 <orderedlist>
 <listitem><para>IF it's cold or rainy we'll stay inside.</para></listitem>
 <listitem><para>IFF it's cold or rainy we'll stay inside.</para></listitem>
-</orderedlist>
-
-The first means <quote>If it's cold or rainy we'll stay inside (but we may
+</orderedlist>The first means <quote>If it's cold or rainy we'll stay inside (but we may
 stay inside anyway)</quote>, while the second means <quote><emphasis>If and
 only if</emphasis> it's cold or rainy, we'll stay inside (otherwise we'll
 definitely go out)</quote>. </para>
 
-<para>
-Just to make the difference clear, here are some examples:
+<para>Just to make the difference clear, here are some examples:
 
 <variablelist>
 	
@@ -138,9 +130,7 @@ he doesn't love her).</para></listitem></varlistentry>
 that if Juliet loves Romeo, he loves her, and if she doesn't love him, he
 doesn't love her.</para></listitem></varlistentry>
 
-</variablelist>
-
-</para>
+</variablelist></para>
 
 <para>The basic operators OR, AND and IFF are represented in Lojban by the
 vowels <foreignphrase lang="art-lojban">a, e</foreignphrase> and <foreignphrase
@@ -162,8 +152,7 @@ combined with negatives. As we shall see below, EOR is <foreignphrase
 lang="art-lojban">.onai</foreignphrase> and IF is <foreignphrase
 lang="art-lojban">.anai</foreignphrase>.</para></listitem>
 
-</itemizedlist>
-</para>
+</itemizedlist></para>
 
 <tip><para>There is some controversy in the Lojban community about
 whether natural language <wordasword>if</wordasword> is best expressed as a
@@ -197,13 +186,11 @@ lang="art-lojban">.i ko'a .e ko'i xanka cmila</foreignphrase> (<quote>Jyoti and
 Susan laugh nervously</quote>). Here's another
 example:
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">mi ponse pa gerku .e re mlatu</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi ponse pa gerku .e re mlatu</foreignphrase>
 I possess one dog AND two cat
-I've got a dog and two cats.
-</literallayout></informalexample>
+I've got a dog and two cats.</literallayout>
 
-This is actually a contracted way of saying <quote>It is true that I have a
+</informalexample>This is actually a contracted way of saying <quote>It is true that I have a
 dog; it is true that I have two cats,</quote> or in Lojban, <foreignphrase
 lang="art-lojban">mi ponse pa gerku .ije mi ponse re mlatu</foreignphrase> .
 </para>
@@ -220,13 +207,11 @@ lang="art-lojban">.e</foreignphrase> (which is true but potentially misleading)
 but <foreignphrase lang="art-lojban">joi</foreignphrase>, which means <quote
 role="gloss">in a mass with</quote>. So what you have is
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">mi pu vitke la ranjit. joi la djiotis.</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi pu vitke la ranjit. joi la djiotis.</foreignphrase>
 I past visit Ranjeet in-a-mass-with Jyoti
-I visited Ranjeet and Jyoti.
-</literallayout></informalexample>
+I visited Ranjeet and Jyoti.</literallayout>
 
-You've seen <foreignphrase lang="art-lojban">joi</foreignphrase> before, of
+</informalexample>You've seen <foreignphrase lang="art-lojban">joi</foreignphrase> before, of
 course: in <link linkend="less5">Lesson 5</link>, where Marx and Engels
 wrote <citetitle>The Comunist Manifesto</citetitle> as a joint project,
 rather than individually (<foreignphrase lang="art-lojban">la marks. joi la
@@ -242,13 +227,11 @@ role="gloss">with</quote>) rather than
 
 <para>We can also use OR here. For example,
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">mi ba vitke le mi mamta .a le mi tamne </foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi ba vitke le mi mamta .a le mi tamne </foreignphrase>
 I future visit the me mother OR the me cousin
-I'll visit my mother or my cousin.
-</literallayout></informalexample>
+I'll visit my mother or my cousin.</literallayout>
 
-This leaves open the possibility that I will get round to visiting both of
+</informalexample>This leaves open the possibility that I will get round to visiting both of
 them at some point. If I want to say that that I will visit either my
 mother or my cousin but not both, I need EOR. For this we use
 <foreignphrase lang="art-lojban">.onai</foreignphrase>. This is actually a
@@ -258,12 +241,9 @@ mother</quote> logically implies that, if I visit my cousin, I will not visit
 my mother, and vice versa; so I will visit either my mother or my cousin but
 not both. So we have
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">mi ba vitke le mi mamta .onai le mi tamne </foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi ba vitke le mi mamta .onai le mi tamne </foreignphrase>
 I future visit the me mother EOR the me cousin 
-I'll visit either my mother or my cousin.
-</literallayout></informalexample>
-</para>
+I'll visit either my mother or my cousin.</literallayout></informalexample></para>
 
 <para>It is probably obvious that <foreignphrase
 lang="art-lojban">.o</foreignphrase> means IFF, so <quote>I will visit my
@@ -279,12 +259,9 @@ till later. </para>
 meaning <quote role="gloss">whether or not</quote>. This is not a standard Boolean
 operator, but I've called it WON for convenience. In this way I can say
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">mi ba vitke le mi mamta .u le mi tamne </foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi ba vitke le mi mamta .u le mi tamne </foreignphrase>
 I future visit the I mother WON the I cousin
-I'll visit my mother whether or not I visit my cousin.
-</literallayout></informalexample>
-</para>
+I'll visit my mother whether or not I visit my cousin.</literallayout></informalexample></para>
 
 <para>To sum up:
 
@@ -308,9 +285,7 @@ lang="art-lojban">.anai</foreignphrase></para></listitem></varlistentry>
 <varlistentry><term>EOR</term> <listitem><para><foreignphrase
 lang="art-lojban">.onai</foreignphrase></para></listitem></varlistentry>
 	
-</variablelist>
-
-</para>
+</variablelist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -385,10 +360,7 @@ lang="art-lojban">bridi</foreignphrase>, <quote role="gloss">want</quote>!)</par
 Atlanta. (Hint: This too involves a single <foreignphrase
 lang="art-lojban">bridi</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -418,12 +390,10 @@ tedious.</para></note>
 
 <para>Let's start with a simpler example, though.
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">xunre cukta</foreignphrase>
-[there is a] red [type-of] book
-</literallayout></informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">xunre cukta</foreignphrase>
+[there is a] red [type-of] book</literallayout>
 
-The first element of the <foreignphrase
+</informalexample>The first element of the <foreignphrase
 lang="art-lojban">tanru</foreignphrase> modifies or restricts the second
 element, in some unspecified way. What happens if there are three or more
 elements, though? Like many other features of Lojban grammar,
@@ -439,22 +409,17 @@ and it is hard to imagine what <quote>big type of red</quote> would mean.
 There are various ways to get out of the left-grouping rule when you need
 to, but the simplest one here is to use a logical connective and say
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">le barda je xunre cukta</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">le barda je xunre cukta</foreignphrase>
 the {(big AND red) book}
-The big red book.
-</literallayout></informalexample>
+The big red book.</literallayout>
 
-To make a logical <foreignphrase lang="art-lojban">tanru</foreignphrase>
+</informalexample>To make a logical <foreignphrase lang="art-lojban">tanru</foreignphrase>
 connective, then, we simply add <foreignphrase lang="art-lojban">j</foreignphrase>
 to the vowel. Returning to Susan's tastes in men, we can say
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi ja melbi nanmu</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi ja melbi nanmu</foreignphrase>
 Susan fancy all {(funny OR beautiful) man}
-Susan fancies men who are funny or handsome (or both).
-</literallayout></informalexample>
-</para>
+Susan fancies men who are funny or handsome (or both).</literallayout></informalexample></para>
 
 <warning><para>This sentence is still true even if Susan also likes men
 who are <emphasis>not</emphasis> funny or handsome. In natural language,
@@ -472,22 +437,17 @@ attractive but incompatible &mdash; she fancies Woody Allen and Steven
 Seagal, but thinks a mixture of the two would be just too much. We would
 then say
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi jonai melbi nanmu</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi jonai melbi nanmu</foreignphrase>
 Susan fancy all {(funny EOR beautiful) man}
-Susan fancies men who are either funny or handsome (but not both).
-</literallayout></informalexample>
+Susan fancies men who are either funny or handsome (but not both).</literallayout>
 
-On the other hand, Jyoti is turned on by funny men, and doesn't care about
+</informalexample>On the other hand, Jyoti is turned on by funny men, and doesn't care about
 their looks at all. Woody Allen would do fine, but Steven Seagal wouldn't
 stand a chance unless he could tell a few jokes. What we need here is
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">la djiotis. cinynei ro xajmi ju melbi nanmu</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. cinynei ro xajmi ju melbi nanmu</foreignphrase>
 Jyoti fancy all {(funny WON beautiful) man}
-Jyoti fancies funny men, whether they are handsome or not.
-</literallayout></informalexample>
-</para>
+Jyoti fancies funny men, whether they are handsome or not.</literallayout></informalexample></para>
 
 <para>As you'll remember from <link linkend="less10">last lesson</link>, 
 this kind of connective is also used to connect sentences, placed next to <foreignphrase
@@ -497,9 +457,7 @@ need only say
 
 <informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. cinynei ro xajmi nanmu .ijonai la 
 suzyn. cinynei ro melbi nanmu</foreignphrase>
-</para></informalexample>
-
-</para>
+</para></informalexample></para>
 
 <warning><para>Be careful not to confuse this kind of connection with
 <foreignphrase lang="art-lojban">sumti</foreignphrase> connectives. <foreignphrase
@@ -586,9 +544,7 @@ lang="art-lojban">la ranjit. nelci loi kukte ja cpina</foreignphrase></para></li
 <listitem><para><foreignphrase
 lang="art-lojban">mi bilga jenai kakne lenu mi klama le barja</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -648,26 +604,18 @@ lang="art-lojban">bridi</foreignphrase>-tail connective version of AND is
 <para>So what is this good for? Quite simply, you can take 
 sentences like
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">.i la nik. klama la kalifornias. .ije la nik. 
+<informalexample><para><foreignphrase lang="art-lojban">.i la nik. klama la kalifornias. .ije la nik. 
 stali ri ze'a lo nanca be li ci</foreignphrase>
-</para></informalexample>
+</para></informalexample>and change them into the much more stylish
 
-and change them into the much more stylish
-
-<informalexample><para>
-<foreignphrase lang="art-lojban">.i la nik. klama la kalifornias. gi'e 
+<informalexample><para><foreignphrase lang="art-lojban">.i la nik. klama la kalifornias. gi'e 
 stali ri ze'a lo nanca be li ci</foreignphrase>
-</para></informalexample>
+</para></informalexample>&mdash; or, indeed, the even more stylish (and much less like English)
 
-&mdash; or, indeed, the even more stylish (and much less like English)
+<informalexample><para><foreignphrase lang="art-lojban">.i la nik. la kalifornias. klama gi'e 
+stali ze'a lo nanca be li ci</foreignphrase></para>
 
-<informalexample><para>
-<foreignphrase lang="art-lojban">.i la nik. la kalifornias. klama gi'e 
-stali ze'a lo nanca be li ci</foreignphrase>
-</para></informalexample>
-
-You'll be seeing a lot of <foreignphrase lang="art-lojban">gi'e</foreignphrase> in 
+</informalexample>You'll be seeing a lot of <foreignphrase lang="art-lojban">gi'e</foreignphrase> in 
 Lojban for that reason.</para>
 
 <note><para><foreignphrase lang="art-lojban">ze'a</foreignphrase> as a
@@ -731,13 +679,9 @@ role="gloss">sugar</quote> slot, but the <emphasis>connective</emphasis>
 slot:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru ji loi sakta</foreignphrase>
-You want to add milk ___ sugar.
-</literallayout>
-</informalexample>
-
-By filling in the slot, you get to pick what you want. If you say
+<literallayout><foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru ji loi sakta</foreignphrase>
+You want to add milk ___ sugar.</literallayout>
+</informalexample>By filling in the slot, you get to pick what you want. If you say
 <foreignphrase lang="art-lojban">.e</foreignphrase>, you are saying the sentence
 <foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru .e loi
 sakta</foreignphrase> &mdash; in other words, you want both. If you say
@@ -814,9 +758,7 @@ lang="art-lojban">la suzyn. nelci loi dotco je'i fraso birje</foreignphrase>
 (Hint: Just as you thought, you have no idea whether Susan likes French 
 beer or not. You should still be able to come up with a connective that 
 reflects that.)</para></listitem>
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -847,9 +789,7 @@ lang="art-lojban">gi'a, gi'e, gi'o, gi'u, gi'onai, gi'anai</foreignphrase>)</par
 <listitem><para>Asking questions about logical connectives (<foreignphrase
 lang="art-lojban">ji, je'i, gi'i</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -954,10 +894,7 @@ lang="art-lojban">.iseki'ubo le bevri cu cusku lu lanme je'i bakni li'u</foreign
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. cusku lu naje li'u</foreignphrase></para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
@@ -981,10 +918,7 @@ Susan?</quote></para></listitem>
 outer space &mdash; whether or not you met any aliens.</quote> (Use an attitudinal for 
 <quote role="gloss">Hope.</quote>)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -996,8 +930,7 @@ outer space &mdash; whether or not you met any aliens.</quote> (Use an attitudin
 
 <simplesect role="excanswer"><title>Exercise 1</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">la suzyn. cinynei la jang. .a la
 ranjit.</foreignphrase></para></listitem>
@@ -1035,11 +968,8 @@ lang="art-lojban">mi djica le birje .u le cidjrkari</foreignphrase>
 In particular, it involves IFF rather than IF, since to get from Boston to
 Atlanta, you would likely go via Washington. So you cannot go to Atlanta
 without going to Washington, and you've just said you won't go to
-Washington without going to Atlanta.)</para></listitem>
-
-</orderedlist>
-
-<tip><para>We did say that a Lojban <foreignphrase
+Washington without going to Atlanta.)</para></listitem> 
+</orderedlist><tip><para>We did say that a Lojban <foreignphrase
 lang="art-lojban">cmene</foreignphrase> cannot contain <foreignphrase
 lang="art-lojban">la</foreignphrase> (as we mentioned way back in <link
 linkend="less1">Lesson 1</link>); otherwise it would break up into two
@@ -1058,17 +988,13 @@ lang="art-lojban">la .atlantas.</foreignphrase> is in fact OK, because, if
 it did fall apart, it would fall apart into <foreignphrase
 lang="art-lojban">la .at. la ntas.</foreignphrase> <quote role="gloss">At,
 Ntas</quote> &mdash; and you'd need those pauses for it to really fall apart 
-like that.
-</para></tip>
-
-</para>
+like that.</para></tip></para>
 </simplesect>
 
 
 <simplesect role="excanswer"><title>Exercise 2</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>Ranjeet drinks something which is either wine or beer.
 </para></listitem>
@@ -1104,15 +1030,12 @@ both</quote>.)</para></listitem>
 lang="art-lojban">.enai</foreignphrase> builds a new connective, AND NOT, since 
 what follows it gets negated.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.enai</foreignphrase> 
 (Does Ranjeet meet Susan at the bar or the hospital?)</para></listitem>
@@ -1131,17 +1054,13 @@ a friend of Lee Harvey Oswald's or of Ranjeet's?)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">naju</foreignphrase>. Think about it... (Does Susan like 
-German or French beer?)
-</para></listitem>
-</orderedlist>
-
-</para>
+German or French beer?)</para></listitem>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 4</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>The waiter goes to the three friends' table and says 
 <quote>What would you like to eat?</quote></para></listitem>
@@ -1180,17 +1099,13 @@ li'u</foreignphrase>.)</para></listitem>
 <listitem><para>Jyoti says <quote>Not A but B</quote> (or, in English, 
 <quote>Beef.</quote>)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
 <simplesect role="excanswer"><title>Exercise 5</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i le bevri cu carna fi la suzyn. gi'e cisma gi'e cusku lu 
@@ -1218,10 +1133,7 @@ lang="art-lojban">se zdile</foreignphrase>, which gives a slightly different
 meaning. As it turns out, though, both would be acceptable renderings of
 the English.)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 

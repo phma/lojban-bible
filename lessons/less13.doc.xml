@@ -1,5 +1,5 @@
 <chapter id="less13"><title>Keeping it flowing: Textual <foreignphrase 
-lang="art-lojban">cmavo</foreignphrase></title>
+lang="art-lojban">cmavo</foreignphrase></title><titleabbrev>Keeping it flowing</titleabbrev>
 
 <para>Most of what we've been concentrating on until now has had to do with
 the logical side of Lojban &mdash; getting sentences to be true. To that
@@ -83,11 +83,9 @@ And if you want to say you feel it <emphasis>really</emphasis> strongly,
 you add <foreignphrase lang="art-lojban">cai</foreignphrase>. This gives
 you a seven-part scale:
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">cai &gt; sai &gt;</foreignphrase> (nothing) <foreignphrase lang="art-lojban">&gt; ru'e  &gt; cu'i &gt; nairu'e &gt; nai &gt; naisai &gt; naicai</foreignphrase></literallayout>
-</informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">cai &gt; sai &gt;</foreignphrase> (nothing) <foreignphrase lang="art-lojban">&gt; ru'e  &gt; cu'i &gt; nairu'e &gt; nai &gt; naisai &gt; naicai</foreignphrase></literallayout>
 
-So for instance, if you want to
+</informalexample>So for instance, if you want to
 say <quote>Eh. That's cool</quote>, you'd say <foreignphrase
 lang="art-lojban">.a'ucu'i</foreignphrase>. If you want to say <quote>That
 is really gross!</quote>, you'd say <foreignphrase
@@ -206,10 +204,7 @@ lang="art-lojban">.u'u</foreignphrase></para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">.uu</foreignphrase></para></listitem>
 
-</itemizedlist>
-
-
-<orderedlist>
+</itemizedlist><orderedlist>
 
 <listitem><para>You see someone stub their toe.</para></listitem>
 
@@ -229,9 +224,7 @@ twice a year.</para></listitem>
 <listitem><para>You have just been slapped in the face, and you are neither 
 the Buddha nor Christ, or into S&amp;M, for that matter.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 </sect1>
@@ -371,9 +364,7 @@ Some to watch out for, though, include:
 <varlistentry><term><foreignphrase lang="art-lojban">zu'u</foreignphrase>
 </term><listitem><para>on the one hand &mdash; on the other hand</para></listitem></varlistentry>
 
-</variablelist>
-
-</para>
+</variablelist></para>
 
 <para>There are two more UI <foreignphrase 
 lang="art-lojban">cmavo</foreignphrase> that will come in handy. <foreignphrase 
@@ -384,20 +375,12 @@ between hypothetical and non-hypothetical kinds of
 <wordasword>if</wordasword>:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">.i <emphasis>da'i</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
-If you <emphasis>had</emphasis> gone to the Ricky Martin concert, then you <emphasis>would have</emphasis> heard <citetitle>La Vida Loca</citetitle>.
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">.i <emphasis>da'inai</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
-If you <emphasis>did</emphasis> go to the Ricky Martin concert, then you <emphasis>must have</emphasis> heard <citetitle>La Vida Loca</citetitle>.
-</literallayout>
-</informalexample>
-
-</para>
+<literallayout><foreignphrase lang="art-lojban">.i <emphasis>da'i</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
+If you <emphasis>had</emphasis> gone to the Ricky Martin concert, then you <emphasis>would have</emphasis> heard <citetitle>La Vida Loca</citetitle>.</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">.i <emphasis>da'inai</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
+If you <emphasis>did</emphasis> go to the Ricky Martin concert, then you <emphasis>must have</emphasis> heard <citetitle>La Vida Loca</citetitle>.</literallayout>
+</informalexample></para>
 
 <para><foreignphrase lang="art-lojban">ki'a</foreignphrase>, finally, is a
 <foreignphrase lang="art-lojban">cmavo</foreignphrase> you want to make
@@ -411,22 +394,24 @@ clarification (so it's even better than <wordasword>Huh?</wordasword>,
 because you can identify exactly what made you say <wordasword>Huh?</wordasword>):
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">.i mi puzi te vencu lo matcrflokati
+<literallayout><foreignphrase lang="art-lojban">.i mi puzi te vencu lo matcrflokati
 .i matcrflokati ki'a</foreignphrase>
 <quote>I just bought a <foreignphrase lang="ell">flokati</foreignphrase> [rug].</quote>
-<quote><foreignphrase lang="ell">Flokati</foreignphrase>? Huh?</quote>
-</literallayout>
-</informalexample>
-
-</para>
+<quote><foreignphrase lang="ell">Flokati</foreignphrase>? Huh?</quote></literallayout>
+</informalexample></para>
 
 <simplesect role="exercise"><title>Exercise 2</title>
 
 <para>Give the Lojban discursives corresponding to the emphasised words in
 each of the following sentences.
 
-<orderedlist>
+<note><para>This exercise relies heavily on a particular variant of idiomatic
+American English. (Since the equivalents of discursives, and attitudinals in
+general, are among the features of language that tend to be idiomatic, this
+is hard to avoid.) If you're not familiar with it, don't worry about this
+exercise. </para>
+
+</note><orderedlist>
 
 <listitem><para>The Eiffel Tower is, like, 20 miles tall 
 <emphasis>or something</emphasis>.</para></listitem>
@@ -447,9 +432,7 @@ Tracy and Shannon with her. And she <emphasis>totally</emphasis> walks two
 feet away from me acting like, <quote>Do I know you?</quote> Like, bogus to the 
 max!</para></listitem>
 
-</orderedlist>
-
-(You may attain Lojban divinity status if, on some future date, you come back to 
+</orderedlist>(You may attain Lojban divinity status if, on some future date, you come back to 
 this scintillating little anecdote and translate in to Lojban. Like, totally.)
 </para>
 </simplesect>
@@ -492,8 +475,7 @@ the correction above would be in Lojban
 <informalexample>
 <para><foreignphrase lang="art-lojban">.i mi te benji je cilre loi 
 bangrnesperanto valsi si si lojbo valsi</foreignphrase>.</para>
-</informalexample>
-</para>
+</informalexample></para>
 
 <para>The problem with <foreignphrase lang="art-lojban">si</foreignphrase>
 is, you have to count words. This can get tedious, and you shouldn't have
@@ -511,9 +493,7 @@ lang="art-lojban">sa</foreignphrase>. For example:
 <informalexample>
 <para><foreignphrase lang="art-lojban">.i mi te benji je cilre loi 
 sa .i mi cilre loi lojbo</foreignphrase>.</para>
-</informalexample>
-
-The correction following <foreignphrase
+</informalexample>The correction following <foreignphrase
 lang="art-lojban">sa</foreignphrase> is a sentence; you know that, because
 the first word after <foreignphrase lang="art-lojban">sa</foreignphrase> is
 the sentence marker, <foreignphrase lang="art-lojban">.i</foreignphrase>.
@@ -526,9 +506,7 @@ sa</foreignphrase>. Or take:
 <informalexample>
 <para><foreignphrase lang="art-lojban">.i ca le purlamdei mi mrilu fi do sa ca 
 la reldjed.</foreignphrase>.</para>
-</informalexample>
-
-The correction is <foreignphrase lang="art-lojban">ca la
+</informalexample>The correction is <foreignphrase lang="art-lojban">ca la
 reldjed.</foreignphrase> <quote role="gloss">on Monday</quote>. So what it 
 replaces is the last phrase beginning with <foreignphrase 
 lang="art-lojban">ca</foreignphrase>: <foreignphrase lang="art-lojban">ca 
@@ -557,9 +535,7 @@ valsi cu nandu sa nu vimcu loi lojbo valsi lo jufra</foreignphrase></para></list
 <listitem><para><foreignphrase lang="art-lojban">.i mi .e lemi pendo cu 
 zvati le barja sa .e la ranjit. ca lenu do zvati le gusta</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -627,9 +603,7 @@ another one!) apple is rotten</quote> comes out in Lojban as <foreignphrase
 lang="art-lojban">ti poi <emphasis>to vi'onai do'u mi na djica lo drata
 toi</emphasis> plise cu fusra</foreignphrase>.</para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 </sect1>
 
@@ -662,9 +636,7 @@ lang="art-lojban">zo</foreignphrase>)</para></listitem>
 <listitem><para>Parentheses (<foreignphrase
 lang="art-lojban">to, toi</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -790,10 +762,7 @@ ju'o lenu do tavla cu zdile li'u</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i la jang. lu .i 
 je'e .i'ese'i go'i li'u</foreignphrase></para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
@@ -826,10 +795,7 @@ structure <quote>x1 is geeky</quote>.)</para></listitem>
 <listitem><para>(Far away, an extraterrestial intelligence sets off for 
 Earth.)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -840,8 +806,7 @@ Earth.)</para></listitem>
 
 <simplesect role="excanswer"><title>Exercise 1</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.uu</foreignphrase> is 
 the most usual reaction. This is one meaning of English 
@@ -870,16 +835,13 @@ getting a thrill out of this would react with something more like
 <foreignphrase lang="art-lojban">.oinai</foreignphrase> (un-complaint, i.e.
 pleasure.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
 <simplesect role="excanswer"><title>Exercise 2</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">ba'u</foreignphrase> is 
 the only discursive Lojban would tolerate here, as the Eiffel Tower, is, 
@@ -896,13 +858,9 @@ certainly be embarrassing</quote> (or <foreignphrase
 lang="art-lojban">sa'e</foreignphrase> &mdash; <quote>that would, in 
 precise terms, be embarrassing.</quote>)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">ta'onai</foreignphrase> 
 (<quote>getting back to what I was saying...</quote>)</para></listitem>
@@ -914,13 +872,9 @@ relevant thing I'm doing.</quote>)</para></listitem>
 attitudinals in this word, but <foreignphrase lang="art-lojban">ki'a</foreignphrase> 
 is really the only relevant discursive.)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">zu'u</foreignphrase>
 (<quote>on the one hand...</quote>; it might not be as elegant as the Classical
@@ -935,20 +889,15 @@ Greek contrast clauses with <foreignphrase lang="grc">men</foreignphrase> and
 lang="art-lojban">ba'ucu'i</foreignphrase>: presumably our hapless 
 narrator isn't exaggerating here.)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi viska le djan.</foreignphrase></para></listitem>
 
@@ -971,15 +920,12 @@ following <foreignphrase lang="art-lojban">sa</foreignphrase> is the name
 that name, i.e. <foreignphrase lang="art-lojban">ca lenu do zvati le
 gusta</foreignphrase>, is left alone.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 4</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>(New Paragraph) Incidentally, Zhang is somewhat drunk, 
 because he went to another bar.</para></listitem>
@@ -1053,16 +999,12 @@ talk.</quote>)</para></listitem>
 <listitem><para>Zhang: <quote>Yup, it is, isn't it!</quote> (Spoken with 
 some comical smugness, no doubt...)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 5</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la suzyn. po'o na djuno ledu'u la ranjit. slabu la 
@@ -1113,10 +1055,7 @@ lang="art-lojban">to</foreignphrase>, but you don't have to: there's no
 danger of the sentence within parentheses being merged in with the sentence 
 before it.)</para></listitem>
 
-</orderedlist>
-
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 

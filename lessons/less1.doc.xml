@@ -187,9 +187,7 @@ lang="art-lojban">vybu</foreignphrase>. So
 <wordasword>Schwarzenegger</wordasword> is spelt in Lojban as:
 
 <informalexample><para><foreignphrase 
-lang="art-lojban">sy cy y'ybu vybu abu ry zy ebu ny ebu gy gy ebu ry</foreignphrase></para></informalexample>
-
-And spelling <emphasis>that</emphasis> is a task the equal of anything the 
+lang="art-lojban">sy cy y'ybu vybu abu ry zy ebu ny ebu gy gy ebu ry</foreignphrase></para></informalexample>And spelling <emphasis>that</emphasis> is a task the equal of anything the 
 Terminator ever did!
 </para>
 
@@ -327,25 +325,18 @@ situations?
 
 <listitem><para>There is a large green beetle crawling towards you.  </para></listitem>
 
-</orderedlist>
-
-</para></simplesect></sect1>
+</orderedlist></para></simplesect></sect1>
 
 <sect1 id="less1names"><title>Lojban Names (<foreignphrase 
 lang="art-lojban">cmene</foreignphrase>)</title>
 
-<para>
-Watch any film where people don't know each other's language.  They start
+<para>Watch any film where people don't know each other's language.  They start
 off saying things like <quote>Me Tarzan,</quote> which is as good a place to start
-learning Lojban as any.  So here we go.</para>
+learning Lojban as any.  So here we go.
 
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi'e robin.</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">mi'e robin.</foreignphrase>
 I-am-named Robin
-I'm Robin
-</literallayout>
-</informalexample>
+I'm Robin</literallayout></informalexample></para>
 
 <para><foreignphrase lang="art-lojban">mi'e</foreignphrase> is related to
 <foreignphrase lang="art-lojban">mi</foreignphrase>, which is <quote role="gloss">I</quote>, <quote role="gloss">me</quote> and so on. 

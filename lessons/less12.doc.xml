@@ -1,4 +1,4 @@
-<chapter id="less12"><title>Aspect, Vocatives, Loan Words, and Equalities</title>
+<chapter id="less12"><title>Aspect, Vocatives, Loan Words, and Equalities</title><titleabbrev>Aspect, Vocatives, etc.</titleabbrev>
 
 <para>This lesson is something of a mixed bag. In it, we cover four topics
 which are fairly important in Lojban, each of which kind of fits somewhere
@@ -76,55 +76,27 @@ use <foreignphrase lang="art-lojban">ba'o</foreignphrase>. So you can come
 up with sentences like these:
 
 <informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi ba'o tavla le mikce</foreignphrase>
-I have spoken to the doctor (or had spoken, or will have spoken)
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi ca'o tavla le mikce</foreignphrase>
-I am speaking to the doctor (or was speaking, or will be speaking)
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi pu'o tavla le mikce</foreignphrase>
-I am about to speak to the doctor (or was about to speak, or will be about to speak)
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi pu pu'o tavla le mikce</foreignphrase>
-I was about to speak to the doctor
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi ba ba'o tavla le mikce</foreignphrase>
-I will have spoken to the doctor
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi pu ba'o tavla le mikce</foreignphrase>
-I had spoken to the doctor
-</literallayout>
-</informalexample>
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="art-lojban">mi pu ca'o tavla le mikce</foreignphrase>
-I was speaking to the doctor
-</literallayout>
-</informalexample>
-
-</para>
+<literallayout><foreignphrase lang="art-lojban">mi ba'o tavla le mikce</foreignphrase>
+I have spoken to the doctor (or had spoken, or will have spoken)</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi ca'o tavla le mikce</foreignphrase>
+I am speaking to the doctor (or was speaking, or will be speaking)</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi pu'o tavla le mikce</foreignphrase>
+I am about to speak to the doctor (or was about to speak, or will be about to speak)</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi pu pu'o tavla le mikce</foreignphrase>
+I was about to speak to the doctor</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi ba ba'o tavla le mikce</foreignphrase>
+I will have spoken to the doctor</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi pu ba'o tavla le mikce</foreignphrase>
+I had spoken to the doctor</literallayout>
+</informalexample><informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi pu ca'o tavla le mikce</foreignphrase>
+I was speaking to the doctor</literallayout>
+</informalexample></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -165,9 +137,7 @@ bar.</para></listitem>
 
 <listitem><para>I'd gone to the hospital before you tried to talk to me.</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -280,8 +250,7 @@ something like <foreignphrase lang="art-lojban">co'omi'e
 the end of your email in English as a signature, and translates as
 <quote>Goodbye; I'm Robin.</quote></para></listitem>
 
-</itemizedlist>
-</para>
+</itemizedlist></para>
 
 <para>The other vocatives are not as common.
 
@@ -351,8 +320,7 @@ lang="art-lojban">fe'o</foreignphrase>. (This is what people actually
 it's not as well-known a word as <foreignphrase
 lang="art-lojban">co'o</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-</para>
+</itemizedlist></para>
 
 <para>Vocatives take names (after an obligatory pause), or <foreignphrase
 lang="art-lojban">sumti</foreignphrase> or <foreignphrase
@@ -391,9 +359,7 @@ home!</emphasis></quote>
 
 <quote><emphasis>Be my guest!</emphasis></quote></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -663,9 +629,7 @@ lang="art-lojban">jinvi</foreignphrase>.)</para></listitem>
 right of mine <emphasis>is</emphasis> a Ford car. (Use <foreignphrase
 lang="art-lojban">le pritu</foreignphrase>.)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
@@ -686,9 +650,7 @@ lang="art-lojban">pu'o, ca'o, ba'o; co'a, co'o, mo'u</foreignphrase>)</para></li
 <listitem><para>Words expressing equality (<foreignphrase 
 lang="art-lojban">me, du, po'u, no'u</foreignphrase>)</para></listitem>
 
-</itemizedlist>
-
-</para>
+</itemizedlist></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -810,9 +772,7 @@ lang="art-lojban">.i la suzyn. cusku lu .i mi pu'o cusku la'edi'u li'u</foreignp
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. cusku lu ke'onai .suzyn. li'u</foreignphrase></para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 5</title>
@@ -849,9 +809,7 @@ than G&uuml;nter's.</quote></para></listitem>
 you doing, friend!</quote> to Ranjeet.</para></listitem>
 
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
@@ -887,16 +845,13 @@ kansa mi'a gi'e ku'i bilga lenu stali le barja</foreignphrase>
 spita pu lenu do troci lenu do tavla mi</foreignphrase>
 </para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>
 
@@ -910,13 +865,9 @@ trying to draw Jyoti's attention.)</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">re'inai</foreignphrase>
 (Jyoti is <emphasis>not</emphasis> ready to receive any messages.)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">fi'i</foreignphrase> (the
 English is a classic formula for offering hospitality; it may not always be
@@ -932,13 +883,9 @@ lang="art-lojban">vi'o</foreignphrase> is a response to an explicit
 request, and <foreignphrase lang="art-lojban">fi'i</foreignphrase> isn't 
 really a request.)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">mu'o</foreignphrase> 
 (<quote>Please respond</quote>, which is pretty much the same thing as 
@@ -950,13 +897,9 @@ say <quote>No</quote>, which would be more like <foreignphrase
 lang="art-lojban">vi'onai</foreignphrase> <quote>I refuse to comply with 
 your request.</quote>)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">pe'u</foreignphrase> 
 (because the primary thing you're doing is making a request; but 
@@ -972,22 +915,14 @@ lang="art-lojban">vi'o</foreignphrase> (<emphasis>Not</emphasis> <foreignphrase
 lang="art-lojban">fi'i</foreignphrase>, despite the English wording: you're 
 not offering hospitality, just a chair.)</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
 
-<orderedlist>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<orderedlist><listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">la djiotis. me lo
 ninmu</foreignphrase>.</para></listitem>
@@ -1003,13 +938,9 @@ lang="art-lojban">no'u</foreignphrase>, we would be left
 with no <foreignphrase lang="art-lojban">selbri</foreignphrase> at
 all.</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase
 lang="art-lojban">la djiotis. .e la suzyn. cu me le re ninmu poi klama fu 
@@ -1027,13 +958,9 @@ one away with <foreignphrase
 lang="art-lojban">po'u</foreignphrase> and be left with a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> for the rest of the sentence.</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">la djiotis. .e la suzyn.
 me le ninmu poi la jang. jinvi le du'u ke'a pendo ri</foreignphrase>.</para></listitem>
@@ -1048,13 +975,9 @@ there would be no <foreignphrase lang="art-lojban">selbri</foreignphrase>
 left for the main <foreignphrase
 lang="art-lojban">bridi</foreignphrase>.</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">la ranjit. noi me lo pendo
 be la djiotis. cu me lo xadba dotco</foreignphrase>.</para></listitem>
@@ -1069,13 +992,9 @@ possible: <foreignphrase
 lang="art-lojban">la ranjit. no'u lo pendo
 be la djiotis. cu me lo xadba dotco</foreignphrase>.</para></listitem>
 
-</orderedlist>
+</orderedlist></para></listitem>
 
-</para></listitem>
-
-<listitem><para>
-
-<orderedlist numeration="loweralpha">
+<listitem><para><orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase
 lang="art-lojban">le vi blanu karce poi me le pritu be le mi karce cu me 
@@ -1093,9 +1012,7 @@ lang="art-lojban">le vi blanu karce po'u le pritu be le mi karce cu me
 la ford. karce</foreignphrase> (Since you're narrowing down what the car is, you 
 need a restrictive rather than a non-restrictive clause.)</para></listitem>
 
-</orderedlist>
-
-This use of <foreignphrase lang="art-lojban">me</foreignphrase> is pretty
+</orderedlist>This use of <foreignphrase lang="art-lojban">me</foreignphrase> is pretty
 standard to get a <foreignphrase lang="art-lojban">cmene</foreignphrase>
 into a <foreignphrase lang="art-lojban">tanru</foreignphrase>. There are 
 often times when you will want to use a name to describe a class of 
@@ -1110,9 +1027,7 @@ lang="art-lojban">me</foreignphrase> to <foreignphrase
 lang="art-lojban">selbri</foreignphrase>: Type 1 involves the undigested
 <foreignphrase lang="art-lojban">cmene</foreignphrase>, with <foreignphrase
 lang="art-lojban">la'o</foreignphrase>, while Type 2 Lojbanises it, using
-<foreignphrase lang="art-lojban">la</foreignphrase>.
-
-</para></listitem>
+<foreignphrase lang="art-lojban">la</foreignphrase>.</para></listitem>
 
 </orderedlist>
 
@@ -1120,8 +1035,7 @@ lang="art-lojban">la'o</foreignphrase>, while Type 2 Lojbanises it, using
 
 <simplesect role="excanswer"><title>Exercise 4</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para>After they have finished eating, the three friends are now 
 talking to each other. (Aspects can be used as <foreignphrase
@@ -1170,15 +1084,12 @@ tense as well as the aspect when you think it is obvious from context.)</para></
 <listitem><para>Jyoti says <quote>Don't repeat, Susan.</quote> (Two can 
 play at that game!)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 5</title>
 
-<para>
-<orderedlist>
+<para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. .e la ranjit. .e la suzyn. mu'o klama le 
@@ -1240,9 +1151,7 @@ lang="art-lojban">.i vu le ninmu la jang. cladu cusku lu .i coi pendo li'u la ra
 doing anything. He might want to know <emphasis>what</emphasis> he doing 
 there; but that's the next chapter of the saga...)</para></listitem>
 
-</orderedlist>
-
-</para>
+</orderedlist></para>
 </simplesect>
 
 
