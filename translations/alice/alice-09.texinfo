@@ -484,31 +484,60 @@ i lu do go'i sei le jitfa cakyrespa cu cusku li'u
 @c      `Hold your tongue!' added the Gryphon, before Alice could speak
 @c    again.  The Mock Turtle went on.
 
+i lu ko ri'urgau le tance sei le cpicinfo pu le nu la alis ka'e za'uroi
+tavla cu jmina cusku li'u i le jitfa cakyrespa cu di'a co'e
+
 @c      `We had the best of educations--in fact, we went to school
 @c    every day--'
+
+i lu mi'a cilre fu le xagrai i je'u mi'a zvati le ckule ca ro djedi li'u
 
 @c      `I'VE been to a day-school, too,' said Alice; `you needn't be
 @c    so proud as all that.'
 
+i lu mi ji'a zvati lo djedi ckule sei la alis cusku i ei do na tai jgira
+li'u
+
 @c      `With extras?' asked the Mock Turtle a little anxiously.
+
+i lu xu cilre le seljmina sei le jitfa cakyrspa cu xanka milxe retsku 
+li'u
 
 @c      `Yes,' said Alice, `we learned French and music.'
 
+i lu go'i sei la alis cusku i mi'a cilre le fasybau e le zgike li'u
+
 @c      `And washing?' said the Mock Turtle.
 
+i lu e xu le nu lumci sei le cakyrespa cu cusku li'u
+
 @c      `Certainly not!' said Alice indignantly.
+
+i lu li'a na go'i sei la alis fengu cusku li'u
 
 @c      `Ah! then yours wasn't a really good school,' said the Mock
 @c    Turtle in a tone of great relief.  `Now at OURS they had at the
 @c    end of the bill, "French, music, AND WASHING--extra."'
 
+i lu ua le medo'omoi na mutce le ka xamgu ckule sei le jitfa cakyrespa
+cu surbi'o mutce tonga cusku i le dejnoi be fi le memi'amoi cu se fanmo
+lu le fasybau e le zgike ba'e e le nu lumci cu seljmina li'u li'u
+
 @c      `You couldn't have wanted it much,' said Alice; `living at the
 @c    bottom of the sea.'
+
+i lu do na mutce le ka nitcu sei la alis cusku va'o le nu xabju le xamsi 
+loldi li'u
 
 @c      `I couldn't afford to learn it.' said the Mock Turtle with a
 @c    sigh.  `I only took the regular course.'
 
+i lu mi na kakne le nu pleji sei le jitfa cakyrespa cu vruvasxu cusku
+i mi cilre le po'o fadni li'u 
+
 @c      `What was that?' inquired Alice.
+
+i lu fy mo sei la alis retsku
 
 @c      `Reeling and Writhing, of course, to begin with,' the Mock
 @c    Turtle replied; `and then the different branches of Arithmetic--
