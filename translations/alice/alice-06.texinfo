@@ -56,9 +56,13 @@ xrebi'o
 @c    ground near the door, staring stupidly up into the sky.
 
 i la alis tai cmila mu'i la'e di'u ja'e le nu bilga le nu bajra xruti
-le ricmei ki'u le nu terpa le nu ry tirna abu  
+le ricmei ki'u le nu terpa le nu ry tirna abu i ca le nu abu za'ure'u
+mipri catlu kei ge le finpe selfu ba'o cliva gi le drata cu zutse le
+loldi ne'a le vorme gi'e bebna catlu fa'a le tsani 
 
 @c      Alice went timidly up to the door, and knocked.
+
+i la alis toldarsi klama le vorme gi'e darxi
 
 @c      `There's no sort of use in knocking,' said the Footman, `and
 @c    that for two reasons.  First, because I'm on the same side of the
@@ -68,7 +72,15 @@ le ricmei ki'u le nu terpa le nu ry tirna abu
 @c    and sneezing, and every now and then a great crash, as if a dish
 @c    or kettle had been broken to pieces.
 
+i lu noda do prali le nu darxi sei le selfu cu cusku i go'i ki'u reda 
+i pamai mi do dunli le ka zvati le mokau mlana be le vorme i remai ne'i
+cupra lo tai savru ja'e le nu noda do ka'e tirna li'u i ju'o lo tolfadni
+savru ca'o nenri i ru'i cmoni je senci i ru'inai barda sance tai le nu 
+lo palta a lo patxu cu porpi
+
 @c      `Please, then,' said Alice, `how am I to get in?'
+
+i lu pe'udo'u sei la alis cusku mi nerkla ta'i ma li'u
 
 @c      `There might be some sense in your knocking,' the Footman went
 @c    on without attending to her, `if we had the door between us.  For
@@ -78,6 +90,8 @@ le ricmei ki'u le nu terpa le nu ry tirna abu
 @c    perhaps he can't help it,' she said to herself; `his eyes are so
 @c    VERY nearly at the top of his head.  But at any rate he might
 @c    answer questions.--How am I to get in?' she repeated, aloud.
+
+
 
 @c      `I shall sit here,' the Footman remarked, `till tomorrow--'
 
