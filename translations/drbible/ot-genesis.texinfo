@@ -381,6 +381,7 @@ ca ri cadysti piro lei se gunka poi la cevni cu finti je zbasu
 cu zbasu le tsani .e le terdi kei
 @c "éleh toldot" may mark the end of an account or the beginning. In the
 @c Table of Nations it marks the end. Should this one be "di'e" or "di'u"?
+@c -- I've always thought it was "di'e", but it could be either I guess -- Adam
 
 @c    2:5. And every plant of the field before it sprung up in the earth, and
 @c    every herb of the ground before it grew:  for the Lord God had not
@@ -388,22 +389,33 @@ cu zbasu le tsani .e le terdi kei
 2:5. pu'oki le nu lo cmatricu cu zvati le terdi kei pu'oki le nu lo terstagi
 cu derjbe kei la .iaves. noi cevni na cavgau fi le terdi .ije lo remna
 noi gunka tu'a le dertu na zasti
+@c I think that the word 'ki' introduces the subsentence here, so 'terem yihye'
+@c should be the main bridi, and 'ki lo himtir' should be the subsentenc. -- Adam
 
 @c    2:6. But a spring rose out of the earth, watering all the surface of
 @c    the earth.
 2:6. .iku'i lo flecu cu se krasi le terdi gi'e terpinxe fi ro le sefta be
 le terdi
+@c The exact meaning is unclear, but I'd thought that 'ed' means more like
+@c steam. Maybe it could be something like 'lo jacygapci cu flecu fo le terdi'
+@c to ge the best of both worlds. -- Adam
 
 @c    2:7. And the Lord God formed man of the slime of the earth:  and
 @c    breathed into his face the breath of life, and man became a living
 @c    soul.
 2:7. .i la .iaves. noi cevni ki zbasu le nanmu le pulce be le terdi gi'e
 vaxse'a le jmive vacri .ije le nanmu cu binxo lo jmive pruxi
+@c I've heard it said that the original meaning of 'nefesh' was 'throat', and
+@c by extension 'body', and that the development to soul was much later,
+@c but since it's never thought of like that now, it's probably best to leave
+@c it. -- Adam
 
 @c    2:8. And the Lord God had planted a paradise of pleasure from the
 @c    beginning:  wherein he placed man whom he had formed.
 2:8. ni'o la .iaves. pu sombo le purdi pe viki la .eden. noi stuna .i ra
 punji le nanmu poi ra zbasu ku'o py
+@c The garden isn't *near* Eden, it's *in* Eden. Better 'bu'u' or 'ne'i'
+@c than 'vi'. -- Adam
 
 @c    2:9. And the Lord God brought forth of the ground all manner of trees,
 @c    fair to behold, and pleasant to eat of:  the tree of life also in the
@@ -411,6 +423,11 @@ punji le nanmu poi ra zbasu ku'o py
 2:9. .i la .iaves. bu'u fregau le tumla lo xagyselcta je pukselcti tricu be so'ida
 .i le tricu be le kamji'e cu midju le purdi .i le tricu be le kamju'o be fo
 lo vrude .e lo palci
+@c Where does "so'ida" come from? Shouldn't it be 'ro ... tricu' instead of
+@c 'lo ... tricu'?
+@c I think that the structure of the Hebrew suggests something like
+@c 'ro ... tricu .e le tricu be le kamji'e noi midju le purdi ku'o .e le
+@c tricu be le kamju'o ...' -- Adam
 
 @c    The tree of life. . .So called because it had that quality, that by
 @c    eating of the fruit of it, man would have been preserved in a constant
@@ -423,46 +440,72 @@ lo vrude .e lo palci
 @c    which from thence is divided into four heads.
 2:10. ni'o lo rirxe cu cliva la .eden. gi'e cimdu'a le purdi gi'e se fendi
 fi voda
+@c Why 'ni'o'?
+@c The river isn't 'cliva', more like 'rirxe fi .ebu' or 'lo rirxe cu flecu
+@c fo .ebu'.
+@c Looking at the place structure of 'cilmo', I would prefer 'cimgau', since
+@c 'dunda lo cilmo' doesn't sound quite right.
+@c The last sentence would be closer to the original with something like
+@c 'gi'e sepsi'u fe'eco'a .ebu gi'e binxo le rirxe vomei'
+@c At any rate I think it's mistaken to imply an agent, which 'fendi' does.
+@c -- Adam
 
 @c    2:11. The name of the one is Phison:  that is it which compasseth all
 @c    the land of Hevilath, where gold groweth.
 @c "gold groweth"? -phma
 2:11. .i le pamoi se cmene zo .piCON. gi'e tonli'u piro la xaviLOT. no'u le
 tumla noi se zvati lo solji
+@c Shouldn't it be 'xaviLAT'?
+@c I think that 'sruri' is better than 'tonli'u' (also in the following)
+@c -- Adam
 
 @c    2:12. And the gold of that land is very good:  there is found bdellium,
 @c    and the onyx stone.
 2:12. to le vi ra ku solji cu xamgu .iji'a lo majrbdola .e lo ja'unro'i
 cu zvati ra toi
+@c 'le vi ra ku solji' is ungrammatical. Maybe 'le solji pe vi (bu'u?) ra' (xy
+@c would be more specific.) I think that 'bdolax' is 'krili'. What is a 
+'claw rock'? -- Adam
 
 @c    2:13. And the name of the second river is Gehon:  the same is it that
 @c    compasseth all the land of Ethiopia.
 2:13. .i le remoi rirxe se cmene zo .gi'ON. gi'e tonli'u piro la kuc. noi tumla
+@ I think that 'giXON' is a better transliteration. -- Adam
 
 @c    2:14. And the name of the third river is Tigris:  the same passeth along
 @c    by the Assyrians.  And the fourth river is Euphrates.
 2:14. .i le cimoi rirxe se cmene zo .xidekel. gi'e litru le stuna be la .aCUR.
 .i le vomoi cu du la .uFRAT.
+@c The river doesn't 'litru', I think it should be something like 'flecu
+@c du'a la aCUR.'
+@c Shouldn't the name of the fourth be just 'prat'? -- Adam
 
 @c    2:15. And the Lord God took man, and put him into the paradise of
 @c    pleasure, to dress it, and to keep it.
 2:15. ni'o la .iaves. noi cevni cu punji le nanmu le purdi tezu'e lenu gunka
 .e lenu zgaku'i
+@c The original is more like '... cu lebna le remna gi'e punji ry. le purdi'
+@c 'adam' means 'remna' not 'nanmu'; in a couple of verses 'isha' is contrasted
+@c with 'ish', but not with 'adam'. -- Adam
 
 @c    2:16. And he commanded him, saying:  Of every tree of paradise thou
 @c    shalt eat:
 2:16. .ije minde ny lu ko citka tu'a da'a tricu pe le purdi
+@c 'lu' should be 'la'e lu', in my opinion.
+@c I don't think that 'tu'a' works here, because there is no abstraction which
+@c would make sense, you don't eat abstractions. -- Adam
 
 @c    2:17. But of the tree of knowledge of good and evil, thou shalt not
 @c    eat.  For in what day soever thou shalt eat of it, thou shalt die the
 @c    death.
 2:17. .iku'i ko na citka tu'a ba'e le tricu be le kamju'o be fo lo vrude .e
-lo palci .iki'ubo ca le nu do citka kei do ba'e morsi
+lo palci .iki'ubo ca le nu do citka kei do ba'e morsi li'u
 
 @c    2:18. And the Lord God said:  It is not good for man to be alone:  let us
 @c    make him a help like unto himself.
 2:18. .i la .iaves. cu cusku lu le nu le nanmu cu pamei na xamgu .i.e'u mi zbasu
 le dutsimsa sidju be ny
+@c I think that 'ai' would be better than '.e'u'. -- Adam
 
 @c    2:19. And the Lord God having formed out of the ground all the beasts
 @c    of the earth, and all the fowls of the air, brought them to Adam to see
@@ -472,36 +515,51 @@ le dutsimsa sidju be ny
 .e ro cipni pe le vacri .ije klagau fi la .aDAM. tezu'e lenu facki fi ra
 le du'u cmedunda makau .ija'ebo le se cmedunda be ro jmive bei la .aDAM be'o
 cmene ca'e jy
+@c 'fi le dertu fe ro danlu'
+@c 'fi ra' is redundant, and it makes you tag the next sumti with 'fe'.
+@c 'te cmene' is simpler and less metaphoric than 'cmedunda'. -- Adam
 
 @c    2:20. And Adam called all the beasts by their names, and all the fowls
 @c    of the air, and all the cattle of the field:  but for Adam there was not
 @c    found a helper like himself.
 2:20. .i la .aDAM. cmedu'a fi ro mabru .e ro cipni pe le vacri .e ro danlu pe le
 foldi .iku'i na facki lo dutsimsa sidju la .aDAM.
+@c 'shamayim' is 'tsani', and 'facki' here should be 'tolcri'. -- Adam
 
 @c    2:21. Then the Lord God cast a deep sleep upon Adam:  and when he was
 @c    fast asleep, he took one of his ribs, and filled up flesh for it.
 2:21. .i la .iaves. noi cevni cu gasnu lenu la .aDAM. cu tardema .i ca lenu
 sipna ku tolse'a pa le .abu cutybo'u gi'e basti setca lo rectu
+@c 'tardema' is 'sipcai'. 'basti' should be 'basygau' ('basygau je setca')
+@c -- Adam
 
 @c    2:22. And the Lord God built the rib which he took from Adam into a
 @c    woman:  and brought her to Adam.
 2:22. .i la .iaves. noi cevni cu zbasu le ninmu le cutybo'u noi tolse'a ke'a
 la .aDAM. gi'e pengau ra la .aDAM.
+@c 'ny.' would be more specific than 'ra' -- Adam
 
 @c    2:23. And Adam said:  This now is bone of my bones, and flesh of my
 @c    flesh; she shall be called woman, because she was taken out of man.
-2:23. .i la .aDAM. cusku lu ti te bongu le bongu be fi mi gi'e se rectu le
+2:23. .i la .aDAM. cusku lu ti te bongu fi le bongu be fi mi gi'e se rectu le
 rectu be fe mi .i ti se cmene zo ninmu mu'i lenu ti tolse'a le nanmu li'u
+@c 'fe' is redundant'. I would add 'ca'e' to the 'se cmene' sentence.
+@c I think the 'ki'u' is more appropriate than 'mu'i'. -- Adam
 
 @c    2:24. Wherefore a man shall leave father and mother, and shall cleave
 @c    to his wife:  and they shall be two in one flesh.
 2:24. to .iseki'ubo lo'e nanmu cu cliva lo'e patfu .e lo'e mamta gi'e snipa lo'e
 speni .ibo le remei cu binxo pa rectu toi
+@c I think that 'lo'e' should be avoided as it's not clear what it means.
+@c At any rate the most canonical meaning doesn't work here. ('the typical
+@c man will leave the typical father?') -- Adam
 
 @c    2:25. And they were both naked:  to wit, Adam and his wife:  and were not
 @c    ashamed.
 2:25. .i la .aDAM. .e le ninmu vu'o noi se remei cu tafcau gi'enai ckeji
+@c better 'lunbe' than 'tafcau'.
+@c 'shneyhem ... ha-adam ve-ishto' is more like 'le remei noi la .aDAM joi le ninmu'.
+@c -- Adam
 
 
 @c    Genesis Chapter 3
