@@ -134,16 +134,30 @@ loi preti li'u
 @c    `It's really dreadful,' she muttered to herself, `the way all the
 @c    creatures argue.  It's enough to drive one crazy!'
 
+i li'a la'e di'u jetnu i ku'i la alis na nelci le nu te cusku di'u
+i lu oi sei abu bacru sezysku ro le danlu cu darlu i banzu le nu 
+fenkygau li'u 
+
 @c      The Footman seemed to think this a good opportunity for
 @c    repeating his remark, with variations.  `I shall sit here,' he
 @c    said, `on and off, for days and days.'
 
+i le selfu cu simlu le ka jinvi le du'u mapti le nu za'ure'u te pinka
+i lu mi ti ba zutse sei sy cusku ru'inaiku ze'a lo djedi be li so'i li'u  
+
 @c      `But what am I to do?' said Alice.
+
+i lu ku'i ei mi ma zukte sei la alis cusku li'u 
 
 @c      `Anything you like,' said the Footman, and began whistling.
 
+i lu lo se djica be do sei le selfu cu cusku li'u i sy co'a siclu
+
 @c      `Oh, there's no use in talking to him,' said Alice desperately:
 @c    `he's perfectly idiotic!'  And she opened the door and went in.
+
+i lu oi na prali mi le nu tavla ta sei la alis tolpacna cusku i ta prane
+bebna li'u i abu kargau le vorme gi'e nerkla
 
 @c      The door led right into a large kitchen, which was full of
 @c    smoke from one end to the other:  the Duchess was sitting on a
