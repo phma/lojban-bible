@@ -103,6 +103,7 @@ ruxse'i be la cevni cu fregau le djacu
 @c .i le terdi cu na'e seltarmi je kunti
 @c .ijebo manku vi ga'u le condi
 @c .ije le pruxi be la cevni cu fulta ga'u loi djacu
+@c Why 'fregau'? 'fulta' seems best to me, and I can't see where 'ferti' comes in.
 
 @c    1:3. And God said:  Be light made.  And light was made.
 1:3. .i la cevni cu cusku lu ko gusni li'u .ije co'a gusni
@@ -121,12 +122,17 @@ ruxse'i be la cevni cu fregau le djacu
 nicte joi le donri cu pamei djedi
 @c .i te cmene fa la cevni le gusni zo donri gi'e te cmene le manku zo nicte
 @c .i vanci .i cerni .i pamei djedi
+@c The verb 'kara' is repeated in the Hebrew? Why not repeat it here instead
+@c of using a termset?
 
 @c    1:6. And God said:  Let there be a firmament made amidst the waters:  and
 @c    let it divide the waters from the waters.
 1:6. ni'o
 bacru fa la cevni lu .e'o sligu ne'i loi djacu
 gi'e fendi fi lei djacu ku ce lei djacu (ku) li'u
+@c There needs to be a consistent style for all the 'let there be', and I don't
+@c think that '.e'o' is the best way to do it.
+@c I think that I would do it with "ca'e".
 
 @c    A firmament. . .By this name is here understood the whole space between
 @c    the earth, and the highest stars.  The lower part of which divideth the
@@ -139,6 +145,7 @@ gi'e fendi fi lei djacu ku ce lei djacu (ku) li'u
 .ijebo fedri'a fo lei djacu poi gapru le sligu ku'o
 ce lei djacu poi cnita le sligu
 .i zasti
+@c I think that the consecutive vavs should not be translated by 'je'.
 
 @c    1:8. And God called the firmament, Heaven; and the evening and morning
 @c    were the second day.
@@ -153,11 +160,13 @@ bacru fa la cevni lu .e'o se jmaji fa lei djacu poi cnita le tsani
 fi pa stuzi
 .iseri'abo se viska .e'o fa lei sudytumla li'u
 .i zasti
+@c better 'tolcanci' than 'viska'.
 
 @c    1:10. And God called the dry land, Earth; and the gathering together of
 @c    the waters, he called Seas.  And God saw that it was good.
 1:10. .i te cmene fa la cevni lei sudytumla zo terdi gi'e te cmene lei te jmaji
 be lei djacu zo xamsi
+@c 'se jmaji', the place they gather to, not the place they gather from.
 .i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
 @c    1:11. And he said:  let the earth bring forth green herb, and such as
@@ -167,6 +176,7 @@ be lei djacu zo xamsi
 se tsiju loi tsiju ku'o .e loi grute tricu noi cupra loi grute
 noi lo tsiju be ra cu nenri ke'a ku'o ku'o zi'e pe vi le terdi li'u
 .i zasti
+@c 'ra' = 'ke'a', doesn't it? Also, 'ga'u' is probably better than 'vi'.
 
 @c    1:12. And the earth brought forth the green herb, and such as yieldeth
 @c    seed according to its kind, and the tree that beareth fruit, having
@@ -184,8 +194,10 @@ zi'e ne ja'i lera jutsi
 @c    for seasons, and for days and years:
 1:14. ni'o
 bacru fa la cevni lu .e'o tergusni tu'i le tsani sligu
-.iseri'abo fendi .e'o fi le'e dinri ku ce le'e nicte
+.iseri'abo fendi .e'o fi le'e donri ku ce le'e nicte
+@c Maybe 'lo'e' would be better, if we could agree on what that means.
 .ije sinxa ce cabysni ce djesni ce nacysni
+@c I don't see the point of 'ce'; 'je', 'joi', or 'fa'u' all work better.
 
 @c    1:15. To shine in the firmament of heaven, and to give light upon the
 @c    earth, and it was so done.
@@ -195,7 +207,7 @@ bacru fa la cevni lu .e'o tergusni tu'i le tsani sligu
 @c    1:16. And God made two great lights:  a greater light to rule the day;
 @c    and a lesser light to rule the night:  and the stars.
 1:16. .i zbasu fa la cevni le re barda tergusni no'u le barda tergusni poi
-turni le'e dinri ku'o jo'u le cmalu tergusni poi turni le'e nicte
+turni le'e donri ku'o jo'u le cmalu tergusni poi turni le'e nicte
 ge'u .e loi tarci
 
 @c    Two great lights. . .God created on the first day, light, which being
@@ -208,10 +220,12 @@ ge'u .e loi tarci
 @c    1:17. And he set them in the firmament of heaven to shine upon the
 @c    earth.
 1:17. .i punji fa la cevni ra le tsani sligu semu'i lenu te gusni lo terdi kei
+@c "semu'i" or "mu'i"? The putting motivates the shining?
+@c Also, I definately think it should be 'le terdi' instead of 'lo terdi'.
 
 @c    1:18. And to rule the day and the night, and to divide the light and
 @c    the darkness.  And God saw that it was good.
-1:18. .e lenu turni le'e dinri .e le'e nicte kei
+1:18. .e lenu turni le'e donri .e le'e nicte kei
 .e lenu fendi fi le gusni ku ce le manku
 .i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
@@ -225,6 +239,8 @@ ge'u .e loi tarci
 bacru fa la cevni lu .e'o ferti fa lei djacu loi so'imei danlu
 noi jmive .e loi cipni poi voirli'u ga'u lei terdi tu'i le tsani sligu
 li'u
+@c I think that "voirli'u" should be "vofli", as it's not 
+@c mentioned that they're going anywhere.
 
 @c    1:21. And God created the great whales, and every living and moving
 @c    creature, which the waters brought forth, according to their kinds, and
@@ -233,6 +249,7 @@ li'u
 befydzu zi'epoi se ferti lei djacu (ku'o) zi'e ne ja'i lora jutsi ge'u
 .e piro loi se nalci cipni ne ja'i lori jutsi
 .i zgana fa la cevni fi'o se jinvi loza'i xamgu
+@c 'befydzu jmive', no need for an extra relative clause
 
 @c    1:22. And he blessed them, saying:  Increase and multiply, and fill the
 @c    waters of the sea:  and let the birds be multiplied upon the earth.
@@ -267,6 +284,7 @@ ne ja'i lori jutsi ge'u .e loi dertu befydzu ne ja'i lori jutsi
 se tarmi be mi
 .i ra turni ba'a.e'a loi xamsi finpe .e loi tsani cipni .e loi danlu .e
 piro loi terdi .e piro loi befydzu noi befydzu loi terdi li'u
+@c "ta'i" is the 'tadji' BAI, and I don't think that that's what was meant.
 
 @c    Let us make man to our image. . .This image of God in man, is not in the
 @c    body, but in the soul; which is a spiritual substance, endued with
@@ -275,8 +293,11 @@ piro loi terdi .e piro loi befydzu noi befydzu loi terdi li'u
 
 @c    1:27. And God created man to his own image:  to the image of God he
 @c    created him:  male and female he created them.
-1:27. .i seri'a loza'i se tarmi le tarmi be la cevni cu finti fo'a (???)
+1:27. .i finti fa la cevni loi remna goi fo'a ne ta'i le tarmi be vo'a 
+.i seri'a loza'i se tarmi le tarmi be la cevni cu finti fo'a (???)
 .i seri'a loza'i nakni ce fetsi cu finti fo'a (???)
+@c 'ce' is out of place. I added the missing beginning. I think that using 'ry.'
+@c would be better than assigning a KOhA.
 
 @c    1:28. And God blessed them, saying:  Increase and multiply, and fill the
 @c    earth, and subdue it, and rule over the fishes of the sea, and the
@@ -286,6 +307,7 @@ piro loi terdi .e piro loi befydzu noi befydzu loi terdi li'u
 terdi gi'e jinga ri
 .i ko turni loi xamsi finpe .e loi tsani cipni .e piro loi danlu poi
 befydzu loi terdi li'u
+@c I think that this is all one sentence: 'jinga ri gi'e turni...'
 
 @c    Increase and multiply. . .This is not a precept, as some Protestant
 @c    controvertists would have it, but a blessing, rendering them fruitful;
@@ -313,6 +335,7 @@ befydzu be le terdi lu'u noi ke'a ponse lo jmive pruxi ku'o mu'i lenu citka
 1:31. .i zgana fa la cevni roda poi ri zbasu ku'o fi'o se jinvi loza'i mutce
 xamgu
 .i vanci .i cerni .i xamoi djedi
+@c Maybe 'yom hashishi' could be 'le xamoi djedi'
 
 
 
@@ -330,6 +353,10 @@ xamgu
 @c    of them.
 2:1. ni'oni'o
 mulno fa le tsani .ebo le terdi .e piro loi jenmi girzu pe ri
+@c Not sure what the point of the 'bo' is.
+@c The mem of 'tsva'am' should refer to both the heavens and the earth,
+@c 'ri' can only refer to the earth. This is the problem of refering
+@c by pro-sumti to something which was mentioned as more than one sumti.
 
 @c    2:2. And on the seventh day God ended his work which he had made:  and
 @c    he rested on the seventh day from all his work which he had done.
