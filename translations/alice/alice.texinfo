@@ -80,7 +80,7 @@ finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 *  bimoi pagbu::	bimo'o noltruni'u kelcrkroke bo foldi
 *  somoi pagbu::	somo'o lisri fi la jitfa cakyrespa
 * panomoi pagbu::	panomo'o xasyjukni vonseldansu
-* papamoi pagbu::	papamo'o papamo'o ma zerle'a lei rutytisna
+* papamoi pagbu::	papamo'o ma zerle'a lei rutytisna
 * paremoi pagbu::	paremo'o le sidydatni po'e la alis.
 @end menu
 
