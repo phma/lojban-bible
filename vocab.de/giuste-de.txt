@@ -4,7 +4,7 @@
   bakni bak - - Rind x1 ist eine Kuh/Rind/Ochse [[Bulle/Kalb] [[Rindvieh] von Art/Gattung x2
   bakri - - - Kreide x1 ist eine gewisse Menge/enthält/besteht aus Kreide von Quelle x2 in Form x3
   baktu - - - Eimer x1 ist ein Eimer/Dose/tiefer, fester Behälter mit breitem Rand mit Inhalt x2, bestehend aus Material x3
-  balji - - - Knolle x1 ist eine Knolle/Zwiebel [[Körperteil] von Pflanze/Art x2; [[im übertragen Sinne: gerundet, ausgebeult]
+  balji - - - Knolle x1 ist eine Knolle/Zwiebel [[Körperteil] von Pflanze/Art x2; [[im übertragenen Sinne: gerundet, ausgebeult]
   balni - - - Balkon x1 ist ein Balkon/Überhang/Sims/Regal von Gebäude/Struktur x2
   balre - - ba'e Klinge x1 ist eine Klinge von Werkzeug/Waffe x2
   balvi bav - - Zukunft x1 liegt in der Zukunft von/ist später als/nach x2 in zeitlicher Reihenfolge; x1 ist später; x2 ist früher/ehemalig
@@ -402,3 +402,12 @@
   gadri gad - -  /Artikel/  x1 ist ein Artikel/Deskriptor und kennzeichnet Beschreibung x2 (Text) in Sprache x3 mit Semantik x3
   galfi gaf - ga'i  /verändern/  x1 (Ereignis) verändert/ändert/modifiziert/wandelt x2 in/nach x3
   galtu gal - ga'u  /hoch/  x1 ist hoch/oben in Bezugssystem x2 vergleichen mit Grundlinie/Bezugspunkt/Standardhöhe x3
+  galxe - - -  /Hals/  x1 ist ein/der Hals/Rachen [[Körperteil] von x2; [[im übertragenen Sinne: schmale Öffnung eines tiefen Loches]
+  ganlo - - ga'o  /geschlossen/  x1 (Portal/Durchgang/Eingang) ist geschlossen/zu/nicht offen und versperrt den Zugang zu x2 durch x3
+  ganra gan - -  /breit/  x1 ist breit/weit in Dimension x2 [[zweitwichtigste Dimension] gemäß Standard x3
+  ganse gas - ga'e  /wahrnehmen/  x1 [[Erfahrender] nimmt wahr/erfasst/bemerkt Reiz-Eigenschaft x2 (ka) mit Mitteln x3 unter Umständen x4
+  ganti - - -  /Keimdrüse/  x1 ist/sind Hoden/Eierstock/Staubblatt/Stempel [[Körperteil] von x2, Geschlecht x3
+  ganxo gax - -  /After/  x1 ist der After/der Darmausgang/das Arschloch [[Körperteil] von x2; [[im übertragenen Sinne: Ausgang; Abfallöffnung]
+  ganzu gaz - -  /organisieren/  x1 organisiert x2 [[relatives Chaos] in x3 [[geordnetes/organisiertes Ergebnis] gemäß System/Prinzipien x4
+  gapci gac - -  /Gas/  x1 ist gasförmig/Schwaden/Gas/Dampf aus Material/Zusammensatzung unter anderem x2, unter Umständen x3
+  gapru gap - -  /über/  x1 ist genau/senkrecht über/oberhalb von x2 in Schwerkraft/Bezugssystem x3
