@@ -381,8 +381,10 @@ banli ke zgike se tigni le risna noltruni'u i mi bilga le nu sanga di'e
 @c                "Twinkle, twinkle, little bat!
 @c                How I wonder what you're at!"
 
+@format
                   i gu'irgu'i doi volratcu
                   i u'e a'u do ma klatcu
+@end format
 
 @c    You know the song, perhaps?'
 
@@ -403,11 +405,11 @@ i lu di'a sei la mapypre di'a cusku di'e
 @c                Like a tea-tray in the sky.
 @c                        Twinkle, twinkle--"'
 
-
+@format
                   i do munje gapru vofli 
                   si'a tcatypalne trofli
                           i gu'irgu'i
-
+@end format
 
 @c    Here the Dormouse shook itself, and began singing in its sleep
 @c    `Twinkle, twinkle, twinkle, twinkle--' and went on so long that
@@ -679,27 +681,61 @@ la cibmoimasti cicyractu puzi falcru le ladru botpi le cycy palta
 @c    very cautiously:  `But I don't understand.  Where did they draw
 @c    the treacle from?'
 
+i la alis na djica le nu za'ure'u cnixai le sipsmacu gi'eseki'ubo
+kajde tolsti i lu mi na jimpe i my cpacu le satyjisra ma li'u 
+
+
 @c      `You can draw water out of a water-well,' said the Hatter; `so
 @c    I should think you could draw treacle out of a treacle-well--eh,
 @c    stupid?'
 
+i lu ka'u ka'e cpacu lo djacu lo djacu jinto sei la mapypre cusku isi'a
+li'a ka'e cpacu lo satyjisra lo satyjisra jinto vau iepei doi bebna li'u
+
+
 @c      `But they were IN the well,' Alice said to the Dormouse, not
 @c    choosing to notice this last remark.
 
+i lu ku'i my ba'e nenri le jinto sei la alis fi le sipsmacu cu cusku
+co naljundi be le romoi pinka li'u
+
+
 @c      `Of course they were', said the Dormouse; `--well in.'
+
+i lu li'a go'i sei le sipsmacu cu cusku i jinto nenri li'u
+
 
 @c      This answer so confused poor Alice, that she let the Dormouse
 @c    go on for some time without interrupting it.
+
+i le danfu cu mutce cfipu la alis uu ja'e le nu curmi le nu le sipsmacu 
+ca'o co'e ze'a le nu abu na zunti 
+
 
 @c      `They were learning to draw,' the Dormouse went on, yawning and
 @c    rubbing its eyes, for it was getting very sleepy; `and they drew
 @c    all manner of things--everything that begins with an M--'
 
+i lu my ca'o cilre le nu te pixra sei le sipsmacu di'a co'e li'u i sy
+sipfru gi'e mosra lei sy kanla ki'u le nu co'a sipydji i lu i my te
+pixra so'i klesi be lei dacti i ro da poi zo my pamoi lei cmene be ke'a 
+lerfu li'u 
+
+
 @c      `Why with an M?' said Alice.
+
+i lu ki'u ma zo my sei la alis cusku li'u
+
 
 @c      `Why not?' said the March Hare.
 
+i lu ki'u ma naku sei cycy cusku li'u
+
+
 @c      Alice was silent.
+
+i la alis cu smaji
+
 
 @c      The Dormouse had closed its eyes by this time, and was going
 @c    off into a doze; but, on being pinched by the Hatter, it woke up
@@ -708,10 +744,24 @@ la cibmoimasti cicyractu puzi falcru le ladru botpi le cycy palta
 @c    you know you say things are "much of a muchness"--did you ever
 @c    see such a thing as a drawing of a muchness?'
 
+i le sipsmacu ba'o ga'orgau lei kanla ca la'e di'u gi'e ca'o co'a
+sipna i ku'i ca le nu se tunta la mapypre kei sy za'ure'u cikybi'o
+gi'e cmalu krixa gi'e di'a cusku lu li'o poi zo my pamoi lei cmene 
+be ke'a lerfu i mu'a lo mirli terkavbu e lo mluni e lo mojrango e 
+lo mutce i ka'u da ka'e mutce le ka mutce i xu do su'oroi viska da 
+poi ke'a pixra lo mutce li'u
+
+
 @c      `Really, now you ask me,' said Alice, very much confused, `I
 @c    don't think--'
 
+i lu je'u uaru'e sei la alis mutce se cfipu cusku mi na jinvi li'u 
+
+
 @c      `Then you shouldn't talk,' said the Hatter.
+
+i lu ei va'o la'e di'u do na tavla sei la mapypre cusku li'u
+
 
 @c      This piece of rudeness was more than Alice could bear:  she got
 @c    up in great disgust, and walked off; the Dormouse fell asleep
@@ -720,14 +770,31 @@ la cibmoimasti cicyractu puzi falcru le ladru botpi le cycy palta
 @c    they would call after her:  the last time she saw them, they were
 @c    trying to put the Dormouse into the teapot.
 
+le di'u se tolclite cu zmadu le ka'e se sarji be la alis i abu selrigni
+gi'e sa'irbi'o gi'e to'o cadzu i le sipsmacu cu ze'i sipybi'o i no le 
+re drata cu jundi le nu abu cliva i abu paji'ireroi trixe catlu fi'o
+xadba se pacna le nu ko'a abu klacpe i ca le nu abu ko'a roroi viska 
+kei ko'a troci le nu setca le sipsmacu le tcati patxu   
+
+
 @c      `At any rate I'll never go THERE again!' said Alice as she
 @c    picked her way through the wood.  `It's the stupidest tea-party I
 @c    ever was at in all my life!'
+
+i lu ai mi noroi rere'u klama ba'e ta sei la alis ca le nu pluta 
+sisku pa'o le ricmei cu cusku i traji le ka bebna lei tcati te salci  
+poi mi zvati ca le nu mi jmive li'u
+
 
 @c      Just as she said this, she noticed that one of the trees had a
 @c    door leading right into it.  `That's very curious!' she thought.
 @c    `But everything's curious today.  I think I may as well go in at once.'
 @c    And in she went.
+
+i ca le nu cusku di'u kei abu co'a sanji le nu pa le tricu cu ve vorme
+le ty nenri i lu cizra sei abu pensi i ku'i ro da cizra ca le cabdei
+i pe'i ai mi cazi nerkla li'u i abu nerkla
+
 
 @c      Once more she found herself in the long hall, and close to the
 @c    little glass table.  `Now, I'll manage better this time,'
@@ -737,3 +804,12 @@ la cibmoimasti cicyractu puzi falcru le ladru botpi le cycy palta
 @c    in her pocket) till she was about a foot high:  then she walked down
 @c    the little passage:  and THEN--she found herself at last in the
 @c    beautiful garden, among the bright flower-beds and the cool fountains.
+
+i abu za'ure'u zvati le clani kumfa gi'e jibni le cmalu ke blaci jubme
+i lu e'e mi xagmau zukte ca le cabmoi sei abu se'isku li'u i co'a le nu
+abu jgari le cmalu ke solji ckiku gi'e telcaugau le vorme be le purdi
+i abu co'a citka le mledi noi pu punji lo spisa be ke'a le daski ge'u
+co'u le nu gutci li ji'ipa i abu cadzu pa'o le cmalu vorlu'a i abu uo
+zvati le melbi purdi gi'e jbini lei carmi ke xrula zdani e lei lenku
+milxe jaurjinto
+
