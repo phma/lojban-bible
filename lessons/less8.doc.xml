@@ -5,7 +5,7 @@
 conversions</title>
 
 <para>Conversion is swapping the places of a <foreignphrase
-lang="art-lojban">bridi</foreignphrase> around. We have already encountered one
+lang="art-lojban">bridi</foreignphrase> around. We <link linkend="less5">have already encountered</link> one
 case of conversion: the <foreignphrase lang="art-lojban">cmavo</foreignphrase>,
 <foreignphrase lang="art-lojban">se</foreignphrase>, which changes round the first
 and second places of a <foreignphrase lang="art-lojban">bridi</foreignphrase>. For
@@ -64,7 +64,7 @@ lang="art-lojban">ve</foreignphrase> and <foreignphrase
 lang="art-lojban">xe</foreignphrase> are rarely used, partly because most
 <foreignphrase lang="art-lojban">gismu</foreignphrase> only have two or three
 places, and partly because even with four- or five-place <foreignphrase
-lang="art-lojban">gismu</foreignphrase>, the less-used places come towards the
+lang="art-lojban">gismu</foreignphrase>, the less-used places are what come towards the
 end.  </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -72,26 +72,26 @@ end.  </para>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">jamna</foreignphrase></term><listitem><para>
-x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2</para></listitem></varlistentry>
+x<subscript>1</subscript> (person/mass) wars against x<subscript>2</subscript> over territory/matter x<subscript>3</subscript>; x<subscript>1</subscript> is at war with x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">xatra</foreignphrase></term><listitem><para>x1 is a
-letter/missive/[note] to intended audience x2 from author/originator x3
-with content x4</para></listitem></varlistentry>
+lang="art-lojban">xatra</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
+letter/missive/[note] to intended audience x<subscript>2</subscript> from author/originator x<subscript>3</subscript>
+with content x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">xlura</foreignphrase></term><listitem> <para>x1 (agent)
-influences/lures/tempts x2 into action/state x3 by influence/threat/lure
-x4</para></listitem></varlistentry>
+lang="art-lojban">xlura</foreignphrase></term><listitem> <para>x<subscript>1</subscript> (agent)
+influences/lures/tempts x<subscript>2</subscript> into action/state x<subscript>3</subscript> by influence/threat/lure
+x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">gugde</foreignphrase></term><listitem><para>x1 is the country of
-peoples x2 with land/territory x3; (people/territory
+lang="art-lojban">gugde</foreignphrase></term><listitem><para>x<subscript>1</subscript> is the country of
+peoples x<subscript>2</subscript> with land/territory x<subscript>3</subscript>; (people/territory
 relationship)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jdini</foreignphrase></term><listitem> <para>x1 is
-money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry>
+lang="art-lojban">jdini</foreignphrase></term><listitem> <para>x<subscript>1</subscript> is
+money/currency issued by x<subscript>2</subscript>; (adjective:) x<subscript>1</subscript> is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -143,12 +143,12 @@ lang="art-lojban">mlatu</foreignphrase></quote> &mdash; in other words,
 role="gloss">is-a-cat</quote> to <quote role="gloss">a cat</quote>. The
 same is true for <foreignphrase lang="art-lojban">le mlatu</foreignphrase> except
 that, as we've seen, it is something which the <emphasis>speaker</emphasis>
-has in mind as occupying x1 of <foreignphrase
+has in mind as occupying x<subscript>1</subscript> of <foreignphrase
 lang="art-lojban">mlatu</foreignphrase> &mdash; in other words, <quote
 role="gloss">the cat.</quote></para>
 
 <para>This works fine if the only place we want to access and turn into a
-<foreignphrase lang="art-lojban">sumti</foreignphrase> is x1; but with other
+<foreignphrase lang="art-lojban">sumti</foreignphrase> is x<subscript>1</subscript>; but with other
 <foreignphrase lang="art-lojban">gismu</foreignphrase> we may want to make
 <foreignphrase lang="art-lojban">sumti</foreignphrase> out of other places. Let's
 look at the last example from the previous exercise:
@@ -203,7 +203,7 @@ nanmu goi ko'a .i ko'a melbi</foreignphrase> </para>
 <informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. zgana lo
 nanmu .i <emphasis>le se go'i</emphasis> cu melbi</foreignphrase>
 </para></informalexample>That's because <foreignphrase lang="art-lojban">le se go'i</foreignphrase>
-refers to the second place (x2) of the preceding <foreignphrase
+refers to the second place (x<subscript>2</subscript>) of the preceding <foreignphrase
 lang="art-lojban">bridi</foreignphrase>, which is <foreignphrase
 lang="art-lojban">lo nanmu</foreignphrase>. (There are even ways
 to refer back to <foreignphrase lang="art-lojban">sumti</foreignphrase>
@@ -217,7 +217,7 @@ lang="art-lojban">cmavo</foreignphrase> can be modified by <foreignphrase
 lang="art-lojban">se</foreignphrase>. <foreignphrase
 lang="art-lojban">du'u</foreignphrase>, for example, which can be used to form a
 <foreignphrase lang="art-lojban">selbri</foreignphrase>, has two <foreignphrase
-lang="art-lojban">sumti</foreignphrase>: x1, the thought described, and x2, the
+lang="art-lojban">sumti</foreignphrase>: x<subscript>1</subscript>, the thought described, and x<subscript>2</subscript>, the
 words used to express it:
 
 <informalexample>
@@ -254,11 +254,10 @@ lang="art-lojban">seldunda</foreignphrase>. The new word comes complete with its
 own place-structure &mdash; which is, of course, the same as that of <foreignphrase
 lang="art-lojban">se dunda</foreignphrase>:
 
-<informalexample><para>x1 is a gift from x2 to x3
-</para></informalexample>(Note that <quote role="gloss">gift</quote> here is anything given without
+<informalexample><para>x<subscript>1</subscript> is a gift from x<subscript>2</subscript> to x<subscript>3</subscript>
+</para></informalexample><note><para><quote role="gloss">gift</quote> here is anything given without
 payment or exchange &mdash; it doesn't need to have the <quote
-role="socalled">special present</quote> associations of the English word.)
-</para>
+role="socalled">special present</quote> associations of the English word.)</para></note></para>
 
 <para>If we want to say <quote role="gloss">the gift</quote>,
 <foreignphrase lang="art-lojban">le seldunda</foreignphrase> is not really an
@@ -320,13 +319,13 @@ lang="art-lojban">gismu</foreignphrase> list dramatically, to give equivalents o
 common English words which are not included and, more interestingly, words
 which don't have equivalents in English. A lot of these are words you would
 probably never want to say, like <foreignphrase
-lang="art-lojban">terna'e</foreignphrase> <quote role="gloss">x1 is the rule/logic
-by which proposition x2 contradicts/denies/refutes/negates proposition
-x3.</quote> However, you sometimes find interesting and/or useful words
+lang="art-lojban">terna'e</foreignphrase> <quote role="gloss">x<subscript>1</subscript> is the rule/logic
+by which proposition x<subscript>2</subscript> contradicts/denies/refutes/negates proposition
+x<subscript>3</subscript>.</quote> However, you sometimes find interesting and/or useful words
 which don't exist as single words in English.  Here are a few of my own
 creations:
 
-<variablelist>
+<variablelist termlength="13">
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo
 tertcu</foreignphrase></term> <listitem><para>a purpose/activity for which
@@ -391,7 +390,7 @@ not allow double consonants, because they are difficult to pronounce, and
 can be heard incorrectly as one consonant.  This means that we can't have
 <foreignphrase lang="art-lojban">lujvo</foreignphrase> like <foreignphrase
 lang="art-lojban">vellu'i</foreignphrase> (<quote role="gloss">cleansing
-agent</quote>, from the x4 of <foreignphrase
+agent</quote>, from the x<subscript>4</subscript> of <foreignphrase
 lang="art-lojban">lumci</foreignphrase> <quote role="gloss">wash</quote>).  The
 way out of this problem is to put <foreignphrase lang="art-lojban">y</foreignphrase> 
 between the two <foreignphrase
@@ -408,7 +407,7 @@ lang="art-lojban">.y'y.</foreignphrase> <quote
 role="gloss">apostrophe.</quote>) Such a word can only be either a
 <foreignphrase lang="art-lojban">lujvo</foreignphrase> or a name
 (<foreignphrase lang="art-lojban">cmene</foreignphrase>). <foreignphrase
-lang="art-lojban">y</foreignphrase> was avoided in <quote
+lang="art-lojban">y</foreignphrase> was purposefully avoided in <quote
 role="socalled">normal</quote> Lojban words.</para> </warning>
 
 </sect1>
@@ -428,7 +427,7 @@ lang="art-lojban">nar</foreignphrase>; but <foreignphrase
 lang="art-lojban">na'e</foreignphrase> is more useful in creating new 
 words:
 <foreignphrase lang="art-lojban">na'e</foreignphrase> in a <foreignphrase
-lang="art-lojban">selbri</foreignphrase> still indicates an existing relationship,
+lang="art-lojban">selbri</foreignphrase> still indicates an existing kind of relationship,
 while <foreignphrase lang="art-lojban">na</foreignphrase> could mean anything,
 including non-existence &mdash; making too broad a concept for most
 uses.</para></note>
@@ -440,7 +439,7 @@ lang="art-lojban">naljdi</foreignphrase> therefore means <quote
 role="gloss">not
 decide</quote> or <quote role="gloss">be indecisive</quote>. Some other examples:
 
-<variablelist>
+<variablelist termlength="13">
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo
 naljmi</foreignphrase></term><listitem><para>one who does
@@ -490,41 +489,41 @@ applied to someone who is inhumane or perceived as subhuman in some way.
 <foreignphrase lang="art-lojban">sel</foreignphrase> and its relatives; for
 example,
 
-<variablelist>
+<variablelist termlength="15">
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo
 naltertcu</foreignphrase></term><listitem><para>not a purpose/activity for
 which something is needed; something which has no requirements (from
-<foreignphrase lang="art-lojban">nitcu</foreignphrase> <quote role="gloss">x1
-needs/requires/is dependent on/[wants] necessity x2 for
-purpose/action/stage of process x3</quote>)</para></listitem>
+<foreignphrase lang="art-lojban">nitcu</foreignphrase> <quote role="gloss">x<subscript>1</subscript>
+needs/requires/is dependent on/[wants] necessity x<subscript>2</subscript> for
+purpose/action/stage of process x<subscript>3</subscript></quote>)</para></listitem>
 </varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo
 nalveltu'i</foreignphrase></term><listitem><para>an area of disagreement; a
 controversial issue (from <foreignphrase
-lang="art-lojban">tugni</foreignphrase> <quote role="gloss">x1 [person]
-agrees with person(s)/position/side x2 that x3 (du'u) is true about matter
-x4</quote>)</para></listitem> </varlistentry>
+lang="art-lojban">tugni</foreignphrase> <quote role="gloss">x<subscript>1</subscript> [person]
+agrees with person(s)/position/side x<subscript>2</subscript> that x<subscript>3</subscript> (du'u) is true about matter
+x<subscript>4</subscript></quote>)</para></listitem> </varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo
 nalselzi'e</foreignphrase></term><listitem><para>something you are not free
 to do (from <foreignphrase lang="art-lojban">zifre</foreignphrase> <quote
-role="gloss">x1 is free/at liberty to do/be x2 (event/state) under conditions x3</quote>)</para></listitem> </varlistentry>
+role="gloss">x<subscript>1</subscript> is free/at liberty to do/be x<subscript>2</subscript> (event/state) under conditions x<subscript>3</subscript></quote>)</para></listitem> </varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo
 nalselsanji</foreignphrase></term><listitem><para>something you are unaware
 of (from <foreignphrase lang="art-lojban">sanji</foreignphrase> <quote
-role="gloss">x1 is conscious/aware of x2 (object/abstract); x1
-discerns/recognizes x2 (object/abstract)</quote>; this <foreignphrase
+role="gloss">x<subscript>1</subscript> is conscious/aware of x<subscript>2</subscript> (object/abstract); x<subscript>1</subscript>
+discerns/recognizes x<subscript>2</subscript> (object/abstract)</quote>; this <foreignphrase
 lang="art-lojban">gismu</foreignphrase> has no suitable short combining
 form)</para></listitem> </varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">lo nalselse'i</foreignphrase>
 </term><listitem><para>someone who lacks a self/ego; an enlightened person
 according to Hindu/Buddhist philosophy (from <foreignphrase
-lang="art-lojban">sevzi</foreignphrase> <quote role="gloss">x1 is a
-self/ego/id/identity-image of x2</quote>)</para></listitem> </varlistentry>
+lang="art-lojban">sevzi</foreignphrase> <quote role="gloss">x<subscript>1</subscript> is a
+self/ego/id/identity-image of x<subscript>2</subscript></quote>)</para></listitem> </varlistentry>
 
 </variablelist></para>
 
@@ -554,8 +553,7 @@ some background knowledge:
 <itemizedlist>
 
 <listitem><para>how to make sure <foreignphrase
-lang="art-lojban">rafsi</foreignphrase> stick together in a word that 
-is not ambiguous with another possible combination of words 
+lang="art-lojban">rafsi</foreignphrase> stick together in a word not ambiguous with another possible combination of words 
 (<citetitle>The Complete Lojban Language</citetitle>, Chapter 4.5&ndash;4.6, 
 4.10&ndash;4.12.)</para></listitem>
 
@@ -690,8 +688,7 @@ if you prefer.</para></note>
 
 <note><para>There is a <foreignphrase lang="art-lojban">gismu</foreignphrase> that
 does the same job, <foreignphrase lang="art-lojban">simxu</foreignphrase>:
-<quote>x1 (set) has members who mutually/reciprocally x2 (event [x1 should
-be reflexive in 1+ sumti]).</quote> You saw a sneak preview of this, too,
+<quote>x<subscript>1</subscript> (set) has members who mutually/reciprocally x<subscript>2</subscript>.</quote> You saw a sneak preview of this, too,
 in the previous lesson. It is mostly used in compound <foreignphrase
 lang="art-lojban">selbri</foreignphrase> (<foreignphrase
 lang="art-lojban">tanru</foreignphrase>), and from there, in <foreignphrase
@@ -712,7 +709,7 @@ lessons</link>.</para> </note>
 relatives;</para></listitem>
 
 <listitem><para>Making <foreignphrase lang="art-lojban">sumti</foreignphrase> from
-places other than x1 by the same method;</para></listitem>
+places other than x<subscript>1</subscript> by the same method;</para></listitem>
 
 <listitem><para>Making <foreignphrase lang="art-lojban">lujvo</foreignphrase>
 using <foreignphrase lang="art-lojban">sel</foreignphrase>, <foreignphrase
@@ -735,61 +732,61 @@ lang="art-lojban">soi</foreignphrase>.</para></listitem>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">berti</foreignphrase></term><listitem><para>x1 is to the
-north/northern side [right-hand-rule pole] of x2 according to frame of
-reference x3 </para></listitem></varlistentry>
+lang="art-lojban">berti</foreignphrase></term><listitem><para>x<subscript>1</subscript> is to the
+north/northern side [right-hand-rule pole] of x<subscript>2</subscript> according to frame of
+reference x<subscript>3</subscript> </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cinta</foreignphrase></term><listitem><para>x1 [material] is a
-paint of pigment/active substance x2, in a base of x3
+lang="art-lojban">cinta</foreignphrase></term><listitem><para>x<subscript>1</subscript> [material] is a
+paint of pigment/active substance x<subscript>2</subscript>, in a base of x<subscript>3</subscript>
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cpina</foreignphrase></term><listitem><para>x1 is
-pungent/piquant/peppery/spicy/irritating to sense x2
+lang="art-lojban">cpina</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+pungent/piquant/peppery/spicy/irritating to sense x<subscript>2</subscript>
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">ctebi</foreignphrase></term><listitem><para>x1 is a/the
-lip [body-part]/rim of orifice x2 of body x3; (adjective:) x1 is
+lang="art-lojban">ctebi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a/the
+lip [body-part]/rim of orifice x<subscript>2</subscript> of body x<subscript>3</subscript>; (adjective:) x<subscript>1</subscript> is
 labial</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">fanza</foreignphrase></term><listitem><para>x1 (event)
-annoys/irritates/bothers/distracts x2 </para></listitem></varlistentry>
+lang="art-lojban">fanza</foreignphrase></term><listitem><para>x<subscript>1</subscript> (event)
+annoys/irritates/bothers/distracts x<subscript>2</subscript> </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jarbu</foreignphrase></term><listitem><para>x1 is a suburban
-area of city/metropolis x2 </para></listitem></varlistentry>
+lang="art-lojban">jarbu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a suburban
+area of city/metropolis x<subscript>2</subscript> </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jukpa</foreignphrase></term><listitem><para>x1 cooks/prepares
-food-for-eating x2 by recipe/method x3 (process)
+lang="art-lojban">jukpa</foreignphrase></term><listitem><para>x<subscript>1</subscript> cooks/prepares
+food-for-eating x<subscript>2</subscript> by recipe/method x<subscript>3</subscript> (process)
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kisto</foreignphrase></term><listitem><para>x1 reflects
-Pakistani/Pashto culture/nationality/language in aspect x2
+lang="art-lojban">kisto</foreignphrase></term><listitem><para>x<subscript>1</subscript> reflects
+Pakistani/Pashto culture/nationality/language in aspect x<subscript>2</subscript>
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">klaji</foreignphrase></term><listitem><para>x1 is a
-street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3
+lang="art-lojban">klaji</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
+street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x<subscript>2</subscript> accessing x<subscript>3</subscript>
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">minra</foreignphrase></term><listitem><para>x1
-reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4;
-x2 bounces on x1 </para></listitem></varlistentry>
+lang="art-lojban">minra</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+reflects/mirrors/echoes x<subscript>2</subscript> [object/radiation] to observer/point x<subscript>3</subscript> as x<subscript>4</subscript>;
+x<subscript>2</subscript> bounces on x<subscript>1</subscript> </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">nitcu</foreignphrase></term><listitem><para>x1 needs/requires/is
-dependent on/[wants] necessity x2 for purpose/action/stage of process x3
+lang="art-lojban">nitcu</foreignphrase></term><listitem><para>x<subscript>1</subscript> needs/requires/is
+dependent on/[wants] necessity x<subscript>2</subscript> for purpose/action/stage of process x<subscript>3</subscript>
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">snanu</foreignphrase></term><listitem><para>x1 is to the
-south/southern side of x2 according to frame of reference x3
+lang="art-lojban">snanu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is to the
+south/southern side of x<subscript>2</subscript> according to frame of reference x<subscript>3</subscript>
 </para></listitem></varlistentry>
 
 
@@ -828,8 +825,8 @@ li'u</foreignphrase></para></listitem>
 .i ma'a doi ranjit. klama lo berti lo snanu soi vo'e
 vo'i</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i pe'i do na djuno fi le ve
-klama pe le gusta li'u</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i pe'i le ve
+klama pe le gusta na te djuno do li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -912,8 +909,8 @@ north to south. This is one of the few times you'll probably
 see <foreignphrase lang="art-lojban">soi vo'e</foreignphrase> instead of
 <foreignphrase lang="art-lojban">soi vo'a</foreignphrase>.)</para></listitem>
 
-<listitem><para><quote>I think you don't know the way of (= to) the
-restaurant.</quote></para></listitem>
+<listitem><para><quote>I think the way of (= to) the
+restaurant is unknown to you.</quote></para></listitem>
 
 </orderedlist></para>
 </simplesect>

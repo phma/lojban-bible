@@ -1,4 +1,4 @@
-<chapter id="less3"><title>Commands, Questions, and Possessives</title>
+<chapter id="less3"><title>Commands, Questions, and Possessives</title><titleabbrev>Commands, Questions, Possessives</titleabbrev>
 
 <sect1 id="less3commands"><title>Commands</title>
 
@@ -19,8 +19,8 @@ Instead we say
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">ko bajra</foreignphrase></literallayout>
-</informalexample><foreignphrase lang="art-lojban">ko</foreignphrase> means you, the person I'm
-talking to, but only in commands (in normal sentences it's <foreignphrase
+</informalexample><foreignphrase lang="art-lojban">ko</foreignphrase> means <quote role="gloss">you, the person I'm
+talking to</quote>, but only in commands (in normal sentences it's <foreignphrase
 lang="art-lojban">do</foreignphrase>).  Normally it comes in the first place of
 the <foreignphrase lang="art-lojban">bridi</foreignphrase>, since normally you're
 asking people to do something or be something, not to have something done
@@ -53,29 +53,29 @@ we can (and do) say
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">prami</foreignphrase></term><listitem><para>x1 loves/feels
-strong affectionate devotion towards x2
+lang="art-lojban">prami</foreignphrase></term><listitem><para>x<subscript>1</subscript> loves/feels
+strong affectionate devotion towards x<subscript>2</subscript>
 (object/state)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">nenri</foreignphrase></term><listitem><para>x1 is
-in/inside/within x2; x1 is on the inside/interior of x2 [totally within the
-bounds of x2]</para></listitem></varlistentry>
+lang="art-lojban">nenri</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+in/inside/within x<subscript>2</subscript>; x<subscript>1</subscript> is on the inside/interior of x<subscript>2</subscript> [totally within the
+bounds of x<subscript>2</subscript>]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">finti</foreignphrase></term><listitem><para>x1
-invents/creates/composes/authors x2 for function/purpose x3 from existing
-elements/ideas x4</para></listitem></varlistentry>
+lang="art-lojban">finti</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+invents/creates/composes/authors x<subscript>2</subscript> for function/purpose x<subscript>3</subscript> from existing
+elements/ideas x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">ciska</foreignphrase></term><listitem><para>x1 inscribes/writes
-x2 on display/storage medium x3 with writing implement x4; x1 is a
+lang="art-lojban">ciska</foreignphrase></term><listitem><para>x<subscript>1</subscript> inscribes/writes
+x<subscript>2</subscript> on display/storage medium x<subscript>3</subscript> with writing implement x<subscript>4</subscript>; x<subscript>1</subscript> is a
 scribe</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">catra</foreignphrase></term><listitem><para>x1 (agent)
-kills/slaughters/murders x2 by action/method
-x3</para></listitem></varlistentry>
+lang="art-lojban">catra</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent)
+kills/slaughters/murders x<subscript>2</subscript> by action/method
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -107,10 +107,10 @@ lang="art-lojban">ko ko nelci</foreignphrase></para></listitem></orderedlist></p
 <sect1 id="less3soften"><title>Softening the blow...</title> <para>So far we've looked at simple commands. 
 However, outside the army, we don't normally use these very much &mdash;
 normally we ask people politely.  Foreigners in England often make the
-mistake of thinking that putting <quote>Please</quote> in front of a
+mistake of thinking that putting <wordasword>Please</wordasword> in front of a
 command makes it into a polite request, which it doesn't (in English we
-usually have to make it into a question e.g. <quote>Could you open the
-window?</quote>).  Fortunately, in Lojban, <quote>please</quote> really is
+usually have to make it into a question e.g. <wordasword>Could you open the
+window?</wordasword>).  Fortunately, in Lojban, <quote>please</quote> really is
 the magic word.  Putting the word <foreignphrase
 lang="art-lojban">.e'o</foreignphrase> before a sentence with <foreignphrase
 lang="art-lojban">ko</foreignphrase> changes it into a request e.g.
@@ -126,7 +126,7 @@ so it is better in such cases to be safe than sorry.)
 
 <para>In English, we make a yes/no question by changing the order of the
 words (e.g. <quote>You are ...</quote> &rArr; <quote>Are you ...</quote>)
-or putting some form of <quote role="gloss">do</quote> at the beginning
+or putting some form of <wordasword>do</wordasword> at the beginning
 (e.g. <quote>Does she smoke?</quote>). This seems perfectly natural to
 someone whose native language is English (or German, or whatever), but is
 actually unnecessarily complicated (as any speaker of Chinese or Turkish
@@ -168,7 +168,7 @@ lang="art-lojban">xu do nelci la bil.</foreignphrase> means not
 <foreignphrase lang="art-lojban"><emphasis>do</emphasis> nelci la
 bil.</foreignphrase>, but <foreignphrase
 lang="art-lojban"><emphasis>mi</emphasis> nelci la bil.</foreignphrase>. In
-other words, in an answer to a <quote>Do you?</quote> yes/no question, it means
+other words, in an answer to a <quote>Do you?</quote> type of yes/no question, it means
 <quote>Yes (I do)</quote>. </para>
 
 <para>What about negative answers? Any <foreignphrase
@@ -205,9 +205,8 @@ will do fine. Just as in English, if you ask someone if they like Bill, and
 they reply <quote>No</quote> because they haven't met him, they're being
 amazingly unhelpful, but not really lying. </para></note>
 
-<para>English also has a number of <quote role="gloss">wh-</quote>
-questions &mdash; <quote role="gloss">who</quote>, <quote
-role="gloss">what</quote> etc. In Lojban we use one word for all of these:
+<para>English also has a number of <wordasword>wh-</wordasword>
+questions &mdash; <wordasword>who</wordasword>, <wordasword>what</wordasword> etc. In Lojban we use one word for all of these:
 <foreignphrase lang="art-lojban">ma</foreignphrase>. This is like an
 instruction to fill in the missing place. For example:
 
@@ -228,7 +227,7 @@ instruction to fill in the missing place. For example:
 <listitem><para><quote>Where are you going?</quote>
 </para></listitem>
 
-<listitem><para><quote>London</quote>
+<listitem><para><quote>London.</quote>
 </para>
 </listitem>
 
@@ -290,7 +289,7 @@ This is like <foreignphrase lang="art-lojban">ma</foreignphrase>, but
 questions a <foreignphrase lang="art-lojban">selbri</foreignphrase>, not a
 <foreignphrase lang="art-lojban">sumti</foreignphrase> &mdash; it's like
 English <quote>What does X do?</quote> or <quote>What is X?</quote>
-(remember being and doing are the same in Lojban!). More logically, we can
+(remember being and doing are the same in Lojban!) More logically, we can
 see <foreignphrase lang="art-lojban">mo</foreignphrase> as asking someone
 to describe the relationship between the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> in the question. For example:
@@ -354,7 +353,7 @@ what you might want to ask.  Three other important questions,
 <foreignphrase lang="art-lojban">xo</foreignphrase> (<quote>How many?</quote>)
 <foreignphrase lang="art-lojban">ca ma</foreignphrase> (<quote>When?</quote>) and
 <foreignphrase lang="art-lojban">pei</foreignphrase> (<quote>How do you feel about
-it?</quote>) will come in the lessons on numbers, time and attitudes. 
+it?</quote>) will come in the lessons on <link linkend="less4">numbers</link>, <link linkend="less6">time</link> and <link linkend="less13">attitudes</link>. 
 </para>
 
 <simplesect role="exercise"><title>Exercise 2: Lojban general knowledge 
@@ -442,11 +441,11 @@ verbs.</quote> </para>
 <para>Lojban doesn't have those restrictions: if you can say the same thing 
 two different ways in Lojban, then you can always use either one in all 
 cases. And you can put Mary in front of her Porsche. One way to do that is 
-to tuck <foreignphrase 
-lang="art-lojban">pe la meiris.</foreignphrase> in between the article and the 
+to tuck the <foreignphrase 
+lang="art-lojban">pe</foreignphrase>-phrase in between the article and the 
 <foreignphrase 
 lang="art-lojban">gismu</foreignphrase> part of your <foreignphrase 
-lang="art-lojban">sumti</foreignphrase>: <foreignphrase 
+lang="art-lojban">sumti</foreignphrase>: for instance, <foreignphrase 
 lang="art-lojban">le pe la tim. tamne</foreignphrase>. This is literally 
 <quote>The of Tim cousin</quote>. But this construction 
 is kind of odd, and since it's not how English does things, you won't be 
@@ -670,7 +669,7 @@ inalienable possession.</para></listitem>
 <listitem><para>Be fast (<quote>Hurry up!</quote>)
 </para></listitem>
 
-<listitem><para>Like yourself. (note that changing the word order doesn't change 
+<listitem><para>Like yourself. (Note that changing the word order doesn't change 
 the meaning here)</para></listitem>
 </orderedlist></para>
 </simplesect>
@@ -707,14 +706,14 @@ George Eliot was a woman.) </para></listitem>
 moment other than <foreignphrase lang="art-lojban">prenu</foreignphrase> (maybe
 emphasising that Sakyamuni &mdash; the Buddha &mdash; was a person, not a
 God or somesuch).  Other possible answers would be <foreignphrase
-lang="art-lojban">xindo</foreignphrase> &mdash; Indian, or <foreignphrase
-lang="art-lojban">pavbudjo</foreignphrase> &mdash; first Buddhist. 
+lang="art-lojban">xindo</foreignphrase> <quote role="gloss">Indian</quote>, or <foreignphrase
+lang="art-lojban">pavbudjo</foreignphrase> <quote role="gloss">first Buddhist</quote>. 
 </para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">finti</foreignphrase> &mdash; not <foreignphrase 
 lang="art-lojban">ciska</foreignphrase>! Lojban separates the business of 
-putting pen to paper from the act of creating art. If Shakespeare had 
+putting pen to paper from the act of creating a work of art. If Shakespeare had 
 dictated <wordasword>Hamlet</wordasword> to Francis Bacon, Bacon would have 
 been the <foreignphrase 
 lang="art-lojban">ciska</foreignphrase> (<quote role="gloss">writer</quote>), but 

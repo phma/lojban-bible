@@ -7,8 +7,8 @@ repetitive if you want to tell a story, or even string two sentences
 together (as you will have seen in the last few exercises.) Consider the
 following:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama le barja .i la suzyn ze'a pinxe loi vanju .i la suzyn. zgana lo nanmu .i le nanmu cu melbi .i caku le nanmu cu zgana la suzyn.</foreignphrase>
-Susan goes to the bar. Susan drinks some wine for a while. Susan notices [sees, observes] a man. The man is beautiful. At that moment, the man notices Susan.</literallayout></informalexample></para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama le barja .i la suzyn ze'a pinxe loi vanju .i la suzyn. zgana lo nanmu .i le nanmu cu melbi .i le nanmu cu zgana la suzyn.</foreignphrase>
+Susan goes to the bar. Susan drinks some wine for a while. Susan notices [sees, observes] a man. The man is beautiful. The man notices Susan.</literallayout></informalexample></para>
 
 <note><para>Notice the use of <foreignphrase
 lang="art-lojban">melbi</foreignphrase> &mdash; in English we usually
@@ -22,7 +22,7 @@ lang="art-lojban">nanmu</foreignphrase>). </para></note>
 
 <para>It is pretty tedious to have to keep repeating
 <wordasword>Susan</wordasword> and <wordasword>man</wordasword>. English
-gets round this problem by using <emphasis>pronouns</emphasis>, like
+gets round this problem by using <firstterm>pronouns</firstterm>, like
 <wordasword>she</wordasword> or <wordasword>he</wordasword>. This works OK
 in this case, because we have one female and one male in the story so far,
 but it can get confusing when more characters enter the scene (and it's
@@ -50,7 +50,7 @@ lang="art-lojban"><emphasis>le</emphasis> go'i</foreignphrase> repeats the first
 no differently to any other <foreignphrase
 lang="art-lojban">selbri</foreignphrase> with an article in front of it: <foreignphrase
 lang="art-lojban">le</foreignphrase> + <foreignphrase
-lang="art-lojban">selbri</foreignphrase> refers to the x1 of that <foreignphrase
+lang="art-lojban">selbri</foreignphrase> refers to the x<subscript>1</subscript> of that <foreignphrase
 lang="art-lojban">selbri</foreignphrase>.) So we
 can rewrite the first three sentences as
 
@@ -69,7 +69,7 @@ what about
 <informalexample><para>Bill saw Rick. He hit him.</para>
 
 </informalexample>Did Bill hit Rick, or did Rick hit Bill? We don't know. Lojban does have
-other tricks up its sleeve, and as we will see next lesson, <foreignphrase
+other tricks up its sleeve, and as you might just have already guessed, <foreignphrase
 lang="art-lojban">le se go'i</foreignphrase> will do the trick. But counting
 <foreignphrase lang="art-lojban">sumti</foreignphrase> from the preceding
 <foreignphrase lang="art-lojban">bridi</foreignphrase> isn't really a general
@@ -188,12 +188,13 @@ badri</emphasis> na se zgana</foreignphrase></para></listitem>
 
 </sect1>
 
-<sect1 id="less7assign"><title>Assigning pro-sumti</title>
+<sect1 id="less7assign"><title>Assigning pro-<foreignphrase
+lang="art-lojban">sumti</foreignphrase></title>
 
 <para>If we're telling a story in English, the meaning of, say,
 <wordasword>she</wordasword> keeps changing. At the moment, it means <quote
 role="gloss">Susan</quote>, but if Susan's friend Jyoti walks into the bar,
-<wordasword>she</wordasword> could very well mean <quote
+<wordasword>she</wordasword> could very well mean start meaning <quote
 role="gloss">Jyoti</quote>. In Lojban, we can keep on using <foreignphrase
 lang="art-lojban">le go'i</foreignphrase>, <foreignphrase
 lang="art-lojban">ri</foreignphrase> and their relatives, but there is an easier
@@ -275,7 +276,7 @@ in this context) smiles, but that <emphasis>Susan</emphasis> smiles. Why?
 Because it is pointless to have a replacing word (anaphor), like
 <foreignphrase lang="art-lojban">ri</foreignphrase>, replace another replacing
 word, like <foreignphrase lang="art-lojban">ko'e</foreignphrase>. If you wanted
-the x1 of <foreignphrase lang="art-lojban">cisma</foreignphrase> to be
+the x<subscript>1</subscript> of <foreignphrase lang="art-lojban">cisma</foreignphrase> to be
 <foreignphrase lang="art-lojban">ko'e</foreignphrase>, you would have simply said
 <foreignphrase lang="art-lojban">.i ko'e cisma</foreignphrase>, not <foreignphrase
 lang="art-lojban">.i ri cisma</foreignphrase>. It works out simpler to keep
@@ -286,9 +287,9 @@ important things. </para></note>
 wondering where I get all these unusual names from, Jyoti is an old
 Gujarati friend of mine). We continue ....
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">caku la djiotis. goi ko'i mo'ine'i .i ko'i cusku lu coi ranjit. li'u ko'e</foreignphrase>
-At that time, Jyoti (henceforth #3), into. #3 says <quote>Hello Ranjeet</quote> to #2.
-Just then Jyoti comes in and says <quote>Hello, Ranjeet</quote> to the guy.</literallayout>
+<informalexample><literallayout><foreignphrase lang="art-lojban">caku la djiotis. goi ko'i mo'ine'i .i ko'i rinsa ko'e</foreignphrase>
+At that time, Jyoti (henceforth #3), into. #3 greets #2.
+Just then Jyoti comes in and says hello to the guy.</literallayout>
 </informalexample><foreignphrase lang="art-lojban">mo'ine'i</foreignphrase> is another space <quote
 role="socalled">tense</quote>. <foreignphrase
 lang="art-lojban">mo'i</foreignphrase> indicates movement; <foreignphrase
@@ -306,7 +307,9 @@ lang="art-lojban">caku</foreignphrase>, which is exactly the same. Just as
 role="gloss">afterwards</quote>, <foreignphrase lang="art-lojban">mo'ine'i
 (ku)</foreignphrase> means something like <quote
 role="gloss">in(to)wards</quote> &mdash; but is nowhere near as wierd in
-Lojban as it is in English.) The <foreignphrase
+Lojban as it is in English.)</para>
+
+<para>The <foreignphrase
 lang="art-lojban">selbri</foreignphrase> is also missed out, because the way Jyoti
 moves is not important (<foreignphrase lang="art-lojban">klama</foreignphrase> is
 possible, but unnecessary, but we could use <foreignphrase
@@ -316,12 +319,22 @@ lang="art-lojban">selbri</foreignphrase> out like this, but it means that this i
 a sentence-fragment, not a real <foreignphrase
 lang="art-lojban">bridi</foreignphrase>. Don't try this at home, kids. </para>
 
+<para>When not involved in this kind of trick, <foreignphrase lang="art-lojban">mo'i</foreignphrase>
+is extremely useful, as it allows you to distinguish between location and motion. For example, <wordasword>I ran behind the bar</wordasword> in English is properly speaking ambiguous: are you running while behind the bar, or are you running with your final destination being behind the bar? Lojban does not allow that ambiguity: <foreignphrase
+lang="art-lojban">mi bajra ti'a le barja</foreignphrase> means the former, while <foreignphrase
+lang="art-lojban">mi bajra <emphasis>mo'i</emphasis> ti'a le barja</foreignphrase> means the latter. This kind of ambiguity may pass unnoticed by native English
+speakers, but speakers of languages which are more precise about direction
+find it extremely vague (Turkish, for example, has at least three words to
+translate <quote role="gloss">here</quote>).</para>
+
+
+
 <simplesect role="vocab"><title>Vocabulary</title>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">catlu</foreignphrase></term><listitem><para> x1 looks
-at/examines/views/inspects/regards/watches/gazes at x2 [compare with
+lang="art-lojban">catlu</foreignphrase></term><listitem><para> x<subscript>1</subscript> looks
+at/examines/views/inspects/regards/watches/gazes at x<subscript>2</subscript> [compare with
 <foreignphrase
 lang="art-lojban">zgani</foreignphrase>]</para></listitem></varlistentry>
 
@@ -333,18 +346,16 @@ of these words in <link linkend="less11">a
 couple of lessons</link>.</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">fengu</foreignphrase></term><listitem><para>x1 is angry/mad at
-x2 for x3 (action/state/property)</para></listitem></varlistentry>
+lang="art-lojban">fengu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is angry/mad at
+x<subscript>2</subscript> for x<subscript>3</subscript> (action/state/property)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">rinsa</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent) greets/hails/[welcomes/says hello to]/responds to arrival of x<subscript>2</subscript> in manner x<subscript>3</subscript>
+(action)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">xanka</foreignphrase></term><listitem>
-<para>x1 is nervous/anxious about x2 (abstraction) under conditions x3</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">xunfirbi'o</foreignphrase></term><listitem><para> blush
-[<foreignphrase lang="art-lojban">xunre</foreignphrase> (red) + <foreignphrase
-lang="art-lojban">flira</foreignphrase> (face) + <foreignphrase
-lang="art-lojban">binxo</foreignphrase> (become)]</para></listitem></varlistentry>
+<para>x<subscript>1</subscript> is nervous/anxious about x<subscript>2</subscript> (abstraction) under conditions x<subscript>3</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -358,36 +369,18 @@ lang="art-lojban">ko'a/e/i</foreignphrase> that we have been using so far (i.e.
 
 </para>
 
-<note><para><foreignphrase lang="art-lojban">doi</foreignphrase> is used to show
-who you're talking to (without <foreignphrase
-lang="art-lojban">doi</foreignphrase>, the <foreignphrase
-lang="art-lojban">cmene</foreignphrase> might become the first <foreignphrase
-lang="art-lojban">sumti</foreignphrase> of the <foreignphrase
-lang="art-lojban">bridi</foreignphrase>). It's a bit like English
-<wordasword>O</wordasword> (as in <quote>O ye of little faith</quote>) or
-the Latin vocative (as in <quote>Et tu, Brute</quote>.) </para></note>
-
 <para><orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">.i ko'a ca cusku lu .ue coi li'u 
+<listitem><para><foreignphrase lang="art-lojban">.i ko'a ca rinsa 
 ko'i</foreignphrase></para></listitem> 
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko'a .e ko'i xanka cmila </foreignphrase></para></listitem>  
 
 <listitem><para><foreignphrase lang="art-lojban">.i caku le go'i cu catlu ko'e  </foreignphrase></para></listitem> 
 
-<listitem><para><foreignphrase lang="art-lojban">.i ko'e cusku lu doi djiotis. ma 
-cmene le do pendo li'u  </foreignphrase></para></listitem> 
+<listitem><para><foreignphrase lang="art-lojban">.i ko'e cadzu mo'i zu'a ko'i</foreignphrase></para></listitem> 
 
-<listitem><para><foreignphrase lang="art-lojban">.i ko'i cusku lu lu suzyn. 
-li'u li'u  </foreignphrase></para></listitem> 
-
-<listitem><para><foreignphrase lang="art-lojban">.i ko'e cusku lu .ui ro lo do pendo 
-cu pendo mi li'u  </foreignphrase></para></listitem> 
-
-<listitem><para><foreignphrase lang="art-lojban">.i ko'i fengu catlu ko'e</foreignphrase></para></listitem>   
-
-<listitem><para><foreignphrase lang="art-lojban">.i ko'a xunfirbi'o</foreignphrase></para></listitem> 
+<listitem><para><foreignphrase lang="art-lojban">.i ko'e djica lenu djuno fi le ko'a cmene</foreignphrase></para></listitem> 
 
 </orderedlist></para>
 </simplesect>
@@ -429,19 +422,19 @@ lang="art-lojban">la suzyn. rinsa lo nanmu .i ny cisma
 </informalexample><foreignphrase lang="art-lojban">ny</foreignphrase> stands for <foreignphrase
 lang="art-lojban">nanmu</foreignphrase>. There is no need to explicitly assign
 <foreignphrase lang="art-lojban">ny</foreignphrase> with <foreignphrase
-lang="art-lojban">goi</foreignphrase>; but you can, and in fact if you assign it
+lang="art-lojban">goi</foreignphrase>; but you can, and indeed if you assign it
 to a <foreignphrase lang="art-lojban">sumti</foreignphrase> which doesn't start
 with that letter, then that assignment will be the one that counts
 (<quote>A certain Lojbanist, let's call him N, dislikes KOhA <foreignphrase
 lang="art-lojban">cmavo</foreignphrase>...</quote>). Some Lojbanists dislike this
 usage because it, too, seems a little calculated (and initials and acronyms
 have decidedly non-literary associations in most natural languages!) Only
-time will tell which of the two usages will become more usual.</para>
+time will tell which of the two usages will become more commonplace.</para>
 
 
 </sect1>
 
-<sect1 id="less7quote"><title>Direct and indirect quotations</title>
+<sect1 id="less7quote"><title>Direct quotations</title>
 
 <para>You may have noticed two other new words in the previous Lojban
 sentence. <foreignphrase lang="art-lojban">lu</foreignphrase> and <foreignphrase
@@ -461,9 +454,57 @@ Ranjeet said <quote>Jyoti said <quote>Hello</quote> to me.</quote></literallayou
 Ranjeet said <quote>Jyoti greeted me.</quote></literallayout>
 </informalexample></para>
 
-<para>Both can also be expressed in a rather more subtle way:
+<para>Being a logical language, Lojban is very careful to distinguish between words for things, and the things themselves. So you can't speak about the <emphasis>phrase</emphasis> <foreignphrase
+lang="art-lojban">le munje</foreignphrase> <quote role="gloss">the universe</quote> in the same way you speak about the universe itself. To give a silly example, the phrase <foreignphrase
+lang="art-lojban">le munje</foreignphrase> is small, but the universe itself is not. To distinguish between the two in Lojban, you need to use quotation:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. pu cusku le sedu'u la djiotis. pu rinsa ry</foreignphrase>
+<informalexample><literallayout><foreignphrase
+lang="art-lojban">lu le munje li'u cu cmalu</foreignphrase>
+<quote role="gloss">The universe</quote> is small
+<foreignphrase
+lang="art-lojban">le munje na cmalu</foreignphrase>
+The universe is not small</literallayout></informalexample></para>
+
+<simplesect role="exercise"><title>Exercise 3</title>
+
+<para>Translate the following. Continue to assume the same values for <foreignphrase
+lang="art-lojban">ko'a/e/i</foreignphrase> that we have been using so far.
+
+</para>
+
+<note><para><foreignphrase lang="art-lojban">doi</foreignphrase> is used to show
+who you're talking to (without <foreignphrase
+lang="art-lojban">doi</foreignphrase>, the <foreignphrase
+lang="art-lojban">cmene</foreignphrase> might become the first <foreignphrase
+lang="art-lojban">sumti</foreignphrase> of the <foreignphrase
+lang="art-lojban">bridi</foreignphrase>). It's a bit like English
+<wordasword>O</wordasword> (as in <quote>O ye of little faith</quote>) or
+the Latin vocative (as in <quote>Et tu, Brute</quote>.) </para></note>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">.i ko'e cusku lu doi djiotis. ma 
+cmene le do pendo li'u</foreignphrase></para></listitem> 
+
+<listitem><para><foreignphrase lang="art-lojban">.i ko'i cusku lu lu suzyn. 
+li'u li'u  </foreignphrase></para></listitem> 
+
+<listitem><para><foreignphrase lang="art-lojban">.i ko'e cusku lu .ui ro lo do pendo 
+cu pendo mi li'u  </foreignphrase></para></listitem> 
+
+<listitem><para><foreignphrase lang="art-lojban">.i ko'i fengu cusku lu djica ma li'u ko'i</foreignphrase></para></listitem>   
+
+</orderedlist></para>
+</simplesect>
+
+
+</sect1>
+
+<sect1 id="less7iquote"><title>Indirect quotations</title>
+
+<para>A phrase like <quote>Ranjeet said <quote>Jyoti said <quote>Hello</quote> to me.</quote></quote> can also be expressed in a rather more subtle way:
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. pu cusku le sedu'u la djiotis. pu rinsa ry.</foreignphrase>
 Ranjeet past-express the-predicate Jyoti past-greet R
 Ranjeet said that Jyoti greeted him.</literallayout>
 </informalexample>What is this <foreignphrase lang="art-lojban">sedu'u</foreignphrase>?  Well, to
@@ -492,7 +533,7 @@ lang="art-lojban">nu</foreignphrase> itself. This means you can use it wherever
 you use <foreignphrase lang="art-lojban">nu</foreignphrase>. In fact,
 <foreignphrase lang="art-lojban">du'u</foreignphrase> and <foreignphrase
 lang="art-lojban">nu</foreignphrase> are the two major kinds of
-<emphasis>abstractions</emphasis> in Lojban. Lojban can distinguish between
+<firstterm>abstractions</firstterm> in Lojban. Lojban can distinguish between
 abstractions pretty finely, but the main distinction is between things that
 happen (events), which take <foreignphrase lang="art-lojban">nu</foreignphrase>,
 and things you can know (facts), which take <foreignphrase
@@ -519,7 +560,7 @@ something you think, Lojban uses <foreignphrase
 lang="art-lojban">sedu'u</foreignphrase> rather than <foreignphrase
 lang="art-lojban">du'u</foreignphrase>. </para>
 
-<note><para>The <foreignphrase lang="art-lojban">se</foreignphrase> is what you
+<note><para>The <foreignphrase lang="art-lojban">se</foreignphrase> in <foreignphrase lang="art-lojban">sedu'u</foreignphrase> is what you
 think it is. I'll explain what it's doing there next lesson.</para></note>
 
 <para>So Lojban has different words for <wordasword>that...</wordasword>,
@@ -564,7 +605,7 @@ abstraction you're using, that's the word to use.
 
 </para></tip>
 
-<simplesect role="exercise"><title>Exercise 3</title>
+<simplesect role="exercise"><title>Exercise 4</title>
 
 <para>Which of <foreignphrase
 lang="art-lojban">nu</foreignphrase>, <foreignphrase
@@ -590,6 +631,8 @@ easy.</para></listitem>
 
 </orderedlist></para>
 </simplesect>
+
+
 </sect1>
 
 <sect1 id="less7personal"><title>Some more personal pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></title>
@@ -617,13 +660,13 @@ You can also use specific numbers: <foreignphrase
 lang="art-lojban">redo</foreignphrase> would mean <quote role="gloss">two
 of you</quote> or <quote role="gloss">you two</quote> (for example, I start
 e-mails to my parents with <foreignphrase lang="art-lojban">coi
-redo</foreignphrase>.)<footnote id="less7fn1"><para>To say
+redo</foreignphrase>.)<note id="less7fn1"><para>To say
 <quote><emphasis>the</emphasis> two of you</quote>, Lojban does actually
 let you say <foreignphrase lang="art-lojban">le re do</foreignphrase>. But
 you need the numeral to be there already, in order to put an article in
 front of a pro-<foreignphrase
-lang="art-lojban">sumti</foreignphrase>.</para></footnote> You can also use
-numbers with <foreignphrase lang="art-lojban">ko</foreignphrase> e.g.
+lang="art-lojban">sumti</foreignphrase>.</para></note>You can also use
+numbers with <foreignphrase lang="art-lojban">ko</foreignphrase>, e.g.
 <foreignphrase lang="art-lojban">ro ko klama ti</foreignphrase>. </para>
 
 <para>Case (3) is expressed by <foreignphrase
@@ -654,7 +697,7 @@ lang="art-lojban">mi'a</foreignphrase></term><listitem><para>I and another/other
 lang="art-lojban">ma'a</foreignphrase></term><listitem><para>you and I and
 another/others</para></listitem></varlistentry>
 
-</variablelist>Some examples:
+</variablelist>(Once again, Lojban follows the lead of languages other than English in differentiating between these different kinds of <wordasword>we</wordasword>.) Some examples:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">mi prami do</foreignphrase>
 I love you.</literallayout>
@@ -710,16 +753,16 @@ lang="art-lojban">do'o, mi'o, mi'a, ma'a</foreignphrase>)</para></listitem>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">bebna</foreignphrase></term><listitem><para>
-x1 is foolish/silly in event/action/property [folly] (ka) x2; x1 is a boob</para></listitem></varlistentry>
+x<subscript>1</subscript> is foolish/silly in event/action/property [folly] (ka) x<subscript>2</subscript>; x<subscript>1</subscript> is a boob</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">burna</foreignphrase></term><listitem><para>
-x1 is embarrassed/disconcerted/flustered/ill-at-ease about/under conditions x2 (abstraction)</para></listitem></varlistentry>
+x<subscript>1</subscript> is embarrassed/disconcerted/flustered/ill-at-ease about/under conditions x<subscript>2</subscript> (abstraction)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cinri</foreignphrase></term><listitem> <para>x1 (abstraction)
-interests/is interesting to x2; x2 is interested in
-x1</para></listitem></varlistentry>
+lang="art-lojban">cinri</foreignphrase></term><listitem> <para>x<subscript>1</subscript> (abstraction)
+interests/is interesting to x<subscript>2</subscript>; x<subscript>2</subscript> is interested in
+x<subscript>1</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">dansydi'u</foreignphrase></term><listitem><para>disco [<foreignphrase
@@ -733,9 +776,9 @@ suggest</quote>
 (attitudinal)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">mutce</foreignphrase></term><listitem><para>x1 is much/extreme
-in property x2 (ka), towards x3 extreme/direction; x1 is, in x2, very
-x3</para></listitem></varlistentry>
+lang="art-lojban">mutce</foreignphrase></term><listitem><para>x<subscript>1</subscript> is much/extreme
+in property x<subscript>2</subscript> (ka), towards x<subscript>3</subscript> extreme/direction; x<subscript>1</subscript> is, in x<subscript>2</subscript>, very
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">ni'a</foreignphrase></term><listitem><para>down, below (space
@@ -754,16 +797,16 @@ think</quote> (opinion attitudinal)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">penmi</foreignphrase></term><listitem><para>
-x1 meets/encounters x2 at/in location x3</para></listitem></varlistentry>
+x<subscript>1</subscript> meets/encounters x<subscript>2</subscript> at/in location x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">simlu</foreignphrase></term><listitem><para>x1 seems/appears to
-have property(ies) x2 to observer x3 under conditions
-x4</para></listitem></varlistentry>
+lang="art-lojban">simlu</foreignphrase></term><listitem><para>x<subscript>1</subscript> seems/appears to
+have property(ies) x<subscript>2</subscript> to observer x<subscript>3</subscript> under conditions
+x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">simxu</foreignphrase></term><listitem><para>x1 (set) has members
-who mutually/reciprocally x2 (event [x1 should be reflexive in 1+
+lang="art-lojban">simxu</foreignphrase></term><listitem><para>x<subscript>1</subscript> (set) has members
+who mutually/reciprocally x<subscript>2</subscript> (event [x<subscript>1</subscript> should be reflexive in 1+
 sumti])</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -775,7 +818,7 @@ role="gloss">er</quote> (hesitation)</para></listitem></varlistentry>
 </simplesect>
 
 
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="exercise"><title>Exercise 5</title>
 
 <para>The story is now in earnest! For each of the highlighted
 pro-<foreignphrase lang="art-lojban">sumti</foreignphrase>, say who or what they
@@ -801,7 +844,7 @@ burna</foreignphrase></para></listitem>
 la cardoNES. kabri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu zgana
-<emphasis>ra</emphasis> ca simlu leka cinri ko'a
+<emphasis>ra</emphasis> cu simlu leka cinri ko'a
 </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko'e cinba ko'i soi
@@ -840,49 +883,49 @@ klama lo dansydi'u</foreignphrase></para></listitem>
 <variablelist>
 
 <varlistentry><term><foreignphrase lang="art-lojban">bilga</foreignphrase></term><listitem>
-<para>x1 is bound/obliged to/has the duty to do/be x2 in/by
-standard/agreement x3; x1 must do x2</para></listitem></varlistentry>
+<para>x<subscript>1</subscript> is bound/obliged to/has the duty to do/be x<subscript>2</subscript> in/by
+standard/agreement x<subscript>3</subscript>; x<subscript>1</subscript> must do x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cismyfra</foreignphrase></term><listitem><para>x1
-reacts/responds/answers by smiling to stimulus x2 under conditions x3
+lang="art-lojban">cismyfra</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+reacts/responds/answers by smiling to stimulus x<subscript>2</subscript> under conditions x<subscript>3</subscript>
 [<foreignphrase lang="art-lojban">cisma</foreignphrase> (smile) + <foreignphrase
 lang="art-lojban">frati</foreignphrase> (react)]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">dunku</foreignphrase></term><listitem> <para>x1 is
+lang="art-lojban">dunku</foreignphrase></term><listitem> <para>x<subscript>1</subscript> is
 anguished/distressed/emotionally wrought/stressed by
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">gusta</foreignphrase></term><listitem> <para>x1 is a
-restaurant/cafe/diner serving type-of-food x2 to audience
-x3</para></listitem></varlistentry>
+lang="art-lojban">gusta</foreignphrase></term><listitem> <para>x<subscript>1</subscript> is a
+restaurant/cafe/diner serving type-of-food x<subscript>2</subscript> to audience
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jinvi</foreignphrase></term><listitem> <para>x1 thinks/opines x2
-[opinion] (du'u) is true about subject/issue x3 on grounds
-x4</para></listitem></varlistentry>
+lang="art-lojban">jinvi</foreignphrase></term><listitem> <para>x<subscript>1</subscript> thinks/opines x<subscript>2</subscript>
+[opinion] (du'u) is true about subject/issue x<subscript>3</subscript> on grounds
+x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kansa</foreignphrase></term><listitem><para>x1 is
-with/accompanies/is a companion of x2, in state/condition/enterprise x3
+lang="art-lojban">kansa</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+with/accompanies/is a companion of x<subscript>2</subscript>, in state/condition/enterprise x<subscript>3</subscript>
 (event/state)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">morji</foreignphrase></term><listitem><para>x1
-remembers/recalls/recollects fact(s)/memory x2 (du'u) about subject
-x3</para></listitem></varlistentry>
+lang="art-lojban">morji</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+remembers/recalls/recollects fact(s)/memory x<subscript>2</subscript> (du'u) about subject
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">preti</foreignphrase></term><listitem><para> x1 (quoted text) is
-a question/query about subject x2 by questioner x3 to audience
-x4</para></listitem></varlistentry>
+lang="art-lojban">preti</foreignphrase></term><listitem><para> x<subscript>1</subscript> (quoted text) is
+a question/query about subject x<subscript>2</subscript> by questioner x<subscript>3</subscript> to audience
+x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">spuda</foreignphrase></term><listitem><para> x1 answers/replies
-to/responds to person/object/event/situation/stimulus x2 with response
-x3</para></listitem></varlistentry>
+lang="art-lojban">spuda</foreignphrase></term><listitem><para> x<subscript>1</subscript> answers/replies
+to/responds to person/object/event/situation/stimulus x<subscript>2</subscript> with response
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">xukske</foreignphrase></term><listitem><para> chemistry
@@ -897,7 +940,7 @@ lang="art-lojban">xukske</foreignphrase></term><listitem><para> chemistry
  
 
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para>Translate into Lojban. Use Lojban letters (acronyms) for the characters to refer 
 to each other.
@@ -909,7 +952,7 @@ just use <foreignphrase lang="art-lojban">preti</foreignphrase>.)</para></listit
  
 <listitem><para>Susan answered <quote>He said that he would wait for me
 here.</quote> (Hint: just use <foreignphrase
-lang="art-lojban">spuda</foreignphrase>, and skip x2.)</para></listitem>
+lang="art-lojban">spuda</foreignphrase>, and skip x<subscript>2</subscript>.)</para></listitem>
 
 <listitem><para>Jyoti said, <quote>I'm not that worried about him leaving.
 I think that he'll meet us at the disco.</quote> (Use a <foreignphrase
@@ -980,7 +1023,7 @@ lang="art-lojban">le</foreignphrase> immediately in front of it.) <foreignphrase
 lang="art-lojban">ra</foreignphrase>: No.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">le go'i</foreignphrase>: No. (The 
-x1 of the preceding sentence is not <foreignphrase lang="art-lojban">la 
+x<subscript>1</subscript> of the preceding sentence is not <foreignphrase lang="art-lojban">la 
 suzyn.</foreignphrase> but <foreignphrase lang="art-lojban">lenu la suzyn. 
 badri</foreignphrase>.) <foreignphrase 
 lang="art-lojban">ri</foreignphrase>: Yes. (See discussion.) <foreignphrase 
@@ -999,13 +1042,35 @@ counting backwards from the start of the sentence.)</para></listitem>
 
 <para><orderedlist>
 
-<listitem><para>Susan says <quote>Oh! Hello!</quote> to Jyoti.</para></listitem> 
+<listitem><para>Susan greets Jyoti.</para></listitem> 
 
 <listitem><para>They laugh nervously.</para></listitem> 
 
-<listitem><para>At that moment, they look at Ranjeet. (<foreignphrase 
+<listitem><para>Now, they look at Ranjeet. (<foreignphrase 
 lang="art-lojban">le go'i</foreignphrase> means that the people doing the laughing 
 are the same as the people doing the looking &mdash; both of them.)</para></listitem> 
+
+<listitem><para>He walks towards the left of Jyoti. (Without the <foreignphrase 
+lang="art-lojban">mo'i</foreignphrase>, this would mean <quote>He walks <emphasis>at</emphasis> the left of Jyoti</quote>.)</para></listitem> 
+
+<listitem><para>He wants to know (about) her name.</para></listitem> 
+
+</orderedlist></para>
+
+
+<para>Note that in order to get this into understandable English, we've had
+to change some of the pro-<foreignphrase 
+lang="art-lojban">sumti</foreignphrase> back into names.  We could also make the
+translation sound more natural by changing the word order a bit more,
+changing <wordasword>says</wordasword> to <wordasword>asks</wordasword>
+when it's a question, and maybe putting the whole thing into the past
+tense.  </para>
+
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 3</title>
+
+<para><orderedlist>
 
 <listitem><para>He says <quote>Jyoti, what is the name of your 
 friend?</quote> (This is actually the simplest way of saying <quote>Who's 
@@ -1016,7 +1081,7 @@ your friend do?</quote> or <quote>What is
 your friend like?</quote>)</para></listitem> 
 
 <listitem><para>She says <quote><quote 
-role="gloss">Susan.</quote></quote> (Note the characteristic Lojban 
+role="gloss">Susan.</quote></quote> (Note the characteristic, Lewis-Carrollesque Lojban 
 pedantry here. Susan, the young woman with an irrational fear of German 
 alcoholic beverages, is not Susan's name. The <emphasis>word</emphasis> 
 <quote role="gloss">Susan</quote> is Susan's name. So Jyoti cannot answer <foreignphrase 
@@ -1039,9 +1104,7 @@ friend</quote>, with an article in front of it, and <quote role="gloss">is a
 friend</quote>, as an independent <foreignphrase 
 lang="art-lojban">selbri</foreignphrase>.)</para></listitem> 
 
-<listitem><para>Jyoti looks at him angrily.</para></listitem> 
-
-<listitem><para>Susan blushes.</para></listitem> 
+<listitem><para>Jyoti says to herself angrily <quote>What does he want?</quote> (The question is Jyoti's, not the narrator's, obviously: this does not mean <quote>What was it that Jyoti said to herself he wanted?</quote>)</para></listitem> 
 
 </orderedlist></para>
 
@@ -1056,7 +1119,9 @@ tense.  </para>
 
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 3</title>
+
+
+<simplesect role="excanswer"><title>Exercise 4</title>
 
 <para><orderedlist>
 
@@ -1074,7 +1139,8 @@ lang="art-lojban">nu</foreignphrase>. It is events in the world, rather
 than concepts, which usually provoke emotional responses. If <foreignphrase 
 lang="art-lojban">du'u</foreignphrase> represents something you hold in 
 your brain, then <foreignphrase 
-lang="art-lojban">nu</foreignphrase> is necessary because your emotional 
+lang="art-lojban">nu</foreignphrase>, not <foreignphrase 
+lang="art-lojban">du'u</foreignphrase>, is necessary after <quote role="gloss">frustrated</quote>: your emotional 
 response is too much of a reflex action for your perception to have the 
 time to become something you hold in your brain!</para></listitem> 
 
@@ -1099,7 +1165,7 @@ into action.</para></listitem>
 </simplesect>
 
 
-<simplesect role="excanswer"><title>Exercise 4</title>
+<simplesect role="excanswer"><title>Exercise 5</title>
 <para><variablelist><title>pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></title>
 
 <varlistentry><term><foreignphrase
@@ -1117,7 +1183,7 @@ refer back to <foreignphrase lang="art-lojban">le la cardoNES. kabri</foreignphr
 <foreignphrase lang="art-lojban">sumti</foreignphrase> are counted, the
 immediately previous <foreignphrase lang="art-lojban">sumti</foreignphrase> is not
 <foreignphrase lang="art-lojban">le la cardoNES. kabri</foreignphrase> &mdash; it's the
-<foreignphrase lang="art-lojban">la cardoNES.</foreignphrase> <emphasis>inside</emphasis>
+<foreignphrase lang="art-lojban">la cardoNES.</foreignphrase> <emphasis>inside</emphasis> the phrase
 <foreignphrase lang="art-lojban">le la cardoNES. kabri</foreignphrase>!  This kind of
 annoyance may give you a hint about why <foreignphrase
 lang="art-lojban">ri</foreignphrase> is not as popular as you might
@@ -1173,7 +1239,7 @@ the Chardonnay owns the glass &mdash; merely that it is associated with it:
 it corresponds to <foreignphrase lang="art-lojban">le kabri pe la
 cardonES.</foreignphrase>)</para></listitem>
 
-<listitem><para>Just then, she found observing it very interesting. (In
+<listitem><para>She seems to find observing it very interesting. (In
 Lojban, things and people aren't interesting by themselves; only their
 properties or activities can be interesting. There is a workaround, which
 is something like <quote><emphasis>some property about the glass I won't
@@ -1223,7 +1289,7 @@ on, you're both being silly,</quote> she said.</para></listitem>
 </orderedlist></para>
 
 </simplesect>
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para>You now know enough Lojban that your translations can vary to some 
 extent. Don't be too concerned about matching these translations to the letter.

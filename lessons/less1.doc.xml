@@ -1,10 +1,10 @@
 <chapter id="less1"><title>Sounds, names and a few
-attitudes</title>
+attitudes</title><titleabbrev>Sounds, names and attitudes</titleabbrev>
 
 <para>The first thing you need to do when you learn a
 foreign language is to become familiar with the sounds of the language and
 how they are written, and the same goes for Lojban.  Fortunately, Lojban
-sounds (phonemes) are fairly straightforward.</para>
+sounds (<firstterm>phonemes</firstterm>) are fairly straightforward.</para>
 
 <sect1 id="less1vowels"><title>Vowels</title>
 
@@ -37,12 +37,12 @@ role="bold">oo</emphasis>l</wordasword> (not as in <wordasword>b<emphasis role="
 
 <para>These are pretty much the same as vowels in Italian
 or Spanish.  The sixth vowel, <foreignphrase lang="art-lojban">y</foreignphrase>,
-is called a <wordasword>schwa</wordasword> in the language trade, and is pronounced like the first
+is called a <firstterm>schwa</firstterm> in the language trade, and is pronounced like the first
 and last <wordasword>A</wordasword>'s in <wordasword>America</wordasword> 
 (that's English <wordasword>America</wordasword>, not Spanish.)  It's
 the sound that comes out when the mouth is completely relaxed.</para>
 
-<para>Two vowels together are pronounced as one sound (diphthong).  Some
+<para>Two vowels together are pronounced as one sound (<firstterm>diphthong</firstterm>).  Some
 examples are:</para>
 
 <variablelist> <varlistentry><term><foreignphrase
@@ -166,14 +166,14 @@ usual in Lojban, so we might as well go through their names quickly.
 <para>Consonants are straight-forward: the name of a consonant letter is 
 that letter, plus <foreignphrase lang="art-lojban">y</foreignphrase>. So the 
 consonant letters of Lojban, <wordasword>b, c, d, f, g ...</wordasword>, 
-are called <foreignphrase lang="art-lojban">by, cy, dy, fy, gy...</foreignphrase> in Lojban.</para>
+are called <foreignphrase lang="art-lojban">by., cy., dy., fy., gy....</foreignphrase> in Lojban (using the full stop as we've just described.)</para>
 
 <para>Vowels <emphasis>would</emphasis> be called <foreignphrase
 lang="art-lojban">ay, ey, iy</foreignphrase>, but that would be rather
 difficult to pronounce. Instead, they are handled by following the vowel
 sound with the word <foreignphrase lang="art-lojban">bu</foreignphrase>,
 which basically means <quote role="gloss">letter</quote>. So the vowels of
-Lojban are: <foreignphrase lang="art-lojban">abu, ebu, ibu, obu, ubu,
+Lojban are: <foreignphrase lang="art-lojban">.abu, .ebu, .ibu, .obu, .ubu,
 ybu</foreignphrase>. </para>
 
 <para>Lojban has ways of refering to most letters you can think of; see
@@ -187,7 +187,7 @@ lang="art-lojban">vybu</foreignphrase>. So
 <wordasword>Schwarzenegger</wordasword> is spelt in Lojban as:
 
 <informalexample><para><foreignphrase 
-lang="art-lojban">sy cy y'ybu vybu abu ry zy ebu ny ebu gy gy ebu ry</foreignphrase></para></informalexample>And spelling <emphasis>that</emphasis> is a task the equal of anything the 
+lang="art-lojban">sy. cy. .y'ybu vybu. .abu ry. zy. .ebu ny. .ebu gy. gy. .ebu ry.</foreignphrase></para></informalexample>And spelling <emphasis>that</emphasis> is a task the equal of anything the 
 Terminator ever did!
 </para>
 
@@ -223,7 +223,7 @@ lang="art-lojban">I</foreignphrase> is very short, but the second has to be long
 
 <para>If you tried pronouncing the vowel
 combinations above, you've already said some Lojban words.  Lojban has a
-class of words called <wordasword>attitudinal indicators</wordasword>, which express how the
+class of words called <firstterm>attitudinal indicators</firstterm>, which express how the
 speaker feels about something.  The most basic ones consist of two vowels,
 sometimes with an apostrophe in the middle.  Here are some of the most
 useful ones.  
@@ -256,8 +256,10 @@ useful ones.
 <listitem><para>happiness</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="art-lojban">.u'i</foreignphrase></term>
 <listitem><para>amusement</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.u'u</foreignphrase></term>
+<listitem><para>repentance, <quote>I'm sorry!</quote></para></listitem></varlistentry>
 <varlistentry><term><foreignphrase lang="art-lojban">.uu</foreignphrase></term>
-<listitem><para>pity, sympathy<footnote id="less1fn1"><para>In English, people have started to avoid the word
+<listitem><para>pity, sympathy</para><note><para>In English, people have started to avoid the word
 <wordasword>pity</wordasword>, because it has come to have associations of superiority. 
 <foreignphrase lang="art-lojban">.uu</foreignphrase> is just the raw emotion: if
 you wanted to express pity in this rather condescending way, you'd probably
@@ -265,10 +267,7 @@ say <foreignphrase lang="art-lojban">.uuga'i</foreignphrase> &mdash; <quote>pity
 combined with a sense of superiority,</quote> or <foreignphrase
 lang="art-lojban">.uuvu'e</foreignphrase> &mdash; <quote>pity combined with a sense of
 virtue.</quote>  Then again, you would probably just keep your mouth
-shut.</para></footnote></para></listitem></varlistentry>
-<varlistentry><term><foreignphrase lang="art-lojban">.u'u</foreignphrase></term>
-<listitem><para>repentance, <quote>I'm sorry!</quote></para></listitem></varlistentry>
-
+shut.</para></note></listitem></varlistentry>
 </variablelist>
 
 
@@ -380,7 +379,7 @@ ended and the next word began. In addition, if a name
 <emphasis>begins</emphasis> with a vowel, you need a full stop there as
 well. For example: </para>
 
-<variablelist>
+<variablelist termlength="25">
 
 <varlistentry><term><foreignphrase lang="art-lojban">.an.</foreignphrase></term>
 <listitem><para>Anne</para></listitem></varlistentry>
@@ -445,8 +444,7 @@ lang="art-lojban">roBER.</foreignphrase> . </para>
 <para>To give an idea of how all this works, here are some names of famous
 people in their own language and in Lojban.  </para>
 
-<!-- set TermLength artificially to prevent both table and para renderings in the same grouping -->
-<variablelist termlength="1"> <title>English</title>
+<variablelist termlength="20"> <title>English</title>
 
 <varlistentry><term>Margaret Thatcher</term> <listitem><para><foreignphrase
 lang="art-lojban">magryt.tatcys.</foreignphrase> (no <wordasword>th</wordasword> in Lojban because most
@@ -458,10 +456,10 @@ lang="art-lojban">mik.djagys.</foreignphrase></para></listitem> </varlistentry>
 </variablelist>
 
 
-<variablelist termlength="1"><title>French</title>
+<variablelist termlength="25"><title>French</title>
 
 <varlistentry><term>Napoleon Bonaparte</term> <listitem><para><foreignphrase
-lang="art-lojban">napole,ON. bonaPART.</foreignphrase></para></listitem></varlistentry>
+lang="art-lojban">napole,ON.bonaPART.</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term>Juliette Binoche</term> <listitem><para><foreignphrase
 lang="art-lojban">julIET.binOC.</foreignphrase></para></listitem></varlistentry>
@@ -469,7 +467,7 @@ lang="art-lojban">julIET.binOC.</foreignphrase></para></listitem></varlistentry>
 </variablelist>
 
 
-<variablelist termlength="1"><title>Chinese</title>
+<variablelist termlength="25"><title>Chinese</title>
 
 <varlistentry><term>Laozi</term> <listitem><para><foreignphrase
 lang="art-lojban">laudz.</foreignphrase></para></listitem></varlistentry>
@@ -479,7 +477,7 @@ lang="art-lojban">maus.dzeDYNG.</foreignphrase></para></listitem></varlistentry>
 
 </variablelist>
 
-<variablelist termlength="1"><title>Turkish</title>
+<variablelist termlength="25"><title>Turkish</title>
 
 <varlistentry><term>Mustafa Kemal</term> <listitem><para><foreignphrase
 lang="art-lojban">MUStafas.kemal.</foreignphrase></para></listitem></varlistentry>
@@ -491,7 +489,7 @@ lang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry
 </variablelist>
 
 
-<variablelist termlength="1"><title>German</title>
+<variablelist termlength="25"><title>German</title>
 
 <varlistentry><term>Ludwig Wittgenstein</term> <listitem><para><foreignphrase
 lang="art-lojban">ludvig.VITgynctain.</foreignphrase></para></listitem></varlistentry>
@@ -502,7 +500,7 @@ lang="art-lojban">klaras.cuman.</foreignphrase></para></listitem></varlistentry>
 </variablelist>
 
 
-<variablelist termlength="1"><title>Spanish</title>
+<variablelist termlength="25"><title>Spanish</title>
 
 <varlistentry><term>Isabel Allende</term> <listitem><para><foreignphrase
 lang="art-lojban">.izaBEL.aiendes.</foreignphrase></para></listitem></varlistentry>
@@ -694,7 +692,7 @@ something like <foreignphrase lang="art-lojban">kairdid.</foreignphrase>.)</para
 
 <listitem><para>Ankara: Turkey</para></listitem>
 
-<listitem><para>Prishtina: Kosovo</para></listitem>
+<listitem><para>Prishtina: Kosovo, Yugoslavia (as of this writing)</para></listitem>
 
 <listitem><para>Vancouver: Canada</para></listitem>
 
@@ -712,7 +710,7 @@ lang="art-lojban">dili'is.</foreignphrase>.)</para></listitem>
 
 <listitem><para>Nice: France</para></listitem>
 
-<listitem><para>Athens: Greece</para></listitem>
+<listitem><para>Athens: Greece (<foreignphrase lang="ell">Athina</foreignphrase> in Greek)</para></listitem>
 
 <listitem><para>Leeds: England</para></listitem>
 

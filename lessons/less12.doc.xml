@@ -36,8 +36,8 @@ asks whether the time is after the <emphasis>end</emphasis> of doing
 the homework, or not.</para>
 
 <para>The term in linguistics for situating the beginnings and ends of
-events is <wordasword>aspect</wordasword>. The term Lojban uses is
-<wordasword>event contours</wordasword>: events are perceived as shapes,
+events is <firstterm>aspect</firstterm>. The term Lojban uses is
+<firstterm>event contours</firstterm>: events are perceived as shapes,
 which have beginnings and ends. (This is why Lojban can use its aspects in
 space as well as time, although we won't be going into that here.) In many
 languages, aspect is as important as tense, or even more important. In
@@ -52,14 +52,14 @@ indication of aspect in your verbs. Yet English has ways of expressing aspect
 anyway. When we say <quote>I have spoken to the doctor</quote>, we are also 
 indicating that we have now finished doing so &mdash; we are after the end 
 of the event. When we say <quote>I am speaking to the doctor</quote>, on 
-the other hand, we are also indicating that we are in between the middle 
-and the end of the event: the event is continuing, and is not yet over.</para>
+the other hand, we are also indicating that we are in middle 
+of the event: the event is continuing, and is not yet over.</para>
 
 <note><para>Aspect is quite independent of tense: you can say that
 something will be over some time in the future (<quote>I will have spoken
 to the doctor [by then]</quote>), or that something was continuing in the
 past (<quote>I was speaking to the doctor</quote>), without giving any
-indication of what is happening in the here and now.</para></note>
+indication of what is happening in the here-and-now.</para></note>
 
 <para>Lojban uses <foreignphrase lang="art-lojban">cmavo</foreignphrase>
 belonging to <foreignphrase lang="art-lojban">selma'o</foreignphrase> ZAhO
@@ -70,7 +70,7 @@ three distinct words: <foreignphrase lang="art-lojban">pu'o, ca'o,
 ba'o</foreignphrase>. This is, of course, no coincidence:
 <emphasis>before</emphasis> (<foreignphrase
 lang="art-lojban">pu</foreignphrase>) an event begins, you use
-<foreignphrase lang="art-lojban">pu'o</foreignphrase>; after
+<foreignphrase lang="art-lojban">pu'o</foreignphrase>; <emphasis>after</emphasis>
 (<foreignphrase lang="art-lojban">ba</foreignphrase>) an event ends, you
 use <foreignphrase lang="art-lojban">ba'o</foreignphrase>. So you can come 
 up with sentences like these:
@@ -110,9 +110,9 @@ lang="art-lojban">prenu</foreignphrase> <quote
 role="gloss">person</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">troci</foreignphrase></term><listitem><para>x1
-tries/attempts/makes an effort to do/attain x2 (event/state/property) by
-actions/method x3</para></listitem></varlistentry>
+lang="art-lojban">troci</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+tries/attempts/makes an effort to do/attain x<subscript>2</subscript> (event/state/property) by
+actions/method x<subscript>3</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -210,7 +210,7 @@ politeness and social convention to work out what's going on. Instead, it
 has explicit words for managing turns in a conversation, which can optionally be followed 
 by the name of whoever you're bringing it to the attention of. Since all 
 these words address someone, they are called 
-<wordasword>vocatives</wordasword> (<foreignphrase
+<firstterm>vocatives</firstterm> (<foreignphrase
 lang="art-lojban">selma'o</foreignphrase> COI.)</para>
 
 <para>Natural languages don't distinguish as carefully between these 
@@ -263,7 +263,7 @@ with which you draw someone's attention, and <foreignphrase
 lang="art-lojban">fi'i</foreignphrase> <quote
 role="gloss">Welcome!</quote>, with which you offer hospitality. (It's what
 you say to a visitor; you wouldn't say it over the phone, for instance,
-unless they're calling from the airport and are on their way over.)</para></listitem>
+unless your addressee is calling from the airport and is on their way over.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">je'e</foreignphrase> corresponds to
 <quote role="gloss">Roger!</quote> in radio-speak, and <quote
@@ -330,7 +330,7 @@ lang="art-lojban">co'o mensi</foreignphrase>
 <quote>Goodbye, sister!</quote>); so they normally
 don't need terminators. If you use the vocative on its own, however, you
 will need a terminator, because the things likeliest to follow the vocative 
-in a sentence could easily be misconstrued as your addressee. The terminator for
+in a sentence could easily be misconstrued as describing your addressee. The terminator for
 vocatives is <foreignphrase lang="art-lojban">do'u</foreignphrase>.</para>
 
 <simplesect role="exercise"><title>Exercise 2</title>
@@ -392,7 +392,7 @@ it with a combination of <foreignphrase
 lang="art-lojban">gismu</foreignphrase>. (For example, how would you come
 up with a description for <wordasword>brie</wordasword>? Or
 <wordasword>rock 'n' roll</wordasword>? &mdash; which, I should point out,
-you would have to keep distinct from <wordasword>rock</wordasword>!)</para>
+you would have to keep distinct from the later musical genre of <wordasword>rock</wordasword>!)</para>
 
 <para>The problem with borrowing words into Lojban is, Lojban has a quite 
 thorough set-up for working out what the words are in a stream of letters. 
@@ -591,8 +591,8 @@ Annoyance</quote>, <emphasis>namely</emphasis> Zhang.</quote></para></note>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">xadba</foreignphrase></term><listitem><para>x1 is
-exactly/approximately half/semi-/demi-/hemi- of x2 by standard x3</para></listitem></varlistentry>
+lang="art-lojban">xadba</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+exactly/approximately half/semi-/demi-/hemi- of x<subscript>2</subscript> by standard x<subscript>3</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -657,25 +657,25 @@ lang="art-lojban">me, du, po'u, no'u</foreignphrase>)</para></listitem>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">banli</foreignphrase></term><listitem><para>x1 is
-great/grand in property x2 (ka) by standard x3</para></listitem></varlistentry>
+lang="art-lojban">banli</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+great/grand in property x<subscript>2</subscript> (ka) by standard x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">banxa</foreignphrase></term><listitem><para>x1 is
-a bank owned by/in banking system x2 for banking function(s) x3 (event)</para></listitem></varlistentry>
+lang="art-lojban">banxa</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a bank owned by/in banking system x<subscript>2</subscript> for banking function(s) x<subscript>3</subscript> (event)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cladu</foreignphrase></term><listitem><para>x1 is
-loud/noisy at observation point x2 by standard x3</para></listitem></varlistentry>
+lang="art-lojban">cladu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+loud/noisy at observation point x<subscript>2</subscript> by standard x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cradi</foreignphrase></term><listitem><para>x1
-broadcasts/transmits [using radio waves] x2 via station/frequency x3 to
-[radio] receiver x4</para></listitem></varlistentry>
+lang="art-lojban">cradi</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+broadcasts/transmits [using radio waves] x<subscript>2</subscript> via station/frequency x<subscript>3</subscript> to
+[radio] receiver x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">dukse</foreignphrase></term><listitem><para>x1 is
-an excess of/too much of x2 by standard x3</para></listitem></varlistentry>
+lang="art-lojban">dukse</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+an excess of/too much of x<subscript>2</subscript> by standard x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">ji'a</foreignphrase></term><listitem><para>additionally, 
@@ -694,34 +694,34 @@ lang="art-lojban">sumti tcita</foreignphrase>: exceeded by... (from
 role="gloss">more</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">sanga</foreignphrase></term><listitem><para>x1 sings/chants
-x2 [song/hymn/melody/melodic sounds] to audience x3</para></listitem></varlistentry>
+lang="art-lojban">sanga</foreignphrase></term><listitem><para>x<subscript>1</subscript> sings/chants
+x<subscript>2</subscript> [song/hymn/melody/melodic sounds] to audience x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">smagau</foreignphrase></term><listitem><para>x1
-acts so that x2 is quiet/silent/[still] at observation point x3 by standard 
-x4 (<foreignphrase
+lang="art-lojban">smagau</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+acts so that x<subscript>2</subscript> is quiet/silent/[still] at observation point x<subscript>3</subscript> by standard 
+x<subscript>4</subscript> (<foreignphrase
 lang="art-lojban">smaji</foreignphrase> <quote 
 role="gloss">quiet</quote> + <foreignphrase
 lang="art-lojban">gasnu</foreignphrase> <quote 
 role="gloss">do</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">ticygau</foreignphrase></term><listitem><para>x1 (person)
-acts so that x2 (event/experience)
-misleads/deceives/dupes/fools/cheats/tricks x3 into x4 (event/state)  (<foreignphrase
+lang="art-lojban">ticygau</foreignphrase></term><listitem><para>x<subscript>1</subscript> (person)
+acts so that x<subscript>2</subscript> (event/experience)
+misleads/deceives/dupes/fools/cheats/tricks x<subscript>3</subscript> into x<subscript>4</subscript> (event/state)  (<foreignphrase
 lang="art-lojban">tcica</foreignphrase> <quote 
 role="gloss">deceive</quote> + <foreignphrase
 lang="art-lojban">gasnu</foreignphrase> <quote 
 role="gloss">do</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">voksa</foreignphrase></term><listitem><para>x1 is
-a voice/speech sound of individual x2</para></listitem></varlistentry>
+lang="art-lojban">voksa</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a voice/speech sound of individual x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">zmadu</foreignphrase></term><listitem><para>x1 exceeds/is
-more than x2 in property/quantity x3 (ka/ni) by amount/excess x4
+lang="art-lojban">zmadu</foreignphrase></term><listitem><para>x<subscript>1</subscript> exceeds/is
+more than x<subscript>2</subscript> in property/quantity x<subscript>3</subscript> (ka/ni) by amount/excess x<subscript>4</subscript>
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -1010,9 +1010,8 @@ ways, to narrow it down. But the brand of a car is a class, so the second
 <listitem><para><foreignphrase
 lang="art-lojban">le vi blanu karce po'u le pritu be le mi karce cu me 
 la ford. karce</foreignphrase> (Since you're narrowing down what the car is, you 
-need a restrictive rather than a non-restrictive clause.)</para></listitem>
-
-</orderedlist>This use of <foreignphrase lang="art-lojban">me</foreignphrase> is pretty
+need a restrictive rather than a non-restrictive clause.)<note>
+<para>This use of <foreignphrase lang="art-lojban">me</foreignphrase> is pretty
 standard to get a <foreignphrase lang="art-lojban">cmene</foreignphrase>
 into a <foreignphrase lang="art-lojban">tanru</foreignphrase>. There are 
 often times when you will want to use a name to describe a class of 
@@ -1026,8 +1025,13 @@ lang="art-lojban">cmene</foreignphrase> converted with <foreignphrase
 lang="art-lojban">me</foreignphrase> to <foreignphrase
 lang="art-lojban">selbri</foreignphrase>: Type 1 involves the undigested
 <foreignphrase lang="art-lojban">cmene</foreignphrase>, with <foreignphrase
-lang="art-lojban">la'o</foreignphrase>, while Type 2 Lojbanises it, using
-<foreignphrase lang="art-lojban">la</foreignphrase>.</para></listitem>
+lang="art-lojban">la'o</foreignphrase> (e.g. <foreignphrase
+lang="art-lojban">me la'o gy.</foreignphrase> <foreignphrase lang="eng">curry</foreignphrase> <foreignphrase
+lang="art-lojban">gy.</foreignphrase>), while Type 2 Lojbanises it, using
+<foreignphrase lang="art-lojban">la</foreignphrase> (e.g. <foreignphrase
+lang="art-lojban">me la karis.</foreignphrase>).</para></note></para></listitem>
+
+</orderedlist></para></listitem>
 
 </orderedlist>
 
@@ -1070,7 +1074,7 @@ Ranjeet would be addressing himself: <quote>Thanks, Me!</quote>)</para></listite
 
 <listitem><para>Jyoti says <quote>Unfortunately, so can I.</quote></para></listitem>
 
-<listitem><para>Ranjeet says <quote>Don't repeat yourself, Jyoti. I like 
+<listitem><para>Ranjeet says <quote>Don't repeat, Jyoti. I like 
 Eurythmics songs, but my own voice more. (or: I like my own voice more 
 than Eurythmics songs.)</quote> 
 (Ranjeet, too clever a Lojbanist for his own good, is playing around with 
@@ -1148,7 +1152,7 @@ right, O eyes of Ranjeet's.</quote>)</para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">.i vu le ninmu la jang. cladu cusku lu .i coi pendo li'u la ranjit.</foreignphrase>
 (A pure greeting, of course; Zhang is not actually asking Ranjeet how he is 
-doing anything. He might want to know <emphasis>what</emphasis> he doing 
+doing anything. He might want to know <emphasis>what</emphasis> he is doing 
 there; but that's the next chapter of the saga...)</para></listitem>
 
 </orderedlist></para>

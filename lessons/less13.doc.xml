@@ -48,10 +48,8 @@ lang="art-lojban">sumti</foreignphrase>; if it follows a connective, it
 applies to the connective and whatever following term is is connecting; and 
 so on.</para>
 
-<para>Attitudinals belong to the <foreignphrase
-lang="art-lojban">selma'o</foreignphrase> (<foreignphrase
-lang="art-lojban">se cmavo</foreignphrase>, <foreignphrase
-lang="art-lojban">cmavo</foreignphrase> class) UI. This means that their 
+<para>Attitudinals belong to <foreignphrase
+lang="art-lojban">selma'o</foreignphrase> UI. This means that their 
 grammar is as simple as can be: they can turn up after just about any word 
 of Lojban, without disrupting anything going on grammatically. For that 
 reason, they don't need terminators: there's no danger of them swallowing 
@@ -101,7 +99,7 @@ lang="art-lojban">selma'o</foreignphrase>, NAI.)</para>
 
 <para>There are 39 attitudinals fitting the pattern VV (two vowels,
 possibly with an apostrophe between them; these are a subclass of
-<foreignphrase lang="art-lojban">selma'o</foreignphrase>, called UI1.) Each
+<foreignphrase lang="art-lojban">selma'o</foreignphrase> UI, called UI1.) Each
 of these corresponds to a different emotional state. With the addition of
 the seven-way scale we've just described, that makes 273 attitudinals you
 can use, plunking them pretty much wherever you want in your sentence.
@@ -138,29 +136,29 @@ lang="art-lojban">cu'i</foreignphrase> after them, and what they mean with
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.o'o</foreignphrase></term><listitem><para>attitudinal:
-patience &mdash; mere tolerance &mdash;
+patience &ndash; mere tolerance &ndash;
 anger</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.o'u</foreignphrase></term><listitem><para>attitudinal:
-relaxation &mdash; composure &mdash;
+relaxation &ndash; composure &ndash;
 stress</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.e'u</foreignphrase></term><listitem><para>attitudinal:
-request &mdash; negative request</para></listitem></varlistentry>
+suggestion &ndash; abandon suggest &ndash; warning</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.i'e</foreignphrase></term><listitem><para>attitudinal:
-approval &mdash; non-approval</para></listitem></varlistentry>
+approval &ndash; non-approval</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.uu</foreignphrase></term><listitem><para>attitudinal:
-pity &mdash; cruelty</para></listitem></varlistentry>
+pity &ndash; cruelty</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.u'u</foreignphrase></term><listitem><para>attitudinal:
-repentance &mdash; lack of regret &mdash;
+repentance &ndash; lack of regret &ndash;
 innocence</para></listitem></varlistentry>
 
 </variablelist>
@@ -172,39 +170,39 @@ innocence</para></listitem></varlistentry>
 <para>Match one of the following attitudinals to each of the following 
 situations.
 
-<itemizedlist>
+<simplelist type="horiz">
 
-<listitem><para><foreignphrase
-lang="art-lojban">.a'unairu'e</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.a'unairu'e</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.e'uru'e</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.e'uru'e</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.e'ucai</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.e'ucai</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.i'enai</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.i'enai</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.i'eru'e</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.i'eru'e</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.i'esai</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.i'esai</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.o'onai</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.o'onai</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.o'u</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.o'u</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.u'u</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.u'u</foreignphrase></member>
 
-<listitem><para><foreignphrase
-lang="art-lojban">.uu</foreignphrase></para></listitem>
+<member><foreignphrase
+lang="art-lojban">.uu</foreignphrase></member>
 
-</itemizedlist><orderedlist>
+</simplelist><orderedlist>
 
 <listitem><para>You see someone stub their toe.</para></listitem>
 
@@ -222,7 +220,7 @@ Contrapositives</citetitle>, has just won a match. You watch football maybe
 twice a year.</para></listitem>
 
 <listitem><para>You have just been slapped in the face, and you are neither 
-the Buddha nor Christ, or into S&amp;M, for that matter.</para></listitem>
+the Buddha nor Christ &mdash; or into S&amp;M, for that matter.</para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -347,22 +345,22 @@ Some to watch out for, though, include:
 <variablelist>
 
 <varlistentry><term><foreignphrase lang="art-lojban">ba'u</foreignphrase>
-</term><listitem><para>exaggeration &mdash; accuracy &mdash; understatement</para></listitem></varlistentry>
+</term><listitem><para>exaggeration &ndash; accuracy &ndash; understatement</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">sa'e</foreignphrase>
-</term><listitem><para>precisely speaking &mdash; loosely speaking</para></listitem></varlistentry>
+</term><listitem><para>precisely speaking &ndash; loosely speaking</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">ju'o</foreignphrase>
-</term><listitem><para>certainly &mdash; uncertain &mdash; certainly not</para></listitem></varlistentry>
+</term><listitem><para>certainly &ndash; uncertain &ndash; certainly not</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">la'a</foreignphrase>
-</term><listitem><para>probably &mdash; improbably</para></listitem></varlistentry>
+</term><listitem><para>probably &ndash; improbably</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">ta'o</foreignphrase>
-</term><listitem><para>by the way &mdash; returning to the subject</para></listitem></varlistentry>
+</term><listitem><para>by the way &ndash; returning to the subject</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">zu'u</foreignphrase>
-</term><listitem><para>on the one hand &mdash; on the other hand</para></listitem></varlistentry>
+</term><listitem><para>on the one hand &ndash; on the other hand</para></listitem></varlistentry>
 
 </variablelist></para>
 
@@ -643,61 +641,64 @@ lang="art-lojban">to, toi</foreignphrase>)</para></listitem>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">crida</foreignphrase></term><listitem><para>x1 is a
+lang="art-lojban">crida</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
 fairy/elf/gnome/brownie/pixie/goblin/kobold [mythical humanoid] of
-mythos/religion x2</para></listitem></varlistentry>
+mythos/religion x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">dansu</foreignphrase></term><listitem><para>x1 (individual,
-mass) dances to accompaniment/music/rhythm x2</para></listitem></varlistentry>
+lang="art-lojban">dansu</foreignphrase></term><listitem><para>x<subscript>1</subscript> (individual,
+mass) dances to accompaniment/music/rhythm x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">dasni</foreignphrase></term><listitem><para>x1 wears/is
-robed/garbed in x2 as a garment of type x3</para></listitem></varlistentry>
+lang="art-lojban">dasni</foreignphrase></term><listitem><para>x<subscript>1</subscript> wears/is
+robed/garbed in x<subscript>2</subscript> as a garment of type x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">drata</foreignphrase></term><listitem><para>x1 isn't
-the-same-thing-as/is different-from/other-than x2 by standard x3; x1 is
+lang="art-lojban">drata</foreignphrase></term><listitem><para>x<subscript>1</subscript> isn't
+the-same-thing-as/is different-from/other-than x<subscript>2</subscript> by standard x<subscript>3</subscript>; x<subscript>1</subscript> is
 something else</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.e'e</foreignphrase></term><listitem><para>attitudinal:
-competence &mdash; incompetence/inability</para></listitem></varlistentry>
+competence &ndash; incompetence/inability</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.ia</foreignphrase></term><listitem><para>attitudinal:
-belief &mdash; skepticism &mdash; disbelief</para></listitem></varlistentry>
+belief &ndash; skepticism &ndash; disbelief</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">krixa</foreignphrase></term><listitem><para>x1 cries
-out/yells/howls sound x2; x1 is a crier</para></listitem></varlistentry>
+lang="art-lojban">krixa</foreignphrase></term><listitem><para>x<subscript>1</subscript> cries
+out/yells/howls sound x<subscript>2</subscript>; x<subscript>1</subscript> is a crier</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">lanli</foreignphrase></term><listitem><para>x1
-analyzes/examines-in-detail x2 by method/technique/system x3
+lang="art-lojban">lanli</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+analyzes/examines-in-detail x<subscript>2</subscript> by method/technique/system x<subscript>3</subscript>
 [process/activity]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">milxe</foreignphrase></term><listitem><para>x1 is
-mild/non-extreme/gentle/middling/somewhat in property x2 (ka); x1 is not
-very x2</para></listitem></varlistentry>
+lang="art-lojban">milxe</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+mild/non-extreme/gentle/middling/somewhat in property x<subscript>2</subscript> (ka); x<subscript>1</subscript> is not
+very x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">sesi'u</foreignphrase></term><listitem><para><foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase>: assisting... (<foreignphrase
 lang="art-lojban">sidju</foreignphrase> <quote role="quote">help</quote>)</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase
-lang="art-lojban">sisku</foreignphrase></term><listitem><para>x1 seeks/searches/looks
-for property x2 among set x3 (complete specification of set)</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">pensi</foreignphrase></term><listitem><para>1 thinks/considers/cogitates/reasons/is pensive about/reflects upon
+subject/concept x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">slabu</foreignphrase></term><listitem><para>x1 is
-old/familiar/well-known to observer x2 in feature x3 (ka) by standard
-x4</para></listitem></varlistentry>
+lang="art-lojban">sisku</foreignphrase></term><listitem><para>x<subscript>1</subscript> seeks/searches/looks
+for property x<subscript>2</subscript> among set x<subscript>3</subscript> (complete specification of set)</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase lang="art-lojban">terdi bartu pensi</foreignphrase></term><listitem><para>Extra-Terrestial
-Intelligence (<quote role="gloss">earth outside thinker</quote>)</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase
+lang="art-lojban">slabu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+old/familiar/well-known to observer x<subscript>2</subscript> in feature x<subscript>3</subscript> (ka) by standard
+x<subscript>4</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">terdi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is the Earth/the home planet of race x<subscript>2</subscript>; (adjective:) x<subscript>1</subscript> is
+terrestrial/earthbound</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">xalfekfri</foreignphrase></term><listitem><para>inebriated, 
@@ -710,7 +711,7 @@ lang="art-lojban">lifri</foreignphrase> <quote
 role="gloss">experience</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">zirpu</foreignphrase></term><listitem><para>x1 is
+lang="art-lojban">zirpu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
 purple/violet [color adjective]</para></listitem></varlistentry>
 
 </variablelist>
@@ -784,16 +785,16 @@ nothing :-)</quote> (<wordasword>Nothing</wordasword> in Lojban is
 <quote role="gloss">zero somethings</quote>.)</para></listitem>
 
 <listitem><para>Jyoti: <quote>Not only geeky, but insane.</quote> (Make up
-a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>, based on
+a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase> for <quote role="gloss">geeky</quote>, based on
 <foreignphrase lang="art-lojban">kulnu</foreignphrase> <quote
-role="gloss">x1 [mass of ideas, customs, skills, arts] is culture of
-nation/ethos x2 (mass); x1 is ethnic</quote>. Assume (for now!) the place 
-structure <quote>x1 is geeky</quote>.)</para></listitem>
+role="gloss">x<subscript>1</subscript> [mass of ideas, customs, skills, arts] is culture of
+nation/ethos x<subscript>2</subscript> (mass); x<subscript>1</subscript> is ethnic</quote>. Assume (for now!) the place 
+structure <quote>x<subscript>1</subscript> is geeky</quote>.)</para></listitem>
 
 <listitem><para>Ranjeet is very amused, and says <quote>Probably!</quote></para></listitem>
 
-<listitem><para>(Far away, an extraterrestial intelligence sets off for 
-Earth.)</para></listitem>
+<listitem><para>(Far away, an extraterrestrial intelligence sets off for 
+Earth.) (You'll need a three-part <foreignphrase lang="art-lojban">tanru</foreignphrase> for this.)</para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -940,7 +941,7 @@ mind telling me what you're doing here?</quote></para></listitem>
 accompanying, am <emphasis>happy</emphasis>, friend... I mean, for you
 accompanying two beautiful people (to put it precisely)</quote> (We can get
 away with this sentence no verb in Lojban. Zhang has the sense to fix his 
-Lojban grammar even in his elated state: he tried to say <quote>for you and 
+Lojban grammar even in his elated state. He has tried to say <quote>for you and 
 two beautiful people being together</quote>, but <foreignphrase 
 lang="art-lojban">kansa</foreignphrase> in Lojban corresponds to 
 <quote>you are together with two beautiful people</quote>: it is not 
@@ -980,7 +981,7 @@ emotional</quote> state.)</para></listitem>
 lang="art-lojban">sumti</foreignphrase>.)</para> 
 
 <note><para>When you search in Lojban, you search for something that fits
-some property, and so you name the <emphasis>property</emphasis> as x2.
+some property, and so you name the <emphasis>property</emphasis> as x<subscript>2</subscript>.
 That means that you don't say you're searching for good things, but for
 <emphasis>goodness</emphasis> &mdash; that is, you're searching by checking
 whether each thing you come across has goodness or not. This is sort of an

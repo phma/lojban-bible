@@ -5,11 +5,13 @@ English there are a host of words for this purpose: <wordasword>and, or,
 because, additionally, however, on the other hand</wordasword> ... the list
 seems endless, as foreign students of English know all too well. Lojban
 also has a wide variety of words like this, known as
-<emphasis>connectives</emphasis>, but it is more systematic about it.
+<firstterm>connectives</firstterm>, but it is more systematic about it.
 (Lojban also handles some of the functions of English conjunctions in other
 ways &mdash; as we saw, <wordasword>because</wordasword> and
 <wordasword>so</wordasword> are translated with <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase>, not connectives.) There are
+lang="art-lojban">sumti tcita</foreignphrase>, not connectives.)</para>
+
+<para>There are
 two types of connective: logical and non-logical. Logical connectives say
 something about whether and in what circumstances the two things connected
 are true; an example is <foreignphrase
@@ -170,7 +172,7 @@ role="gloss">under conditions...</quote>, <foreignphrase
 lang="art-lojban">seja'e</foreignphrase> <quote role="gloss">results from
 ... happening</quote>, <foreignphrase lang="art-lojban">fau</foreignphrase>
 <quote role="gloss">in the event of...</quote>, or <foreignphrase
-lang="art-lojban">ni'i</foreignphrase> <quote role="gloss">logically cause
+lang="art-lojban">ni'i</foreignphrase> <quote role="gloss">logically caused
 by...</quote> </para></tip>
 
 </sect1>
@@ -202,14 +204,14 @@ Secondly, <quote>I visited Ranjeet and Jyoti</quote> is slightly different
 from <quote>I visited Ranjeet AND I visited Jyoti.</quote> In this case,
 you probably want to say that you visited Ranjeet-and-Jyoti <emphasis>as a
 unit</emphasis> on one occasion, not that you visited Ranjeet and Jyoti on
-(potentially) different occasions. In this case you don't want <foreignphrase
+(potentially) different occasions (<quote>It is true that I visited Ranjit, and it is true that I visited Jyoti.</quote>) In this case you don't want <foreignphrase
 lang="art-lojban">.e</foreignphrase> (which is true but potentially misleading)
 but <foreignphrase lang="art-lojban">joi</foreignphrase>, which means <quote
 role="gloss">in a mass with</quote>. So what you have is
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">mi pu vitke la ranjit. joi la djiotis.</foreignphrase>
 I past visit Ranjeet in-a-mass-with Jyoti
-I visited Ranjeet and Jyoti.</literallayout>
+I visited Ranjeet and Jyoti (together).</literallayout>
 
 </informalexample>You've seen <foreignphrase lang="art-lojban">joi</foreignphrase> before, of
 course: in <link linkend="less5">Lesson 5</link>, where Marx and Engels
@@ -219,7 +221,7 @@ rather than individually (<foreignphrase lang="art-lojban">la marks. joi la
 the difference between <foreignphrase lang="art-lojban">le re
 gerku</foreignphrase> and <foreignphrase lang="art-lojban">lei re
 gerku</foreignphrase> which we looked at in <link linkend="less4">Lesson
-4</link>. Incidentally, it is not just Lojban which makes this distinction;
+4</link> &mdash; considering the two dogs as individuals, or as a mass. Incidentally, it is not just Lojban which makes this distinction;
 Turkish, for example, would use <foreignphrase lang="tur">ile</foreignphrase> (<quote 
 role="gloss">with</quote>) rather than
 <foreignphrase lang="tur">ve</foreignphrase> (<quote role="gloss">and</quote>) for
@@ -292,36 +294,36 @@ lang="art-lojban">.onai</foreignphrase></para></listitem></varlistentry>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cinynei</foreignphrase></term><listitem><para>x1 fancies x2
+lang="art-lojban">cinynei</foreignphrase></term><listitem><para>x<subscript>1</subscript> fancies x<subscript>2</subscript>
 (<foreignphrase lang="art-lojban">cinse</foreignphrase> <quote
 role="gloss">sex</quote> + <foreignphrase lang="art-lojban">nelci</foreignphrase> <quote
 role="gloss">like</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">finpe</foreignphrase></term><listitem><para>x1 is a fish of
-species x2 [metaphorical extension to sharks, non-fish aquatic
+lang="art-lojban">finpe</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a fish of
+species x<subscript>2</subscript> [metaphorical extension to sharks, non-fish aquatic
 vertebrates]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jisra</foreignphrase></term><listitem><para>x1 is made
+lang="art-lojban">jisra</foreignphrase></term><listitem><para>x<subscript>1</subscript> is made
 of/contains/is a quantity of juice/nectar from-source/of-type
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">narju</foreignphrase></term><listitem><para>x1 is orange [color
+lang="art-lojban">narju</foreignphrase></term><listitem><para>x<subscript>1</subscript> is orange [color
 adjective]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">nimre</foreignphrase></term><listitem><para>x1 is a quantity of
+lang="art-lojban">nimre</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a quantity of
 citrus [fruit/tree, etc.] of species/strain
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">patlu</foreignphrase></term><listitem><para>x1 is a potato [an
-edible tuber] of variety/cultivar x2</para></listitem></varlistentry>
+lang="art-lojban">patlu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a potato [an
+edible tuber] of variety/cultivar x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">pelxu</foreignphrase></term><listitem><para>x1 is yellow/golden
+lang="art-lojban">pelxu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is yellow/golden
 [color adjective]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -504,8 +506,8 @@ lang="art-lojban">loi jisra joi loi djacu</foreignphrase>. </para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kukte</foreignphrase></term><listitem><para>x1 is
-delicious/tasty/delightful to observer/sense x2 [person, or sensory
+lang="art-lojban">kukte</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+delicious/tasty/delightful to observer/sense x<subscript>2</subscript> [person, or sensory
 activity]</para></listitem></varlistentry>
 
 </variablelist>
@@ -718,17 +720,17 @@ lang="art-lojban">gi'i</foreignphrase>.</para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">spita</foreignphrase></term><listitem><para>x1 is a hospital
-treating patient(s) x2 for condition/injuries/disease/illness
-x3</para></listitem></varlistentry>
+lang="art-lojban">spita</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a hospital
+treating patient(s) x<subscript>2</subscript> for condition/injuries/disease/illness
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">stali</foreignphrase></term><listitem><para>x1 remains/stays
-at/abides/lasts with x2</para></listitem></varlistentry>
+lang="art-lojban">stali</foreignphrase></term><listitem><para>x<subscript>1</subscript> remains/stays
+at/abides/lasts with x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">tadni</foreignphrase></term><listitem><para>x1 studies/is
-a student of x2; x1 is a scholar; (adjective:) x1 is scholarly</para></listitem></varlistentry>
+lang="art-lojban">tadni</foreignphrase></term><listitem><para>x<subscript>1</subscript> studies/is
+a student of x<subscript>2</subscript>; x<subscript>1</subscript> is a scholar; (adjective:) x<subscript>1</subscript> is scholarly</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -793,27 +795,27 @@ lang="art-lojban">ji, je'i, gi'i</foreignphrase>)</para></listitem>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
-<variablelist>
+<variablelist termlength="12">
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">bakni</foreignphrase></term><listitem><para>x1 is
-a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x2</para></listitem></varlistentry>
+lang="art-lojban">bakni</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cidjrkebabi</foreignphrase></term><listitem><para>kebab 
+lang="art-lojban">cidjrkebabi</foreignphrase></term><listitem><para>x1 is a kebab 
 (Another one of those funny-shaped words...)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">djacu</foreignphrase></term><listitem><para>x1 is
-made of/contains/is a quantity/expanse of water; (adjective:) x1 is aqueous/[aquatic]</para></listitem></varlistentry>
+lang="art-lojban">djacu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+made of/contains/is a quantity/expanse of water; (adjective:) x<subscript>1</subscript> is aqueous/[aquatic]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">fange</foreignphrase></term><listitem><para>x1 is
-alien/foreign/[exotic]/unfamiliar to x2 in property x3 (ka)</para></listitem></varlistentry>
+lang="art-lojban">fange</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+alien/foreign/[exotic]/unfamiliar to x<subscript>2</subscript> in property x<subscript>3</subscript> (ka)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jipci</foreignphrase></term><listitem><para>x1 is
-a chicken/[hen/cock/rooster]/small fowl [a type of bird] of species/breed x2</para></listitem></varlistentry>
+lang="art-lojban">jipci</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a chicken/[hen/cock/rooster]/small fowl [a type of bird] of species/breed x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">ju'i</foreignphrase></term><listitem><para>Pay Attention! 
@@ -823,38 +825,38 @@ lang="art-lojban">coi</foreignphrase> (<foreignphrase
 lang="art-lojban">selma'o</foreignphrase> COI)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">lanme</foreignphrase></term><listitem><para>x1 is
-a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3</para></listitem></varlistentry>
+lang="art-lojban">lanme</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a sheep/[lamb/ewe/ram] of species/breed x<subscript>2</subscript> of flock x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kensa</foreignphrase></term><listitem><para> x1 is
-outer space near/associated with celestial body/region x2</para></listitem></varlistentry>
+lang="art-lojban">kensa</foreignphrase></term><listitem><para> x<subscript>1</subscript> is
+outer space near/associated with celestial body/region x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">nanba</foreignphrase></term><listitem><para>x1 is
-a quantity of/contains bread [leavened or unleavened] made from grains x2</para></listitem></varlistentry>
+lang="art-lojban">nanba</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a quantity of/contains bread [leavened or unleavened] made from grains x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">pencu</foreignphrase></term><listitem><para>x1 (agent)
-touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]</para></listitem></varlistentry>
+lang="art-lojban">pencu</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent)
+touches x<subscript>2</subscript> with x<subscript>3</subscript> [a locus on x<subscript>1</subscript> or an instrument] at x<subscript>4</subscript> [a locus on x<subscript>2</subscript>]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">sabji</foreignphrase></term><listitem><para>x1 (source)
-provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]</para></listitem></varlistentry>
+lang="art-lojban">sabji</foreignphrase></term><listitem><para>x<subscript>1</subscript> (source)
+provides/supplies/furnishes x<subscript>2</subscript> [supply/commodity] to x<subscript>3</subscript> [recipient]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">sluni</foreignphrase></term><listitem><para>x1 is
-a quantity of/contains onions/scallions of type/cultivar x2</para></listitem></varlistentry>
+lang="art-lojban">sluni</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+a quantity of/contains onions/scallions of type/cultivar x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">spaji</foreignphrase></term><listitem><para>x1 (event/action
+lang="art-lojban">spaji</foreignphrase></term><listitem><para>x<subscript>1</subscript> (event/action
 abstract) surprises/startles/is unexpected [and generally sudden] to
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">zdile</foreignphrase></term><listitem><para> x1 (abstract) is
-amusing/entertaining to x2 in property/aspect x3; x3 is what amuses x2
-about x1</para></listitem></varlistentry>
+lang="art-lojban">zdile</foreignphrase></term><listitem><para> x<subscript>1</subscript> (abstract) is
+amusing/entertaining to x<subscript>2</subscript> in property/aspect x<subscript>3</subscript>; x<subscript>3</subscript> is what amuses x<subscript>2</subscript>
+about x<subscript>1</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -968,8 +970,7 @@ lang="art-lojban">mi djica le birje .u le cidjrkari</foreignphrase>
 In particular, it involves IFF rather than IF, since to get from Boston to
 Atlanta, you would likely go via Washington. So you cannot go to Atlanta
 without going to Washington, and you've just said you won't go to
-Washington without going to Atlanta.)</para></listitem> 
-</orderedlist><tip><para>We did say that a Lojban <foreignphrase
+Washington without going to Atlanta.)</para><tip><para>We did say that a Lojban <foreignphrase
 lang="art-lojban">cmene</foreignphrase> cannot contain <foreignphrase
 lang="art-lojban">la</foreignphrase> (as we mentioned way back in <link
 linkend="less1">Lesson 1</link>); otherwise it would break up into two
@@ -988,7 +989,8 @@ lang="art-lojban">la .atlantas.</foreignphrase> is in fact OK, because, if
 it did fall apart, it would fall apart into <foreignphrase
 lang="art-lojban">la .at. la ntas.</foreignphrase> <quote role="gloss">At,
 Ntas</quote> &mdash; and you'd need those pauses for it to really fall apart 
-like that.</para></tip></para>
+like that.</para></tip></listitem> 
+</orderedlist></para>
 </simplesect>
 
 
@@ -1006,7 +1008,7 @@ lang="art-lojban">.aunai</foreignphrase>)
 <listitem><para><citetitle>Natraj</citetitle> is a bar and restaurant
 (i.e. a bistro, or a licensed restaurant.)</para></listitem>
 
-<listitem><para><wordasword>X</wordasword> is a response to the question,
+<listitem><para><wordasword>x</wordasword> is a response to the question,
 whether or not it is an answer to it.</para></listitem>
 
 <listitem><para>Zhang goes up to, meets, and talks to Susan.
@@ -1038,23 +1040,23 @@ what follows it gets negated.)</para></listitem>
 <para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.enai</foreignphrase> 
-(Does Ranjeet meet Susan at the bar or the hospital?)</para></listitem>
+(<quote>Does Ranjeet meet Susan at the bar or the hospital?</quote>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">nagi'e</foreignphrase> (Does Jyoti stay at the bar or go 
-to the restaurant?)</para></listitem>
+lang="art-lojban">nagi'e</foreignphrase> (<quote>Does Jyoti stay at the bar or go 
+to the restaurant?</quote>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">gi'e</foreignphrase>, because he does both. (Does Zhang 
-study chemistry or like German beer?)</para></listitem>
+lang="art-lojban">gi'e</foreignphrase>, because he does both. (<quote>Does Zhang 
+study chemistry or like German beer?</quote>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">na.e</foreignphrase> &mdash; in all likelihood. (Is Jyoti is 
-a friend of Lee Harvey Oswald's or of Ranjeet's?)</para></listitem>
+lang="art-lojban">na.e</foreignphrase> &mdash; in all likelihood. (<quote>Is Jyoti is 
+a friend of Lee Harvey Oswald's or of Ranjeet's?</quote>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">naju</foreignphrase>. Think about it... (Does Susan like 
-German or French beer?)</para></listitem>
+lang="art-lojban">naju</foreignphrase>. Think about it... (<quote>Does Susan like 
+German or French beer?</quote>)</para></listitem>
 </orderedlist></para>
 </simplesect>
 

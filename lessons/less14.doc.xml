@@ -5,7 +5,7 @@ connectives</title><titleabbrev>Why didn't I think of that before?</titleabbrev>
 several Lojban connectives described. This lesson rounds off discussion of 
 connectives, with three additional types. First, we consider forethought 
 connectives: these are used to identify the logical relation between two 
-elements in front of the first element, rather than in between the two. Then, 
+terms in front of the first term, rather than in between the two. Then, 
 we look at some more non-logical connectives &mdash; which may prove more 
 useful than you might have expected, especially in a <quote 
 role="socalled">logical</quote> language. Finally, we look at connectives 
@@ -74,7 +74,7 @@ version of <foreignphrase lang="art-lojban">mi .e do</foreignphrase> is
 <foreignphrase lang="art-lojban">sumti</foreignphrase> coming up are
 connected with AND, while <foreignphrase
 lang="art-lojban">gi</foreignphrase> indicates that what follows is the
-second <foreignphrase lang="art-lojban">sumti</foreignphrase> in an AND
+second <foreignphrase lang="art-lojban">sumti</foreignphrase> in the
 relation. (These forethought connectives belong to <foreignphrase 
 lang="art-lojban">selma'o</foreignphrase> GA.)</para>
 
@@ -147,10 +147,7 @@ lang="art-lojban">bridi</foreignphrase>, in a single sentence:
 
 <informalexample><para><foreignphrase lang="art-lojban">.i
 <emphasis>ge</emphasis> la flufis. ractu <emphasis>gi</emphasis> ro ractu
-na'e ze'u jmive <emphasis>.iseni'ibo</emphasis> la flufis. na ze'u jmive
-</foreignphrase></para></informalexample>
-
-</para></note>
+na'e ze'u jmive <emphasis>.iseni'ibo</emphasis> la flufis. na ze'u jmive</foreignphrase></para></informalexample></para></note>
 
 <para>There is also a forethought connective for <foreignphrase
 lang="art-lojban">tanru</foreignphrase>, corresponding to JA: these are the 
@@ -256,14 +253,14 @@ people.</quote></para>
 <para>But as we have seen in the exercises, some <foreignphrase
 lang="art-lojban">gismu</foreignphrase> need sets in order to work.
 <foreignphrase lang="art-lojban">simxu</foreignphrase>, for example, takes
-as its x1 a set. This is because the group of things or people in a mutual
+as its x<subscript>1</subscript> a set. This is because the group of things or people in a mutual
 relationship needs to be well-defined: you've got to be able to say with certainty whether
 someone is involved in the relationship or not. The point of sets is that
 you can categorically say <wordasword>x</wordasword> belongs to the set or doesn't. The
 membership of masses is left much more nebulous, so saying <quote>a bunch
 of people talk to each other</quote> doesn't make as definite a statement.
 The same goes for <foreignphrase lang="art-lojban">cuxna</foreignphrase>
-<quote role="gloss">choose</quote>: what you choose from in Lojban (x3) is
+<quote role="gloss">choose</quote>: what you choose from in Lojban (x<subscript>3</subscript>) is
 a set, because you normally have to be certain what belongs in the group 
 you're choosing from, and what doesn't.</para>
 
@@ -287,7 +284,7 @@ lang="art-lojban">.abu ce'o by. ce'o cy. ce'o dy. ce'o .ebu
 ...</foreignphrase> and so on. This is what <foreignphrase
 lang="art-lojban">liste</foreignphrase> <quote role="gloss">list</quote>
 and <foreignphrase lang="art-lojban">porsi</foreignphrase>
-<quote role="gloss">sequence</quote> expect as their x1 <foreignphrase
+<quote role="gloss">sequence</quote> expect as their x<subscript>1</subscript> <foreignphrase
 lang="art-lojban">sumti</foreignphrase>.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">fa'u</foreignphrase>
@@ -335,11 +332,10 @@ intervals.) For example, <quote>from 1 pm to 2 pm</quote> is an interval
 lasting an hour; but <quote>from 2 pm to 1 pm</quote> would normally be
 interpreted as a 23-hour interval (1 pm the following day), since times in
 English are assumed to be presented in order. Lojban follows suit with
-<foreignphrase lang="art-lojban">la pacaclec. bi'o la
-recaclec.</foreignphrase> If I said <foreignphrase lang="art-lojban">la
-recaclec. bi'i la pacaclec.</foreignphrase>, the order of the two times
+<foreignphrase lang="art-lojban">li pavo bi'o li paci
+pare</foreignphrase> is a 23-hour interval. If I said <foreignphrase lang="art-lojban">li pavo bi'i li paci</foreignphrase>, the order of the two times
 would not matter at all; so I could still be talking about a one-hour
-interval, rather than a 23-hour interval. </para></listitem>
+interval instead. </para></listitem>
 
 </itemizedlist></para>
 
@@ -459,7 +455,7 @@ lang="art-lojban">ke</foreignphrase> <quote role="socalled">open
 bracket</quote>:
 
 <informalexample><literallayout><foreignphrase 
-lang="art-lojban">.i mi pu zi te vecnu lo xlali <emphasis>ke</emphasis> zgike karni .i tolzau la'o gy. Eurythmics gy.</foreignphrase>
+lang="art-lojban">.i mi pu zi te vecnu lo xlali <emphasis>ke</emphasis> zgike karni .i to'e zanru la'o gy. Eurythmics gy.</foreignphrase>
 I just bought a bad {music magazine [}]. It dissed the Eurythmics.</literallayout></informalexample></para>
 
 <para>That's one way of grouping together <foreignphrase
@@ -490,7 +486,7 @@ lang="art-lojban">la djiotis. .e la suzyn. .onai<emphasis>bo</emphasis> la
 ranjit.</foreignphrase> For that matter, <foreignphrase
 lang="art-lojban">ke</foreignphrase> can also be used with connectives
 (though not with sentences; they have their own kind of bracket,
-<foreignphrase lang="art-lojban">tu'e&ndash;tu'u</foreignphrase>.) So I
+<foreignphrase lang="art-lojban">tu'e</foreignphrase>&ndash;<foreignphrase lang="art-lojban">tu'u</foreignphrase>.) So I
 could also say <foreignphrase lang="art-lojban">la djiotis. .e
 <emphasis>ke</emphasis> la suzyn. .onai la ranjit.
 <emphasis>ke'e</emphasis></foreignphrase> &mdash; where in most cases the
@@ -549,88 +545,88 @@ lang="art-lojban">cabna</foreignphrase> <quote role="gloss">now</quote> + <forei
 lang="art-lojban">djedi</foreignphrase> <quote role="gloss">day</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">certu</foreignphrase></term><listitem><para>x1 is an
-expert/pro/has prowess in/is skilled at x2 (event/activity) by standard
-x3</para></listitem></varlistentry>
+lang="art-lojban">certu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is an
+expert/pro/has prowess in/is skilled at x<subscript>2</subscript> (event/activity) by standard
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cfipu</foreignphrase></term><listitem><para>x1
-(event/state) confuses/baffles x2 [observer] due to [confusing] property x3
+lang="art-lojban">cfipu</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+(event/state) confuses/baffles x<subscript>2</subscript> [observer] due to [confusing] property x<subscript>3</subscript>
 (ka)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">ckafi</foreignphrase></term><listitem><para>x1 is made
+lang="art-lojban">ckafi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is made
 of/contains/is a quantity of coffee from source/bean/grain
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">ckule</foreignphrase></term><listitem><para>x1 is
-school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4
-operated by x5</para></listitem></varlistentry>
+lang="art-lojban">ckule</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+school/institute/academy at x<subscript>2</subscript> teaching subject(s) x<subscript>3</subscript> to audien./commun. x<subscript>4</subscript>
+operated by x<subscript>5</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">frumu</foreignphrase></term><listitem><para>x1
+lang="art-lojban">frumu</foreignphrase></term><listitem><para>x<subscript>1</subscript>
 frowns/grimaces (facial expression)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">glare</foreignphrase></term><listitem><para>x1 is
-hot/[warm] by standard x2</para></listitem></varlistentry>
+lang="art-lojban">glare</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+hot/[warm] by standard x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">gusni</foreignphrase></term><listitem><para>x1 [energy]
-is light/illumination illuminating x2 from light source
-x3</para></listitem></varlistentry>
+lang="art-lojban">gusni</foreignphrase></term><listitem><para>x<subscript>1</subscript> [energy]
+is light/illumination illuminating x<subscript>2</subscript> from light source
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jamfu</foreignphrase></term><listitem><para>x1 is a/the
-foot [body-part] of x2</para></listitem></varlistentry>
+lang="art-lojban">jamfu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a/the
+foot [body-part] of x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">ladru</foreignphrase></term><listitem><para>x1 is made
-of/contains/is a quantity of milk from source x2; (adjective:) x1 is
+lang="art-lojban">ladru</foreignphrase></term><listitem><para>x<subscript>1</subscript> is made
+of/contains/is a quantity of milk from source x<subscript>2</subscript>; (adjective:) x<subscript>1</subscript> is
 lactic/dairy</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">moi</foreignphrase></term><listitem><para>convert number
-to ordinal selbri; x1 is (n)th member of set x2 ordered by rule
-x3</para></listitem></varlistentry>
+to ordinal selbri; x<subscript>1</subscript> is (n)th member of set x<subscript>2</subscript> ordered by rule
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">ni</foreignphrase></term><listitem><para>abstractor:
 quantity/amount abstractor; <quote role="gloss">the amount that...</quote></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">skapi</foreignphrase></term><listitem><para>x1 is a
-pelt/skin/hide/leather from x2</para></listitem></varlistentry>
+lang="art-lojban">skapi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
+pelt/skin/hide/leather from x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">stedu</foreignphrase></term><listitem><para>x1 is a/the
-head [body-part] of x2</para></listitem></varlistentry>
+lang="art-lojban">stedu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a/the
+head [body-part] of x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">sodva</foreignphrase></term><listitem><para>x1 is made
+lang="art-lojban">sodva</foreignphrase></term><listitem><para>x<subscript>1</subscript> is made
 of/contains/is a quantity of a carbonated beverage/soda of flavor/brand
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">traji</foreignphrase></term><listitem><para>x1 is
-superlative in property x2 (ka), the x3 extreme (ka; default ka zmadu)
-among set/range x4</para></listitem></varlistentry>
+lang="art-lojban">traji</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+superlative in property x<subscript>2</subscript> (ka), the x<subscript>3</subscript> extreme (ka; default ka zmadu)
+among set/range x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">vimcu</foreignphrase></term><listitem><para>x1
-removes/subtracts/deducts/takes away x2 from x3 with/leaving
-result/remnant/remainder x4</para></listitem></varlistentry>
+lang="art-lojban">vimcu</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+removes/subtracts/deducts/takes away x<subscript>2</subscript> from x<subscript>3</subscript> with/leaving
+result/remnant/remainder x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">zbasu</foreignphrase></term><listitem><para>x1
-makes/assembles/builds/manufactures/creates x2 out of
-materials/parts/components x3</para></listitem></varlistentry>
+lang="art-lojban">zbasu</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+makes/assembles/builds/manufactures/creates x<subscript>2</subscript> out of
+materials/parts/components x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">zmadu</foreignphrase></term><listitem><para>x1 exceeds/is
-more than x2 in property/quantity x3 (ka/ni) by amount/excess
-x4</para></listitem></varlistentry>
+lang="art-lojban">zmadu</foreignphrase></term><listitem><para>x<subscript>1</subscript> exceeds/is
+more than x<subscript>2</subscript> in property/quantity x<subscript>3</subscript> (ka/ni) by amount/excess
+x<subscript>4</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -698,7 +694,7 @@ the first out of the songs which are danced to (= to dance to.)</para></listitem
 
 <listitem><para>Susan shouts "Yay!", and she and Ranjeet start dancing.</para></listitem>
 
-<listitem><para>Jyoti stares at Zhang, who is smiling and bulding a chicken 
+<listitem><para>Jyoti stares at Zhang, who is smiling and building a chicken 
 out of pretzels, and frowns. (Make a <foreignphrase
 lang="art-lojban">fu'ivla</foreignphrase> for 
 <wordasword>pretzel</wordasword> based on <foreignphrase
@@ -892,12 +888,12 @@ rather perceptive remark three days earlier. What we want is for the
 him laughing and him talking. To force this to happen, we use the bracket
 <foreignphrase lang="art-lojban">ke</foreignphrase>: <quote>Zhang {stares},
 <emphasis>and then</emphasis> {laughs and says <quote>No,
-silly...</quote>}</quote></para></note>
+silly...</quote>}</quote></para>
 
 <para>As you may have guessed, we would have avoided having to use brackets 
 in forethought mode: <foreignphrase
 lang="art-lojban">.i ge la jang. se cfipu catlu gibabo ge cmila gi cusku 
-lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para>
+lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></note>
 </listitem>
 
 </orderedlist></para></simplesect>
@@ -948,7 +944,7 @@ have meant <quote role="gloss">friend from an old school</quote> instead.)
 <listitem><para><foreignphrase lang="art-lojban">.icazibo la suzyn. tirna
 la'o gy. Superfreak gy. no'u le pamoi be le'i selsanga poi se
 dansu</foreignphrase> <emphasis>or</emphasis> <foreignphrase
-lang="art-lojban">.icazibo la suzyn. tirna la superFRIK. noi
+lang="art-lojban">.icazibo la suzyn. tirna la SUperfrik. noi
 pamoi le'i selsanga poi se dansu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ge la suzyn. krixa zo
@@ -969,7 +965,7 @@ role="gloss">facsimile of a chicken</quote> or <quote
 role="gloss">chicken-like thing</quote>. The final vowel of <foreignphrase
 lang="art-lojban">nanbrpretsele</foreignphrase>, by the way, is pretty much
 up to you &mdash; until there's a standard dictionary <foreignphrase
-lang="art-lojban">fu'ivla</foreignphrase>, at least.)</para></listitem>
+lang="art-lojban">fu'ivla</foreignphrase> for it, at least.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lo fange kensa bo xe
 klama ce'ogi mo'u klama gi ce'ogi te gisnu gi vimcu le vo pendo le

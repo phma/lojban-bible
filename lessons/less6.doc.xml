@@ -1,7 +1,7 @@
 <chapter id="less6"><title>Time and Space &mdash; basic Lojban <quote
 role="socalled">tenses</quote></title><titleabbrev>Time and Space</titleabbrev>
 
-<para>By this time, you may have been wondering what had happened to all
+<para>By this time, you may have been wondering what has happened to all
 the tenses. After all, a large part of learning a language is learning
 tenses, and figuring out which one you ought to be using. English, for
 example, has about a dozen tenses (depending on what you count as a tense)
@@ -14,7 +14,7 @@ addition, there are a load of words and phrases like
 </para> <para>Lojban deals with time quite differently. Like some other
 languages (e.g. Chinese), tense is not compulsory. All the <foreignphrase
 lang="art-lojban">bridi</foreignphrase> we've looked at so far have had no
-particular time attached to them, and this is perfectly acceptable, in
+particular time attached to them, and this is perfectly acceptable; in
 fact it is <emphasis>normal</emphasis>. Saying <foreignphrase lang="art-lojban">mi
 klama ti de'i la redjed.</foreignphrase> is good Lojban, even if out of
 context we don't know if it means I'm coming here next Monday, or I came
@@ -87,7 +87,7 @@ lang="art-lojban">bridi</foreignphrase> relative to the here-and-now, we
 can leave out the <foreignphrase lang="art-lojban">sumti</foreignphrase>,
 and just use the tense <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> on its own. So if we want to
-say that Susan came to the bar some time after right now, and not after Zhang's leaving, we can then say:
+say that Susan came to the bar some time after right now, and not after Zhang's leaving, we can say:
 
 
 <informalexample><para><foreignphrase lang="art-lojban">baku la suzyn. klama le
@@ -111,7 +111,7 @@ lang="art-lojban">ba</foreignphrase> starts a <foreignphrase
 lang="art-lojban">sumti</foreignphrase>, and <foreignphrase
 lang="art-lojban">ku</foreignphrase> ends the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> &mdash; but the <foreignphrase
-lang="art-lojban">sumti</foreignphrase> itself has been left out, as we 
+lang="art-lojban">sumti</foreignphrase> itself has been left out, like we 
 said. So
 <foreignphrase lang="art-lojban">ba ku</foreignphrase> means <foreignphrase
 lang="art-lojban">ba ... ku</foreignphrase>: <quote role="gloss">after
@@ -177,6 +177,7 @@ role="gloss">now</quote>:
 Now, Susan goes to the bar.</literallayout>
 </informalexample></para>
 
+<note><para>By the way, <foreignphrase lang="art-lojban">caku ma tcika</foreignphrase> would be a more usual way to say <quote>What time is it</quote>.</para></note>
 
 <para>We now have three <quote role="socalled">time words</quote>:
 <foreignphrase lang="art-lojban">pu</foreignphrase> (before), <foreignphrase
@@ -206,7 +207,7 @@ We could then say:
 <informalexample><para><foreignphrase lang="art-lojban">bazi lenu la jang. cliva kei la suzyn. klama le
 barja</foreignphrase></para>
 
-</informalexample>And if you're in the position of having to tell Susan that she's just 
+</informalexample>And if you're in the unfortunate position of having to tell Susan that she's just 
 missed Zhang, you would say:
 
 
@@ -216,13 +217,13 @@ missed Zhang, you would say:
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">badri</foreignphrase></term><listitem><para>x1 is
-sad/depressed/dejected/[unhappy/feels sorrow/grief] about x2
+lang="art-lojban">badri</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+sad/depressed/dejected/[unhappy/feels sorrow/grief] about x<subscript>2</subscript>
 (abstraction)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">gleki</foreignphrase></term><listitem><para>x1 is
-happy/gay/merry/glad/gleeful about x2
+lang="art-lojban">gleki</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+happy/gay/merry/glad/gleeful about x<subscript>2</subscript>
 (event/state)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -232,12 +233,12 @@ an attitudinal, just like <foreignphrase lang="art-lojban">.uu</foreignphrase> a
 lang="art-lojban">.ei</foreignphrase>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kumfa</foreignphrase></term><listitem><para>x1 is a room of/in
-structure x2 surrounded by partitions/walls/ceiling/floor x3
+lang="art-lojban">kumfa</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a room of/in
+structure x<subscript>2</subscript> surrounded by partitions/walls/ceiling/floor x<subscript>3</subscript>
 (mass/jo'u)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">tcidu</foreignphrase></term><listitem><para>x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader</para></listitem></varlistentry>
+lang="art-lojban">tcidu</foreignphrase></term><listitem><para>x<subscript>1</subscript> [agent] reads x<subscript>2</subscript> [text] from surface/document/reading material x<subscript>3</subscript>; x<subscript>1</subscript> is a reader</para></listitem></varlistentry>
 
 
 </variablelist>
@@ -311,7 +312,7 @@ barja</foreignphrase></para>
 <informalexample><para><foreignphrase lang="art-lojban">puku la jang. cliva le
 barja</foreignphrase></para>
 
-</informalexample>both mean <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left
+</informalexample>both mean <quote>Zhang before the here-and-now leaves the bar,</quote> or <quote>Zhang left
 the bar.</quote> We can do the same thing with <foreignphrase
 lang="art-lojban">zi/za/zu</foreignphrase>, so <foreignphrase
 lang="art-lojban">la jang. puza cliva le barja</foreignphrase>, just like
@@ -367,7 +368,7 @@ NATO aircraft will attack Belgrade for a long time.</literallayout></para>
 </itemizedlist></para> 
 
 <para>Note that this does not mean that NATO is not attacking Belgrade now
-(it is at the time I'm writing this). In Lojban, if we say that something
+(it is at the time I [Robin] am writing this). In Lojban, if we say that something
 is true at a particular time, it <emphasis>doesn't</emphasis> mean that it
 is <emphasis>not</emphasis> true at any other time. There are ways to say
 that NATO will <emphasis>continue</emphasis> to attack, but that comes
@@ -425,7 +426,7 @@ Here, I work.</literallayout>
 <foreignphrase lang="art-lojban">vi ku</foreignphrase> means <quote
 role="gloss">in the immediate vicinity of the here-and-now</quote>, i.e. 
 <quote role="gloss">here</quote>. If we don't want to make the location 
-relative to the speaker, but relative to something else, we can fill the 
+relative to the speaker, but relative to something else, we can fill in the 
 empty <foreignphrase lang="art-lojban">sumti</foreignphrase> value in, in
 the same way, to say what an event is in the immediate vicinity of; e.g.
 
@@ -442,14 +443,13 @@ A medium distance from where Kennedy was killed, I work</literallayout>
 </informalexample></para>
 
 <note><para>If <foreignphrase lang="art-lojban">kei</foreignphrase> in the 
-last sentence wasn't there, <foreignphrase lang="art-lojban">catra</foreignphrase> would run
-into <foreignphrase lang="art-lojban">mi</foreignphrase>, so the listener might
+last sentence wasn't there, <foreignphrase lang="art-lojban">mi</foreignphrase> would be a <foreignphrase lang="art-lojban">sumti</foreignphrase> of <foreignphrase lang="art-lojban">catra</foreignphrase> rather than <foreignphrase lang="art-lojban">gunka</foreignphrase>, so the listener might
 start interpreting the sentence as <quote>A medium distance from where
 Kennedy was killed by me ...</quote>
 </para></note>
 
 <para>If we want to emphasise that something is at exactly the same 
-location with something else (a circumstance which holds true not as often as 
+location with something else (something which holds true not as often as 
 you might think), you would use <foreignphrase 
 lang="art-lojban">bu'u</foreignphrase> <quote role="gloss">coinciding 
 with</quote>:
@@ -472,33 +472,31 @@ mind (warning: unproven Lojban propaganda!).
 </para> 
 
 <para>If we combine place <foreignphrase lang="art-lojban">vi</foreignphrase> etc.
-with <foreignphrase lang="art-lojban">fa'a</foreignphrase>, they become more
-productive. <foreignphrase lang="art-lojban">fa'a</foreignphrase> is a place
+with words like <foreignphrase lang="art-lojban">ri'u</foreignphrase>, they become more
+productive. <foreignphrase lang="art-lojban">ri'u</foreignphrase> is a place
 <foreignphrase lang="art-lojban">cmavo</foreignphrase> meaning <quote
-role="gloss">(pointing) towards</quote>, so <foreignphrase
-lang="art-lojban">fa'avi</foreignphrase> is <quote role="gloss">here</quote> as
-direction, as in <quote>come here</quote> (and archaic English 
-<wordasword>hither</wordasword>.) For example:
+role="gloss">to the right of</quote>, so <foreignphrase
+lang="art-lojban">ri'u vi ku</foreignphrase> is <quote role="gloss">in the immediate vicinity of <emphasis>the right of</emphasis> the here-and-now</quote>. What you're doing is, you're still saying where something is happening relative to you, but now you are saying in what direction to look for it. For example:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">la bil. fa'avi catlu</foreignphrase>
-Bill towards-this-place looks
-Bill looks here.</literallayout>
-</informalexample></para>
+<literallayout><foreignphrase lang="art-lojban">la bil. sanli ri'u vi ku
+la bil. ri'u vi sanli</foreignphrase>
+Bill stands just to the right.</literallayout>
+</informalexample>And just like <foreignphrase lang="art-lojban">vi</foreignphrase> and <foreignphrase lang="art-lojban">bu'u</foreignphrase>, you can use these <foreignphrase lang="art-lojban">cmavo</foreignphrase> with an explicit <foreignphrase lang="art-lojban">sumti</foreignphrase>, to say where things are happening relative to something else:
 
-<para>Note that the more natural translation is ambiguous, since it could
-also translate <foreignphrase lang="art-lojban">la bil. vi catlu</foreignphrase>,
-meaning that this is where Bill is while looking, not where he looks
-<emphasis>towards</emphasis>. This may pass unnoticed by native English
-speakers, but speakers of languages which are more precise about direction
-find it extremely vague (Turkish, for example, has at least three words to
-translate <quote role="gloss">here</quote>). There is a whole class of
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">la bil. sanli ri'u vi la meiris.</foreignphrase>
+Bill stands just to the right of Mary.</literallayout>
+</informalexample>
+</para>
+
+<para>There is a whole class of
 <foreignphrase lang="art-lojban">cmavo</foreignphrase> that work like
-<foreignphrase lang="art-lojban">fa'a</foreignphrase>, and they are called FAhA
-type <foreignphrase lang="art-lojban">cmavo</foreignphrase>, unsurprisingly. These
+<foreignphrase lang="art-lojban">ri'u</foreignphrase>, and they are called FAhA
+type <foreignphrase lang="art-lojban">cmavo</foreignphrase>, after a (somewhat non-representative) member of their class, <foreignphrase lang="art-lojban">fa'a</foreignphrase> (in the direction of). These
 include <foreignphrase lang="art-lojban">to'o</foreignphrase> (away from),
 <foreignphrase lang="art-lojban">zu'a</foreignphrase> (to the left of),
-<foreignphrase lang="art-lojban">ri'u</foreignphrase> (to the right of),
+<foreignphrase lang="art-lojban">ne'a</foreignphrase> (next to),
 <foreignphrase lang="art-lojban">ne'i</foreignphrase> (within) and so on. (Again,
 all the space <foreignphrase lang="art-lojban">cmavo</foreignphrase> are explained
 in Chapter 10 of <citetitle>The Complete Lojban Language</citetitle>).
@@ -539,18 +537,18 @@ what?</quote>, or <quote role="gloss">where?</quote>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cadzu</foreignphrase></term><listitem><para>x1
-walks/strides/paces on surface x2 using limbs
-x3</para></listitem></varlistentry>
+lang="art-lojban">cadzu</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+walks/strides/paces on surface x<subscript>2</subscript> using limbs
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">xabju</foreignphrase></term><listitem><para>x1
+lang="art-lojban">xabju</foreignphrase></term><listitem><para>x<subscript>1</subscript>
 dwells/lives/resides/abides at/inhabits/is a resident of
-location/habitat/nest/home/abode x2</para></listitem></varlistentry>
+location/habitat/nest/home/abode x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">zutse</foreignphrase></term><listitem><para>x1 sits [assumes
-sitting position] on surface x2</para></listitem></varlistentry>
+lang="art-lojban">zutse</foreignphrase></term><listitem><para>x<subscript>1</subscript> sits [assumes
+sitting position] on surface x<subscript>2</subscript></para></listitem></varlistentry>
 
 
 </variablelist>
@@ -573,13 +571,13 @@ sitting position] on surface x2</para></listitem></varlistentry>
 <listitem><para><foreignphrase lang="art-lojban">la bil. puzavi zutse</foreignphrase></para></listitem>
 
 
-<listitem><para><foreignphrase lang="art-lojban">le cipni puzifa'ava vofli</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le cipni puzine'ava vofli</foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">la tcarlz.daruin. puva xabju</foreignphrase></para></listitem>
 
 
-<listitem><para><foreignphrase lang="art-lojban">mi bafa'avu tavla</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi ba tavla ne'i le barja</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -601,7 +599,7 @@ dogs.</quote></para>
 <para><foreignphrase lang="art-lojban">na</foreignphrase> says not only that the
 <foreignphrase lang="art-lojban">sumti</foreignphrase> aren't connected by that
 particular <foreignphrase lang="art-lojban">selbri</foreignphrase>, but that they
-aren't necessarily connected by any selbri at all. So <foreignphrase
+aren't necessarily connected by any <foreignphrase lang="art-lojban">selbri</foreignphrase> at all. So <foreignphrase
 lang="art-lojban">mi na tavla la suzyn.</foreignphrase> is just as valid a thing
 to say if Susan is a rock formation in the Pamir Mountains, as it is if she
 is a human being I know. Often, however, we need our negation to be a
@@ -627,7 +625,7 @@ company. But like them, I don't.</para>
 <para>If you do want to say you feel the opposite of <quote
 role="gloss">like</quote> for all dogs, you can say <foreignphrase
 lang="art-lojban">mi to'e nelci ro gerku</foreignphrase>. <foreignphrase
-lang="art-lojban">to'e</foreignphrase> turns a selbri into its opposite:
+lang="art-lojban">to'e</foreignphrase> turns a <foreignphrase lang="art-lojban">selbri</foreignphrase> into its opposite:
 <foreignphrase lang="art-lojban">to'e nelci</foreignphrase> is pretty much 
 the same thing as <foreignphrase lang="art-lojban">xebni</foreignphrase> <quote
 role="gloss">hate</quote>. And if you're indifferent, you can say
@@ -732,32 +730,32 @@ don't use it!</emphasis> Lojban grammar is your servant, not your master.
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">bevri</foreignphrase></term><listitem><para>x1
-carries/hauls/bears/transports cargo x2 to x3 from x4 over path x5; x1 is a
+lang="art-lojban">bevri</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+carries/hauls/bears/transports cargo x<subscript>2</subscript> to x<subscript>3</subscript> from x<subscript>4</subscript> over path x<subscript>5</subscript>; x<subscript>1</subscript> is a
 carrier/[porter]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">culno</foreignphrase></term><listitem><para>x1 is
-full/completely filled with x2</para></listitem></varlistentry>
+lang="art-lojban">culno</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+full/completely filled with x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kunti</foreignphrase></term><listitem><para>x1 [container] is
-empty/vacant of x2 [material]; x1 is
+lang="art-lojban">kunti</foreignphrase></term><listitem><para>x<subscript>1</subscript> [container] is
+empty/vacant of x<subscript>2</subscript> [material]; x<subscript>1</subscript> is
 hollow</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">lebna</foreignphrase></term><listitem><para>x1
-takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from x3
+lang="art-lojban">lebna</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+takes/gets/gains/obtains/seizes/[removes] x<subscript>2</subscript> (object/property) from x<subscript>3</subscript>
 (possessor) </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">pendo</foreignphrase></term><listitem><para>x1 is/acts as a
-friend of/to x2 (experiencer); x2 befriends
-x1</para></listitem></varlistentry>
+lang="art-lojban">pendo</foreignphrase></term><listitem><para>x<subscript>1</subscript> is/acts as a
+friend of/to x<subscript>2</subscript> (experiencer); x<subscript>2</subscript> befriends
+x<subscript>1</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase 
-lang="art-lojban">vanju</foreignphrase></term><listitem><para>x1 is made of/contains/is a 
-quantity of wine from fruit/grapes x2</para></listitem></varlistentry>
+lang="art-lojban">vanju</foreignphrase></term><listitem><para>x<subscript>1</subscript> is made of/contains/is a 
+quantity of wine from fruit/grapes x<subscript>2</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -766,14 +764,14 @@ quantity of wine from fruit/grapes x2</para></listitem></varlistentry>
 <simplesect role="exercise"><title>Exercise 4</title>
 
 <para>Translation exercises are not your master, either, but they are your business! Translate from 
-Lojban:
+Lojban; assume the story is happening in the here-and-now:
 
 
 <orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i baza lenu la jang. cliva kei la
-suzyn. cadzu fa'a ne'i vi le barja </foreignphrase></para></listitem>
+suzyn. sanli ne'i vi le barja </foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i caziku la suzyn. denpa lenu baziku
@@ -880,8 +878,8 @@ of you at what?</quote>)</para></listitem>
 <listitem><para>Bill was sitting here a while ago.</para></listitem>
 
 
-<listitem><para>The bird just flew away.  (Literally <quote>the bird flew a short time ago 
-moving towards a medium distance from here.</quote>)</para></listitem>
+<listitem><para>The bird was just flying some distance by me. (Literally <quote>the bird flew a short time ago 
+located next to here at a medium distance.</quote> This is <emphasis>not</emphasis> saying anything about the direction in which the bird was flying: FAhA on its own identifies location, not motion.)</para></listitem>
 
 
 <listitem><para>Charles Darwin lived near here. (Note that we don't need
@@ -894,7 +892,7 @@ talking about a different person with the same name, or that I'm somehow
 speaking metaphorically about the spirit of Darwin.)</para></listitem>
 
 
-<listitem><para>I will talk into the distance.</para></listitem>
+<listitem><para>I will speak in the bar. (As you will have surmised, you don't need to follow FAhA words with <foreignphrase lang="art-lojban">cmavo</foreignphrase> like <foreignphrase lang="art-lojban">vi</foreignphrase>.)</para></listitem>
 
 
 </orderedlist></para>
@@ -972,12 +970,11 @@ lang="art-lojban">xanri</foreignphrase>.)</para></listitem>
 <para><orderedlist>
 
 
-<listitem><para>A while after Zhang left, Susan walked into the bar. 
-(Strictly speaking, walks pointing in the direction of inside the bar.)
+<listitem><para>A while after Zhang left, Susan is standing in the bar.
 </para></listitem>
 
 
-<listitem><para>At that time, Susan expected that Zhang would soon 
+<listitem><para>Right now, Susan expects that Zhang will soon 
 afterwards see Susan.</para></listitem>
 
 
@@ -988,14 +985,14 @@ afterwards see Susan.</para></listitem>
 currently full one.</para> <para>(It's amazing what can be tucked away in
 exercises. Yes, <foreignphrase lang="art-lojban">sumti</foreignphrase> can have
 tenses in Lojban. There's no reason they can't: though there's an article
-in front of the <foreignphrase lang="art-lojban">gismu</foreignphrase>, that
+in front of the <foreignphrase lang="art-lojban">gismu</foreignphrase> in <foreignphrase lang="art-lojban">le kabri</foreignphrase>, that
 <foreignphrase lang="art-lojban">gismu</foreignphrase> is stil a <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, and so it still expresses a
 relationship. This means that <foreignphrase
 lang="art-lojban">sumti</foreignphrase> have all the characteristics of
 <foreignphrase lang="art-lojban">selbri</foreignphrase>: they have <foreignphrase
-lang="art-lojban">sumti</foreignphrase> of their own &mdash; as we'll see later
-on; durations; locations; and tenses. This is an important way Lojban is
+lang="art-lojban">sumti</foreignphrase> of their own (as we'll see later
+on); durations; locations; and tenses. This is an important way Lojban is
 different from many (though not all) natural languages: it has no essential
 grammatical difference between its <quote role="socalled">nouns</quote> and
 <quote role="socalled">verbs</quote>.)</para></listitem>
@@ -1038,7 +1035,7 @@ have a way for saying <wordasword>she</wordasword> &mdash; as you're
 probably painfully aware of by now. Take heart &mdash; relief is coming in
 the next lesson! Note that Susan's route is away from the bar, but not
 explicitly moving to or from it; so we don't have to indicate motion along 
-with direction.)</para></listitem>
+with direction. Not that we can right now, anyway.)</para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca ro la vodjed. la suzyn. 

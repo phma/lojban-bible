@@ -1,4 +1,4 @@
-<chapter id="less4"><title>Numbers, and a few more articles</title>
+<chapter id="less4"><title>Numbers, and a few more articles</title><titleabbrev>Numbers and more articles</titleabbrev>
 
 <para>One of the first things you learn in a new language is how to count,
 and this course is no exception. However, in Lojban, numbers include much
@@ -22,11 +22,11 @@ more than just counting; for example, in Lojban,
 </orderedlist>This leaves zero, which is <foreignphrase
 lang="art-lojban">no</foreignphrase> (think <quote>yes, we have no
 bananas</quote>). You may have noticed that the numbers repeat the vowels
-<wordasword>AEIOU</wordasword>. Since you can't get by without memorising
+<foreignphrase lang="art-lojban">AEIOU</foreignphrase>. Since you can't get by without memorising
 numbers, try to think of mnemonics for the unfamiliar ones. For example,
 although the sound is different, <foreignphrase
-lang="art-lojban">xa</foreignphrase> has the <wordasword>X</wordasword> of
-<quote role="gloss">six</quote>, and I remembered <foreignphrase
+lang="art-lojban">xa</foreignphrase> has the <wordasword>x</wordasword> of
+<wordasword>six</wordasword>, and I remembered <foreignphrase
 lang="art-lojban">so</foreignphrase> by thinking of the proverb <quote>A
 stitch in time saves <emphasis>nine</emphasis>,</quote> which is about
 <emphasis>sew</emphasis>ing (<foreignphrase
@@ -160,8 +160,8 @@ out what dog the speaker had in mind.</para> </note>
 <para>So <foreignphrase lang="art-lojban">ci lo gerku</foreignphrase> means
 <quote role="gloss">three of those which really are dogs</quote>, or in
 plain words, <quote role="gloss">three dogs</quote>. <foreignphrase
-lang="art-lojban">lo ci gerku</foreignphrase>, however, means that there
-are only three dogs in the world, which is not something you'd really want
+lang="art-lojban">lo ci gerku</foreignphrase>, however, means that we are talking
+about [one or more of] the only three dogs in the world, which is not something you'd really want
 to say. (Mathematicians and logicians can look up the relevant parts of
 <wordasword>The Complete Lojban Language</wordasword> if they want
 clarification on this issue &mdash; or for that matter on the differences
@@ -232,7 +232,7 @@ one or (probably) more in the process. </para>
 lang="art-lojban">lu'o lo</foreignphrase> are very useful concepts, even without explicit numbers,
 and there are shorter ways of saying each when no number comes between them:
 <foreignphrase lang="art-lojban">lei</foreignphrase>
-and <foreignphrase lang="art-lojban">loi</foreignphrase>.  So the three men
+and <foreignphrase lang="art-lojban">loi</foreignphrase> respectively.  So the three men
 carrying the piano could be expressed as <foreignphrase
 lang="art-lojban"><emphasis>loi</emphasis> nanmu cu bevri le
 pipno</foreignphrase>, and the throng of women kissing me (!)  as
@@ -318,7 +318,8 @@ lang="art-lojban">le</foreignphrase> and <foreignphrase
 lang="art-lojban">lo</foreignphrase> are <emphasis>not</emphasis> like
 <wordasword>the</wordasword> and <wordasword>a/some</wordasword>. </para>
 
-<para>But with people, I would have to say something on the order of
+<para>But with people in general, rather than a specific group of people I know,
+I would have to say something in the order of
 <foreignphrase lang="art-lojban">vo ki'o nocize ki'o pasovo lo xa ki'o
 cipare ki'o pamubi remna cu nelci la rikis.martin.</foreignphrase> &mdash;
 I would have to give the real counts for all humans, and for all humans who
@@ -348,7 +349,7 @@ into thirds is not considered acceptable behaviour even for pollsters or
 advertisers. On the other hand, chopping up
 <emphasis>populations</emphasis> into thirds is perfectly acceptable; and
 that's what <foreignphrase lang="art-lojban">loi prenu</foreignphrase>
-is.</para> </sect1>
+is. (A population, I mean, not an acceptable. Though on second thought...)</para> </sect1>
 
 <sect1 id="less4quantities"><title>Quantities</title><para>I've said that
 words like <wordasword>most</wordasword> and <wordasword>many</wordasword>
@@ -418,40 +419,39 @@ least</para></listitem></varlistentry>
 <itemizedlist>
 
 <listitem>
-<para>
 <literallayout><foreignphrase lang="art-lojban">no le ninmu cu nelci la bil.</foreignphrase>
-None of the women like Bill.</literallayout></para>
+None of the women like Bill.</literallayout>
 </listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">no lo ninmu cu nelci la bil.</foreignphrase>
-No women like Bill. </literallayout>(because <foreignphrase lang="art-lojban">lo ninmu</foreignphrase> potentially includes all women that exist)</para>
+<listitem><literallayout><foreignphrase lang="art-lojban">no lo ninmu cu nelci la bil.</foreignphrase>
+No women like Bill. </literallayout><para>(because <foreignphrase lang="art-lojban">lo ninmu</foreignphrase> potentially includes all women that exist)</para>
 </listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">coi rodo</foreignphrase>
-Hi, everyone</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">coi rodo</foreignphrase>
+Hi, everyone</literallayout></listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">mi nelci ro lo mlatu</foreignphrase>
-I like all cats.</literallayout></para>
+<listitem><literallayout><foreignphrase lang="art-lojban">mi nelci ro lo mlatu</foreignphrase>
+I like all cats.</literallayout>
 </listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">mi na nelci ro lo gerku</foreignphrase>
-It's not true that I like all dogs.</literallayout>(this is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
+<listitem><literallayout><foreignphrase lang="art-lojban">mi na nelci ro lo gerku</foreignphrase>
+It's not true that I like all dogs.</literallayout><para>(this is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
 <foreignphrase lang="art-lojban">mi nelci no lo gerku</foreignphrase>. There are 
 other ways of saying this, but we haven't got enough grammar under our 
 belt yet.) </para>
 </listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
-Many Americans like Nirvana (the group, not the mystical state. Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
+Many Americans like Nirvana</literallayout><para>(the group, not the mystical state.Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)</para></listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
-Few Chinese people like Nirvana.</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
+Few Chinese people like Nirvana.</literallayout></listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">su'e mu le muno prenu cu cmila</foreignphrase>
-No more than five out of the fifty people laugh(ed) (let's say a comedian told a bad joke).</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">su'e mu le muno prenu cu cmila</foreignphrase>
+No more than five out of the fifty people laugh(ed)</literallayout><para>(let's say a comedian told a bad joke).</para></listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
-At least one person loves you.</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
+At least one person loves you.</literallayout></listitem>
 
 </itemizedlist></informalexample>This last one is logically the same as <foreignphrase lang="art-lojban">lo
 prenu cu prami do</foreignphrase>, which means <quote>there exists at least
@@ -459,7 +459,7 @@ one person such that that person loves you,</quote> but it makes the
 meaning clearer and more emphatic. In fact, all articles in Lojban have
 such default numbers associated with them; <foreignphrase
 lang="art-lojban">lo</foreignphrase> by default means <foreignphrase
-lang="art-lojban">su'o lo ro</foreignphrase> <quote>at least one out of
+lang="art-lojban">su'o pa lo ro</foreignphrase> <quote>at least one out of
 all...</quote>. </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -467,30 +467,30 @@ all...</quote>. </para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cifnu</foreignphrase></term><listitem><para>x1 is an infant/baby
+lang="art-lojban">cifnu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is an infant/baby
 [helpless through youth/incomplete development] of species
-x2</para></listitem></varlistentry>
+x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cinba</foreignphrase></term><listitem><para>x1 (agent)
-kisses/busses x2 at locus x3</para></listitem></varlistentry>
+lang="art-lojban">cinba</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent)
+kisses/busses x<subscript>2</subscript> at locus x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">citka</foreignphrase></term><listitem><para>x1 eats/ingests/consumes (transitive verb) x2</para></listitem></varlistentry>
+lang="art-lojban">citka</foreignphrase></term><listitem><para>x<subscript>1</subscript> eats/ingests/consumes (transitive verb) x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">mlatu</foreignphrase></term><listitem><para>x1 is a
-cat/[puss/pussy/kitten] [feline animal] of species/breed x2; (adjective:)
-x1 is feline</para></listitem></varlistentry>
+lang="art-lojban">mlatu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
+cat/[puss/pussy/kitten] [feline animal] of species/breed x<subscript>2</subscript>; (adjective:)
+x<subscript>1</subscript> is feline</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">nanmu</foreignphrase></term><listitem><para>x1 is a man/men; x1
+lang="art-lojban">nanmu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a man/men; x<subscript>1</subscript>
 is a male humanoid person [not necessarily
 adult]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">rectu</foreignphrase></term><listitem><para>x1 is a quantity
-of/contains meat/flesh from source/animal x2
+lang="art-lojban">rectu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a quantity
+of/contains meat/flesh from source/animal x<subscript>2</subscript>
 </para></listitem></varlistentry>
 
 </variablelist>
@@ -562,15 +562,15 @@ lesson).</para>
 
 <itemizedlist>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">xo le botpi cu kunti</foreignphrase>
-How many of the bottles are empty?</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">xo le botpi cu kunti</foreignphrase>
+How many of the bottles are empty?</literallayout></listitem>
 
 <listitem>
-<para><literallayout><foreignphrase lang="art-lojban">xo lo prenu cu klama ti</foreignphrase>
-How many people come here?</literallayout></para></listitem>
+<literallayout><foreignphrase lang="art-lojban">xo lo prenu cu klama ti</foreignphrase>
+How many people come here?</literallayout></listitem>
 
-<listitem><para><literallayout><foreignphrase lang="art-lojban">do viska xo lo sonci</foreignphrase>
-How many soldiers do you see?</literallayout></para></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">do viska xo lo sonci</foreignphrase>
+How many soldiers do you see?</literallayout></listitem>
 </itemizedlist></para>
 
 <note><para>It is not actually necessary to include the <foreignphrase
@@ -745,7 +745,8 @@ own.</para></listitem>
 <listitem><para>Mass. In fact, <wordasword>sugar</wordasword> is a mass
 noun even in English, because it is very hard to think of it as individual
 entities. (Even when we do say <quote>three sugars</quote> in English,
-we're thinking of teaspoons, or kinds of sugar, not individual grains). That's why
+we're thinking of teaspoons, or kinds of sugar, not individual grains; so in fact,
+we're talking about two or more distinct <emphasis>masses</emphasis> of sugar.) That's why
 <wordasword>sugar</wordasword> does not normally take an article in
 English.</para></listitem>
 
@@ -760,7 +761,7 @@ stress that elephants <emphasis>normally</emphasis> live to an old age, you
 would have to attribute long life, not to the mass of elephants, but to the
 <emphasis>typical</emphasis> elephant: <foreignphrase
 lang="art-lojban">lo'e xanto</foreignphrase>, rather than <foreignphrase
-lang="art-lojban">loi xanto</foreignphrase>. </para></listitem>
+lang="art-lojban">loi xanto</foreignphrase>.) </para></listitem>
 
 <listitem><para>Individual. All elephants by definition (as it were) have
 flat ears; so the claim is true of each individual elephant. Once again,
@@ -793,13 +794,14 @@ ninmu </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">lu'o vo lo ninmu cu cinba la
 rikis.martin. </foreignphrase> (Give yourself a pat on the back if you got that one
-right!)</para></listitem>
+right! If you said <foreignphrase lang="art-lojban">loi vo lo ninmu</foreignphrase>,
+give yourself a whole backrub!)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.uinai</foreignphrase>
 [<emphasis>or</emphasis> <foreignphrase lang="art-lojban">.uu</foreignphrase>]
 <foreignphrase lang="art-lojban">no lo prenu cu prami la bil.</foreignphrase>
 <emphasis>or</emphasis> <foreignphrase lang="art-lojban">na su'o pa lo prenu cu
-prami la bil.</foreignphrase></para></listitem>
+prami la bil.</foreignphrase> (Not, as it turns out, <foreignphrase lang="art-lojban">su'o pa lo prenu cu na prami la bil.</foreignphrase>, which means <quote>at least one person doesn't like Bill</quote> rather than <quote>It is not true that one or more persons like Bill.</quote> But the interaction of negation and quantifiers is beyond the scope of these lessons; for more, see <citetitle>The Complete Lojban Language</citetitle>, Chapter 16.9.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">le la ROZmeris. cinfu cu batci re lo
 prenu</foreignphrase> (or: <foreignphrase lang="art-lojban">le cinfu pe la 
@@ -811,7 +813,7 @@ deivyd.bo,is.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">su'e pipamu loi budjo cu citka lo
 rectu</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">sofi'upano loi mlatu cu nelci la .uiskas.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">sofi'upano loi mlatu cu nelci la .uiskas.</foreignphrase> (a Commonwealth brand of cat food slogan.)</para></listitem>
 
 </orderedlist></para>
 </simplesect>

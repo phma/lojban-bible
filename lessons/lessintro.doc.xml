@@ -5,7 +5,7 @@ fifteen lessons. It has been authored
 by Robin Turner and Nick Nicholas,
 and gives a gentle introduction to the structure of the language. Robin
 authored lessons 1&ndash;8 and 10&ndash;11 in 1999; Nick added to the
-existing lessons, and authored the remainder, in 2001.
+existing lessons, and authored lessons 9 and 12&ndash;15, in 2001.
 </para> 
 
 <para>The material covered in this course should be sufficient to allow 
@@ -25,7 +25,7 @@ url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutp
 url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr></address>
 The document <citetitle>What is Lojban?</citetitle> (available online at
 <ulink
-url="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>)
+url="&level0addr;"><computeroutput>&level0addr;</computeroutput></ulink>)
 is a general introduction to the language. It should be available from the 
 same place you obtained this document.</para>
 
@@ -55,7 +55,7 @@ ctuca befi loi co'a cilre bei la lojban. gi'e se pagbu lo pamumei .i le go'i cu 
 gy. Robin Turner gy. joi la'o gy. Nick Nicholas gy. gi'e frili jai junri'a 
 fo le stura be le bangu .i la robin. finti le 1moi bi'i 8moi jeke 10moi 
 bi'i 11moi pagbu ca la 1999nan .i la nitcion. jmina fi le pu zasti pagbu gi'e 
-finti le drata vau ca la 2001nan. </foreignphrase></para>
+finti le  le 9moi jeke 12moi bi'i 15moi vau ca la 2001nan. </foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o lei datni poi se cusku le dei 
 te ctuca cu pe'i banzu lenu ka'enri'a le cilre lenu jimpe piso'a loi lojbo 
@@ -74,13 +74,13 @@ url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutp
 url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr> </address><foreignphrase lang="art-lojban">gy. .i le seltcidu po'u la'e <quote>lu la
 lojban mo. li'u</quote> zi'enoi ka'e se cpacu fi le samclupa tu'i zoi gy.
 <ulink
-url="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>
+url="&level0addr;"><computeroutput>&level0addr;</computeroutput></ulink>
 gy. cu nalsteci cfari bo skicu le bangu .i ba'a ka'e cpacu le go'i vi le 
 mintu be le jaitu'i cpacu be le dei seltcidu</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o la lojban. cu la'a mutce frica
-le bangu poi slabu do zi'enoi ju'o se cmima le glico .i fau lenu lo steci pe
-le gerna .a le logji cu simlu loka to'e ke frili se jimpe ca'o lenu co'a
+le bangu poi slabu do zi'epoi ju'o se cmima le glico .i fau lenu lo steci pe
+le gerna .a le logji cu simlu loka to'e ke frili se jimpe co'a lenu
 tcidu kei ko zukte lenu rivbi tu'a le steci gi'e krefu troci tu'a ri baku
 .i pa'abo su'o cipra jufra cu zmadu su'o cipra jufra leni tcica nandu .i
 go'i fa ra'u le nunfanva cipra jufra pe le fanmo be ro ve ctuca pagbu .i
@@ -92,13 +92,13 @@ stidi pe lenu pilno la lojban.</foreignphrase></para>
 le gugdrturkie .i la nitcion. cu xelso sralo gi'e xabju le merko .i
 seki'ubo ko na se spaji tu'a loi bangu selpli pe le dei seltcidu zi'epoi na
 slabu do .i mi ra'u to'e xenru lenu pilno le glico se jitro gugde bo girzu 
-{ke valsi lerfu porsi tadji} </foreignphrase></para>
+ke valsi lerfu porsi tadji</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o mi ckire le lojbo poi cipygau
 fi le kamdrani le dei ve ctuca zi'eno'u la. pier.abat. joi la djan.kau,n. 
-joi la biorn.golas. joi. la .arnt.rixard.ioxansen. goi tsali ge'u joi la
+joi la biorn.golas. joi. la .arnt.rixard.iuxansen. goi tsali ge'u joi la
 noras.tanskis.lecevaLIER. joi la xorxes.jambi,as. joi la 
-djan.parks.klifyrd. goi pycyn. ge'u joi la .adam. raizen. joi la .antonis.rotc. .i
+djan.parks.klifyrd. goi pycyn. ge'u joi la .adam. reizen. joi la .antonis.routc. .i
 ckire ji'a la rabin.lis.pau,el. ce'e lenu sabji le jicmu be lenu gubgau
 le ve ctuca ca'o lenu finti pe'eje la paul.rainerfelt. ce'e lenu sidju
 lenu cupra le seltcidu peta'i la tex.</foreignphrase></para>
