@@ -199,22 +199,32 @@ lei sorselcei gi'e culno le nu zukte lo palci
 
 @c    1:43. And king Antiochus wrote to all his kingdom, that all the people
 @c    should be one:  and every one should leave his own law.
+1:43. .i la .antioxos. noi nolraitru cu ci'asku lu lu'o ro le natmi cu natmi
+.i ro le natmi cu .ei cliva le vo'a flalu li'u ro le se nolraitru
 
 @c    1:44. And all nations consented, according to the word of king
 @c    Antiochus.
+1:44. .i ro le natmi cu tugni le se cusku be la .antioxos.
 
 @c    1:45. And many of Israel consented to his service, and they sacrificed
 @c    to idols, and profaned the sabbath.
+1:45. .i so'i se natmi be la .israEL. tugni fo le nu selfu .abu gi'e cesydu'a
+fi le majycei gi'e tolcesygau le surdei
 
 @c    1:46. And the king sent letters by the hands of messengers to
 @c    Jerusalem, and to all the cities of Juda; that they should follow the
 @c    law of the nations of the earth.
+1:46. .i le nolraitru cu mrilu le sedu'u tinbe le flalu be fi le natmi pe le
+terdi kei la .ierucala,im .e ro tcadu be fi la .ie'uDAS fu le noirbei
 
 @c    1:47. And should forbid holocausts and sacrifices, and atonements to be
 @c    made in the temple of God.
+1:47. fe le sedu'u tolcru lenu roljelca kei .e lenu cesydu'a kei .e lenu fraxu kei
+be ne'i le malsi be le cevni
 
 @c    1:48. And should prohibit the sabbath, and the festival days to be
 @c    celebrated.
+1:48. gi'e tolcru le nu salci le surdei .a le cesydei kei kei
 
 @c    1:49. And he commanded the holy places to be profaned, and the holy
 @c    people of Israel.
@@ -246,6 +256,9 @@ lei sorselcei gi'e culno le nu zukte lo palci
 @c    forty-fifth year, king Antiochus set up the abominable idol of
 @c    desolation upon the altar of God, and they built altars throughout all
 @c    the cities of Juda round about:
+1:57. ni'o de'i le pamumoi be le mastrkislevu be le pavomumoi nanca la .antioxos.
+cu sa'irgau le malrigni je spori'a majycei le jdajbu be fo la cevni .i zbasu
+lo jdajbu fe'eroroi le tcadu be la .ie'uDAS
 
 @c    The abominable idol, etc. . .Viz., the statue of Jupiter Olympius.
 
@@ -264,6 +277,8 @@ lei sorselcei gi'e culno le nu zukte lo palci
 
 @c    1:62. And on the five and twentieth day of the month they sacrificed
 @c    upon the altar of the idol that was over against the altar of God.
+1:62 .i ca le djedi remumoi be le masti cu cesydu'a fi le majycei ga'u le
+jdajbu be ca'u le jdajbu be fo le cevni
 
 @c    1:63. Now the women that circumcised their children were slain
 @c    according to the commandment of king Antiochus,
@@ -923,13 +938,18 @@ PIKTCITA. va'i la cadrax. fa'u la .abednegon. fa'u la meicax.
 @c    4:52. And they arose before the morning on the five and twentieth day
 @c    of the ninth month, (which is the month of Casleu) in the hundred and
 @c    forty-eighth year.
+4:52. .i clire be le cerni be'o cikybi'o ca le djedi remumoi be le masti somoi
+noi mastrkislevu ku'o be le pavobimoi nanca
 
 @c    4:53. And they offered sacrifice, according to the law, upon the new
 @c    altar of holocausts which they had made.
+4:53. .ije cesydu'a tetai le flalu ga'u le roljelca jdajbu poi zbasu ke'a
 
 @c    4:54. According to the time, and according to the day wherein the
 @c    heathens had defiled it, in the same was it dedicated anew with
 @c    canticles, and harps, and lutes, and cymbals.
+4:54. .i le nu le soirselcei cu tolcesygau jy cu mintu lenu krefu si'arfriti
+jy sepi'o le selsanga .e le jgitrxarpa .e le jgita .e le paltydamri
 
 @c    4:55. And all the people fell upon their faces, and adored, and blessed
 @c    up to heaven, him that had prospered them.
