@@ -27,6 +27,8 @@ ko'a gi'e carmi sipna i ko'a pilno sy le nu kicne gi'e vregau lei cidni sy
 gi'e tavla simxu ga'u le sy stedu i lu tolkufra mutce ri'i le sipsmacu sei 
 la alis pensi i ku'i ru'a va'o le nu sipna kei sy na se vajni li'u
 
+@c Maybe "vensa cicyractu" for "March Hare". --adam
+
 @c      The table was a large one, but the three were all crowded
 @c    together at one corner of it:  `No room!  No room!' they cried
 @c    out when they saw Alice coming.  `There's PLENTY of room!' said
@@ -160,6 +162,8 @@ i la mapypre cu pamoi le ka co'u smaji i lu le xomoi be le masti cu
 detri sei my fa'a la alis cusku li'u i my le junla ba'o cpacu le daski
 gi'e ca'o xanka catlu gi'e di'inai desygau gi'e jbipu'i le my kerlo
 
+@ Should that be "le xomoi be lei masti"? --adam
+
 @c      Alice considered a little, and then said `The fourth.'
 
 i la alis ze'i pensi gi'e cusku lu le vomoi li'u  
@@ -170,11 +174,13 @@ i la alis ze'i pensi gi'e cusku lu le vomoi li'u
 
 i lu oiri'e srera la'u lo djedi be li re sei la mapypre cu cusku i 
 mi pu cusku le du'u lo matne na mapti le minji sei my jmina li'u i 
-my fengu catlu la cibmeimasti cicyractu
+my fengu catlu la cibmoimasti cicyractu
 
 @c      `It was the BEST butter,' the March Hare meekly replied. 
 
 i lu ra ba'e xagrai le ka matne sei cycy cumla spuda li'u
+
+@ best among butternesses? best for the butterness? --adam
 
 @c      `Yes, but some crumbs must have got in as well,' the Hatter
 @c    grumbled:  `you shouldn't have put it in with the bread-knife.'
@@ -199,6 +205,8 @@ le ka matne li'u
 i la alis pu ca'o kucli catlu ga'u le cycy janco i lu a'u xajmi junla
 sei abu te pinka i ue jy sinxa le du'u le xokaumoi be le masti cu
 detri enai ku'i le du'u makau tcika li'u
+
+@c "xokaumoi be lei masti"? --adam
 
 @c      `Why should it?' muttered the Hatter.  `Does YOUR watch tell
 @c    you what year it is?'
@@ -225,6 +233,8 @@ i la alis cinmo le ka mutce se cfipu i le pinka be fi la mapypre cu
 simlu le ka noda smuni ke'a kei gi'e ku'i ja'a jbobau i lu mi na mulno
 jimpe sei abu rai le ka clite cu cusku li'u
 
+@c maybe "te jbobau" --adam
+
 @c      `The Dormouse is asleep again,' said the Hatter, and he poured
 @c    a little hot tea upon its nose.
 
@@ -243,6 +253,8 @@ kargau le kanla kei lu li'a li'a i di'usai pu'o pinka fi mi li'u
 
 i lu xu do ba'o smadi tu'a le manci nabmi sei la mapypre fi la alis 
 pe za'ure'uku cusku li'u
+
+@c Maybe "ne za'ure'uku", since "la alis" is already identified --adam
  
 @c      `No, I give it up,' Alice replied:  `what's the answer?'
 
@@ -270,6 +282,8 @@ nabmi poi na se danfu li'u
 i lu va'oda'i le nu la temci cu slabu do pedu'i mi kei sei la mapypre
 cusku do na pilno zo le le nu cmene ty i zo la mapti li'u 
 
+@c Maybe "nedu'i mi", like above. --adam
+
 @c      `I don't know what you mean,' said Alice.
 
 i lu mi na jimpe le du'u do skudji makau sei la alis cusku li'u 
@@ -279,6 +293,9 @@ i lu mi na jimpe le du'u do skudji makau sei la alis cusku li'u
 
 i lu li'a do na go'i sei la mapypre cu cusku je stedu muvgau tolsi'a
 i la'a do noroi tavla ji'asai la temci li'u
+
+@c I think it needs to be "stedu bo muvgau", otherwise it comes out as
+@c (((cusku je stedu) muvgau) tolsi'a) --adam
 
 @c      `Perhaps not,' Alice cautiously replied:  `but I know I have to
 @c    beat time when I learn music.'
@@ -329,6 +346,8 @@ i la mapypre cu tolgei desygau le stedu i lu na go'i sei my spuda
 i mi'a da'arsi'u ca le puzi cibmoimasti ibazi ty fenki binxo ju'ido'u 
 to'i pilno le tcati smuci le nu farja'o cycy toi i fasnu ca le banli 
 ke zgike se tigni be le risna noltruni'u i mi bilga le nu sanga di'e 
+
+@c "ibazibo", I think --adam
 
 @c                "Twinkle, twinkle, little bat!
 @c                How I wonder what you're at!"
@@ -393,6 +412,9 @@ poi mi cpedu i ca ru'i tcika fa li xa li'u
 i lo carmi sidbo cu nerkla le stedu be la alis i lu ua xu la'e di'u
 krinu le nu so'i ue tcati dacti cu zvati sei abu retsku li'u
 
+@c I think "nerkla le stedu" is stretching it a bit much. How about
+@c just "se pensi la alis" --adam
+
 @c      `Yes, that's it,' said the Hatter with a sigh:  `it's always
 @c    tea-time, and we've no time to wash the things between whiles.'
 
@@ -406,7 +428,10 @@ i lu ja'o ru'a do za'o muvdu fo lo cukla sei la alis cusku li'u
 @c      `Exactly so,' said the Hatter:  `as the things get used up.'
 
 i lu sa'e go'i sei la mapypre cusku roroi ca le nu so'o le dacti 
-mo'u se xaksu li'u 
+mo'u se xaksu li'u
+
+@c "roroi ca" breaks up into "roroiku ca". I think that just "roroi"
+@c is enough --adam 
 
 @c      `But what happens when you come to the beginning again?' Alice
 @c    ventured to ask.
@@ -477,6 +502,8 @@ makau cu cusku li'u
 i lu lo satyjisra my cidja sei le sipsmacu ba le nu pensi ze'a lo 
 mentu be li paji'ire cu cusku li'u
 
+@ Most people would interpret that as "about 12 minutes" :-) --adam
+
 @c      `They couldn't have done that, you know,' Alice gently
 @c    remarked; `they'd have been ill.'
 
@@ -537,6 +564,9 @@ le sipsmacu fi lu ki'u ma my xabju le loldi be lo jinto li'u
 
 i le sipsmacu za'ure'u pensi ze'a lo mentu be li paji'ire gi'e ba
 cusku lu jy satyjisra jinto li'u
+
+@c In addition to the 12 minutes,
+@c should it be "gi'e ba bo" --adam
 
 @c      `There's no such thing!'  Alice was beginning very angrily, but
 @c    the Hatter and the March Hare went `Sh! sh!' and the Dormouse
@@ -684,6 +714,8 @@ kei ko'a troci le nu setca le sipsmacu le tcati patxu
 i lu ai mi noroi rere'u klama ba'e ta sei la alis ca le nu pluta 
 sisku pa'o le ricmei cu cusku i traji le ka bebna lei tcati te salci  
 poi mi zvati ca le nu mi jmive li'u
+
+@c Is there a "kei" missing after "bebna"? --adam
 
 @c      Just as she said this, she noticed that one of the trees had a
 @c    door leading right into it.  `That's very curious!' she thought.
