@@ -1,0 +1,3694 @@
+\input texinfo   @c -*-texinfo-*-
+@c %**start of header
+@setfilename alice.info
+@settitle la alis. cizra je cinri zukte vi le selmacygu'e
+@setchapternewpage odd
+@c %**end of header
+
+@c Thanks to the Gutenberg project for the original text.
+@c http://www.guntenberg.net.  Feel free to send them donations!
+
+@c **********NOTE For Translators***********
+@c ...
+
+@c To deal with places where the exact layout of the text is important
+@c (the address of Alice's foot, just about any of the poetry), place
+@c the command '@format' before the text and '@end format' at the end.
+
+@ifinfo
+[This is the text of the lojban translation of Lewis Carrol's ]
+["Alice's Adventures In Wonderland".  A work in progress.]
+@end ifinfo
+
+@titlepage
+@title la alis. cizra je cinri zukte vi le selmacygu'e
+@author la lojbangirz. .e la'o gy. Lewis Carroll gy.
+
+@page
+@vskip 0pt plus 1filll
+
+This work, in all forms, is explicitely placed in the public domain.
+
+@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
+
+@end titlepage
+
+@node 	  Top,     le fukpi,    ,          (dir)
+@comment  node-name, next,      previous,  up
+
+@ifinfo
+[This is the text of the lojban translation of Lewis Carrol's]
+["Alice's Adventures In Wonderland".  A work in progress.]
+@end ifinfo
+
+@menu
+* le fukpi::	le nu fukpi gau do cu se curmi fi da
+* pamo'o::	[Down the Rabbit-Hole]
+* remo'o::	The Pool of Tears
+* cimo'o::	[A Caucus-Race and a Long Tale]
+* vomo'o::	[The Rabbit Sends in a Little Bill]
+* mumo'o::	[Advice from a Caterpillar]
+* xamo'o::	[Pig And Pepper]
+* zemo'o::	[A Mad Tea-Party]
+* bimo'o::	[The Queen's Croquet-Ground]
+* somo'o::	[The Mock Turtle's Story]
+* panomo'o::	[The Lobster Quadrille]
+* papamo'o::	[Who Stole the Tarts?]
+* paremo'o::	[Alice's Evidence]
+@end menu
+
+@node le fukpi, pamo'o, Top, Top
+@chapter le fukpi
+
+@c Not done yet.
+
+@node    pamo'o, remo'o, le fukpi, Top
+@chapter pamo'o [Down The Rabbit-Hole]
+
+@c                                CHAPTER I
+
+@c                           Down The Rabbit-Hole
+
+@c      Alice was beginning to get very tired of sitting by her sister
+@c    on the bank, and of having nothing to do:  once or twice she had
+@c    peeped into the book her sister was reading, but it had no
+@c    pictures or conversations in it, `and what is the use of a book,'
+@c    thought Alice `without pictures or conversation?'
+
+@c      So she was considering in her own mind (as well as she could,
+@c    for the hot day made her feel very sleepy and stupid), whether
+@c    the pleasure of making a daisy-chain would be worth the trouble
+@c    of getting up and picking the daisies, when suddenly a White
+@c    Rabbit with pink eyes ran close by her.
+
+@c      There was nothing so VERY remarkable in that; nor did Alice
+@c    think it so VERY much out of the way to hear the Rabbit say to
+@c    itself, `Oh dear!  Oh dear!  I shall be late!'  (when she thought
+@c    it over afterwards, it occurred to her that she ought to have
+@c    wondered at this, but at the time it all seemed quite natural);
+@c    but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT-
+@c    POCKET, and looked at it, and then hurried on, Alice started to
+@c    her feet, for it flashed across her mind that she had never
+@c    before seen a rabbit with either a waistcoat-pocket, or a watch to
+@c    take out of it, and burning with curiosity, she ran across the
+@c    field after it, and fortunately was just in time to see it pop
+@c    down a large rabbit-hole under the hedge.
+
+@c      In another moment down went Alice after it, never once
+@c    considering how in the world she was to get out again.
+
+@c      The rabbit-hole went straight on like a tunnel for some way,
+@c    and then dipped suddenly down, so suddenly that Alice had not a
+@c    moment to think about stopping herself before she found herself
+@c    falling down a very deep well.
+
+@c      Either the well was very deep, or she fell very slowly, for she
+@c    had plenty of time as she went down to look about her and to
+@c    wonder what was going to happen next.  First, she tried to look
+@c    down and make out what she was coming to, but it was too dark to
+@c    see anything; then she looked at the sides of the well, and
+@c    noticed that they were filled with cupboards and book-shelves;
+@c    here and there she saw maps and pictures hung upon pegs.  She
+@c    took down a jar from one of the shelves as she passed; it was
+@c    labelled `ORANGE MARMALADE', but to her great disappointment it
+@c    was empty:  she did not like to drop the jar for fear of killing
+@c    somebody, so managed to put it into one of the cupboards as she
+@c    fell past it.
+
+@c      `Well!' thought Alice to herself, `after such a fall as this, I
+@c    shall think nothing of tumbling down stairs!  How brave they'll
+@c    all think me at home!  Why, I wouldn't say anything about it,
+@c    even if I fell off the top of the house!' (Which was very likely
+@c    true.)
+
+@c      Down, down, down.  Would the fall NEVER come to an end!  `I
+@c    wonder how many miles I've fallen by this time?' she said aloud.
+@c    `I must be getting somewhere near the centre of the earth.  Let
+@c    me see:  that would be four thousand miles down, I think--' (for,
+@c    you see, Alice had learnt several things of this sort in her
+@c    lessons in the schoolroom, and though this was not a VERY good
+@c    opportunity for showing off her knowledge, as there was no one to
+@c    listen to her, still it was good practice to say it over) `--yes,
+@c    that's about the right distance--but then I wonder what Latitude
+@c    or Longitude I've got to?'  (Alice had no idea what Latitude was,
+@c    or Longitude either, but thought they were nice grand words to
+@c    say.)
+
+@c      Presently she began again.  `I wonder if I shall fall right
+@c    THROUGH the earth!  How funny it'll seem to come out among the
+@c    people that walk with their heads downward!  The Antipathies, I
+@c    think--' (she was rather glad there WAS no one listening, this
+@c    time, as it didn't sound at all the right word) `--but I shall
+@c    have to ask them what the name of the country is, you know.
+@c    Please, Ma'am, is this New Zealand or Australia?' (and she tried
+@c    to curtsey as she spoke--fancy CURTSEYING as you're falling
+@c    through the air!  Do you think you could manage it?)  `And what
+@c    an ignorant little girl she'll think me for asking!  No, it'll
+@c    never do to ask:  perhaps I shall see it written up somewhere.'
+
+@c      Down, down, down.  There was nothing else to do, so Alice soon
+@c    began talking again.  `Dinah'll miss me very much to-night, I
+@c    should think!'  (Dinah was the cat.)  `I hope they'll remember
+@c    her saucer of milk at tea-time.  Dinah my dear!  I wish you were
+@c    down here with me!  There are no mice in the air, I'm afraid, but
+@c    you might catch a bat, and that's very like a mouse, you know.
+@c    But do cats eat bats, I wonder?'  And here Alice began to get
+@c    rather sleepy, and went on saying to herself, in a dreamy sort of
+@c    way, `Do cats eat bats?  Do cats eat bats?' and sometimes, `Do
+@c    bats eat cats?' for, you see, as she couldn't answer either
+@c    question, it didn't much matter which way she put it.  She felt
+@c    that she was dozing off, and had just begun to dream that she
+@c    was walking hand in hand with Dinah, and saying to her very
+@c    earnestly, `Now, Dinah, tell me the truth:  did you ever eat a
+@c    bat?' when suddenly, thump! thump! down she came upon a heap of
+@c    sticks and dry leaves, and the fall was over.
+
+@c      Alice was not a bit hurt, and she jumped up on to her feet in a
+@c    moment:  she looked up, but it was all dark overhead; before her
+@c    was another long passage, and the White Rabbit was still in
+@c    sight, hurrying down it.  There was not a moment to be lost:
+@c    away went Alice like the wind, and was just in time to hear it
+@c    say, as it turned a corner, `Oh my ears and whiskers, how late
+@c    it's getting!'  She was close behind it when she turned the
+@c    corner, but the Rabbit was no longer to be seen:  she found
+@c    herself in a long, low hall, which was lit up by a row of lamps
+@c    hanging from the roof.
+
+@c      There were doors all round the hall, but they were all locked;
+@c    and when Alice had been all the way down one side and up the
+@c    other, trying every door, she walked sadly down the middle,
+@c    wondering how she was ever to get out again.
+
+@c      Suddenly she came upon a little three-legged table, all made of
+@c    solid glass; there was nothing on it except a tiny golden key,
+@c    and Alice's first thought was that it might belong to one of the
+@c    doors of the hall; but, alas! either the locks were too large, or
+@c    the key was too small, but at any rate it would not open any of
+@c    them.  However, on the second time round, she came upon a low
+@c    curtain she had not noticed before, and behind it was a little
+@c    door about fifteen inches high:  she tried the little golden key
+@c    in the lock, and to her great delight it fitted!
+
+@c      Alice opened the door and found that it led into a small
+@c    passage, not much larger than a rat-hole:  she knelt down and
+@c    looked along the passage into the loveliest garden you ever saw.
+@c    How she longed to get out of that dark hall, and wander about
+@c    among those beds of bright flowers and those cool fountains, but
+@c    she could not even get her head though the doorway; `and even if
+@c    my head would go through,' thought poor Alice, `it would be of
+@c    very little use without my shoulders.  Oh, how I wish
+@c    I could shut up like a telescope!  I think I could, if I only
+@c    know how to begin.'  For, you see, so many out-of-the-way things
+@c    had happened lately, that Alice had begun to think that very few
+@c    things indeed were really impossible.
+
+@c      There seemed to be no use in waiting by the little door, so she
+@c    went back to the table, half hoping she might find another key on
+@c    it, or at any rate a book of rules for shutting people up like
+@c    telescopes:  this time she found a little bottle on it, (`which
+@c    certainly was not here before,' said Alice,) and round the neck
+@c    of the bottle was a paper label, with the words `DRINK ME'
+@c    beautifully printed on it in large letters.
+
+@c      It was all very well to say `Drink me,' but the wise little
+@c    Alice was not going to do THAT in a hurry.  `No, I'll look
+@c    first,' she said, `and see whether it's marked "poison" or not';
+@c    for she had read several nice little histories about children who
+@c    had got burnt, and eaten up by wild beasts and other unpleasant
+@c    things, all because they WOULD not remember the simple rules
+@c    their friends had taught them:  such as, that a red-hot poker
+@c    will burn you if you hold it too long; and that if you cut your
+@c    finger VERY deeply with a knife, it usually bleeds; and she had
+@c    never forgotten that, if you drink much from a bottle marked
+@c    `poison,' it is almost certain to disagree with you, sooner or
+@c    later.
+
+@c      However, this bottle was NOT marked `poison,' so Alice ventured
+@c    to taste it, and finding it very nice, (it had, in fact, a sort
+@c    of mixed flavour of cherry-tart, custard, pine-apple, roast
+@c    turkey, toffee, and hot buttered toast,) she very soon finished
+@c    it off.
+
+@c         *       *       *       *       *       *       *
+
+@c             *       *       *       *       *       *
+
+@c         *       *       *       *       *       *       *
+
+@c      `What a curious feeling!' said Alice; `I must be shutting up
+@c    like a telescope.'
+
+@c      And so it was indeed:  she was now only ten inches high, and
+@c    her face brightened up at the thought that she was now the right
+@c    size for going through the little door into that lovely garden.
+@c    First, however, she waited for a few minutes to see if she was
+@c    going to shrink any further:  she felt a little nervous about
+@c    this; `for it might end, you know,' said Alice to herself, `in my
+@c    going out altogether, like a candle.  I wonder what I should be
+@c    like then?'  And she tried to fancy what the flame of a candle is
+@c    like after the candle is blown out, for she could not remember
+@c    ever having seen such a thing.
+
+@c      After a while, finding that nothing more happened, she decided
+@c    on going into the garden at once; but, alas for poor Alice!
+@c    when she got to the door, she found she had forgotten the
+@c    little golden key, and when she went back to the table for it,
+@c    she found she could not possibly reach it:  she could see it
+@c    quite plainly through the glass, and she tried her best to climb
+@c    up one of the legs of the table, but it was too slippery;
+@c    and when she had tired herself out with trying,
+@c    the poor little thing sat down and cried.
+
+@c      `Come, there's no use in crying like that!' said Alice to
+@c    herself, rather sharply; `I advise you to leave off this minute!'
+@c    She generally gave herself very good advice, (though she very
+@c    seldom followed it), and sometimes she scolded herself so
+@c    severely as to bring tears into her eyes; and once she remembered
+@c    trying to box her own ears for having cheated herself in a game
+@c    of croquet she was playing against herself, for this curious
+@c    child was very fond of pretending to be two people.  `But it's no
+@c    use now,' thought poor Alice, `to pretend to be two people!  Why,
+@c    there's hardly enough of me left to make ONE respectable
+@c    person!'
+
+@c      Soon her eye fell on a little glass box that was lying under
+@c    the table:  she opened it, and found in it a very small cake, on
+@c    which the words `EAT ME' were beautifully marked in currants.
+@c    `Well, I'll eat it,' said Alice, `and if it makes me grow larger,
+@c    I can reach the key; and if it makes me grow smaller, I can creep
+@c    under the door; so either way I'll get into the garden, and I
+@c    don't care which happens!'
+
+@c      She ate a little bit, and said anxiously to herself, `Which
+@c    way?  Which way?', holding her hand on the top of her head to
+@c    feel which way it was growing, and she was quite surprised to
+@c    find that she remained the same size:  to be sure, this generally
+@c    happens when one eats cake, but Alice had got so much into the
+@c    way of expecting nothing but out-of-the-way things to happen,
+@c    that it seemed quite dull and stupid for life to go on in the
+@c    common way.
+
+@c      So she set to work, and very soon finished off the cake.
+
+@c         *       *       *       *       *       *       *
+
+@c             *       *       *       *       *       *
+
+@c         *       *       *       *       *       *       *
+
+
+
+@node    remo'o, cimo'o, pamo'o, Top
+@chapter remo'o The Pool of Tears
+
+@c                               CHAPTER II
+
+@c                            The Pool of Tears
+
+
+@c      `Curiouser and curiouser!' cried Alice (she was so much
+@c    surprised, that for the moment she quite forgot how to speak good
+@c    English); `now I'm opening out like the largest telescope that
+@c    ever was!  Good-bye, feet!' (for when she looked down at her
+@c    feet, they seemed to be almost out of sight, they were getting so
+@c    far off).  `Oh, my poor little feet, I wonder who will put on
+@c    your shoes and stockings for you now, dears?  I'm sure _I_ shan't
+@c    be able!  I shall be a great deal too far off to trouble myself
+@c    about you:  you must manage the best way you can; --but I must be
+@c    kind to them,' thought Alice, `or perhaps they won't walk the
+@c    way I want to go!  Let me see:  I'll give them a new pair of
+@c    boots every Christmas.'
+
+@c      And she went on planning to herself how she would manage it.
+@c    `They must go by the carrier,' she thought; `and how funny it'll
+@c    seem, sending presents to one's own feet!  And how odd the
+@c    directions will look!
+
+@c    @format
+@c                ALICE'S RIGHT FOOT, ESQ.
+@c                    HEARTHRUG,
+@c                        NEAR THE FENDER,
+@c                            (WITH ALICE'S LOVE).
+@c    @end format
+
+@c    Oh dear, what nonsense I'm talking!'
+
+@c      Just then her head struck against the roof of the hall:  in
+@c    fact she was now more than nine feet high, and she at once took
+@c    up the little golden key and hurried off to the garden door.
+
+@c      Poor Alice!  It was as much as she could do, lying down on one
+@c    side, to look through into the garden with one eye; but to get
+@c    through was more hopeless than ever:  she sat down and began to
+@c    cry again.
+
+@c      `You ought to be ashamed of yourself,' said Alice, `a great
+@c    girl like you,' (she might well say this), `to go on crying in
+@c    this way!  Stop this moment, I tell you!'  But she went on all
+@c    the same, shedding gallons of tears, until there was a large pool
+@c    all round her, about four inches deep and reaching half down the
+@c    hall.
+
+@c      After a time she heard a little pattering of feet in the
+@c    distance, and she hastily dried her eyes to see what was coming.
+@c    It was the White Rabbit returning, splendidly dressed, with a
+@c    pair of white kid gloves in one hand and a large fan in the
+@c    other:  he came trotting along in a great hurry, muttering to
+@c    himself as he came, `Oh! the Duchess, the Duchess! Oh! won't she
+@c    be savage if I've kept her waiting!'  Alice felt so desperate
+@c    that she was ready to ask help of any one; so, when the Rabbit
+@c    came near her, she began, in a low, timid voice, `If you please,
+@c    sir--'  The Rabbit started violently, dropped the white kid
+@c    gloves and the fan, and skurried away into the darkness as hard
+@c    as he could go.
+
+@c      Alice took up the fan and gloves, and, as the hall was very
+@c    hot, she kept fanning herself all the time she went on talking:
+@c    `Dear, dear!  How queer everything is to-day!  And yesterday
+@c    things went on just as usual.  I wonder if I've been changed in
+@c    the night?  Let me think:  was I the same when I got up this
+@c    morning?  I almost think I can remember feeling a little
+@c    different.  But if I'm not the same, the next question is, Who in
+@c    the world am I?  Ah, THAT'S the great puzzle!'  And she began
+@c    thinking over all the children she knew that were of the same age
+@c    as herself, to see if she could have been changed for any of
+@c    them.
+
+@c      `I'm sure I'm not Ada,' she said, `for her hair goes in such
+@c    long ringlets, and mine doesn't go in ringlets at all; and I'm
+@c    sure I can't be Mabel, for I know all sorts of things, and she,
+@c    oh! she knows such a very little!  Besides, SHE'S she, and I'm I,
+@c    and--oh dear, how puzzling it all is!  I'll try if I know all the
+@c    things I used to know.  Let me see:  four times five is twelve,
+@c    and four times six is thirteen, and four times seven is--oh dear!
+@c    I shall never get to twenty at that rate!  However, the
+@c    Multiplication Table doesn't signify:  let's try Geography.
+@c    London is the capital of Paris, and Paris is the capital of Rome,
+@c    and Rome--no, THAT'S all wrong, I'm certain!  I must have been
+@c    changed for Mabel!  I'll try and say "How doth the little--"'
+@c    and she crossed her hands on her lap as if she were saying lessons,
+@c    and began to repeat it, but her voice sounded hoarse and
+@c    strange, and the words did not come the same as they used to do:--
+
+@c                `How doth the little crocodile
+@c                  Improve his shining tail,
+@c                And pour the waters of the Nile
+@c                  On every golden scale!
+
+@c                `How cheerfully he seems to grin,
+@c                  How neatly spread his claws,
+@c                And welcome little fishes in
+@c                  With gently smiling jaws!'
+
+@c      `I'm sure those are not the right words,' said poor Alice, and
+@c    her eyes filled with tears again as she went on, `I must be Mabel
+@c    after all, and I shall have to go and live in that poky little
+@c    house, and have next to no toys to play with, and oh! ever so
+@c    many lessons to learn!  No, I've made up my mind about it; if I'm
+@c    Mabel, I'll stay down here!  It'll be no use their putting their
+@c    heads down and saying "Come up again, dear!"  I shall only look
+@c    up and say "Who am I then?  Tell me that first, and then, if I
+@c    like being that person, I'll come up:  if not, I'll stay down
+@c    here till I'm somebody else"--but, oh dear!' cried Alice, with a
+@c    sudden burst of tears, `I do wish they WOULD put their heads
+@c    down!  I am so VERY tired of being all alone here!'
+
+@c      As she said this she looked down at her hands, and was
+@c    surprised to see that she had put on one of the Rabbit's little
+@c    white kid gloves while she was talking.  `How CAN I have done
+@c    that?' she thought.  `I must be growing small again.'  She got up
+@c    and went to the table to measure herself by it, and found that,
+@c    as nearly as she could guess, she was now about two feet high,
+@c    and was going on shrinking rapidly:  she soon found out that the
+@c    cause of this was the fan she was holding, and she dropped it
+@c    hastily, just in time to avoid shrinking away altogether.
+
+@c    `That WAS a narrow escape!' said Alice, a good deal frightened at
+@c    the sudden change, but very glad to find herself still in
+@c    existence; `and now for the garden!' and she ran with all speed
+@c    back to the little door:  but, alas! the little door was shut
+@c    again, and the little golden key was lying on the glass table as
+@c    before, `and things are worse than ever,' thought the poor child,
+@c    `for I never was so small as this before, never!  And I declare
+@c    it's too bad, that it is!'
+
+@c      As she said these words her foot slipped, and in another
+@c    moment, splash! she was up to her chin in salt water.  Her first
+@c    idea was that she had somehow fallen into the sea, `and in that
+@c    case I can go back by railway,' she said to herself.  (Alice had
+@c    been to the seaside once in her life, and had come to the general
+@c    conclusion, that wherever you go to on the English coast you find
+@c    a number of bathing machines in the sea, some children digging in
+@c    the sand with wooden spades, then a row of lodging houses, and
+@c    behind them a railway station.)  However, she soon made out that
+@c    she was in the pool of tears which she had wept when she was nine
+@c    feet high.
+
+@c      `I wish I hadn't cried so much!' said Alice, as she swam about,
+@c    trying to find her way out.  `I shall be punished for it now, I
+@c    suppose, by being drowned in my own tears!  That WILL be a queer
+@c    thing, to be sure!  However, everything is queer to-day.'
+
+@c      Just then she heard something splashing about in the pool a
+@c    little way off, and she swam nearer to make out what it was:  at
+@c    first she thought it must be a walrus or hippopotamus, but then
+@c    she remembered how small she was now, and she soon made out that
+@c    it was only a mouse that had slipped in like herself.
+
+@c      `Would it be of any use, now,' thought Alice, `to speak to this
+@c    mouse?  Everything is so out-of-the-way down here, that I should
+@c    think very likely it can talk:  at any rate, there's no harm in
+@c    trying.'  So she began:  `O Mouse, do you know the way out of
+@c    this pool?  I am very tired of swimming about here, O Mouse!'
+@c    (Alice thought this must be the right way of speaking to a mouse:
+@c    she had never done such a thing before, but she remembered having
+@c    seen in her brother's Latin Grammar, `A mouse--of a mouse--to a
+@c    mouse--a mouse--O mouse!'  The Mouse looked at her rather
+@c    inquisitively, and seemed to her to wink with one of its little
+@c    eyes, but it said nothing.
+
+@c      `Perhaps it doesn't understand English,' thought Alice; `I
+@c    daresay it's a French mouse, come over with William the
+@c    Conqueror.'  (For, with all her knowledge of history, Alice had
+@c    no very clear notion how long ago anything had happened.)  So she
+@c    began again:  `Ou est ma chatte?' which was the first sentence in
+@c    her French lesson-book.  The Mouse gave a sudden leap out of the
+@c    water, and seemed to quiver all over with fright.  `Oh, I beg
+@c    your pardon!' cried Alice hastily, afraid that she had hurt the
+@c    poor animal's feelings.  `I quite forgot you didn't like cats.'
+
+@c      `Not like cats!' cried the Mouse, in a shrill, passionate
+@c    voice.  `Would YOU like cats if you were me?'
+
+@c      `Well, perhaps not,' said Alice in a soothing tone:  `don't be
+@c    angry about it.  And yet I wish I could show you our cat Dinah:
+@c    I think you'd take a fancy to cats if you could only see her.
+@c    She is such a dear quiet thing,' Alice went on, half to herself,
+@c    as she swam lazily about in the pool, `and she sits purring so
+@c    nicely by the fire, licking her paws and washing her face--and
+@c    she is such a nice soft thing to nurse--and she's such a capital
+@c    one for catching mice--oh, I beg your pardon!' cried Alice again,
+@c    for this time the Mouse was bristling all over, and she felt
+@c    certain it must be really offended.  `We won't talk about her any
+@c    more if you'd rather not.'
+
+@c      `We indeed!' cried the Mouse, who was trembling down to the end
+@c    of his tail.  `As if I would talk on such a subject!  Our family
+@c    always HATED cats:  nasty, low, vulgar things!  Don't let me hear
+@c    the name again!'
+
+@c      `I won't indeed!' said Alice, in a great hurry to change the
+@c    subject of conversation.  `Are you--are you fond--of--of dogs?'
+@c    The Mouse did not answer, so Alice went on eagerly:  `There is
+@c    such a nice little dog near our house I should like to show you!
+@c    A little bright-eyed terrier, you know, with oh, such long curly
+@c    brown hair!  And it'll fetch things when you throw them, and
+@c    it'll sit up and beg for its dinner, and all sorts of things--I
+@c    can't remember half of them--and it belongs to a farmer, you
+@c    know, and he says it's so useful, it's worth a hundred pounds!
+@c    He says it kills all the rats and--oh dear!' cried Alice in a
+@c    sorrowful tone, `I'm afraid I've offended it again!'  For the
+@c    Mouse was swimming away from her as hard as it could go, and
+@c    making quite a commotion in the pool as it went.
+
+@c      So she called softly after it, `Mouse dear!  Do come back
+@c    again, and we won't talk about cats or dogs either, if you don't
+@c    like them!'  When the Mouse heard this, it turned round and swam
+@c    slowly back to her:  its face was quite pale (with passion, Alice
+@c    thought), and it said in a low trembling voice, `Let us get to
+@c    the shore, and then I'll tell you my history, and you'll
+@c    understand why it is I hate cats and dogs.'
+
+@c      It was high time to go, for the pool was getting quite crowded
+@c    with the birds and animals that had fallen into it:  there were a
+@c    Duck and a Dodo, a Lory and an Eaglet, and several other curious
+@c    creatures.  Alice led the way, and the whole party swam to the
+@c    shore.
+
+
+@node    cimo'o, vomo'o, remo'o, Top
+@chapter cimo'o [A Caucus-Race and a Long Tale]
+
+
+@c                               CHAPTER III
+
+@c                      A Caucus-Race and a Long Tale
+
+
+@c      They were indeed a queer-looking party that assembled on the
+@c    bank--the birds with draggled feathers, the animals with their
+@c    fur clinging close to them, and all dripping wet, cross, and
+@c    uncomfortable.
+
+@c      The first question of course was, how to get dry again:  they
+@c    had a consultation about this, and after a few minutes it seemed
+@c    quite natural to Alice to find herself talking familiarly with
+@c    them, as if she had known them all her life.  Indeed, she had
+@c    quite a long argument with the Lory, who at last turned sulky,
+@c    and would only say, `I am older than you, and must know better';
+@c    and this Alice would not allow without knowing how old it was,
+@c    and, as the Lory positively refused to tell its age, there was no
+@c    more to be said.
+
+@c      At last the Mouse, who seemed to be a person of authority among
+@c    them, called out, `Sit down, all of you, and listen to me!  I'LL
+@c    soon make you dry enough!'  They all sat down at once, in a large
+@c    ring, with the Mouse in the middle.  Alice kept her eyes
+@c    anxiously fixed on it, for she felt sure she would catch a bad
+@c    cold if she did not get dry very soon.
+
+@c      `Ahem!' said the Mouse with an important air, `are you all ready?
+@c    This is the driest thing I know.  Silence all round, if you please!
+@c    "William the Conqueror, whose cause was favoured by the pope, was
+@c    soon submitted to by the English, who wanted leaders, and had been
+@c    of late much accustomed to usurpation and conquest.  Edwin and
+@c    Morcar, the earls of Mercia and Northumbria--"'
+
+@c      `Ugh!' said the Lory, with a shiver.
+
+@c      `I beg your pardon!' said the Mouse, frowning, but very
+@c    politely:  `Did you speak?'
+
+@c      `Not I!' said the Lory hastily.
+
+@c      `I thought you did,' said the Mouse.  `--I proceed.  "Edwin and
+@c    Morcar, the earls of Mercia and Northumbria, declared for him:
+@c    and even Stigand, the patriotic archbishop of Canterbury, found
+@c    it advisable--"'
+
+@c      `Found WHAT?' said the Duck.
+
+@c      `Found IT,' the Mouse replied rather crossly:  `of course you
+@c    know what "it" means.'
+
+@c      `I know what "it" means well enough, when I find a thing,' said
+@c    the Duck:  `it's generally a frog or a worm.  The question is,
+@c    what did the archbishop find?'
+
+@c      The Mouse did not notice this question, but hurriedly went on,
+@c    `"--found it advisable to go with Edgar Atheling to meet William
+@c    and offer him the crown.  William's conduct at first was
+@c    moderate.  But the insolence of his Normans--"  How are you
+@c    getting on now, my dear?' it continued, turning to Alice as it
+@c    spoke.
+
+@c      `As wet as ever,' said Alice in a melancholy tone:  `it doesn't
+@c    seem to dry me at all.'
+
+@c      `In that case,' said the Dodo solemnly, rising to its feet, `I
+@c    move that the meeting adjourn, for the immediate adoption of more
+@c    energetic remedies--'
+
+@c      `Speak English!' said the Eaglet.  `I don't know the meaning of
+@c    half those long words, and, what's more, I don't believe you do
+@c    either!'  And the Eaglet bent down its head to hide a smile:
+@c    some of the other birds tittered audibly.
+
+@c      `What I was going to say,' said the Dodo in an offended tone,
+@c    `was, that the best thing to get us dry would be a Caucus-race.'
+
+@c      `What IS a Caucus-race?' said Alice; not that she wanted much
+@c    to know, but the Dodo had paused as if it thought that SOMEBODY
+@c    ought to speak, and no one else seemed inclined to say anything.
+
+@c      `Why,' said the Dodo, `the best way to explain it is to do it.'
+@c    (And, as you might like to try the thing yourself, some winter
+@c    day, I will tell you how the Dodo managed it.)
+
+@c      First it marked out a race-course, in a sort of circle, (`the
+@c    exact shape doesn't matter,' it said,) and then all the party
+@c    were placed along the course, here and there.  There was no `One,
+@c    two, three, and away,' but they began running when they liked,
+@c    and left off when they liked, so that it was not easy to know
+@c    when the race was over.  However, when they had been running half
+@c    an hour or so, and were quite dry again, the Dodo suddenly called
+@c    out `The race is over!' and they all crowded round it, panting,
+@c    and asking, `But who has won?'
+
+@c      This question the Dodo could not answer without a great deal of
+@c    thought, and it sat for a long time with one finger pressed upon
+@c    its forehead (the position in which you usually see Shakespeare,
+@c    in the pictures of him), while the rest waited in silence.  At
+@c    last the Dodo said, `EVERYBODY has won, and all must have
+@c    prizes.'
+
+@c      `But who is to give the prizes?' quite a chorus of voices
+@c    asked.
+
+@c      `Why, SHE, of course,' said the Dodo, pointing to Alice with
+@c    one finger; and the whole party at once crowded round her,
+@c    calling out in a confused way, `Prizes! Prizes!'
+
+@c      Alice had no idea what to do, and in despair she put her hand
+@c    in her pocket, and pulled out a box of comfits, (luckily the salt
+@c    water had not got into it), and handed them round as prizes.
+@c    There was exactly one a-piece all round.
+
+@c      `But she must have a prize herself, you know,' said the Mouse.
+
+@c      `Of course,' the Dodo replied very gravely.  `What else have
+@c    you got in your pocket?' he went on, turning to Alice.
+
+@c      `Only a thimble,' said Alice sadly.
+
+@c      `Hand it over here,' said the Dodo.
+
+@c      Then they all crowded round her once more, while the Dodo
+@c    solemnly presented the thimble, saying `We beg your acceptance of
+@c    this elegant thimble'; and, when it had finished this short
+@c    speech, they all cheered.
+
+@c      Alice thought the whole thing very absurd, but they all looked
+@c    so grave that she did not dare to laugh; and, as she could not
+@c    think of anything to say, she simply bowed, and took the thimble,
+@c    looking as solemn as she could.
+
+@c      The next thing was to eat the comfits:  this caused some noise
+@c    and confusion, as the large birds complained that they could not
+@c    taste theirs, and the small ones choked and had to be patted on
+@c    the back.  However, it was over at last, and they sat down again
+@c    in a ring, and begged the Mouse to tell them something more.
+
+@c      `You promised to tell me your history, you know,' said Alice,
+@c    `and why it is you hate--C and D,' she added in a whisper, half
+@c    afraid that it would be offended again.
+
+@c      `Mine is a long and a sad tale!' said the Mouse, turning to
+@c    Alice, and sighing.
+
+@c      `It IS a long tail, certainly,' said Alice, looking down with
+@c    wonder at the Mouse's tail; `but why do you call it sad?'  And
+@c    she kept on puzzling about it while the Mouse was speaking, so
+@c    that her idea of the tale was something like this:--
+
+@c    @format
+@c                        `Fury said to a
+@c                       mouse, That he
+@c                     met in the
+@c                   house,
+@c                "Let us
+@c                  both go to
+@c                    law:  I will
+@c                      prosecute
+@c                        YOU.  --Come,
+@c                           I'll take no
+@c                            denial; We
+@c                         must have a
+@c                     trial:  For
+@c                  really this
+@c               morning I've
+@c              nothing
+@c             to do."
+@c               Said the
+@c                 mouse to the
+@c                   cur, "Such
+@c                     a trial,
+@c                       dear Sir,
+@c                             With
+@c                         no jury
+@c                      or judge,
+@c                    would be
+@c                  wasting
+@c                 our
+@c                  breath."
+@c                   "I'll be
+@c                     judge, I'll
+@c                       be jury,"
+@c                             Said
+@c                        cunning
+@c                          old Fury:
+@c                         "I'll
+@c                          try the
+@c                             whole
+@c                              cause,
+@c                                 and
+@c                            condemn
+@c                           you
+@c                          to
+@c                           death."'
+@c    @end format
+
+
+@c      `You are not attending!' said the Mouse to Alice severely.
+@c    `What are you thinking of?'
+
+@c      `I beg your pardon,' said Alice very humbly:  `you had got to
+@c    the fifth bend, I think?'
+
+@c      `I had NOT!' cried the Mouse, sharply and very angrily.
+
+@c      `A knot!' said Alice, always ready to make herself useful, and
+@c    looking anxiously about her.  `Oh, do let me help to undo it!'
+
+@c      `I shall do nothing of the sort,' said the Mouse, getting up
+@c    and walking away.  `You insult me by talking such nonsense!'
+
+@c      `I didn't mean it!' pleaded poor Alice.  `But you're so easily
+@c    offended, you know!'
+
+@c      The Mouse only growled in reply.
+
+@c      `Please come back and finish your story!' Alice called after
+@c    it; and the others all joined in chorus, `Yes, please do!' but
+@c    the Mouse only shook its head impatiently, and walked a little
+@c    quicker.
+
+@c      `What a pity it wouldn't stay!' sighed the Lory, as soon as it
+@c    was quite out of sight; and an old Crab took the opportunity of
+@c    saying to her daughter `Ah, my dear!  Let this be a lesson to you
+@c    never to lose YOUR temper!'  `Hold your tongue, Ma!' said the
+@c    young Crab, a little snappishly.  `You're enough to try the
+@c    patience of an oyster!'
+
+@c      `I wish I had our Dinah here, I know I do!' said Alice aloud,
+@c    addressing nobody in particular.  `She'd soon fetch it back!'
+
+@c      `And who is Dinah, if I might venture to ask the question?'
+@c    said the Lory.
+
+@c      Alice replied eagerly, for she was always ready to talk about
+@c    her pet:  `Dinah's our cat.  And she's such a capital one for
+@c    catching mice you can't think!  And oh, I wish you could see her
+@c    after the birds!  Why, she'll eat a little bird as soon as look
+@c    at it!'
+
+@c      This speech caused a remarkable sensation among the party.
+@c    Some of the birds hurried off at once:  one old Magpie began
+@c    wrapping itself up very carefully, remarking, `I really must be
+@c    getting home; the night-air doesn't suit my throat!' and a Canary
+@c    called out in a trembling voice to its children, `Come away, my
+@c    dears!  It's high time you were all in bed!'  On various pretexts
+@c    they all moved off, and Alice was soon left alone.
+
+@c      `I wish I hadn't mentioned Dinah!' she said to herself in a
+@c    melancholy tone.  `Nobody seems to like her, down here, and I'm
+@c    sure she's the best cat in the world!  Oh, my dear Dinah!  I
+@c    wonder if I shall ever see you any more!'  And here poor Alice
+@c    began to cry again, for she felt very lonely and low-spirited.
+@c    In a little while, however, she again heard a little pattering of
+@c    footsteps in the distance, and she looked up eagerly, half hoping
+@c    that the Mouse had changed his mind, and was coming back to
+@c    finish his story.
+
+
+@node    vomo'o, mumo'o, cimo'o, Top
+@chapter vomo'o [The Rabbit Sends in a Little Bill]
+
+
+@c                               CHAPTER IV
+
+@c                    The Rabbit Sends in a Little Bill
+
+
+@c      It was the White Rabbit, trotting slowly back again, and
+@c    looking anxiously about as it went, as if it had lost something;
+@c    and she heard it muttering to itself `The Duchess!  The Duchess!
+@c    Oh my dear paws!  Oh my fur and whiskers!  She'll get me
+@c    executed, as sure as ferrets are ferrets!  Where CAN I have
+@c    dropped them, I wonder?'  Alice guessed in a moment that it was
+@c    looking for the fan and the pair of white kid gloves, and she
+@c    very good-naturedly began hunting about for them, but they were
+@c    nowhere to be seen--everything seemed to have changed since her
+@c    swim in the pool, and the great hall, with the glass table and
+@c    the little door, had vanished completely.
+
+@c      Very soon the Rabbit noticed Alice, as she went hunting about,
+@c    and called out to her in an angry tone, `Why, Mary Ann, what ARE
+@c    you doing out here?  Run home this moment, and fetch me a pair of
+@c    gloves and a fan!  Quick, now!'  And Alice was so much frightened
+@c    that she ran off at once in the direction it pointed to, without
+@c    trying to explain the mistake it had made.
+
+@c      `He took me for his housemaid,' she said to herself as she ran.
+@c    `How surprised he'll be when he finds out who I am!  But I'd
+@c    better take him his fan and gloves--that is, if I can find them.'
+@c    As she said this, she came upon a neat little house, on the door
+@c    of which was a bright brass plate with the name `W. RABBIT'
+@c    engraved upon it.  She went in without knocking, and hurried
+@c    upstairs, in great fear lest she should meet the real Mary Ann,
+@c    and be turned out of the house before she had found the fan and
+@c    gloves.
+
+@c      `How queer it seems,' Alice said to herself, `to be going
+@c    messages for a rabbit!  I suppose Dinah'll be sending me on
+@c    messages next!'  And she began fancying the sort of thing that
+@c    would happen:  `"Miss Alice!  Come here directly, and get ready
+@c    for your walk!" "Coming in a minute, nurse!  But I've got to see
+@c    that the mouse doesn't get out."  Only I don't think,' Alice went
+@c    on, `that they'd let Dinah stop in the house if it began ordering
+@c    people about like that!'
+
+@c      By this time she had found her way into a tidy little room with
+@c    a table in the window, and on it (as she had hoped) a fan and two
+@c    or three pairs of tiny white kid gloves:  she took up the fan and
+@c    a pair of the gloves, and was just going to leave the room, when
+@c    her eye fell upon a little bottle that stood near the looking-
+@c    glass.  There was no label this time with the words `DRINK ME,'
+@c    but nevertheless she uncorked it and put it to her lips.  `I know
+@c    SOMETHING interesting is sure to happen,' she said to herself,
+@c    `whenever I eat or drink anything; so I'll just see what this
+@c    bottle does.  I do hope it'll make me grow large again, for
+@c    really I'm quite tired of being such a tiny little thing!'
+
+@c      It did so indeed, and much sooner than she had expected:
+@c    before she had drunk half the bottle, she found her head pressing
+@c    against the ceiling, and had to stoop to save her neck from being
+@c    broken.  She hastily put down the bottle, saying to herself
+@c    `That's quite enough--I hope I shan't grow any more--As it is, I
+@c    can't get out at the door--I do wish I hadn't drunk quite so
+@c    much!'
+
+@c      Alas! it was too late to wish that!  She went on growing, and
+@c    growing, and very soon had to kneel down on the floor:  in
+@c    another minute there was not even room for this, and she tried
+@c    the effect of lying down with one elbow against the door, and the
+@c    other arm curled round her head.  Still she went on growing, and,
+@c    as a last resource, she put one arm out of the window, and one
+@c    foot up the chimney, and said to herself `Now I can do no more,
+@c    whatever happens.  What WILL become of me?'
+
+@c      Luckily for Alice, the little magic bottle had now had its full
+@c    effect, and she grew no larger:  still it was very uncomfortable,
+@c    and, as there seemed to be no sort of chance of her ever getting
+@c    out of the room again, no wonder she felt unhappy.
+
+@c      `It was much pleasanter at home,' thought poor Alice, `when one
+@c    wasn't always growing larger and smaller, and being ordered about
+@c    by mice and rabbits.  I almost wish I hadn't gone down that
+@c    rabbit-hole--and yet--and yet--it's rather curious, you know,
+@c    this sort of life!  I do wonder what CAN have happened to me!
+@c    When I used to read fairy-tales, I fancied that kind of thing
+@c    never happened, and now here I am in the middle of one!  There
+@c    ought to be a book written about me, that there ought!  And when
+@c    I grow up, I'll write one--but I'm grown up now,' she added in a
+@c    sorrowful tone; `at least there's no room to grow up any more
+@c    HERE.'
+
+@c      `But then,' thought Alice, `shall I NEVER get any older than I
+@c    am now?  That'll be a comfort, one way--never to be an old woman--
+@c    but then--always to have lessons to learn!  Oh, I shouldn't like THAT!'
+
+@c      `Oh, you foolish Alice!' she answered herself.  `How can you
+@c    learn lessons in here?  Why, there's hardly room for YOU, and no
+@c    room at all for any lesson-books!'
+
+@c      And so she went on, taking first one side and then the other,
+@c    and making quite a conversation of it altogether; but after a few
+@c    minutes she heard a voice outside, and stopped to listen.
+
+@c      `Mary Ann!  Mary Ann!' said the voice.  `Fetch me my gloves
+@c    this moment!'  Then came a little pattering of feet on the
+@c    stairs.  Alice knew it was the Rabbit coming to look for her, and
+@c    she trembled till she shook the house, quite forgetting that she
+@c    was now about a thousand times as large as the Rabbit, and had no
+@c    reason to be afraid of it.
+
+@c      Presently the Rabbit came up to the door, and tried to open it;
+@c    but, as the door opened inwards, and Alice's elbow was pressed
+@c    hard against it, that attempt proved a failure.  Alice heard it
+@c    say to itself `Then I'll go round and get in at the window.'
+
+@c      `THAT you won't' thought Alice, and, after waiting till she
+@c    fancied she heard the Rabbit just under the window, she suddenly
+@c    spread out her hand, and made a snatch in the air.  She did not
+@c    get hold of anything, but she heard a little shriek and a fall,
+@c    and a crash of broken glass, from which she concluded that it was
+@c    just possible it had fallen into a cucumber-frame, or something
+@c    of the sort.
+
+@c      Next came an angry voice--the Rabbit's--`Pat! Pat!  Where are
+@c    you?'  And then a voice she had never heard before, `Sure then
+@c    I'm here!  Digging for apples, yer honour!'
+
+@c      `Digging for apples, indeed!' said the Rabbit angrily.  `Here!
+@c    Come and help me out of THIS!'  (Sounds of more broken glass.)
+
+@c      `Now tell me, Pat, what's that in the window?'
+
+@c      `Sure, it's an arm, yer honour!'  (He pronounced it `arrum.')
+
+@c      `An arm, you goose!   Who ever saw one that size?  Why, it
+@c    fills the whole window!'
+
+@c      `Sure, it does, yer honour:  but it's an arm for all that.'
+
+@c      `Well, it's got no business there, at any rate:  go and take it
+@c    away!'
+
+@c      There was a long silence after this, and Alice could only hear
+@c    whispers now and then; such as, `Sure, I don't like it, yer
+@c    honour, at all, at all!'  `Do as I tell you, you coward!' and at
+@c    last she spread out her hand again, and made another snatch in
+@c    the air.  This time there were TWO little shrieks, and more
+@c    sounds of broken glass.  `What a number of cucumber-frames there
+@c    must be!' thought Alice.  `I wonder what they'll do next!  As for
+@c    pulling me out of the window, I only wish they COULD!  I'm sure I
+@c    don't want to stay in here any longer!'
+
+@c      She waited for some time without hearing anything more:  at
+@c    last came a rumbling of little cartwheels, and the sound of a
+@c    good many voices all talking together:  she made out the words:
+@c    `Where's the other ladder?--Why, I hadn't to bring but one;
+@c    Bill's got the other--Bill! fetch it here, lad!--Here, put 'em up
+@c    at this corner--No, tie 'em together first--they don't reach half
+@c    high enough yet--Oh! they'll do well enough; don't be particular--
+@c    Here, Bill! catch hold of this rope--Will the roof bear?--Mind
+@c    that loose slate--Oh, it's coming down!  Heads below!' (a loud
+@c    crash)--`Now, who did that?--It was Bill, I fancy--Who's to go
+@c    down the chimney?--Nay, I shan't! YOU do it!--That I won't,
+@c    then!--Bill's to go down--Here, Bill! the master says you're to
+@c    go down the chimney!'
+
+@c      `Oh! So Bill's got to come down the chimney, has he?' said
+@c    Alice to herself.  `Shy, they seem to put everything upon Bill!
+@c    I wouldn't be in Bill's place for a good deal:  this fireplace is
+@c    narrow, to be sure; but I THINK I can kick a little!'
+
+@c      She drew her foot as far down the chimney as she could, and
+@c    waited till she heard a little animal (she couldn't guess of what
+@c    sort it was) scratching and scrambling about in the chimney close
+@c    above her:  then, saying to herself `This is Bill,' she gave one
+@c    sharp kick, and waited to see what would happen next.
+
+@c      The first thing she heard was a general chorus of `There goes
+@c    Bill!' then the Rabbit's voice along--`Catch him, you by the
+@c    hedge!' then silence, and then another confusion of voices--`Hold
+@c    up his head--Brandy now--Don't choke him--How was it, old fellow?
+@c    What happened to you?  Tell us all about it!'
+
+@c      Last came a little feeble, squeaking voice, (`That's Bill,'
+@c    thought Alice,) `Well, I hardly know--No more, thank ye; I'm
+@c    better now--but I'm a deal too flustered to tell you--all I know
+@c    is, something comes at me like a Jack-in-the-box, and up I goes
+@c    like a sky-rocket!'
+
+@c      `So you did, old fellow!' said the others.
+
+@c      `We must burn the house down!' said the Rabbit's voice; and
+@c    Alice called out as loud as she could, `If you do.  I'll set
+@c    Dinah at you!'
+
+@c      There was a dead silence instantly, and Alice thought to
+@c    herself, `I wonder what they WILL do next!  If they had any
+@c    sense, they'd take the roof off.'  After a minute or two, they
+@c    began moving about again, and Alice heard the Rabbit say, `A
+@c    barrowful will do, to begin with.'
+
+@c      `A barrowful of WHAT?' thought Alice; but she had not long to
+@c    doubt, for the next moment a shower of little pebbles came
+@c    rattling in at the window, and some of them hit her in the face.
+@c    `I'll put a stop to this,' she said to herself, and shouted out,
+@c    `You'd better not do that again!' which produced another dead
+@c    silence.
+
+@c      Alice noticed with some surprise that the pebbles were all
+@c    turning into little cakes as they lay on the floor, and a bright
+@c    idea came into her head.  `If I eat one of these cakes,' she
+@c    thought, `it's sure to make SOME change in my size; and as it
+@c    can't possibly make me larger, it must make me smaller, I
+@c    suppose.'
+
+@c      So she swallowed one of the cakes, and was delighted to find
+@c    that she began shrinking directly.  As soon as she was small
+@c    enough to get through the door, she ran out of the house, and
+@c    found quite a crowd of little animals and birds waiting outside.
+@c    The poor little Lizard, Bill, was in the middle, being held up by
+@c    two guinea-pigs, who were giving it something out of a bottle.
+@c    They all made a rush at Alice the moment she appeared; but she
+@c    ran off as hard as she could, and soon found herself safe in a
+@c    thick wood.
+
+@c      `The first thing I've got to do,' said Alice to herself, as she
+@c    wandered about in the wood, `is to grow to my right size again;
+@c    and the second thing is to find my way into that lovely garden.
+@c    I think that will be the best plan.'
+
+@c      It sounded an excellent plan, no doubt, and very neatly and
+@c    simply arranged; the only difficulty was, that she had not the
+@c    smallest idea how to set about it; and while she was peering
+@c    about anxiously among the trees, a little sharp bark just over
+@c    her head made her look up in a great hurry.
+
+@c      An enormous puppy was looking down at her with large round
+@c    eyes, and feebly stretching out one paw, trying to touch her.
+@c    `Poor little thing!' said Alice, in a coaxing tone, and she tried
+@c    hard to whistle to it; but she was terribly frightened all the
+@c    time at the thought that it might be hungry, in which case it
+@c    would be very likely to eat her up in spite of all her coaxing.
+
+@c      Hardly knowing what she did, she picked up a little bit of
+@c    stick, and held it out to the puppy; whereupon the puppy jumped
+@c    into the air off all its feet at once, with a yelp of delight,
+@c    and rushed at the stick, and made believe to worry it; then Alice
+@c    dodged behind a great thistle, to keep herself from being run
+@c    over; and the moment she appeared on the other side, the puppy
+@c    made another rush at the stick, and tumbled head over heels in
+@c    its hurry to get hold of it; then Alice, thinking it was very
+@c    like having a game of play with a cart-horse, and expecting every
+@c    moment to be trampled under its feet, ran round the thistle
+@c    again; then the puppy began a series of short charges at the
+@c    stick, running a very little way forwards each time and a long
+@c    way back, and barking hoarsely all the while, till at last it sat
+@c    down a good way off, panting, with its tongue hanging out of its
+@c    mouth, and its great eyes half shut.
+
+@c      This seemed to Alice a good opportunity for making her escape;
+@c    so she set off at once, and ran till she was quite tired and out
+@c    of breath, and till the puppy's bark sounded quite faint in the
+@c    distance.
+
+@c      `And yet what a dear little puppy it was!' said Alice, as she
+@c    leant against a buttercup to rest herself, and fanned herself
+@c    with one of the leaves:  `I should have liked teaching it tricks
+@c    very much, if--if I'd only been the right size to do it!  Oh
+@c    dear!  I'd nearly forgotten that I've got to grow up again!  Let
+@c    me see--how IS it to be managed?  I suppose I ought to eat or
+@c    drink something or other; but the great question is, what?'
+
+@c      The great question certainly was, what?  Alice looked all round
+@c    her at the flowers and the blades of grass, but she did not see
+@c    anything that looked like the right thing to eat or drink under
+@c    the circumstances.  There was a large mushroom growing near her,
+@c    about the same height as herself; and when she had looked under
+@c    it, and on both sides of it, and behind it, it occurred to her
+@c    that she might as well look and see what was on the top of it.
+
+@c      She stretched herself up on tiptoe, and peeped over the edge of
+@c    the mushroom, and her eyes immediately met those of a large
+@c    caterpillar, that was sitting on the top with its arms folded,
+@c    quietly smoking a long hookah, and taking not the smallest notice
+@c    of her or of anything else.
+
+
+@node    mumo'o, xamo'o, vomo'o, Top
+@chapter mumo'o [Advice from a Caterpillar]
+
+
+@c                                CHAPTER V
+
+@c                        Advice from a Caterpillar
+
+
+@c      The Caterpillar and Alice looked at each other for some time in
+@c    silence:  at last the Caterpillar took the hookah out of its
+@c    mouth, and addressed her in a languid, sleepy voice.
+
+@c      `Who are YOU?' said the Caterpillar.
+
+@c      This was not an encouraging opening for a conversation.  Alice
+@c    replied, rather shyly, `I--I hardly know, sir, just at present--
+@c    at least I know who I WAS when I got up this morning, but I think
+@c    I must have been changed several times since then.'
+
+@c      `What do you mean by that?' said the Caterpillar sternly.
+@c    `Explain yourself!'
+
+@c      `I can't explain MYSELF, I'm afraid, sir' said Alice, `because
+@c    I'm not myself, you see.'
+
+@c      `I don't see,' said the Caterpillar.
+
+@c      `I'm afraid I can't put it more clearly,' Alice replied very
+@c    politely, `for I can't understand it myself to begin with; and
+@c    being so many different sizes in a day is very confusing.'
+
+@c      `It isn't,' said the Caterpillar.
+
+@c      `Well, perhaps you haven't found it so yet,' said Alice; `but
+@c    when you have to turn into a chrysalis--you will some day, you
+@c    know--and then after that into a butterfly, I should think you'll
+@c    feel it a little queer, won't you?'
+
+@c      `Not a bit,' said the Caterpillar.
+
+@c      `Well, perhaps your feelings may be different,' said Alice;
+@c    `all I know is, it would feel very queer to ME.'
+
+@c      `You!' said the Caterpillar contemptuously.  `Who are YOU?'
+
+@c      Which brought them back again to the beginning of the
+@c    conversation.  Alice felt a little irritated at the Caterpillar's
+@c    making such VERY short remarks, and she drew herself up and said,
+@c    very gravely, `I think, you ought to tell me who YOU are, first.'
+
+@c      `Why?' said the Caterpillar.
+
+@c      Here was another puzzling question; and as Alice could not
+@c    think of any good reason, and as the Caterpillar seemed to be in
+@c    a VERY unpleasant state of mind, she turned away.
+
+@c      `Come back!' the Caterpillar called after her.  `I've something
+@c    important to say!'
+
+@c      This sounded promising, certainly:  Alice turned and came back
+@c    again.
+
+@c      `Keep your temper,' said the Caterpillar.
+
+@c      `Is that all?' said Alice, swallowing down her anger as well as
+@c    she could.
+
+@c      `No,' said the Caterpillar.
+
+@c      Alice thought she might as well wait, as she had nothing else
+@c    to do, and perhaps after all it might tell her something worth
+@c    hearing.  For some minutes it puffed away without speaking, but
+@c    at last it unfolded its arms, took the hookah out of its mouth
+@c    again, and said, `So you think you're changed, do you?'
+
+@c      `I'm afraid I am, sir,' said Alice; `I can't remember things as
+@c    I used--and I don't keep the same size for ten minutes together!'
+
+@c      `Can't remember WHAT things?' said the Caterpillar.
+
+@c      `Well, I've tried to say "HOW DOTH THE LITTLE BUSY BEE," but it
+@c    all came different!' Alice replied in a very melancholy voice.
+
+@c      `Repeat, "YOU ARE OLD, FATHER WILLIAM,"' said the Caterpillar.
+
+@c      Alice folded her hands, and began:--
+
+@c        `You are old, Father William,' the young man said,
+@c          `And your hair has become very white;
+@c        And yet you incessantly stand on your head--
+@c          Do you think, at your age, it is right?'
+
+@c        `In my youth,' Father William replied to his son,
+@c          `I feared it might injure the brain;
+@c        But, now that I'm perfectly sure I have none,
+@c          Why, I do it again and again.'
+
+@c        `You are old,' said the youth, `as I mentioned before,
+@c          And have grown most uncommonly fat;
+@c        Yet you turned a back-somersault in at the door--
+@c          Pray, what is the reason of that?'
+
+@c        `In my youth,' said the sage, as he shook his grey locks,
+@c          `I kept all my limbs very supple
+@c        By the use of this ointment--one shilling the box--
+@c          Allow me to sell you a couple?'
+
+@c        `You are old,' said the youth, `and your jaws are too weak
+@c          For anything tougher than suet;
+@c        Yet you finished the goose, with the bones and the beak--
+@c          Pray how did you manage to do it?'
+
+@c        `In my youth,' said his father, `I took to the law,
+@c          And argued each case with my wife;
+@c        And the muscular strength, which it gave to my jaw,
+@c          Has lasted the rest of my life.'
+
+@c        `You are old,' said the youth, `one would hardly suppose
+@c          That your eye was as steady as ever;
+@c        Yet you balanced an eel on the end of your nose--
+@c          What made you so awfully clever?'
+
+@c        `I have answered three questions, and that is enough,'
+@c          Said his father; `don't give yourself airs!
+@c        Do you think I can listen all day to such stuff?
+@c          Be off, or I'll kick you down stairs!'
+
+
+@c      `That is not said right,' said the Caterpillar.
+
+@c      `Not QUITE right, I'm afraid,' said Alice, timidly; `some of the
+@c    words have got altered.'
+
+@c      `It is wrong from beginning to end,' said the Caterpillar
+@c    decidedly, and there was silence for some minutes.
+
+@c      The Caterpillar was the first to speak.
+
+@c      `What size do you want to be?' it asked.
+
+@c      `Oh, I'm not particular as to size,' Alice hastily replied;
+@c    `only one doesn't like changing so often, you know.'
+
+@c      `I DON'T know,' said the Caterpillar.
+
+@c      Alice said nothing:  she had never been so much contradicted in
+@c    her life before, and she felt that she was losing her temper.
+
+@c      `Are you content now?' said the Caterpillar.
+
+@c      `Well, I should like to be a LITTLE larger, sir, if you
+@c    wouldn't mind,' said Alice:  `three inches is such a wretched
+@c    height to be.'
+
+@c      `It is a very good height indeed!' said the Caterpillar
+@c    angrily, rearing itself upright as it spoke (it was exactly three
+@c    inches high).
+
+@c      `But I'm not used to it!' pleaded poor Alice in a piteous tone.
+@c    And she thought of herself, `I wish the creatures wouldn't be so
+@c    easily offended!'
+
+@c      `You'll get used to it in time,' said the Caterpillar; and it
+@c    put the hookah into its mouth and began smoking again.
+
+@c      This time Alice waited patiently until it chose to speak again.
+@c    In a minute or two the Caterpillar took the hookah out of its
+@c    mouth and yawned once or twice, and shook itself.  Then it got
+@c    down off the mushroom, and crawled away in the grass, merely
+@c    remarking as it went, `One side will make you grow taller, and
+@c    the other side will make you grow shorter.'
+
+@c      `One side of WHAT?  The other side of WHAT?' thought Alice to
+@c    herself.
+
+@c      `Of the mushroom,' said the Caterpillar, just as if she had
+@c    asked it aloud; and in another moment it was out of sight.
+
+@c      Alice remained looking thoughtfully at the mushroom for a
+@c    minute, trying to make out which were the two sides of it; and as
+@c    it was perfectly round, she found this a very difficult question.
+@c    However, at last she stretched her arms round it as far as they
+@c    would go, and broke off a bit of the edge with each hand.
+
+@c      `And now which is which?' she said to herself, and nibbled a
+@c    little of the right-hand bit to try the effect:  the next moment
+@c    she felt a violent blow underneath her chin:  it had struck her
+@c    foot!
+
+@c      She was a good deal frightened by this very sudden change, but
+@c    she felt that there was no time to be lost, as she was shrinking
+@c    rapidly; so she set to work at once to eat some of the other bit.
+@c    Her chin was pressed so closely against her foot, that there was
+@c    hardly room to open her mouth; but she did it at last, and
+@c    managed to swallow a morsel of the lefthand bit.
+
+
+@c         *       *       *       *       *       *       *
+
+@c             *       *       *       *       *       *
+
+@c         *       *       *       *       *       *       *
+
+@c      `Come, my head's free at last!' said Alice in a tone of
+@c    delight, which changed into alarm in another moment, when she
+@c    found that her shoulders were nowhere to be found:  all she could
+@c    see, when she looked down, was an immense length of neck, which
+@c    seemed to rise like a stalk out of a sea of green leaves that lay
+@c    far below her.
+
+@c      `What CAN all that green stuff be?' said Alice.  `And where
+@c    HAVE my shoulders got to?  And oh, my poor hands, how is it I
+@c    can't see you?'  She was moving them about as she spoke, but no
+@c    result seemed to follow, except a little shaking among the
+@c    distant green leaves.
+
+@c      As there seemed to be no chance of getting her hands up to her
+@c    head, she tried to get her head down to them, and was delighted
+@c    to find that her neck would bend about easily in any direction,
+@c    like a serpent.  She had just succeeded in curving it down into a
+@c    graceful zigzag, and was going to dive in among the leaves, which
+@c    she found to be nothing but the tops of the trees under which she
+@c    had been wandering, when a sharp hiss made her draw back in a
+@c    hurry:  a large pigeon had flown into her face, and was beating
+@c    her violently with its wings.
+
+@c      `Serpent!' screamed the Pigeon.
+
+@c      `I'm NOT a serpent!' said Alice indignantly.  `Let me alone!'
+
+@c      `Serpent, I say again!' repeated the Pigeon, but in a more
+@c    subdued tone, and added with a kind of sob, `I've tried every
+@c    way, and nothing seems to suit them!'
+
+@c      `I haven't the least idea what you're talking about,' said
+@c    Alice.
+
+@c      `I've tried the roots of trees, and I've tried banks, and I've
+@c    tried hedges,' the Pigeon went on, without attending to her; `but
+@c    those serpents!  There's no pleasing them!'
+
+@c      Alice was more and more puzzled, but she thought there was no
+@c    use in saying anything more till the Pigeon had finished.
+
+@c      `As if it wasn't trouble enough hatching the eggs,' said the
+@c    Pigeon; `but I must be on the look-out for serpents night and
+@c    day!  Why, I haven't had a wink of sleep these three weeks!'
+
+@c      `I'm very sorry you've been annoyed,' said Alice, who was
+@c    beginning to see its meaning.
+
+@c      `And just as I'd taken the highest tree in the wood,' continued
+@c    the Pigeon, raising its voice to a shriek, `and just as I was
+@c    thinking I should be free of them at last, they must needs come
+@c    wriggling down from the sky!  Ugh, Serpent!'
+
+@c      `But I'm NOT a serpent, I tell you!' said Alice.  `I'm a--I'm
+@c    a--'
+
+@c      `Well!  WHAT are you?' said the Pigeon.  `I can see you're
+@c    trying to invent something!'
+
+@c      `I--I'm a little girl,' said Alice, rather doubtfully, as she
+@c    remembered the number of changes she had gone through that day.
+
+@c      `A likely story indeed!' said the Pigeon in a tone of the
+@c    deepest contempt.  `I've seen a good many little girls in my
+@c    time, but never ONE with such a neck as that!  No, no!  You're a
+@c    serpent; and there's no use denying it.  I suppose you'll be
+@c    telling me next that you never tasted an egg!'
+
+@c      `I HAVE tasted eggs, certainly,' said Alice, who was a very
+@c    truthful child; `but little girls eat eggs quite as much as
+@c    serpents do, you know.'
+
+@c      `I don't believe it,' said the Pigeon; `but if they do, why
+@c    then they're a kind of serpent, that's all I can say.'
+
+@c      This was such a new idea to Alice, that she was quite silent
+@c    for a minute or two, which gave the Pigeon the opportunity of
+@c    adding, `You're looking for eggs, I know THAT well enough; and
+@c    what does it matter to me whether you're a little girl or a
+@c    serpent?'
+
+@c      `It matters a good deal to ME,' said Alice hastily; `but I'm
+@c    not looking for eggs, as it happens; and if I was, I shouldn't
+@c    want YOURS:  I don't like them raw.'
+
+@c      `Well, be off, then!' said the Pigeon in a sulky tone, as it
+@c    settled down again into its nest.  Alice crouched down among the
+@c    trees as well as she could, for her neck kept getting entangled
+@c    among the branches, and every now and then she had to stop and
+@c    untwist it.  After a while she remembered that she still held the
+@c    pieces of mushroom in her hands, and she set to work very
+@c    carefully, nibbling first at one and then at the other, and
+@c    growing sometimes taller and sometimes shorter, until she had
+@c    succeeded in bringing herself down to her usual height.
+
+@c      It was so long since she had been anything near the right size,
+@c    that it felt quite strange at first; but she got used to it in a
+@c    few minutes, and began talking to herself, as usual.  `Come,
+@c    there's half my plan done now!  How puzzling all these changes
+@c    are!  I'm never sure what I'm going to be, from one minute to
+@c    another!  However, I've got back to my right size:  the next
+@c    thing is, to get into that beautiful garden--how IS that to be
+@c    done, I wonder?'  As she said this, she came suddenly upon an
+@c    open place, with a little house in it about four feet high.
+@c    `Whoever lives there,' thought Alice, `it'll never do to come
+@c    upon them THIS size:  why, I should frighten them out of their
+@c    wits!'  So she began nibbling at the righthand bit again, and did
+@c    not venture to go near the house till she had brought herself
+@c    down to nine inches high.
+
+
+@node    xamo'o, zemo'o, mumo'o, Top
+@chapter xamo'o [Pig And Pepper]
+
+
+@c                               CHAPTER VI
+
+@c                             Pig and Pepper
+
+
+@c      For a minute or two she stood looking at the house, and
+@c    wondering what to do next, when suddenly a footman in livery came
+@c    running out of the wood--(she considered him to be a footman
+@c    because he was in livery:  otherwise, judging by his face only,
+@c    she would have called him a fish)--and rapped loudly at the door
+@c    with his knuckles.  It was opened by another footman in livery,
+@c    with a round face, and large eyes like a frog; and both footmen,
+@c    Alice noticed, had powdered hair that curled all over their
+@c    heads.  She felt very curious to know what it was all about, and
+@c    crept a little way out of the wood to listen.
+
+@c      The Fish-Footman began by producing from under his arm a great
+@c    letter, nearly as large as himself, and this he handed over to
+@c    the other, saying, in a solemn tone, `For the Duchess.  An
+@c    invitation from the Queen to play croquet.'  The Frog-Footman
+@c    repeated, in the same solemn tone, only changing the order of the
+@c    words a little, `From the Queen.  An invitation for the Duchess
+@c    to play croquet.'
+
+@c      Then they both bowed low, and their curls got entangled
+@c    together.
+
+@c      Alice laughed so much at this, that she had to run back into
+@c    the wood for fear of their hearing her; and when she next peeped
+@c    out the Fish-Footman was gone, and the other was sitting on the
+@c    ground near the door, staring stupidly up into the sky.
+
+@c      Alice went timidly up to the door, and knocked.
+
+@c      `There's no sort of use in knocking,' said the Footman, `and
+@c    that for two reasons.  First, because I'm on the same side of the
+@c    door as you are; secondly, because they're making such a noise
+@c    inside, no one could possibly hear you.'  And certainly there was
+@c    a most extraordinary noise going on within--a constant howling
+@c    and sneezing, and every now and then a great crash, as if a dish
+@c    or kettle had been broken to pieces.
+
+@c      `Please, then,' said Alice, `how am I to get in?'
+
+@c      `There might be some sense in your knocking,' the Footman went
+@c    on without attending to her, `if we had the door between us.  For
+@c    instance, if you were INSIDE, you might knock, and I could let
+@c    you out, you know.'  He was looking up into the sky all the time
+@c    he was speaking, and this Alice thought decidedly uncivil.  `But
+@c    perhaps he can't help it,' she said to herself; `his eyes are so
+@c    VERY nearly at the top of his head.  But at any rate he might
+@c    answer questions.--How am I to get in?' she repeated, aloud.
+
+@c      `I shall sit here,' the Footman remarked, `till tomorrow--'
+
+@c      At this moment the door of the house opened, and a large plate
+@c    came skimming out, straight at the Footman's head:  it just
+@c    grazed his nose, and broke to pieces against one of the trees
+@c    behind him.
+
+@c      `--or next day, maybe,' the Footman continued in the same tone,
+@c    exactly as if nothing had happened.
+
+@c      `How am I to get in?' asked Alice again, in a louder tone.
+
+@c      `ARE you to get in at all?' said the Footman.  `That's the
+@c    first question, you know.'
+
+@c      It was, no doubt:  only Alice did not like to be told so.
+@c    `It's really dreadful,' she muttered to herself, `the way all the
+@c    creatures argue.  It's enough to drive one crazy!'
+
+@c      The Footman seemed to think this a good opportunity for
+@c    repeating his remark, with variations.  `I shall sit here,' he
+@c    said, `on and off, for days and days.'
+
+@c      `But what am I to do?' said Alice.
+
+@c      `Anything you like,' said the Footman, and began whistling.
+
+@c      `Oh, there's no use in talking to him,' said Alice desperately:
+@c    `he's perfectly idiotic!'  And she opened the door and went in.
+
+@c      The door led right into a large kitchen, which was full of
+@c    smoke from one end to the other:  the Duchess was sitting on a
+@c    three-legged stool in the middle, nursing a baby; the cook was
+@c    leaning over the fire, stirring a large cauldron which seemed to
+@c    be full of soup.
+
+@c      `There's certainly too much pepper in that soup!' Alice said to
+@c    herself, as well as she could for sneezing.
+
+@c      There was certainly too much of it in the air.  Even the
+@c    Duchess sneezed occasionally; and as for the baby, it was
+@c    sneezing and howling alternately without a moment's pause.  The
+@c    only things in the kitchen that did not sneeze, were the cook,
+@c    and a large cat which was sitting on the hearth and grinning from
+@c    ear to ear.
+
+@c      `Please would you tell me,' said Alice, a little timidly, for
+@c    she was not quite sure whether it was good manners for her to
+@c    speak first, `why your cat grins like that?'
+
+@c      `It's a Cheshire cat,' said the Duchess, `and that's why.  Pig!'
+
+@c      She said the last word with such sudden violence that Alice
+@c    quite jumped; but she saw in another moment that it was addressed
+@c    to the baby, and not to her, so she took courage, and went on
+@c    again:--
+
+@c      `I didn't know that Cheshire cats always grinned; in fact, I
+@c    didn't know that cats COULD grin.'
+
+@c      `They all can,' said the Duchess; `and most of 'em do.'
+
+@c      `I don't know of any that do,' Alice said very politely,
+@c    feeling quite pleased to have got into a conversation.
+
+@c      `You don't know much,' said the Duchess; `and that's a fact.'
+
+@c      Alice did not at all like the tone of this remark, and thought
+@c    it would be as well to introduce some other subject of
+@c    conversation.  While she was trying to fix on one, the cook took
+@c    the cauldron of soup off the fire, and at once set to work
+@c    throwing everything within her reach at the Duchess and the baby
+@c    --the fire-irons came first; then followed a shower of saucepans,
+@c    plates, and dishes.  The Duchess took no notice of them even when
+@c    they hit her; and the baby was howling so much already, that it
+@c    was quite impossible to say whether the blows hurt it or not.
+
+@c      `Oh, PLEASE mind what you're doing!' cried Alice, jumping up
+@c    and down in an agony of terror.  `Oh, there goes his PRECIOUS
+@c    nose'; as an unusually large saucepan flew close by it, and very
+@c    nearly carried it off.
+
+@c      `If everybody minded their own business,' the Duchess said in a
+@c    hoarse growl, `the world would go round a deal faster than it
+@c    does.'
+
+@c      `Which would NOT be an advantage,' said Alice, who felt very
+@c    glad to get an opportunity of showing off a little of her
+@c    knowledge.  `Just think of what work it would make with the day
+@c    and night!  You see the earth takes twenty-four hours to turn
+@c    round on its axis--'
+
+@c      `Talking of axes,' said the Duchess, `chop off her head!'
+
+@c      Alice glanced rather anxiously at the cook, to see if she meant
+@c    to take the hint; but the cook was busily stirring the soup, and
+@c    seemed not to be listening, so she went on again:  `Twenty-four
+@c    hours, I THINK; or is it twelve?  I--'
+
+@c      `Oh, don't bother ME,' said the Duchess; `I never could abide
+@c    figures!'  And with that she began nursing her child again,
+@c    singing a sort of lullaby to it as she did so, and giving it a
+@c    violent shake at the end of every line:
+
+@c            `Speak roughly to your little boy,
+@c              And beat him when he sneezes:
+@c            He only does it to annoy,
+@c              Because he knows it teases.'
+
+@c                        CHORUS.
+
+@c        (In which the cook and the baby joined):--
+
+@c                    `Wow! wow! wow!'
+
+@c      While the Duchess sang the second verse of the song, she kept
+@c    tossing the baby violently up and down, and the poor little thing
+@c    howled so, that Alice could hardly hear the words:--
+
+@c            `I speak severely to my boy,
+@c              I beat him when he sneezes;
+@c            For he can thoroughly enjoy
+@c              The pepper when he pleases!'
+
+@c                        CHORUS.
+
+@c                    `Wow! wow! wow!'
+
+@c      `Here! you may nurse it a bit, if you like!' the Duchess said
+@c    to Alice, flinging the baby at her as she spoke.  `I must go and
+@c    get ready to play croquet with the Queen,' and she hurried out of
+@c    the room.  The cook threw a frying-pan after her as she went out,
+@c    but it just missed her.
+
+@c      Alice caught the baby with some difficulty, as it was a queer-
+@c    shaped little creature, and held out its arms and legs in all
+@c    directions, `just like a star-fish,' thought Alice.  The poor
+@c    little thing was snorting like a steam-engine when she caught it,
+@c    and kept doubling itself up and straightening itself out again,
+@c    so that altogether, for the first minute or two, it was as much
+@c    as she could do to hold it.
+
+@c      As soon as she had made out the proper way of nursing it,
+@c    (which was to twist it up into a sort of knot, and then keep
+@c    tight hold of its right ear and left foot, so as to prevent its
+@c    undoing itself,) she carried it out into the open air.  `IF I
+@c    don't take this child away with me,' thought Alice, `they're sure
+@c    to kill it in a day or two:  wouldn't it be murder to leave it
+@c    behind?'  She said the last words out loud, and the little thing
+@c    grunted in reply (it had left off sneezing by this time).  `Don't
+@c    grunt,' said Alice; `that's not at all a proper way of expressing
+@c    yourself.'
+
+@c      The baby grunted again, and Alice looked very anxiously into
+@c    its face to see what was the matter with it.  There could be no
+@c    doubt that it had a VERY turn-up nose, much more like a snout
+@c    than a real nose; also its eyes were getting extremely small for
+@c    a baby:  altogether Alice did not like the look of the thing at
+@c    all.  `But perhaps it was only sobbing,' she thought, and looked
+@c    into its eyes again, to see if there were any tears.
+
+@c      No, there were no tears.  `If you're going to turn into a pig,
+@c    my dear,' said Alice, seriously, `I'll have nothing more to do
+@c    with you.  Mind now!'  The poor little thing sobbed again (or
+@c    grunted, it was impossible to say which), and they went on for
+@c    some while in silence.
+
+@c      Alice was just beginning to think to herself, `Now, what am I
+@c    to do with this creature when I get it home?' when it grunted
+@c    again, so violently, that she looked down into its face in some
+@c    alarm.  This time there could be NO mistake about it:  it was
+@c    neither more nor less than a pig, and she felt that it would be
+@c    quite absurd for her to carry it further.
+
+@c      So she set the little creature down, and felt quite relieved to
+@c    see it trot away quietly into the wood.  `If it had grown up,'
+@c    she said to herself, `it would have made a dreadfully ugly child:
+@c    but it makes rather a handsome pig, I think.'  And she began
+@c    thinking over other children she knew, who might do very well as
+@c    pigs, and was just saying to herself, `if one only knew the right
+@c    way to change them--' when she was a little startled by seeing
+@c    the Cheshire Cat sitting on a bough of a tree a few yards off.
+
+@c      The Cat only grinned when it saw Alice.  It looked good-
+@c    natured, she thought:  still it had VERY long claws and a great
+@c    many teeth, so she felt that it ought to be treated with respect.
+
+@c      `Cheshire Puss,' she began, rather timidly, as she did not at
+@c    all know whether it would like the name:  however, it only
+@c    grinned a little wider.  `Come, it's pleased so far,' thought
+@c    Alice, and she went on.  `Would you tell me, please, which way I
+@c    ought to go from here?'
+
+@c      `That depends a good deal on where you want to get to,' said
+@c    the Cat.
+
+@c      `I don't much care where--' said Alice.
+
+@c      `Then it doesn't matter which way you go,' said the Cat.
+
+@c      `--so long as I get SOMEWHERE,' Alice added as an explanation.
+
+@c      `Oh, you're sure to do that,' said the Cat, `if you only walk
+@c    long enough.'
+
+@c      Alice felt that this could not be denied, so she tried another
+@c    question.  `What sort of people live about here?'
+
+@c      `In THAT direction,' the Cat said, waving its right paw round,
+@c    `lives a Hatter:  and in THAT direction,' waving the other paw,
+@c    `lives a March Hare.  Visit either you like:  they're both mad.'
+
+@c      `But I don't want to go among mad people,' Alice remarked.
+
+@c      `Oh, you can't help that,' said the Cat:  `we're all mad here.
+@c    I'm mad.  You're mad.'
+
+@c      `How do you know I'm mad?' said Alice.
+
+@c      `You must be,' said the Cat, `or you wouldn't have come here.'
+
+@c      Alice didn't think that proved it at all; however, she went on
+@c    `And how do you know that you're mad?'
+
+@c      `To begin with,' said the Cat, `a dog's not mad.  You grant
+@c    that?'
+
+@c      `I suppose so,' said Alice.
+
+@c      `Well, then,' the Cat went on, `you see, a dog growls when it's
+@c    angry, and wags its tail when it's pleased.  Now I growl when I'm
+@c    pleased, and wag my tail when I'm angry.  Therefore I'm mad.'
+
+@c      `I call it purring, not growling,' said Alice.
+
+@c      `Call it what you like,' said the Cat.  `Do you play croquet
+@c    with the Queen to-day?'
+
+@c      `I should like it very much,' said Alice, `but I haven't been
+@c    invited yet.'
+
+@c      `You'll see me there,' said the Cat, and vanished.
+
+@c      Alice was not much surprised at this, she was getting so used
+@c    to queer things happening.  While she was looking at the place
+@c    where it had been, it suddenly appeared again.
+
+@c      `By-the-bye, what became of the baby?' said the Cat.  `I'd
+@c    nearly forgotten to ask.'
+
+@c      `It turned into a pig,' Alice quietly said, just as if it had
+@c    come back in a natural way.
+
+@c      `I thought it would,' said the Cat, and vanished again.
+
+@c      Alice waited a little, half expecting to see it again, but it
+@c    did not appear, and after a minute or two she walked on in the
+@c    direction in which the March Hare was said to live.  `I've seen
+@c    hatters before,' she said to herself; `the March Hare will be
+@c    much the most interesting, and perhaps as this is May it won't be
+@c    raving mad--at least not so mad as it was in March.'  As she said
+@c    this, she looked up, and there was the Cat again, sitting on a
+@c    branch of a tree.
+
+@c      `Did you say pig, or fig?' said the Cat.
+
+@c      `I said pig,' replied Alice; `and I wish you wouldn't keep
+@c    appearing and vanishing so suddenly:  you make one quite giddy.'
+
+@c      `All right,' said the Cat; and this time it vanished quite slowly,
+@c    beginning with the end of the tail, and ending with the grin,
+@c    which remained some time after the rest of it had gone.
+
+@c      `Well!  I've often seen a cat without a grin,' thought Alice;
+@c    `but a grin without a cat!  It's the most curious thing I ever
+@c    saw in my life!'
+
+@c      She had not gone much farther before she came in sight of the
+@c    house of the March Hare:  she thought it must be the right house,
+@c    because the chimneys were shaped like ears and the roof was
+@c    thatched with fur.  It was so large a house, that she did not
+@c    like to go nearer till she had nibbled some more of the lefthand
+@c    bit of mushroom, and raised herself to about two feet high:  even
+@c    then she walked up towards it rather timidly, saying to herself
+@c    `Suppose it should be raving mad after all!  I almost wish I'd
+@c    gone to see the Hatter instead!'
+
+
+@node    zemo'o, bimo'o, xamo'o, Top
+@chapter zemo'o [A Mad Tea-Party]
+
+
+@c                               CHAPTER VII
+
+@c                             A Mad Tea-Party
+
+
+@c      There was a table set out under a tree in front of the house,
+@c    and the March Hare and the Hatter were having tea at it:  a
+@c    Dormouse was sitting between them, fast asleep, and the other two
+@c    were using it as a cushion, resting their elbows on it, and talking
+@c    over its head.  `Very uncomfortable for the Dormouse,' thought Alice;
+@c    `only, as it's asleep, I suppose it doesn't mind.'
+
+@c      The table was a large one, but the three were all crowded
+@c    together at one corner of it:  `No room!  No room!' they cried
+@c    out when they saw Alice coming.  `There's PLENTY of room!' said
+@c    Alice indignantly, and she sat down in a large arm-chair at one
+@c    end of the table.
+
+@c      `Have some wine,' the March Hare said in an encouraging tone.
+
+@c      Alice looked all round the table, but there was nothing on it
+@c    but tea.  `I don't see any wine,' she remarked.
+
+@c      `There isn't any,' said the March Hare.
+
+@c      `Then it wasn't very civil of you to offer it,' said Alice
+@c    angrily.
+
+@c      `It wasn't very civil of you to sit down without being
+@c    invited,' said the March Hare.
+
+@c      `I didn't know it was YOUR table,' said Alice; `it's laid for a
+@c    great many more than three.'
+
+@c      `Your hair wants cutting,' said the Hatter.  He had been
+@c    looking at Alice for some time with great curiosity, and this was
+@c    his first speech.
+
+@c      `You should learn not to make personal remarks,' Alice said
+@c    with some severity; `it's very rude.'
+
+@c      The Hatter opened his eyes very wide on hearing this; but all
+@c    he SAID was, `Why is a raven like a writing-desk?'
+
+@c      `Come, we shall have some fun now!' thought Alice.  `I'm glad
+@c    they've begun asking riddles.--I believe I can guess that,' she
+@c    added aloud.
+
+@c      `Do you mean that you think you can find out the answer to it?'
+@c    said the March Hare.
+
+@c      `Exactly so,' said Alice.
+
+@c      `Then you should say what you mean,' the March Hare went on.
+
+@c      `I do,' Alice hastily replied; `at least--at least I mean what
+@c    I say--that's the same thing, you know.'
+
+@c      `Not the same thing a bit!' said the Hatter.  `You might just
+@c    as well say that "I see what I eat" is the same thing as "I eat
+@c    what I see"!'
+
+@c      `You might just as well say,' added the March Hare, `that "I
+@c    like what I get" is the same thing as "I get what I like"!'
+
+@c      `You might just as well say,' added the Dormouse, who seemed to
+@c    be talking in his sleep, `that "I breathe when I sleep" is the
+@c    same thing as "I sleep when I breathe"!'
+
+@c      `It IS the same thing with you,' said the Hatter, and here the
+@c    conversation dropped, and the party sat silent for a minute,
+@c    while Alice thought over all she could remember about ravens and
+@c    writing-desks, which wasn't much.
+
+@c      The Hatter was the first to break the silence.  `What day of
+@c    the month is it?' he said, turning to Alice:  he had taken his
+@c    watch out of his pocket, and was looking at it uneasily, shaking
+@c    it every now and then, and holding it to his ear.
+
+@c      Alice considered a little, and then said `The fourth.'
+
+@c      `Two days wrong!' sighed the Hatter.  `I told you butter
+@c    wouldn't suit the works!' he added looking angrily at the March
+@c    Hare.
+
+@c      `It was the BEST butter,' the March Hare meekly replied.
+
+@c      `Yes, but some crumbs must have got in as well,' the Hatter
+@c    grumbled:  `you shouldn't have put it in with the bread-knife.'
+
+@c      The March Hare took the watch and looked at it gloomily:  then
+@c    he dipped it into his cup of tea, and looked at it again:  but he
+@c    could think of nothing better to say than his first remark, `It
+@c    was the BEST butter, you know.'
+
+@c      Alice had been looking over his shoulder with some curiosity.
+@c    `What a funny watch!' she remarked.  `It tells the day of the
+@c    month, and doesn't tell what o'clock it is!'
+
+@c      `Why should it?' muttered the Hatter.  `Does YOUR watch tell
+@c    you what year it is?'
+
+@c      `Of course not,' Alice replied very readily:  `but that's
+@c    because it stays the same year for such a long time together.'
+
+@c      `Which is just the case with MINE,' said the Hatter.
+
+@c      Alice felt dreadfully puzzled.  The Hatter's remark seemed to
+@c    have no sort of meaning in it, and yet it was certainly English.
+@c    `I don't quite understand you,' she said, as politely as she
+@c    could.
+
+@c      `The Dormouse is asleep again,' said the Hatter, and he poured
+@c    a little hot tea upon its nose.
+
+@c      The Dormouse shook its head impatiently, and said, without
+@c    opening its eyes, `Of course, of course; just what I was going to
+@c    remark myself.'
+
+@c      `Have you guessed the riddle yet?' the Hatter said, turning to
+@c    Alice again.
+
+@c      `No, I give it up,' Alice replied:  `what's the answer?'
+
+@c      `I haven't the slightest idea,' said the Hatter.
+
+@c      `Nor I,' said the March Hare.
+
+@c      Alice sighed wearily.  `I think you might do something better
+@c    with the time,' she said, `than waste it in asking riddles that
+@c    have no answers.'
+
+@c      `If you knew Time as well as I do,' said the Hatter, `you
+@c    wouldn't talk about wasting IT.  It's HIM.'
+
+@c      `I don't know what you mean,' said Alice.
+
+@c      `Of course you don't!' the Hatter said, tossing his head
+@c    contemptuously.  `I dare say you never even spoke to Time!'
+
+@c      `Perhaps not,' Alice cautiously replied:  `but I know I have to
+@c    beat time when I learn music.'
+
+@c      `Ah! that accounts for it,' said the Hatter.  `He won't stand
+@c    beating.  Now, if you only kept on good terms with him, he'd do
+@c    almost anything you liked with the clock.  For instance, suppose
+@c    it were nine o'clock in the morning, just time to begin lessons:
+@c    you'd only have to whisper a hint to Time, and round goes the
+@c    clock in a twinkling!  Half-past one, time for dinner!'
+
+@c      (`I only wish it was,' the March Hare said to itself in a
+@c    whisper.)
+
+@c      `That would be grand, certainly,' said Alice thoughtfully:
+@c    `but then--I shouldn't be hungry for it, you know.'
+
+@c      `Not at first, perhaps,' said the Hatter:  `but you could keep
+@c    it to half-past one as long as you liked.'
+
+@c      `Is that the way YOU manage?' Alice asked.
+
+@c      The Hatter shook his head mournfully.  `Not I!' he replied.
+@c    `We quarrelled last March--just before HE went mad, you know--'
+@c    (pointing with his tea spoon at the March Hare,) `--it was at the
+@c    great concert given by the Queen of Hearts, and I had to sing
+
+@c                "Twinkle, twinkle, little bat!
+@c                How I wonder what you're at!"
+
+@c    You know the song, perhaps?'
+
+@c      `I've heard something like it,' said Alice.
+
+@c      `It goes on, you know,' the Hatter continued, `in this way:--
+
+@c                "Up above the world you fly,
+@c                Like a tea-tray in the sky.
+@c                        Twinkle, twinkle--"'
+
+@c    Here the Dormouse shook itself, and began singing in its sleep
+@c    `Twinkle, twinkle, twinkle, twinkle--' and went on so long that
+@c    they had to pinch it to make it stop.
+
+@c      `Well, I'd hardly finished the first verse,' said the Hatter,
+@c    `when the Queen jumped up and bawled out, "He's murdering the
+@c    time!  Off with his head!"'
+
+@c      `How dreadfully savage!' exclaimed Alice.
+
+@c      `And ever since that,' the Hatter went on in a mournful tone,
+@c    `he won't do a thing I ask!  It's always six o'clock now.'
+
+@c      A bright idea came into Alice's head.  `Is that the reason so
+@c    many tea-things are put out here?' she asked.
+
+@c      `Yes, that's it,' said the Hatter with a sigh:  `it's always
+@c    tea-time, and we've no time to wash the things between whiles.'
+
+@c      `Then you keep moving round, I suppose?' said Alice.
+
+@c      `Exactly so,' said the Hatter:  `as the things get used up.'
+
+@c      `But what happens when you come to the beginning again?' Alice
+@c    ventured to ask.
+
+@c      `Suppose we change the subject,' the March Hare interrupted,
+@c    yawning.  `I'm getting tired of this.  I vote the young lady
+@c    tells us a story.'
+
+@c      `I'm afraid I don't know one,' said Alice, rather alarmed at
+@c    the proposal.
+
+@c      `Then the Dormouse shall!' they both cried.  `Wake up,
+@c    Dormouse!'  And they pinched it on both sides at once.
+
+@c      The Dormouse slowly opened his eyes.  `I wasn't asleep,' he
+@c    said in a hoarse, feeble voice:  `I heard every word you fellows
+@c    were saying.'
+
+@c      `Tell us a story!' said the March Hare.
+
+@c      `Yes, please do!' pleaded Alice.
+
+@c      `And be quick about it,' added the Hatter, `or you'll be asleep
+@c    again before it's done.'
+
+@c      `Once upon a time there were three little sisters,' the
+@c    Dormouse began in a great hurry; `and their names were Elsie,
+@c    Lacie, and Tillie; and they lived at the bottom of a well--'
+
+@c      `What did they live on?' said Alice, who always took a great
+@c    interest in questions of eating and drinking.
+
+@c      `They lived on treacle,' said the Dormouse, after thinking a
+@c    minute or two.
+
+@c      `They couldn't have done that, you know,' Alice gently
+@c    remarked; `they'd have been ill.'
+
+@c      `So they were,' said the Dormouse; `VERY ill.'
+
+@c      Alice tried to fancy to herself what such an extraordinary ways
+@c    of living would be like, but it puzzled her too much, so she went
+@c    on:  `But why did they live at the bottom of a well?'
+
+@c      `Take some more tea,' the March Hare said to Alice, very
+@c    earnestly.
+
+@c      `I've had nothing yet,' Alice replied in an offended tone, `so
+@c    I can't take more.'
+
+@c      `You mean you can't take LESS,' said the Hatter:  `it's very
+@c    easy to take MORE than nothing.'
+
+@c      `Nobody asked YOUR opinion,' said Alice.
+
+@c      `Who's making personal remarks now?' the Hatter asked
+@c    triumphantly.
+
+@c      Alice did not quite know what to say to this:  so she helped
+@c    herself to some tea and bread-and-butter, and then turned to the
+@c    Dormouse, and repeated her question.  `Why did they live at the
+@c    bottom of a well?'
+
+@c      The Dormouse again took a minute or two to think about it, and
+@c    then said, `It was a treacle-well.'
+
+@c      `There's no such thing!'  Alice was beginning very angrily, but
+@c    the Hatter and the March Hare went `Sh! sh!' and the Dormouse
+@c    sulkily remarked, `If you can't be civil, you'd better finish the
+@c    story for yourself.'
+
+@c      `No, please go on!' Alice said very humbly; `I won't interrupt
+@c    again.  I dare say there may be ONE.'
+
+@c      `One, indeed!' said the Dormouse indignantly.  However, he
+@c    consented to go on.  `And so these three little sisters--they
+@c    were learning to draw, you know--'
+
+@c      `What did they draw?' said Alice, quite forgetting her promise.
+
+@c      `Treacle,' said the Dormouse, without considering at all this
+@c    time.
+
+@c      `I want a clean cup,' interrupted the Hatter:  `let's all move
+@c    one place on.'
+
+@c      He moved on as he spoke, and the Dormouse followed him:  the
+@c    March Hare moved into the Dormouse's place, and Alice rather
+@c    unwillingly took the place of the March Hare.  The Hatter was the
+@c    only one who got any advantage from the change:  and Alice was a
+@c    good deal worse off than before, as the March Hare had just upset
+@c    the milk-jug into his plate.
+
+@c      Alice did not wish to offend the Dormouse again, so she began
+@c    very cautiously:  `But I don't understand.  Where did they draw
+@c    the treacle from?'
+
+@c      `You can draw water out of a water-well,' said the Hatter; `so
+@c    I should think you could draw treacle out of a treacle-well--eh,
+@c    stupid?'
+
+@c      `But they were IN the well,' Alice said to the Dormouse, not
+@c    choosing to notice this last remark.
+
+@c      `Of course they were', said the Dormouse; `--well in.'
+
+@c      This answer so confused poor Alice, that she let the Dormouse
+@c    go on for some time without interrupting it.
+
+@c      `They were learning to draw,' the Dormouse went on, yawning and
+@c    rubbing its eyes, for it was getting very sleepy; `and they drew
+@c    all manner of things--everything that begins with an M--'
+
+@c      `Why with an M?' said Alice.
+
+@c      `Why not?' said the March Hare.
+
+@c      Alice was silent.
+
+@c      The Dormouse had closed its eyes by this time, and was going
+@c    off into a doze; but, on being pinched by the Hatter, it woke up
+@c    again with a little shriek, and went on:  `--that begins with an
+@c    M, such as mouse-traps, and the moon, and memory, and muchness--
+@c    you know you say things are "much of a muchness"--did you ever
+@c    see such a thing as a drawing of a muchness?'
+
+@c      `Really, now you ask me,' said Alice, very much confused, `I
+@c    don't think--'
+
+@c      `Then you shouldn't talk,' said the Hatter.
+
+@c      This piece of rudeness was more than Alice could bear:  she got
+@c    up in great disgust, and walked off; the Dormouse fell asleep
+@c    instantly, and neither of the others took the least notice of her
+@c    going, though she looked back once or twice, half hoping that
+@c    they would call after her:  the last time she saw them, they were
+@c    trying to put the Dormouse into the teapot.
+
+@c      `At any rate I'll never go THERE again!' said Alice as she
+@c    picked her way through the wood.  `It's the stupidest tea-party I
+@c    ever was at in all my life!'
+
+@c      Just as she said this, she noticed that one of the trees had a
+@c    door leading right into it.  `That's very curious!' she thought.
+@c    `But everything's curious today.  I think I may as well go in at once.'
+@c    And in she went.
+
+@c      Once more she found herself in the long hall, and close to the
+@c    little glass table.  `Now, I'll manage better this time,'
+@c    she said to herself, and began by taking the little golden key,
+@c    and unlocking the door that led into the garden.  Then she went
+@c    to work nibbling at the mushroom (she had kept a piece of it
+@c    in her pocket) till she was about a foot high:  then she walked down
+@c    the little passage:  and THEN--she found herself at last in the
+@c    beautiful garden, among the bright flower-beds and the cool fountains.
+
+
+@node    bimo'o, somo'o, zemo'o, Top
+@chapter bimo'o [The Queen's Croquet-Ground]
+
+
+@c                              CHAPTER VIII
+
+@c                       The Queen's Croquet-Ground
+
+
+@c      A large rose-tree stood near the entrance of the garden:  the
+@c    roses growing on it were white, but there were three gardeners at
+@c    it, busily painting them red.  Alice thought this a very curious
+@c    thing, and she went nearer to watch them, and just as she came up
+@c    to them she heard one of them say, `Look out now, Five!  Don't go
+@c    splashing paint over me like that!'
+
+@c      `I couldn't help it,' said Five, in a sulky tone; `Seven jogged
+@c    my elbow.'
+
+@c      On which Seven looked up and said, `That's right, Five!  Always
+@c    lay the blame on others!'
+
+@c      `YOU'D better not talk!' said Five.  `I heard the Queen say only
+@c    yesterday you deserved to be beheaded!'
+
+@c      `What for?' said the one who had spoken first.
+
+@c      `That's none of YOUR business, Two!' said Seven.
+
+@c      `Yes, it IS his business!' said Five, `and I'll tell him--it
+@c    was for bringing the cook tulip-roots instead of onions.'
+
+@c      Seven flung down his brush, and had just begun `Well, of all
+@c    the unjust things--' when his eye chanced to fall upon Alice, as
+@c    she stood watching them, and he checked himself suddenly:  the
+@c    others looked round also, and all of them bowed low.
+
+@c      `Would you tell me,' said Alice, a little timidly, `why you are
+@c    painting those roses?'
+
+@c      Five and Seven said nothing, but looked at Two.  Two began in a
+@c    low voice, `Why the fact is, you see, Miss, this here ought to
+@c    have been a RED rose-tree, and we put a white one in by mistake;
+@c    and if the Queen was to find it out, we should all have our heads
+@c    cut off, you know.  So you see, Miss, we're doing our best, afore
+@c    she comes, to--'  At this moment Five, who had been anxiously
+@c    looking across the garden, called out `The Queen!  The Queen!'
+@c    and the three gardeners instantly threw themselves flat upon
+@c    their faces.  There was a sound of many footsteps, and Alice
+@c    looked round, eager to see the Queen.
+
+@c      First came ten soldiers carrying clubs; these were all shaped
+@c    like the three gardeners, oblong and flat, with their hands and
+@c    feet at the corners:  next the ten courtiers; these were
+@c    ornamented all over with diamonds, and walked two and two, as the
+@c    soldiers did.  After these came the royal children; there were
+@c    ten of them, and the little dears came jumping merrily along hand
+@c    in hand, in couples:  they were all ornamented with hearts.  Next
+@c    came the guests, mostly Kings and Queens, and among them Alice
+@c    recognised the White Rabbit:  it was talking in a hurried nervous
+@c    manner, smiling at everything that was said, and went by without
+@c    noticing her.  Then followed the Knave of Hearts, carrying the
+@c    King's crown on a crimson velvet cushion; and, last of all this
+@c    grand procession, came THE KING AND QUEEN OF HEARTS.
+
+@c      Alice was rather doubtful whether she ought not to lie down on
+@c    her face like the three gardeners, but she could not remember
+@c    ever having heard of such a rule at processions; `and besides,
+@c    what would be the use of a procession,' thought she, `if people
+@c    had all to lie down upon their faces, so that they couldn't see it?'
+@c    So she stood still where she was, and waited.
+
+@c      When the procession came opposite to Alice, they all stopped
+@c    and looked at her, and the Queen said severely `Who is this?'
+@c    She said it to the Knave of Hearts, who only bowed and smiled in reply.
+
+@c      `Idiot!' said the Queen, tossing her head impatiently; and,
+@c    turning to Alice, she went on, `What's your name, child?'
+
+@c      `My name is Alice, so please your Majesty,' said Alice very
+@c    politely; but she added, to herself, `Why, they're only a pack of
+@c    cards, after all.  I needn't be afraid of them!'
+
+@c      `And who are THESE?' said the Queen, pointing to the three
+@c    gardeners who were lying round the rosetree; for, you see, as
+@c    they were lying on their faces, and the pattern on their backs
+@c    was the same as the rest of the pack, she could not tell whether
+@c    they were gardeners, or soldiers, or courtiers, or three of her
+@c    own children.
+
+@c      `How should I know?' said Alice, surprised at her own courage.
+@c    `It's no business of MINE.'
+
+@c      The Queen turned crimson with fury, and, after glaring at her
+@c    for a moment like a wild beast, screamed `Off with her head!
+@c    Off--'
+
+@c      `Nonsense!' said Alice, very loudly and decidedly, and the
+@c    Queen was silent.
+
+@c      The King laid his hand upon her arm, and timidly said
+@c    `Consider, my dear:  she is only a child!'
+
+@c      The Queen turned angrily away from him, and said to the Knave
+@c    `Turn them over!'
+
+@c      The Knave did so, very carefully, with one foot.
+
+@c      `Get up!' said the Queen, in a shrill, loud voice, and the
+@c    three gardeners instantly jumped up, and began bowing to the
+@c    King, the Queen, the royal children, and everybody else.
+
+@c      `Leave off that!' screamed the Queen.  `You make me giddy.'
+@c    And then, turning to the rose-tree, she went on, `What HAVE you
+@c    been doing here?'
+
+@c      `May it please your Majesty,' said Two, in a very humble tone,
+@c    going down on one knee as he spoke, `we were trying--'
+
+@c      `I see!' said the Queen, who had meanwhile been examining the
+@c    roses.  `Off with their heads!' and the procession moved on,
+@c    three of the soldiers remaining behind to execute the unfortunate
+@c    gardeners, who ran to Alice for protection.
+
+@c      `You shan't be beheaded!' said Alice, and she put them into a
+@c    large flower-pot that stood near.  The three soldiers wandered
+@c    about for a minute or two, looking for them, and then quietly
+@c    marched off after the others.
+
+@c      `Are their heads off?' shouted the Queen.
+
+@c      `Their heads are gone, if it please your Majesty!' the soldiers
+@c    shouted in reply.
+
+@c      `That's right!' shouted the Queen.  `Can you play croquet?'
+
+@c      The soldiers were silent, and looked at Alice, as the question
+@c    was evidently meant for her.
+
+@c      `Yes!' shouted Alice.
+
+@c      `Come on, then!' roared the Queen, and Alice joined the
+@c    procession, wondering very much what would happen next.
+
+@c      `It's--it's a very fine day!' said a timid voice at her side.
+@c    She was walking by the White Rabbit, who was peeping anxiously
+@c    into her face.
+
+@c      `Very,' said Alice:  `--where's the Duchess?'
+
+@c      `Hush!  Hush!' said the Rabbit in a low, hurried tone.  He
+@c    looked anxiously over his shoulder as he spoke, and then raised
+@c    himself upon tiptoe, put his mouth close to her ear, and
+@c    whispered `She's under sentence of execution.'
+
+@c      `What for?' said Alice.
+
+@c      `Did you say "What a pity!"?' the Rabbit asked.
+
+@c      `No, I didn't,' said Alice:  `I don't think it's at all a pity.
+@c    I said "What for?"'
+
+@c      `She boxed the Queen's ears--' the Rabbit began.  Alice gave a
+@c    little scream of laughter.  `Oh, hush!' the Rabbit whispered in a
+@c    frightened tone.  `The Queen will hear you!  You see, she came
+@c    rather late, and the Queen said--'
+
+@c      `Get to your places!' shouted the Queen in a voice of thunder,
+@c    and people began running about in all directions, tumbling up
+@c    against each other; however, they got settled down in a minute or
+@c    two, and the game began.  Alice thought she had never seen such a
+@c    curious croquet-ground in her life; it was all ridges and
+@c    furrows; the balls were live hedgehogs, the mallets live
+@c    flamingoes, and the soldiers had to double themselves up and to
+@c    stand on their hands and feet, to make the arches.
+
+@c      The chief difficulty Alice found at first was in managing her
+@c    flamingo:  she succeeded in getting its body tucked away,
+@c    comfortably enough, under her arm, with its legs hanging down,
+@c    but generally, just as she had got its neck nicely straightened
+@c    out, and was going to give the hedgehog a blow with its head, it
+@c    WOULD twist itself round and look up in her face, with such a
+@c    puzzled expression that she could not help bursting out laughing:
+@c    and when she had got its head down, and was going to begin again,
+@c    it was very provoking to find that the hedgehog had unrolled
+@c    itself, and was in the act of crawling away:  besides all this,
+@c    there was generally a ridge or furrow in the way wherever she
+@c    wanted to send the hedgehog to, and, as the doubled-up soldiers
+@c    were always getting up and walking off to other parts of the
+@c    ground, Alice soon came to the conclusion that it was a very
+@c    difficult game indeed.
+
+@c      The players all played at once without waiting for turns,
+@c    quarrelling all the while, and fighting for the hedgehogs; and in
+@c    a very short time the Queen was in a furious passion, and went
+@c    stamping about, and shouting `Off with his head!' or `Off with
+@c    her head!' about once in a minute.
+
+@c      Alice began to feel very uneasy:  to be sure, she had not as
+@c    yet had any dispute with the Queen, but she knew that it might
+@c    happen any minute, `and then,' thought she, `what would become of
+@c    me?  They're dreadfully fond of beheading people here; the great
+@c    wonder is, that there's any one left alive!'
+
+@c      She was looking about for some way of escape, and wondering
+@c    whether she could get away without being seen, when she noticed a
+@c    curious appearance in the air:  it puzzled her very much at
+@c    first, but, after watching it a minute or two, she made it out to
+@c    be a grin, and she said to herself `It's the Cheshire Cat:  now I
+@c    shall have somebody to talk to.'
+
+@c      `How are you getting on?' said the Cat, as soon as there was
+@c    mouth enough for it to speak with.
+
+@c      Alice waited till the eyes appeared, and then nodded.  `It's no
+@c    use speaking to it,' she thought, `till its ears have come, or at
+@c    least one of them.'  In another minute the whole head appeared,
+@c    and then Alice put down her flamingo, and began an account of the
+@c    game, feeling very glad she had someone to listen to her.  The
+@c    Cat seemed to think that there was enough of it now in sight, and
+@c    no more of it appeared.
+
+@c      `I don't think they play at all fairly,' Alice began, in rather
+@c    a complaining tone, `and they all quarrel so dreadfully one can't
+@c    hear oneself speak--and they don't seem to have any rules in
+@c    particular; at least, if there are, nobody attends to them--and
+@c    you've no idea how confusing it is all the things being alive;
+@c    for instance, there's the arch I've got to go through next
+@c    walking about at the other end of the ground--and I should have
+@c    croqueted the Queen's hedgehog just now, only it ran away when it
+@c    saw mine coming!'
+
+@c      `How do you like the Queen?' said the Cat in a low voice.
+
+@c      `Not at all,' said Alice:  `she's so extremely--'  Just then
+@c    she noticed that the Queen was close behind her, listening:  so
+@c    she went on, `--likely to win, that it's hardly worth while
+@c    finishing the game.'
+
+@c      The Queen smiled and passed on.
+
+@c      `Who ARE you talking to?' said the King, going up to Alice, and
+@c    looking at the Cat's head with great curiosity.
+
+@c      `It's a friend of mine--a Cheshire Cat,' said Alice:  `allow me
+@c    to introduce it.'
+
+@c      `I don't like the look of it at all,' said the King:
+@c    `however, it may kiss my hand if it likes.'
+
+@c      `I'd rather not,' the Cat remarked.
+
+@c      `Don't be impertinent,' said the King, `and don't look at me
+@c    like that!'  He got behind Alice as he spoke.
+
+@c      `A cat may look at a king,' said Alice.  `I've read that in
+@c    some book, but I don't remember where.'
+
+@c      `Well, it must be removed,' said the King very decidedly, and
+@c    he called the Queen, who was passing at the moment, `My dear!  I
+@c    wish you would have this cat removed!'
+
+@c      The Queen had only one way of settling all difficulties, great
+@c    or small.  `Off with his head!' she said, without even looking
+@c    round.
+
+@c      `I'll fetch the executioner myself,' said the King eagerly, and
+@c    he hurried off.
+
+@c      Alice thought she might as well go back, and see how the game
+@c    was going on, as she heard the Queen's voice in the distance,
+@c    screaming with passion.  She had already heard her sentence three
+@c    of the players to be executed for having missed their turns, and
+@c    she did not like the look of things at all, as the game was in
+@c    such confusion that she never knew whether it was her turn or
+@c    not.  So she went in search of her hedgehog.
+
+@c      The hedgehog was engaged in a fight with another hedgehog,
+@c    which seemed to Alice an excellent opportunity for croqueting one
+@c    of them with the other:  the only difficulty was, that her
+@c    flamingo was gone across to the other side of the garden, where
+@c    Alice could see it trying in a helpless sort of way to fly up
+@c    into a tree.
+
+@c      By the time she had caught the flamingo and brought it back,
+@c    the fight was over, and both the hedgehogs were out of sight:
+@c    `but it doesn't matter much,' thought Alice, `as all the arches
+@c    are gone from this side of the ground.'  So she tucked it away
+@c    under her arm, that it might not escape again, and went back for
+@c    a little more conversation with her friend.
+
+@c      When she got back to the Cheshire Cat, she was surprised to
+@c    find quite a large crowd collected round it:  there was a dispute
+@c    going on between the executioner, the King, and the Queen, who
+@c    were all talking at once, while all the rest were quite silent,
+@c    and looked very uncomfortable.
+
+@c      The moment Alice appeared, she was appealed to by all three to
+@c    settle the question, and they repeated their arguments to her,
+@c    though, as they all spoke at once, she found it very hard indeed
+@c    to make out exactly what they said.
+
+@c      The executioner's argument was, that you couldn't cut off a
+@c    head unless there was a body to cut it off from:  that he had
+@c    never had to do such a thing before, and he wasn't going to begin
+@c    at HIS time of life.
+
+@c      The King's argument was, that anything that had a head could be
+@c    beheaded, and that you weren't to talk nonsense.
+
+@c      The Queen's argument was, that if something wasn't done about
+@c    it in less than no time she'd have everybody executed, all round.
+@c    (It was this last remark that had made the whole party look so
+@c    grave and anxious.)
+
+@c      Alice could think of nothing else to say but `It belongs to the
+@c    Duchess:  you'd better ask HER about it.'
+
+@c      `She's in prison,' the Queen said to the executioner:  `fetch
+@c    her here.'  And the executioner went off like an arrow.
+
+@c       The Cat's head began fading away the moment he was gone, and,
+@c    by the time he had come back with the Dutchess, it had entirely
+@c    disappeared; so the King and the executioner ran wildly up and down
+@c    looking for it, while the rest of the party went back to the game.
+
+
+@node    somo'o, panomo'o, bimo'o, Top
+@chapter somo'o [The Mock Turtle's Story]
+
+
+@c                               CHAPTER IX
+
+@c                         The Mock Turtle's Story
+
+
+@c      `You can't think how glad I am to see you again, you dear old
+@c    thing!' said the Duchess, as she tucked her arm affectionately
+@c    into Alice's, and they walked off together.
+
+@c      Alice was very glad to find her in such a pleasant temper, and
+@c    thought to herself that perhaps it was only the pepper that had
+@c    made her so savage when they met in the kitchen.
+
+@c      `When I'M a Duchess,' she said to herself, (not in a very
+@c    hopeful tone though), `I won't have any pepper in my kitchen AT
+@c    ALL.  Soup does very well without--Maybe it's always pepper that
+@c    makes people hot-tempered,' she went on, very much pleased at
+@c    having found out a new kind of rule, `and vinegar that makes them
+@c    sour--and camomile that makes them bitter--and--and barley-sugar
+@c    and such things that make children sweet-tempered.  I only wish
+@c    people knew that:  then they wouldn't be so stingy about it, you
+@c    know--'
+
+@c      She had quite forgotten the Duchess by this time, and was a
+@c    little startled when she heard her voice close to her ear.
+@c    `You're thinking about something, my dear, and that makes you
+@c    forget to talk.  I can't tell you just now what the moral of that
+@c    is, but I shall remember it in a bit.'
+
+@c      `Perhaps it hasn't one,' Alice ventured to remark.
+
+@c      `Tut, tut, child!' said the Duchess.  `Everything's got a
+@c    moral, if only you can find it.'  And she squeezed herself up
+@c    closer to Alice's side as she spoke.
+
+@c      Alice did not much like keeping so close to her:  first,
+@c    because the Duchess was VERY ugly; and secondly, because she was
+@c    exactly the right height to rest her chin upon Alice's shoulder,
+@c    and it was an uncomfortably sharp chin.  However, she did not
+@c    like to be rude, so she bore it as well as she could.
+
+@c      `The game's going on rather better now,' she said, by way of
+@c    keeping up the conversation a little.
+
+@c      `'Tis so,' said the Duchess:  `and the moral of that is--"Oh,
+@c    'tis love, 'tis love, that makes the world go round!"'
+
+@c      `Somebody said,' Alice whispered, `that it's done by everybody
+@c    minding their own business!'
+
+@c      `Ah, well!  It means much the same thing,' said the Duchess,
+@c    digging her sharp little chin into Alice's shoulder as she added,
+@c    `and the moral of THAT is--"Take care of the sense, and the
+@c    sounds will take care of themselves."'
+
+@c      `How fond she is of finding morals in things!' Alice thought to
+@c    herself.
+
+@c      `I dare say you're wondering why I don't put my arm round your
+@c    waist,' the Duchess said after a pause:  `the reason is, that I'm
+@c    doubtful about the temper of your flamingo.  Shall I try the
+@c    experiment?'
+
+@c      `HE might bite,' Alice cautiously replied, not feeling at all
+@c    anxious to have the experiment tried.
+
+@c      `Very true,' said the Duchess:  `flamingoes and mustard both
+@c    bite.  And the moral of that is--"Birds of a feather flock
+@c    together."'
+
+@c      `Only mustard isn't a bird,' Alice remarked.
+
+@c      `Right, as usual,' said the Duchess:  `what a clear way you
+@c    have of putting things!'
+
+@c      `It's a mineral, I THINK,' said Alice.
+
+@c      `Of course it is,' said the Duchess, who seemed ready to agree
+@c    to everything that Alice said; `there's a large mustard-mine near
+@c    here.  And the moral of that is--"The more there is of mine, the
+@c    less there is of yours."'
+
+@c      `Oh, I know!' exclaimed Alice, who had not attended to this
+@c    last remark, `it's a vegetable.  It doesn't look like one, but it
+@c    is.'
+
+@c      `I quite agree with you,' said the Duchess; `and the moral of
+@c    that is--"Be what you would seem to be"--or if you'd like it put
+@c    more simply--"Never imagine yourself not to be otherwise than
+@c    what it might appear to others that what you were or might have
+@c    been was not otherwise than what you had been would have appeared
+@c    to them to be otherwise."'
+
+@c      `I think I should understand that better,' Alice said very
+@c    politely, `if I had it written down:  but I can't quite follow it
+@c    as you say it.'
+
+@c      `That's nothing to what I could say if I chose,' the Duchess
+@c    replied, in a pleased tone.
+
+@c      `Pray don't trouble yourself to say it any longer than that,'
+@c    said Alice.
+
+@c      `Oh, don't talk about trouble!' said the Duchess.  `I make you
+@c    a present of everything I've said as yet.'
+
+@c      `A cheap sort of present!' thought Alice.  `I'm glad they don't
+@c    give birthday presents like that!'  But she did not venture to
+@c    say it out loud.
+
+@c      `Thinking again?' the Duchess asked, with another dig of her
+@c    sharp little chin.
+
+@c      `I've a right to think,' said Alice sharply, for she was
+@c    beginning to feel a little worried.
+
+@c      `Just about as much right,' said the Duchess, `as pigs have to fly;
+@c    and the m--'
+
+@c      But here, to Alice's great surprise, the Duchess's voice died
+@c    away, even in the middle of her favourite word `moral,' and the
+@c    arm that was linked into hers began to tremble.  Alice looked up,
+@c    and there stood the Queen in front of them, with her arms folded,
+@c    frowning like a thunderstorm.
+
+@c      `A fine day, your Majesty!' the Duchess began in a low, weak
+@c    voice.
+
+@c      `Now, I give you fair warning,' shouted the Queen, stamping on
+@c    the ground as she spoke; `either you or your head must be off,
+@c    and that in about half no time!  Take your choice!'
+
+@c      The Duchess took her choice, and was gone in a moment.
+
+@c      `Let's go on with the game,' the Queen said to Alice; and Alice
+@c    was too much frightened to say a word, but slowly followed her
+@c    back to the croquet-ground.
+
+@c      The other guests had taken advantage of the Queen's absence,
+@c    and were resting in the shade:  however, the moment they saw her,
+@c    they hurried back to the game, the Queen merely remarking that a
+@c    moment's delay would cost them their lives.
+
+@c      All the time they were playing the Queen never left off
+@c    quarrelling with the other players, and shouting `Off with his
+@c    head!' or `Off with her head!'  Those whom she sentenced were
+@c    taken into custody by the soldiers, who of course had to leave
+@c    off being arches to do this, so that by the end of half an hour
+@c    or so there were no arches left, and all the players, except the
+@c    King, the Queen, and Alice, were in custody and under sentence of
+@c    execution.
+
+@c      Then the Queen left off, quite out of breath, and said to
+@c    Alice, `Have you seen the Mock Turtle yet?'
+
+@c      `No,' said Alice.  `I don't even know what a Mock Turtle is.'
+
+@c      `It's the thing Mock Turtle Soup is made from,' said the Queen.
+
+@c      `I never saw one, or heard of one,' said Alice.
+
+@c      `Come on, then,' said the Queen, `and he shall tell you his
+@c    history,'
+
+@c      As they walked off together, Alice heard the King say in a low
+@c    voice, to the company generally, `You are all pardoned.'  `Come,
+@c    THAT'S a good thing!' she said to herself, for she had felt quite
+@c    unhappy at the number of executions the Queen had ordered.
+
+@c      They very soon came upon a Gryphon, lying fast asleep in the
+@c    sun.  (IF you don't know what a Gryphon is, look at the picture.)
+@c    `Up, lazy thing!' said the Queen, `and take this young lady to
+@c    see the Mock Turtle, and to hear his history.  I must go back and
+@c    see after some executions I have ordered'; and she walked off,
+@c    leaving Alice alone with the Gryphon.  Alice did not quite like
+@c    the look of the creature, but on the whole she thought it would
+@c    be quite as safe to stay with it as to go after that savage
+@c    Queen:  so she waited.
+
+@c      The Gryphon sat up and rubbed its eyes:  then it watched the
+@c    Queen till she was out of sight:  then it chuckled.  `What fun!'
+@c    said the Gryphon, half to itself, half to Alice.
+
+@c      `What IS the fun?' said Alice.
+
+@c      `Why, SHE,' said the Gryphon.  `It's all her fancy, that:  they
+@c    never executes nobody, you know.  Come on!'
+
+@c      `Everybody says "come on!" here,' thought Alice, as she went
+@c    slowly after it:  `I never was so ordered about in all my life,
+@c    never!'
+
+@c      They had not gone far before they saw the Mock Turtle in the
+@c    distance, sitting sad and lonely on a little ledge of rock, and,
+@c    as they came nearer, Alice could hear him sighing as if his heart
+@c    would break.  She pitied him deeply.  `What is his sorrow?' she
+@c    asked the Gryphon, and the Gryphon answered, very nearly in the
+@c    same words as before, `It's all his fancy, that:  he hasn't got
+@c    no sorrow, you know.  Come on!'
+
+@c      So they went up to the Mock Turtle, who looked at them with
+@c    large eyes full of tears, but said nothing.
+
+@c      `This here young lady,' said the Gryphon, `she wants for to
+@c    know your history, she do.'
+
+@c      `I'll tell it her,' said the Mock Turtle in a deep, hollow
+@c    tone:  `sit down, both of you, and don't speak a word till I've
+@c    finished.'
+
+@c      So they sat down, and nobody spoke for some minutes.  Alice
+@c    thought to herself, `I don't see how he can EVEN finish, if he
+@c    doesn't begin.'  But she waited patiently.
+
+@c      `Once,' said the Mock Turtle at last, with a deep sigh, `I was
+@c    a real Turtle.'
+
+@c      These words were followed by a very long silence, broken only
+@c    by an occasional exclamation of `Hjckrrh!' from the Gryphon, and
+@c    the constant heavy sobbing of the Mock Turtle.  Alice was very
+@c    nearly getting up and saying, `Thank you, sir, for your
+@c    interesting story,' but she could not help thinking there MUST be
+@c    more to come, so she sat still and said nothing.
+
+@c      `When we were little,' the Mock Turtle went on at last, more
+@c    calmly, though still sobbing a little now and then, `we went to
+@c    school in the sea.  The master was an old Turtle--we used to call
+@c    him Tortoise--'
+
+@c      `Why did you call him Tortoise, if he wasn't one?' Alice asked.
+
+@c      `We called him Tortoise because he taught us,' said the Mock
+@c    Turtle angrily:  `really you are very dull!'
+
+@c      `You ought to be ashamed of yourself for asking such a simple
+@c    question,' added the Gryphon; and then they both sat silent and
+@c    looked at poor Alice, who felt ready to sink into the earth.  At
+@c    last the Gryphon said to the Mock Turtle, `Drive on, old fellow!
+@c    Don't be all day about it!' and he went on in these words:
+
+@c      `Yes, we went to school in the sea, though you mayn't believe
+@c    it--'
+
+@c      `I never said I didn't!' interrupted Alice.
+
+@c      `You did,' said the Mock Turtle.
+
+@c      `Hold your tongue!' added the Gryphon, before Alice could speak
+@c    again.  The Mock Turtle went on.
+
+@c      `We had the best of educations--in fact, we went to school
+@c    every day--'
+
+@c      `I'VE been to a day-school, too,' said Alice; `you needn't be
+@c    so proud as all that.'
+
+@c      `With extras?' asked the Mock Turtle a little anxiously.
+
+@c      `Yes,' said Alice, `we learned French and music.'
+
+@c      `And washing?' said the Mock Turtle.
+
+@c      `Certainly not!' said Alice indignantly.
+
+@c      `Ah! then yours wasn't a really good school,' said the Mock
+@c    Turtle in a tone of great relief.  `Now at OURS they had at the
+@c    end of the bill, "French, music, AND WASHING--extra."'
+
+@c      `You couldn't have wanted it much,' said Alice; `living at the
+@c    bottom of the sea.'
+
+@c      `I couldn't afford to learn it.' said the Mock Turtle with a
+@c    sigh.  `I only took the regular course.'
+
+@c      `What was that?' inquired Alice.
+
+@c      `Reeling and Writhing, of course, to begin with,' the Mock
+@c    Turtle replied; `and then the different branches of Arithmetic--
+@c    Ambition, Distraction, Uglification, and Derision.'
+
+@c      `I never heard of "Uglification,"' Alice ventured to say.  `What is it?'
+
+@c      The Gryphon lifted up both its paws in surprise.  `What!  Never
+@c    heard of uglifying!' it exclaimed.  `You know what to beautify is,
+@c    I suppose?'
+
+@c      `Yes,' said Alice doubtfully:  `it means--to--make--anything--prettier.'
+
+@c      `Well, then,' the Gryphon went on, `if you don't know what to
+@c    uglify is, you ARE a simpleton.'
+
+@c      Alice did not feel encouraged to ask any more questions about
+@c    it, so she turned to the Mock Turtle, and said `What else had you
+@c    to learn?'
+
+@c      `Well, there was Mystery,' the Mock Turtle replied, counting
+@c    off the subjects on his flappers, `--Mystery, ancient and modern,
+@c    with Seaography:  then Drawling--the Drawling-master was an old
+@c    conger-eel, that used to come once a week:  HE taught us
+@c    Drawling, Stretching, and Fainting in Coils.'
+
+@c      `What was THAT like?' said Alice.
+
+@c      `Well, I can't show it you myself,' the Mock Turtle said:  `I'm
+@c    too stiff.  And the Gryphon never learnt it.'
+
+@c      `Hadn't time,' said the Gryphon:  `I went to the Classics
+@c    master, though.  He was an old crab, HE was.'
+
+@c      `I never went to him,' the Mock Turtle said with a sigh:  `he
+@c    taught Laughing and Grief, they used to say.'
+
+@c      `So he did, so he did,' said the Gryphon, sighing in his turn;
+@c    and both creatures hid their faces in their paws.
+
+@c      `And how many hours a day did you do lessons?' said Alice, in a
+@c    hurry to change the subject.
+
+@c      `Ten hours the first day,' said the Mock Turtle: `nine the
+@c    next, and so on.'
+
+@c      `What a curious plan!' exclaimed Alice.
+
+@c      `That's the reason they're called lessons,' the Gryphon
+@c    remarked:  `because they lessen from day to day.'
+
+@c      This was quite a new idea to Alice, and she thought it over a
+@c    little before she made her next remark.  `Then the eleventh day
+@c    must have been a holiday?'
+
+@c      `Of course it was,' said the Mock Turtle.
+
+@c      `And how did you manage on the twelfth?' Alice went on eagerly.
+
+@c      `That's enough about lessons,' the Gryphon interrupted in a
+@c    very decided tone:  `tell her something about the games now.'
+
+
+@node    panomo'o, papamo'o, somo'o, Top
+@chapter panomo'o [The Lobster Quadrille]
+
+
+@c                                CHAPTER X
+
+@c                          The Lobster Quadrille
+
+
+@c      The Mock Turtle sighed deeply, and drew the back of one flapper
+@c    across his eyes.  He looked at Alice, and tried to speak, but for
+@c    a minute or two sobs choked his voice.  `Same as if he had a bone
+@c    in his throat,' said the Gryphon:  and it set to work shaking him
+@c    and punching him in the back.  At last the Mock Turtle recovered
+@c    his voice, and, with tears running down his cheeks, he went on
+@c    again:--
+
+@c      `You may not have lived much under the sea--' (`I haven't,' said Alice)--
+@c    `and perhaps you were never even introduced to a lobster--'
+@c    (Alice began to say `I once tasted--' but checked herself hastily,
+@c    and said `No, never') `--so you can have no idea what a delightful
+@c    thing a Lobster Quadrille is!'
+
+@c      `No, indeed,' said Alice.  `What sort of a dance is it?'
+
+@c      `Why,' said the Gryphon, `you first form into a line along the sea-shore--'
+
+@c      `Two lines!' cried the Mock Turtle.  `Seals, turtles, salmon, and so on;
+@c    then, when you've cleared all the jelly-fish out of the way--'
+
+@c      `THAT generally takes some time,' interrupted the Gryphon.
+
+@c      `--you advance twice--'
+
+@c      `Each with a lobster as a partner!' cried the Gryphon.
+
+@c      `Of course,' the Mock Turtle said:  `advance twice, set to
+@c    partners--'
+
+@c      `--change lobsters, and retire in same order,' continued the
+@c    Gryphon.
+
+@c      `Then, you know,' the Mock Turtle went on, `you throw the--'
+
+@c      `The lobsters!' shouted the Gryphon, with a bound into the air.
+
+@c      `--as far out to sea as you can--'
+
+@c      `Swim after them!' screamed the Gryphon.
+
+@c      `Turn a somersault in the sea!' cried the Mock Turtle,
+@c    capering wildly about.
+
+@c      `Change lobster's again!' yelled the Gryphon at the top of its voice.
+
+@c      `Back to land again, and that's all the first figure,' said the
+@c    Mock Turtle, suddenly dropping his voice; and the two creatures,
+@c    who had been jumping about like mad things all this time, sat
+@c    down again very sadly and quietly, and looked at Alice.
+
+@c      `It must be a very pretty dance,' said Alice timidly.
+
+@c      `Would you like to see a little of it?' said the Mock Turtle.
+
+@c      `Very much indeed,' said Alice.
+
+@c      `Come, let's try the first figure!' said the Mock Turtle to the
+@c    Gryphon.  `We can do without lobsters, you know.  Which shall
+@c    sing?'
+
+@c      `Oh, YOU sing,' said the Gryphon.  `I've forgotten the words.'
+
+@c      So they began solemnly dancing round and round Alice, every now
+@c    and then treading on her toes when they passed too close, and
+@c    waving their forepaws to mark the time, while the Mock Turtle
+@c    sang this, very slowly and sadly:--
+
+
+@c    `"Will you walk a little faster?" said a whiting to a snail.
+@c    "There's a porpoise close behind us, and he's treading on my
+@c     tail.
+@c    See how eagerly the lobsters and the turtles all advance!
+@c    They are waiting on the shingle--will you come and join the
+@c    dance?
+
+@c    Will you, won't you, will you, won't you, will you join the
+@c    dance?
+@c    Will you, won't you, will you, won't you, won't you join the
+@c    dance?
+
+
+@c    "You can really have no notion how delightful it will be
+@c    When they take us up and throw us, with the lobsters, out to
+@c                                                          sea!"
+@c    But the snail replied "Too far, too far!" and gave a look
+@c                                                           askance--
+@c    Said he thanked the whiting kindly, but he would not join the
+@c       dance.
+@c        Would not, could not, would not, could not, would not join
+@c            the dance.
+@c        Would not, could not, would not, could not, could not join
+@c            the dance.
+
+@c    `"What matters it how far we go?" his scaly friend replied.
+@c    "There is another shore, you know, upon the other side.
+@c    The further off from England the nearer is to France--
+@c    Then turn not pale, beloved snail, but come and join the dance.
+
+@c        Will you, won't you, will you, won't you, will you join the
+@c             dance?
+@c        Will you, won't you, will you, won't you, won't you join the
+@c             dance?"'
+
+
+
+@c      `Thank you, it's a very interesting dance to watch,' said
+@c    Alice, feeling very glad that it was over at last:  `and I do so
+@c    like that curious song about the whiting!'
+
+@c      `Oh, as to the whiting,' said the Mock Turtle, `they--you've
+@c    seen them, of course?'
+
+@c      `Yes,' said Alice, `I've often seen them at dinn--' she
+@c    checked herself hastily.
+
+@c      `I don't know where Dinn may be,' said the Mock Turtle, `but
+@c    if you've seen them so often, of course you know what they're
+@c    like.'
+
+@c      `I believe so,' Alice replied thoughtfully.  `They have their
+@c    tails in their mouths--and they're all over crumbs.'
+
+@c      `You're wrong about the crumbs,' said the Mock Turtle:
+@c    `crumbs would all wash off in the sea.  But they HAVE their tails
+@c    in their mouths; and the reason is--' here the Mock Turtle
+@c    yawned and shut his eyes.--`Tell her about the reason and all
+@c    that,' he said to the Gryphon.
+
+@c      `The reason is,' said the Gryphon, `that they WOULD go with
+@c    the lobsters to the dance.  So they got thrown out to sea.  So
+@c    they had to fall a long way.  So they got their tails fast in
+@c    their mouths.  So they couldn't get them out again.  That's all.'
+
+@c      `Thank you,' said Alice, `it's very interesting.  I never knew
+@c    so much about a whiting before.'
+
+@c      `I can tell you more than that, if you like,' said the
+@c    Gryphon.  `Do you know why it's called a whiting?'
+
+@c      `I never thought about it,' said Alice.  `Why?'
+
+@c      `IT DOES THE BOOTS AND SHOES.' the Gryphon replied very
+@c    solemnly.
+
+@c      Alice was thoroughly puzzled.  `Does the boots and shoes!' she
+@c    repeated in a wondering tone.
+
+@c      `Why, what are YOUR shoes done with?' said the Gryphon.  `I
+@c    mean, what makes them so shiny?'
+
+@c      Alice looked down at them, and considered a little before she
+@c    gave her answer.  `They're done with blacking, I believe.'
+
+@c      `Boots and shoes under the sea,' the Gryphon went on in a deep
+@c    voice, `are done with a whiting.  Now you know.'
+
+@c      `And what are they made of?' Alice asked in a tone of great
+@c    curiosity.
+
+@c      `Soles and eels, of course,' the Gryphon replied rather
+@c    impatiently:  `any shrimp could have told you that.'
+
+@c      `If I'd been the whiting,' said Alice, whose thoughts were
+@c    still running on the song, `I'd have said to the porpoise, "Keep
+@c    back, please:  we don't want YOU with us!"'
+
+@c      `They were obliged to have him with them,' the Mock Turtle
+@c    said:  `no wise fish would go anywhere without a porpoise.'
+
+@c      `Wouldn't it really?' said Alice in a tone of great surprise.
+
+@c      `Of course not,' said the Mock Turtle:  `why, if a fish came
+@c    to ME, and told me he was going a journey, I should say "With
+@c    what porpoise?"'
+
+@c      `Don't you mean "purpose"?' said Alice.
+
+@c      `I mean what I say,' the Mock Turtle replied in an offended
+@c    tone.  And the Gryphon added `Come, let's hear some of YOUR
+@c    adventures.'
+
+@c      `I could tell you my adventures--beginning from this morning,'
+@c    said Alice a little timidly:  `but it's no use going back to
+@c    yesterday, because I was a different person then.'
+
+@c      `Explain all that,' said the Mock Turtle.
+
+@c      `No, no!  The adventures first,' said the Gryphon in an
+@c    impatient tone:  `explanations take such a dreadful time.'
+
+@c      So Alice began telling them her adventures from the time when
+@c    she first saw the White Rabbit.  She was a little nervous about
+@c    it just at first, the two creatures got so close to her, one on
+@c    each side, and opened their eyes and mouths so VERY wide, but she
+@c    gained courage as she went on.  Her listeners were perfectly
+@c    quiet till she got to the part about her repeating `YOU ARE OLD,
+@c    FATHER WILLIAM,' to the Caterpillar, and the words all coming
+@c    different, and then the Mock Turtle drew a long breath, and said
+@c    `That's very curious.'
+
+@c      `It's all about as curious as it can be,' said the Gryphon.
+
+@c      `It all came different!' the Mock Turtle repeated
+@c    thoughtfully.  `I should like to hear her try and repeat
+@c    something now.  Tell her to begin.'  He looked at the Gryphon as
+@c    if he thought it had some kind of authority over Alice.
+
+@c      `Stand up and repeat "'TIS THE VOICE OF THE SLUGGARD,"' said
+@c    the Gryphon.
+
+@c      `How the creatures order one about, and make one repeat
+@c    lessons!' thought Alice; `I might as well be at school at once.'
+@c    However, she got up, and began to repeat it, but her head was so
+@c    full of the Lobster Quadrille, that she hardly knew what she was
+@c    saying, and the words came very queer indeed:--
+
+@c        `'Tis the voice of the Lobster; I heard him declare,
+@c        "You have baked me too brown, I must sugar my hair."
+@c        As a duck with its eyelids, so he with his nose
+@c        Trims his belt and his buttons, and turns out his toes.'
+
+@c                  [later editions continued as follows
+@c        When the sands are all dry, he is gay as a lark,
+@c        And will talk in contemptuous tones of the Shark,
+@c        But, when the tide rises and sharks are around,
+@c        His voice has a timid and tremulous sound.]
+
+@c      `That's different from what I used to say when I was a child,'
+@c    said the Gryphon.
+
+@c      `Well, I never heard it before,' said the Mock Turtle; `but it
+@c    sounds uncommon nonsense.'
+
+@c      Alice said nothing; she had sat down with her face in her
+@c    hands, wondering if anything would EVER happen in a natural way
+@c    again.
+
+@c      `I should like to have it explained,' said the Mock Turtle.
+
+@c      `She can't explain it,' said the Gryphon hastily.  `Go on with
+@c    the next verse.'
+
+@c      `But about his toes?' the Mock Turtle persisted.  `How COULD
+@c    he turn them out with his nose, you know?'
+
+@c      `It's the first position in dancing.' Alice said; but was
+@c    dreadfully puzzled by the whole thing, and longed to change the
+@c    subject.
+
+@c      `Go on with the next verse,' the Gryphon repeated impatiently:
+@c    `it begins "I passed by his garden."'
+
+@c      Alice did not dare to disobey, though she felt sure it would
+@c    all come wrong, and she went on in a trembling voice:--
+
+@c        `I passed by his garden, and marked, with one eye,
+@c        How the Owl and the Panther were sharing a pie--'
+
+@c            [later editions continued as follows
+@c        The Panther took pie-crust, and gravy, and meat,
+@c        While the Owl had the dish as its share of the treat.
+@c        When the pie was all finished, the Owl, as a boon,
+@c        Was kindly permitted to pocket the spoon:
+@c        While the Panther received knife and fork with a growl,
+@c        And concluded the banquet--]
+
+@c      `What IS the use of repeating all that stuff,' the Mock Turtle
+@c    interrupted, `if you don't explain it as you go on?  It's by far
+@c    the most confusing thing I ever heard!'
+
+@c      `Yes, I think you'd better leave off,' said the Gryphon:  and
+@c    Alice was only too glad to do so.
+
+@c      `Shall we try another figure of the Lobster Quadrille?' the
+@c    Gryphon went on.  `Or would you like the Mock Turtle to sing you
+@c    a song?'
+
+@c      `Oh, a song, please, if the Mock Turtle would be so kind,'
+@c    Alice replied, so eagerly that the Gryphon said, in a rather
+@c    offended tone, `Hm!  No accounting for tastes!  Sing her
+@c    "Turtle Soup," will you, old fellow?'
+
+@c      The Mock Turtle sighed deeply, and began, in a voice sometimes
+@c    choked with sobs, to sing this:--
+
+
+@c        `Beautiful Soup, so rich and green,
+@c        Waiting in a hot tureen!
+@c        Who for such dainties would not stoop?
+@c        Soup of the evening, beautiful Soup!
+@c        Soup of the evening, beautiful Soup!
+@c            Beau--ootiful Soo--oop!
+@c            Beau--ootiful Soo--oop!
+@c        Soo--oop of the e--e--evening,
+@c            Beautiful, beautiful Soup!
+
+@c        `Beautiful Soup!  Who cares for fish,
+@c        Game, or any other dish?
+@c        Who would not give all else for two
+@c        Pennyworth only of beautiful Soup?
+@c        Pennyworth only of beautiful Soup?
+@c            Beau--ootiful Soo--oop!
+@c            Beau--ootiful Soo--oop!
+@c        Soo--oop of the e--e--evening,
+@c            Beautiful, beauti--FUL SOUP!'
+
+@c      `Chorus again!' cried the Gryphon, and the Mock Turtle had
+@c    just begun to repeat it, when a cry of `The trial's beginning!'
+@c    was heard in the distance.
+
+@c      `Come on!' cried the Gryphon, and, taking Alice by the hand,
+@c    it hurried off, without waiting for the end of the song.
+
+@c      `What trial is it?' Alice panted as she ran; but the Gryphon
+@c    only answered `Come on!' and ran the faster, while more and more
+@c    faintly came, carried on the breeze that followed them, the
+@c    melancholy words:--
+
+@c        `Soo--oop of the e--e--evening,
+@c            Beautiful, beautiful Soup!'
+
+
+@node    papamo'o, paremo'o, panomo'o, Top
+@chapter papamo'o [Who Stole the Tarts?]
+
+
+@c                               CHAPTER XI
+
+@c                          Who Stole the Tarts?
+
+
+@c      The King and Queen of Hearts were seated on their throne when
+@c    they arrived, with a great crowd assembled about them--all sorts
+@c    of little birds and beasts, as well as the whole pack of cards:
+@c    the Knave was standing before them, in chains, with a soldier on
+@c    each side to guard him; and near the King was the White Rabbit,
+@c    with a trumpet in one hand, and a scroll of parchment in the
+@c    other.  In the very middle of the court was a table, with a large
+@c    dish of tarts upon it:  they looked so good, that it made Alice
+@c    quite hungry to look at them--`I wish they'd get the trial done,'
+@c    she thought, `and hand round the refreshments!'  But there seemed
+@c    to be no chance of this, so she began looking at everything about
+@c    her, to pass away the time.
+
+@c      Alice had never been in a court of justice before, but she had
+@c    read about them in books, and she was quite pleased to find that
+@c    she knew the name of nearly everything there.  `That's the
+@c    judge,' she said to herself, `because of his great wig.'
+
+@c      The judge, by the way, was the King; and as he wore his crown
+@c    over the wig, (look at the frontispiece if you want to see how he
+@c    did it,) he did not look at all comfortable, and it was certainly
+@c    not becoming.
+
+@c      `And that's the jury-box,' thought Alice, `and those twelve
+@c    creatures,' (she was obliged to say `creatures,' you see, because
+@c    some of them were animals, and some were birds,) `I suppose they
+@c    are the jurors.'  She said this last word two or three times over
+@c    to herself, being rather proud of it:  for she thought, and
+@c    rightly too, that very few little girls of her age knew the
+@c    meaning of it at all.  However, `jury-men' would have done just
+@c    as well.
+
+@c      The twelve jurors were all writing very busily on slates.
+@c    `What are they doing?'  Alice whispered to the Gryphon.  `They
+@c    can't have anything to put down yet, before the trial's begun.'
+
+@c      `They're putting down their names,' the Gryphon whispered in
+@c    reply, `for fear they should forget them before the end of the
+@c    trial.'
+
+@c      `Stupid things!' Alice began in a loud, indignant voice, but
+@c    she stopped hastily, for the White Rabbit cried out, `Silence in
+@c    the court!' and the King put on his spectacles and looked
+@c    anxiously round, to make out who was talking.
+
+@c      Alice could see, as well as if she were looking over their
+@c    shoulders, that all the jurors were writing down `stupid things!'
+@c    on their slates, and she could even make out that one of them
+@c    didn't know how to spell `stupid,' and that he had to ask his
+@c    neighbour to tell him.  `A nice muddle their slates'll be in
+@c    before the trial's over!' thought Alice.
+
+@c      One of the jurors had a pencil that squeaked.  This of course,
+@c    Alice could not stand, and she went round the court and got
+@c    behind him, and very soon found an opportunity of taking it
+@c    away.  She did it so quickly that the poor little juror (it was
+@c    Bill, the Lizard) could not make out at all what had become of
+@c    it; so, after hunting all about for it, he was obliged to write
+@c    with one finger for the rest of the day; and this was of very
+@c    little use, as it left no mark on the slate.
+
+@c      `Herald, read the accusation!' said the King.
+
+@c      On this the White Rabbit blew three blasts on the trumpet, and
+@c    then unrolled the parchment scroll, and read as follows:--
+
+@c        `The Queen of Hearts, she made some tarts,
+@c              All on a summer day:
+@c          The Knave of Hearts, he stole those tarts,
+@c              And took them quite away!'
+
+@c      `Consider your verdict,' the King said to the jury.
+
+@c      `Not yet, not yet!' the Rabbit hastily interrupted.  `There's
+@c    a great deal to come before that!'
+
+@c      `Call the first witness,' said the King; and the White Rabbit
+@c    blew three blasts on the trumpet, and called out, `First
+@c    witness!'
+
+@c      The first witness was the Hatter.  He came in with a teacup in
+@c    one hand and a piece of bread-and-butter in the other.  `I beg
+@c    pardon, your Majesty,' he began, `for bringing these in:  but I
+@c    hadn't quite finished my tea when I was sent for.'
+
+@c      `You ought to have finished,' said the King.  `When did you
+@c    begin?'
+
+@c      The Hatter looked at the March Hare, who had followed him into
+@c    the court, arm-in-arm with the Dormouse.  `Fourteenth of March, I
+@c    think it was,' he said.
+
+@c      `Fifteenth,' said the March Hare.
+
+@c      `Sixteenth,' added the Dormouse.
+
+@c      `Write that down,' the King said to the jury, and the jury
+@c    eagerly wrote down all three dates on their slates, and then
+@c    added them up, and reduced the answer to shillings and pence.
+
+@c      `Take off your hat,' the King said to the Hatter.
+
+@c      `It isn't mine,' said the Hatter.
+
+@c      `Stolen!' the King exclaimed, turning to the jury, who
+@c    instantly made a memorandum of the fact.
+
+@c      `I keep them to sell,' the Hatter added as an explanation;
+@c    `I've none of my own.  I'm a hatter.'
+
+@c      Here the Queen put on her spectacles, and began staring at the
+@c    Hatter, who turned pale and fidgeted.
+
+@c      `Give your evidence,' said the King; `and don't be nervous, or
+@c    I'll have you executed on the spot.'
+
+@c      This did not seem to encourage the witness at all:  he kept
+@c    shifting from one foot to the other, looking uneasily at the
+@c    Queen, and in his confusion he bit a large piece out of his
+@c    teacup instead of the bread-and-butter.
+
+@c      Just at this moment Alice felt a very curious sensation, which
+@c    puzzled her a good deal until she made out what it was:  she was
+@c    beginning to grow larger again, and she thought at first she
+@c    would get up and leave the court; but on second thoughts she
+@c    decided to remain where she was as long as there was room for
+@c    her.
+
+@c      `I wish you wouldn't squeeze so.' said the Dormouse, who was
+@c    sitting next to her.  `I can hardly breathe.'
+
+@c      `I can't help it,' said Alice very meekly:  `I'm growing.'
+
+@c      `You've no right to grow here,' said the Dormouse.
+
+@c      `Don't talk nonsense,' said Alice more boldly:  `you know
+@c    you're growing too.'
+
+@c      `Yes, but I grow at a reasonable pace,' said the Dormouse:
+@c    `not in that ridiculous fashion.'  And he got up very sulkily
+@c    and crossed over to the other side of the court.
+
+@c      All this time the Queen had never left off staring at the
+@c    Hatter, and, just as the Dormouse crossed the court, she said to
+@c    one of the officers of the court, `Bring me the list of the
+@c    singers in the last concert!' on which the wretched Hatter
+@c    trembled so, that he shook both his shoes off.
+
+@c      `Give your evidence,' the King repeated angrily, `or I'll have
+@c    you executed, whether you're nervous or not.'
+
+@c      `I'm a poor man, your Majesty,' the Hatter began, in a
+@c    trembling voice, `--and I hadn't begun my tea--not above a week
+@c    or so--and what with the bread-and-butter getting so thin--and
+@c    the twinkling of the tea--'
+
+@c      `The twinkling of the what?' said the King.
+
+@c      `It began with the tea,' the Hatter replied.
+
+@c      `Of course twinkling begins with a T!' said the King sharply.
+@c    `Do you take me for a dunce?  Go on!'
+
+@c      `I'm a poor man,' the Hatter went on, `and most things
+@c    twinkled after that--only the March Hare said--'
+
+@c      `I didn't!' the March Hare interrupted in a great hurry.
+
+@c      `You did!' said the Hatter.
+
+@c      `I deny it!' said the March Hare.
+
+@c      `He denies it,' said the King:  `leave out that part.'
+
+@c      `Well, at any rate, the Dormouse said--' the Hatter went on,
+@c    looking anxiously round to see if he would deny it too:  but the
+@c    Dormouse denied nothing, being fast asleep.
+
+@c      `After that,' continued the Hatter, `I cut some more bread-
+@c    and-butter--'
+
+@c      `But what did the Dormouse say?' one of the jury asked.
+
+@c      `That I can't remember,' said the Hatter.
+
+@c      `You MUST remember,' remarked the King, `or I'll have you
+@c    executed.'
+
+@c      The miserable Hatter dropped his teacup and bread-and-butter,
+@c    and went down on one knee.  `I'm a poor man, your Majesty,' he
+@c    began.
+
+@c      `You're a very poor speaker,' said the King.
+
+@c      Here one of the guinea-pigs cheered, and was immediately
+@c    suppressed by the officers of the court.  (As that is rather a
+@c    hard word, I will just explain to you how it was done.  They had
+@c    a large canvas bag, which tied up at the mouth with strings:
+@c    into this they slipped the guinea-pig, head first, and then sat
+@c    upon it.)
+
+@c      `I'm glad I've seen that done,' thought Alice.  `I've so often
+@c    read in the newspapers, at the end of trials, "There was some
+@c    attempts at applause, which was immediately suppressed by the
+@c    officers of the court," and I never understood what it meant
+@c    till now.'
+
+@c      `If that's all you know about it, you may stand down,'
+@c    continued the King.
+
+@c      `I can't go no lower,' said the Hatter:  `I'm on the floor, as
+@c    it is.'
+
+@c      `Then you may SIT down,' the King replied.
+
+@c      Here the other guinea-pig cheered, and was suppressed.
+
+@c      `Come, that finished the guinea-pigs!' thought Alice.  `Now we
+@c    shall get on better.'
+
+@c      `I'd rather finish my tea,' said the Hatter, with an anxious
+@c    look at the Queen, who was reading the list of singers.
+
+@c      `You may go,' said the King, and the Hatter hurriedly left the
+@c    court, without even waiting to put his shoes on.
+
+@c      `--and just take his head off outside,' the Queen added to one
+@c    of the officers:  but the Hatter was out of sight before the
+@c    officer could get to the door.
+
+@c      `Call the next witness!' said the King.
+
+@c      The next witness was the Duchess's cook.  She carried the
+@c    pepper-box in her hand, and Alice guessed who it was, even before
+@c    she got into the court, by the way the people near the door began
+@c    sneezing all at once.
+
+@c      `Give your evidence,' said the King.
+
+@c      `Shan't,' said the cook.
+
+@c      The King looked anxiously at the White Rabbit, who said in a
+@c    low voice, `Your Majesty must cross-examine THIS witness.'
+
+@c      `Well, if I must, I must,' the King said, with a melancholy
+@c    air, and, after folding his arms and frowning at the cook till
+@c    his eyes were nearly out of sight, he said in a deep voice, `What
+@c    are tarts made of?'
+
+@c      `Pepper, mostly,' said the cook.
+
+@c      `Treacle,' said a sleepy voice behind her.
+
+@c      `Collar that Dormouse,' the Queen shrieked out.  `Behead that
+@c    Dormouse!  Turn that Dormouse out of court!  Suppress him!  Pinch
+@c    him!  Off with his whiskers!'
+
+@c      For some minutes the whole court was in confusion, getting the
+@c    Dormouse turned out, and, by the time they had settled down
+@c    again, the cook had disappeared.
+
+@c      `Never mind!' said the King, with an air of great relief.
+@c    `Call the next witness.'  And he added in an undertone to the
+@c    Queen, `Really, my dear, YOU must cross-examine the next witness.
+@c    It quite makes my forehead ache!'
+
+@c      Alice watched the White Rabbit as he fumbled over the list,
+@c    feeling very curious to see what the next witness would be like,
+@c    `--for they haven't got much evidence YET,' she said to herself.
+@c    Imagine her surprise, when the White Rabbit read out, at the top
+@c    of his shrill little voice, the name `Alice!'
+
+
+@node    paremo'o, , papamo'o, Top
+@chapter paremo'o [Alice's Evidence]
+
+
+@c                               CHAPTER XII
+
+@c                            Alice's Evidence
+
+
+@c      `Here!' cried Alice, quite forgetting in the flurry of the
+@c    moment how large she had grown in the last few minutes, and she
+@c    jumped up in such a hurry that she tipped over the jury-box with
+@c    the edge of her skirt, upsetting all the jurymen on to the heads
+@c    of the crowd below, and there they lay sprawling about, reminding
+@c    her very much of a globe of goldfish she had accidentally upset
+@c    the week before.
+
+@c      `Oh, I BEG your pardon!' she exclaimed in a tone of great
+@c    dismay, and began picking them up again as quickly as she could,
+@c    for the accident of the goldfish kept running in her head, and
+@c    she had a vague sort of idea that they must be collected at once
+@c    and put back into the jury-box, or they would die.
+
+@c      `The trial cannot proceed,' said the King in a very grave
+@c    voice, `until all the jurymen are back in their proper places--
+@c    ALL,' he repeated with great emphasis, looking hard at Alice as
+@c    he said do.
+
+@c      Alice looked at the jury-box, and saw that, in her haste, she
+@c    had put the Lizard in head downwards, and the poor little thing
+@c    was waving its tail about in a melancholy way, being quite unable
+@c    to move.  She soon got it out again, and put it right; `not that
+@c    it signifies much,' she said to herself; `I should think it
+@c    would be QUITE as much use in the trial one way up as the other.'
+
+@c      As soon as the jury had a little recovered from the shock of
+@c    being upset, and their slates and pencils had been found and
+@c    handed back to them, they set to work very diligently to write
+@c    out a history of the accident, all except the Lizard, who seemed
+@c    too much overcome to do anything but sit with its mouth open,
+@c    gazing up into the roof of the court.
+
+@c      `What do you know about this business?' the King said to
+@c    Alice.
+
+@c      `Nothing,' said Alice.
+
+@c      `Nothing WHATEVER?' persisted the King.
+
+@c      `Nothing whatever,' said Alice.
+
+@c      `That's very important,' the King said, turning to the jury.
+@c    They were just beginning to write this down on their slates, when
+@c    the White Rabbit interrupted:  `UNimportant, your Majesty means,
+@c    of course,' he said in a very respectful tone, but frowning and
+@c    making faces at him as he spoke.
+
+@c      `UNimportant, of course, I meant,' the King hastily said, and
+@c    went on to himself in an undertone, `important--unimportant--
+@c    unimportant--important--' as if he were trying which word
+@c    sounded best.
+
+@c      Some of the jury wrote it down `important,' and some
+@c    `unimportant.'  Alice could see this, as she was near enough to
+@c    look over their slates; `but it doesn't matter a bit,' she
+@c    thought to herself.
+
+@c      At this moment the King, who had been for some time busily
+@c    writing in his note-book, cackled out `Silence!' and read out
+@c    from his book, `Rule Forty-two.  ALL PERSONS MORE THAN A MILE
+@c    HIGH TO LEAVE THE COURT.'
+
+@c      Everybody looked at Alice.
+
+@c      `I'M not a mile high,' said Alice.
+
+@c      `You are,' said the King.
+
+@c      `Nearly two miles high,' added the Queen.
+
+@c      `Well, I shan't go, at any rate,' said Alice:  `besides,
+@c    that's not a regular rule:  you invented it just now.'
+
+@c      `It's the oldest rule in the book,' said the King.
+
+@c      `Then it ought to be Number One,' said Alice.
+
+@c      The King turned pale, and shut his note-book hastily.
+@c    `Consider your verdict,' he said to the jury, in a low, trembling
+@c    voice.
+
+@c      `There's more evidence to come yet, please your Majesty,' said
+@c    the White Rabbit, jumping up in a great hurry; `this paper has
+@c    just been picked up.'
+
+@c      `What's in it?' said the Queen.
+
+@c      `I haven't opened it yet,' said the White Rabbit, `but it seems
+@c    to be a letter, written by the prisoner to--to somebody.'
+
+@c      `It must have been that,' said the King, `unless it was
+@c    written to nobody, which isn't usual, you know.'
+
+@c      `Who is it directed to?' said one of the jurymen.
+
+@c      `It isn't directed at all,' said the White Rabbit; `in fact,
+@c    there's nothing written on the OUTSIDE.'  He unfolded the paper
+@c    as he spoke, and added `It isn't a letter, after all:  it's a set
+@c    of verses.'
+
+@c      `Are they in the prisoner's handwriting?' asked another of
+@c    they jurymen.
+
+@c      `No, they're not,' said the White Rabbit, `and that's the
+@c    queerest thing about it.'  (The jury all looked puzzled.)
+
+@c      `He must have imitated somebody else's hand,' said the King.
+@c    (The jury all brightened up again.)
+
+@c      `Please your Majesty,' said the Knave, `I didn't write it, and
+@c    they can't prove I did:  there's no name signed at the end.'
+
+@c      `If you didn't sign it,' said the King, `that only makes the
+@c    matter worse.  You MUST have meant some mischief, or else you'd
+@c    have signed your name like an honest man.'
+
+@c      There was a general clapping of hands at this:  it was the
+@c    first really clever thing the King had said that day.
+
+@c      `That PROVES his guilt,' said the Queen.
+
+@c      `It proves nothing of the sort!' said Alice.  `Why, you don't
+@c    even know what they're about!'
+
+@c      `Read them,' said the King.
+
+@c      The White Rabbit put on his spectacles.  `Where shall I begin,
+@c    please your Majesty?' he asked.
+
+@c      `Begin at the beginning,' the King said gravely, `and go on
+@c    till you come to the end:  then stop.'
+
+@c      These were the verses the White Rabbit read:--
+
+@c            `They told me you had been to her,
+@c              And mentioned me to him:
+@c            She gave me a good character,
+@c              But said I could not swim.
+
+@c            He sent them word I had not gone
+@c              (We know it to be true):
+@c            If she should push the matter on,
+@c              What would become of you?
+
+@c            I gave her one, they gave him two,
+@c              You gave us three or more;
+@c            They all returned from him to you,
+@c              Though they were mine before.
+
+@c            If I or she should chance to be
+@c              Involved in this affair,
+@c            He trusts to you to set them free,
+@c              Exactly as we were.
+
+@c            My notion was that you had been
+@c              (Before she had this fit)
+@c            An obstacle that came between
+@c              Him, and ourselves, and it.
+
+@c            Don't let him know she liked them best,
+@c              For this must ever be
+@c            A secret, kept from all the rest,
+@c              Between yourself and me.'
+
+@c      `That's the most important piece of evidence we've heard yet,'
+@c    said the King, rubbing his hands; `so now let the jury--'
+
+@c      `If any one of them can explain it,' said Alice, (she had
+@c    grown so large in the last few minutes that she wasn't a bit
+@c    afraid of interrupting him,) `I'll give him sixpence.  _I_ don't
+@c    believe there's an atom of meaning in it.'
+
+@c      The jury all wrote down on their slates, `SHE doesn't believe
+@c    there's an atom of meaning in it,' but none of them attempted to
+@c    explain the paper.
+
+@c      `If there's no meaning in it,' said the King, `that saves a
+@c    world of trouble, you know, as we needn't try to find any.  And
+@c    yet I don't know,' he went on, spreading out the verses on his
+@c    knee, and looking at them with one eye; `I seem to see some
+@c    meaning in them, after all.  "--SAID I COULD NOT SWIM--" you
+@c    can't swim, can you?' he added, turning to the Knave.
+
+@c      The Knave shook his head sadly.  `Do I look like it?' he said.
+@c    (Which he certainly did NOT, being made entirely of cardboard.)
+
+@c      `All right, so far,' said the King, and he went on muttering
+@c    over the verses to himself:  `"WE KNOW IT TO BE TRUE--" that's
+@c    the jury, of course-- "I GAVE HER ONE, THEY GAVE HIM TWO--" why,
+@c    that must be what he did with the tarts, you know--'
+
+@c      `But, it goes on "THEY ALL RETURNED FROM HIM TO YOU,"' said
+@c    Alice.
+
+@c      `Why, there they are!' said the King triumphantly, pointing to
+@c    the tarts on the table.  `Nothing can be clearer than THAT.
+@c    Then again--"BEFORE SHE HAD THIS FIT--"  you never had fits, my
+@c    dear, I think?' he said to the Queen.
+
+@c      `Never!' said the Queen furiously, throwing an inkstand at the
+@c    Lizard as she spoke.  (The unfortunate little Bill had left off
+@c    writing on his slate with one finger, as he found it made no
+@c    mark; but he now hastily began again, using the ink, that was
+@c    trickling down his face, as long as it lasted.)
+
+@c      `Then the words don't FIT you,' said the King, looking round
+@c    the court with a smile.  There was a dead silence.
+
+@c      `It's a pun!' the King added in an offended tone, and
+@c    everybody laughed, `Let the jury consider their verdict,' the
+@c    King said, for about the twentieth time that day.
+
+@c      `No, no!' said the Queen.  `Sentence first--verdict afterwards.'
+
+@c      `Stuff and nonsense!' said Alice loudly.  `The idea of having
+@c    the sentence first!'
+
+@c      `Hold your tongue!' said the Queen, turning purple.
+
+@c      `I won't!' said Alice.
+
+@c      `Off with her head!' the Queen shouted at the top of her voice.
+@c    Nobody moved.
+
+@c      `Who cares for you?' said Alice, (she had grown to her full
+@c    size by this time.)  `You're nothing but a pack of cards!'
+
+@c      At this the whole pack rose up into the air, and came flying
+@c    down upon her:  she gave a little scream, half of fright and half
+@c    of anger, and tried to beat them off, and found herself lying on
+@c    the bank, with her head in the lap of her sister, who was gently
+@c    brushing away some dead leaves that had fluttered down from the
+@c    trees upon her face.
+
+@c      `Wake up, Alice dear!' said her sister; `Why, what a long
+@c    sleep you've had!'
+
+@c      `Oh, I've had such a curious dream!' said Alice, and she told
+@c    her sister, as well as she could remember them, all these strange
+@c    Adventures of hers that you have just been reading about; and
+@c    when she had finished, her sister kissed her, and said, `It WAS a
+@c    curious dream, dear, certainly:  but now run in to your tea; it's
+@c    getting late.'  So Alice got up and ran off, thinking while she
+@c    ran, as well she might, what a wonderful dream it had been.
+
+@c      But her sister sat still just as she left her, leaning her
+@c    head on her hand, watching the setting sun, and thinking of
+@c    little Alice and all her wonderful Adventures, till she too began
+@c    dreaming after a fashion, and this was her dream:--
+
+@c      First, she dreamed of little Alice herself, and once again the
+@c    tiny hands were clasped upon her knee, and the bright eager eyes
+@c    were looking up into hers--she could hear the very tones of her
+@c    voice, and see that queer little toss of her head to keep back
+@c    the wandering hair that WOULD always get into her eyes--and
+@c    still as she listened, or seemed to listen, the whole place
+@c    around her became alive the strange creatures of her little
+@c    sister's dream.
+
+@c      The long grass rustled at her feet as the White Rabbit hurried
+@c    by--the frightened Mouse splashed his way through the
+@c    neighbouring pool--she could hear the rattle of the teacups as
+@c    the March Hare and his friends shared their never-ending meal,
+@c    and the shrill voice of the Queen ordering off her unfortunate
+@c    guests to execution--once more the pig-baby was sneezing on the
+@c    Duchess's knee, while plates and dishes crashed around it--once
+@c    more the shriek of the Gryphon, the squeaking of the Lizard's
+@c    slate-pencil, and the choking of the suppressed guinea-pigs,
+@c    filled the air, mixed up with the distant sobs of the miserable
+@c    Mock Turtle.
+
+@c      So she sat on, with closed eyes, and half believed herself in
+@c    Wonderland, though she knew she had but to open them again, and
+@c    all would change to dull reality--the grass would be only
+@c    rustling in the wind, and the pool rippling to the waving of the
+@c    reeds--the rattling teacups would change to tinkling sheep-
+@c    bells, and the Queen's shrill cries to the voice of the shepherd
+@c    boy--and the sneeze of the baby, the shriek of the Gryphon, and
+@c    all thy other queer noises, would change (she knew) to the
+@c    confused clamour of the busy farm-yard--while the lowing of the
+@c    cattle in the distance would take the place of the Mock Turtle's
+@c    heavy sobs.
+
+@c      Lastly, she pictured to herself how this same little sister of
+@c    hers would, in the after-time, be herself a grown woman; and how
+@c    she would keep, through all her riper years, the simple and
+@c    loving heart of her childhood:  and how she would gather about
+@c    her other little children, and make THEIR eyes bright and eager
+@c    with many a strange tale, perhaps even with the dream of
+@c    Wonderland of long ago:  and how she would feel with all their
+@c    simple sorrows, and find a pleasure in all their simple joys,
+@c    remembering her own child-life, and the happy summer days.
+
+@c                                 THE END
+
+@contents
+@bye
