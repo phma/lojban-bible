@@ -323,6 +323,13 @@ cusku li'o li'u
 @c    flamingoes, and the soldiers had to double themselves up and to
 @c    stand on their hands and feet, to make the arches.
 
+i lu ko zvati le medomoi sei le noltruni'u cu lidvru voksa cusku li'u
+i lei prenu co'a bajra fa'a roda gi'e jalsi'u i ku'i ba bredi zi lo mentu 
+be li paji'ire i le nu kelci cu cfari i la alis jinvi le du'u noroi le
+nu jmive pu viska lo ta'i kelcrkroke foldi i cpana joi skuro i le 
+bolci cu jmive cpinymabru i le mruli cu jmive fagycpi i le sonci cu
+krosa'ibi'o fi lei xance ku joi lei jamfu ja'e le nu bargu
+
 @c      The chief difficulty Alice found at first was in managing her
 @c    flamingo:  she succeeded in getting its body tucked away,
 @c    comfortably enough, under her arm, with its legs hanging down,
@@ -339,17 +346,40 @@ cusku li'o li'u
 @c    ground, Alice soon came to the conclusion that it was a very
 @c    difficult game indeed.
 
+i le ralju be lei nandu be la alis ca le cfari cu nu jitro le fagycpi 
+i abu snada le nu kufra banzu punji le fy xadni noi le tuple cu dandu
+ge'u le cnita be le abu birka i ku'i ta'e ca le nu ge le cnebo mo'u 
+sirji gi abu bredi le nu darxi le cpinymabru le fy stedu kei fy 
+sezytongau gi'e catlu fa'a le abu flira gi'e se cfipu frumu ja'e le
+nu abu ka'enai rivbi le nu spoja cmila i ca le nu abu ba'o punji le 
+fy stedu le dizlo gi'e pu'o za'ure'u co'a co'e kei xajmi mutce fa le
+nu facki le du'u le cpinymabru pu nalbolbi'o gi'e ca'o klama lo darno
+i ji'a ta'eku lo cmana a lo skuro cu zunti ca le nu abu djica le nu
+benji le cpinymabru i ki'u le nu le korcu sonci roroi sa'irgau gi'e
+dzukla lo drata pagbu be le foldi kei la alis jivbi'o le du'u le
+nunkei ja'a mutce le ka nandu  
+ 
 @c      The players all played at once without waiting for turns,
 @c    quarrelling all the while, and fighting for the hedgehogs; and in
 @c    a very short time the Queen was in a furious passion, and went
 @c    stamping about, and shouting `Off with his head!' or `Off with
 @c    her head!' about once in a minute.
 
+i ro le kelci cu mintu temci kelci gi'e na denpa le me ky moi gi'e
+ru'i toltugni gi'e damba fi lei cpinymabru i baziku le noltruni'u
+cu fengu cinmo gi'e ca'o marxa cadzu gi'e krixa lu ko le stedu ta
+vimcu li'u a lu ko le stedu tu vimcu li'u ji'iparoi ro mentu
+
 @c      Alice began to feel very uneasy:  to be sure, she had not as
 @c    yet had any dispute with the Queen, but she knew that it might
 @c    happen any minute, `and then,' thought she, `what would become of
 @c    me?  They're dreadfully fond of beheading people here; the great
 @c    wonder is, that there's any one left alive!'
+
+la alis co'a cinmo le ka tolkufra i i'a abu za'o na damba le noltruni'u
+gi'e ku'i djuno le du'u ka'e bazi fasnu i lu va'o la'e di'usei abu pensi
+mi mo i vi nelci le nu vimcu le stedu le prenu i manci mutce fa le nu
+da stali le ka jmive li'u
 
 @c      She was looking about for some way of escape, and wondering
 @c    whether she could get away without being seen, when she noticed a
@@ -358,8 +388,16 @@ cusku li'o li'u
 @c    be a grin, and she said to herself `It's the Cheshire Cat:  now I
 @c    shall have somebody to talk to.'
 
+i abu sisku lo tadji be le nu zi'erbi'o kei gi'e pensi le du'u xukau abu
+ka'e cliva secau le nu se viska kei kei gi'e co'a sanji lo cizra 
+tolcanci ne le vacri i ra cfipu abu ca le cfari i ku'i ba le nu catlu
+ra ze'a lo mentu be li paji'ire kei abu facki le du'u ra nu cisma kei
+gi'e sezysku lu ua la tcecrmlatu i caku mi da ka'e tavla li'u
+
 @c      `How are you getting on?' said the Cat, as soon as there was
 @c    mouth enough for it to speak with.
+
+i lu do mo sei la mlatu ca le nu da tavla banzu moklu cu cusku li'u
 
 @c      Alice waited till the eyes appeared, and then nodded.  `It's no
 @c    use speaking to it,' she thought, `till its ears have come, or at
@@ -369,6 +407,13 @@ cusku li'o li'u
 @c    Cat seemed to think that there was enough of it now in sight, and
 @c    no more of it appeared.
 
+i la alis denpa le nu lei kanla cu tolcanci gi'e tu'ifru i lu na pilno
+le nu tavla my kei sei abu pensi pu le nu zvati fa le kerlo se.u su'o ri
+li'u i za lo drata mentu le mulno stedu cu tolcanci i la alis toljgari
+le fagycpi gi'e co'a te lisri le nunkei gi'e cinmo le ka gleki le nu
+da abu tirna i la mlatu cu simlu le ka pensi pirau my ca se viska i 
+no drata pagbu be my cu tolcanci 
+  
 @c      `I don't think they play at all fairly,' Alice began, in rather
 @c    a complaining tone, `and they all quarrel so dreadfully one can't
 @c    hear oneself speak--and they don't seem to have any rules in
@@ -379,42 +424,86 @@ cusku li'o li'u
 @c    croqueted the Queen's hedgehog just now, only it ran away when it
 @c    saw mine coming!'
 
+i lu mi na jinvi le du'u tu ca'o stace kelci sei la alis co'a pante 
+tonga cusku i ro tu da'arta'a ja'e le nu na ka'e tirna le nu tavla i
+tu simlu le ka na steci javni fi ce'u iseju va'o le nu ja'a javni kei
+no da jy jundi i mu'a tu no'u le bargu poi ei mi ca pagre cu cadzu bu'u
+le drata fanmo be le foldi i mi pu'o kelcrkroke le cpinymabru pe le
+noltruni'u i ku'i ue cy to'o bajra ca le nu viska le nu le memimoi cu 
+jbikla li'u
+ 
 @c      `How do you like the Queen?' said the Cat in a low voice.
+
+i lu do nelci le noltruni'u sela'u ma sei la mlatu cu tolylau voksa
+cusku li'u
 
 @c      `Not at all,' said Alice:  `she's so extremely--'  Just then
 @c    she noticed that the Queen was close behind her, listening:  so
 @c    she went on, `--likely to win, that it's hardly worth while
 @c    finishing the game.'
 
+i lu li no sei la alis cusku i ny mutce li'o li'u icaku abu sanji le 
+nu le noltruni'u cu jibni trixe abu gi'e tirna i seki'ubo di'a cusku
+lu le ka lakne fa le nu ce'u jinga iseki'ubo na vamji le temci fa le 
+nu mo'u kelci li'u
+
 @c      The Queen smiled and passed on.
+
+i le noltruni'u cu cisma gi'e pagre
 
 @c      `Who ARE you talking to?' said the King, going up to Alice, and
 @c    looking at the Cat's head with great curiosity.
 
+i do ma tavla sei le noltrunau cu cusku li'u i ny klama la alis gi'e 
+mutce se cinri catlu le stedu be la mlatu 
+
 @c      `It's a friend of mine--a Cheshire Cat,' said Alice:  `allow me
 @c    to introduce it.'
+
+i lu ta mi pendo i ta tcecrmlatu sei la alis cusku i e'apei mi do ta 
+pengau li'u
 
 @c      `I don't like the look of it at all,' said the King:
 @c    `however, it may kiss my hand if it likes.'
 
+i lu mi nasai nelci le nu ta simlu makau sei le noltrunau cu cusku
+i ku'i e'a ta cinba le mi xance va'o le nu pluka ta li'u 
+
 @c      `I'd rather not,' the Cat remarked.
+
+i mi zmanei le nu na go'i sei la mlatu cu te pinka li'u
 
 @c      `Don't be impertinent,' said the King, `and don't look at me
 @c    like that!'  He got behind Alice as he spoke.
 
+i lu ko na tolsi'a sei le noltrunau cu cusku i ko mi na catlu ta'i ta li'u
+i ny ti'ekla la alis ca le nu tavla
+
 @c      `A cat may look at a king,' said Alice.  `I've read that in
 @c    some book, but I don't remember where.'
+
+i lu lo'e mlatu ka'e catlu lo'e noltrunau sei la alis cusku i mi pu tcidu
+di'u lo cukta i ku'i mi na morji le du'u cy mokau li'u
 
 @c      `Well, it must be removed,' said the King very decidedly, and
 @c    he called the Queen, who was passing at the moment, `My dear!  I
 @c    wish you would have this cat removed!'
 
+i lu ei ta se vimcu sei le noltrunau cu jdice cusku li'u i ny skuta'a le
+noltruni'u noi ca jibni pagre lu au doi dirba do da vicygau le vi mlatu li'u
+
 @c      The Queen had only one way of settling all difficulties, great
 @c    or small.  `Off with his head!' she said, without even looking
 @c    round.
 
+i le noltruni'u cu cikre tai pada ro nabmi noi barda ja cmalu i lu ko
+le stedu ta vimcu sei ny secau le nu fa'a catlu cu cusku li'u 
+
 @c      `I'll fetch the executioner myself,' said the King eagerly, and
 @c    he hurried off.
+
+i ba'e mi klagau le selmi'ecatra sei le noltrunau cu sutydji cusku li'u
+i ny sutra klama
 
 @c      Alice thought she might as well go back, and see how the game
 @c    was going on, as she heard the Queen's voice in the distance,
@@ -424,12 +513,24 @@ cusku li'o li'u
 @c    such confusion that she never knew whether it was her turn or
 @c    not.  So she went in search of her hedgehog.
 
+i la alis cu jdice le nu rere'u klama gi'e viska le nu le nunkelci
+cu mokau icabo abu tirna le darno voksa be le nolturni'u noi cinmo
+krixa i abu ba'o tirna le nu ny minde le nu ci kelci cu se catra
+ki'u le nu ky na kelci ca le me ky moi i abu na nelci le jvinu be
+le cuntu ki'u le nu le nunkelci cu mutce le ka cfipu kei ja'e le nu
+abu noroi djuno le du'u xukau ca ei kelci i seki'ubo abu co'a sisku
+le abu cpinymabru
+
 @c      The hedgehog was engaged in a fight with another hedgehog,
 @c    which seemed to Alice an excellent opportunity for croqueting one
 @c    of them with the other:  the only difficulty was, that her
 @c    flamingo was gone across to the other side of the garden, where
 @c    Alice could see it trying in a helpless sort of way to fly up
 @c    into a tree.
+
+i le cpinymabru ca'o damba lo drata cpinymabru i la alis jinvi le du'u
+xautce prali la'e di'u le nu kelcrkroke pa cy le drata i le po'o nabmi
+cu nu le abu fagycpi ba'o klama le drata fanmo be le purdi be'o noi 
 
 @c      By the time she had caught the flamingo and brought it back,
 @c    the fight was over, and both the hedgehogs were out of sight:
