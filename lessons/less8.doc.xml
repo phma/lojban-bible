@@ -833,7 +833,7 @@ suzyn.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. catlu le vo'a 
 ve minra</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le go'i cu nitcu lenu le vo'a ctebi cinta cu te jmina</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i le go'i cu jmina fi le vo'a ctebi cinta</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca lenu go'i kei la suzyn. te
 minra la ranjit. soi vo'a</foreignphrase></para></listitem>
@@ -932,16 +932,8 @@ get to the restaurant.</para></listitem>
 version of <quote>looks at herself in the mirror.</quote> There are other 
 ways to say this, but we haven't covered the requisite grammar yet.)</para></listitem>
 
-<listitem><para>She needs to put on more lipstick. (Literally, <quote>She 
-needs that her lip paint be added to.</quote> Of course, <foreignphrase 
-lang="art-lojban">vo'a</foreignphrase> here is <quote role="gloss">Susan</quote>,
-from the main <foreignphrase lang="art-lojban">bridi</foreignphrase>
-and not the horridly recursive local x<subscript>1</subscript>,
-<quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote> &mdash;
-where <wordasword>x</wordasword> is <quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote>,
-where <wordasword>x</wordasword> is <quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote>,
-where <wordasword>x</wordasword> is <quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote>...)
-</para></listitem>
+<listitem><para>She puts on more lipstick. (Literally, <quote>She 
+adds to her lip paint.</quote></para></listitem>
 
 <listitem><para>When this is happening, Susan and Ranjeet see each other's 
 reflection.</para></listitem>

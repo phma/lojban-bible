@@ -99,11 +99,23 @@ lang="art-lojban">vo'a</foreignphrase> long-distance.</para>
 
 <para>... almost always. There are two occasions when they sometimes use short-distance 
 interpretations instead. The first is when the long-distance interpretation doesn't 
-make sense for some reason (for example, the x<subscript>1</subscript> place of the main <foreignphrase
+make sense for some reason. For example, the x<subscript>1</subscript> place of the main <foreignphrase
 lang="art-lojban">bridi</foreignphrase> contains the embedded <foreignphrase
 lang="art-lojban">bridi</foreignphrase> containing <foreignphrase
 lang="art-lojban">vo'a</foreignphrase> &mdash; so a long-distance reading would get
-terribly recursive. The second occasion is (you guessed it) <foreignphrase
+terribly recursive: <foreignphrase 
+lang="art-lojban">lenu la suzyn. jmina fi le vo'a ctebi cinta cu 
+cinri</foreignphrase> makes sense as <quote>Susan putting on her lipstick is
+interesting</quote>, but not as the horridly recursive <quote>Susan putting on 
+<wordasword>x</wordasword>'s lipstick is interesting</quote> &mdash;
+where <wordasword>x</wordasword> is <quote>Susan putting on 
+<wordasword>x</wordasword>'s lipstick</quote>,
+where <wordasword>x</wordasword> is <quote>Susan putting on 
+<wordasword>x</wordasword>'s lipstick</quote>,
+where <wordasword>x</wordasword> is <quote>Susan putting on 
+<wordasword>x</wordasword>'s lipstick</quote>...)</para>
+
+<para>The second occasion is (you guessed it) <foreignphrase
 lang="art-lojban">soivo'a</foreignphrase>. People are used to thinking of 
 <foreignphrase lang="art-lojban">soivo'a</foreignphrase> as <foreignphrase 
 lang="lat">vice versa</foreignphrase>, which forces a short-distance 
