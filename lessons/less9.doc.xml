@@ -102,6 +102,9 @@ unambiguous (another one of Lojban's <quote role="socalled">selling
 points</quote>!)
 
 </para>
+</sect1>
+
+<sect1 id="less9intmore"><title>More Internal <foreignphrase lang="loj">sumti</foreignphrase></title>
 
 <para>if you want to add a <foreignphrase lang="loj">sumti</foreignphrase>
 to a place other than x2, you can use a FA tag. So:
@@ -207,7 +210,7 @@ barja</foreignphrase> <quote>I met Ranjeet's friend in the bar</quote>: the
 </para></note>
 
 <simplesect role="vocab"><title>Vocabulary</title>
-<para>
+
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -221,7 +224,7 @@ x2 ideas/methods/lore x3 (du'u) about subject(s) x4 by method x5
 (event)</para></listitem></varlistentry>
 
 </variablelist>
-</para>
+
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 1</title>
@@ -379,7 +382,7 @@ lang="loj">sumti</foreignphrase> with <foreignphrase lang="loj">sumti
 tcita</foreignphrase>. </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
-<para>
+
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -398,7 +401,7 @@ complex/complicated/involved in aspect/property x2 (ka) by standard
 x3</para></listitem></varlistentry>
 
 </variablelist>
-</para>
+
 </simplesect>
 
 
@@ -522,6 +525,11 @@ lang="loj">ku'o</foreignphrase>, by little tricks like making sure the
 relative clause comes just before <foreignphrase
 lang="loj">cu</foreignphrase> &mdash; which shuts everything else down.
 </para>
+
+</sect1>
+
+<sect1 id="less9keha"><title><foreignphrase
+lang="loj">ke'a</foreignphrase></title>
 
 <para>We're almost there; but we've had to use <foreignphrase
 lang="loj">ri</foreignphrase> to refer back to <foreignphrase lang="loj">le
@@ -791,7 +799,7 @@ lang="loj">noi, no, no'e, ne</foreignphrase>)</para></listitem>
 </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
-<para>
+
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -819,6 +827,11 @@ shoulder/hip/joint [body-part] attaching limb/extremity x2 to body
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
+lang="loj">jgari</foreignphrase></term><listitem><para>x1
+grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus
+x4 (part of x2)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="loj">jgita</foreignphrase></term><listitem><para>x1 is a
 guitar/violin/fiddle/harp [stringed musical instrument] with
 actuator/plectrum/bow x2</para></listitem></varlistentry>
@@ -828,9 +841,9 @@ lang="loj">jgitrviolino</foreignphrase></term><listitem><para>x1 is a
 violin</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">jundi</foreignphrase></term><listitem><para>x1
-grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus
-x4 (part of x2)</para></listitem></varlistentry>
+lang="loj">jundi</foreignphrase></term><listitem><para>x1 is attentive
+towards/attends/tends/pays attention to object/affair
+x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="loj">kanla</foreignphrase></term><listitem><para>x1 is a/the eye
@@ -875,7 +888,7 @@ lang="loj">zgike</foreignphrase></term><listitem><para>x1 is music
 performed/produced by x2 (event)</para></listitem></varlistentry>
 
 </variablelist>
-</para>
+
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 4</title>

@@ -275,6 +275,11 @@ lang="loj">.i ri cisma</foreignphrase>. It works out simpler to keep
 <foreignphrase lang="loj">ri/ra/ru</foreignphrase> in reserve for more
 important things. </para></note>
 
+</sect1>
+
+<sect1 id="less9lerfu"><title>Letters as pro-<foreignphrase
+lang="loj">sumti</foreignphrase></title>
+
 <para>Now there are plenty of KOhA <foreignphrase
 lang="loj">sumti</foreignphrase> to go around. In fact, if you've run out
 of words by getting to <foreignphrase lang="loj">ko'u</foreignphrase>, you
@@ -754,7 +759,7 @@ x1 meets/encounters x2 at/in location x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="loj">.y</foreignphrase></term><listitem><para><quote 
-role="gloss">er</quote> (hesitation)</para></listitem></varlistentry>
+role="gloss">er...</quote> (hesitation)</para></listitem></varlistentry>
 
 </variablelist>
 
