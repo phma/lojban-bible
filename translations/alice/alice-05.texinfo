@@ -11,12 +11,23 @@
 @c    silence:  at last the Caterpillar took the hookah out of its
 @c    mouth, and addressed her in a languid, sleepy voice.
 
+lu'i le ciftoldi .e la alis. goi ko'a ze'a simxu le za'i smaji catlu le
+drata cmima .i bazubo le ciftoldi mo'ize'o bevri le marna tubnu fo le
+moklu gi'e .o'udai .a'inaidai cusku fi ko'a
+
 @c      `Who are YOU?' said the Caterpillar.
+
+.i lu doi ba'e ma li'u se cusku le ciftoldi
 
 @c      This was not an encouraging opening for a conversation.  Alice
 @c    replied, rather shyly, `I--I hardly know, sir, just at present--
 @c    at least I know who I WAS when I got up this morning, but I think
 @c    I must have been changed several times since then.'
+
+.i di'u na'e xamgu mukti le nu co'a casnu .i la alis. .u'onaisai cusku
+lu mi .y. si mi na'e mulno djuno ga'inai ca le cabna .isa'unai mi djuno
+mi'e makau ca le nu mi puza ckana cliva le cabycerni .iku'i pe'i mi
+so'oroi je puza ze'aca binxo
 
 @c      `What do you mean by that?' said the Caterpillar sternly.
 @c    `Explain yourself!'
