@@ -1,15 +1,20 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "urn:x-oasis:docbook-xml-v4.1.2" [
-<!ENTITY glottal "&#660;">
-<!ENTITY akl "&#593;">
-<!ENTITY dkl "&#598;">
-<!ENTITY gkl "&#611;">
-<!ENTITY tlh "t&#620;">
-<!ENTITY shkl "&#642;">
-<!ENTITY stress "&#712;">
-<!ENTITY length "&#720;">
-<!ENTITY zhkl "&#658;">
-<!ENTITY ekl "&#603;">
+<!ENTITY glottal "ʔ">
+<!ENTITY akl "ɑ">
+<!ENTITY dkl "ɖ">
+<!ENTITY gkl "ɣ">
+<!ENTITY tlh "tɬ">
+<!ENTITY shkl "ʂ">
+<!ENTITY stress "ˈ">
+<!ENTITY length "ː">
+<!ENTITY zhkl "ʒ">
+<!ENTITY ekl "ɛ">
 <!ENTITY lslash "&#x0142;">
+<!ENTITY schwa "ə">
+<!ENTITY esh "&#x0283;">
+<!ENTITY ikl "&#x026a;">
+<!ENTITY eng "&#x014b;">
+<!ENTITY oelig "&#x0153;">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">

@@ -4,12 +4,18 @@
 <!ENTITY dkl "&ecirc;">
 <!ENTITY gkl "&Auml;">
 <!ENTITY tlh "t&Acirc;">
-<!ENTITY shkl "&para;">
+<!ENTITY shkl "&#167;">
 <!ENTITY stress "&Egrave;">
 <!ENTITY length "&ugrave;">
 <!ENTITY zhkl "Z">
 <!ENTITY ekl "E">
 <!ENTITY lslash "&#x0142;">
+<!ENTITY schwa "&#171;">
+<!ENTITY esh "S">
+<!ENTITY ikl "I">
+<!ENTITY eng "N">
+<!ENTITY oelig "&#191;">
+<!ENTITY ccedil "C">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">

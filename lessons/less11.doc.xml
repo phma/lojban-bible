@@ -664,7 +664,7 @@ lang="art-lojban">bridi</foreignphrase>. So it corresponds precisely to
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
-<variablelist>
+<variablelist termlength="13">
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">bruna</foreignphrase></term><listitem><para>x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not necess. biological]</para></listitem></varlistentry>
@@ -682,7 +682,7 @@ lang="art-lojban">jatna</foreignphrase></term><listitem><para>x1 is captain/comm
 lang="art-lojban">jikca</foreignphrase></term><listitem><para>x1 interacts/behaves socially with x2; x1 socializes with/is sociable towards x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kratrsenatore</foreignphrase></term><listitem><para>x1 is a senator representing x2 in the senate 
+lang="art-lojban">kratr&shy;senatore</foreignphrase></term><listitem><para>x1 is a senator representing x2 in the senate 
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -1075,7 +1075,7 @@ you a quote if you've already called for a consultation; so this is OR.</para></
 <listitem><para>XOR: You may be being imprecise, but you're not being nonsensical &mdash; the number of reasons 
 you can come up with can't be both six and seven.</para></listitem>
 
-<listitem><para>OR: As it turns out, it's next to both. (Nick actually met some people from Liechtenstein once,
+<listitem><para>OR: As it turns out, it's next to both. (Nick met some people from Liechtenstein once,
 actually. They found the name of their capital hilarious...)</para></listitem>
 
 </orderedlist>

@@ -3,11 +3,11 @@
 <para>This lesson is something of a mixed bag. In it, we cover four topics
 which are fairly important in Lojban, each of which kind of fits somewhere
 else &mdash; but would take us far afield in each of the other lessons.
-Aspects are a special kind of <link linkend="less6">tense</link>; vocatives
-are a special kind of <link linkend="less13">attitudinal</link>; loan words
+<firstterm>Aspects</firstterm> are a special kind of <link linkend="less6">tense</link>; <firstterm>vocatives</firstterm>
+are a special kind of <link linkend="less13">attitudinal</link>; <firstterm>loan words</firstterm>
 are a way of introducing new words into Lojban, comparable to <link
 linkend="less8"><foreignphrase
-lang="art-lojban">lujvo</foreignphrase></link>; and equalities involve
+lang="art-lojban">lujvo</foreignphrase></link>; and <firstterm>equalities</firstterm> involve
 a special kind of <link
 linkend="less2"><foreignphrase
 lang="art-lojban">selbri</foreignphrase></link>.</para>
@@ -182,6 +182,45 @@ them as often in Lojban text; you can find out about them in Chapter 10 of
 <citetitle>The Complete Lojban Language</citetitle>.  
 </para>
 
+<simplesect role="exercise"><title>Exercise 2</title>
+
+<para>Some of you may be familiar with the puzzles <citetitle>Where's Waldo?</citetitle> and
+<citetitle>Where in the World is Carmen Sandiego?</citetitle>. Well now we're going to
+play a little game of <foreignphrase 
+lang="art-lojban">la jan. zvati ma</foreignphrase>. For each of these sentences, say where
+Zhang is, given the aspect expressed. You're allowed to say <quote>Between A and B</quote>
+in your answer. For example:
+
+<informalexample><para><foreignphrase 
+lang="art-lojban">.i la jan. ca'o klama la paRIS. la li,ON.</foreignphrase> &rArr; Zhang is between Paris and Lyon.</para></informalexample>
+
+Watch out for strange Lojbanisations of names!</para>
+
+<orderedlist>
+
+<listitem><para><foreignphrase 
+lang="art-lojban">.i la jan. co'a klama la sankt.PEterspurg. la myskFAS.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase 
+lang="art-lojban">.i la jan. ba'o klama la minxen. la keln.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase 
+lang="art-lojban">.i la jan. mo'u klama la firentses. la veNEtsi,as.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase 
+lang="art-lojban">.i la jan. co'u klama la cai,en. la nolinz.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase 
+lang="art-lojban">.i la jan. pu'o klama la canXAIS. la guanJOUS.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase 
+lang="art-lojban">.i la jan. ca'o stali le barja.</foreignphrase></para></listitem>
+
+</orderedlist>
+
+</simplesect>
+
+
 </sect1>
 
 
@@ -192,8 +231,10 @@ whom out of a group you are talking to. We've already seen how to do that
 in Lojban: <foreignphrase lang="art-lojban">doi</foreignphrase>, followed
 by the name (without the name article, <foreignphrase
 lang="art-lojban">la</foreignphrase>.) So <quote>Houston, we have a
-problem</quote> ends up as <foreignphrase lang="art-lojban">doi xustyn. mi'a
-se nabmi</foreignphrase> (sidestepping the slight illogicality of speaking
+problem</quote> ends up as 
+
+<informalexample><para><foreignphrase lang="art-lojban">doi xustyn. mi'a
+se nabmi </foreignphrase></para></informalexample>(sidestepping the slight illogicality of speaking
 to a single person in Houston but addressing a whole city.)</para>
 
 <para>Often, however, we address people in order to manage our 
@@ -280,8 +321,9 @@ explicitly ask for the speaker to repeat whatever they said with
 <listitem><para>Similarly, <foreignphrase lang="art-lojban">be'e</foreignphrase>
 signals a request to send a message (<quote>Hello? Are you there?</quote>),
 and <foreignphrase lang="art-lojban">re'i</foreignphrase> indicates that
-you are ready to receive a message. (It's what you say when you pick up the
-phone &mdash; which in English also happens to be <quote>Hello?</quote>,
+you are <emphasis>ready</emphasis> 
+(Lojban <foreignphrase lang="art-lojban">bredi</foreignphrase>) to receive a message.
+(It's what you say when you pick up the phone &mdash; which in English also happens to be <quote>Hello?</quote>,
 but in Italian is <foreignphrase lang="ita">Pronto</foreignphrase> <quote
 role="gloss">Ready!</quote>.)</para></listitem>
 
@@ -322,7 +364,11 @@ lang="art-lojban">co'o</foreignphrase>)</para></listitem>
 
 </itemizedlist></para>
 
-<para>Vocatives take names (after an obligatory pause), or <foreignphrase
+<para>Vocatives take names, <foreignphrase
+lang="art-lojban">sumti</foreignphrase> or <foreignphrase
+lang="art-lojban">selbri</foreignphrase>. The names come after an obligatory pause, 
+to make sure any eavesdropping computers don't misconstrue the vocative as one long name.
+The <foreignphrase
 lang="art-lojban">sumti</foreignphrase> or <foreignphrase
 lang="art-lojban">selbri</foreignphrase> describing the addressee (e.g. <foreignphrase
 lang="art-lojban">co'o la mensi</foreignphrase> or <foreignphrase
@@ -331,9 +377,15 @@ lang="art-lojban">co'o mensi</foreignphrase>
 don't need terminators. If you use the vocative on its own, however, you
 will need a terminator, because the things likeliest to follow the vocative 
 in a sentence could easily be misconstrued as describing your addressee. The terminator for
-vocatives is <foreignphrase lang="art-lojban">do'u</foreignphrase>.</para>
+vocatives is <foreignphrase lang="art-lojban">do'u</foreignphrase>. For example,
 
-<simplesect role="exercise"><title>Exercise 2</title>
+<informalexample><literallayout><foreignphrase lang="art-lojban">coi do'u la suzyn. la ranjit. puzi cliva</foreignphrase>
+Hello! Susan's just left Ranjeet.</literallayout>
+
+</informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">coi la suzyn. la ranjit. puzi cliva</foreignphrase>
+Hello, Susan! Ranjeet's just left.</literallayout></informalexample></para>
+
+<simplesect role="exercise"><title>Exercise 3</title>
 
 <para>Give the Lojban vocatives corresponding to the emphasised words in
 each of the following sentences. You may need to add <foreignphrase 
@@ -391,7 +443,7 @@ culture-specific. In either case, it would be really cumbersome to describe
 it with a combination of <foreignphrase
 lang="art-lojban">gismu</foreignphrase>. (For example, how would you come
 up with a description for <wordasword>brie</wordasword>? Or
-<wordasword>rock 'n' roll</wordasword>? &mdash; which, I should point out,
+<wordasword>rock 'n' roll</wordasword>? &mdash; which, we should point out,
 you would have to keep distinct from the later musical genre of <wordasword>rock</wordasword>!)</para>
 
 <para>The problem with borrowing words into Lojban is, Lojban has a quite 
@@ -402,11 +454,13 @@ example, if I want to bring the word <wordasword>Esperanto</wordasword> into
 Lojban, the last thing I want to do is start saying <foreignphrase
 lang="art-lojban">.esperanto</foreignphrase>. That will get analysed as <foreignphrase
 lang="art-lojban">.e speranto</foreignphrase>, which is something like 
-<quote role="gloss">and marriage-soft</quote>. (Well, it would be if <quote 
+<quote role="gloss">and marriage-soft</quote>.</para>
+
+<note><para>Well, it would be if <quote 
 role="gloss">soft</quote> was <foreignphrase
 lang="art-lojban">ranto</foreignphrase> instead of <foreignphrase
 lang="art-lojban">ranti</foreignphrase> &mdash; but the point should still 
-be clear: importing words as they are would lead to confusion and havoc.)</para>
+be clear: importing words as they are would lead to confusion and havoc.</para></note>
 
 <para>The sanctioned way to deal with loan-words (described in more detail
 in <citetitle>The Complete Lojban Language</citetitle>, Chapter 4.7) is to stick a
@@ -427,13 +481,32 @@ a vowel), and <foreignphrase lang="art-lojban">r</foreignphrase> or
 cluster of consonants crunchy enough that it cannot be mistaken for another
 Lojban word or phrase.)</para>
 
+<tip><para>There is no standard consonant to put in front of the word to become a
+<foreignphrase lang="art-lojban">fu'ivla</foreignphrase> if it starts with a vowel.
+Two popular choices are <foreignphrase lang="art-lojban">x</foreignphrase> and
+<foreignphrase lang="art-lojban">n</foreignphrase>. Similarly, there is no set convention
+on where to get the vowel from if your word ends in a consonant. In these lessons,
+we'll just repeat the preceding vowel; e.g. <wordasword>England</wordasword> &rArr;
+<foreignphrase lang="art-lojban">gugdr<emphasis>n</emphasis>ingland<emphasis>a</emphasis></foreignphrase>
+(from <foreignphrase lang="art-lojban">gugde</foreignphrase> <quote role="gloss">country</quote>.)</para></tip>
+
 <para>So what does all this look like in practice? Well, we've already seen
-<wordasword>curry</wordasword>: take <quote role="gloss">food</quote>,
-<foreignphrase lang="art-lojban">cidj[a]</foreignphrase>; take the word in 
+<wordasword>curry</wordasword>:
+
+<itemizedlist>
+
+<listitem><para>take <quote role="gloss">food</quote>,
+<foreignphrase lang="art-lojban">cidj[a]</foreignphrase>;</para></listitem>
+
+<listitem><para>take the word in 
 Lojban garb (starting with a consonant and ending with a vowel), <foreignphrase 
-lang="art-lojban">kari</foreignphrase>; and wedge them together with an <foreignphrase 
+lang="art-lojban">kari</foreignphrase>;</para></listitem>
+
+<listitem><para>and wedge them together with an <foreignphrase 
 lang="art-lojban">r</foreignphrase>: <foreignphrase 
-lang="art-lojban">cidjrkari</foreignphrase>.  (The consonant cluster is also crunchy enough to be difficult to 
+lang="art-lojban">cidjrkari</foreignphrase>. </para></listitem>
+
+</itemizedlist>(The consonant cluster is also crunchy enough to be difficult to 
 pronounce; the <foreignphrase lang="art-lojban">r</foreignphrase> is a 
 syllable on its own, and the word should sound something like 
 <wordasword>shidgerrrrrkari</wordasword>.)</para>
@@ -459,12 +532,45 @@ lang="art-lojban">fu'ivla</foreignphrase> we've seen are <quote
 role="socalled">Stage 3</quote>; in Stage 4, you drop the initial <quote
 role="socalled">crunchy</quote> <foreignphrase
 lang="art-lojban">rafsi</foreignphrase>, reasoning that the word should
-already be well-known or recognisable enough. (For example, <citetitle>The
+already be well-known or recognisable enough &mdash; and making sure that
+the word still doesn't look like a normal <foreignphrase lang="art-lojban">brivla</foreignphrase>.
+(For example, <citetitle>The
 Complete Lojban Language</citetitle> suggests <foreignphrase
 lang="art-lojban">tci'ile</foreignphrase> for <quote role="gloss">Chile</quote>,
 instead of <foreignphrase lang="art-lojban">gugdrtcile</foreignphrase>.)
 Not everyone likes them, so they're not yet all that common, and you'll
 usually get plenty of warning if someone is using them. </para></note>
+
+<note><title>P.S.</title><para>If you were wondering, by the way:
+<foreignphrase lang="art-lojban">cilrbri, zgikrnroknrolo, zgikrnroko</foreignphrase>.</para></note>
+
+<simplesect role="exercise"><title>Exercise 4</title>
+
+<para>Turn these words into <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>,
+using the <foreignphrase lang="art-lojban">gismu</foreignphrase> supplied as the prefix.
+For example: 
+
+<informalexample><para>Mummy/Mommie: <foreignphrase lang="art-lojban">mamta</foreignphrase>
+&rArr; <foreignphrase lang="art-lojban">mamtrmami</foreignphrase>.</para></informalexample><orderedlist>
+
+<listitem><para>Cockney: <foreignphrase lang="art-lojban">bangu</foreignphrase></para></listitem>
+
+<listitem><para>Pizza: <foreignphrase lang="art-lojban">cidja</foreignphrase></para></listitem>
+
+<listitem><para>Derivative: <foreignphrase lang="art-lojban">cmaci</foreignphrase></para></listitem>
+
+<listitem><para>Adagio: <foreignphrase lang="art-lojban">zgike</foreignphrase></para></listitem>
+
+<listitem><para>Psychopathy: <foreignphrase lang="art-lojban">bilmi</foreignphrase></para></listitem>
+
+<listitem><para>Deuterium: <foreignphrase lang="art-lojban">cidro</foreignphrase></para></listitem>
+
+<listitem><para>Amethyst: <foreignphrase lang="art-lojban">jemna</foreignphrase></para></listitem>
+
+</orderedlist></para>
+
+</simplesect>
+
 
 </sect1>
 
@@ -512,6 +618,11 @@ lang="art-lojban">selbri</foreignphrase> version of <quote role="gloss">my three
 sisters</quote>.) So <foreignphrase lang="art-lojban">me</foreignphrase> is 
 best thought of as meaning <quote role="gloss">is one of</quote>.</para>
 
+<tip><title>Historical note</title><para><foreignphrase lang="art-lojban">me</foreignphrase>,
+way back in the dawn of (Lojbanic) time, used to mean <quote role="gloss">pertaining
+to</quote> instead of <quote role="gloss">is</quote>. You'll see confusion between the
+two persisting among old timers. Be gentle with them, we pray you...</para></tip>
+
 <para>The second word is <foreignphrase
 lang="art-lojban">du</foreignphrase>. <foreignphrase
 lang="art-lojban">du</foreignphrase> is a <foreignphrase
@@ -535,10 +646,10 @@ mensi</foreignphrase> makes the nonsensical claim that Rena
 
 <tip><para>Can you say <foreignphrase lang="art-lojban">mi du lo
 prenu</foreignphrase>, doing the Lojban equivalent of making an indefinite
-noun <quote role="socalled">equal</quote> a definite noun? After all
+noun <quote role="socalled">equal</quote> a definite noun? After all,
 <foreignphrase lang="art-lojban">lo prenu</foreignphrase> applies to many
 more people in the world than just me, so <foreignphrase
-lang="art-lojban">du</foreignphrase> here kind of acts like <quote
+lang="art-lojban">du</foreignphrase> here does kind of acts like <quote
 role="gloss">is one of</quote>. The answer is, yes you can, because in this
 context they both do refer to the same person. (In strict logical terms:
 there is at least one person such that that person is me.) This is frowned
@@ -553,7 +664,7 @@ prenu</foreignphrase>?</para></tip>
 <para>These two means are grammatical Lojban, but they are viewed with some
 distaste, and are usually giveaways that some poor translating from English
 (or another natural language) has been going on. The third mechanism is
-better regarded, though, because it tucks the equality away in an 
+better regarded, because it tucks the equality away in an 
 inconspicuous corner.
 <foreignphrase lang="art-lojban">po'u</foreignphrase> has the same grammar
 as the <foreignphrase lang="art-lojban">sumti</foreignphrase> modifiers
@@ -563,10 +674,12 @@ lang="art-lojban">po</foreignphrase> we saw in <link linkend="less3">Lesson
 lang="art-lojban">sumti</foreignphrase> is associated with the other, or
 owned by the other, <foreignphrase lang="art-lojban">po'u</foreignphrase>
 claims that the two <foreignphrase lang="art-lojban">sumti</foreignphrase>
-are the same thing. So <foreignphrase lang="art-lojban">la ranjit.
-<emphasis>po'u</emphasis> le pendo be la djiotis. vi zvati</foreignphrase>
-means <quote>Ranjeet, <emphasis>who is</emphasis> Jyoti's friend, is
-here.</quote> Like those other members of <foreignphrase
+are the same thing. So:
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. <emphasis>po'u</emphasis> le pendo be la djiotis. vi zvati</foreignphrase>
+Ranjeet, <emphasis>who is</emphasis> Jyoti's friend, is here.</literallayout> 
+
+</informalexample>Like those other members of <foreignphrase
 lang="art-lojban">selma'o</foreignphrase> GOI (<foreignphrase
 lang="art-lojban">pe</foreignphrase>, <foreignphrase
 lang="art-lojban">po</foreignphrase> and <foreignphrase
@@ -574,7 +687,7 @@ lang="art-lojban">po'e</foreignphrase>), <foreignphrase
 lang="art-lojban">po'u</foreignphrase> has a non-restrictive version:
 <foreignphrase lang="art-lojban">no'u</foreignphrase>. So if I was saying
 that Ranjeet was Jyoti's friend, not to distinguish him from the other
-Ranjeets you know, but just for your information, I should use
+Ranjeets you might know, but just for your information, I should use
 <foreignphrase lang="art-lojban">no'u</foreignphrase> instead of
 <foreignphrase lang="art-lojban">po'u</foreignphrase>.</para>
 
@@ -582,7 +695,7 @@ Ranjeets you know, but just for your information, I should use
 <foreignphrase lang="art-lojban">po'u</foreignphrase> are typically used in
 Lojban to introduce alternate names for something; so they correspond to
 English <wordasword>namely, i.e.</wordasword> For instance, <foreignphrase
-lang="art-lojban">la suzyn. penmi la xukske fanza <emphasis>no'u</emphasis>
+lang="art-lojban">la suzyn. penmi la xukske fanza ku <emphasis>no'u</emphasis>
 la jan.</foreignphrase> <quote>Susan met <quote role="socalled">Chemistry
 Annoyance</quote>, <emphasis>namely</emphasis> Zhang.</quote></para></note>
 
@@ -598,7 +711,7 @@ exactly/approximately half/semi-/demi-/hemi- of x<subscript>2</subscript> by sta
 
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 3</title>
+<simplesect role="exercise"><title>Exercise 5</title>
 
 <para>Where appropriate (and <emphasis>only</emphasis> where appropriate), 
 translate <wordasword>is</wordasword> in each of the following sentences 
@@ -609,9 +722,17 @@ lang="art-lojban">po'u</foreignphrase>, and <foreignphrase
 lang="art-lojban">no'u</foreignphrase>. To get <foreignphrase
 lang="art-lojban">po'u</foreignphrase> and <foreignphrase
 lang="art-lojban">no'u</foreignphrase> to work, you may have to rearrange 
-the sentences.
+the sentences. For instance:
 
-<orderedlist>
+<informalexample><para><wordasword>x</wordasword>, which is [equal to] y, is a number.
+<itemizedlist>
+<listitem><para><foreignphrase
+lang="art-lojban">da noi me de namcu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase
+lang="art-lojban">da noi du de namcu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase
+lang="art-lojban">da no'u de namcu</foreignphrase></para></listitem>
+</itemizedlist></para></informalexample><orderedlist>
 
 <listitem><para>Jyoti <emphasis>is</emphasis> a woman.</para></listitem>
 
@@ -627,7 +748,7 @@ lang="art-lojban">jinvi</foreignphrase>.)</para></listitem>
 
 <listitem><para>This blue car which <emphasis>is</emphasis> the one to the 
 right of mine <emphasis>is</emphasis> a Ford car. (Use <foreignphrase
-lang="art-lojban">le pritu</foreignphrase>.)</para></listitem>
+lang="art-lojban">le pritu</foreignphrase> for <wordasword>the one to the right</wordasword>.)</para></listitem>
 
 </orderedlist></para>
 
@@ -663,6 +784,9 @@ great/grand in property x<subscript>2</subscript> (ka) by standard x<subscript>3
 <varlistentry><term><foreignphrase
 lang="art-lojban">banxa</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
 a bank owned by/in banking system x<subscript>2</subscript> for banking function(s) x<subscript>3</subscript> (event)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">casnu</foreignphrase></term><listitem><para>x<subscript>1</subscript>(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s) about topic/subject x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">cladu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
@@ -734,14 +858,14 @@ what it is. Hint: say the word out loud, minus the prefix.</para></listitem></va
 
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para>Translate from Lojban:
 
 <orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i ba'o lenu citka kei le'i ci pendo ca tavla simxu</foreignphrase></para></listitem>
+lang="art-lojban">.i ba'o lenu citka kei lei ci pendo ca casnu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i ca'o bo ri klama le dansydi'u po'u la zgikrfanki jipci</foreignphrase></para></listitem>
@@ -775,7 +899,7 @@ lang="art-lojban">.i la djiotis. cusku lu ke'onai .suzyn. li'u</foreignphrase></
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 7</title>
 
 <para>Translate into Lojban:
 
@@ -790,9 +914,9 @@ lang="art-lojban">klama</foreignphrase> and an appropriate aspect.)</para></list
 got to go to the bank.</quote></para></listitem>
 
 <listitem><para><quote>I was going to bring money, but I was paying too
-much attention to my radio transmissions. (Hint: use <foreignphrase
+much attention to my radio transmissions.</quote> (Hint: use <foreignphrase
 lang="art-lojban">dukse</foreignphrase> in a <foreignphrase
-lang="art-lojban">tanru</foreignphrase>)</quote></para></listitem>
+lang="art-lojban">tanru</foreignphrase>)</para></listitem>
 
 <listitem><para>While Ranjeet isn't there, Jyoti says <quote>Susan?
 G&uuml;nter &mdash; The Great Deceiver &mdash; dumped you</quote> (Again, you don't have a word for <quote 
@@ -834,7 +958,7 @@ klama le gusta</foreignphrase>
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit. pu ca'o 
-citka loi ri cidjrkari</foreignphrase>
+citka loi ri/vo'a cidjrkari</foreignphrase>
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. pu pu'o 
@@ -850,6 +974,30 @@ spita pu lenu do troci lenu do tavla mi</foreignphrase>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
+
+<para>To explain the peculiar Lojbanisations of place names below, we have helpfully supplied IPA transcriptions
+in brackets afterwards.</para>
+
+<para><orderedlist>
+
+<listitem><para>Moscow (St. Petersburg [<emphasis role="ipa">sankt&stress;p&ekl;t&ekl;rsburg</emphasis>], Moscow [<emphasis role="ipa">m&schwa;s&stress;kva</emphasis>])</para></listitem>
+
+<listitem><para>Munich (Munich [<emphasis role="ipa">&stress;myn&ccedil;&ekl;n</emphasis>], Cologne [<emphasis role="ipa">k&oelig;ln</emphasis>])</para></listitem>
+
+<listitem><para>Between Venice and Florence (Florence [<emphasis role="ipa">fi&stress;rentse</emphasis>], Venice [<emphasis role="ipa">ve&stress;netsia</emphasis>])</para></listitem>
+
+<listitem><para>Cheyenne (Cheyenne [<emphasis role="ipa">&esh;a&stress;j&ekl;n</emphasis>], New Orleans [<emphasis role="ipa">&stress;n&akl;l&ikl;nz</emphasis>]. OK, we aren't necessarily
+serious about the last one.)</para></listitem>
+
+<listitem><para>Canton (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">gua&eng;t&shkl;ow</emphasis>]</para></listitem>
+
+<listitem><para>The bar. Of course.</para></listitem>
+
+</orderedlist></para>
+
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 3</title>
 
 <para><orderedlist>
 
@@ -920,7 +1068,45 @@ not offering hospitality, just a chair.)</para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 3</title>
+<simplesect role="excanswer"><title>Exercise 4</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">bangrkokni</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">cidjrpitsa</foreignphrase> (Remember, 
+<foreignphrase lang="art-lojban">fu'ivla</foreignphrase> are done by pronunciation, not by
+spelling.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">cmacrderivativi</foreignphrase> (Or, if
+you know about Interlingue and ablatives, <foreignphrase lang="art-lojban">cmacrderivativo</foreignphrase>.
+But that's a long story...)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">zgikrnadadjio</foreignphrase> or
+<foreignphrase lang="art-lojban">zgikrxadadjio</foreignphrase>, depending on what your
+favourite consonant is.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">bilmrsaikopati</foreignphrase>, if you're
+borrowing the word from English; <foreignphrase lang="art-lojban">bilmrpsikopati</foreignphrase> or
+<foreignphrase lang="art-lojban">bilmrpsikopatia</foreignphrase>, if you want something closer to
+Greek (and thus presumably more recongisable.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">cidrndeuteriumu</foreignphrase> (or
+<foreignphrase lang="art-lojban">cidrndeuterio</foreignphrase>, if you know about those ablatives
+I'm not going to explain here...)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">jemnrxametisti</foreignphrase>: you can't use
+<foreignphrase lang="art-lojban">n</foreignphrase> as your favourite joining consonant, because
+the <foreignphrase lang="art-lojban">gismu</foreignphrase> prefix already ends in <foreignphrase lang="art-lojban">n</foreignphrase>!
+(As it turns out, <foreignphrase lang="art-lojban">jemnrametisti</foreignphrase> would have
+also been acceptable as a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>.)</para></listitem>
+
+</orderedlist></para>
+
+</simplesect>
+
+
+<simplesect role="excanswer"><title>Exercise 5</title>
 
 <orderedlist><listitem><para><orderedlist numeration="loweralpha">
 
@@ -1037,12 +1223,12 @@ lang="art-lojban">me la karis.</foreignphrase>).</para></note></para></listitem>
 
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 4</title>
+<simplesect role="excanswer"><title>Exercise 6</title>
 
 <para><orderedlist>
 
 <listitem><para>After they have finished eating, the three friends are now 
-talking to each other. (Aspects can be used as <foreignphrase
+discussing. (Aspects can be used as <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase>, just like tenses can. <foreignphrase
 lang="art-lojban">ba'o</foreignphrase> means pretty much the same as <foreignphrase
 lang="art-lojban">ba</foreignphrase> here, but emphasises that they had 
@@ -1091,13 +1277,13 @@ play at that game!)</para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 5</title>
+<simplesect role="excanswer"><title>Exercise 7</title>
 
 <para><orderedlist>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. .e la ranjit. .e la suzyn. mu'o klama le 
-dansydi'u te'i li no pi'e muno</foreignphrase> (Not <foreignphrase
+dansydi'u ti'u li no pi'e muno</foreignphrase> (Not <foreignphrase
 lang="art-lojban">co'u klama</foreignphrase>, which would have had them 
 stop on the way; nor <foreignphrase
 lang="art-lojban">ba'o klama</foreignphrase>, which would mean that they 
@@ -1118,7 +1304,7 @@ lang="art-lojban">.i ku'i lenu mi jundi le se cradi be mi cu se
 dukse</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca'o lenu la ranjit. na
-zvati kei la djiotis. cusku lu be'e .suzyn. la gunter. no'u la banli
+zvati kei la djiotis. cusku lu be'e .suzyn. la ginter. no'u la banli
 ticygau co'u prami do</foreignphrase> (<foreignphrase
 lang="art-lojban">co'u</foreignphrase> is the only really good aspect to
 use; it's somewhat more controversial to think of love as something with a
@@ -1151,8 +1337,8 @@ right, O eyes of Ranjeet's.</quote>)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i vu le ninmu la jan. cladu cusku lu .i coi pendo li'u la ranjit.</foreignphrase>
-(A pure greeting, of course; Zhang is not actually asking Ranjeet how he is 
-doing anything. He might want to know <emphasis>what</emphasis> he is doing 
+(A pure greeting, of course; Zhang is not actually asking Ranjeet <quote role="socalled">how he is 
+doing</quote> anything. He might want to know <emphasis>what</emphasis> he is doing 
 there; but that's the next chapter of the saga...)</para></listitem>
 
 </orderedlist></para>

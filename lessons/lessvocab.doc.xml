@@ -92,6 +92,7 @@
 <row><entry><foreignphrase lang="art-lojban">bo</foreignphrase></entry><entry>short scope link</entry><entry>short scope joiner; joins various constructs with shortest scope and right grouping</entry></row>
 <row><entry><foreignphrase lang="art-lojban">boi</foreignphrase></entry><entry>end number or lerfu</entry><entry>elidable terminator: terminate numeral or letteral string</entry></row>
 <row><entry><foreignphrase lang="art-lojban">botpi</foreignphrase></entry><entry>bottle</entry><entry>x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4</entry></row>
+<row><entry><foreignphrase lang="art-lojban">bredi</foreignphrase></entry><entry>ready</entry><entry>x1 is ready/prepared for x2 (event)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bridi</foreignphrase></entry><entry>predicate</entry><entry>x1 (text) is a predicate relationship with relation x2 among arguments (sequence/set)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">briju</foreignphrase></entry><entry>office</entry><entry>x1 is an office/bureau/work-place of worker x2 at location x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bruna</foreignphrase></entry><entry>brother</entry><entry>x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not necess. biological]</entry></row>
@@ -107,6 +108,7 @@
 <row><entry><foreignphrase lang="art-lojban">ca'o</foreignphrase></entry><entry>continuative</entry><entry>interval event contour: during ...; continuative)</entry></row> 
 <row><entry><foreignphrase lang="art-lojban">carna</foreignphrase></entry><entry>turn</entry><entry>x1 turns/rotates/revolves around axis x2 in direction x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">carvi</foreignphrase></entry><entry>rain</entry><entry>x1 rains/showers/[precipitates] to x2 from x3; x1 is precipitation [not limited to <quote role="socalled">rain</quote>]</entry></row>
+<row><entry><foreignphrase lang="art-lojban">casnu</foreignphrase></entry><entry>discuss</entry><entry>x1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s) about topic/subject x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">catke</foreignphrase></entry><entry>shove</entry><entry>x1 [agent] shoves/pushes x2 at locus x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">catlu</foreignphrase></entry><entry>look</entry><entry>x1 looks at/examines/views/inspects/regards/watches/gazes at x2 [compare with <foreignphrase lang="art-lojban">zgani</foreignphrase>]</entry></row>
 <row><entry><foreignphrase lang="art-lojban">catra</foreignphrase></entry><entry>kill</entry><entry>x1 (agent) kills/slaughters/murders x2 by action/method x3</entry></row>
@@ -119,8 +121,10 @@
 <row><entry><foreignphrase lang="art-lojban">cfari</foreignphrase></entry><entry>initiate</entry><entry>x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cfipu</foreignphrase></entry><entry>confusing</entry><entry>x1 (event/state) confuses/baffles x2 [observer] due to [confusing] property x3 (ka)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ci</foreignphrase></entry><entry>3</entry><entry>digit/number: 3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cidja</foreignphrase></entry><entry>food</entry><entry>x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cidjrkari</foreignphrase></entry><entry>curry</entry><entry>x1 is a quantity of curry</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cidjrkebabi</foreignphrase></entry><entry>kebab</entry><entry>x1 is a kebab</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cidro</foreignphrase></entry><entry>hydrogen</entry><entry>x1 is a quantity of/contains/is made of hydrogen (H)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cifnu</foreignphrase></entry><entry>infant</entry><entry>x1 is an infant/baby [helpless through youth/incomplete development] of species x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cilre</foreignphrase></entry><entry>learn</entry><entry>x1 learns x2 (du'u) about subject x3 from source x4 (obj./event) by method x5 (event/process)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinba</foreignphrase></entry><entry>kiss</entry><entry>x1 (agent) kisses/busses x2 at locus x3</entry></row>
@@ -143,6 +147,7 @@
 <row><entry><foreignphrase lang="art-lojban">clira</foreignphrase></entry><entry>early</entry><entry>x1 (event) is early by standard x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">clite</foreignphrase></entry><entry>polite</entry><entry>x1 is polite/courteous/civil in matter x2 according to standard/custom x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cliva</foreignphrase></entry><entry>leave</entry><entry>x1 leaves x2 via route x3 </entry></row>
+<row><entry><foreignphrase lang="art-lojban">cmaci</foreignphrase></entry><entry>mathematics</entry><entry>x1 is a mathematics of type/describing x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmalu</foreignphrase></entry><entry>small</entry><entry>x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmavo</foreignphrase></entry><entry>structure word</entry><entry>x1 is a structure word of grammatical class x2, with meaning/function x3 in usage (language) x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmene</foreignphrase></entry><entry>name</entry><entry>x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3 (person)</entry></row>
@@ -322,6 +327,7 @@
 <row><entry><foreignphrase lang="art-lojban">je'e</foreignphrase></entry><entry>roger</entry><entry>vocative: roger (ack) &ndash; negative acknowledge; used to acknowledge offers and thanks</entry></row>
 <row><entry><foreignphrase lang="art-lojban">je'i</foreignphrase></entry><entry>tanru conn?</entry><entry>logical connective: tanru-internal connective question</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jelca</foreignphrase></entry><entry>burn</entry><entry>x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">jemna</foreignphrase></entry><entry>gem</entry><entry>x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jenai</foreignphrase></entry><entry>tanru but not</entry><entry>logical connective: tanru-internal x but not y</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jgari</foreignphrase></entry><entry>grasp</entry><entry>x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus x4 (part of x2)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jgita</foreignphrase></entry><entry>guitar</entry><entry>x1 is a guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow x2</entry></row>
@@ -377,7 +383,7 @@
 <row><entry><foreignphrase lang="art-lojban">ko'i</foreignphrase></entry><entry>it #3</entry><entry>pro-sumti: he/she/it/they #3 (specified by goi)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ko'o</foreignphrase></entry><entry>it #4</entry><entry>pro-sumti: he/she/it/they #4 (specified by goi)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ko'u</foreignphrase></entry><entry>it #5</entry><entry>pro-sumti: he/she/it/they #5 (specified by goi)</entry></row>
-<row><entry><foreignphrase lang="art-lojban">kratrsenatore</foreignphrase></entry><entry>senator</entry><entry>x1 is a senator representing x2 in the senate x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">kratr&shy;senatore</foreignphrase></entry><entry>senator</entry><entry>x1 is a senator representing x2 in the senate x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">krinu</foreignphrase></entry><entry>reason</entry><entry>x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">krixa</foreignphrase></entry><entry>cry out</entry><entry>x1 cries out/yells/howls sound x2; x1 is a crier</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ku</foreignphrase></entry><entry>end sumti</entry><entry>elidable terminator: end description, modal, or negator sumti; often elidable</entry></row>
@@ -480,6 +486,7 @@
 <row><entry><foreignphrase lang="art-lojban">nagi'a</foreignphrase></entry><entry>bridi only if</entry><entry>logical connective: bridi-tail afterthought conditional/only if</entry></row>
 <row><entry><foreignphrase lang="art-lojban">nai</foreignphrase></entry><entry>negate last word</entry><entry>attached to cmavo to negate them; various negation-related meanings</entry></row>
 <row><entry><foreignphrase lang="art-lojban">naja</foreignphrase></entry><entry>tanru only if</entry><entry>logical connective: tanru-internal conditional/only if</entry></row>
+<row><entry><foreignphrase lang="art-lojban">namcu</foreignphrase></entry><entry>number</entry><entry>x1 (li) is a number/quantifier/digit/value/figure (noun); refers to the value and not the symbol</entry></row>
 <row><entry><foreignphrase lang="art-lojban">nanba</foreignphrase></entry><entry>bread</entry><entry>x1 is a quantity of/contains bread [leavened or unleavened] made from grains x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">nanca</foreignphrase></entry><entry>year</entry><entry>x1 is x2 years in duration (default is 1 year) by standard x3; (adjective:) x1 is annual</entry></row>
 <row><entry><foreignphrase lang="art-lojban">nandu</foreignphrase></entry><entry>difficult</entry><entry>x1 is difficult/hard/challenging for x2 under conditions x3; x1 challenges (non-agentive) x2</entry></row>
