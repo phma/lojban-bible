@@ -431,15 +431,16 @@ way out of this problem is to put <foreignphrase lang="art-lojban">y</foreignphr
 lang="art-lojban">l</foreignphrase>s, giving us <foreignphrase
 lang="art-lojban">velylu'i</foreignphrase>. </para>
 
-<para>In fact, if you see <foreignphrase lang="art-lojban">y</foreignphrase> in a
-Lojban word, it cannot be a <foreignphrase lang="art-lojban">gismu</foreignphrase>
-or a <foreignphrase lang="art-lojban">cmavo</foreignphrase> (with two exceptions
-we've already seen: <foreignphrase lang="art-lojban">.y</foreignphrase> <quote
+<para>In fact, if you see <foreignphrase
+lang="art-lojban">y</foreignphrase> in a Lojban word, it cannot be a
+<foreignphrase lang="art-lojban">gismu</foreignphrase> or a <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> (with two exceptions we've already
+seen: <foreignphrase lang="art-lojban">.y</foreignphrase> <quote
 role="gloss">er...</quote> and <foreignphrase
-lang="art-lojban">y'y</foreignphrase> <quote role="gloss">apostrophe.</quote>) 
-Such a word
-can only be either a <foreignphrase lang="art-lojban">lujvo</foreignphrase> or a
-name (<foreignphrase lang="art-lojban">cmene</foreignphrase>).  <foreignphrase
+lang="art-lojban">y'y</foreignphrase> <quote
+role="gloss">apostrophe.</quote>) Such a word can only be either a
+<foreignphrase lang="art-lojban">lujvo</foreignphrase> or a name
+(<foreignphrase lang="art-lojban">cmene</foreignphrase>). <foreignphrase
 lang="art-lojban">y</foreignphrase> was avoided in <quote
 role="socalled">normal</quote> Lojban words.</para> </warning>
 
@@ -464,12 +465,11 @@ while <foreignphrase lang="art-lojban">na</foreignphrase> could mean anything,
 including non-existence &mdash; making too broad a concept for most
 uses.)</para></note>
 
-<para>For example, <foreignphrase lang="art-lojban">jdice</foreignphrase> means
-<quote role="gloss">decide</quote> and has the short combining form
+<para>For example, <foreignphrase lang="art-lojban">jdice</foreignphrase>
+means <quote role="gloss">decide</quote> and has the short combining form
 <foreignphrase lang="art-lojban">jdi</foreignphrase>. <foreignphrase
-lang="art-lojban">naljdi</foreignphrase> therefore means
- <quote>not decide</quote>
-or <quote>be indecisive</quote>.  Some other examples:
+lang="art-lojban">naljdi</foreignphrase> therefore means <quote>not
+decide</quote> or <quote>be indecisive</quote>. Some other examples:
 
 <variablelist>
 
@@ -573,6 +573,44 @@ Lojban are <foreignphrase lang="art-lojban">norselci'i</foreignphrase>,
 <foreignphrase lang="art-lojban">nalselci'i</foreignphrase> and <foreignphrase
 lang="art-lojban">tolselci'i</foreignphrase>. </para>
 
+<para><foreignphrase lang="art-lojban">lujvo</foreignphrase> can be much
+more interesting than this; interesting enough, in fact, that we won't be
+covering them further here. You can make <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> out of pretty much any
+<foreignphrase lang="art-lojban">tanru</foreignphrase> you can devise; this
+is the main way to introduce <quote role="socalled">new words</quote> into
+Lojban. But to make the <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> you come up with work, you need
+some background knowledge:
+
+<itemizedlist>
+
+<listitem><para>how to make sure <foreignphrase
+lang="art-lojban">rafsi</foreignphrase> stick together in a word that 
+is not ambiguous with another possible combination of words 
+(<citetitle>The Complete Lojban Language</citetitle>, 4.5&ndash;4.6, 
+4.10&ndash;4.12.)</para></listitem>
+
+<listitem><para>how to make sure the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> inside your <foreignphrase
+lang="art-lojban">tanru</foreignphrase> group together properly 
+(<citetitle>The Complete Lojban Language</citetitle>, 5.)</para></listitem>
+
+<listitem><para>how to derive the place structure of the <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> from the place structures of the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> that make it up
+(<citetitle>The Complete Lojban Language</citetitle>, 12.)</para></listitem>
+
+</itemizedlist>
+
+It's worth your while to look into these matters if you'll be working with 
+the language seriously, and especially if you'll be writing in it. (<foreignphrase
+lang="art-lojban">lujvo</foreignphrase> are easier to deal with while 
+writing than while speaking, because you have the time to reflect on how 
+you'll be creating your new word.) At this stage, though, you don't need to 
+go into all that yet.
+
+</para>
 
 <simplesect role="exercise"><title>Exercise 2</title>
 

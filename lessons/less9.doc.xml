@@ -623,6 +623,16 @@ non-default places (like <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> and spatial <quote role="socalled">tense</quote>
 places), as they don't follow a predictable order.
 
+<note><para>If you ever want to hang two relative clauses off the same
+<foreignphrase lang="art-lojban">sumti</foreignphrase>, use <foreignphrase
+lang="art-lojban">zi'e</foreignphrase> to connect them. This corresponds to
+English <wordasword>and</wordasword>, since both clauses are supposed to be
+true. (More on this in <link linkend="less11">Lesson 11</link>.) For
+example, <foreignphrase lang="art-lojban">le mi mensi poi na nelci la
+rikis.martin. <emphasis>zi'e</emphasis> poi do viska ca le
+purlamcte</foreignphrase> <quote>My sister who doesn't like Ricky Martin
+<emphasis>and</emphasis> whom you saw last night.</quote></para></note>
+
 </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -1253,37 +1263,40 @@ suzyn. do jinvi ledu'u ro da pe cau lo jgita cu pluja li'u</foreignphrase>
 <quote role="gloss">everything</quote> and <quote role="gloss">all
 things</quote>.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la ranjit cusku lu .i lo
-jgitrviolino cu mintu lo jgita poi zo'e bevri vi le janco
+<listitem><para><foreignphrase lang="art-lojban">.i la ranjit cusku lu .i
+lo jgitrviolino cu mintu lo jgita poi zo'e bevri vi le janco
 li'u</foreignphrase> </para> <note><para>Two things. First, Lojban doesn't
 encourage you to say that one <foreignphrase
-lang="art-lojban">sumti</foreignphrase> <quote role="socalled">is</quote> another
-<foreignphrase lang="art-lojban">sumti</foreignphrase>; there is a word,
-<foreignphrase lang="art-lojban">du</foreignphrase>, that sort of does that, but
-you should think of it as being more like an equals sign. If you want to say that
-a violin is a guitar, it is better to say either that they are identical
+lang="art-lojban">sumti</foreignphrase> <quote role="socalled">is</quote>
+another <foreignphrase lang="art-lojban">sumti</foreignphrase>; there is a
+word, <foreignphrase lang="art-lojban">du</foreignphrase>, that sort of
+does that, but you should think of it as being more like an equals sign
+(see <link linkend="less12">Lesson 12</link>. If you want to say that a
+violin is a guitar, it is better to say either that they are identical
 (<foreignphrase lang="art-lojban">lo jgitrviolino cu mintu lo
 jgita</foreignphrase>), or to make one of the two <foreignphrase
 lang="art-lojban">sumti</foreignphrase> a <foreignphrase
-lang="art-lojban">selbri</foreignphrase> (<foreignphrase lang="art-lojban">lo
-jgitrviolino cu jgita</foreignphrase>). Since we need a relative clause
-here, we have gone with the former.</para>
+lang="art-lojban">selbri</foreignphrase> (<foreignphrase
+lang="art-lojban">lo jgitrviolino cu jgita</foreignphrase>). Since we need
+a relative clause here, we have gone with the former.</para>
 
 <para>The other thing is that Ranjeet (much to Jyoti's annoyance) is
-correct in his Lojban usage. In order to have as broad a coverage as possible, <foreignphrase
-lang="art-lojban">gismu</foreignphrase> tend to be vague rather than precise. So
-while the Lojban wordlists list <foreignphrase
-lang="art-lojban">jgita</foreignphrase> under <wordasword>guitar</wordasword>, the
-<foreignphrase lang="art-lojban">gismu</foreignphrase> is actually used to refer
-to any stringed instrument. Jyoti should have specified Susan's instrument
-of choice as <foreignphrase lang="art-lojban">jgitrgitara</foreignphrase> (a
+correct in his Lojban usage. In order to have as broad a coverage as
+possible, <foreignphrase lang="art-lojban">gismu</foreignphrase> tend to be
+inclusive rather than narrow in their definitions. So while the Lojban
+wordlists list <foreignphrase lang="art-lojban">jgita</foreignphrase> under
+<wordasword>guitar</wordasword>, the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> is actually used to refer to 
+<emphasis>any</emphasis>
+stringed instrument. Jyoti should have specified Susan's instrument of
+choice as <foreignphrase lang="art-lojban">jgitrgitara</foreignphrase> (a
 <quote role="gloss"><emphasis>guitar</emphasis> guitar</quote>), or even
 <foreignphrase lang="art-lojban">dikca jgitrgitara</foreignphrase> <quote
 role="gloss">electric guitar</quote>. </para>
 
-<para>Those funny-looking words are loan words into Lojban (<foreignphrase 
-lang="art-lojban">fu'ivla</foreignphrase>), and we will be covering them in a 
-future lesson.</para></note></listitem>
+<para>Those funny-looking words are loan words into Lojban (<foreignphrase
+lang="art-lojban">fu'ivla</foreignphrase>), and we will also be covering
+them in <link linkend="less12">Lesson 12</link>.</para></note></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la djiotis. cusku lu .i la
 ranjit. mintu da poi na kakne lenu klama lo gusta poi berti le
