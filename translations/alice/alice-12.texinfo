@@ -341,8 +341,8 @@ i di'e penmi co se tcidu la blabi ractu
 @c      `That's the most important piece of evidence we've heard yet,'
 @c    said the King, rubbing his hands; `so now let the jury--'
 
-i lu la'e di'u cu vajrai lei datni poi se tirna ca le cabdei sei le
-noltrunau noi xance simymosra cu cusku i seki'ubo ei le pairkanmi li'o
+i lu la'e di'u cu vajrai lei datni poi se tirna ca le cabdei sei la
+noltrunau noi simymosra lei xance cu cusku i seki'ubo ei le pairkanmi li'o
 li'u
 
 @c      `If any one of them can explain it,' said Alice, (she had
@@ -350,18 +350,18 @@ li'u
 @c    afraid of interrupting him,) `I'll give him sixpence.  _I_ don't
 @c    believe there's an atom of meaning in it.'
 
-i lu va'o le nu py ka'e ciksi di'u kei sei la alis cusku to abu cu banro
+i lu mi va'o le nu py di'u ka'e ciksi sei la alis cusku to abu banro
 lo tai barda ze'a le puzi mentu be li so'u ja'e le nu abu nasai terpa
-le nu zunti ny toi mi dunda lo rupnu py i ba'e mi na jinvi le du'u lo
-selci ji'asai di'u smuni li'u
+le nu zunti ny toi cu dunda lo rupnu py i ba'e mi na jinvi le du'u 
+lo smuni selci ji'asai cu zvati di'u li'u
 
 @c      The jury all wrote down on their slates, `SHE doesn't believe
 @c    there's an atom of meaning in it,' but none of them attempted to
 @c    explain the paper.
 
 i ro le pairkamnycmi cu ciska fi le tanbo fe lu ba'e ta na jinvi le
-du'u lo selci ji'asai di'u smuni li'u gi'enai ku'i troci le nu ciksi
-le pelji
+du'u lo smuni selci ji'asai cu zvati di'u li'u gi'enai ku'i troci le nu 
+ciksi le pelji
 
 @c      `If there's no meaning in it,' said the King, `that saves a
 @c    world of trouble, you know, as we needn't try to find any.  And
@@ -370,19 +370,19 @@ le pelji
 @c    meaning in them, after all.  "--SAID I COULD NOT SWIM--" you
 @c    can't swim, can you?' he added, turning to the Knave.
 
-i lu le nu noda smuni la'e di'u sei la noltrunau cu cusku cu fanta
+i lu le nu noda smuni di'u sei la noltrunau cu cusku cu fanta
 lo barda raktu ki'u le nu einai mi'a troci le nu facki lo smuni
 i ku'i ju'ocu'i sei ny noi ke'a lei penpau cu pejgau le cidni gi'e
-catlu sepi'o pa kanla di'a co'e i pe'i mi viska lo smuni i lu nai
-mi limna di li'u i ju'i do'u je'upei do ka'enai limna di sei ny fa'a
-la nolse'u cu jmina li'u
+catlu sepi'o pa kanla cu di'a cusku i pe'i mi viska lo smuni i lo'u 
+ginai mi limna di li'u i ju'i do'u je'upei do ka'enai limna di sei ny 
+fa'a la nolse'u cu jmina li'u
 
 
 @c      The Knave shook his head sadly.  `Do I look like it?' he said.
 @c    (Which he certainly did NOT, being made entirely of cardboard.)
 
 i la nolse'u cu badri daskygau le stedu i lu xu mi simlu le ka ka'e
-go'i sei ny cusku li'u to ju'osai ny noi marji lo jarple na simlu toi
+go'i sei ny cusku li'u to ju'osai ny noi marji lo jarple cu na simlu toi
 
 @c      `All right, so far,' said the King, and he went on muttering
 @c    over the verses to himself:  `"WE KNOW IT TO BE TRUE--" that's
@@ -397,7 +397,7 @@ fairgau lei rutytisna li'u
 @c      `But, it goes on "THEY ALL RETURNED FROM HIM TO YOU,"' said
 @c    Alice.
 
-i lu ku'i se jersi lu i do se xruti le ro da li'u sei la alis
+i lu ku'i di'a co'e lu i do se xruti le ro da li'u sei la alis
 cusku li'u
 
 @c      `Why, there they are!' said the King triumphantly, pointing to
@@ -405,7 +405,7 @@ cusku li'u
 @c    Then again--"BEFORE SHE HAD THIS FIT--"  you never had fits, my
 @c    dear, I think?' he said to the Queen.
 
-i lu ua ta zvati sei la noltrunau noi jarco lei rutytisna noi cpana le
+i lu ua ry zvati ta sei la noltrunau noi jarco lei rutytisna noi cpana le
 jubme cu jinga cusku i noda ka'e klimau la'e di'u i ku'i lu pu le nu 
 tcini le nu se fengu ta li'u i do noroi fengu doi dirba pe'i je'upei 
 sei ny fi la noltruni'u cu cusku li'u
@@ -418,9 +418,10 @@ sei ny fi la noltruni'u cu cusku li'u
 
 i lu noroi sei la noltruni'u cu fengu mutce cusku li'u i ny renro lo
 xinmo vasru le rebyrespa ca le nu tavla i to la bil uu pu de'a ciska
-fi le tanbo sepi'o lo degji mu'i le nu dy na mornygau i ku'i ry sutra
-di'a co'e sepi'o le xinmo noi carvi le ry flira ku'o ze'a le nu xy
+fi le tanbo lo degji imu'ibo dy na mornygau i ku'i by cazi
+di'a co'e sepi'o le xinmo noi carvi le by flira ku'o ze'a le nu xy
 renvi toi
+
 @c mi basygau vo zo tanbo zo tabno mu'i lenu zo tabno na mapti mi'e pier.
 
 @c      `Then the words don't FIT you,' said the King, looking round
@@ -435,7 +436,7 @@ ny cisma catlu le sruri i morsi smaji
 
 i lu mi pu vlakei sei la noltrunau cu jgicro tonga jmina li'u i roda
 cmila i lu e'i le pairkamni cu pensi le se paijdi sei la noltrunau
-ji'irenore'u le djedi cu cucsku li'u
+ji'irenore'u le djedi cu cusku li'u
 
 @c      `No, no!' said the Queen.  `Sentence first--verdict afterwards.'
 
@@ -445,7 +446,7 @@ i le se paijdi cu za'umoi li'u
 @c      `Stuff and nonsense!' said Alice loudly.  `The idea of having
 @c    the sentence first!'
 
-i lu bebna je nalprije sei la alis cladu cusku i ionai oi pamoi fa le
+i lu bebna je nonselsmu sei la alis cladu cusku i ionai oi pamoi fa le
 se sfami'e li'u
 
 @c      `Hold your tongue!' said the Queen, turning purple.
@@ -465,7 +466,7 @@ i no da muvdu
 @c      `Who cares for you?' said Alice, (she had grown to her full
 @c    size by this time.)  `You're nothing but a pack of cards!'
 
-i lu ma do terpa sei la alis noi ca ba'o banro le abu tcaci barda cu
+i lu ma do terpa sei la alis noi ca ba'o banro le abu ta'e barda cu
 cusku i ga'i do na'e drata lo kardymei li'u
 
 @c      At this the whole pack rose up into the air, and came flying
@@ -476,15 +477,15 @@ cusku i ga'i do na'e drata lo kardymei li'u
 @c    trees upon her face.
 
 i caku le karda romei cu tolfarlu le vacri gi'ebabo farlu la alis i
-abu milxe krixa ri'a lo se xadba be le nunterpa e le nunfengu gi'e
-troci le nu rivbi ky kei gi'e facki le du'u abu vreta le rirxe korbi
-fau le stedu cu cpana le tuple be le mensi noi xendo vimcu loi morsi
+abu milxe krixa ri'a lo nunterpa zu'u e lo nunfengu zu'unai gi'e
+troci le nu rivbi ky i abu facki le du'u abu vreta le rirxe korbi
+fau le stedu cu cpana le galtupcra be le mensi noi xendo vimcu loi morsi
 pezli noi ba'o farlu le abu flira lei tricu
 
 @c      `Wake up, Alice dear!' said her sister; `Why, what a long
 @c    sleep you've had!'
 
-i lu ko cikna doi dib alis sei le mensi cu cusku i ue do ze'u sipna li'u
+i lu ko cikna doi alis doi dirba sei le mensi cu cusku i ue do ze'u sipna li'u
 
 @c      `Oh, I've had such a curious dream!' said Alice, and she told
 @c    her sister, as well as she could remember them, all these strange
@@ -495,11 +496,11 @@ i lu ko cikna doi dib alis sei le mensi cu cusku i ue do ze'u sipna li'u
 @c    ran, as well she might, what a wonderful dream it had been.
 
 i lu u'e mi senva lo tai cizra sei la alis cusku li'u i abu tavla
-le mensi  ro le abu cizra selylifri poi do puzi ca'o tcidu ke'a i
-ca le nu mo'u go'i kei le mensi cu cinba abu gi'e cusku lu je'u ju'o
+le mensi ro le cizra se lifri poi do ke'a puzi ca'o tcidu i le mensi
+ca le nu mo'u go'i cu cinba abu gi'e cusku lu je'u ju'o
 cizra se senva doi dirba i ku'i ko ca bajra klama tu'a le tcati
 i ca'o lerci binxo li'u i la alis sa'irbi'o gi'e bajra gi'ecabo
-pensi to drani toi le du'u le se senva cu se manci
+pensi le du'u le se senva cu se manci kei pa'e
 
 @c      But her sister sat still just as she left her, leaning her
 @c    head on her hand, watching the setting sun, and thinking of
@@ -524,8 +525,8 @@ i pamai my senva la alis i lei abu cmalu xance cu za'ure'u ca'o jgari
 le my cidni i lei abu carmi selci'i kanla cu catlu lei me my moi i
 my ka'e tirna le satci tonga be fi le abu voksa gi'e viska le cizra
 nu stedu desku noi se rinju le kerfa le nu gacri lei kanla i ca le nu
-my tirna gi'a simlu le ka tirna cu jmive binxo ru'usai my fa le cizra
-zukte pe le se senva be le my cmalu mensi
+my tirna gi'a simlu le ka tirna cu jmive binxo ru'usai my fa lei cizra
+tigni be le se senva be le my cmalu mensi
 
 @c      The long grass rustled at her feet as the White Rabbit hurried
 @c    by--the frightened Mouse splashed his way through the
@@ -540,15 +541,15 @@ zukte pe le se senva be le my cmalu mensi
 @c    Mock Turtle.
 
 i le clani srasu cu vruvricypra bu'u lei my jamfu ca le nu la blabi ractu
-cu sutra klama i le terpa smacu cu jacre'o pagre le jibni la'ucma i my
-tirna le sance be lei tcati kabri ca le nu le cibmoimasti cicyractu cu
+cu sutra klama i la smacu noi terpa cu jacre'o pagre le jibni la'ucma i my
+tirna le sance be lei tcati kabri ca le nu la cibmasti cicyractu cu
 kansa lei cycy pendo le ze'e nu sanmi i le cpina voksa be la noltruni'u
-cu minde lei ny malselfu'a vitke le nu se catra i le xarju cifnu cu 
-za'ure'u senci fi'o cpana le cidni be le noltroni'u ca le nu loi palta
-ku joi loi palne cu sruri porpi i za'ure'uku le selkrixa be le cpicinfo
-be'o e le vrumli pe le tanbo pinsi pe le rebyrespa ge'u ge'u e le se 
-zunva'u be lei smacrkobaiu cu se tisna le vacri gi'e jorne le darno 
-kaksna be le tolgeitce ke jitfa cakyrespa
+cu minde fi le nu lei ny malselfu'a vitke cu se catra i le xarju cifnu cu 
+za'ure'u senci ga'ure'o le cidni be la noltroni'u ca le nu loi palta
+ku joi loi palne cu sruri porpi i za'ure'uku le selkrixa be la cpicinfo
+le snamli be le tanbo pinsi pe le rebyrespa le se zunva'u be lei 
+smacrkobaiu zo'u le romei cu se tisna le vacri gi'e jorne le darno 
+kaksna be la tolgeitce ke jitfa cakyrespa
 
 @c      So she sat on, with closed eyes, and half believed herself in
 @c    Wonderland, though she knew she had but to open them again, and
@@ -563,14 +564,14 @@ kaksna be le tolgeitce ke jitfa cakyrespa
 @c    heavy sobs.
 
 i my za'o zutse to lei kanla cu ganlo toi gi'e xadba krici le du'u my
-zvati le selmacygu'e kei gi'eku'i djuno le du'u le nu kargau ky cu banzu
-le nu roda binxo le tolzdi fatci i le srasu cu vruvricypra gau le brife
+zvati la selmacygu'e iku'i my djuno le du'u le nu kargau ky cu banzu
+le nu roda binxo lo'e tolzdi fatci i le srasu cu vruvricypra gau le brife
 i le la'ucma cu se boxna gau lei jauspa i le sance be lei tcati kabri
-cu binxo le se lanjanbe i le cpina se krixa be la noltruni'u cu go'i le 
-voksa be le lankurji nanla i le nunsenci be le cifnu be'o e le selkrixa
-be le cpicinfo be'o e ro le drata ke cizra savru cu binxo sei my djuno
-le mixre sance be le zukcfu cange i le se cmoni be lei zu bakni cu basti
-lei tilju kaksna be le jitfa cakyrespa
+cu binxo le se lanjanbe i le cpina se krixa be la noltruni'u cu binxo le 
+voksa be le lankurji nanla i le nunsenci be le cifnu le selkrixa
+be la cpicinfo ro le drata ke cizra savru zo'u le romei cu binxo sei my 
+djuno le mixre sance be le zukcfu cange i le se cmoni be lei zu bakni cu 
+basti lei tilju kaksna be la jitfa cakyrespa
 
 @c      Lastly, she pictured to herself how this same little sister of
 @c    hers would, in the after-time, be herself a grown woman; and how
@@ -585,13 +586,13 @@ lei tilju kaksna be le jitfa cakyrespa
 i romai my se xanri le nu le my cmalu mensi ca le balvi cu makcu ninmu
 gi'e ralte ze'a lei makcu nanca le sampu je prami risna pe le vercedra
 gi'e jajgau le cymy cmalu panzi gi'e gasnu le nu lei ba'e py kanla cu
-carmi se cinri so'i cizra lisri e ju'ocu'i ji'asai le se senva pe le
-puzu selmacygu'e kei gi'e kansa cinmo lei py sampu se tolgei gi'e se 
+carmi se cinri so'i cizra lisri e ju'ocu'i ji'asai le se senva pe la
+puzu selmacygu'e kei gi'e cinkansa py lei py sampu se tolgei gi'e se 
 pluka lei py sampu se gleki gi'e morji le cymy verba nunji'e e lei 
 selgei ke crisa djedi
 
 @c                                 THE END
 @format
 
-                                    FA'O
+                                    fa'o
 @end format
