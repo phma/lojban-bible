@@ -22,7 +22,7 @@ logical connective for IF. One oddity we haven't touched upon is that you
 realise that there's a conditional going on only halfway through. Recall 
 what a typical instance of IF looks like:
 
-<informalexample><para><foreignphrase lang="art-lojban">.i mi djuno lenu do
+<informalexample><para><foreignphrase lang="art-lojban">.i mi djuno ledu'u do
 vi zvati .inaja mi dasni noda</foreignphrase></para></informalexample>
 
 You read the first sentence, and everything goes swimmingly: 
@@ -318,7 +318,7 @@ pencil somewhere between the office and the bar</quote>, you would describe
 the location <quote>somewhere between the office and the bar</quote> as
 <foreignphrase lang="art-lojban">le briju ku bi'i le barja</foreignphrase>.
 The whole
-sentence would come out as <foreignphrase lang="art-lojban">mi falcu'i lemi
+sentence would come out as <foreignphrase lang="art-lojban">mi falcru lemi
 pinsi <emphasis>vi le briju ku bi'i le barja</emphasis></foreignphrase></para>
 
 <warning><para>This <foreignphrase lang="art-lojban">selma'o</foreignphrase>, BIhI, like
@@ -663,7 +663,7 @@ ce la djiotis. ce la suzyn.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i ji'a la jang. gonai zmadu la ranjit. leni certu lenu 
-dansu gi xalfekpre</foreignphrase></para></listitem>
+dansu gi xalfekfri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la suzyn. cu bevri la djiotis. fa'u la jang. fa'u gi 
@@ -677,7 +677,7 @@ ranjit. cusku lu .i pe'ipei do baza djica loi glare cnino bo se zbasu ckafi
 li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. cusku lu .i cnino skapi ki'a .i le ca'a 
+lang="art-lojban">.i la jang. cusku lu .i cnino skapi ki'a .i le ca 
 skapi be mi cu stedu bi'i jamfu melbi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
@@ -699,7 +699,7 @@ lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></listi
 
 <orderedlist>
 
-<listitem><para>Jyoti, who is drinking coffee and milk, speaks to 
+<listitem><para>Jyoti, who is holding and drinking coffee, speaks to 
 Susan.</para></listitem>
 
 <listitem><para><quote>It's good that Zhang is here, and that you
@@ -870,7 +870,7 @@ lang="art-lojban">sutra ju djica</foreignphrase>: it is the willingness,
 rather than the quickness, that is irrelevant.)</para></listitem>
 
 <listitem><para>Ranjeet says <quote>Don't you think you'll eventually want
-a hot, freshly-brewed coffee?</quote> (As the punctuation in the English
+some hot, freshly-brewed coffee?</quote> (As the punctuation in the English
 shows, the Lojban words for <wordasword>freshly-brewed</wordasword> &mdash;
 literally the more prosaic <quote role="gloss">newly constructed</quote>
 &mdash; go together. If the <foreignphrase
@@ -880,7 +880,7 @@ something like the coffee being novel in that it is hot
 coffee</wordasword>) &mdash; perhaps the establishment doesn't normally
 have much of a water heating process, so any actual hot coffee would be a sensation.)</para></listitem>
 
-<listitem><para>Zhang says <quote>New skin? Huh? My actual (current) skin
+<listitem><para>Zhang says <quote>New skin? Huh? My current skin
 is head-to-foot beautiful!</quote> (Zhang has misheard Ranjeet over the
 thumping music, not to mention the buzz in his own head. As this shows, you can use
 non-logical connectives to join together <foreignphrase
@@ -927,18 +927,13 @@ lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para>
 
 </para></simplesect>
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 4</title>
 
 <para><orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. noi pinxe loi joigi ckafi joi ladru cu 
-tavla la suzyn.</foreignphrase> <emphasis>or</emphasis> <foreignphrase
-lang="art-lojban">.i la djiotis. noi pinxe loi joigi ckafi ku gi loi ladru cu 
-tavla la suzyn.</foreignphrase> (The potential confusion between <foreignphrase
-lang="art-lojban">selbri</foreignphrase> and <foreignphrase
-lang="art-lojban">sumti</foreignphrase> forces you to insert <foreignphrase
-lang="art-lojban">ku</foreignphrase> here, too.)</para></listitem>
+lang="art-lojban">.i la djiotis. noi gu'e jgari gi pinxe loi ckafi cu 
+tavla la suzyn.</foreignphrase></para></listitem>
 
 <listitem><para>There are several ways you can say this:
 

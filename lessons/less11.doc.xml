@@ -23,7 +23,7 @@ seen in passing, and we'll be discussing again below.</para>
 connectives, and their attitudinal content. For example, most languages
 have different words for <wordasword>and</wordasword> and
 <wordasword>but</wordasword>. Logically, they both mean the same thing. In
-terms of attitude, howeverm they are different:
+terms of attitude, however, they are different:
 <wordasword>but</wordasword> contains a connotation of unexpectedness which
 <wordasword>and</wordasword> does not. So Lojban translates
 <wordasword>but</wordasword> in two parts: <wordasword>.e ku'i</wordasword>
@@ -165,7 +165,7 @@ lang="art-lojban">.anai</foreignphrase>.</para></listitem>
 </itemizedlist>
 </para>
 
-<tip><para>There is not a little controversy in the Lojban community about
+<tip><para>There is some controversy in the Lojban community about
 whether natural language <wordasword>if</wordasword> is best expressed as a
 logical connective (IF, IFF), or as a <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase>. There are a couple of
@@ -277,7 +277,7 @@ till later. </para>
 
 <para>Finally, there is <foreignphrase lang="art-lojban">.u</foreignphrase>,
 meaning <quote role="gloss">whether or not</quote>. This is not a standard Boolean
-variable, but I've called it WON for convenience. In this way I can say
+operator, but I've called it WON for convenience. In this way I can say
 
 <informalexample><literallayout>
 <foreignphrase lang="art-lojban">mi ba vitke le mi mamta .u le mi tamne </foreignphrase>
@@ -807,7 +807,7 @@ lang="art-lojban">la djiotis. stali le barja gi'i klama le gusta</foreignphrase>
 lang="art-lojban">la jang. tadni loi xukske gi'i nelci loi dotco birje</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">la djiotis. pendo li.xarvi.ozuald. ji la ranjit.</foreignphrase></para></listitem>
+lang="art-lojban">la djiotis. pendo lis.xarvis.ozuald. ji la ranjit.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">la suzyn. nelci loi dotco je'i fraso birje</foreignphrase> 
@@ -860,7 +860,7 @@ lang="art-lojban">bakni</foreignphrase></term><listitem><para>x1 is
 a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cidjrkabobo</foreignphrase></term><listitem><para>kabob 
+lang="art-lojban">cidjrkebabi</foreignphrase></term><listitem><para>kebab 
 (Another one of those funny-shaped words...)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -899,6 +899,10 @@ lang="art-lojban">pencu</foreignphrase></term><listitem><para>x1 (agent)
 touches x2 with x3 [a locus on x1 or an instrument] at x4 [a locus on x2]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">sabji</foreignphrase></term><listitem><para>x1 (source)
+provides/supplies/furnishes x2 [supply/commodity] to x3 [recipient]</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">sluni</foreignphrase></term><listitem><para>x1 is
 a quantity of/contains onions/scallions of type/cultivar x2</para></listitem></varlistentry>
 
@@ -923,21 +927,21 @@ about x1</para></listitem></varlistentry>
 
 <orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le sabji cu klama le jubme pe
+<listitem><para><foreignphrase lang="art-lojban">.i le bevri cu klama le jubme pe
 le ci pendo gi'e cusku lu .i do djica lenu do citka ma li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. cusku lu .i do ca sabji le mo cidjrkari ja 
-cidjrkabobo li'u</foreignphrase></para></listitem>
+cidjrkebabi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i le sabji cu cusku lu .i lanme jonai bakni jonai jipci li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i le bevri cu cusku lu .i lanme jonai bakni jonai jipci li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. cu cusku lu .i mi djica lo bakni cidjrkari .e lo 
 sluni nanba li'u</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le sabji fi la djiotis. cu
+<listitem><para><foreignphrase lang="art-lojban">.i le bevri fi la djiotis. cu
 dunda fe loi djacu gi'e cusku fe lu .i do djica ma
 li'u</foreignphrase></para></listitem>
 
@@ -945,7 +949,7 @@ li'u</foreignphrase></para></listitem>
 lang="art-lojban">.i la djiotis cusku lu .i lo cidjrkari li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.iseki'ubo le sabji cu cusku lu lanme je'i bakni li'u</foreignphrase></para></listitem>
+lang="art-lojban">.iseki'ubo le bevri cu cusku lu lanme je'i bakni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. cusku lu naje li'u</foreignphrase></para></listitem>
@@ -1142,7 +1146,7 @@ German or French beer?)
 <listitem><para>The waiter goes to the three friends' table and says 
 <quote>What would you like to eat?</quote></para></listitem>
 
-<listitem><para>Ranjeet says <quote>What curries or kabobs are you serving 
+<listitem><para>Ranjeet says <quote>What curries or kebabs are you serving 
 now?</quote> (There's no reason you can't use <foreignphrase
 lang="art-lojban">mo</foreignphrase> in a <foreignphrase
 lang="art-lojban">tanru</foreignphrase>. As usual, this asks for the listener to 
@@ -1150,7 +1154,7 @@ fill in the blank.)</para></listitem>
 
 <listitem><para>The waiter says <quote>Lamb, beef or chicken.</quote> (That
 is to say, the sentence <quote>We serve <wordasword>x</wordasword> curries
-and kabobs</quote> is true for <wordasword>x</wordasword> being
+and kebabs</quote> is true for <wordasword>x</wordasword> being
 <wordasword>lamb</wordasword> XOR <wordasword>beef</wordasword>, XOR
 <wordasword>chicken</wordasword>. This means that the waiter has come up
 with a new kind of animal, a <quote
@@ -1165,8 +1169,8 @@ bread.</quote> (= nan, presumably)</para></listitem>
 would you like?</quote> (Whatever is in front of the first <foreignphrase
 lang="art-lojban">selbri</foreignphrase> gets repeated in front of the second; so 
 this is the same as saying <foreignphrase
-lang="art-lojban">le sabji fi la djiotis. cu
-dunda fe loi djacu .i je le sabji fi la djiotis. cu cusku fe lu .i do djica ma
+lang="art-lojban">le bevri fi la djiotis. cu
+dunda fe loi djacu .i je le bevri fi la djiotis. cu cusku fe lu .i do djica ma
 li'u</foreignphrase>.)</para></listitem>
 
 <listitem><para>Jyoti says <quote>A curry.</quote></para></listitem>
@@ -1189,13 +1193,13 @@ li'u</foreignphrase>.)</para></listitem>
 <orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i le sabji cu carna fi la suzyn. gi'e cisma gi'e cusku lu 
+lang="art-lojban">.i le bevri cu carna fi la suzyn. gi'e cisma gi'e cusku lu 
 .i lanme 
-je'i kabni li'u</foreignphrase></para></listitem>
+je'i bakni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. tirna jonai jundi le sabji</foreignphrase> (or: <foreignphrase
-lang="art-lojban">.i la suzyn. tirna le sabji gi'onai jundi le sabji</foreignphrase>)</para></listitem>
+lang="art-lojban">.i la suzyn. tirna jonai jundi le bevri</foreignphrase> (or: <foreignphrase
+lang="art-lojban">.i la suzyn. tirna le sabji gi'onai jundi le bevri</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis pencu la suzyn. le janco gi'e cusku lu ju'i suzyn. li'u</foreignphrase></para></listitem>

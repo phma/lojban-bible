@@ -97,6 +97,16 @@ lang="art-lojban">mi djuno ledu'u <emphasis>da kau</emphasis> cilre la
 lojban.</foreignphrase> &mdash; and has the advantage of looking just like 
 the indirect questions we're already familiar with.</para>
 
+<tip><para>Question words have the advantage that they are fairly devoid of 
+content, so they don't make any presumptions you might not welcome. For 
+example, if I know that no-one is learning Lojban, I can say <foreignphrase
+lang="art-lojban">mi djuno ledu'u makau cilre la lojban.</foreignphrase>, 
+but I cannot say <foreignphrase
+lang="art-lojban">mi djuno ledu'u dakau cilre la lojban.</foreignphrase> 
+&mdash; because <foreignphrase
+lang="art-lojban">da</foreignphrase> by definition means <quote 
+role="gloss">at least one entity</quote>.</para></tip>
+
 <para>Since <foreignphrase
 lang="art-lojban">kau</foreignphrase> belongs to
 <foreignphrase
@@ -115,7 +125,7 @@ bakni</foreignphrase> <quote>lamb or beef?</quote> Once they answer, he
 knows whether they want to eat lamb or beef; in Lojban, 
 
 <informalexample><para><foreignphrase
-lang="art-lojban">ba'o lenu la djiotis. .e la suzyn. spuda kei le sabji cu
+lang="art-lojban">ba'o lenu la djiotis. .e la suzyn. spuda kei le bevri cu
 djuno ledu'u ra djica lenu citka loi lanme <emphasis>je'i kau</emphasis>
 bakni</foreignphrase></para></informalexample>
 
@@ -164,7 +174,7 @@ words to translate the English question words.
 
 <listitem><para>I want to know when you will talk to me.</para></listitem>
 
-<listitem><para>I don't know why you won't talk to me.</para></listitem>
+<listitem><para>I don't know why you don't talk to me.</para></listitem>
 
 <listitem><para>I've said who I thought was a fool.</para></listitem>
 
@@ -535,7 +545,9 @@ kei</foreignphrase> quite often (and you never know when you might need that
 offers you an abbreviation: <foreignphrase
 lang="art-lojban">tu'a</foreignphrase>. <foreignphrase
 lang="art-lojban">tu'a da</foreignphrase> means <foreignphrase
-lang="art-lojban">lenu da cu co'e kei</foreignphrase>; so you can translate
+lang="art-lojban">lesu'u da cu co'e kei</foreignphrase>; (where <foreignphrase
+lang="art-lojban">su'u</foreignphrase>, you may recall, is the generic 
+abstractor) so you can translate
 <foreignphrase lang="art-lojban">tu'a</foreignphrase> as <quote>some
 abstraction associated with...</quote>, or more colloquially, <quote>some
 stuff about...</quote> <foreignphrase
@@ -622,7 +634,7 @@ lang="art-lojban">jai</foreignphrase></title>
 <warning><para>This section is long and complicated. On the plus side, 
 it's also the final section in the course.</para></warning>
 
-<para>Things weren't always like this. In the '80s, the ancestor of Loglan
+<para>Things weren't always like this. In the '80s, the ancestor of Lojban
 still said that things were interesting, and people were crazy, just like
 most normal languages, and without detouring through abstractions. So what
 happened?</para>
@@ -1128,7 +1140,7 @@ lang="art-lojban">ca ma kau</foreignphrase> anywhere after <foreignphrase
 lang="art-lojban">ledu'u</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">mi na djuno ledu'u do na 
-ba tavla mi mu'i ma kau</foreignphrase> (Same goes for <foreignphrase 
+tavla mi mu'i ma kau</foreignphrase> (Same goes for <foreignphrase 
 lang="art-lojban">mu'i ma kau</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">mi ba'o cusku lesedu'u mi 
@@ -1163,9 +1175,13 @@ kind of a trick question...</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">ka ce'u ckire</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la arnold. 
-cvartseneger.</foreignphrase> (or <foreignphrase lang="art-lojban">la'o 
-gy. Arnold Schwarzenegger gy.</foreignphrase>, if you prefer.)</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la arnold.
+cfartseneger.</foreignphrase> (or <foreignphrase lang="art-lojban">la'o gy.
+Arnold Schwarzenegger gy.</foreignphrase>, if you prefer. The Lojban sound
+system (phonology) doesn't allow <foreignphrase
+lang="art-lojban">cv</foreignphrase> in sequence; this is something you 
+can worry about more in your further Lojban studies. See 
+<citetitle>The Complete Lojban Language</citetitle>, p. 36)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">ka ce'u mamta</foreignphrase></para></listitem>
 
@@ -1363,7 +1379,7 @@ dansydi'u</foreignphrase></para></listitem>
 gy. </foreignphrase><foreignphrase lang="art-klingon">xu&stress;m&akl;n &stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase> <foreignphrase lang="art-lojban">
 gy. noi se fanva fi lu .i remna logji .a'unai li'u</foreignphrase> (or, in
 Lojban phonetic approximation, <foreignphrase lang="art-lojban">lo'u xuman.
-mekok. uedjpux. le'u</foreignphrase>.)</para></listitem>
+mekok. uedj pux. le'u</foreignphrase>.)</para></listitem>
 
 </orderedlist>
 

@@ -1,113 +1,1 @@
-<preface id="intro"><title>Preface &mdash; <foreignphrase lang="art-lojban">lidne prosa</foreignphrase></title>
-
-<para>This document is an introductory course on Lojban, consisting of
-fifteen lessons. It has been authored
-by Robin Turner and Nick Nicholas,
-and gives a gentle introduction to the structure of the language. Robin
-authored lessons 1&ndash;8 and 10&mdash;11 in 1999; Nick added to the
-existing lessons, and authored the remainder, in 2001.
-</para> 
-
-<para>The material covered in this course should be sufficient to allow 
-the learner to understand most of the Lojban they are likely to see in the 
-online Lojban discussion groups, or in the publications of the Logical 
-Language Group. For information on Lojban, please contact the Logical 
-Language Group:
-
-<address>
-<firstname>Bob</firstname> <surname>LeChevalier</surname>
-<affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
-<street>2904 Beau Lane</street>
-<city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
-<country>USA</country>
-<phone>(+1 703) 385-0273</phone>
-<email><ulink
-url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email>
-<otheraddr><ulink
-url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr>
-</address>
-
-The document <citetitle>What is Lojban?</citetitle> (available online at
-<ulink
-url="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>)
-is a general introduction to the language. It should be available from the 
-same place you obtained this document.</para>
-
-<para>Lojban is likely to be very different to the kinds of languages you 
-are familiar with &mdash; which certainly include English. If a point of 
-grammar or logic seems inscrutable at first, don't hesitate to move on, 
-and come back to it later. Likewise some of the exercises are trickier than 
-others (particularly the translation exercises at the end of each lesson.) 
-If you can't work out the answer to a particular question, feel free to 
-skip it &mdash; but do look at the answer to the question, as there are 
-often useful hints on Lojban usage in there.</para>
-
-<para>Robin is English (residing in Turkey), and Nick is Greek-Australian 
-(residing in the U.S.A.) So don't be surprised if you see some unfamiliar 
-language usage in this text. We are particularly unrepentant about using 
-Commonwealth spelling.</para>
-
-<para>Our thanks to the Lojbanists who have reviewed these lessons;
-in particular, Bj&ouml;rn Gohla, Nora Tansky LeChevalier, Jorge Llambias,
-and John Cowan. Thanks also to Robin Lee Powell for providing the 
-infrastructure for publishing the course in progress, and to Paul 
-Reinerfelt for his help in producing the TeX version of the text.</para> 
-
-<para><foreignphrase lang="art-lojban">ni'o le dei seltcidu cu cfapre ve 
-ctuca be la lojban.; gi'e se pagbu lo pamumei .i le go'i cu se finti la'o 
-gy. Robin Turner gy. joi la'o gy. Nick Nicholas gy.; gi'e frili jai junri'a 
-fo le stura be le bangu .i la robin. finti le 1moi bi'i 2moi jeke 10moi 
-bi'i 11moi pagbu ca la 1999nan .i la nitcion. jmina fi le pu zasti pagbu gi'e 
-finti le drata vau; ca la 2001nan. </foreignphrase></para>
-
-<para><foreignphrase lang="art-lojban">ni'o lei sidbo poi se vasru le dei 
-ve ctuca cu !pe'i banzu lenu curmi {lenu le cilre cu jimpe piso'a loi lojbo 
-poi lakne fa [lenu cy. tcidu ke'a vi le samclupa ke lojbo casnu girzu .a le 
-se prigau be la lojbangirz.]} .i mu'i tu'a loi tcila pe la lojban. ko te 
-notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase>
-
-<address>
-<firstname>Bob</firstname> <surname>LeChevalier</surname>
-<affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation>
-<street>2904 Beau Lane</street>
-<city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode>
-<country>USA</country>
-<phone>(+1 703) 385-0273</phone>
-<email><ulink
-url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email>
-<otheraddr><ulink
-url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr>
-</address>
-
-<foreignphrase lang="art-lojban">gy. .i le seltcidu po'u la'e <quote>lu la
-lojban ?mo. li'u</quote> zi'enoi ka'e se cpacu fi le samclupa tu'i zoi gy.
-<ulink
-url="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>
-gy. cu nalsteci cfari bo skicu le bangu .i ba'a ka'e cpacu le go'i vi le 
-mintu be le jaitu'i cpacu be le dei seltcidu</foreignphrase></para>
-
-<para><foreignphrase lang="art-lojban">ni'o la lojban. cu !la'a mutce frica
-le bangu poi slabu doi zi'enoi !ju'o se cmima le glico .i ganai lo steci pe
-le gerna .a le logji cu simlu lo to'e ke klina se jimpe ca'o lenu viska; gi
-ko zukte lenu rivbi tu'a le steci gi'e krefu troci tu'a ri baku .i pa'abo 
-su'o cipra jufra cu zmadu su'o cipra jufra leni tcica nandu .i go'i fa !ra'u 
-le nunfanva cipra jufra pe le fanmo be ro ve ctuca pagbu .i ganai do na 
-pu'i jdice le danfu be lo preti; gi ko co'u troci gi'e !ku'i catlu le danfu 
-be le preti; mu'i lenu le danfu so'iroi vasru lo plixau se stidi pe lenu 
-pilno la lojban.</foreignphrase></para>
-
-<para><foreignphrase lang="art-lojban">ni'o la robin. cu glico gi'e xabju
-le gugdrnTURki,e .i la nitcion. cu xelso sralo gi'e xabju le merko .i
-seki'ubo ko na se spaji tu'a loi bangu selpli pe le dei seltcidu zi'epoi na
-slabu do .i mi ra'u to'e xenru lenu pilno le glico se jitro gugde bo girzu 
-{ke valsi lerfu porsi tadji} </foreignphrase></para>
-
-<para><foreignphrase lang="art-lojban">ni'o mi ckire le lojbo poi cipygau
-fi le kamdrani le dei ve ctuca zi'eno'u !ra'u la biorn.golas. joi la
-noras.tanskis.lecevaLIER. joi la xorxes.jambias. ce la djan.kau,n. .i
-ckire !ji'a la rabin.lis.pau,el. ce'e lenu sabji le jicmu be lenu gubgau
-le ve ctuca ca'o lenu finti pe'eje la paul.rainerfelt. ce'e lenu sidju
-lenu cupra le seltcidu peta'i la tex.</foreignphrase></para>
-
-</preface>
-
+<preface id="intro"><title>Preface &mdash; <foreignphrase lang="art-lojban">lidne prosa</foreignphrase></title><para>This document is an introductory course on Lojban, consisting offifteen lessons. It has been authoredby Robin Turner and Nick Nicholas,and gives a gentle introduction to the structure of the language. Robinauthored lessons 1&ndash;8 and 10&mdash;11 in 1999; Nick added to theexisting lessons, and authored the remainder, in 2001.</para> <para>The material covered in this course should be sufficient to allow the learner to understand most of the Lojban they are likely to see in the online Lojban discussion groups, or in the publications of the Logical Language Group. For information on Lojban, please contact the Logical Language Group:<address><firstname>Bob</firstname> <surname>LeChevalier</surname><affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation><street>2904 Beau Lane</street><city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode><country>USA</country><phone>(+1 703) 385-0273</phone><email><ulinkurl="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email><otheraddr><ulinkurl="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr></address>The document <citetitle>What is Lojban?</citetitle> (available online at<ulinkurl="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>)is a general introduction to the language. It should be available from the same place you obtained this document.</para><para>Lojban is likely to be very different to the kinds of languages you are familiar with &mdash; which certainly include English. If a point of grammar or logic seems inscrutable at first, don't hesitate to move on, and come back to it later. Likewise some of the exercises are trickier than others (particularly the translation exercises at the end of each lesson.) If you can't work out the answer to a particular question, feel free to skip it &mdash; but do look at the answer to the question, as there are often useful hints on Lojban usage in there.</para><para>Robin is English (residing in Turkey), and Nick is Greek-Australian (residing in the U.S.A.) So don't be surprised if you see some unfamiliar language usage in this text. We are particularly unrepentant about using Commonwealth spelling.</para><para>Our thanks to the Lojbanists who have reviewed these lessons; inparticular, Pierre Abbat, John Cowan, Bj&ouml;rn Gohla, Arnt RichardJohansen, Nora Tansky LeChevalier, Jorge Llambias, John Parks-Clifford,Anthony Roach. Thanks also to Robin Lee Powell for providing theinfrastructure for publishing the course in progress, and to PaulReinerfelt for his help in producing the TeX version of the text.</para><para><foreignphrase lang="art-lojban">ni'o le dei seltcidu cu cfapre te ctuca befo la lojban.; gi'e se pagbu lo pamumei .i le go'i cu se finti la'o gy. Robin Turner gy. joi la'o gy. Nick Nicholas gy.; gi'e frili jai junri'a fo le stura be le bangu .i la robin. finti le 1moi bi'i 8moi jeke 10moi bi'i 11moi pagbu ca la 1999nan .i la nitcion. jmina fi le pu zasti pagbu gi'e finti le drata vau; ca la 2001nan. </foreignphrase></para><para><foreignphrase lang="art-lojban">ni'o lei datni poi se cusku le dei te ctuca cu !pe'i banzu lenu ka'enri'a {lenu le cilre cu jimpe piso'a loi lojbo poi lakne fa [lenu cy. tcidu ke'a vi le samclupa ke lojbo casnu girzu .a le se prigau be la lojbangirz.]} .i mu'i tu'a loi tcila pe la lojban. ko te notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase><address><firstname>Bob</firstname> <surname>LeChevalier</surname><affiliation><shortaffil>The Logical Language Group, Inc.</shortaffil></affiliation><street>2904 Beau Lane</street><city>Fairfax</city>, <state>VA</state> <postcode>22031</postcode><country>USA</country><phone>(+1 703) 385-0273</phone><email><ulinkurl="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email><otheraddr><ulinkurl="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr></address><foreignphrase lang="art-lojban">gy. .i le seltcidu po'u la'e <quote>lu lalojban ?mo. li'u</quote> zi'enoi ka'e se cpacu fi le samclupa tu'i zoi gy.<ulinkurl="http://www.lojban.org/level0.html"><computeroutput>http://www.lojban.org/level0.html</computeroutput></ulink>gy. cu nalsteci cfari bo skicu le bangu .i ba'a ka'e cpacu le go'i vi le mintu be le jaitu'i cpacu be le dei seltcidu</foreignphrase></para><para><foreignphrase lang="art-lojban">ni'o la lojban. cu !la'a mutce fricale bangu poi slabu do zi'enoi !ju'o se cmima le glico .i fau lenu lo steci pele gerna .a le logji cu simlu loka to'e ke klina se jimpe ca'o lenu co'atcidu kei; ko zukte lenu rivbi tu'a le steci gi'e krefu troci tu'a ri baku.i pa'abo su'o cipra jufra cu zmadu su'o cipra jufra leni tcica nandu .igo'i fa !ra'u le nunfanva cipra jufra pe le fanmo be ro ve ctuca pagbu .iganai do na pu'i jdice le danfu be lo preti; gi ko co'u troci gi'e !ku'icatlu le danfu be le preti; mu'i lenu le danfu so'iroi vasru lo plixau sestidi pe lenu pilno la lojban.</foreignphrase></para><para><foreignphrase lang="art-lojban">ni'o la robin. cu glico gi'e xabjule gugdrnTURki,e .i la nitcion. cu xelso sralo gi'e xabju le merko .iseki'ubo ko na se spaji tu'a loi bangu selpli pe le dei seltcidu zi'epoi naslabu do .i mi ra'u to'e xenru lenu pilno le glico se jitro gugde bo girzu {ke valsi lerfu porsi tadji} </foreignphrase></para><para><foreignphrase lang="art-lojban">ni'o mi ckire le lojbo poi cipygaufi le kamdrani le dei ve ctuca zi'eno'u la. pier.abat. joi la djan.kau,n. joi la biorn.golas. joi. la .arnt.rixard.ioxansen. {goi tsali ge'u} joi lanoras.tanskis.lecevaLIER. joi la xorxes.jambias. joi la djan.parks.klifyrd. {goi pycyn. ge'u} joi la .antonis.rotc. .ickire !ji'a la rabin.lis.pau,el. ce'e lenu sabji le jicmu be lenu gubgaule ve ctuca ca'o lenu finti pe'eje la paul.rainerfelt. ce'e lenu sidjulenu cupra le seltcidu peta'i la tex.</foreignphrase></para></preface>ÿ
