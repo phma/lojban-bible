@@ -20,6 +20,9 @@ Time=32
 [litru.html]
 URL=litru.html
 Time=12
+[cnisni.html]
+URL=cnisni.html
+Time=32
 [Ftp]
 Login=
 Remote Dir=
@@ -27,7 +30,7 @@ Host=
 [General Options]
 Name=phrasebook
 Base URL=
-Files=jdini.html,rinsa.html,litru.html,kanro.html,index.html,cidja.html,bacru.html,detri.html,
+Files=jdini.html,rinsa.html,litru.html,kanro.html,index.html,cidja.html,bacru.html,detri.html,cnisni.html,
 Open Files=/home/phma/lojban/cvs/lojban/phrasebook/index.html,/home/phma/lojban/cvs/lojban/phrasebook/namcu.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,Untitled.html,/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,/home/phma/lojban/cvs/lojban/phrasebook/jdini.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/kanro.html,
 [rinsa.html]
 URL=rinsa.html
