@@ -97,19 +97,42 @@ co junri i lu mutce tolclite li'u
 @c      The Hatter opened his eyes very wide on hearing this; but all
 @c    he SAID was, `Why is a raven like a writing-desk?'
 
+i la mapypre cu kargau lei kanla ja'e le nu mutce ganra kei ca le nu
+tirna di'u i ku'i my cusku lu ma te simsa lo'e cipnrkorvi lo'e ciska 
+jubme li'u po'o
+
+
 @c      `Come, we shall have some fun now!' thought Alice.  `I'm glad
 @c    they've begun asking riddles.--I believe I can guess that,' she
 @c    added aloud.
 
+i lu ui mi ze'aba se zdile li'u se pensi la alis i lu mi gleki le nu
+ko'a co'a preti fa loi se manci nabmi li'u ibabo lu mi jinvi le du'u 
+mi ka'e smadi la'e di'ukau li'u se bacru abu
+
+
 @c      `Do you mean that you think you can find out the answer to it?'
 @c    said the March Hare.
 
+i lu xu do skudji le du'u do jinvi le du'u do ka'e facki le danfu be 
+di'u li'u se cusku cycy
+
 @c      `Exactly so,' said Alice.
+
+i lu go'isai li'u se cusku la alis
+
 
 @c      `Then you should say what you mean,' the March Hare went on.
 
+i lu ei do cusku le do se skudji li'u cycy stali se cusku
+
+
 @c      `I do,' Alice hastily replied; `at least--at least I mean what
 @c    I say--that's the same thing, you know.'
+
+i lu mi go'i li'u la alis sutra se spuda i lu i y ju'oru'e y i 
+mi skudji le mi se cusku i la'e di'u mintu li'u
+
 
 @c      `Not the same thing a bit!' said the Hatter.  `You might just
 @c    as well say that "I see what I eat" is the same thing as "I eat
