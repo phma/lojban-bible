@@ -4,8 +4,15 @@
 @c                               CHAPTER VII
                                 zemo'o ckupau
 
+@c *** That means something like Part 7: there's a bookpart
+@  *** It should be either {zemo'o} by itself, or {zemoi ckupau} /xorxes
+
+
+
 @c                             A Mad Tea-Party
-                            fenki tcati te salci
+                            fenki ke tcati te salci
+
+
 
 @c      There was a table set out under a tree in front of the house,
 @c    and the March Hare and the Hatter were having tea at it:  a
@@ -13,6 +20,14 @@
 @c    were using it as a cushion, resting their elbows on it, and talking
 @c    over its head.  `Very uncomfortable for the Dormouse,' thought Alice;
 @c    `only, as it's asleep, I suppose it doesn't mind.'
+ 
+
+i lo jubme cu bredi ni'a lo tricu ca'u le zdani i ko'a goi la cibmoimasti 
+cicyractu joi la mapypre cu pinxe lo tcati i lo sipsmacu cu zutse jbini 
+ko'a gi'e carmi sipna i ko'a pilno sy le nu kicne gi'e vregau lei cidni sy 
+gi'e tavla simxu ga'u le sy stedu i lu tolkufra mutce ri'i le sipsmacu li'u 
+se pensi la alis i lu i ku'i ru'a va'o le nu sipna kei sy na kurji li'u
+
 
 @c      The table was a large one, but the three were all crowded
 @c    together at one corner of it:  `No room!  No room!' they cried
