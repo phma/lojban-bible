@@ -1,4 +1,4 @@
-@node    papamo'o, paremo'o, panomo'o, Top
+@node    papamoi pagbu, paremoi pagbu, panomoi pagbu, Top
 @chapter papamo'o ma zerle'a lei rutytisna
 
 

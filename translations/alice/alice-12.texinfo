@@ -1,4 +1,4 @@
-@node    paremo'o, , papamo'o, Top
+@node    paremoi pagbu, , papamoi pagbu, Top
 @chapter paremo'o le sidydatni po'e la alis.
 
 
@@ -580,6 +580,3 @@ selgei ke crisa djedi
 
                                     FA'O
 @end format
-
-
-@bye

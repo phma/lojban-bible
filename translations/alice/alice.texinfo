@@ -67,21 +67,21 @@ dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
 
 @menu
 * le fukpi::	le nu fukpi gau do cu se curmi fi da
-* pamo'o::	pamo'o mo'ini'a le ractu kevna
-* remo'o::	le se klaku lalxu
-* cimo'o::	le me la kaukus nu bajra jivna e le clani lisri
-* vomo'o::	[The Rabbit Sends in a Little Bill]
-* mumo'o::	[Advice from a Caterpillar]
-* xamo'o::	le xarju .e lei tsaprpiperi
-* zemo'o::	fenki tcati te salci
-* bimo'o::	noltruni'u kelcrkroke bo foldi
-* somo'o::	[The Mock Turtle's Story]
-* panomo'o::	[The Lobster Quadrille]
-* papamo'o::	ma zerle'a le rutytisna
-* paremo'o::	le sidydatni po'e la alis.
+* pamoi pagbu::	pamo'o mo'ini'a le ractu kevna
+* remoi pagbu::	le se klaku lalxu
+* cimoi pagbu::	le me la kaukus nu bajra jivna e le clani lisri
+* vomoi pagbu::	[The Rabbit Sends in a Little Bill]
+* mumoi pagbu::	[Advice from a Caterpillar]
+* xamoi pagbu::	le xarju .e lei tsaprpiperi
+* zemoi pagbu::	fenki tcati te salci
+* bimoi pagbu::	noltruni'u kelcrkroke bo foldi
+* somoi pagbu::	[The Mock Turtle's Story]
+* panomoi pagbu::	[The Lobster Quadrille]
+* papamoi pagbu::	ma zerle'a le rutytisna
+* paremoi pagbu::	le sidydatni po'e la alis.
 @end menu
 
-@node le fukpi, pamo'o, Top, Top
+@node le fukpi, pamoi pagbu, Top, Top
 @chapter le fukpi
 
 @c Not done yet.
@@ -101,3 +101,5 @@ dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
 @include alice-10.texinfo
 @include alice-11.texinfo
 @include alice-12.texinfo
+
+@bye

@@ -1,4 +1,4 @@
-@node    zemo'o, bimo'o, xamo'o, Top
+@node    zemoi pagbu, bimoi pagbu, xamoi pagbu, Top
 @chapter zemo'o fenki tcati te salci
 
 @c                               CHAPTER VII

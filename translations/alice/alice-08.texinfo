@@ -1,4 +1,4 @@
-@node    bimo'o, somo'o, zemo'o, Top
+@node    bimoi pagbu, somoi pagbu, zemoi pagbu, Top
 @chapter bimo'o [noltruni'u kelcrkroke bo foldi]
 
 

@@ -1,4 +1,4 @@
-@node    panomo'o, papamo'o, somo'o, Top
+@node    panomoi pagbu, papamoi pagbu, somoi pagbu, Top
 @chapter panomo'o xasyjukni vonseldansu
 
 

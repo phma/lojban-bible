@@ -1,4 +1,4 @@
-@node    somo'o, panomo'o, bimo'o, Top
+@node    somoi pagbu, panomoi pagbu, bimoi pagbu, Top
 @chapter somo'o lisri fi la jitfa cakyrespa
 
 

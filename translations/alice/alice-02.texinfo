@@ -1,4 +1,4 @@
-@node    remo'o, cimo'o, pamo'o, Top
+@node    remoi pagbu, cimoi pagbu, pamoi pagbu, Top
 @chapter remo'o le se klaku lalxu
 
 @c                               CHAPTER II

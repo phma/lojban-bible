@@ -1,4 +1,4 @@
-@node    cimo'o, vomo'o, remo'o, Top
+@node    cimoi pagbu, vomoi pagbu, remoi pagbu, Top
 @chapter cimo'o [A Caucus-Race and a Long Tale]
 
 

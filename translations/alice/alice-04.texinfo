@@ -1,4 +1,4 @@
-@node    vomo'o, mumo'o, cimo'o, Top
+@node    vomoi pagbu, mumoi pagbu, cimoi pagbu, Top
 @chapter vomo'o le ractu cu benji lo cmalu me la bil
 
 
