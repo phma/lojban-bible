@@ -66,6 +66,9 @@
 @c    Illustrious, the son of king Antiochus, who had been a hostage at Rome:
 @c    and he reigned in the hundred and thirty-seventh year of the kingdom of
 @c    the Greeks.
+1:11. .i ra se panzi le genja palci po'u la .antioxos.epifanis. noi bersa la
+.antioxos noi nolraitru je pu pinfu vi la romas .i co'a nolraitru ca le pacizemoi
+nanca fo de'i le xelso nu nolraitru
 
 @c    Antiochus the Illustrius. . .Epiphanes, the younger son of Antiochus the
 @c    Great, who usurped the kingdom, to the prejudice of his nephew
@@ -77,19 +80,29 @@
 @c    persuaded many, saying:  Let us go and make a covenant with the heathens
 @c    that are round about us:  for since we departed from them, many evils
 @c    have befallen us.
+1:12. .i ca'o la'edi'u so'i palci remna cu klama fi la .israEL. gi'e xlura
+be so'ida cusku lu .e'u mi'o tugjo'e le ru'u sorselcei .iki'ubo pu lenu
+mi'o cliva ri kei so'i palci cu selfri mi'o li'u
 
 @c    1:13. And the word seemed good in their eyes.
+1:13. .i la'e le selsku cu simlu le ka xamgu
 
 @c    1:14. And some of the people determined to do this, and went to the
 @c    king:  and he gave them license to do after the ordinances of the
 @c    heathens.
+1:14. .i so'o prenu cu zukte lenu vitke le nolraitru kei la'edi'u .ije
+le nolraitru cu curmi lenu tinbe lei flalu be fi lei sorselcei
 
 @c    1:15. And they built a place of exercise in Jerusalem, according to the
 @c    laws of the nations:
+1:15. .i zbasu le zajdi'u ne'i la .ierucala,im tetai le se javni be fi
+lei natmi
 
 @c    1:16. And they made themselves prepuces, and departed from the holy
 @c    covenant, and joined themselves to the heathens, and were sold to do
 @c    evil:
+1:16. .i zbasu le pinjyskapi gi'e cliva le censa tugyterjo'e gi'e jorne
+lei sorselcei gi'e culno le nu zukte lo palci
 
 @c    1:17. And the kingdom was established before Antiochus, and he had a
 @c    mind to reign over the land of Egypt, that he might reign over two
@@ -358,6 +371,7 @@
 
 @c    2:26. And shewed zeal for the law, as Phinees did by Zamri, the son of
 @c    Salomi.
+@c Bemidbar 25
 
 @c    2:27. And Mathathias cried out in the city with a loud voice, saying:
 @c    Every one that hath zeal for the law, and maintaineth the testament,
@@ -474,6 +488,8 @@
 
 @c    2:59. Ananias and Azarias and Misael, by believing, were delivered out
 @c    of the flame.
+
+PIKTCITA. va'i la cadrax. fa'u la .abednegon. fa'u la meicax.
 
 @c    2:60. Daniel, in his innocency, was delivered out of the mouth of the
 @c    lions.

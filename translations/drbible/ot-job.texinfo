@@ -3206,7 +3206,7 @@
 @c    The Lord.  That is, an angel speaking in the name of the Lord.
 
 @c    38:2. Who is this that wrappeth up sentences in unskilful words?
-38:2. ma vi te mangu'i le <`etsah> lei juncau valsi?
+38:2. ma mipri le se stidi ku sepi'o lo tolprije selsku?
 
 @c    38:3. Gird up thy loins like a man:  I will ask thee, and answer thou
 @c    me.
@@ -3215,7 +3215,7 @@ ko jungau mi
 
 @c    38:4. Where wast thou when I laid the foundations of the earth?  tell me
 @c    if thou hast understanding.
-38:4. ni'o do zvati ma ca le terdi krazba? .i ko cusku le se jimpe
+38:4. ni'o do zvati ma ca le nu mi terdi krazba? .i ko cusku le se jimpe
 
 @c    38:5. Who hath laid the measures thereof, if thou knowest or who hath
 @c    stretched the line upon it?
@@ -3242,14 +3242,16 @@ ko jungau mi
 
 @c    38:11. And I said:  Hitherto thou shalt come, and shalt go no further,
 @c    and here thou shalt break thy swelling waves.
-38:11. .i mi cusku lu ko fe'epu'o klama gi'enai vy pagre .i le punli boxna
+38:11. .i mi cusku lu ko fe'eba'o klama gi'enai vy pagre .i le punli boxna
 be ko cu vi porpi li'u
 
 @c    38:12. Didst thou since thy birth command the morning, and shew the
 @c    dawning of the day its place?
+38:12. .i xu do djuno le jai vi soljbena? gi'e ze'e minde fi le cerni
 
 @c    38:13. And didst thou hold the extremities of the earth shaking them,
 @c    and hast thou shaken the ungodly out of it?
+38:13. fe lenu jgari fe le terdi bukpu tezu'e lenu desyvi'u fe le palci?
 
 @c    38:14. The seal shall be restored as clay, and shall stand as a
 @c    garment.

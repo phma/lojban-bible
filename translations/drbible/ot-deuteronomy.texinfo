@@ -1618,9 +1618,8 @@ joi la lyVAN. joi la xatseROT. joi la diza'AV.
 
 @c    14:5. The hart and the roe, the buffle, the chamois, the pygarg, the
 @c    wild goat, the camelopardalus.
-14:5. .e lo'e mirli .e lo'e dorkada .e lo'e jaxmoru .e lo'e bajbakni .e lo'e
+14:5. .e lo'e mirli .e lo'e dorkada .e lo'e jaxmuru .e lo'e bajbakni .e lo'e
 baknrto .e lo'e .antilope .e lo'e djirafa
-@c {jaxmoru} and {baknrto} are placeholders
 
 @c    14:6. Every beast that divideth the hoof in two parts, and cheweth the
 @c    cud, you shall eat.
