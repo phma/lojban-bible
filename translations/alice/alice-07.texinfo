@@ -35,6 +35,11 @@ se pensi la alis i lu i ku'i ru'a va'o le nu sipna kei sy na kurji li'u
 @c    Alice indignantly, and she sat down in a large arm-chair at one
 @c    end of the table.
 
+i le jubme cu barda i ku'i le cimei cu tagji jmaji le kojna be jy i lu
+canlu nomei i canlu nomei li'u se krixa ko'a ca le nu viska le nu la alis 
+klama i lu canlu ba'e za'uraumei li'u fengu se cusku la alis i abu tsebi'o
+lo barda birstizu bu'u lo fanmo be le jubme   
+
 @c      `Have some wine,' the March Hare said in an encouraging tone.
 
 @c      Alice looked all round the table, but there was nothing on it
