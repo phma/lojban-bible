@@ -283,10 +283,19 @@ le terdi cu carna le jendu kei li revo cacra li'u
 @c    seemed not to be listening, so she went on again:  `Twenty-four
 @c    hours, I THINK; or is it twelve?  I--'
 
+i la alis xanka catlu le jukpa tezu'e le nu zgana le du'u xukau jy
+zukte fi le nu tinbe i ku'i le jukpe cu jicla le stasu gi'e simlu
+le ka na jundi iseki'ubo abu di'a co'e lu cacra li revo pe'i ji 
+li pare pei i li'u
+
 @c      `Oh, don't bother ME,' said the Duchess; `I never could abide
 @c    figures!'  And with that she began nursing her child again,
 @c    singing a sort of lullaby to it as she did so, and giving it a
 @c    violent shake at the end of every line:
+
+i lu oi ko mi na fanza sei le noltroni'u cu cusku i mi ka'enai renvi
+lo'e namcu li'u icabo ny co'a za'ure'u kurji le cifnu gi'e sanga lo
+sipygau simsa cy gi'e vlile desygau cy ca le fanmo be lo vlali'i
 
 @c            `Speak roughly to your little boy,
 @c              And beat him when he sneezes:
@@ -299,9 +308,21 @@ le terdi cu carna le jendu kei li revo cacra li'u
 
 @c                    `Wow! wow! wow!'
 
+@format
+                          KREFU
+
+          (to le jukpa le cifnu cu kansa toi)
+
+                         ua ua ua 
+@end format
+
 @c      While the Duchess sang the second verse of the song, she kept
 @c    tossing the baby violently up and down, and the poor little thing
 @c    howled so, that Alice could hardly hear the words:--
+
+i ca le nu le noltroni'u cu sanga le remoi be lei vlagri kei ny ca'o
+vlile renro le cifnu le gapru ku joi le cnita i le se kecti cmalu cu
+tai krixa ja'e le nu la alis cu ja'aru'e tirna lei valsi   
 
 @c            `I speak severely to my boy,
 @c              I beat him when he sneezes;
@@ -312,11 +333,22 @@ le terdi cu carna le jendu kei li revo cacra li'u
 
 @c                    `Wow! wow! wow!'
 
+@format
+                          KREFU
+
+                         ua ua ua 
+@end format
+
 @c      `Here! you may nurse it a bit, if you like!' the Duchess said
 @c    to Alice, flinging the baby at her as she spoke.  `I must go and
 @c    get ready to play croquet with the Queen,' and she hurried out of
 @c    the room.  The cook threw a frying-pan after her as she went out,
 @c    but it just missed her.
+
+i lu ju'ido'u e'a do kurji ti sei le noltroni'u ca le nu renro le cifnu 
+la alis cu cusku i ei mi mi bredygau le nu kansa le noltruni'u le nu 
+kelcrkroke li'u i ny sutra cliva le kumfa i le jukpa cu renro lo tansi
+ny ca le nu ny barkla i ku'i ja'aru'e fliba le nu darxi 
 
 @c      Alice caught the baby with some difficulty, as it was a queer-
 @c    shaped little creature, and held out its arms and legs in all
