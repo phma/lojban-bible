@@ -531,6 +531,7 @@ le abu cpinymabru
 i le cpinymabru ca'o damba lo drata cpinymabru i la alis jinvi le du'u
 xautce prali la'e di'u le nu kelcrkroke pa cy le drata i le po'o nabmi
 cu nu le abu fagycpi ba'o klama le drata fanmo be le purdi be'o noi 
+la alis viska le nu vi ke'a fy tolsnada troci le nu volkla lo tricu
 
 @c      By the time she had caught the flamingo and brought it back,
 @c    the fight was over, and both the hedgehogs were out of sight:
@@ -539,37 +540,76 @@ cu nu le abu fagycpi ba'o klama le drata fanmo be le purdi be'o noi
 @c    under her arm, that it might not escape again, and went back for
 @c    a little more conversation with her friend.
 
+i ca le nu abu le fagycpi ba'o kavbu gi'e xrugau kei ge le nundamba cu
+mulno gi lei re cpinymabru na se viska i lu ku'i na vajni mutce sei 
+la alis pensi i ro le dargu cu canci le vi mlana be le foldi li'u i 
+abu punji fy le cnita be le abu birka ja'e le nu na ka'e za'ure'u
+cliva kei gi'e xruti le nu jmina tavla le pendo
+
 @c      When she got back to the Cheshire Cat, she was surprised to
 @c    find quite a large crowd collected round it:  there was a dispute
 @c    going on between the executioner, the King, and the Queen, who
 @c    were all talking at once, while all the rest were quite silent,
 @c    and looked very uncomfortable.
 
+i ca le nu ba'o xruti tu'a la tcecrmlatu kei spaji abu fa le nu facki
+le du'u lo prenu so'imei ba'o jmaji le sruri be ty i da'arsi'u fa le
+selse'icatra ku joi le noltrunau ku joi le noltruni'u vu'o noi ro lu'a
+ke'a cu tavla ca le mintu ca le nu ro drata cu smaji mutce gi'e 
+tolkufra simlu
+
 @c      The moment Alice appeared, she was appealed to by all three to
 @c    settle the question, and they repeated their arguments to her,
 @c    though, as they all spoke at once, she found it very hard indeed
 @c    to make out exactly what they said.
+
+i ca le nu la alis tolcliva kei abu te cpedu le nu jdice le cuntu kei
+ro lu'a le cimei i ku'i ki'u le nu ro ri tavla ca le mintu kei abu
+mutce le ka se nandu le nu jimpe le du'u makau se cusku 
 
 @c      The executioner's argument was, that you couldn't cut off a
 @c    head unless there was a body to cut it off from:  that he had
 @c    never had to do such a thing before, and he wasn't going to begin
 @c    at HIS time of life.
 
+i le selse'icatra seldau zo'u ka'enai katna vimcu lo stedu secau le nu 
+da poi xadni zo'u ka'e katna vimcu sy da i sy noroi pu simsa zukte i ai 
+na co'a go'i ca le sy ca nunjmive pagbu 
+ 
 @c      The King's argument was, that anything that had a head could be
 @c    beheaded, and that you weren't to talk nonsense.
+
+i le noltrunau seldau zo'u ro da poi ke'a se stedu zo'u da ka'e 
+sedycaugau i ei na cusku lo nalylogji
 
 @c      The Queen's argument was, that if something wasn't done about
 @c    it in less than no time she'd have everybody executed, all round.
 @c    (It was this last remark that had made the whole party look so
 @c    grave and anxious.)
 
+i le noltruni'u seldau zo'u va'o le nu da na se zukte sera'a le cuntu
+zi lo mleca be lo temci pinosi'e kei gau ny ro da ba se selse'icatra 
+to le romoi pinka ba'o rinka le nu piro le kansi'u cu simlu le ka mutce
+le ka junri je xanka toi
+
 @c      Alice could think of nothing else to say but `It belongs to the
 @c    Duchess:  you'd better ask HER about it.'
 
+i la alis ka'e pensi le nu cusku no na'e bo lu ta se ponse la noltroni'u
+i e'u preti ta ko ba'e ny li'u 
+
 @c      `She's in prison,' the Queen said to the executioner:  `fetch
 @c    her here.'  And the executioner went off like an arrow.
+
+i lu ny pinfu sei le noltruni'u fi le selse'icatra cu cusku i ko ny ti 
+klagau li'u i le selse'icatra cu klama tai tu'a lo danti 
 
 @c       The Cat's head began fading away the moment he was gone, and,
 @c    by the time he had come back with the Dutchess, it had entirely
 @c    disappeared; so the King and the executioner ran wildly up and down
 @c    looking for it, while the rest of the party went back to the game.
+
+i le stedu be la mlatu co'a kadze'a ca le nu sy cliva kei gi ba'o mu'o
+canci ca le nu sy xruti co kansa be le noltroni'u iseki'ubo le noltrunau
+e le selse'icatra cu cilce bajra gi'e sisku my ca le nu lei drata cu di'a
+kelci
