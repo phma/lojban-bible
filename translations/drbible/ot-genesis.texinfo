@@ -172,17 +172,28 @@ nicte joi le donri cu pamei djedi
 @c    2:4. These are the generations of the heaven and the earth, when they
 @c    were created, in the day that the Lord God made the heaven and the
 @c    earth:
+2:4. di'e lisri le nu finti le tsani .e le terdi .i ca le nu la .iaves. noi cevni
+cu zbasu le tsani .e le terdi kei
+@c "éleh toldot" may mark the end of an account or the beginning. In the
+@c Table of Nations it marks the end. Should this one be "di'e" or "di'u"?
 
 @c    2:5. And every plant of the field before it sprung up in the earth, and
 @c    every herb of the ground before it grew:  for the Lord God had not
 @c    rained upon the earth; and there was not a man to till the earth.
+2:5. pu'oki le nu lo cmatricu cu zvati le terdi kei pu'oki le nu lo terstagi
+cu derjbe kei la .iaves. noi cevni na cavgau fi le terdi .ije lo remna
+noi gunka tu'a le dertu na zasti
 
 @c    2:6. But a spring rose out of the earth, watering all the surface of
 @c    the earth.
+2:6. .iku'i lo flecu cu se krasi le terdi gi'e terpinxe fi ro le sefta be
+le terdi
 
 @c    2:7. And the Lord God formed man of the slime of the earth:  and
 @c    breathed into his face the breath of life, and man became a living
 @c    soul.
+2:7. .i la .iaves. noi cevni ki zbasu le nanmu le pulce be le terdi gi'e
+vaxse'a le jmive vacri .ije le nanmu cu binxo lo jmive pruxi
 
 @c    2:8. And the Lord God had planted a paradise of pleasure from the
 @c    beginning:  wherein he placed man whom he had formed.
