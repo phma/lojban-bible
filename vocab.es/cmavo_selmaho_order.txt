@@ -277,7 +277,7 @@
  ta'a      COI      interrupción                              vocativo: interrupción
  mu'o      COI      cambio                                    vocativo: cambio - sigue más
  fe'o      COI      cambio y fuera                            vocativo: cambio y fuera (fin de la discusión)
- co'o      COI      adios                                     vocativo: adios
+ co'o      COI      adiós                                     vocativo: adios
  pe'u      COI      por favor                                 vocativo: por favor
  ke'o      COI      repita                                    vocativo: repita
  nu'e      COI      promesa                                   vocativo: promesa - relevo de promesa - despromesa
