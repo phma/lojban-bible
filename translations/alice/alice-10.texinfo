@@ -46,35 +46,67 @@ le xamsi korbi li'u
 @c      `Two lines!' cried the Mock Turtle.  `Seals, turtles, salmon, and so on;
 @c    then, when you've cleared all the jelly-fish out of the way--'
 
+i lu reda sei le jitfa cakyrespa cu krixa i loi xasyge'u ku ce'o loi cakyrespa ku
+ce'o loi xunlabyfi'e ku ce'o dali'o ibabo ba le nu mo'u vimcu ro mivjau le jvinu li'u
+
 @c      `THAT generally takes some time,' interrupted the Gryphon.
+
+i lu la'e di'u ta'e ze'u co'e sei le cpicinfo cu zunti li'u
 
 @c      `--you advance twice--'
 
+i lu e'e reroi crakla li'u
+
 @c      `Each with a lobster as a partner!' cried the Gryphon.
+
+i lu roda kansa lo xasyjukni sei le cpicinfo cu krixa li'u 
 
 @c      `Of course,' the Mock Turtle said:  `advance twice, set to
 @c    partners--'
 
+i lu li'a sei le jitfa cakyrespa cu cusku i e'e reroi crakla i e'e
+penmi le kansa li'u
+
 @c      `--change lobsters, and retire in same order,' continued the
 @c    Gryphon.
 
+i lu e'e cajysi'u lei xasyjukni i e'e mitpoi xruti sei le cpicinfo
+cu di'a co'e li'u
+
 @c      `Then, you know,' the Mock Turtle went on, `you throw the--'
+
+i lu babo ju'i do'u sei le jitfa cakyrespa di'a cusku i e'e renro li'u
 
 @c      `The lobsters!' shouted the Gryphon, with a bound into the air.
 
+i lu lei xasyjukni sei le cpicinfa noi plipe le vacri cu krixa li'u
+
 @c      `--as far out to sea as you can--'
 
+i lu le xamsi je darno bo ka'enrai li'u
+
 @c      `Swim after them!' screamed the Gryphon.
+
+i lu e'e limna jersi xy sei le cpicinfo cu krixa li'u
 
 @c      `Turn a somersault in the sea!' cried the Mock Turtle,
 @c    capering wildly about.
 
+i lu e'e pipcarna ne'i le xamsi sei le jitfa cakyrespa cu krixa li'u
+
 @c      `Change lobster's again!' yelled the Gryphon at the top of its voice.
+
+i lu e'e za'ure'u cajysi'u lei xasyjukni sei le cpicinfo cu voksa traji 
+krixa li'u
 
 @c      `Back to land again, and that's all the first figure,' said the
 @c    Mock Turtle, suddenly dropping his voice; and the two creatures,
 @c    who had been jumping about like mad things all this time, sat
 @c    down again very sadly and quietly, and looked at Alice.
+
+i lu e'e xruti le tumla i mo'u pamoi morna sei le jitfa cakyrespa noi suksa
+jdikygau le voksa cu cusku li'u i le re danlu noi pu ru'u plipe tai lo nu 
+fenki kei ze'a la'e di'u cu badri je smaji tsebi'o gi'e catlu la alis
 
 @c      `It must be a very pretty dance,' said Alice timidly.
 
