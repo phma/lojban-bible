@@ -1,4 +1,4 @@
-﻿@node    xamoi pagbu
+@node    xamoi pagbu
 @chapter xamo'o le xarju .e lei tsaprpiperi
 
 

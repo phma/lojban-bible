@@ -1,4 +1,4 @@
-﻿@node    zemoi pagbu
+@node    zemoi pagbu
 @chapter zemo'o fenki ke tcati kansi'u
 
 @c                               CHAPTER VII

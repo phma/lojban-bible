@@ -1,4 +1,4 @@
-﻿@node    mumoi pagbu
+@node    mumoi pagbu
 @chapter mumo'o se djusku lo ciftoldi
 
 

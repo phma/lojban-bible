@@ -70,18 +70,18 @@ finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 @end ifinfo
 
 @menu
-* pamoi pagbu::	mo'ini'a le ractu kevna
-* remoi pagbu::	le se klaku lalxu
-* cimoi pagbu::	le me la kaukus nu bajra jivna e le clani lisri
-* vomoi pagbu::	la ractu cu benji lo cmalu me la bil
-* mumoi pagbu::	 se djusku lo ciftoldi
-* xamoi pagbu::	le xarju .e lei tsaprpiperi
-* zemoi pagbu::	fenki tcati te salci
-* bimoi pagbu::	noltruni'u kelcrkroke bo foldi
-* somoi pagbu::	lisri fi la jitfa cakyrespa
-* panomoi pagbu::	xasyjukni vonseldansu
-* papamoi pagbu::	ma zerle'a le rutytisna
-* paremoi pagbu::	le sidydatni po'e la alis.
+*  pamoi pagbu::	pamo'o mo'ini'a le ractu kevna
+*  remoi pagbu::	remo'o le se klaku lalxu
+*  cimoi pagbu::	cimo'o le me la kaukus nu bajra jivna e le clani lisri
+*  vomoi pagbu::	vomo'o la ractu cu benji lo cmalu me la bil
+*  mumoi pagbu::	mumo'o se djusku lo ciftoldi
+*  xamoi pagbu::	xamo'o le xarju .e lei tsaprpiperi
+*  zemoi pagbu::	zemo'o fenki tcati te salci
+*  bimoi pagbu::	bimo'o noltruni'u kelcrkroke bo foldi
+*  somoi pagbu::	somo'o lisri fi la jitfa cakyrespa
+* panomoi pagbu::	panomo'o xasyjukni vonseldansu
+* papamoi pagbu::	paremo'o ma zerle'a le rutytisna
+* paremoi pagbu::	pacimo'o le sidydatni po'e la alis.
 @end menu
 
 @include alice-01.texinfo
