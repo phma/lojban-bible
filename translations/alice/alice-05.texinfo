@@ -14,6 +14,8 @@
 le ciftoldi ku ce la alis. ze'a simxu le za'i smaji catlu le
 drata cmima .i bazubo le ciftoldi mo'ize'o bevri le marna tubnu fo le
 moklu gi'e .o'udai .a'inaidai cusku fi ko'a
+@c stidi zo jaurdamtci seba'i lu marna tubnu li'u
+@c "le drata cmima" seems superfluous as it is implied by "simxu" -phma
 
 @c      `Who are YOU?' said the Caterpillar.
 
