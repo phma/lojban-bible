@@ -102,6 +102,10 @@ cusku lu pe'i do .ei cusku le sedu'u ba'e do mo puku li'u
 @c    think of any good reason, and as the Caterpillar seemed to be in
 @c    a VERY unpleasant state of mind, she turned away.
 
+i la'e di'u ji'a cfipu preti i la alis na ka'e pensi lo xamgu krinu
+ijebo le ciftoldi cu simlu le ka na'e se zdile iseki'ubo abu co'a 
+cliva
+
 @c      `Come back!' the Caterpillar called after her.  `I've something
 @c    important to say!'
 .i lu ko xruti ko sei le ciftoldi fa'a krixa .i mi le vajni .ei cu cusku li'u
@@ -109,12 +113,21 @@ cusku lu pe'i do .ei cusku le sedu'u ba'e do mo puku li'u
 @c      This sounded promising, certainly:  Alice turned and came back
 @c    again.
 
+i la'e di'u cinri simsa ju'o i la alis torni gi'e xruti
+
 @c      `Keep your temper,' said the Caterpillar.
+
+i lu ko surla stali sei le ciftoldi cu cusku li'u
 
 @c      `Is that all?' said Alice, swallowing down her anger as well as
 @c    she could.
 
+i lu xu la'e di'u cu mulno sei la alis cusku li'u i abu ralte le nu fengu
+kei tai le xagrai nu abu kakne
+
 @c      `No,' said the Caterpillar.
+
+i lu na go'i sei le ciftoldi cu cusku li'u
 
 @c      Alice thought she might as well wait, as she had nothing else
 @c    to do, and perhaps after all it might tell her something worth
@@ -177,40 +190,74 @@ cusku lu pe'i do .ei cusku le sedu'u ba'e do mo puku li'u
 
 @c      `That is not said right,' said the Caterpillar.
 
+i lu di'u na drani se cusku sei le ciftoldi cu cusku li'u
+
 @c      `Not QUITE right, I'm afraid,' said Alice, timidly; `some of the
 @c    words have got altered.'
+
+i lu u'u na mulno drani sei la alis toldarsi cusku i su'o le valsi ba'o
+se galfi li'u
 
 @c      `It is wrong from beginning to end,' said the Caterpillar
 @c    decidedly, and there was silence for some minutes.
 
+i lu toldrani co'a le cfafanmo co'u le tolcfafanmo sei le ciftoldi cu
+birti cusku li'u i smaji ze'a lo mentu be li so'o
+
 @c      The Caterpillar was the first to speak.
 
+i le ciftoldi cu tavla pamoi
+
 @c      `What size do you want to be?' it asked.
+
+i lu aupei do clani mitre ma sei cy te preti li'u
 
 @c      `Oh, I'm not particular as to size,' Alice hastily replied;
 @c    `only one doesn't like changing so often, you know.'
 
+i lu ue i le du'u mitre makau na vajni sei la alis sutra spuda i
+na nelci le nu tai cafne fa le nu cenba i do djuno li'u
+
 @c      `I DON'T know,' said the Caterpillar.
+
+i lu mi ba'e na djuno sei le ciftoldi cu cusku li'u
 
 @c      Alice said nothing:  she had never been so much contradicted in
 @c    her life before, and she felt that she was losing her temper.
 
+i la alis cu cusku noda i abu pu tai se fapro noroi le abu nunjmive 
+gi'e ca cinmo le nu fengu binxo
+
 @c      `Are you content now?' said the Caterpillar.
+
+i lu xu do ca se mansa sei le ciftoldi cu cusku li'u
 
 @c      `Well, I should like to be a LITTLE larger, sir, if you
 @c    wouldn't mind,' said Alice:  `three inches is such a wretched
 @c    height to be.'
 
+i lu y'y au mi bramau doi do'u sei la alis cusku i le nu cenmitre
+li ze cu mutce le ka mabla li'u
+
 @c      `It is a very good height indeed!' said the Caterpillar
 @c    angrily, rearing itself upright as it spoke (it was exactly three
 @c    inches high).
+
+i lu iasai mutce le ka zabna sei le ciftoldi cu fengu cusku li'u i cy
+sanli binxo ca le nu tavla to cy satci mitre li ze toi
 
 @c      `But I'm not used to it!' pleaded poor Alice in a piteous tone.
 @c    And she thought of herself, `I wish the creatures wouldn't be so
 @c    easily offended!'
 
+i lu ku'i mi na se tcaci sei la alis kecti tonga pante li'u i abu pensi
+lu au le nu lei vi danlu cu se cnicrogau na tai frili li'u
+
 @c      `You'll get used to it in time,' said the Caterpillar; and it
 @c    put the hookah into its mouth and began smoking again.
+
+i lu do ba se tcaci sei le ciftoldi cu cusku i cy punji le nargile 
+le moklu gi'e co'a za'ure'u damva'u
 
 @c      This time Alice waited patiently until it chose to speak again.
 @c    In a minute or two the Caterpillar took the hookah out of its
