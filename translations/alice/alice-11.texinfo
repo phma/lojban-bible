@@ -216,19 +216,36 @@ i lu ti na me mi moi sei le mapypre cu cusku li'u
 @c      `Stolen!' the King exclaimed, turning to the jury, who
 @c    instantly made a memorandum of the fact.
 
+i lu zerle'a sei le noltrunau fa'a le pairkamni cu ki'asku li'u i py
+zi notci'a le fatci 
+
 @c      `I keep them to sell,' the Hatter added as an explanation;
 @c    `I've none of my own.  I'm a hatter.'
+
+i lu mi ti vecnu sei le mapypre cu jmina ciksi i mi noti ponse i mi
+mapypre li'u
 
 @c      Here the Queen put on her spectacles, and began staring at the
 @c    Hatter, who turned pale and fidgeted.
 
+i caku le noltruni'u co'a dasni le vistci gi'e co'a ze'a catlu le 
+mapypre noi labybi'o gi'e xanka tarti
+
 @c      `Give your evidence,' said the King; `and don't be nervous, or
 @c    I'll have you executed on the spot.'
+
+i lu ko dunda le do datni sei le noltrunau cu cusku i ko na xanka ija
+mi da do zivi catrymi'e li'u
 
 @c      This did not seem to encourage the witness at all:  he kept
 @c    shifting from one foot to the other, looking uneasily at the
 @c    Queen, and in his confusion he bit a large piece out of his
 @c    teacup instead of the bread-and-butter.
+
+i la'e di'u nasai simlu le ka darsygau le datnydu'a noi za'o slilu
+fi le nu sanli fi lo jamfu ku fa'u le drata kei gi'e xanka catlu le
+noltruni'u gi'e se cfipu batyvi'u lo barda spisa le tcati kabri ne
+seba'i le nanba joi matne
 
 @c      Just at this moment Alice felt a very curious sensation, which
 @c    puzzled her a good deal until she made out what it was:  she was
@@ -237,19 +254,38 @@ i lu ti na me mi moi sei le mapypre cu cusku li'u
 @c    decided to remain where she was as long as there was room for
 @c    her.
 
+i caku la alis ganse lo cizra noi cfipu abu co'u le nu facki le du'u
+makau fasnu i abu ca'o co'a za'ure'u barda banro gi'e pamai jdice le 
+nu cliva le kumfa kei gi'e ku'i remai jdice le nu stali ze'a le nu
+le canlu cu banzu
+
 @c      `I wish you wouldn't squeeze so.' said the Dormouse, who was
 @c    sitting next to her.  `I can hardly breathe.'
 
+i lu au do na tai catke sei le sipsmacu noi zutse lamji abu cu cusku
+i mi ka'eru'e vasxu li'u
+
 @c      `I can't help it,' said Alice very meekly:  `I'm growing.'
 
+i lu mi ka'enai rivbi sei la alis cumla cusku i mi ca'o banro li'u
+
 @c      `You've no right to grow here,' said the Dormouse.
+
+i lu ei do na vi banro sei le sipsmacu cu cusku li'u
 
 @c      `Don't talk nonsense,' said Alice more boldly:  `you know
 @c    you're growing too.'
 
+i lu ko na bebna tavla sei la alis darsyze'a cusku i ju'o do ji'a 
+ca'o banro li'u
+
 @c      `Yes, but I grow at a reasonable pace,' said the Dormouse:
 @c    `not in that ridiculous fashion.'  And he got up very sulkily
 @c    and crossed over to the other side of the court.
+
+i lu go'i i ku'i mi banro sekai lo ka racli sutra sei le sipsmacu cu
+cusku i na tai ckasu go'i li'u i sy tolgei mutce sa'irbi'o gi'e pagre 
+le kumfa le drata fanmo
 
 @c      All this time the Queen had never left off staring at the
 @c    Hatter, and, just as the Dormouse crossed the court, she said to
@@ -257,17 +293,34 @@ i lu ti na me mi moi sei le mapypre cu cusku li'u
 @c    singers in the last concert!' on which the wretched Hatter
 @c    trembled so, that he shook both his shoes off.
 
+i ze'a la'e di'u le noltruni'u noroi sisti le nu catlu le mapypre kei
+gi'e cusku ca le nu le sipsmacu cu pagre le kumfa kei fi pa le nunpai
+pulji lu ko bevri le liste be lei sanga pe le romoi ke zgike se tigni 
+li'u i le mapypre cu tai desku ja'e le nu le re cutci cu 
+nalseldasybi'o 
+
 @c      `Give your evidence,' the King repeated angrily, `or I'll have
 @c    you executed, whether you're nervous or not.'
+
+i lu ko dunda le do datni sei le noltrunau rere'u fengu cusku ija
+do te catrymi'e gi'u xanka li'u
 
 @c      `I'm a poor man, your Majesty,' the Hatter began, in a
 @c    trembling voice, `--and I hadn't begun my tea--not above a week
 @c    or so--and what with the bread-and-butter getting so thin--and
 @c    the twinkling of the tea--'
 
+i lu mi pindi doi nolba'i sei le mapypre cu co'a desku voksa cusku
+i mi puzi co'a pinxe le mi tcati to zi lo jetfu be li su'eji'ipa toi
+i le nanba joi matne ca'o cinlybi'o i le tcati cu slilu li'u
+
 @c      `The twinkling of the what?' said the King.
 
+i lu le mo cu slilu sei le noltrunau cu cusku li'u
+
 @c      `It began with the tea,' the Hatter replied.
+
+i lu co'a le tcati sei le mapypre cu spuda li'u
 
 @c      `Of course twinkling begins with a T!' said the King sharply.
 @c    `Do you take me for a dunce?  Go on!'
