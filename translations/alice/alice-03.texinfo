@@ -166,7 +166,7 @@ jivni li'u
 i lu ki'a me la kaukus nu bajra jivni sei la alis cusku li'u i ko'a
 na'e mutce co djica le nu djuno i ku'i la dodos pu denpa setai
 le nu dy jinvi le du'u ba'e da ei tavla ije no drata pu simlu le ka
-djica le nu cusku da
+djica le nu cusku de
 
 @c      `Why,' said the Dodo, `the best way to explain it is to do it.'
 @c    (And, as you might like to try the thing yourself, some winter
@@ -227,7 +227,7 @@ gi'e se cfipu kixsku lu se jinga i se jinga li'u
 @c    water had not got into it), and handed them round as prizes.
 @c    There was exactly one a-piece all round.
 
-i la alis cu na milxe ji'a co djuno le du'u ei gasnu makau ije ki'u
+i la alis cu na'e milxe ji'a co djuno le du'u ei gasnu makau ije ki'u
 le nu dunku ko'a punji le xance le daski ije vimcu le bi'u tanxe
 be lei titydja to u'a le silna djacu na nermu'u le tanxe toi
 gi'e fairgau lei titydja neba'i lei se jinga i satci fa le nu ro zvati
@@ -235,12 +235,21 @@ cu te dunda pa titydja
 
 @c      `But she must have a prize herself, you know,' said the Mouse.
 
+i lu i ku'i ei jinga da fa ba'e ta li'a, sei la smacu cu cusku li'u
+
 @c      `Of course,' the Dodo replied very gravely.  `What else have
 @c    you got in your pocket?' he went on, turning to Alice.
 
+i lu li'a sei la dodos cu spuda co junri i do ponse ma poi drati zi'epe
+vi le daski pe do
+
 @c      `Only a thimble,' said Alice sadly.
 
+i lu lo tajgau po'o sei la alis badri cusku li'u
+
 @c      `Hand it over here,' said the Dodo.
+
+i lu ko dunda fi mi sei la dodos cusku li'u
 
 @c      Then they all crowded round her once more, while the Dodo
 @c    solemnly presented the thimble, saying `We beg your acceptance of
@@ -378,13 +387,5 @@ cu te dunda pa titydja
 @c    footsteps in the distance, and she looked up eagerly, half hoping
 @c    that the Mouse had changed his mind, and was coming back to
 @c    finish his story.
-
-
-
-
-
-
-
-
 
 
