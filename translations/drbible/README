@@ -1,0 +1,12 @@
+This is the directory for the effort to translate The Bible into lojban.
+The first file is 'drbible.texinfo', which contains information on
+modifying texinfo files.  The rest of the files are named after the
+books they contain (there are 12 chapters).
+
+Note that I've been told this is a pretty bad translation, so check your
+work using the various online bible search engines.
+
+Please don't start at the beginning!  That's where everyone will start!
+Pick your own spot.
+
+-Robin Powell
