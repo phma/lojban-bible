@@ -138,7 +138,7 @@ i lu i'e ba'e do go'i sei le cpicinfo cu cusku i mi tolmorji lei valsi li'u
 
 i co'a junri dansu ru'u la alis i ru'inai stapa lei abu jmadegji ca le nu
 dukse jbikla i sligau lei xance tezu'e le nu sinxa le rilti ize'abo
-le jitfa cakyrespa cu masno je badri mutce sanga di'e 
+le jitfa cakyrespa cu masno je badri mutce sanga lu 
 
 @c    `"Will you walk a little faster?" said a whiting to a snail.
 @c    "There's a porpoise close behind us, and he's treading on my
@@ -153,10 +153,10 @@ le jitfa cakyrespa cu masno je badri mutce sanga di'e
 
 @format
 
-    i e'o sutra doi cakcurnu i ko ti'a zgana ua pa
+    e'o sutra doi cakcurnu i ko ti'a zgana ua pa
     xajyfi'e noi jbitrixe gi'e me mi rebla stapa
     i xasyjukni i cakyrespa i ro crakla ca se ganse
-    i denpa mi'o le va canre i aipei do ba kansa dansu 
+    i denpa mi'o le va canre i pei do ba kansa dansu 
        i aipei naipei aipei naipei aipei do ba dansu
        i aipei naipei aipei naipei naipei do ba dansu 
 @end format
@@ -177,8 +177,8 @@ le jitfa cakyrespa cu masno je badri mutce sanga di'e
 
     i do ka'enai se xanri le nu pluka co mokau
     ca le nu mi'o se renro fi le xamsi i'a au  
-    i darno dukse i darno dukse sei cy spuda tolselmansa           
-    ki'e labyfi'e i ku'i ainai mi ba kansa dansu
+    i dardukse i dardukse sei cy spuda tolselmansa           
+    doi merlanu ki'e ku'i i mi na ba kansa dansu
        i ainai einai ainai einai ainai mi ba dansu
        i ainai einai ainai einai einai mi ba dansu  
 @end format      
@@ -195,9 +195,9 @@ le jitfa cakyrespa cu masno je badri mutce sanga di'e
 @format
 
     i na selvai le ni darno sei le pendo ze'i frati
-    i ju'o ia lo drata korbi ca'a drata mlana zvati
+    i iasai lo drata korbi ca'a drata mlana zvati
     i le ni darno le glico cu ni jibni be la frans
-    i ko na carna doi cakcurnu i e'e do ba kansa dansu
+    i ko carna doi cakcurnu i ei do ba kansa dansu
        i aipei naipei aipei naipei aipei do ba dansu
        i aipei naipei aipei naipei naipei do ba dansu 
 
@@ -207,20 +207,20 @@ le jitfa cakyrespa cu masno je badri mutce sanga di'e
 @c    Alice, feeling very glad that it was over at last:  `and I do so
 @c    like that curious song about the whiting!'
 
-i lu ki'e i le nu dansu cu mutce le ka jai cinri fai le nu catlu sei
+li'u i lu ki'e i le nu dansu cu mutce le ka jai cinri fai le nu catlu sei
 la alis noi mutce gleki le nu uo mulno cu cusku i mi ja'asai nelci
-le cinri selsanga be sera'a le labyfi'e li'u
+le cinri selsanga be sera'a le merlanu li'u
 
 @c      `Oh, as to the whiting,' said the Mock Turtle, `they--you've
 @c    seen them, of course?'
 
-i lu a'a le labyfi'e zo'u sei le jitfa cakyrespa cu cusku ly to do
-ly pu ca'a viska li'apei toi li'u
+i lu a'a le merlanu zo'u sei le jitfa cakyrespa cu cusku my to do
+my pu ca'a viska li'apei toi li'u
 
 @c      `Yes,' said Alice, `I've often seen them at dinn--' she
 @c    checked herself hastily.
 
-i lu go'i sei la alis cusku i mi ly so'iroi viska vi le sairpaln-
+i lu go'i sei la alis cusku i mi my so'iroi viska vi le sairpaln-
 sei abu sutra sezydicra li'u
 
 @c      `I don't know where Dinn may be,' said the Mock Turtle, `but
@@ -228,13 +228,13 @@ sei abu sutra sezydicra li'u
 @c    like.'
 
 i lu mi na djuno le du'u la sairpaln makau zvati sei le jitfa cakyrespa
-cu cusku i ku'i va'o le nu do ly tai so'iroi viska kei se slabu le nu
-makau ly jvinu li'u
+cu cusku i ku'i va'o le nu do my tai so'iroi viska kei do se slabu li'a 
+le nu makau my jvinu li'u
 
 @c      `I believe so,' Alice replied thoughtfully.  `They have their
 @c    tails in their mouths--and they're all over crumbs.'
 
-i lu ia sei la alis pensi spuda le ly rebla cu nenri le ly moklu i ly
+i lu ia sei la alis pensi spuda le my rebla cu nenri le my moklu i my
 cpana loi nabyspi li'u 
 
 @c      `You're wrong about the crumbs,' said the Mock Turtle:
@@ -244,9 +244,9 @@ cpana loi nabyspi li'u
 @c    that,' he said to the Gryphon.
 
 i lu do srera tu'a lei nabyspi sei le jitfa cakyrespa cu cusku i loi
-nabyspi cu se jisybi'o va'o le nu jinru le xamsi i ku'i le ly rebla 
-ja'a nenri le ly moklu i krinu la'e di'u fa sei caku le jitfa cakyrespa
-cu sipcmo gi'e kanla ga'orgau i ko ta tavla le krinu e ro srana sei
+nabyspi cu se jisybi'o va'o le nu jinru le xamsi i ku'i le my rebla 
+ja'a nenri le my moklu i krinu la'e di'u fa sei caku le jitfa cakyrespa
+cu sipcmo ke kanla ga'orgau i ko ta tavla le krinu e ro srana sei
 fi le cpicinfo cu cusku li'u 
 
 @c      `The reason is,' said the Gryphon, `that they WOULD go with
@@ -254,22 +254,22 @@ fi le cpicinfo cu cusku li'u
 @c    they had to fall a long way.  So they got their tails fast in
 @c    their mouths.  So they couldn't get them out again.  That's all.'
 
-i lu krinu fa sei le cpicinfo le nu ly ja'a kansa le xasyjiknu le nu
-dansu i seki'ubo ly se renro fi le xamsi i seki'ubo ly farlu lo darno
-i seki'ubo ly carmi setca le rebla le moklu i seki'ubo ly ka'enai
+i lu krinu fa sei le cpicinfo le nu my ja'a kansa le xasyjiknu le nu
+dansu i seki'ubo my se renro fi le xamsi i seki'ubo my farlu lo darno
+i seki'ubo my carmi setca le rebla le moklu i seki'ubo my ka'enai
 tolsetca i uo li'u
 
 @c      `Thank you,' said Alice, `it's very interesting.  I never knew
 @c    so much about a whiting before.'
 
 i lu ki'e sei la alis cusku i cinri mutce i mi pu noroi djuno lo tai 
-mutce lo labyfi'e li'u
+mutce lo merlanu li'u
 
 @c      `I can tell you more than that, if you like,' said the
 @c    Gryphon.  `Do you know why it's called a whiting?'
 
 i lu do'a mi do ka'e tavla lo se jmina sei le cpicinfo i xu do djuno
-le du'u makau krinu le nu zo labyfi'e cmene li'u
+le du'u makau krinu le nu zo merlanu my cmene li'u
 
 @c      `I never thought about it,' said Alice.  `Why?'
 
