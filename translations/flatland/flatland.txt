@@ -9,7 +9,8 @@ refer to Square. Sometimes {pami} is used for clarification.
 Because of Edwin Abbott's long-winded style, I found it useful to include
 commas in the Lojban text, so that the reader knows when the sentence is
 jumping back up to a higher level. I have tried to include a comma wherever
-three terminators have been omitted.
+a significant number of terminators have been omitted; usually three, but not
+in trivial cases like "le nu broda cu..."
 
 I don't know how DocBook works, so I'm faking it with the "comment lines".
 
@@ -260,8 +261,6 @@ ne'i le nurma poi no zdani cu diklo ke'a ku'o, le stani po'e le tricu cu milxe
 gidva fo'i .i to'u le jei lepu'u djuno le te farna cu nandu romi, cu mleca le
 nalspaji be do
 
-(I stopped proofreading here; continue at your own risk.)
-
 @c Yet in our more temperate regions, in which
 @c the southward attraction is hardly felt,
 @c walking sometimes in a perfectly desolate plain
@@ -277,15 +276,15 @@ nalspaji be do
 @c in rude health and in a climate where it is difficult
 @c to tell your North from your South.
 
-ni'o ku'i le seke milxe tcima noi na'e mutce ganse le snanu ve farlu ne'i ke'a
-zo'u, calenu mi cadzu ri mo'ipa'o lo culno kunti foldi voi no zdani jonai tricu
-cu gidva mi kei mi ru'inai bilga lenu mi denpa lenu zu'i carvi kei lenu mi
-na'e muvdu stali ca lo cacra be li so'u kei lepu'u mi cadzu .itu'e lo ruble .a
-lo tolcitno .a lo fetsi ra'u noi ralci cu jdari se danri le ve farlu .i
-me'asaibo lo nakni poi tsali cu go'i tu'u.i seni'ibo lenu farvi cu bapli lenu
-ganai da penmi lo zabna ninmu di'o le klaji gi da curmi lenu ny.  be'a fa'azo'a
-klama kei noi so'iroi na'e frili calenu da zi zgana gi'e no'e kanro gi'e nenri
-le se tcima poi ne'i ke'a lenu djuno le te berti cu nandu
+ni'o ku'i le seke milxe tcima noi na'e mutce ganse le snanu ve farlu ne'i ke'a,
+zo'u calenu mi cadzu ri mo'ipa'o lo na'e vasru foldi voi no zdani jonai tricu
+cu gidva mi kei, mi ru'inai bilga lenu mi denpa lenu zu'i carvi kei leza'i mi
+na'e muvdu stali ca lo cacra be li so'u kei, lepu'u mi cadzu .i lo ruble .a lo
+tolcitno .a lo fetsi ra'u noi ralci, cu jdari se danre le ve farlu me'asai lo
+nakni poi tsali .i seni'ibo lenu farvi cu bapli lenu ganai da penmi lo
+za'arni'u di'o le klaji gi da curmi lenu zy. be'a fa'azo'a klama kei noi
+so'iroi na'e frili calenu da zi zgana gi'e no'e kanro gi'e nenri le se tcima
+poi ne'i ke'a lenu djuno le te berti cu nandu
 
 @c Windows there are none in our houses:  for the light
 @c comes to us alike in our homes and out of them,
@@ -308,19 +307,22 @@ le se tcima poi ne'i ke'a lenu djuno le te berti cu nandu
 @c the maddest of the mad!  But a truce to these painful
 @c digressions:  let me return to our homes. 
 
-ni'o lo canko zo'u no ri nenri le zdani po romi ki'u lenu zu'i gusni ge le
-nenri be zy. gi le bartu ca le donri .a le nicte ru'ife'eru'i ku, ri'a da poi
-no prenu cu djuno ke'a .i puzu cu'u le tadni nanmu ku cinri je cafne bo sisku
-preti fa lu ma krasi le gusni li'u noi so'ida zo'u da troci lenu danfu ke'a
-ja'e po'o lenu lefo'i fenki prenu snura zdani cu tisna le nu'o danfu .i semu'ibo
-ba lo pralycau nu troci lenu zunti ru poi nu troci danfu kei ta'i lenu barda ve
-cteki ri keikei le xe flalu puza mulno tolcurmi ra .i pami to .uu ne'i la
-pitmu'e pamei mi toi dukse djuno le fatci danfu be ti noi cizra .i ku'i le se
-djuno be mi na ka'e se gasnu se jimpe pa lomi gugde xabju .ije mi se ckasu to
-mi poi pamei jimpe le jicmu be le canlu gi'e ponse le se sruma po'u ledu'u
-krasi fa le gusni le munje pe ci cimde toi du'i mi pe romu'ei ledu'u mi raizma
-ro fenki le ka ce'u fenki .i ta'onai ei sisti lenu cortu ke cenba se casnu .i
-ai xruti mi tu'a lesi'o le zdani pe romi
+ni'o lo canko zo'u no ri nenri le zdani po fo'i ki'u lenu zu'i gusni ge le
+nenri be zy. gi le bartu ca le donri .a le nicte roroi fe'e roroi ku ri'a da
+poi no prenu cu djuno ke'a .i puzuku cu'u le tadni nanmu ku cinri je cafne bo
+se sisku preti fa lu ma krasi le gusni li'u noi so'ida zo'u da troci lenu danfu
+ke'a ja'e po'o lenu lefo'i fenki prenu snura zdani cu tisna le nu'o facki .i
+semu'ibo ba lo pralycau nu troci lenu zunti ru poi nu troci danfygau kei ta'i
+lenu barda ve cteki ri keikeikei, le xe flalu puza mulno tolcurmi ra .i pami to
+.uu ne'i la pitmu'e pamei mi toi dukse djuno le fatci danfu be ti noi cizra .i
+ku'i le se djuno be mi na ka'e se gasnu se jimpe pa lomi gugde xabju .ije
+.oisai mi se ckasu to mi poi pamei jimpe le jicmu be le canlu, gi'e ponse le se
+sruma po'u ledu'u krasi fa le gusni le munje pe ci cimde toi, ledu'u mi
+su'omu'ei raizma ro fenki le ka ce'u fenki .i ta'onai .ei sisti le cortu nu
+cenba se casnu .i .ai mi mi xruti leza'i casnu le zdani pe fo'i 
+
+[Phew! That last paragraph made me have to upgrade jbofi'e.
+I stopped proofreading here; continue at your own risk.]
 
 @c The most common form for the construction of a house
 @c is five-sided or pentagonal, as in the annexed figure.
@@ -329,11 +331,11 @@ ai xruti mi tu'a lesi'o le zdani pe romi
 @c a small door for the Women; on the West a much larger
 @c one for the Men; the South side or floor is usually doorless.
 
-ni'o kampu traji fa le zdani tarmi poi mumjgatai cei pitkubli be li mu mu'u
-levi pixra .i le re berti korbi no'u ry.obu fa'u obufy cu se gunma le drudi
-.ije lenu ky. ponse no vorme cu tcaci .i lo cmalu vorme bepi'o le ninmu cu
-stuna le zdani .i lo barda zmadu cai vorme bepi'o le nanmu cu stici .i le snanu
-korbi noi loldi cu so'eroi claxu ro vorme
+ni'o kampu traji fa le zdani tarmi poi mumjgatai cei mumpitkubli mu'u levi
+pixra .i le re berti korbi no'u ry.obu fa'u obufy cu se gunma le drudi .ije
+lenu ky. ponse no vorme cu tcaci .i lo cmalu vorme bepi'o le ninmu cu stuna le
+zdani .i lo barda zmadu cai vorme bepi'o le nanmu cu stici .i le snanu korbi
+noi loldi cu so'eroi claxu ro vorme
 
 @c Square and triangular houses are not allowed,
 @c and for this reason.  The angles of a Square
