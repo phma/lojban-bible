@@ -21,7 +21,6 @@
 @c    over its head.  `Very uncomfortable for the Dormouse,' thought Alice;
 @c    `only, as it's asleep, I suppose it doesn't mind.'
  
-
 i lo jubme cu bredi ni'a lo tricu ca'u le zdani i ko'a goi la cibmoimasti 
 cicyractu joi la mapypre cu pinxe lo tcati i lo sipsmacu cu zutse jbini 
 ko'a gi'e carmi sipna i ko'a pilno sy le nu kicne gi'e vregau lei cidni sy 
@@ -40,28 +39,60 @@ canlu nomei i canlu nomei li'u se krixa ko'a ca le nu viska le nu la alis
 klama i lu canlu ba'e za'uraumei li'u fengu se cusku la alis i abu tsebi'o
 lo barda birstizu bu'u lo fanmo be le jubme   
 
+
 @c      `Have some wine,' the March Hare said in an encouraging tone.
+
+i lu e'e cpacu lo vanju li'u la cibmoimasti cicyractu cu se cusku co zanru
+
 
 @c      Alice looked all round the table, but there was nothing on it
 @c    but tea.  `I don't see any wine,' she remarked.
 
+i la alis catlu le pirosi'e be le jubme i ku'i no na'e tcati jy cpana
+i lu mi na viska lo vanju li'u pinka fi abu
+
+
 @c      `There isn't any,' said the March Hare.
+
+i lu noda zvati li'u se cusku cycy
+
 
 @c      `Then it wasn't very civil of you to offer it,' said Alice
 @c    angrily.
 
+
+i lu o'onai va'o la'e di'u na clite fa do le nu friti li'u fengu 
+se cusku la alis
+
+
 @c      `It wasn't very civil of you to sit down without being
 @c    invited,' said the March Hare.
 
+i lu na clite fa do le nu tsebi'o secau le nu se xlura li'u se cusku cycy
+
+
 @c      `I didn't know it was YOUR table,' said Alice; `it's laid for a
 @c    great many more than three.'
+
+i lu mi na pu djuno le du'u le jubme cu me ba'e domoi li'u se cusku
+la alis i lu jy bredi tu'a lo za'usai cimei li'u   
+
 
 @c      `Your hair wants cutting,' said the Hatter.  He had been
 @c    looking at Alice for some time with great curiosity, and this was
 @c    his first speech.
 
+
+i lu le do kerfa cu nitcu le nu katna li'u cu se cusku la mapypre
+i my pu ze'u mutce kucli catlu la alis i ra pamoi lei nu my tavla  
+
+
 @c      `You should learn not to make personal remarks,' Alice said
 @c    with some severity; `it's very rude.'
+
+i lu ei do cilre le nu na cusku loi prenu pinka li'u la alis se cusku
+co junri i lu mutce tolclite li'u
+
 
 @c      The Hatter opened his eyes very wide on hearing this; but all
 @c    he SAID was, `Why is a raven like a writing-desk?'
