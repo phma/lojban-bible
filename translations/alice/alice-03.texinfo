@@ -373,6 +373,80 @@ bei fe le rebla linsi cu simsa di'e
                          mi na tolsarxe zanru
 @end format
 
+@c    @format
+@c                   `Fury said to a mouse, 
+@c                   That he met in the house,
+@c                   "Let us both go to law: I will prosecute YOU.
+@c
+@c                    --Come, I'll take no denial; 
+@c                    We must have a trial:  
+@c                    For really this morning I've nothing to do."
+@c
+@c                   Said the mouse to the cur, 
+@c                   "Such a trial, dear Sir,
+@c                   With no jury or judge, would be wasting our breath."
+@c
+@c                    "I'll be judge, I'll be jury,"
+@c                    Said cunning old Fury:
+@c                    "I'll try the whole cause, and condemn you to death."'
+@c
+@c    @end format
+
+@c   la fengu lo smacu
+@c   noi fy ke'a cpacu
+@c   cu penmi le zdani i fy di'e jungasnu 
+@c
+@c   i i'a no proki'u
+@c   i ei flajvisi'u
+@c   i ca le ca cerni no drata cu fasnu
+@c
+@c   i e'o mi farlu
+@c   --sei le smacu cu darlu--
+@c   i secau lo pairkamni li'a mi'o nolpratra
+@c
+@c   i o'u na vajni
+@c   ije ba'e mi pajni
+@c   --sei la fengu cu cusku-- le nu do se catra
+@c
+
+@format
+
+                                la fengu lo smacu
+                                     noi fy ke'a           
+                                      cpacu cu
+                                    penmi le
+                                zdani i
+                           fy di'e 
+                             jungasnu 
+                                 i i'a no 
+                                   proki'u i ei 
+                                        flajvisi'u
+                                     i ca le ca 
+                                   cerni no 
+                                    drata cu 
+                                  fasnu
+                             i e'o mi 
+                           farlu
+                         sei le smacu 
+                               cu darlu i
+                                    secau lo 
+                                      pairkamni 
+                                        li'a mi'o 
+                                     nolpratra 
+                                    i o'u na 
+                                   vajni i
+                             je ba'e mi 
+                                pajni
+                                  sei la                          
+                                    fengu cu 
+                                         cusku
+                                      le nu 
+                                     do 
+                                    se 
+                                     catra
+            
+@end format
+
 
 @c      `You are not attending!' said the Mouse to Alice severely.
 @c    `What are you thinking of?'
