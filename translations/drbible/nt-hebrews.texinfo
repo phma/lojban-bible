@@ -1,0 +1,1239 @@
+@c    THE EPISTLE OF ST. PAUL TO THE HEBREWS
+
+
+
+@c    St. Paul wrote this Epistle to the Christians in Palestine, the most
+@c    part of whom being Jews before their conversion, they were called
+@c    Hebrews.  He exhorts them to be thoroughly converted and confirmed in
+@c    the faith of Christ, clearly shewing them the preeminence of Christ's
+@c    priesthood above the Levitical, and also the excellence of the new law
+@c    above the old.  He commends faith by the example of the ancient fathers:
+@c    and exhorts them to patience and perseverance and to remain in
+@c    fraternal charity.  It appears from chap. 13 that this Epistle was
+@c    written in Italy, and probably at Rome, about twenty-nine years after
+@c    our Lord's Ascension.
+
+
+
+@c    Hebrews Chapter 1
+
+
+@c    God spoke of old by the prophets, but now by his Son, who is
+@c    incomparably greater than the angels.
+
+@c    1:1. God, who, at sundry times and in divers manners, spoke in times
+@c    past to the fathers by the prophets, last of all,
+
+@c    1:2. In these days, hath spoken to us by his Son, whom he hath
+@c    appointed heir of all things, by whom also he made the world.
+
+@c    1:3. Who being the brightness of his glory and the figure of his
+@c    substance and upholding all things by the word of his power, making
+@c    purgation of sins, sitteth on the right hand of the majesty on high:
+
+@c    The figure. . .that is, the express image, and most perfect resemblance.
+@c    Making purgation. . .That is, having purged away our sins by his
+@c    passion.
+
+@c    1:4. Being made so much better than the angels as he hath inherited a
+@c    more excellent name than they.
+
+@c    1:5. For to which of the angels hath he said at any time:  Thou art my
+@c    Son, to-day have I begotten thee?  And again:  I will be to him a Father,
+@c    and he shall be to me a Son?
+
+@c    1:6. And again, when he bringeth in the first begotten into the world,
+@c    he saith:  And let all the angels of God adore him.
+
+@c    1:7. And to the angels indeed he saith:  He that maketh his angels
+@c    spirits and his ministers a flame of fire.
+
+@c    1:8. But to the Son:  Thy throne, O God, is for ever and ever:  a sceptre
+@c    of justice is the sceptre of thy kingdom.
+
+@c    1:9. Thou hast loved justice and hated iniquity:  therefore God, thy
+@c    God, hath anointed thee with the oil of gladness above thy fellows.
+
+@c    1:10. And:  Thou in the beginning, O Lord, didst found the earth:  and
+@c    the works of thy hands are the heavens.
+
+@c    1:11. They shall perish:  but thou shalt continue:  and they shall all
+@c    grow old as a garment.
+
+@c    1:12. And as a vesture shalt thou change them, and they shalt be
+@c    changed.  But thou art the selfsame:  and thy years shall not fail.
+
+@c    1:13. But to which of the angels said he at any time:  Sit on my right
+@c    hand, until I make thy enemies thy footstool?
+
+@c    1:14. Are they not all ministering spirits, sent to minister for them
+@c    who shall receive the inheritance of salvation?
+
+
+
+@c    Hebrews Chapter 2
+
+
+@c    The transgression of the precepts of the Son of God is far more
+@c    condemnable than of those of the Old Testament given by angels.
+
+@c    2:1. Therefore ought we more diligently to observe the things which we
+@c    have heard lest perhaps we should let them slip.
+
+@c    2:2. For if the word spoken by angels became steadfast and every
+@c    transgression and disobedience received a just recompense of reward:
+
+@c    2:3. How shall we escape if we neglect so great salvation?  Which,
+@c    having begun to be declared by the Lord, was confirmed unto us by them
+@c    that heard him.
+
+@c    2:4. God also bearing them witness by signs and wonders and divers
+@c    miracles and distributions of the Holy Ghost, according to his own
+@c    will.
+
+@c    2:5. For God hath not subjected unto angels the world to come, whereof
+@c    we speak.
+
+@c    2:6. But one in a certain place hath testified, saying:  What is man,
+@c    that thou art mindful of him?  Or the son of man, that thou visitest
+@c    him?
+
+@c    2:7. Thou hast made him a little lower than the angels:  thou hast
+@c    crowned him with glory and honour and hast set him over the works of
+@c    thy hands.
+
+@c    2:8. Thou hast subjected all things under his feet.  For in that he hath
+@c    subjected all things to him he left nothing not subject to him.  But now
+@c    we see not as yet all things subject to him.
+
+@c    2:9. But we see Jesus, who was made a little lower than the angels, for
+@c    the suffering of death, crowned with glory and honour:  that, through
+@c    the grace of God he might taste death for all.
+
+@c    2:10. For it became him for whom are all things and by whom are all
+@c    things, who had brought many children into glory, to perfect the author
+@c    of their salvation, by his passion.
+
+@c    Perfect by his passion. . .By suffering, Christ was to enter into his
+@c    glory, Luke 24.26, which the apostle here calls being made perfect.
+
+@c    2:11. For both he that sanctifieth and they who are sanctified are all
+@c    of one.  For which cause he is not ashamed to call them brethren,
+@c    saying:
+
+@c    2:12. I will declare thy name to my brethren:  in the midst of the
+@c    church will I praise thee.
+
+@c    2:13. And again:  I will put my trust in him.  And again:  Behold I and
+@c    my children, whom God hath given me.
+
+@c    2:14. Therefore because the children are partakers of flesh and blood,
+@c    he also himself in like manner hath been partaker of the same:  that,
+@c    through death, he might destroy him who had the empire of death, that
+@c    is to say, the devil:
+
+@c    2:15. And might deliver them, who through the fear of death were all
+@c    their lifetime subject to servitude.
+
+@c    2:16. For nowhere doth he take hold of the angels:  but of the seed of
+@c    Abraham he taketh hold.
+
+@c    No where doth he, etc. . .That is, he never took upon him the nature of
+@c    angels, but that of the seed of Abraham.
+
+@c    2:17. Wherefore, it behoved him in all things to be made like unto his
+@c    brethren, that he might become a merciful and faithful high priest
+@c    before God, that he might be a propitiation for the sins of the people.
+
+@c    2:18. For in that wherein he himself hath suffered and been tempted he
+@c    is able to succour them also that are tempted.
+
+
+
+@c    Hebrews Chapter 3
+
+
+@c    Christ is more excellent than Moses.  Wherefore we must adhere to him by
+@c    faith and obedience.
+
+@c    3:1. Wherefore, holy brethren, partakers of the heavenly vocation
+@c    consider the apostle and high priest of our confession, Jesus:
+
+@c    3:2. Who is faithful to him that made him, as was also Moses in all his
+@c    house.
+
+@c    3:3. For this man was counted worthy of greater glory than Moses, by so
+@c    much as he that hath built the house hath greater honour than the
+@c    house.
+
+@c    3:4. For every house is built by some man:  but he that created all
+@c    things is God.
+
+@c    3:5. And Moses indeed was faithful in all his house as a servant, for a
+@c    testimony of those things which were to be said:
+
+@c    3:6. But Christ, as the Son in his own house:  which house are we, if we
+@c    hold fast the confidence and glory of hope unto the end.
+
+@c    3:7. Wherefore, as the Holy Ghost saith:  To-day if you shall hear his
+@c    voice,
+
+@c    3:8. Harden not your hearts, as in the provocation, in the day of
+@c    temptation in the desert,
+
+@c    3:9. Where your fathers tempted me, proved and saw my works,
+
+@c    3:10. Forty years:  for which cause I was offended with this generation,
+@c    and I said:  They always err in heart.  And they have not known my ways.
+
+@c    3:11. As I have sworn in my wrath:  If they shall enter into my rest.
+
+@c    3:12. Take heed, brethren, lest perhaps there be in any of you an evil
+@c    heart of unbelief, to depart from the living God.
+
+@c    3:13. But exhort one another every day, whilst it is called to day,
+@c    that none of you be hardened through the deceitfulness of sin.
+
+@c    3:14. For we are made partakers of Christ:  yet so, if we hold the
+@c    beginning of his substance firm unto the end.
+
+@c    3:15. While it is said:  To day, if you shall hear his voice, harden not
+@c    your hearts, as in that provocation.
+
+@c    3:16. For some who heard did provoke:  but not all that came out of
+@c    Egypt by Moses.
+
+@c    3:17. And with whom was he offended forty years?  Was it not with them
+@c    that sinned, whose carcasses were overthrown in the desert?
+
+@c    3:18. And to whom did he swear, that they should not enter into his
+@c    rest:  but to them that were incredulous?
+
+@c    3:19. And we see that they could not enter in, because of unbelief.
+
+
+
+@c    Hebrews Chapter 4
+
+
+@c    The Christian's rest.  We are to enter into it through Jesus Christ.
+
+@c    4:1. Let us fear therefore lest, the promise being left of entering
+@c    into his rest, any of you should be thought to be wanting.
+
+@c    4:2. For unto us also it hath been declared in like manner as unto
+@c    them.  But the word of hearing did not profit them, not being mixed with
+@c    faith of those things they heard.
+
+@c    4:3. For we, who have believed, shall enter into rest; as he said:  As I
+@c    have sworn in my wrath:  If they shall enter into my rest; and this
+@c    indeed when the works from the foundation of the world were finished.
+
+@c    4:4. For in a certain place he spoke of the seventh day thus:  And God
+@c    rested the seventh day from all his works.
+
+@c    4:5. And in this place again:  If they shall enter into my rest.
+
+@c    4:6. Seeing then it remaineth that some are to enter into it, and they
+@c    to whom it was first preached did not enter because of unbelief:
+
+@c    4:7. Again he limiteth a certain day, saying in David; To day, after so
+@c    long a time as it is above said:  To day if you shall hear his voice,
+@c    harden not your hearts.
+
+@c    4:8. For if Jesus had given them rest he would never have afterwards
+@c    spoken of another day.
+
+@c    Jesus. . .Josue, who in Greek is called Jesus.
+
+@c    4:9. There remaineth therefore a day of rest for the people of God.
+
+@c    4:10. For he that is entered into his rest, the same also hath rested
+@c    from his works, as God did from his.
+
+@c    4:11. Let us hasten therefore to enter into that rest:  lest any man
+@c    fall into the same example of unbelief.
+
+@c    4:12. For the word of God is living and effectual and more piercing
+@c    than any two edged sword; and reaching unto the division of the soul
+@c    and the spirit, of the joints also and the marrow:  and is a discerner
+@c    of the thoughts and intents of the heart.
+
+@c    4:13. Neither is there any creature invisible in his sight:  but all
+@c    things are naked and open to his eyes, to whom our speech is.
+
+@c    4:14. Having therefore a great high priest that hath passed into the
+@c    heavens, Jesus the Son of God:  let us hold fast our confession.
+
+@c    4:15. For we have not a high priest who cannot have compassion on our
+@c    infirmities:  but one tempted in all things like as we are, without sin.
+
+@c    4:16. Let us go therefore with confidence to the throne of grace:  that
+@c    we may obtain mercy and find grace in seasonable aid.
+
+
+
+@c    Hebrews Chapter 5
+
+
+@c    The office of a high priest.  Christ is our high priest.
+
+@c    5:1. For every high priest taken from among men is ordained for men in
+@c    the things that appertain to God, that he may offer up gifts and
+@c    sacrifices for sins:
+
+@c    5:2. Who can have compassion on them that are ignorant and that err:
+@c    because he himself also is compassed with infirmity.
+
+@c    5:3. And therefore he ought, as for the people, so also for himself, to
+@c    offer for sins.
+
+@c    5:4. Neither doth any man take the honour to himself, but he that is
+@c    called by God, as Aaron was.
+
+@c    5:5. So Christ also did not glorify himself, that he might be made a
+@c    high priest:  but he that said unto him:  Thou art my Son:  this day have
+@c    I begotten thee.
+
+@c    5:6. As he saith also in another place:  Thou art a priest for ever,
+@c    according to the order of Melchisedech.
+
+@c    5:7. Who in the days of his flesh, with a strong cry and tears,
+@c    offering up prayers and supplications to him that was able to save him
+@c    from death, was heard for his reverence.
+
+@c    5:8. And whereas indeed he was the Son of God, he learned obedience by
+@c    the things which he suffered.
+
+@c    5:9. And being consummated, he became, to all that obey him, the cause
+@c    of eternal salvation:
+
+@c    5:10. Called by God a high priest, according to the order of
+@c    Melchisedech.
+
+@c    5:11. Of whom we have much to say and hard to be intelligibly uttered:
+@c    because you are become weak to hear.
+
+@c    5:12. For whereas for the time you ought to be masters, you have need
+@c    to be taught again what are the first elements of the words of God:  and
+@c    you are become such as have need of milk and not of strong meat.
+
+@c    5:13. For every one that is a partaker of milk is unskilful in the word
+@c    of justice:  for he is a little child.
+
+@c    5:14. But strong meat is for the perfect:  for them who by custom have
+@c    their senses exercised to the discerning of good and evil.
+
+
+
+@c    Hebrews Chapter 6
+
+
+@c    He warns them of the danger of falling by apostasy and exhorts them to
+@c    patience and perseverance.
+
+@c    6:1. Wherefore, leaving the word of the beginning of Christ, let us go
+@c    on to things more perfect:  not laying again the foundation of penance
+@c    from dead works and of faith towards God,
+
+@c    The word of the beginning. . .The first rudiments of the Christian
+@c    doctrine.
+
+@c    6:2. Of the doctrine of baptisms and imposition of hands, and of the
+@c    resurrection of the dead, and of eternal judgment.
+
+@c    6:3. And this will we do, if God permit.
+
+@c    6:4. For it is impossible for those who were once illuminated, have
+@c    tasted also the heavenly gift and were made partakers of the Holy
+@c    Ghost,
+
+@c    It is impossible, etc. . .The meaning is, that it is impossible for such
+@c    as have fallen after baptism, to be again baptized; and very hard for
+@c    such as have apostatized from the faith, after having received many
+@c    graces, to return again to the happy state from which they fell.
+
+@c    6:5. Have moreover tasted the good word of God and the powers of the
+@c    world to come,
+
+@c    6:6. And are fallen away:  to be renewed again to penance, crucifying
+@c    again to themselves the Son of God and making him a mockery.
+
+@c    6:7. For the earth, that drinketh in the rain which cometh often upon
+@c    it and bringeth forth herbs meet for them by whom it is tilled,
+@c    receiveth blessing from God.
+
+@c    6:8. But that which bringeth forth thorns and briers is reprobate and
+@c    very near unto a curse:  whose end is to be burnt.
+
+@c    6:9. But, my dearly beloved, we trust better things of you, and nearer
+@c    to salvation; though we speak thus.
+
+@c    6:10. For God is not unjust, that he should forget your work and the
+@c    love which you have shewn in his name, you who have ministered and do
+@c    minister to the saints.
+
+@c    6:11. And we desire that every one of you shew forth the same
+@c    carefulness to the accomplishing of hope unto the end:
+
+@c    6:12. That you become not slothful, but followers of them who through
+@c    faith and patience shall inherit the promises.
+
+@c    6:13. For God making promises to Abraham, because he had no one greater
+@c    by whom he might swear, swore by himself,
+
+@c    6:14. Saying:  Unless blessing I shall bless thee and multiplying I
+@c    shall multiply thee.
+
+@c    6:15. And so patiently enduring he obtained the promise.
+
+@c    6:16. For men swear by one greater than themselves:  and an oath for
+@c    confirmation is the end of all their controversy.
+
+@c    6:17. Wherein God, meaning more abundantly to shew to the heirs of the
+@c    promise the immutability of his counsel, interposed an oath:
+
+@c    6:18. That by two immutable things in which it is impossible for God to
+@c    lie, we may have the strongest comfort, we who have fled for refuge to
+@c    hold fast the hope set before us.
+
+@c    6:19. Which we have as an anchor of the soul, sure and firm, and which
+@c    entereth in even within the veil:
+
+@c    6:20. Where the forerunner Jesus is entered for us, made a high priest
+@c    for ever according to the order of Melchisedech.
+
+
+
+@c    Hebrews Chapter 7
+
+
+@c    The priesthood of Christ according to the order of Melchisedech excels
+@c    the Levitical priesthood and puts an end both to that and to the law.
+
+@c    7:1. For this Melchisedech was king of Salem, priest of the most high
+@c    God, who met Abraham returning from the slaughter of the kings and
+@c    blessed him:
+
+@c    7:2. To whom also Abraham divided the tithes of all:  who first indeed
+@c    by interpretation is king of justice:  and then also king of Salem, that
+@c    is, king of peace:
+
+@c    7:3. Without father, without mother, without genealogy, having neither
+@c    beginning of days nor end of life, but likened unto the Son of God,
+@c    continueth a priest for ever.
+
+@c    Without father, etc. . .Not that he had no father, etc., but that
+@c    neither his father, nor his pedigree, nor his birth, nor his death, are
+@c    set down in scripture.
+
+@c    7:4. Now consider how great this man is, to whom also Abraham the
+@c    patriarch gave tithes out of the principal things.
+
+@c    7:5. And indeed they that are of the sons of Levi, who receive the
+@c    priesthood, have a commandment to take tithes of the people according
+@c    to the law, that is to say, of their brethren:  though they themselves
+@c    also came out of the loins of Abraham.
+
+@c    7:6. But he, whose pedigree is not numbered among them, received tithes
+@c    of Abraham and blessed him that had the promises.
+
+@c    7:7. And without all contradiction, that which is less is blessed by
+@c    the better.
+
+@c    7:8. And here indeed, men that die receive tithes:  but there, he hath
+@c    witness that he liveth.
+
+@c    7:9. And (as it may be said) even Levi who received tithes paid tithes
+@c    in Abraham:
+
+@c    7:10. For he was yet in the loins of his father when Melchisedech met
+@c    him.
+
+@c    7:11. If then perfection was by the Levitical priesthood (for under it
+@c    the people received the law), what further need was there that another
+@c    priest should rise according to the order of Melchisedech:  and not be
+@c    called according to the order of Aaron?
+
+@c    7:12. For the priesthood being translated, it is necessary that a
+@c    translation also be made of the law,
+
+@c    7:13. For he of whom these things are spoken is of another tribe, of
+@c    which no one attended on the altar.
+
+@c    7:14. For it is evident that our Lord sprung out of Juda:  in which
+@c    tribe Moses spoke nothing concerning priests.
+
+@c    7:15. And it is yet far more evident:  if according to the similitude of
+@c    Melchisedech there ariseth another priest,
+
+@c    7:16. Who is made, not according to the law of a law of a carnal
+@c    commandment, but according to the power of an indissoluble life.
+
+@c    7:17. For he testifieth:  Thou art a priest for ever according to the
+@c    order of Melchisedech.
+
+@c    7:18. There is indeed a setting aside of the former commandment,
+@c    because of the weakness and unprofitableness thereof:
+
+@c    7:19. For the law brought nothing to perfection:  but a bringing in of a
+@c    better hope, by which we draw nigh to God.
+
+@c    7:20. And inasmuch as it is not without an oath (for the others indeed
+@c    were made priests without an oath:
+
+@c    7:21. But this with an oath, by him that said unto him:  The Lord hath
+@c    sworn and he will not repent:  Thou art a priest for ever).
+
+@c    7:22. By so much is Jesus made a surety of a better testament.
+
+@c    7:23. And the others indeed were made many priests, because by reason
+@c    of death they were not suffered to continue:
+
+@c    Many priests, etc. . .The apostle notes this difference between the high
+@c    priests of the law, and our high priest Jesus Christ; that they being
+@c    removed by death, made way for their successors; whereas our Lord Jesus
+@c    is a priest for ever, and hath no successor; but liveth and concurreth
+@c    for ever with his ministers, the priests of the new testament, in all
+@c    their functions.  Also, that no one priest of the law, nor all of them
+@c    together, could offer that absolute sacrifice of everlasting
+@c    redemption, which our one high priest Jesus Christ has offered once,
+@c    and for ever.
+
+@c    7:24. But this, for that he continueth for ever, hath an everlasting
+@c    priesthood:
+
+@c    7:25. Whereby he is able also to save for ever them that come to God by
+@c    him; always living to make intercession for us.
+
+@c    Make intercession. . .Christ, as man, continually maketh intercession
+@c    for us, by representing his passion to his Father.
+
+@c    7:26. For it was fitting that we should have such a high priest, holy,
+@c    innocent, undefiled, separated from sinners, and made higher than the
+@c    heavens:
+
+@c    7:27. Who needeth not daily (as the other priests) to offer sacrifices,
+@c    first for his own sins, and then for the people's:  for this he did
+@c    once, in offering himself.
+
+@c    7:28. For the law maketh men priests, who have infirmity:  but the word
+@c    of the oath (which was since the law) the Son who is perfected for
+@c    evermore.
+
+
+
+@c    Hebrews Chapter 8
+
+
+@c    More of the excellence of the priesthood of Christ and of the New
+@c    Testament.
+
+@c    8:1. Now of the things which we have spoken, this is the sum:  We have
+@c    such an high priest who is set on the right hand of the throne of
+@c    majesty in the heavens,
+
+@c    8:2. A minister of the holies and of the true tabernacle, which the
+@c    Lord hath pitched, and not man.
+
+@c    The holies. . .That is, the sanctuary.
+
+@c    8:3. For every high priest is appointed to offer gifts and sacrifices:
+@c    wherefore it is necessary that he also should have some thing to offer.
+
+@c    8:4. If then he were on earth, he would not be a priest:  seeing that
+@c    there would be others to offer gifts according to the law.
+
+@c    If then he were on earth, etc. . .That is, if he were not of a higher
+@c    condition than the Levitical order of earthly priests, and had not
+@c    another kind of sacrifice to offer, he should be excluded by them from
+@c    the priesthood, and its functions, which by the law were appropriated
+@c    to their tribe.
+
+@c    8:5. Who serve unto the example and shadow of heavenly things.  As it
+@c    was answered to Moses, when he was to finish the tabernacle:  See (saith
+@c    he) that thou make all things according to the pattern which was shewn
+@c    thee on the mount.
+
+@c    Who serve unto, etc. . .The priesthood of the law and its functions were
+@c    a kind of an example and shadow of what is done by Christ in his church
+@c    militant and triumphant, of which the tabernacle was a pattern.
+
+@c    8:6. But now he hath obtained a better ministry, by how much also he is
+@c    a mediator of a better testament which is established on better
+@c    promises.
+
+@c    8:7. For if that former had been faultless, there should not indeed a
+@c    place have been sought for a second.
+
+@c    8:8. For, finding fault with them, he saith:  Behold the days shall
+@c    come, saith the Lord:  and I will perfect, unto the house of Israel and
+@c    unto the house of Juda, a new testament:
+
+@c    8:9. Not according to the testament which I made to their fathers, on
+@c    the day when I took them by the hand to lead them out of the land of
+@c    Egypt:  because they continued not in my testament:  and I regarded them
+@c    not, saith the Lord.
+
+@c    8:10. For this is the testament which I will make to the house of
+@c    Israel after those days, saith the Lord:  I will give my laws into their
+@c    mind:  and in their heart will I write them.  And I will be their God:
+@c    and they shall be my people.
+
+@c    8:11. And they shall not teach every man his neighbour and every man
+@c    his brother, saying:  Know the Lord.  For all shall know me, from the
+@c    least to the greatest of them.
+
+@c    They shall not teach, etc. . .So great shall be light and grace of the
+@c    new testament, that it shall not be necessary to inculcate to the
+@c    faithful the belief and knowledge of the true God, for they shall all
+@c    know him.
+
+@c    8:12. Because I will be merciful to their iniquities:  and their sins I
+@c    will remember no more.
+
+@c    8:13. Now in saying a new, he hath made the former old.  And that which
+@c    decayeth and groweth old is near its end.
+
+@c    A new. . .Supply 'covenant'.
+
+
+
+@c    Hebrews Chapter 9
+
+
+@c    The sacrifices of the law were far inferior to that of Christ.
+
+@c    9:1. The former indeed had also justifications of divine service and a
+@c    sanctuary.
+
+@c    9:2. For there was a tabernacle made the first, wherein were the
+@c    candlesticks and the table and the setting forth of loaves, which is
+@c    called the Holy.
+
+@c    9:3. And after the second veil, the tabernacle which is called the Holy
+@c    of Holies:
+
+@c    9:4. Having a golden censer and the ark of the testament covered about
+@c    on every part with gold, in which was a golden pot that had manna and
+@c    the rod of Aaron that had blossomed and the tables of the testament.
+
+@c    9:5. And over it were the cherubims of glory overshadowing the
+@c    propitiatory:  of which it is not needful to speak now particularly.
+
+@c    9:6. Now these things being thus ordered, into the first tabernacle,
+@c    the priests indeed always entered, accomplishing the offices of
+@c    sacrifices.
+
+@c    9:7. But into the second, the high priest alone, once a year:  not
+@c    without blood, which he offereth for his own and the people's
+@c    ignorance:
+
+@c    9:8. The Holy Ghost signifying this:  That the way into the Holies was
+@c    not yet made manifest, whilst the former tabernacle was yet standing.
+
+@c    9:9. Which is a parable of the time present:  according to which gifts
+@c    and sacrifices are offered, which cannot, as to the conscience, make
+@c    him perfect that serveth, only in meats and in drinks,
+
+@c    9:10. And divers washings and justices of the flesh laid on them until
+@c    the time of correction.
+
+@c    Of correction. . .Viz., when Christ should correct and settle all
+@c    things.
+
+@c    9:11. But Christ, being come an high Priest of the good things to come,
+@c    by a greater and more perfect tabernacle, not made with hand, that is,
+@c    not of this creation:
+
+@c    9:12. Neither by the blood of goats or of calves, but by his own blood,
+@c    entered once into the Holies, having obtained eternal redemption.
+
+@c    Eternal redemption. . .By that one sacrifice of his blood, once offered
+@c    on the cross, Christ our Lord paid and exhibited, once for all, the
+@c    general price and ransom of all mankind:  which no other priest could
+@c    do.
+
+@c    9:13. For if the blood of goats and of oxen, and the ashes of an
+@c    heifer, being sprinkled, sanctify such as are defiled, to the cleansing
+@c    of the flesh:
+
+@c    9:14. How much more shall the blood of Christ, who by the Holy Ghost
+@c    offered himself unspotted unto God, cleanse our conscience from dead
+@c    works, to serve the living God?
+
+@c    9:15. And therefore he is the mediator of the new testament:  that by
+@c    means of his death for the redemption of those transgressions which
+@c    were under the former testament, they that are called may receive the
+@c    promise of eternal inheritance.
+
+@c    9:16. For where there is a testament the death of the testator must of
+@c    necessity come in.
+
+@c    9:17. For a testament is of force after men are dead:  otherwise it is
+@c    as yet of no strength, whilst the testator liveth.
+
+@c    9:18. Whereupon neither was the first indeed dedicated without blood.
+
+@c    9:19. For when every commandment of the law had been read by Moses to
+@c    all the people, he took the blood of calves and goats, with water, and
+@c    scarlet wool and hyssop, and sprinkled both the book itself and all the
+@c    people.
+
+@c    9:20. Saying:  This is the blood of the testament which God hath
+@c    enjoined unto you.
+
+@c    9:21. The tabernacle also and all the vessels of the ministry, in like
+@c    manner, he sprinkled with blood.
+
+@c    9:22. And almost all things, according to the law, are cleansed with
+@c    blood:  and without shedding of blood there is no remission.
+
+@c    9:23. It is necessary therefore that the patterns of heavenly things
+@c    should be cleansed with these:  but the heavenly things themselves with
+@c    better sacrifices than these.
+
+@c    9:24. For Jesus is not entered into the Holies made with hands, the
+@c    patterns of the true:  but into Heaven itself, that he may appear now in
+@c    the presence of God for us.
+
+@c    9:25. Nor yet that he should offer himself often, as the high priest
+@c    entereth into the Holies every year with the blood of others:
+
+@c    Offer himself often. . .Christ shall never more offer himself in
+@c    sacrifice, in that violent, painful, and bloody manner, nor can there
+@c    be any occasion for it:  since by that one sacrifice upon the cross, he
+@c    has furnished the full ransom, redemption, and remedy for all the sins
+@c    of the world.  But this hinders not that he may offer himself daily in
+@c    the sacred mysteries in an unbloody manner, for the daily application
+@c    of that one sacrifice of redemption to our souls.
+
+@c    9:26. For then he ought to have suffered often from the beginning of
+@c    the world.  But now once, at the end of ages, he hath appeared for the
+@c    destruction of sin by the sacrifice of himself.
+
+@c    9:27. And as it is appointed unto men once to die, and after this the
+@c    judgment:
+
+@c    9:28. So also Christ was offered once to exhaust the sins of many.  The
+@c    second time he shall appear without sin to them that expect him unto
+@c    salvation.
+
+@c    To exhaust. . .That is, to empty, or draw out to the very bottom, by a
+@c    plentiful and perfect redemption.
+
+
+
+@c    Hebrews Chapter 10
+
+
+@c    Because of the insufficiency of the sacrifices of the law, Christ our
+@c    high priest shed his own blood for us, offering up once for all the
+@c    sacrifice of our redemption.  He exhorts them to perseverance.
+
+@c    10:1. For the law, having a shadow of the good things to come, not the
+@c    very image of the things, by the selfsame sacrifices which they offer
+@c    continually every year, can never make the comers thereunto perfect.
+
+@c    10:2. For then they would have ceased to be offered:  because the
+@c    worshippers once cleansed should have no conscience of sin any longer.
+
+@c    They would have ceased. . .If they had been of themselves perfect to all
+@c    the intents of redemption and remission, as Christ's death is there
+@c    would have been no occasion of so often repeating them:  as there is no
+@c    occasion for Christ's dying any more for our sins.
+
+@c    10:3. But in them there is made a commemoration of sins every year:
+
+@c    10:4. For it is impossible that with the blood of oxen and goats sin
+@c    should be taken away.
+
+@c    10:5. Wherefore, when he cometh into the world he saith:  Sacrifice and
+@c    oblation thou wouldest not:  but a body thou hast fitted to me.
+
+@c    10:6. Holocausts for sin did not please thee.
+
+@c    10:7. Then said I:  Behold I come:  in the head of the book it is written
+@c    of me:  that I should do thy will, O God.
+
+@c    10:8. In saying before, Sacrifices, and oblations, and holocausts for
+@c    sin thou wouldest not, neither are they pleasing to thee, which are
+@c    offered according to the law.
+
+@c    10:9. Then said I:  Behold, I come to do thy will, O God:  He taketh away
+@c    the first, that he may establish that which followeth.
+
+@c    10:10. In the which will, we are sanctified by the oblation of the body
+@c    of Jesus Christ once.
+
+@c    10:11. And every priest indeed standeth daily ministering and often
+@c    offering the same sacrifices which can never take away sins.
+
+@c    10:12. But this man, offering one sacrifice for sins, for ever sitteth
+@c    on the right hand of God,
+
+@c    10:13. From henceforth expecting until his enemies be made his
+@c    footstool.
+
+@c    10:14. For by one oblation he hath perfected for ever them that are
+@c    sanctified.
+
+@c    10:15. And the Holy Ghost also doth testify this to us.  For after that
+@c    he said:
+
+@c    10:16. And this is the testament which I will make unto them after
+@c    those days, saith the Lord.  I will give my laws in their hearts and on
+@c    their minds will I write them:
+
+@c    10:17. And their sins and iniquities I will remember no more.
+
+@c    10:18. Now, where there is a remission of these, there is no more an
+@c    oblation for sin.
+
+@c    There is no more an oblation for sin. . .Where there is a full remission
+@c    of sins, as in baptism, there is no more occasion for a sin offering to
+@c    be made for such sins already remitted; and as for sins committed
+@c    afterwards, they can only be remitted in virtue of the one oblation of
+@c    Christ's death.
+
+@c    10:19. Having therefore, brethren, a confidence in the entering into
+@c    the holies by the blood of Christ:
+
+@c    10:20. A new and living way which he hath dedicated for us through the
+@c    veil, that is to say, his flesh:
+
+@c    10:21. And a high priest over the house of God:
+
+@c    10:22. Let us draw near with a true heart, in fulness of faith, having
+@c    our hearts sprinkled from an evil conscience and our bodies washed with
+@c    clean water.
+
+@c    10:23. Let us hold fast the confession of our hope without wavering
+@c    (for he is faithful that hath promised):
+
+@c    10:24. And let us consider one another, to provoke unto charity and to
+@c    good works:
+
+@c    10:25. Not forsaking our assembly, as some are accustomed:  but
+@c    comforting one anther, and so much the more as you see the day
+@c    approaching.
+
+@c    10:26. For if we sin wilfully after having the knowledge of the truth,
+@c    there is now left no sacrifice for sins:
+
+@c    If we sin wilfully. . .He speaks of the sin of wilful apostasy from the
+@c    known truth; after which, as we can not be baptized again, we can not
+@c    expect to have that abundant remission of sins, which Christ purchased
+@c    by his death, applied to our souls in that ample manner as it is in
+@c    baptism:  but we have rather all manner of reason to look for a dreadful
+@c    judgment; the more because apostates from the known truth, seldom or
+@c    never have the grace to return to it.
+
+@c    10:27. But a certain dreadful expectation of judgment, and the rage of
+@c    a fire which shall consume the adversaries.
+
+@c    10:28. A man making void the law of Moses dieth without any mercy under
+@c    two or three witnesses:
+
+@c    10:29. How much more, do you think he deserveth worse punishments, who
+@c    hath trodden under foot the Son of God and hath esteemed the blood of
+@c    the testament unclean, by which he was sanctified, and hath offered an
+@c    affront to the Spirit of grace?
+
+@c    10:30. For we know him that hath said:  Vengeance belongeth to me, and I
+@c    will repay.  And again:  The Lord shall judge his people.
+
+@c    10:31. It is a fearful thing to fall into the hands of the living God.
+
+@c    10:32. But call to mind the former days, wherein, being illuminated,
+@c    you endured a great fight of afflictions.
+
+@c    10:33. And on the one hand indeed, by reproaches and tribulations, were
+@c    made a gazingstock; and on the other, became companions of them that
+@c    were used in such sort.
+
+@c    10:34. For you both had compassion on them that were in bands and took
+@c    with joy the being stripped of your own goods, knowing that you have a
+@c    better and a lasting substance.
+
+@c    10:35. Do not therefore lose your confidence which hath a great reward.
+
+@c    10:36. For patience is necessary for you:  that, doing the will of God,
+@c    you may receive the promise.
+
+@c    10:37. For yet a little and a very little while, and he that is to come
+@c    will come and will not delay.
+
+@c    10:38. But my just man liveth by faith:  but if he withdraw himself, he
+@c    shall not please my soul.
+
+@c    10:39. But we are not the children of withdrawing unto perdition, but
+@c    of faith to the saving of the soul.
+
+
+
+@c    Hebrews Chapter 11
+
+
+@c    What faith is.  Its wonderful fruits and efficacy demonstrated in the
+@c    fathers.
+
+@c    11:1. Now, faith is the substance of things to be hoped for, the
+@c    evidence of things that appear not.
+
+@c    11:2. For by this the ancients obtained a testimony.
+
+@c    11:3. By faith we understand that the world was framed by the word of
+@c    God:  that from invisible things visible things might be made.
+
+@c    11:4. By faith Abel offered to God a sacrifice exceeding that of Cain,
+@c    by which he obtained a testimony that he was just, God giving testimony
+@c    to his gifts.  And by it he being dead yet speaketh.
+
+@c    11:5. By faith Henoch was translated that he should not see death:  and
+@c    he was not found because God had translated him.  For before his
+@c    translation he had testimony that he pleased God.
+
+@c    11:6. But without faith it is impossible to please God.  For he that
+@c    cometh to God must believe that he is:  and is a rewarder to them that
+@c    seek him.
+
+@c    11:7. By faith Noe, having received an answer concerning those things
+@c    which as yet were not seen, moved with fear, framed the ark for the
+@c    saving of his house:  by the which he condemned the world and was
+@c    instituted heir of the justice which is by faith.
+
+@c    11:8. By faith he that is called Abraham obeyed to go out into a place
+@c    which he was to receive for an inheritance.  And he went out, not
+@c    knowing whither he went.
+
+@c    He that is called Abraham. . .or, Abraham being called.
+
+@c    11:9. By faith he abode in the land of promise, as in a strange
+@c    country, dwelling in cottages, with Isaac and Jacob, the co-heirs of
+@c    the same promise.
+
+@c    11:10. For he looked for a city that hath foundations:  whose builder
+@c    and maker is God.
+
+@c    11:11. By faith also Sara herself, being barren, received strength to
+@c    conceive seed, even past the time of age:  because she believed that he
+@c    was faithful who had promised,
+
+@c    11:12. For which cause there sprung even from one (and him as good as
+@c    dead) as the stars of heaven in multitude and as the sand which is by
+@c    the sea shore innumerable.
+
+@c    11:13. All these died according to faith, not having received the
+@c    promises but beholding them afar off and saluting them and confessing
+@c    that they are pilgrims and strangers on the earth.
+
+@c    11:14. For they that say these things do signify that they seek a
+@c    country.
+
+@c    11:15. And truly, if they had been mindful of that from whence they
+@c    came out, they had doubtless, time to return.
+
+@c    11:16. But now they desire a better, that is to say, a heavenly
+@c    country.  Therefore, God is not ashamed to be called their God:  for he
+@c    hath prepared for them a city.
+
+@c    11:17. By faith Abraham, when he was tried, offered Isaac:  and he that
+@c    had received the promises offered up his only begotten son,
+
+@c    11:18. (To whom it was said:  In Isaac shalt thy seed be called:)
+
+@c    11:19. Accounting that God is able to raise up even from the dead.
+@c    Whereupon also he received him for a parable.
+
+@c    For a parable. . .That is, as a figure of Christ, slain and coming to
+@c    life again.
+
+@c    11:20. By faith also of things to come Isaac blessed Jacob and Esau.
+
+@c    11:21. By faith Jacob, dying, blessed each of the sons of Joseph and
+@c    adored the top of his rod.
+
+@c    Adored the top of his rod. . .The apostle here follows the ancient Greek
+@c    Bible of the seventy interpreters, (which translates in this manner,
+@c    Gen. 47. 31.,) and alleges this fact of Jacob, in paying a relative
+@c    honour and veneration to the top of the rod or sceptre of Joseph, as to
+@c    a figure of Christ's sceptre and kingdom, as an instance and argument
+@c    of his faith.  But some translators, who are no friends to this relative
+@c    honour, have corrupted the text, by translating it, he worshipped,
+@c    leaning upon the top of his staff; as if this circumstance of leaning
+@c    upon his staff were any argument of Jacob's faith, or worthy the being
+@c    thus particularly taken notice of by the Holy Ghost.
+
+@c    11:22. By faith Joseph, when he was dying, made mention of the going
+@c    out of the children of Israel and gave commandment concerning his
+@c    bones.
+
+@c    11:23. By faith Moses, when he was born, was hid three months by his
+@c    parents:  because they saw he was a comely babe, and they feared not the
+@c    king's edict.
+
+@c    11:24. By faith Moses, when he was grown up, denied himself to be the
+@c    son of Pharao's daughter:
+
+@c    11:25. Rather choosing to be afflicted with the people of God than to
+@c    have the pleasure of sin for a time:
+
+@c    11:26. Esteeming the reproach of Christ greater riches than the
+@c    treasure of the Egyptians.  For he looked unto the reward.
+
+@c    11:27. By faith he left Egypt, not fearing the fierceness of the king:
+@c    for he endured, as seeing him that is invisible.
+
+@c    11:28. By faith he celebrated the pasch and the shedding of the blood:
+@c    that he who destroyed the firstborn might not touch them.
+
+@c    11:29. By faith they passed through the Red Sea, as by dry land:  which
+@c    the Egyptians attempting, were swallowed up.
+
+@c    11:30. By faith the walls of Jericho fell down, by the going round them
+@c    seven days.
+
+@c    11:31. By faith Rahab the harlot perished not with the unbelievers,
+@c    receiving the spies with peace.
+
+@c    11:32. And what shall I yet say?  For the time would fail me to tell of
+@c    Gedeon, Barac, Samson, Jephthe, David, Samuel, and the prophets:
+
+@c    11:33. Who by faith conquered kingdoms, wrought justice, obtained
+@c    promises, stopped the mouths of lions,
+
+@c    11:34. Quenched the violence of fire, escaped the edge of the sword,
+@c    recovered strength from weakness, became valiant in battle, put to
+@c    flight the armies of foreigners.
+
+@c    11:35. Women received their dead raised to life again.  But others were
+@c    racked, not accepting deliverance, that they might find a better
+@c    resurrection.
+
+@c    11:36. And others had trial of mockeries and stripes:  moreover also of
+@c    bands and prisons.
+
+@c    11:37. They were stoned, they were cut asunder, they were tempted, they
+@c    were put to death by the sword, they wandered about in sheepskins, in
+@c    goatskins, being in want, distressed, afflicted:
+
+@c    11:38. Of whom the world was not worthy:  wandering in deserts, in
+@c    mountains and in dens and in caves of the earth.
+
+@c    11:39. And all these, being approved by the testimony of faith,
+@c    received not the promise:
+
+@c    11:40. God providing some better thing for us, that they should not be
+@c    perfected without us.
+
+
+
+@c    Hebrews Chapter 12
+
+
+@c    Exhortation to constancy under their crosses.  The danger of abusing the
+@c    graces of the New Testament.
+
+@c    12:1. And therefore we also having so great a cloud of witnesses over
+@c    our head, laying aside every weight and sin which surrounds us, let us
+@c    run by patience to the fight proposed to us:
+
+@c    12:2. Looking on Jesus, the author and finisher of faith, who, having
+@c    joy set before him, endured the cross, despising the shame, and now
+@c    sitteth on the right hand of the throne of God.
+
+@c    12:3. For think diligently upon him that endured such opposition from
+@c    sinners against himself that you be not wearied, fainting in your
+@c    minds.
+
+@c    12:4. For you have not yet resisted unto blood, striving against sin.
+
+@c    12:5. And you have forgotten the consolation which speaketh to you, as
+@c    unto children, saying:  My son, neglect not the discipline of the Lord:
+@c    neither be thou wearied whilst thou art rebuked by him.
+
+@c    12:6. For whom the Lord loveth he chastiseth:  and he scourgeth every
+@c    son whom he receiveth.
+
+@c    12:7. Persevere under discipline.  God dealeth with you as with his
+@c    sons.  For what son is there whom the father doth not correct?
+
+@c    12:8. But if you be without chastisement, whereof all are made
+@c    partakers, then are you bastards and not sons.
+
+@c    12:9. Moreover, we have had fathers of our flesh for instructors, and
+@c    we reverenced them.  Shall we not much more obey the Father of spirits
+@c    and live?
+
+@c    12:10. And they indeed for a few days, according to their own pleasure,
+@c    instructed us:  but he, for our profit, that we might receive his
+@c    sanctification.
+
+@c    12:11. Now all chastisement for the present indeed seemeth not to bring
+@c    with it joy, but sorrow:  but afterwards it will yield to them that are
+@c    exercised by it the most peaceable fruit of justice.
+
+@c    12:12. Wherefore, lift up the hands which hang down and the feeble
+@c    knees:
+
+@c    12:13. And make straight steps with your feet:  that no one, halting,
+@c    may go out of the way; but rather be healed.
+
+@c    12:14. Follow peace with all men and holiness:  without which no man
+@c    shall see God.
+
+@c    12:15. Looking diligently, lest any man be wanting to the grace of God:
+@c    lest any root of bitterness springing up do hinder and by it many be
+@c    defiled:
+
+@c    12:16. Lest there be any fornicator or profane person, as Esau who for
+@c    one mess sold his first birthright.
+
+@c    12:17. For know ye that afterwards, when he desired to inherit the
+@c    benediction, he was rejected.  For he found no place of repentance,
+@c    although with tears he had sought it.
+
+@c    He found, etc. . .That is, he found no way to bring his father to
+@c    repent, or change his mind, with relation to his having given the
+@c    blessing to his younger brother Jacob.
+
+@c    12:18. For you are not come to a mountain that might be touched and a
+@c    burning fire and a whirlwind and darkness and storm,
+
+@c    12:19. And the sound of a trumpet and the voice of words, which they
+@c    that had excused themselves, that the word might not be spoken to them.
+
+@c    12:20. For they did not endure that which was said:  and if so much as a
+@c    beast shall touch the mount, it shall be stoned.
+
+@c    12:21. And so terrible was that which was seen, Moses said:  I am
+@c    frighted, and tremble.
+
+@c    12:22. But you are come to mount Sion and to the city of the living
+@c    God, the heavenly Jerusalem, and to the company of many thousands of
+@c    angels,
+
+@c    12:23. And to the church of the firstborn who are written in the
+@c    heavens, and to God the judge of all, and to the spirits of the just
+@c    made perfect,
+
+@c    12:24. And to Jesus the mediator of the new testament, and to the
+@c    sprinkling of blood which speaketh better than that of Abel.
+
+@c    12:25. See that you refuse him not that speaketh.  For if they escaped
+@c    not who refused him that spoke upon earth, much more shall not we that
+@c    turn away from him that speaketh to us from heaven.
+
+@c    12:26. Whose voice then moved the earth; but now he promiseth, saying:
+@c    Yet once more:  and I will move, not only the earth, but heaven also.
+
+@c    12:27. And in that he saith:  Yet once more, he signifieth the
+@c    translation of the moveable things as made, that those things may
+@c    remain which are immoveable.
+
+@c    12:28. Therefore, receiving an immoveable kingdom, we have grace:
+@c    whereby let us serve, pleasing God, with fear and reverence.
+
+@c    12:29. For our God is a consuming fire.
+
+
+
+@c    Hebrews Chapter 13
+
+
+@c    Divers admonitions and exhortations.
+
+@c    13:1. Let the charity of the brotherhood abide in you.
+
+@c    13:2. And hospitality do not forget:  for by this some, being not aware
+@c    of it, have entertained angels.
+
+@c    13:3. Remember them that are in bands, as if you were bound with them:
+@c    and them that labour, as being yourselves also in the body.
+
+@c    13:4. Marriage honourable in all, and the bed undefiled.  For
+@c    fornicators and adulterers God will judge.
+
+@c    Or, Let marriage be honourable in all. . .That is, in all things
+@c    belonging to the marriage state.  This is a warning to married people,
+@c    not to abuse the sanctity of their state, by any liberties or
+@c    irregularities contrary thereunto.  Now it does not follow from this
+@c    text that all persons are obliged to marry, even if the word omnibus
+@c    were rendered, in all persons, instead of in all things:  for if it was
+@c    a precept, St. Paul himself would have transgressed it, as he never
+@c    married.  Moreover, those who have already made a vow to God to lead a
+@c    single life, should they attempt to marry, they would incur their own
+@c    damnation.  1 Tim. 5. 12.
+
+@c    13:5. Let your manners be without covetousness, contented with such
+@c    things as you have.  For he hath said:  I will not leave thee:  neither
+@c    will I forsake thee.
+
+@c    13:6. So that we may confidently say:  The Lord is my helper:  I will not
+@c    fear what man shall do to me.
+
+@c    13:7. Remember your prelates who have spoken the word of God to you:
+@c    whose faith follow, considering the end of their conversation,
+
+@c    13:8. Jesus Christ, yesterday, and today:  and the same for ever.
+
+@c    13:9. Be not led away with various and strange doctrines.  For it is
+@c    best that the heart be established with grace, not with meats:  which
+@c    have not profited those that walk in them.
+
+@c    13:10. We have an altar whereof they have no power to eat who serve the
+@c    tabernacle.
+
+@c    13:11. For the bodies of those beasts whose blood is brought into the
+@c    holies by the high priest for sin are burned without the camp.
+
+@c    13:12. Wherefore Jesus also, that he might sanctify the people by his
+@c    own blood, suffered without the gate.
+
+@c    13:13. Let us go forth therefore to him without the camp, bearing his
+@c    reproach.
+
+@c    Let us go forth therefore to him without the camp, bearing his
+@c    reproach. . .That is, bearing his cross.  It is an exhortation to them to
+@c    be willing to suffer with Christ, reproaches, persecutions, and even
+@c    death, if they desire to partake of the benefit of his suffering for
+@c    man's redemption.
+
+@c    13:14. For, we have not here a lasting city:  but we seek one that is to
+@c    come.
+
+@c    13:15. By him therefore let us offer the sacrifice of praise always to
+@c    God, that is to say, the fruit of lips confessing to his name.
+
+@c    13:16. And do not forget to do good and to impart:  for by such
+@c    sacrifices God's favour is obtained.
+
+@c    13:17. Obey your prelates and be subject to them.  For they watch as
+@c    being to render an account of your souls:  that they may do this with
+@c    joy and not with grief.  For this is not expedient for you.
+
+@c    13:18. Pray for us.  For we trust we have a good conscience, being
+@c    willing to behave ourselves well in all things.
+
+@c    13:19. And I beseech you the more to do this, that I may be restored to
+@c    you the sooner.
+
+@c    13:20. And may the God of peace, who brought again from the dead the
+@c    great pastor of the sheep, our Lord Jesus Christ, in the blood of the
+@c    everlasting testament,
+
+@c    13:21. Fit you in all goodness, that you may do his will; doing in you
+@c    that which is well pleasing in his sight, through Jesus Christ, to whom
+@c    is glory for ever and ever.  Amen.
+
+@c    13:22. And I beseech you, brethren, that you suffer this word of
+@c    consolation.  For I have written to you in a few words.
+
+@c    13:23. Know ye that our brother Timothy is set at liberty:  with whom
+@c    (if he come shortly) I will see you.
+
+@c    13:24. Salute all your prelates and all the saints.  The brethren from
+@c    Italy salute you.
+
+@c    13:25. Grace be with you all.  Amen.

@@ -1,0 +1,173 @@
+@node pamo'o, remo'o, le fukpi, Top
+
+@menu
+* papipamo'o::	[The Book Of Genesis]
+@end menu
+
+@c    
+@c    
+@c    The Old Testament
+@c    
+@c      Book of Genesis
+@c      Book of Exodus
+@c      Book of Leviticus
+@c      Book of Numbers
+@c      Book of Deuteronomy
+@c      Book of Josue
+@c      Book of Judges
+@c      Book of Ruth
+@c      First Book of Samuel, alias 1 Kings
+@c      Second Book of Samuel, alias 2 Kings
+@c      Third Book of Kings
+@c      Fourth Book of Kings
+@c      First Book of Paralipomenon
+@c      Second Book of Paralipomenon
+@c      First Book of Esdras
+@c      Book of Nehemias, alias 2 Esdras
+@c      Book of Tobias
+@c      Book of Judith
+@c      Book of Esther
+@c      Book of Job
+@c      Book of Psalms
+@c      Book of Proverbs
+@c      Ecclesiastes
+@c      Solomon's Canticle of Canticles
+@c      Book of Wisdom
+@c      Ecclesiasticus
+@c      Prophecy of Isaias
+@c      Prophecy of Jeremias
+@c      Lamentations of Jeremias
+@c      Prophecy of Baruch
+@c      Prophecy of Ezechiel
+@c      Prophecy of Daniel
+@c      Prophecy of Osee
+@c      Prophecy of Joel
+@c      Prophecy of Amos
+@c      Prophecy of Abdias
+@c      Prophecy of Jonas
+@c      Prophecy of Micheas
+@c      Prophecy of Nahum
+@c      Prophecy of Habacuc
+@c      Prophecy of Sophonias
+@c      Prophecy of Aggeus
+@c      Prophecy of Zacharias
+@c      Prophecy of Malachias
+@c      First Book of Machabees
+@c      Second Book of Machabees
+
+
+@c    THE HOLY BIBLE
+@c    
+@c    
+@c    
+@c    
+@c    Translated from the Latin Vulgate
+@c    
+@c    
+@c    Diligently Compared with the Hebrew, Greek,
+@c    and Other Editions in Divers Languages
+@c    
+@c    
+@c    THE OLD TESTAMENT
+@c    First Published by the English College at Douay
+@c    A.D. 1609 & 1610
+@c    
+@c    and
+@c    
+@c    THE NEW TESTAMENT
+@c    First Published by the English College at Rheims
+@c    A.D. 1582
+@c    
+@c    
+@c    With Annotations
+@c    
+@c    
+@c    The Whole Revised and Diligently Compared with
+@c    the Latin Vulgate by Bishop Richard Challoner
+@c    A.D. 1749-1752
+@c    
+@c    
+@c    
+@c    
+@c    CREDITS
+@c    
+@c    
+@c    Without the assistance of many individuals and groups, this text of the
+@c    Douay-Rheims Version of the Holy Bible would not be available for the
+@c    Project Gutenberg collection.  Our most grateful and sincere thanks goes
+@c    to those at 'Catholic Software' who have provided the electronic plain
+@c    texts of the 73 books of the Bible.  'Catholic Software' also produces a
+@c    Douay Bible program on CD-ROM that features a fully searchable Douay-
+@c    Rheims Bible, footnotes, Latin text and dictionary, topical index, maps,
+@c    Biblical art gallery, and other features.  For more information of this
+@c    and many other products contact:
+@c    
+@c    Catholic Software
+@c    Box 1914
+@c    Murray, KY 42071
+@c    (502) 753-8198
+@c    http://www.catholicity.com/market/CSoftware/
+@c    waubrey@aol.com
+@c    
+@c    Additional production assistance has been provided by volunteers from
+@c    the Atlanta Council of the Knights of Columbus.  Tad Book compiled and
+@c    reformatted the texts to Project Gutenberg standards.  Dennis McCarthy
+@c    assisted Mr. Book and transcribed selections from the first editions
+@c    included as appendices.
+@c    
+@c    
+@c    
+@c    
+@c    HISTORY
+@c    
+@c    
+@c    This e-text comes from multiple editions of Challoner's revised Douay-
+@c    Rheims Version of the Holy Bible.  In 1568 English exiles, many from
+@c    Oxford, established the English College of Douay (Douai/Doway), Flanders,
+@c    under William (later Cardinal) Allen.  In October, 1578, Gregory Martin
+@c    began the work of preparing an English translation of the Bible for
+@c    Catholic readers, the first such translation into Modern English.
+@c    Assisting were William Allen, Richard Bristow, Thomas Worthington, and
+@c    William Reynolds who revised, criticized, and corrected Dr. Martin's
+@c    work.  The college published the New Testament at Rheims (Reims/Rhemes),
+@c    France, in 1582 through John Fogny with a preface and explanatory notes,
+@c    authored chiefly by Bristol, Allen, and Worthington.  Later the Old
+@c    Testament was published at Douay in two parts (1609 and 1610) by Laurence
+@c    Kellam through the efforts of Dr. Worthington, then superior of the
+@c    seminary.  The translation had been prepared before the appearance of the
+@c    New Testament, but the publication was delayed due to financial
+@c    difficulties.  The religious and scholarly adherence to the Latin Vulgate
+@c    text led to the less elegant and idiomatic words and phrases often found
+@c    in the translation.  In some instances where no English word conveyed the
+@c    full meaning of the Latin, a Latin word was Anglicized and its meaning
+@c    defined in a glossary.  Although ridiculed by critics, many of these
+@c    words later found common usage in the English language.  Spellings of
+@c    proper names and the numbering of the Psalms are adopted from the Latin
+@c    Vulgate.
+@c    
+@c    In 1749 Dr. Richard Challoner began a major revision of the Douay and
+@c    Rheims texts, the spellings and phrasing of which had become increasingly
+@c    archaic in the almost two centuries since the translations were first
+@c    produced.  He modernized the diction and introduced a more fluid style,
+@c    while faithfully maintaining the accuracy of Dr. Martin's texts.  This
+@c    revision became the 'de facto' standard text for English speaking
+@c    Catholics until the twentieth century.  It is still highly regarded by
+@c    many for its style, although it is now rarely used for liturgical
+@c    purposes.  The notes included in this electronic edition are generally
+@c    attributed to Bishop Challoner.
+@c    
+@c    The 1610 printing of the second tome of the Old Testament includes an
+@c    appendix containing the non-canonical books 'Prayer of Manasses,' 'Third
+@c    Booke of Esdras,' and 'Fourth Booke of Esdras.'  While not part of
+@c    Challoner's revision, the 1610 texts are placed in the appendices of
+@c    this e-text.  Also included are the original texts of two short books,
+@c    'The Prophecie of Abdias' and 'The Catholike Epistle of Iude the
+@c    Apostle,' to give the reader a sense of the language of the first
+@c    editions in comparison to the Challoner revision.  Further background on
+@c    the Douay-Rheims version may be found in a selection from the preface to
+@c    the 1582 edition and the original glossary included in the appendices.
+@c    
+@c    
+@c    
+@c    
+@c    CONTENTS

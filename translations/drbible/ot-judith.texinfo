@@ -1,0 +1,1432 @@
+@c    THE BOOK OF JUDITH
+
+
+
+@c    The sacred writer of this Book is generally believed to be the high
+@c    priest Eliachim (called also Joachim).  The transactions herein related,
+@c    most probably happened in his days, and in the reign of Manasses, after
+@c    his repentance and return from captivity.  It takes its name from that
+@c    illustrious woman, by whose virtue and fortitude, and armed with
+@c    prayer, the children of Israel were preserved from the destruction
+@c    threatened them by Holofernes and his great army.  It finishes with her
+@c    canticle of thanksgiving to God.
+
+
+
+@c    Judith Chapter 1
+
+
+@c    Nabuchodonosor king of the Assyrians overcometh Arphaxad king of the
+@c    Medes.
+
+@c    1:1. Now Arphaxad king of the Medes had brought many nations under his
+@c    dominions, and he built a very strong city, which he called Ecbatana,
+
+@c    Arphaxad. . .He was probably the same as is called Dejoces by Herodotus;
+@c    to whom he attributes the building of Ecbatana, the capital city of
+@c    Media.
+
+@c    1:2. Of stones squared and hewed:  he made the walls thereof seventy
+@c    cubits broad, and thirty cubits high, and the towers thereof he made a
+@c    hundred cubits high.  But on the square of them, each side was extended
+@c    the space of twenty feet.
+
+@c    1:3. And he made the gates thereof according to the height of the
+@c    towers:
+
+@c    1:4. And he gloried as a mighty one in the force of his army and in the
+@c    glory of his chariots.
+
+@c    1:5. Now in the twelfth year of his reign, Nabuchodonosor king of the
+@c    Assyrians, who reigned in Ninive the great city, fought against
+@c    Arphaxad and overcame him,
+
+@c    Nabuchodonosor. . .Not the king of Babylon, who took and destroyed
+@c    Jerusalem, but another of the same name, who reigned in Ninive:  and is
+@c    called by profane historians Saosduchin.  He succeeded Asarhaddan in the
+@c    kingdom of the Assyrians, and was contemporary with Manasses king of
+@c    Juda.
+
+@c    1:6. In the great plain which is called Ragua, about the Euphrates, and
+@c    the Tigris, and the Jadason, in the plain of Erioch the king of the
+@c    Elicians.
+
+@c    1:7. Then was the kingdom of Nabuchodonosor exalted, and his heart was
+@c    elevated:  and he sent to all that dwelt in Cilicia and Damascus, and
+@c    Libanus,
+
+@c    1:8. And to the nations that are in Carmelus, and Cedar, and to the
+@c    inhabitants of Galilee in the great plain of Asdrelon,
+
+@c    1:9. And to all that were in Samaria, and beyond the river Jordan even
+@c    to Jerusalem, and all the land of Jesse till you come to the borders of
+@c    Ethiopia.
+
+@c    1:10. To all these Nabuchodonosor king of the Assyrians, sent
+@c    messengers:
+
+@c    1:11. But they all with one mind refused, and sent them back empty, and
+@c    rejected them without honour.
+
+@c    1:12. Then king Nabuchodonosor being angry against all that land, swore
+@c    by his throne and kingdom that he would revenge himself of all those
+@c    countries.
+
+
+
+@c    Judith Chapter 2
+
+
+@c    Nabuchodonosor sendeth Holofernes to waste the countries of the west.
+
+@c    2:1. In the thirteenth year of the reign of Nabuchodonosor, the two and
+@c    twentieth day of the first month, the word was given out in the house
+@c    of Nabuchodonosor king of the Assyrians, that he would revenge himself.
+
+@c    2:2. And he called all the ancients, and all the governors, and his
+@c    officers of war, and communicated to them the secret of his counsel:
+
+@c    2:3. And he said that his thoughts were to bring all the earth under
+@c    his empire.
+
+@c    2:4. And when this saying pleased them all, Nabuchodonosor, the king,
+@c    called Holofernes the general of his armies,
+
+@c    2:5. And said to him:  Go out against all the kingdoms of the west, and
+@c    against them especially that despised my commandment.
+
+@c    2:6. Thy eye shall not spare any kingdom, and all the strong cities
+@c    thou shalt bring under my yoke.
+
+@c    2:7. Then Holofernes called the captains, and officers of the power of
+@c    the Assyrians:  and he mustered men for the expedition, and the king
+@c    commanded him, a hundred and twenty thousand fighting men on foot, and
+@c    twelve thousand archers, horsemen.
+
+@c    2:8. And he made all his warlike preparations to go before with a
+@c    multitude of innumerable camels, with all provisions sufficient for the
+@c    armies in abundance, and herds of oxen, and flocks of sheep, without
+@c    number.
+
+@c    2:9. He appointed corn to be prepared out of all Syria in his passage.
+
+@c    2:10. But gold and silver he took out of the king's house in great
+@c    abundance.
+
+@c    2:11. And he went forth he and all the army, with the chariots, and
+@c    horsemen, and archers, who covered the face of the earth, like locusts.
+
+@c    2:12. And when he had passed through the borders of the Assyrians, he
+@c    came to the great mountains of Ange, which are on the left of Cilicia:
+@c    and he went up to all their castles, and took all the strong places.
+
+@c    2:13. And he took by assault the renowned city of Melothus, and
+@c    pillaged all the children of Tharsis, and the children of Ismahel, who
+@c    were over against the face of the desert, and on the south of the land
+@c    of Cellon.
+
+@c    2:14. And he passed over the Euphrates and came into Mesopotamia:  and
+@c    he forced all the stately cities that were there, from the torrent of
+@c    Mambre, till one comes to the sea:
+
+@c    2:15. And he took the borders thereof, from Cilicia to the coasts of
+@c    Japheth, which are towards the south.
+
+@c    2:16. And he carried away all the children of Madian, and stripped them
+@c    of all their riches, and all that resisted him he slew with the edge of
+@c    the sword.
+
+@c    2:17. And after these things he went down into the plains of Damascus
+@c    in the days of the harvest, and he set all the corn on fire, and he
+@c    caused all the trees and vineyards to be cut down.
+
+@c    2:18. And the fear of them fell upon all the inhabitants of the land.
+
+
+
+@c    Judith Chapter 3
+
+
+@c    Many submit themselves to Holofernes.  He destroyeth their cities, and
+@c    their gods, that Nabuchodonosor only might be called God.
+
+@c    3:1. Then the kings and the princes of all the cities and provinces, of
+@c    Syria, Mesopotamia, and Syria Sobal, and Libya, and Cilicia sent their
+@c    ambassadors, who coming to Holofernes, said:
+
+@c    3:2. Let thy indignation towards us cease, for it is better for us to
+@c    live and serve Nabuchodonosor the great king, and be subject to thee,
+@c    than to die and to perish, or suffer the miseries of slavery.
+
+@c    3:3. All our cities and our possessions, all mountains and hills, and
+@c    fields, and herds of oxen, and flocks of sheep, and goats, and horses,
+@c    and camels, and all our goods, and families are in thy sight:
+
+@c    3:4. Let all we have be subject to thy law,
+
+@c    3:5. Both we and our children are thy servants.
+
+@c    3:6. Come to us a peaceable lord, and use our service as it shall
+@c    please thee,
+
+@c    3:7. Then he came down from the mountains with horsemen, in great
+@c    power, and made himself master of every city, and all the inhabitants
+@c    of the land.
+
+@c    3:8. And from all the cities he took auxiliaries valiant men, and
+@c    chosen for war,
+
+@c    3:9. And so great a fear lay upon all those provinces, that the
+@c    inhabitants of all the cities, both princes and nobles, as well as the
+@c    people, went out to meet him at his coming.
+
+@c    3:10. And received him with garlands, and lights, and dances, and
+@c    timbrels, and flutes.
+
+@c    3:11. And though they did these things, they could not for all that
+@c    mitigate the fierceness of his heart:
+
+@c    3:12. For he both destroyed their cities, and cut down their groves.
+
+@c    3:13. For Nabuchodonosor the king had commanded him to destroy all the
+@c    gods of the earth, that he only might be called God by those nations
+@c    which could be brought under him by the power of Holofernes.
+
+@c    3:14. And when he had passed through all Syria Sobal, and all Apamea,
+@c    and all Mesopotamia, he came to the Idumeans into the land of Gabaa,
+
+@c    3:15. And he took possession of their cities, and stayed there for
+@c    thirty days, in which days he commanded all the troops of his army to
+@c    be united.
+
+
+
+@c    Judith Chapter 4
+
+
+@c    The children of Israel prepare themselves to resist Holofernes.  They
+@c    cry to the Lord for help.
+
+@c    4:1. Then the children of Israel, who dwelt in the land of Juda,
+@c    hearing these things, were exceedingly afraid of him.
+
+@c    4:2. Dread and horror seized upon their minds, lest he should do the
+@c    same to Jerusalem and to the temple of the Lord, that he had done to
+@c    other cities and their temples.
+
+@c    4:3. And they sent into all Samaria round about, as far as Jericho, and
+@c    seized upon all the tops of the mountains:
+
+@c    4:4. And they compassed their towns with walls and gathered together
+@c    corn for provision for war.
+
+@c    4:5. And Eliachim the priest wrote to all that were over against
+@c    Esdrelon, which faceth the great plain near Dothain, and to all by whom
+@c    there might be a passage of way, that they should take possession of
+@c    the ascents of the mountains, by which there might be any way to
+@c    Jerusalem, and should keep watch where the way was narrow between the
+@c    mountains.
+
+@c    4:6. And the children of Israel did as the priests of the Lord Eliachim
+@c    had appointed them.
+
+@c    4:7. And all the people cried to the Lord with great earnestness, and
+@c    they humbled their souls in fastings, and prayers, both they and their
+@c    wives.
+
+@c    4:8. And the priests put on haircloths, and they caused the little
+@c    children to lie prostrate before the temple of the Lord, and the altar
+@c    of the Lord they covered with haircloth.
+
+@c    4:9. And they cried to the Lord the God of Israel with one accord, that
+@c    their children might not be made a prey, and their wives carried off,
+@c    and their cities destroyed, and their holy things profaned, and that
+@c    they might not be made a reproach to the Gentiles.
+
+@c    4:10. Then Eliachim the high priest of the Lord went about all Israel
+@c    and spoke to them,
+
+@c    4:11. Saying:  Know ye that the Lord will hear your prayers, if you
+@c    continue with perseverance in fastings and prayers in the sight of the
+@c    Lord.
+
+@c    4:12. Remember Moses the servant of the Lord overcame Amalec that
+@c    trusted in his own strength, and in his power, and in his army, and in
+@c    his shields, and in his chariots, and in his horsemen, not by fighting
+@c    with the sword, but by holy prayers:
+
+@c    4:13. So all the enemies of Israel be, if you persevere in this work
+@c    which you have begun.
+
+@c    4:14. So they being moved by this exhortation of his, prayed to the
+@c    Lord, and continued in the sight of the Lord.
+
+@c    4:15. So that even they who offered the holocausts to the Lord, offered
+@c    the sacrifices to the Lord girded with haircloths, and with ashes upon
+@c    their head.
+
+@c    4:16. And they all begged of God with all their heart, that he would
+@c    visit his people Israel.
+
+
+
+@c    Judith Chapter 5
+
+
+@c    Achior gives Holofernes an account of the people of Israel.
+
+@c    5:1. And it was told Holofernes the general of the army of the
+@c    Assyrians, that the children of Israel prepared themselves to resist,
+@c    and had shut up the ways of the mountains.
+
+@c    5:2. And he was transported with exceeding great fury and indignation,
+@c    and he called all the princes of Moab and the leaders of Ammon.
+
+@c    5:3. And he said to them:  Tell me what is this people that besetteth
+@c    the mountains:  or what are their cities, and of what sort, and how
+@c    great:  also what is their power, or what is their multitude:  or who is
+@c    the king over their warfare:
+
+@c    5:4. And why they above all that dwell in the east, have despised us,
+@c    and have not come out to meet us, that they might receive us with
+@c    peace?
+
+@c    5:5. Then Achior captain of all the children of Ammon answering, said;
+@c    If thou vouchsafe, my lord, to hear, I will tell the truth in thy sight
+@c    concerning this people, that dwelleth in the mountains, and there shall
+@c    not a false word come out of my mouth.
+
+@c    5:6. This people is of the offspring of the Chaldeans.
+
+@c    5:7. They dwelt first in Mesopotamia, because they would not follow the
+@c    gods of their fathers, who were in the land of the Chaldeans.
+
+@c    5:8. Wherefore forsaking the ceremonies of their fathers, which
+@c    consisted in the worship of many gods,
+
+@c    5:9. They worshipped one God of heaven, who also commanded them to
+@c    depart from thence, and to dwell in Charan.  And when there was a famine
+@c    over all the land, they went down into Egypt, and there for four
+@c    hundred years were so multiplied, that the army of them could not be
+@c    numbered.
+
+@c    5:10. And when the king of Egypt oppressed them, and made slaves of
+@c    them to labour in clay and brick, in the building of his cities, they
+@c    cried to their Lord, and he struck the whole land of Egypt with divers
+@c    plagues.
+
+@c    5:11. And when the Egyptians had cast them out from them, and the
+@c    plague had ceased from them, and they had a mind to take them again,
+@c    and bring them back to their service,
+
+@c    5:12. The God of heaven opened the sea to them in their flight, so that
+@c    the waters were made to stand firm as a wall on either side, and they
+@c    walked through the bottom of the sea and passed it dry foot.
+
+@c    5:13. And when an innumerable army of the Egyptians pursued after them
+@c    in that place, they were so overwhelmed with the waters, that there was
+@c    not one left, to tell what had happened to posterity.
+
+@c    5:14. After they came out of the Red Sea, they abode in the deserts of
+@c    mount Sina, in which never man could dwell, or son of man rested.
+
+@c    5:15. There bitter fountains were made sweet for them to drink, and for
+@c    forty years they received food from heaven.
+
+@c    5:16. Wheresoever they went in without bow and arrow, and without
+@c    shield and sword, their God fought for them and overcame.
+
+@c    5:17. And there was no one that triumphed over this people, but when
+@c    they departed from the worship of the Lord their God.
+
+@c    5:18. But as often as beside their own God, they worshipped any other,
+@c    they were given to spoil and to the sword, and to reproach.
+
+@c    5:19. And as often as they were penitent for having revolted from the
+@c    worship of their God, the God of heaven gave them power to resist.
+
+@c    5:20. So they overthrew the king of the Chanaanites, and of the
+@c    Jebusites, and of the Pherezites, and of the Hethites, and of the
+@c    Hevites, and of the Amorrhites, and all the mighty ones in Hesebon, and
+@c    they possessed their lands, and their cities:
+
+@c    5:21. And as long as they sinned not in the sight of their God, it was
+@c    well with them:  for their God hateth iniquity.
+
+@c    5:22. And even some years ago when they had revolted from the way which
+@c    God had given them to walk therein, they were destroyed in battles by
+@c    many nations and very many of them were led away captive into a strange
+@c    land.
+
+@c    5:23. But of late returning to the Lord their God, from the different
+@c    places wherein they were scattered, they are come together and are gone
+@c    up into all these mountains, and possess Jerusalem again, where their
+@c    holies are.
+
+@c    5:24. Now therefore, my lord, search if there be any iniquity of theirs
+@c    in the sight of their God:  let us go up to them, because their God will
+@c    surely deliver them to thee, and they shall be brought under the yoke
+@c    of thy power:
+
+@c    5:25. But if there be no offence of this people in the sight of their
+@c    God, we cannot resist them because their God will defend them:  and we
+@c    shall be a reproach to the whole earth.
+
+@c    5:26. And it came to pass, when Achior had ceased to speak these words,
+@c    all the great men of Holofernes were angry, and they had a mind to kill
+@c    him, saying to each other:
+
+@c    5:27. Who is this, that saith the children of Israel can resist king
+@c    Nabuchodonosor, and his armies, men unarmed, and without force, and
+@c    without skill in the art of war?
+
+@c    5:28. That Achior therefore may know that he deceiveth us, let us go up
+@c    into the mountains:  and when the bravest of them shall be taken, then
+@c    shall he with them be stabbed with the sword,
+
+@c    5:29. That every nation may know that Nabuchodonosor is god of the
+@c    earth, and besides him there is no other.
+
+
+
+@c    Judith Chapter 6
+
+
+@c    Holofernes in great rage sendeth Achior to Bethulia, there to be slain
+@c    with the Israelites.
+
+@c    6:1. And it came to pass when they had left off speaking, that
+@c    Holofernes being in a violent passion, said to Achior:
+
+@c    6:2. Because thou hast prophesied unto us, saying:  That the nation of
+@c    Israel is defended by their God, to shew thee that there is no God, but
+@c    Nabuchodonosor:
+
+@c    6:3. When we shall slay them all as one man, then thou also shalt die
+@c    with them by the sword of the Assyrians, and all Israel shall perish
+@c    with thee:
+
+@c    6:4. And thou shalt find that Nabuchodonosor is lord of the whole
+@c    earth:  and then the sword of my soldiers shall pass through thy sides,
+@c    and thou shalt be stabbed and fall among the wounded of Israel, and
+@c    thou shalt breathe no more till thou be destroyed with them.
+
+@c    6:5. But if thou think thy prophecy true, let not thy countenance sink,
+@c    and let the paleness that is in thy face, depart from thee, if thou
+@c    imaginest these my words cannot be accomplished.
+
+@c    6:6. And that thou mayst know that thou shalt experience these things
+@c    together with them, behold from this hour thou shalt be associated to
+@c    their people, that when they shall receive the punishment they deserve
+@c    from my sword, thou mayst fall under the same vengeance.
+
+@c    6:7. Then Holofernes commanded his servants to take Achior, and to lead
+@c    him to Bethulia, and to deliver him into the hands of the children of
+@c    Israel.
+
+@c    6:8. And the servants of Holofernes taking him, went through the
+@c    plains:  but when they came near the mountains, the slingers came out
+@c    against them.
+
+@c    6:9. Then turning out of the way by the side of the mountain, they tied
+@c    Achior to a tree hand and foot, and so left him bound with ropes, and
+@c    returned to their master.
+
+@c    6:10. And the children of Israel coming down from Bethulia, came to
+@c    him, and loosing him they brought him to Bethulia, and setting him in
+@c    the midst of the people, asked him what was the matter that the
+@c    Assyrians had left him bound.
+
+@c    6:11. In those days the rulers there, were Ozias the son of Micha of
+@c    the tribe of Simeon, and Charmi, called also Gothoniel.
+
+@c    6:12. And Achior related in the midst of the ancients, and in the
+@c    presence of all the people, all that he had said being asked by
+@c    Holofernes:  and how the people of Holofernes would have killed him for
+@c    this word,
+
+@c    6:13. And how Holofernes himself being angry had commanded him to be
+@c    delivered for this cause to the Israelites:  that when he should
+@c    overcome the children of Israel, then he might command Achior also
+@c    himself to be put to death by diverse torments, for having said:  The
+@c    God of heaven is their defender.
+
+@c    6:14. And when Achior had declared all these things, all the people
+@c    fell upon their faces, adoring the Lord, and all of them together
+@c    mourning and weeping poured out their prayers with one accord to the
+@c    Lord,
+
+@c    6:15. Saying:  O Lord God of heaven and earth, behold their pride, and
+@c    look on our low condition, and have regard to the face of thy saints,
+@c    and shew that thou forsakest not them that trust on thee, and that thou
+@c    humblest them that presume of themselves, and glory in their own
+@c    strength.
+
+@c    6:16. So when their weeping was ended, and the people's prayer, in
+@c    which they continued all the day, was concluded, they comforted Achior,
+
+@c    6:17. Saying:  The God of our fathers, whose power thou hast set forth,
+@c    will make this return to thee, that thou rather shalt see their
+@c    destruction.
+
+@c    6:18. And when the Lord our God shall give this liberty to his
+@c    servants, let God be with thee also in the midst of us:  that as it
+@c    shall please thee, so thou with all thine mayst converse with us.
+
+@c    6:19. Then Ozias, after the assembly was broken up, received him into
+@c    his house, and made him a great supper.
+
+@c    6:20. And all the ancients were invited, and they refreshed themselves
+@c    together after their fast was over.
+
+@c    6:21. And afterwards all the people were called together, and they
+@c    prayed all the night long within the church, desiring help of the God
+@c    of Israel.
+
+@c    The church. . .That is, the synagogue or place where they met for
+@c    prayer.
+
+
+
+@c    Judith Chapter 7
+
+
+@c    Holofernes besiegeth Bethulia.  The distress of the besieged.
+
+@c    7:1. But Holofernes on the next day gave orders to his army, to go up
+@c    against Bethulia.
+
+@c    7:2. Now there were in his troops a hundred and twenty thousand
+@c    footmen, and two and twenty thousand horsemen, besides the preparations
+@c    of those men who had been taken, and who had been brought away out of
+@c    the provinces and cities of all the youth.
+
+@c    7:3. All these prepared themselves together to fight against the
+@c    children of Israel, and they came by the hillside to the top, which
+@c    looketh toward Dothain, from the place which is called Belma, unto
+@c    Chelmon, which is over against Esdrelon.
+
+@c    7:4. But the children of Israel, when they saw the multitude of them,
+@c    prostrated themselves upon the ground, putting ashes upon their heads,
+@c    praying with one accord, that the God of Israel would shew his mercy
+@c    upon his people.
+
+@c    7:5. And taking their arms of war, they posted themselves at the
+@c    places, which by a narrow pathway lead directly between the mountains,
+@c    and they guarded them all day and night.
+
+@c    7:6. Now Holofernes, in going round about, found that the fountain
+@c    which supplied them with water, ran through an aqueduct without the
+@c    city on the south side:  and he commanded their aqueduct to be cut off.
+
+@c    7:7. Nevertheless there were springs not far from the walls, out of
+@c    which they were seen secretly to draw water, to refresh themselves a
+@c    little rather than to drink their fill.
+
+@c    7:8. But the children of Ammon and Moab came to Holofernes, saying:  The
+@c    children of Israel trust not in their spears, nor in their arrows, but
+@c    the mountains are their defence, and the steep hills and precipices
+@c    guard them.
+
+@c    7:9. Wherefore that thou mayst overcome them without joining battle,
+@c    set guards at the springs that they may not draw water out of them, and
+@c    thou shalt destroy them without sword, or at least being wearied out
+@c    they will yield up their city, which they suppose, because it is
+@c    situate in the mountains, to be impregnable.
+
+@c    7:10. And these words pleased Holofernes, and his officers, and he
+@c    placed all round about a hundred men at every spring.
+
+@c    7:11. And when they had kept this watch for full twenty days, the
+@c    cisterns, and the reserve of waters failed among all the inhabitants of
+@c    Bethulia, so that there was not within the city, enough to satisfy
+@c    them, no not for one day, for water was daily given out to the people
+@c    by measure.
+
+@c    7:12. Then all the men and women, young men, and children, gathering
+@c    themselves together to Ozias, all together with one voice,
+
+@c    7:13. Said:  God be judge between us and thee, for thou hast done evil
+@c    against us, in that thou wouldst not speak peaceably with the
+@c    Assyrians, and for this cause God hath sold us into their hands.
+
+@c    7:14. And therefore there is no one to help us, while we are cast down
+@c    before their eyes in thirst, and sad destruction.
+
+@c    7:15. And now assemble ye all that are in the city, that we may of our
+@c    own accord yield ourselves all up to the people of Holofernes.
+
+@c    7:16. For it is better, that being captives we should live and bless
+@c    the Lord, than that we should die, and be a reproach to all flesh,
+@c    after we have seen our wives and our infants die before our eyes.
+
+@c    7:17. We call to witness this day heaven and earth, and the God of our
+@c    fathers, who taketh vengeance upon us according to our sins, conjuring
+@c    you to deliver now the city into the hand of the army of Holofernes,
+@c    that our end may be short by the edge of the sword, which is made
+@c    longer by the drought of thirst.
+
+@c    7:18. And when they had said these things, there was great weeping and
+@c    lamentation of all in the assembly, and for many hours with one voice
+@c    they cried to God, saying:
+
+@c    7:19. We have sinned with our fathers, we have done unjustly, we have
+@c    committed iniquity:
+
+@c    7:20. Have thou mercy on us, because thou art good, or punish our
+@c    iniquities by chastising us thyself, and deliver not them that trust in
+@c    thee to a people that knoweth not thee,
+
+@c    7:21. That they may not say among the Gentiles:  Where is their God?
+
+@c    7:22. And when being wearied with these cries, and tired with these
+@c    weepings, they held their peace,
+
+@c    7:23. Ozias rising up all in tears, said:  Be of good courage, my
+@c    brethren, and let us wait these five days for mercy from the Lord.
+
+@c    7:24. For perhaps he will put a stop to his indignation, and will give
+@c    glory to his own name.
+
+@c    7:25. But if after five days be past there come no aid, we will do the
+@c    things which you have spoken.
+
+
+
+@c    Judith Chapter 8
+
+
+@c    The character of Judith:  her discourse to the ancients.
+
+@c    8:1. Now it came to pass, when Judith a widow had heard these words,
+@c    who was the daughter of Merari, the son of Idox, the son of Joseph, the
+@c    son of Ozias, the son of Elai, the son of Jamnor, the son of Gedeon,
+@c    the son of Raphaim, the son of Achitob, the son of Melchias, the son of
+@c    Enan, the son of Nathanias, the son of Salathiel, the son of Simeon,
+@c    the son of Ruben:
+
+@c    Simeon the son of Ruben. . .In the Greek, it is the son of Israel.  For
+@c    Simeon the patriarch, from whom Judith descended, was not the son, but
+@c    the brother of Ruben.  It seems more probable that the Simeon and the
+@c    Ruben here mentioned are not the patriarchs:  but two of the descendants
+@c    of the patriarch Simeon:  and that the genealogy of Judith, recorded in
+@c    this place, is not carried up so high as the patriarchs.  No more than
+@c    that of Elcana the father of Samuel, 1 Kings 1.1, and that of king
+@c    Saul, 1 Kings 9.1.
+
+@c    8:2. And her husband was Manasses, who died in the time of the barley
+@c    harvest:
+
+@c    8:3. For he was standing over them that bound sheaves in the field; and
+@c    the heat came upon his head, and he died in Bethulia his own city, and
+@c    was buried there with his fathers.
+
+@c    8:4. And Judith his relict was a widow now three years and six months.
+
+@c    8:5. And she made herself a private chamber in the upper part of her
+@c    house, in which she abode shut up with her maids.
+
+@c    8:6. And she wore haircloth upon her loins, and fasted all the days of
+@c    her life, except the sabbaths, and new moons, and the feasts of the
+@c    house of Israel.
+
+@c    8:7. And she was exceedingly beautiful, and her husband left her great
+@c    riches, and very many servants, and large possessions of herds of oxen,
+@c    and flocks of sheep.
+
+@c    8:8. And she was greatly renowned among all, because she feared the
+@c    Lord very much, neither was there any one that spoke an ill word of
+@c    her.
+
+@c    8:9. When therefore she had heard that Ozias had promised that he would
+@c    deliver up the city after the fifth day, she sent to the ancients
+@c    Chabri and Charmi.
+
+@c    8:10. And they came to her, and she said to them:  What is this word, by
+@c    which Ozias hath consented to give up the city to the Assyrians, if
+@c    within five days there come no aid to us?
+
+@c    8:11. And who are you that tempt the Lord?
+
+@c    8:12. This is not a word that may draw down mercy, but rather that may
+@c    stir up wrath, and enkindle indignation.
+
+@c    8:13. You have set a time for the mercy of the Lord, and you have
+@c    appointed him a day, according to your pleasure.
+
+@c    8:14. But forasmuch as the Lord is patient, let us be penitent for this
+@c    same thing, and with many tears let us beg his pardon:
+
+@c    8:15. For God will not threaten like man, nor be inflamed to anger like
+@c    the son of man.
+
+@c    8:16. And therefore let us humble our souls before him, and continuing
+@c    in an humble spirit, in his service:
+
+@c    8:17. Let us ask the Lord with tears, that according to his will so he
+@c    would shew his mercy to us:  that as our heart is troubled by their
+@c    pride, so also we may glorify in our humility.
+
+@c    8:18. For we have not followed the sins of our fathers, who forsook
+@c    their God, and worshipped strange gods.
+
+@c    8:19. For which crime they were given up to their enemies, to the
+@c    sword, and to pillage, and to confusion:  but we know no other God but
+@c    him.
+
+@c    8:20. Let us humbly wait for his consolation, and the Lord our God will
+@c    require our blood of the afflictions of our enemies, and he will humble
+@c    all the nations that shall rise up against us, and bring them to
+@c    disgrace.
+
+@c    8:21. And now, brethren, as you are the ancients among the people of
+@c    God, and their very soul resteth upon you:  comfort their hearts by your
+@c    speech, that they may be mindful how our fathers were tempted that they
+@c    might be proved, whether they worshipped their God truly.
+
+@c    8:22. They must remember how our father Abraham was tempted, and being
+@c    proved by many tribulations, was made the friend of God.
+
+@c    8:23. So Isaac, so Jacob, so Moses, and all that have pleased God,
+@c    passed through many tribulations, remaining faithful.
+
+@c    8:24. But they that did not receive the trials with the fear of the
+@c    Lord, but uttered their impatience and the reproach of their murmuring
+@c    against the Lord,
+
+@c    8:25. Were destroyed by the destroyer, and perished by serpents.
+
+@c    8:26. As for us therefore let us not revenge ourselves for these things
+@c    which we suffer.
+
+@c    8:27. But esteeming these very punishments to be less than our sins
+@c    deserve, let us believe that these scourges of the Lord, with which
+@c    like servants we are chastised, have happened for our amendment, and
+@c    not for our destruction.
+
+@c    8:28. And Ozias and the ancients said to her:  All things which thou
+@c    hast spoken are true, and there is nothing to be reprehended in thy
+@c    words.
+
+@c    8:29. Now therefore pray for us, for thou art a holy woman, and one
+@c    fearing God.
+
+@c    8:30. And Judith said to them:  As you know that what I have been able
+@c    to say is of God:
+
+@c    8:31. So that which I intend to do prove ye if it be of God, and pray
+@c    that God may strengthen my design.
+
+@c    8:32. You shall stand at the gate this night, and I will go out with my
+@c    maidservant:  and pray ye, that as you have said, in five days the Lord
+@c    may look down upon his people Israel.
+
+@c    8:33. But I desire that you search not into what I am doing, and till I
+@c    bring you word let nothing else be done but to pray for me to the Lord
+@c    our God.
+
+@c    8:34. And Ozias the prince of Juda said to her:  Go in peace, and the
+@c    Lord be with thee to take revenge of our enemies.  So returning they
+@c    departed.
+
+
+
+@c    Judith Chapter 9
+
+
+@c    Judith's prayer, to beg of God to fortify her in her undertaking.
+
+@c    9:1. And when they were gone, Judith went into her oratory:  and putting
+@c    on haircloth, laid ashes on her head:  and falling down prostrate before
+@c    the Lord, she cried to the Lord, saying:
+
+@c    9:2. Lord God of my father Simeon, who gavest him a sword to execute
+@c    vengeance against strangers, who had defiled by their uncleanness, and
+@c    uncovered the virgin unto confusion:
+
+@c    Gavest him a sword, etc. . .The justice of God is here praised, in
+@c    punishing by the sword of Simeon the crime of the Sichemites:  and not
+@c    the act of Simeon, which was justly condemned by his father, Gen. 49.5.
+@c    Though even with regard to this act, we may distinguish between his
+@c    zeal against the crime committed by the ravishers of his sister, which
+@c    zeal may be considered just:  and the manner of his punishing that
+@c    crime, which was irregular and excessive.
+
+@c    9:3. And who gavest their wives to be made a prey, and their daughters
+@c    into captivity:  and all their spoils to be divided to the servants, who
+@c    were zealous with thy zeal:  assist, I beseech thee, O Lord God, me a
+@c    widow.
+
+@c    9:4. For thou hast done the things of old, and hast devised one thing
+@c    after another:  and what thou hast designed hath been done.
+
+@c    9:5. For all thy ways are prepared, and in thy providence thou hast
+@c    placed thy judgments.
+
+@c    9:6. Look upon the camp of the Assyrians now, as thou wast pleased to
+@c    look upon the camp of the Egyptians, when they pursued armed after thy
+@c    servants, trusting in their chariots, and in their horsemen, and in a
+@c    multitude of warriors.
+
+@c    9:7. But thou lookedst over their camp, and darkness wearied them.
+
+@c    9:8. The deep held their feet, and the waters overwhelmed them.
+
+@c    9:9. So may it be with these also, O Lord, who trust in their
+@c    multitude, and in their chariots, and in their pikes, and in their
+@c    shields, and in their arrows, and glory in their spears,
+
+@c    9:10. And know not that thou art our God, who destroyest wars from the
+@c    beginning, and the Lord is thy name.
+
+@c    9:11. Lift up thy arm as from the beginning, and crush their power with
+@c    thy power:  let their power fall in their wrath, who promise themselves
+@c    to violate thy sanctuary, and defile the dwelling place of thy name,
+@c    and to beat down with their sword the horn of thy altar.
+
+@c    9:12. Bring to pass, O Lord, that his pride may be cut off with his own
+@c    sword.
+
+@c    9:13. Let him be caught in the net of his own eyes in my regard, and do
+@c    thou strike him by the graces of the words of my lips.
+
+@c    9:14. Give me constancy in my mind, that I may despise him:  and
+@c    fortitude that I may overthrow him.
+
+@c    9:15. For this will be a glorious monument for thy name, when he shall
+@c    fall by the hand of a woman.
+
+@c    9:16. For thy power, O Lord, is not in a multitude, nor is thy pleasure
+@c    in the strength of horses, nor from the beginning have the proud been
+@c    acceptable to thee:  but the prayer of the humble and the meek hath
+@c    always pleased thee.
+
+@c    9:17. O God of the heavens, creator of the waters, and Lord of the
+@c    whole creation, hear me a poor wretch, making supplication to thee, and
+@c    presuming of thy mercy.
+
+@c    9:18. Remember, O Lord, thy covenant, and put thou words in my mouth,
+@c    and strengthen the resolution in my heart, that thy house may continue
+@c    in thy holiness:
+
+@c    9:19. And all nations may acknowledge that thou art God, and there is
+@c    no other besides thee.
+
+
+
+@c    Judith Chapter 10
+
+
+@c    Judith goeth out towards the camp, and is taken, and brought to
+@c    Holofernes.
+
+@c    10:1. And it came to pass, when she had ceased to cry to the Lord, that
+@c    she rose from the place wherein she lay prostrate before the Lord.
+
+@c    10:2. And she called her maid, and going down into her house she took
+@c    off her haircloth, and put away the garments of her widowhood,
+
+@c    10:3. And she washed her body, and anointed herself with the best
+@c    ointment, and plaited the hair of her head, and put a bonnet upon her
+@c    head, and clothed herself with the garments of her gladness, and put
+@c    sandals on her feet, and took her bracelets, and lilies, and earlets,
+@c    and rings, and adorned herself with all her ornaments.
+
+@c    10:4. And the Lord also gave her more beauty:  because all this dressing
+@c    up did not proceed from sensuality, but from virtue:  and therefore the
+@c    Lord increased this her beauty, so that she appeared to all men's eyes
+@c    incomparably lovely.
+
+@c    10:5. And she gave to her maid a bottle of wine to carry, and a vessel
+@c    of oil, and parched corn, and dry figs, and bread and cheese, and went
+@c    out.
+
+@c    10:6. And when they came to the gate of the city, they found Ozias, and
+@c    the ancients of the city waiting.
+
+@c    10:7. And when they saw her they were astonished, and admired her
+@c    beauty exceedingly.
+
+@c    10:8. But they asked her no question, only they let her pass, saying:
+@c    The God of our fathers give thee grace, and may he strengthen all the
+@c    counsel of thy heart with his power, that Jerusalem may glory in thee,
+@c    and thy name may be in the number of the holy and just.
+
+@c    10:9. And they that were there said, all with one voice:  So be it, so
+@c    be it.
+
+@c    10:10. But Judith praying to the Lord, passed through the gates, she
+@c    and her maid.
+
+@c    10:11. And it came to pass, when she went down the hill, about break of
+@c    day, that the watchmen of the Assyrians met her, and stopped her,
+@c    saying:  Whence comest thou or whither goest thou?
+
+@c    10:12. And she answered:  I am a daughter of the Hebrews, and I am fled
+@c    from them, because I knew they would be made a prey to you, because
+@c    they despised you, and would not of their own accord yield themselves,
+@c    that they might find mercy in your sight.
+
+@c    Because I knew, etc. . .In this and the following chapter, some things
+@c    are related to have been said by Judith, which seem hard to reconcile
+@c    with truth.  But all that is related in scripture of the servants of God
+@c    is not approved by the scripture; and even the saints in their good
+@c    enterprises may sometimes slip into venial sins.
+
+@c    10:13. For this reason I thought with myself, saying:  I will go to the
+@c    presence of the prince Holofernes, that I may tell him their secrets,
+@c    and shew him by what way he may take them, without the loss of one man
+@c    of his army.
+
+@c    10:14. And when the men had heard her words, they beheld her face, and
+@c    their eyes were amazed, for they wondered exceedingly at her beauty.
+
+@c    10:15. And they said to her:  Thou hast saved thy life by taking this
+@c    resolution, to come down to our lord.
+
+@c    10:16. And be assured of this, that when thou shalt stand before him,
+@c    he will treat thee well, and thou wilt be most acceptable to his heart.
+@c    And they brought her to the tent of Holofernes, telling him of her.
+
+@c    10:17. And when she was come into his presence, forthwith Holofernes
+@c    was caught by his eyes.
+
+@c    10:18. And his officers said to him:  Who can despise the people of the
+@c    Hebrews, who have such beautiful women, that we should not think it
+@c    worth our while for their sakes to fight against them?
+
+@c    10:19. And Judith seeing Holofernes sitting under a canopy, which was
+@c    woven of purple and gold, with emeralds and precious stones:
+
+@c    10:20. After she had looked on his face, bowed down to him, prostrating
+@c    herself to the ground.  And the servants of Holofernes lifted her up, by
+@c    the command of their master.
+
+
+
+@c    Judith Chapter 11
+
+
+@c    Judith's speech to Holofernes.
+
+@c    11:1. Then Holofernes said to her:  Be of good comfort, and fear not in
+@c    thy heart:  for I have never hurt a man that was willing to serve
+@c    Nabuchodonosor the king.
+
+@c    11:2. And if thy people had not despised me, I would never have lifted
+@c    up my spear against them.
+
+@c    11:3. But now tell me, for what cause hast thou left them, and why it
+@c    hath pleased thee to come to us?
+
+@c    11:4. And Judith said to him:  Receive the words of thy handmaid, for if
+@c    thou wilt follow the words of thy handmaid, the Lord will do with thee
+@c    a perfect thing.
+
+@c    11:5. For as Nabuchodonosor the king of the earth liveth, and his power
+@c    liveth which is in thee for chastising of all straying souls:  not only
+@c    men serve him through thee, but also the beasts of the field obey him.
+
+@c    11:6. For the industry of thy mind is spoken of among all nations, and
+@c    it is told through the whole world, that thou only art excellent, and
+@c    mighty in all his kingdom, and thy discipline is cried up in all
+@c    provinces.
+
+@c    11:7. It is known also what Achior said, nor are we ignorant of what
+@c    thou hast commanded to be done to him.
+
+@c    11:8. For it is certain that our God is so offended with sins, that he
+@c    hath sent word by his prophets to the people, that he will deliver them
+@c    up for their sins.
+
+@c    11:9. And because the children of Israel know they have offended their
+@c    God, thy dread is upon them.
+
+@c    11:10. Moreover also a famine hath come upon them, and for drought of
+@c    water they are already to be counted among the dead.
+
+@c    11:11. And they have a design even to kill their cattle, and to drink
+@c    the blood of them.
+
+@c    11:12. And the consecrated things of the Lord their God which God
+@c    forbade them to touch, in corn, wine, and oil, these have they purposed
+@c    to make use of, and they design to consume the things which they ought
+@c    not to touch with their hands:  therefore because they do these things,
+@c    it is certain they will be given up to destruction.
+
+@c    11:13. And I thy handmaid knowing this, am fled from them, and the Lord
+@c    hath sent me to tell thee these very things.
+
+@c    11:14. For I thy handmaid worship God even now that I am with thee, and
+@c    thy handmaid will go out, and I will pray to God,
+
+@c    11:15. And he will tell me when he will repay them for their sins, and
+@c    I will come and tell thee, so that I may bring thee through the midst
+@c    of Jerusalem, and thou shalt have all the people of Israel, as sheep
+@c    that have no shepherd, and there shall not so much as one dog bark
+@c    against thee:
+
+@c    11:16. Because these things are told me by the providence of God.
+
+@c    11:17. And because God is angry with them, I am sent to tell these very
+@c    things to thee.
+
+@c    11:18. And all these words pleased Holofernes, and his servants, and
+@c    they admired her wisdom, and they said one to another:
+
+@c    11:19. There is not such another woman upon earth in look, in beauty,
+@c    and in sense of words.
+
+@c    11:20. And Holofernes said to her:  God hath done well who sent thee
+@c    before the people, that thou mightest give them into our hands:
+
+@c    11:21. And because thy promise is good, if thy God shall do this for
+@c    me, he shall also be my God, and thou shalt be great in the house of
+@c    Nabuchodonosor, and thy name shall be renowned through all the earth.
+
+
+
+@c    Judith Chapter 12
+
+
+@c    Judith goeth out in the night to pray:  she is invited to a banquet with
+@c    Holofernes.
+
+@c    12:1. Then he ordered that she should go in where his treasures were
+@c    laid up, and bade her tarry there, and he appointed what should be
+@c    given her from his own table.
+
+@c    12:2. And Judith answered him and said:  Now I cannot eat of these
+@c    things which thou commandest to be given me, lest sin come upon me:  but
+@c    I will eat of the things which I have brought.
+
+@c    12:3. And Holofernes said to her:  If these things which thou hast
+@c    brought with thee fail thee, what shall we do for thee?
+
+@c    12:4. And Judith said:  As thy soul liveth, my lord, thy handmaid shall
+@c    not spend all these things till God do by my hand that which I have
+@c    purposed.  And his servants brought her into the tent which he had
+@c    commanded.
+
+@c    12:5. And when she was going in, she desired that she might have
+@c    liberty to go out at night and before day to prayer, and to beseech the
+@c    Lord.
+
+@c    12:6. And he commanded his chamberlains, that she might go out and in,
+@c    to adore her God as she pleased, for three days.
+
+@c    12:7. And she went out in the nights into the valley of Bethulia, and
+@c    washed herself in a fountain of water.
+
+@c    12:8. And as she came up, she prayed to the Lord the God of Israel,
+@c    that he would direct her way to the deliverance of his people.
+
+@c    12:9. And going in, she remained pure in the tent, until she took her
+@c    own meat in the evening.
+
+@c    12:10. And it came to pass on the fourth day, that Holofernes made a
+@c    supper for his servants, and said to Vagao his eunuch:  Go, and persuade
+@c    that Hebrew woman, to consent of her own accord to dwell with me.
+
+@c    12:11. For it is looked upon as shameful among the Assyrians, if a
+@c    woman mock a man, by doing so as to pass free from him.
+
+@c    12:12. Then Vagao went in to Judith, and said:  Let not my good maid be
+@c    afraid to go in to my lord, that she may be honoured before his face,
+@c    that she may eat with him and drink wine and be merry.
+
+@c    12:13. And Judith answered him:  Who am I, that I should gainsay my
+@c    lord?
+
+@c    12:14. All that shall be good and best before his eyes, I will do.  And
+@c    whatsoever shall please him, that shall be best to me all the days of
+@c    my life.
+
+@c    12:15. And she arose and dressed herself out with her garments, and
+@c    going in she stood before his face.
+
+@c    12:16. And the heart of Holofernes was smitten, for he was burning with
+@c    the desire of her.
+
+@c    12:17. And Holofernes said to her:  Drink now, and sit down and be
+@c    merry; for thou hast found favour before me.
+
+@c    12:18. And Judith said:  I will drink my lord, because my life is
+@c    magnified this day above all my days.
+
+@c    12:19. And she took and ate and drank before him what her maid had
+@c    prepared for her.
+
+@c    12:20. And Holofernes was made merry on her occasion, and drank
+@c    exceeding much wine, so much as he had never drunk in his life.
+
+
+
+@c    Judith Chapter 13
+
+
+@c    Judith cutteth off the head of Holofernes, and returneth to Bethulia.
+
+@c    13:1. And when it was grown late, his servants made haste to their
+@c    lodgings, and Vagao shut the chamber doors, and went his way.
+
+@c    13:2. And they were all overcharged with wine.
+
+@c    13:3. And Judith was alone in the chamber.
+
+@c    13:4. But Holofernes lay on his bed, fast asleep, being exceedingly
+@c    drunk.
+
+@c    13:5. And Judith spoke to her maid to stand without before the chamber,
+@c    and to watch:
+
+@c    13:6. And Judith stood before the bed praying with tears, and the
+@c    motion of her lips in silence,
+
+@c    13:7. Saying:  Strengthen me, O Lord God of Israel, and in this hour
+@c    look on the works of my hands, that as thou hast promised, thou mayst
+@c    raise up Jerusalem thy city:  and that I may bring to pass that which I
+@c    have purposed, having a belief that it might be done by thee.
+
+@c    13:8. And when she had said this, she went to the pillar that was at
+@c    his bed's head, and loosed his sword that hung tied upon it.
+
+@c    13:9. And when she had drawn it out, she took him by the hair of his
+@c    head, and said:  Strengthen me, O Lord God, at this hour.
+
+@c    13:10. And she struck twice upon his neck, and cut off his head, and
+@c    took off his canopy from the pillars, and rolled away his headless
+@c    body.
+
+@c    13:11. And after a while she went out, and delivered the head of
+@c    Holofernes to her maid, and bade her put it into her wallet.
+
+@c    13:12. And they two went out according to their custom, as it were to
+@c    prayer, and they passed the camp, and having compassed the valley, they
+@c    came to the gate of the city.
+
+@c    13:13. And Judith from afar off cried to the watchmen upon the walls:
+@c    Open the gates for God is with us, who hath shewn his power in Israel.
+
+@c    13:14. And it came to pass, when the men had heard her voice, that they
+@c    called the ancients of the city.
+
+@c    13:15. And all ran to meet her from the least to the greatest:  for they
+@c    now had no hopes that she would come.
+
+@c    13:16. And lighting up lights they all gathered round about her:  and
+@c    she went up to a higher place, and commanded silence to be made.  And
+@c    when all had held their peace,
+
+@c    13:17. Judith said:  Praise ye the Lord our God, who hath not forsaken
+@c    them that hope in him.
+
+@c    13:18. And by me his handmaid he hath fulfilled his mercy, which he
+@c    promised to the house of Israel:  and he hath killed the enemy of his
+@c    people by my hand this night.
+
+@c    13:19. Then she brought forth the head of Holofernes out of the wallet,
+@c    and shewed it them, saying:  Behold the head of Holofernes the general
+@c    of the army of the Assyrians, and behold his canopy, wherein he lay in
+@c    his drunkenness, where the Lord our God slew him by the hand of a
+@c    woman.
+
+@c    13:20. But as the same Lord liveth, his angel hath been my keeper both
+@c    going hence, and abiding there, and returning from thence hither:  and
+@c    the Lord hath not suffered me his handmaid to be defiled, but hath
+@c    brought me back to you without pollution of sin, rejoicing for his
+@c    victory, for my escape, and for your deliverance.
+
+@c    13:21. Give all of you glory to him, because he is good, because his
+@c    mercy endureth for ever.
+
+@c    13:22. And they all adored the Lord, and said to her:  The Lord hath
+@c    blessed thee by his power, because by thee he hath brought our enemies
+@c    to nought.
+
+@c    13:23. And Ozias the prince of the people of Israel, said to her:
+@c    Blessed art thou, O daughter, by the Lord the most high God, above all
+@c    women upon the earth.
+
+@c    13:24. Blessed be the Lord who made heaven and earth, who hath directed
+@c    thee to the cutting off the head of the prince of our enemies.
+
+@c    13:25. Because he hath so magnified thy name this day, that thy praise
+@c    shall not depart out of the mouth of men who shall be mindful of the
+@c    power of the Lord for ever, for that thou hast not spared thy life, by
+@c    reason of the distress and tribulation of thy people, but hast
+@c    prevented our ruin in the presence of our God.
+
+@c    13:26. And all the people said:  So be it, so be it.
+
+@c    13:27. And Achior being called for came, and Judith said to him:  The
+@c    God of Israel, to whom thou gavest testimony, that he revengeth himself
+@c    of his enemies, he hath cut off the head of all the unbelievers this
+@c    night by my hand.
+
+@c    13:28. And that thou mayst find that it is so, behold the head of
+@c    Holofernes, who in the contempt of his pride despised the God of
+@c    Israel:  and threatened them with death, saying:  When the people of
+@c    Israel shall be taken, I will command thy sides to be pierced with a
+@c    sword.
+
+@c    13:29. Then Achior seeing the head of Holofernes, being seized with a
+@c    great fear he fell on his face upon the earth, and his soul swooned
+@c    away.
+
+@c    13:30. But after he had recovered his spirits he fell down at her feet,
+@c    and reverenced her, and said:
+
+@c    13:31. Blessed art thou by thy God in every tabernacle of Jacob, for in
+@c    every nation which shall hear thy name, the God of Israel shall be
+@c    magnified on occasion of thee.
+
+
+
+@c    Judith Chapter 14
+
+
+@c    The Israelites assault the Assyrians, who finding their general slain,
+@c    are seized with a panic fear.
+
+@c    14:1. And Judith said to all the people:  Hear me, my brethren, hang ye
+@c    up this head upon our walls.
+
+@c    14:2. And as soon as the sun shall rise, let every man take his arms,
+@c    and rush ye out, not as going down beneath, but as making an assault.
+
+@c    14:3. Then the watchmen must needs run to awake their prince for the
+@c    battle.
+
+@c    14:4. And when the captains of them shall run to the tent of
+@c    Holofernes, and shall find him without his head wallowing in his blood,
+@c    fear shall fall upon them.
+
+@c    14:5. And when you shall know that they are fleeing, go after them
+@c    securely, for the Lord will destroy them under your feet.
+
+@c    14:6. Then Achior seeing the power that the God of Israel had wrought,
+@c    leaving the religion of the Gentiles, he believed God, and circumcised
+@c    the flesh of his foreskin, and was joined to the people of Israel, with
+@c    all the succession of his kindred until this present day.
+
+@c    14:7. And immediately at break of day, they hung up the head of
+@c    Holofernes upon the walls, and every man took his arms, and they went
+@c    out with a great noise and shouting.
+
+@c    14:8. And the watchmen seeing this, ran to the tent of Holofernes.
+
+@c    14:9. And they that were in the tent came, and made a noise, before the
+@c    door of the chamber to awake him, endeavouring by art to break his
+@c    rest, that Holofernes might awake, not by their calling him, but by
+@c    their noise.
+
+@c    14:10. For no man durst knock, or open and go into the chamber of the
+@c    general of the Assyrians.
+
+@c    14:11. But when his captains and tribunes were come, and all the chiefs
+@c    of the army of the king of the Assyrians, they said to the
+@c    chamberlains:
+
+@c    14:12. Go in, and awake him, for the mice, coming out of their holes,
+@c    have presumed to challenge us to fight.
+
+@c    14:13. Then Vagao going into his chamber, stood before the curtain, and
+@c    made a clapping with his hands:  for he thought that he was sleeping
+@c    with Judith.
+
+@c    14:14. But when with hearkening, he perceived no motion of one lying,
+@c    he came near to the curtain, and lifting it up, and seeing the body of
+@c    Holofernes, lying upon the ground, without the head, weltering in his
+@c    blood, he cried out with a loud voice, with weeping, and rent his
+@c    garments.
+
+@c    14:15. And he went into the tent of Judith, and not finding her, he ran
+@c    out to the people,
+
+@c    14:16. And said:  One Hebrew woman hath made confusion in the house of
+@c    king Nabuchodonosor:  for behold Holofernes lieth upon the ground, and
+@c    his head is not upon him.
+
+@c    14:17. Now when the chiefs of the army of the Assyrians had heard this,
+@c    they all rent their garments, and an intolerable fear and dread fell
+@c    upon them, and their minds were troubled exceedingly.
+
+@c    14:18. And there was a very great cry in the midst of their camp.
+
+
+
+@c    Judith Chapter 15
+
+
+@c    The Assyrians flee:  the Hebrews pursue after them, and are enriched by
+@c    their spoils.
+
+@c    15:1. And when all the army heard that Holofernes was beheaded, courage
+@c    and counsel fled from them, and being seized with trembling and fear
+@c    they thought only to save themselves by flight.
+
+@c    15:2. So that no one spoke to his neighbour, but hanging down the head,
+@c    leaving all things behind, they made haste to escape from the Hebrews,
+@c    who, as they heard, were coming armed upon them, and fled by the ways
+@c    of the fields, and the paths of the hills.
+
+@c    15:3. So the children of Israel seeing them fleeing, followed after
+@c    them.  And they went down sounding with trumpets and shouting after
+@c    them.
+
+@c    15:4. And because the Assyrians were not united together, they went
+@c    without order in their flight; but the children of Israel pursuing in
+@c    one body, defeated all that they could find.
+
+@c    15:5. And Ozias sent messengers through all the cities and countries of
+@c    Israel.
+
+@c    15:6. And every country, and every city, sent their chosen young men
+@c    armed after them, and they pursued them with the edge of the sword
+@c    until they came to the extremities of their confines.
+
+@c    15:7. And the rest that were in Bethulia went into the camp of the
+@c    Assyrians, and took away the spoils which the Assyrians in their flight
+@c    had left behind them, and they were laden exceedingly,
+
+@c    15:8. But they that returned conquerors to Bethulia, brought with them
+@c    all things that were theirs, so that there was no numbering of their
+@c    cattle, and beasts, and all their moveables, insomuch that from the
+@c    least to the greatest all were made rich by their spoils.
+
+@c    15:9. And Joachim the high priest came from Jerusalem to Bethulia with
+@c    all his ancients to see Judith.
+
+@c    15:10. And when she was come out to him, they all blessed her with one
+@c    voice, saying:  Thou art the glory of Jerusalem, thou art the joy of
+@c    Israel, thou art the honour of our people:
+
+@c    15:11. For thou hast done manfully, and thy heart has been
+@c    strengthened, because thou hast loved chastity, and after thy husband
+@c    hast not known any other:  therefore also the hand of the Lord hath
+@c    strengthened thee, and therefore thou shalt be blessed for ever.
+
+@c    15:12. And all the people said:  So be it, so be it.
+
+@c    15:13. And thirty days were scarce sufficient for the people of Israel
+@c    to gather up the spoils of the Assyrians.
+
+@c    15:14. But all those things that were proved to be the peculiar goods
+@c    of Holofernes, they gave to Judith in gold, and silver, and garments
+@c    and precious stones, and all household stuff, and they all were
+@c    delivered to her by the people.
+
+@c    15:15. And all the people rejoiced, with the women, and virgins, and
+@c    young men, playing on instruments and harps.
+
+
+
+@c    Judith Chapter 16
+
+
+@c    The canticle of Judith:  her virtuous life and death.
+
+@c    16:1. Then Judith sung this canticle to the Lord, saying:
+
+@c    16:2. Begin ye to the Lord with timbrels, sing ye to the Lord with
+@c    cymbals, tune unto him a new psalm, extol and call upon his name.
+
+@c    16:3. The Lord putteth an end to wars, the Lord is his name.
+
+@c    16:4. He hath set his camp in the midst of his people, to deliver us
+@c    from the hand of all our enemies.
+
+@c    16:5. The Assyrian came out of the mountains from the north in the
+@c    multitude of his strength:  his multitude stopped up the torrents, and
+@c    their horses covered the valleys.
+
+@c    16:6. He bragged that he would set my borders on fire, and kill my
+@c    young men with the sword, to make my infants a prey, and my virgins
+@c    captives.
+
+@c    16:7. But the almighty Lord hath struck him, and hath delivered him
+@c    into the hands of a woman, and hath slain him.
+
+@c    16:8. For their mighty one did not fall by young men, neither did the
+@c    sons of Titan strike him, nor tall giants oppose themselves to him, but
+@c    Judith the daughter of Merari weakened him with the beauty of her face.
+
+@c    16:9. For she put off her the garments of widowhood, and put on her the
+@c    garments of joy, to give joy to the children of Israel.
+
+@c    16:10. She anointed her face with ointment, and bound up her locks with
+@c    a crown, she took a new robe to deceive him.
+
+@c    16:11. Her sandals ravished his eyes, her beauty made his soul her
+@c    captive, with a sword she cut off his head.
+
+@c    16:12. The Persians quaked at her constancy, and the Medes at her
+@c    boldness.
+
+@c    16:13. Then the camp of the Assyrians howled, when my lowly ones
+@c    appeared, parched with thirst.
+
+@c    16:14. The sons of the damsels have pierced them through, and they have
+@c    killed them like children fleeing away:  they perished in battle before
+@c    the face of the Lord my God.
+
+@c    16:15. Let us sing a hymn to the Lord, let us sing a new hymn to our
+@c    God.
+
+@c    16:16. O Adonai, Lord, great art thou, and glorious in thy power, and
+@c    no one can overcome thee.
+
+@c    16:17. Let all thy creatures serve thee:  because thou hast spoken, and
+@c    they were made:  thou didst send forth thy spirit, and they were
+@c    created, and there is no one that can resist thy voice.
+
+@c    16:18. The mountains shall be moved from the foundations with the
+@c    waters:  the rocks shall melt as wax before thy face.
+
+@c    16:19. But they that fear thee, shall be great with thee in all things.
+
+@c    16:20. Woe be to the nation that riseth up against my people:  for the
+@c    Lord almighty will take revenge on them, in the day of judgment he will
+@c    visit them.
+
+@c    16:21. For he will give fire, and worms into their flesh, that they may
+@c    burn, and may feel for ever.
+
+@c    16:22. And it came to pass after these things, that all the people,
+@c    after the victory, came to Jerusalem to adore the Lord:  and as soon as
+@c    they were purified, they all offered holocausts, and vows, and their
+@c    promises.
+
+@c    16:23. And Judith offered for an anathema of oblivion all the arms of
+@c    Holofernes, which the people gave her, and the canopy that she had
+@c    taken away out of his chamber.
+
+@c    An anathema of oblivion. . .That is, a gift or offering made to God, by
+@c    way of an everlasting monument, to prevent the oblivion or forgetting
+@c    so great a benefit.
+
+@c    16:24. And the people were joyful in the sight of the sanctuary, and
+@c    for three months the joy of this victory was celebrated with Judith.
+
+@c    16:25. And after those days every man returned to his house, and Judith
+@c    was made great in Bethulia, and she was most renowned in all the land
+@c    of Israel.
+
+@c    16:26. And chastity was joined to her virtue, so that she knew no man
+@c    all the days of her life, after the death of Manasses her husband.
+
+@c    16:27. And on festival days she came forth with great glory.
+
+@c    16:28. And she abode in her husband's house a hundred and five years,
+@c    and made her handmaid free, and she died, and was buried with her
+@c    husband in Bethulia.
+
+@c    16:29. And all the people mourned for seven days.
+
+@c    16:30. And all the time of her life there was none that troubled
+@c    Israel, nor many years after her death.
+
+@c    16:31. But the day of the festivity of this victory is received by the
+@c    Hebrews in the number of holy days, and is religiously observed by the
+@c    Jews from that time until this day.
