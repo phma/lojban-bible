@@ -1,10 +1,11 @@
 @node    vomo'o, mumo'o, cimo'o, Top
-@chapter vomo'o [The Rabbit Sends in a Little Bill]
+@chapter vomo'o le ractu cu benji lo cmalu me la bil
 
 
 @c                               CHAPTER IV
 
 @c                    The Rabbit Sends in a Little Bill
+                     le ractu cu benji lo cmalu me la bil
 
 
 @c      It was the White Rabbit, trotting slowly back again, and
@@ -19,12 +20,28 @@
 @c    swim in the pool, and the great hall, with the glass table and
 @c    the little door, had vanished completely.
 
+i me le blabi ractu noi masno bajra xruti gi'e xanka ke sruri catlu ca 
+le nu klama kei tai le nu ry da pu cirko i abu tirna le nu ry tolylau
+sezysku lu oi le noltroni'u i oi le noltroni'u doi dirba xance be mi
+doi skapi be mi doi zbikre be mi zo'u ny da mi ba catrymi'e ju'osai 
+ijo ro mabrnfuru cu mabrnfuru i mi ko'a ma falcru li'u i la alis zi
+smadi le du'u ry sisku le bifpra e le blabi ke kanba gluta remei i
+abu noi xendo co'a kalte ko'a i ku'i ko'a na se viska i roda simlu
+le ka ba'o cenba ba le nu abu limna le lalxu i le barda kumfa poi
+vasru le blaci jubme e le cmalu vorme ba'o mulno canci
+
 @c      Very soon the Rabbit noticed Alice, as she went hunting about,
 @c    and called out to her in an angry tone, `Why, Mary Ann, what ARE
 @c    you doing out here?  Run home this moment, and fetch me a pair of
 @c    gloves and a fan!  Quick, now!'  And Alice was so much frightened
 @c    that she ran off at once in the direction it pointed to, without
 @c    trying to explain the mistake it had made.
+
+i baziku le ractu cu sanji la alis noi ru'u kalte kei gi'e fengu tonga
+krisku fi abu fe lu ue doi meri,An do ma zukte bu'u le bartu i ko ca
+bajra klama le zdani gi'e bevri lo gluta remei e lo bifpra mi i ko 
+sutra li'u i la alis cu tai terpa ja'e le nu abu zi bajra fa'a le
+farna poi ry jarco ku'o gi'e na troci le ni ciksi le se srera be ry 
 
 @c      `He took me for his housemaid,' she said to herself as she ran.
 @c    `How surprised he'll be when he finds out who I am!  But I'd
