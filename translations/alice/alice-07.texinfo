@@ -495,7 +495,7 @@ pu le nu mulno li'u
 
 i lu puzuvuku ci cmalu mensi zo'u sei la sipsmacu cu mutce sutra
 tolsisti zo elsis fa'u zo lesis fa'u zo tilis my cmene i my xabju
-le loldi be lo jinto li'u
+le loldi be lo jintyke'a li'u
 
 @c      `What did they live on?' said Alice, who always took a great
 @c    interest in questions of eating and drinking.
@@ -528,7 +528,7 @@ i lu ja'a go'i sei la sipsmacu cu cusku i ba'e mutce le ka bilma li'u
 
 i la alis troci le nu se xanri le nu le tolfadni ke jmive tadji cu
 simsa makau i ku'i dukse le ka cfipu abu iseki'ubo abu di'a cusku
-lu i ku'i ki'u ma my xabju le loldi be lo jinto li'u
+lu i ku'i ki'u ma my xabju le loldi be lo jintyke'a li'u
 
 @c      `Take some more tea,' the March Hare said to Alice, very
 @c    earnestly.
@@ -568,13 +568,13 @@ i lu ma cusku loi prenu pinka caku sei la mapypre cu jinga reisku li'u
 
 i la alis na kakne le nu spuda la'e di'u iseki'ubo abu sezyse'u le nu
 cpacu lo tcati e lo nanba joi matne kei gi'ebabo rere'u te preti fo
-la sipsmacu fi lu ki'u ma my xabju le loldi be lo jinto li'u
+la sipsmacu fi lu ki'u ma my xabju le loldi be lo jintyke'a li'u
 
 @c      The Dormouse again took a minute or two to think about it, and
 @c    then said, `It was a treacle-well.'
 
 i la sipsmacu za'ure'u pensi ze'a lo mentu be li ji'ire gi'e ba bo
-cusku lu jy satyjisra jinto li'u
+cusku lu jy satyjisra jintyke'a li'u
 
 @c In addition to the 12 minutes,  (see above)
 @c should it be "gi'e ba bo" --adam  I'm not sure there's any difference. --xorxes 
@@ -642,18 +642,18 @@ kajde ke tolsti cusku lu mi na jimpe i my cpacu lo'e satyjisra ma li'u
 @c    I should think you could draw treacle out of a treacle-well--eh,
 @c    stupid?'
 
-i lu ka'u ka'e cpacu lo'e djacu lo'e djacu jinto sei la mapypre cu cusku isi'a
-li'a ka'e cpacu lo'e satyjisra lo'e satyjisra jinto vau iepei doi bebna li'u
+i lu ka'u ka'e cpacu lo'e djacu lo'e djacu jintyke'a sei la mapypre cu cusku isi'a
+li'a ka'e cpacu lo'e satyjisra lo'e satyjisra jintyke'a vau iepei doi bebna li'u
 
 @c      `But they were IN the well,' Alice said to the Dormouse, not
 @c    choosing to notice this last remark.
 
-i lu ku'i my ba'e nenri le jinto sei la alis fi la sipsmacu cu cusku
+i lu ku'i my ba'e nenri le jintyke'a sei la alis fi la sipsmacu cu cusku
 co naljundi be le romoi pinka li'u
 
 @c      `Of course they were', said the Dormouse; `--well in.'
 
-i lu li'a go'i sei la sipsmacu cu cusku i jinto nenri li'u
+i lu li'a go'i sei la sipsmacu cu cusku i jintyke'a nenri li'u
 
 @c      This answer so confused poor Alice, that she let the Dormouse
 @c    go on for some time without interrupting it.
