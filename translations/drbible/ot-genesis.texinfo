@@ -241,7 +241,7 @@ cu zvati ra toi
 
 @c    2:15. And the Lord God took man, and put him into the paradise of
 @c    pleasure, to dress it, and to keep it.
-2:15. ni'o la .iaves. noi cevni cu punji le nanmu le purdi mu'i lenu gunka
+2:15. ni'o la .iaves. noi cevni cu punji le nanmu le purdi tezu'e lenu gunka
 .e lenu zgaku'i
 
 @c    2:16. And he commanded him, saying:  Of every tree of paradise thou
@@ -256,31 +256,47 @@ lo palci .iki'ubo ca le nu do citka kei do ba'e morsi
 
 @c    2:18. And the Lord God said:  It is not good for man to be alone:  let us
 @c    make him a help like unto himself.
+2:18. .i la .iaves. cu cusku lu le nu le nanmu cu pamei na xamgu .i.e'u mi zbasu
+le dutsimsa sidju be ny
 
 @c    2:19. And the Lord God having formed out of the ground all the beasts
 @c    of the earth, and all the fowls of the air, brought them to Adam to see
 @c    what he would call them:  for whatsoever Adam called any living creature
 @c    the same is its name.
+2:19. .i la .iaves. noi cevni pu zbasu fi le dertu ro danlu pe le terdi
+.e ro cipni pe le vacri .ije klagau fi la .aDAM. tezu'e lenu facki fi ra
+le du'u cmedunda makau .ija'ebo le se cmedunda be ro jmive bei la .aDAM be'o
+cmene ca'e jy
 
 @c    2:20. And Adam called all the beasts by their names, and all the fowls
 @c    of the air, and all the cattle of the field:  but for Adam there was not
 @c    found a helper like himself.
+2:20. .i la .aDAM. cmedu'a fi ro mabru .e ro cipni pe le vacri .e ro danlu pe le
+foldi .iku'i na facki lo dutsimsa sidju la .aDAM.
 
 @c    2:21. Then the Lord God cast a deep sleep upon Adam:  and when he was
 @c    fast asleep, he took one of his ribs, and filled up flesh for it.
+2:21. .i la .iaves. noi cevni cu gasnu lenu la .aDAM. cu tardema .i ca lenu
+sipna ku tolse'a pa le .abu cutybo'u gi'e basti setca lo rectu
 
 @c    2:22. And the Lord God built the rib which he took from Adam into a
 @c    woman:  and brought her to Adam.
+2:22. .i la .iaves. noi cevni cu zbasu le ninmu le cutybo'u noi tolse'a ke'a
+la .aDAM. gi'e pengau ra la .aDAM.
 
 @c    2:23. And Adam said:  This now is bone of my bones, and flesh of my
 @c    flesh; she shall be called woman, because she was taken out of man.
+2:23. .i la .aDAM. cusku lu ti te bongu le bongu be fi mi gi'e se rectu le
+rectu be fe mi .i ti se cmene zo ninmu mu'i lenu ti tolse'a le nanmu li'u
 
 @c    2:24. Wherefore a man shall leave father and mother, and shall cleave
 @c    to his wife:  and they shall be two in one flesh.
+2:24. to .iseki'ubo lo'e nanmu cu cliva lo'e patfu .e lo'e mamta gi'e snipa lo'e
+speni .ibo le remei cu binxo pa rectu toi
 
 @c    2:25. And they were both naked:  to wit, Adam and his wife:  and were not
 @c    ashamed.
-
+2:25. .i la .aDAM. .e le ninmu cu tafcau gi'enai ckeji
 
 
 @c    Genesis Chapter 3
