@@ -1,6 +1,5 @@
-﻿@node    panomoi pagbu
+@node    panomoi pagbu
 @chapter no'ino'i panomo'o xasyjukni vonseldansu
-
 
 @c                                CHAPTER X
 

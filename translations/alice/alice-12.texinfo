@@ -1,4 +1,4 @@
-﻿@node    paremoi pagbu
+@node    paremoi pagbu
 @chapter no'ino'i paremo'o le sidydatni po'e la alis.
 
 
