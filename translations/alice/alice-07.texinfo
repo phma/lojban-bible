@@ -167,7 +167,7 @@ ca le nu vasxu li'u
 i lu ja'a mintu sera'a do li'u se cusku la mapypre i le nunsnu ca 
 te denpa i lei kansi'u cu smaji zutse ze'a lo mentu ze'a le nu la alis
 pensi piro da poi abu morji ke'a lo'e cipnrkorvi a lo'e ciska jubme
-zi'e noi na so'imei
+zi'e noi na mutce
 
  
 @c      The Hatter was the first to break the silence.  `What day of
@@ -175,21 +175,48 @@ zi'e noi na so'imei
 @c    watch out of his pocket, and was looking at it uneasily, shaking
 @c    it every now and then, and holding it to his ear.
 
+i la mapypre cu pamoi le ka co'u smaji i lu le xomoi be le masti cu 
+detri li'u my se cusku fa'a la alis i my le junla ba'o cpacu le daski
+gi'e ca'o xanka catlu gi'e di'inai desygau gi'ebabo punji le my kerlo
+
+
 @c      Alice considered a little, and then said `The fourth.'
+
+i la alis ze'i pensi gi'e ba cusku lu le vomoi li'u  
+
 
 @c      `Two days wrong!' sighed the Hatter.  `I told you butter
 @c    wouldn't suit the works!' he added looking angrily at the March
 @c    Hare.
 
-@c      `It was the BEST butter,' the March Hare meekly replied.
+
+i lu oiri'e srera la'u lo djedi be li re li'u se cusku la mapypre i 
+lu mi pu cusku le du'u lo matne na mapti le minji li'u my se jmina ca 
+le nu fengu catlu la cibmeimasti cicractu
+
+
+@c      `It was the BEST butter,' the March Hare meekly replied. 
+
+i lu ra ba'e xagrai le ka matne li'u cycy cumla spuda
+
 
 @c      `Yes, but some crumbs must have got in as well,' the Hatter
 @c    grumbled:  `you shouldn't have put it in with the bread-knife.'
+
+i lu go'i i ku'i la'a loi nanba spisa ji'a cu nerbi'o li'u la mapypre 
+cu se pante i lu einai do ra pu setca sepi'o le nanba dakfu li'u
+
 
 @c      The March Hare took the watch and looked at it gloomily:  then
 @c    he dipped it into his cup of tea, and looked at it again:  but he
 @c    could think of nothing better to say than his first remark, `It
 @c    was the BEST butter, you know.'
+
+la cibmeimasti cicracti le junla cu jgari gi'e tolgei catlu gi'eba
+jirgau le kabri tcati gi'e rere'u catlu i ku'i cycy ka'enai pensi lo 
+se cusku poi xagmau le pamoi pinka po'u lu ro'a ra ba'e xagrai le ka 
+matne li'u
+
 
 @c      Alice had been looking over his shoulder with some curiosity.
 @c    `What a funny watch!' she remarked.  `It tells the day of the
