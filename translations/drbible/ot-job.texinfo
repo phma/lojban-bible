@@ -3213,7 +3213,7 @@
 
 @c    38:3. Gird up thy loins like a man:  I will ask thee, and answer thou
 @c    me.
-38:3. .i ko tatygau le befsri tai lo'e vlinau .i mi terpreti fo do .ije
+38:3. .i ko tratygau le befsri tai lo'e vlinau .i mi terpreti fo do .ije
 ko jungau mi
 
 @c    38:4. Where wast thou when I laid the foundations of the earth?  tell me
