@@ -489,6 +489,11 @@ pensi to drani toi le du'u le se senva cu se manci
 @c    little Alice and all her wonderful Adventures, till she too began
 @c    dreaming after a fashion, and this was her dream:--
 
+i ku'i le mensi cu zutse za'o le nu abu cliva kei gi'e vregau le stedu 
+le xance gi'e catlu le nu le solri cu farlu kei gi'e pensi le cmalu
+no'u la alis ge'u e ro le abu se manci se lifri i le mensi ji'a co'a 
+senva sa'enai i senva la'e di'e
+
 @c      First, she dreamed of little Alice herself, and once again the
 @c    tiny hands were clasped upon her knee, and the bright eager eyes
 @c    were looking up into hers--she could hear the very tones of her
@@ -497,6 +502,13 @@ pensi to drani toi le du'u le se senva cu se manci
 @c    still as she listened, or seemed to listen, the whole place
 @c    around her became alive the strange creatures of her little
 @c    sister's dream.
+
+i pamai my senva la alis i lei abu cmalu xance cu za'ure'u ca'o jgari 
+le my cidni i lei abu carmi selci'i kanla cu catlu lei me my moi i
+my ka'e tirna le satci tonga be fi le abu voksa gi'e viska le cizra
+nu stedu desku noi se rinju le kerfa le nu gacri lei kanla i ca le nu
+my tirna gi'a simlu le ka tirna cu jmive binxo ru'usai my fa le cizra
+zukte pe le se senva be le my cmalu mensi 
 
 @c      The long grass rustled at her feet as the White Rabbit hurried
 @c    by--the frightened Mouse splashed his way through the
