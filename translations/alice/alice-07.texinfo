@@ -162,7 +162,7 @@ i la mapypre cu pamoi le ka co'u smaji i lu le xomoi be le masti cu
 detri sei my fa'a la alis cusku li'u i my le junla ba'o cpacu le daski
 gi'e ca'o xanka catlu gi'e di'inai desygau gi'e jbipu'i le my kerlo
 
-@ Should that be "le xomoi be lei masti"? --adam
+@c Should that be "le xomoi be lei masti"? --adam
 
 @c      Alice considered a little, and then said `The fourth.'
 
@@ -180,7 +180,7 @@ my fengu catlu la cibmoimasti cicyractu
 
 i lu ra ba'e xagrai le ka matne sei cycy cumla spuda li'u
 
-@ best among butternesses? best for the butterness? --adam
+@c best among butternesses? best for the butterness? --adam
 
 @c      `Yes, but some crumbs must have got in as well,' the Hatter
 @c    grumbled:  `you shouldn't have put it in with the bread-knife.'
