@@ -1,5 +1,5 @@
 @node    mumo'o, xamo'o, vomo'o, Top
-@chapter mumo'o [Advice from a Caterpillar]
+@chapter mumo'o se djusku le ciftoldi
 
 
 @c                                CHAPTER V
