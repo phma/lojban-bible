@@ -40,7 +40,7 @@
   betri bet - -  /Tragödie/  x1 ist eine Tragödie/Katastrophe/schlimmes Ereignis für x2
   bevri bev - bei  /tragen/  x1 trägt/schleppt/transportiert Fracht x2 nach x3 von x4 über Route x5; x1 ist ein Träger
   bi biv - -  /8/  Ziffer/Zahl: 8 (Ziffer)
-  bi'i biz - -  /ungeordnetes Intervall/  nicht-logischer Intervallverbinder: ungeordnet zwischen ... und ... (rafsi repräsentiert ein beliebiges Intervall)
+  bi'i biz - -  /ungeordnetes Intervall/  nicht-logische Intervallverbindung: ungeordnet zwischen ... und ... (rafsi repräsentiert ein beliebiges Intervall)
   bidju - - -  /Perle/  x1 ist eine (Glas-/Holz-/usw)perle/ein Kügelchen [Form] aus Material x2 (z.B. Glasperle = blaci bidju)
   bifce bic - -  /Biene/  x1 ist eine Biene/Wespe/Hornisse von Art/Rasse x2
   bikla bik - -  /peitschen/  x1 peitscht/schnappt [plötzliche starke Bewegung]
@@ -453,3 +453,34 @@
   gutci guc - -  /Elle/  x1 ist x2 (Default: 1) kurze [nicht-metrische] örtliche Entfernungseinheit, gemäß Standard x3, mit Untereinheiten x4
   gutra - - -  /Gebärmutter/  x1 ist eine/die Gebärmutter [Körperteil] von x2; [im übertragenen Sinne: nährend, schützend, Leben gebend]
   guzme guz zme -  /Melone/  x1 ist eine Melone/ein Kürbis [Frucht/Pflanze] von Spezies/Gattung/Art x2
+  ja jav - -  /Tanru-Oder/  logische Verbindung: Tanru-internes nachgestelltes 'oder'
+  jabre - - -  /bremsen/  x1 bremst/verlangsamt Bewegung/Aktivität x2 mittels Vorrichtung/Mechanismus/Prinzip x3
+  jadni jad - ja'i  /schmücken/  x1 (Gegenstand) schmückt/dekoriert x2; x1 ist Schmuck/Dekoration auf x2; x2 ist geschmückt/dekoriert
+  jakne - - -  /Rakete/  x1 ist eine Rakete [Fahrzeug], angetrieben durch Düse, die x2 ausstößt, mit Nutzlast x3
+  jalge jag - ja'e  /Ergebnis/  x1 (Aktion/Ereignis/Zustand) ist das Ergebnis/Resultat/die Folgerung von x2 (Ereignis/Zustand/Prozess)
+  jalna - - -  /Stärke/  x1 ist eine gewisse Menge an/enthält/besteht aus Stärke aus Quelle x2 von Zusammensetzung unter anderem x3
+  jalra - - -  /Schabe/  x1 ist eine Schabe/Küchenschabe/Kakerlake/[Termite] von Spezies/Gattung x2
+  jamfu jaf jma -  /Fuß/  x1 ist ein/der Fuß [Körperteil] von x2; [im übertragenen Sinne: niedrigster Teil] (adjektiv:) x1 ist pedal
+  jamna jam - -  /Krieg/  x1 (Person/Masse) führt Krieg gegen x2 über Territorium/Gebiet/Angelegenheit x3; x1 und x2 bekriegen sich
+  janbe jab - -  /Glocke/  x1 ist eine Glocke/ein Glockenspiel/[eine Stimmgabel] [gestimmtes Schlaginstrument] und produziert Klang/Note/Ton x2
+  janco jan - -  /Schulter/  x1 ist eine/die Schulter/Hüfte/das Gelenk [Körperteil], das Gliedmaß x2 mit Körper x3 verbindet
+  janli jal - -  /kollidieren/  x1 kollidiert mit/stößt zusammen mit/prallt auf x2
+  jansu jas - -  /Diplomat/  x1 ist ein Diplomat/Konsul/Gesandter und vertritt Staat/Einheit x2 in/bei Verhandlung x3 mit Funktion/zu Zweck x4
+  janta jat - -  /Konto/  x1 ist ein Konto/eine Rechnung für Güter/Dienstleistungen x2, ausgestellt an x3 durch x4
+  jarbu - - -  /Vorort/  x1 ist ein Vorort/Stadtrand von Stadt/Metropole x2
+  jarco - - ja'o  /zeigen/  x1 (Handelnder) zeigt/stellt aus/führt vor/zeigt vor/[enthüllt]/demonstriert x2 (Eigenschaft) vor Publikum x3
+  jarki jak - -  /schmal/  x1 ist schmal in Dimension x2 [zweitmächtigste Dimension] gemäß Standard x3
+  jaspu jap - -  /Pass/  x1 ist ein Pass/Ausweis ausgestellt an x2 (Person) durch Autorität/Behörde x3 und erlaubt x4 (Aktivität)
+  jatna - - ja'a  /Kapitän/  x1 ist der Kapitän/Kommandeur/Führer/Leiter/Boss von Fahrzeug/Domäne x2
+  javni - jva -  /Regel/  x1 ist eine Regel und schreibt vor/verordnet/verlangt x2 (Ereignis/Zustand) innerhalb System/Gemeinschaft x3
+  jbama bam - -  /Bombe/  x1 ist eine Bombe/Explosivvorichtung mit explosivem Material/Zündstoff/Prinzip x2
+  jbari - jba -  /Beere/  x1 ist eine Beere (Frucht/Pflanze) von Pflanze/Art x2
+  jbena - jbe -  /geboren/  x1 wird x2 (Eltern) geboren am/um x3 [Zeit/Geburtstag] in Ort x4 [Geburtsort]; x1 stammt aus (fo) x4
+  jbera jer - -  /borgen/  x1 (Handelnder) borgt/leiht sich/übernimmt zeitweilig x2 (Gegenstand) von/aus Quelle x3 für Zeitraum x4
+  jbini bin - bi'i  /zwischen/  x1 ist zwischen/unter Menge an Punkten/Grenzen x2 (Menge)/unter Masse x2 in Eigenschaft x3 (ka)
+  jdari jar - -  /fest/  x1 ist fest/hart/steif/straff/unnachgiebig gegenüber Kraft x2 unter Umständen x3
+  jdice - jdi -  /entscheiden/  x1 (Person) entscheidet/trifft Entscheidung x2 (du'u) in Bezug auf Angelegenheit x3 (Ereignis/Zustand)
+  jdika - - -  /abnehmen/  x1 (Opfer) nimmt ab/wird verringert/vermindert/verkleinert in Eigenschaft/Menge x2 um Betrag/Menge x3
+  jdima - - di'a  /Preis/  x1 [Menge] ist der Preis von x2 für Käufer x3 gemäß Verkäufer x4
+  jdini din - di'i  /Geld/  x1 ist Geld/Währung, herausgegeben von x2; (Adjektiv:) x1 ist finanziell/geldlich
+  jduli dul jdu -  /Gelee/  x1 ist eine gewisse Menge von Gelee/Gallert/halbfester Masse [Textur/Beschaffenheit] von Material/Zusammensetzung unter anderem x2
