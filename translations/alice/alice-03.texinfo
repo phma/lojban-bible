@@ -37,7 +37,7 @@ la cipnrlori noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
 @c ije mi lazni i ku'i zo babgalo ki'a
 @c i lei vi se casnu sumti cu cmene ija'ebo mi pilno zo la enai zo le
 @c mi'e adam
-junmau li'u po'o ije la'edi'u zo'u la alis na curmi secau le nu
+junmau li'u po'o ije la'e di'u zo'u la alis na curmi secau le nu
 djuno le du'u ly jai nanca makau ije ki'u le nu la cipnrlori cu je'a tolsarxe
 le nu cusku le du'u makau se jai nanca ly na se sumji se cusku
 
@@ -125,6 +125,7 @@ penmi la uiliam gi'e friti fi ubu fe le nu turni i le nuntra be la uiliam
 ca le nu cfari cu fadni i ku'i le nuntolclite be lai norman ne ubu li'u 
 @c Should be "lei se natmrnormane" or the like. "lai norman" means
 @c a mass of people named Norman. -phma
+@c What's the problem?
 i pei doi do iu sei sy ca'o cusku jecabo carcra be la alis li'u
 
 @c      `As wet as ever,' said Alice in a melancholy tone:  `it doesn't
@@ -241,7 +242,7 @@ i lu i ku'i ei jinga da fa ba'e ta li'a, sei la smacu cu cusku li'u
 @c    you got in your pocket?' he went on, turning to Alice.
 
 i lu li'a sei la dodos cu spuda co junri i do ponse ma poi drati zi'epe
-vi le daski pe do
+vi le daski pe do sei dy jmina cusku je carcra be la alis
 
 @c      `Only a thimble,' said Alice sadly.
 
@@ -256,10 +257,21 @@ i lu ko dunda fi mi sei la dodos cusku li'u
 @c    this elegant thimble'; and, when it had finished this short
 @c    speech, they all cheered.
 
+ibabo le romei cu denmi je sanli ko'a rere'uku ca le nu la dodos junri
+dunda le tajgau gi'e cusku lu mi'a cu cpedu fi do fe le nu do cpasarxe
+le vi melbi tajgau li'u ije ca le nu dy co'u cusku le tordu se cusku
+kei le romei cu geirkrixa
+
 @c      Alice thought the whole thing very absurd, but they all looked
 @c    so grave that she did not dare to laugh; and, as she could not
 @c    think of anything to say, she simply bowed, and took the thimble,
 @c    looking as solemn as she could.
+
+i la alis cu jinvi le du'u piro le tcini cu mutce co cizra i ku'i le
+romei cu simlu le ka junri kei ja'e le nu ko'a na darsi le nu cmila
+i ji'a ki'u le nu ko'a na sanji da poi bilga le nu cusku ke'a kei ko'a
+krobi'o rinsa gi'e lebna le tajgai ca le nu simlu le ka junri du'i
+le ni ko'a kakne
 
 @c      The next thing was to eat the comfits:  this caused some noise
 @c    and confusion, as the large birds complained that they could not
@@ -267,17 +279,35 @@ i lu ko dunda fi mi sei la dodos cusku li'u
 @c    the back.  However, it was over at last, and they sat down again
 @c    in a ring, and begged the Mouse to tell them something more.
 
+i le bavla'i cu nu citka lei titydja i le go'i cu rinka lo nu savru gi'e
+cfipu kei ki'u le nu lei barda cipni cu pante le nu na kakne le nu
+vu'irga'e le mebycy.moi kei kei e le nu lei cmalu cu <choked> gi'e ei se
+darxi fo le trixe i ku'i fanmo uo ije le romei cu za'ure'u
+zutse co djine gi'e cpedu fi la smacu fe le nu ca'o cusku
+
 @c      `You promised to tell me your history, you know,' said Alice,
 @c    `and why it is you hate--C and D,' she added in a whisper, half
 @c    afraid that it would be offended again.
 
+i lu do nupre le nu cusku le citri be do ju'odai be'o sei la alis cusku 
+e le du'u ki'u makau do xebni -- cy e dy li'u seke jmina cusku ko'a noi smaji
+gi'e terpa ru'e le nu da'i sy se xrani za'ure'uku
+
 @c      `Mine is a long and a sad tale!' said the Mouse, turning to
 @c    Alice, and sighing.
+
+i lu le linsi pe mi cu clani je se badri sei la smacu cu cusku je carcra be
+la alis je dricmo li'u
 
 @c      `It IS a long tail, certainly,' said Alice, looking down with
 @c    wonder at the Mouse's tail; `but why do you call it sad?'  And
 @c    she kept on puzzling about it while the Mouse was speaking, so
 @c    that her idea of the tale was something like this:--
+
+i lu clani je'u linsi sei la alis cusku co manci catlu be le rebla be la
+smacu i ku'i ki'u ma do te cmene ly lu se badri li'u li'u ije ko'a ca'o manci
+la'e di'u ca le nu la smacu cu cusku ja'e le nu le sidbo be fi ko'a
+bei fe le rebla linsi cu simsa di'e
 
 @c    @format
 @c                        `Fury said to a
@@ -326,20 +356,44 @@ i lu ko dunda fi mi sei la dodos cusku li'u
 @c                           death."'
 @c    @end format
 
+@ format
+                         la fengu cu cusku 
+                       fi lo smacu poi 
+                     fy penmi fi le zdani
+                   fe lu e'u 
+                     mi'o klama le flalu
+                       i ai mi flapro do i e'u
+                         mi na tolsarxe zanru
+@ end format
+
 
 @c      `You are not attending!' said the Mouse to Alice severely.
 @c    `What are you thinking of?'
 
+i lu do na jundi sei la smacu cu junri cusku be fi la alis i do pensi ma li'u
+
 @c      `I beg your pardon,' said Alice very humbly:  `you had got to
 @c    the fifth bend, I think?'
 
+i lu ienai ga'inai sei la alis toljgira cusku i do co'a cusku le mumoi
+be le'i kruvi pe'i li'u
+
 @c      `I had NOT!' cried the Mouse, sharply and very angrily.
+
+i lu ije ge na go'i gi na cumki sei la smacu cu krixa co cladu jeke fengu
+mutce li'u
 
 @c      `A knot!' said Alice, always ready to make herself useful, and
 @c    looking anxiously about her.  `Oh, do let me help to undo it!'
 
+i lu ua jgena li'u se cusku la alis noi roroi bredi le nu selpligau ko'a
+zi'e noi xanka catlu ru'u ko'a i lu ui e'ocai mi sidju fi le nu luzgau jy
+
 @c      `I shall do nothing of the sort,' said the Mouse, getting up
 @c    and walking away.  `You insult me by talking such nonsense!'
+
+i lu ai mi curmi no simsa sei la smacu cusku je sanli je cliva i do xrani
+mi ca le nu do tolracli cusku tai di'u li'u
 
 @c      `I didn't mean it!' pleaded poor Alice.  `But you're so easily
 @c    offended, you know!'
