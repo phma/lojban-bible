@@ -274,15 +274,38 @@ i di'e penmi co se tcidu le blabi ractu
 @c            She gave me a good character,
 @c              But said I could not swim.
 
+@format
+
+              i ti'e do ta klama ca'a
+                i do ti tavla mi
+              i cu'u ta ge mi preza'a
+                ginai mi limna di
+@end format
+
 @c            He sent them word I had not gone
 @c              (We know it to be true):
 @c            If she should push the matter on,
 @c              What would become of you?
 
+@format
+
+              i mi pu nalkla i vlabe'i 
+                to mi'o djuno toi
+              i ganai lanli le selte'i
+                gi ma do dimna oi 
+@end format
+
 @c            I gave her one, they gave him two,
 @c              You gave us three or more;
 @c            They all returned from him to you,
 @c              Though they were mine before.
+
+@format
+              i mi pa de i re di ko'e
+                i do su'o ci da
+              i do se xruti ro le co'e
+                noi me mi moi pu za
+@end format                
 
 @c            If I or she should chance to be
 @c              Involved in this affair,
