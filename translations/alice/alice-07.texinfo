@@ -285,22 +285,46 @@ i lu na go'i i mi te jinga li'u la alis se spuda i lu ma danfu li'u
 
 @c      `I haven't the slightest idea,' said the Hatter.
 
+i lu le ji'asai cmarai di'u mi na sidbo li'u se cusku la mapypre 
+
 @c      `Nor I,' said the March Hare.
+
+i lu go'ira'o li'u se cusku la cibmoimasti cicractu
+
 
 @c      Alice sighed wearily.  `I think you might do something better
 @c    with the time,' she said, `than waste it in asking riddles that
 @c    have no answers.'
 
+i la alis cu tatpi patyva'u i lu pe'i do ka'e se prali le temci sei 
+abu cusku ta'i lo xagmau be le nu xaksu ty ta'i le nu preti fa lo manci 
+nabmi poi na se danfu 
+
+
 @c      `If you knew Time as well as I do,' said the Hatter, `you
 @c    wouldn't talk about wasting IT.  It's HIM.'
 
+i lu va'oda'i le nu la temci cu slabu do pedu'i mi kei sei la mapypre
+cusku do na pilno zo le le nu cmene ty i zo la mapti li'u 
+
+
 @c      `I don't know what you mean,' said Alice.
+
+i lu mi na jimpe le du'u do skudji makau li'u se cusku la alis 
+
 
 @c      `Of course you don't!' the Hatter said, tossing his head
 @c    contemptuously.  `I dare say you never even spoke to Time!'
 
+i lu li'a do na go'i li'u la mapypre se cusku ca le nu tolsi'a
+muvgau le stedu i lu la'a do noroi tavla ji'asai la temci li'u
+
+
 @c      `Perhaps not,' Alice cautiously replied:  `but I know I have to
 @c    beat time when I learn music.'
+
+
+
 
 @c      `Ah! that accounts for it,' said the Hatter.  `He won't stand
 @c    beating.  Now, if you only kept on good terms with him, he'd do
