@@ -91,7 +91,8 @@ that as a <foreignphrase lang="art-lojban">sumti</foreignphrase>, <foreignphrase
 belong to <foreignphrase lang="art-lojban">klama</foreignphrase>:
 <foreignphrase lang="art-lojban">kei</foreignphrase> has cordoned off the places of
 <foreignphrase lang="art-lojban">klama</foreignphrase> from the rest of the
-sentence. So <foreignphrase lang="art-lojban">la xustyn.</foreignphrase>
+sentence (and the places of <foreignphrase lang="art-lojban">detri</foreignphrase>.) 
+So <foreignphrase lang="art-lojban">la xustyn.</foreignphrase>
 can only be a <foreignphrase lang="art-lojban">sumti</foreignphrase> of the
 main <foreignphrase lang="art-lojban">selbri</foreignphrase>,
 <foreignphrase lang="art-lojban">detri.</foreignphrase> </para>
@@ -246,7 +247,14 @@ the last lesson:
 ti'u la jaucac. .i la la suzyn. klama le barja ti'u la
 feicac.</foreignphrase></para>
 
-</informalexample>However, if the actual times are not important, we can say:
+</informalexample></para>
+
+<tip><para>As mentioned just above, <foreignphrase
+lang="art-lojban">.i</foreignphrase> is used in Lojban to separate sentences from
+each other. You can think of it as a spoken version of the full stop (period) at 
+the end of a sentence.</para></tip>
+
+<para>However, if the actual times are not important, we can say:
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">ba lenu la jan. cliva kei la suzyn. klama le barja</foreignphrase>

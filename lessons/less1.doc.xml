@@ -3,7 +3,7 @@ attitudes</title><titleabbrev>Sounds, names and attitudes</titleabbrev>
 
 <para>The first thing you need to do when you learn a
 foreign language is to become familiar with the sounds of the language and
-how they are written, and the same goes for Lojban.  Fortunately, Lojban
+how they are written, and the same goes for Lojban. Fortunately, Lojban
 sounds (<firstterm>phonemes</firstterm>) are fairly straightforward.</para>
 
 <sect1 id="less1vowels"><title>Vowels</title>
@@ -486,7 +486,7 @@ is in Lojban conventionally turned into
 <variablelist termlength="20"><title>Turkish</title>
 
 <varlistentry><term>Mustafa Kemal</term> <listitem><para><foreignphrase
-lang="art-lojban">MUStafas.kemal.</foreignphrase></para></listitem></varlistentry>
+lang="art-lojban">MUStafas.keMAL.</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term>Erkin Koray</term> <listitem><para><foreignphrase
 lang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry>
@@ -744,9 +744,11 @@ accents)</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.amandys.</foreignphrase> (again,
 depending on your accent, the final <foreignphrase
 lang="art-lojban">y</foreignphrase> may be <foreignphrase
-lang="art-lojban">a</foreignphrase>, and the initial <foreignphrase
+lang="art-lojban">a</foreignphrase>, the initial <foreignphrase
 lang="art-lojban">a</foreignphrase> may be <foreignphrase
-lang="art-lojban">y</foreignphrase>.)</para></listitem>
+lang="art-lojban">y</foreignphrase>, and the middle <foreignphrase
+lang="art-lojban">a</foreignphrase> may be <foreignphrase
+lang="art-lojban">e</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">matius.</foreignphrase></para></listitem>
 

@@ -55,12 +55,15 @@ tcika ti</foreignphrase> &mdash; <quote>the number eleven is the time of this
 
 <para>If we want to be a bit more precise, we need to use <foreignphrase
 lang="art-lojban">pi'e</foreignphrase>. This introduces fractional parts of
-numbers like <foreignphrase lang="art-lojban">pi</foreignphrase>, but
-doesn't need to keep the same value within a number. In normal counting,
+numbers like <foreignphrase lang="art-lojban">pi</foreignphrase>, but unlike 
+<foreignphrase lang="art-lojban">pi</foreignphrase> it
+doesn't need to indicate decimal fractions in a number. In fact, the kind of fractional
+part it does indicate can vary within the same number. In normal counting,
 <foreignphrase lang="art-lojban">pi</foreignphrase> is a decimal point, in
-hexadecimal it's a hexadecimal point and so on, but it never changes its
-value. <foreignphrase lang="art-lojban">pi'e</foreignphrase> doesn't have
-that restriction, so we can use it to separate hours from minutes (which
+hexadecimal it's a hexadecimal point and so on, but the kind of fraction it indicates
+never changes its
+value. But <foreignphrase lang="art-lojban">pi'e</foreignphrase> doesn't have
+that restriction; so we can use it to separate hours from minutes (which
 are sixtieths of hours), or, as we will see below, days from hours (which are
 twenty-fourths of days). <foreignphrase
 lang="art-lojban">pi'e</foreignphrase>, in other words, means <quote
@@ -472,8 +475,8 @@ Judaeo-Christian convention of taking Sunday as the first day, giving
 for Monday through to Thursday.) However, in a meeting in 1992 it was
 agreed that Monday be day 1, and Sunday be either 7 (<foreignphrase
 lang="art-lojban">la zedjed.</foreignphrase>) or zero (<foreignphrase
-lang="art-lojban">la nodjed.</foreignphrase>) according to taste (following
-the US system &mdash; and much to at least one of your author's
+lang="art-lojban">la nodjed.</foreignphrase>) according to taste (much 
+to at least one of your author's
 inconvenience.) Eventually, though, people will use whichever system they
 prefer until one becomes universally accepted.</para>
 
@@ -489,7 +492,12 @@ week. (Remember, <foreignphrase lang="art-lojban">jungo</foreignphrase>
 means <quote role="gloss">Chinese</quote>.)
 </para>
 
-<note><para>You will also see days in full <foreignphrase
+<note><para>For these lessons, of course, we do have to teach 
+<emphasis>something</emphasis> &mdash; and that <quote role="socalled">something</quote>
+will be that Monday is Day 1. That, of course, is already getting in the way of usage,
+but it's unavoidable.</para></note>
+
+<tip><para>You will also see days in full <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> form (meaning in practice one extra consonant after the number), looking like this:
 
 <variablelist termlength="20">
@@ -528,7 +536,7 @@ lang="art-lojban">zeldei</foreignphrase></term><listitem><para>7-day (= 0-day)</
 
 </variablelist>
 
-</para></note>
+</para></tip>
 
 <para>Months also use numbered <foreignphrase
 lang="art-lojban">cmene</foreignphrase>, adding <foreignphrase

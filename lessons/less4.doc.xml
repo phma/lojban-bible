@@ -504,6 +504,9 @@ all...</quote>. </para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">batci</foreignphrase></term><listitem><para>x<subscript>1</subscript> bites/pinches x<subscript>2</subscript> on/at specific locus x<subscript>3</subscript> with x<subscript>4</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">cifnu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is an infant/baby
 [helpless through youth/incomplete development] of species
 x<subscript>2</subscript></para></listitem></varlistentry>
@@ -514,6 +517,12 @@ kisses/busses x<subscript>2</subscript> at locus x<subscript>3</subscript></para
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">citka</foreignphrase></term><listitem><para>x<subscript>1</subscript> eats/ingests/consumes (transitive verb) x<subscript>2</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">gerku</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a dog/canine/[bitch] of species/breed x<subscript>2</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">melbi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is beautiful/pleasant to x<subscript>2</subscript> in aspect x<subscript>3</subscript> (ka) by aesthetic standard x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">mlatu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
@@ -590,10 +599,10 @@ question?
 <foreignphrase lang="art-lojban">xo</foreignphrase>, as we'll see in the next
 lesson).</para>
 
-<para><foreignphrase lang="art-lojban">xo</foreignphrase> is also used in mathematics, as in
+<note><para><foreignphrase lang="art-lojban">xo</foreignphrase> is also used in mathematics, as in
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">li ci su'i vo du li xo</foreignphrase>
-3 + 4 = ? </literallayout></informalexample></para>
+3 + 4 = ? </literallayout></informalexample></para></note>
 
 <para>A few more examples:
 
@@ -672,9 +681,10 @@ lang="art-lojban">la'e</foreignphrase></term><listitem><para>the referent of (no
 really an article, as it takes a full <foreignphrase
 lang="art-lojban">sumti</foreignphrase> or pro-<foreignphrase
 lang="art-lojban">sumti</foreignphrase>, as in <foreignphrase
-lang="art-lojban">la'edi'u</foreignphrase> &mdash; the thing the last sentence refers
-to, as opposed to the words of the last
-sentence)</para></listitem></varlistentry>
+lang="art-lojban">la'edi'u</foreignphrase>, what the last sentence refers
+to, as opposed to <foreignphrase
+lang="art-lojban">di'u</foreignphrase>, the actual words of the last
+sentence.)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">le'e</foreignphrase></term><listitem><para>the

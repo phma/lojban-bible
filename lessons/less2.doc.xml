@@ -2,8 +2,8 @@
 
 <sect1 id="less2rels"><title>Names and relationships</title><para>In Lesson
 1 we looked at <foreignphrase lang="art-lojban">cmene</foreignphrase>,
-Lojban names. <foreignphrase lang="art-lojban">cmene</foreignphrase> always
-label one particular thing. Just as in English, if I say
+Lojban names. <foreignphrase lang="art-lojban">cmene</foreignphrase> are typically
+understood to label one particular thing. Just as in English, if I say
 <wordasword>Mary</wordasword>, I mean one particular person called Mary at
 a time, no matter how many people there are in the world called Mary; so in
 Lojban, <foreignphrase lang="art-lojban">meris.</foreignphrase> can only
@@ -26,7 +26,7 @@ relationship are said to act as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>. A <foreignphrase
 lang="art-lojban">selbri</foreignphrase> is not a <emphasis>type</emphasis>
 of word (like a <quote role="socalled">verb</quote> in English), it is
-something that some types of word can <emphasis>do</emphasis>. Various
+something that some types of words can <emphasis>do</emphasis>. Various
 types of word can act as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, but <foreignphrase
 lang="art-lojban">cmene</foreignphrase>, as we've seen, can't. </para>
@@ -49,7 +49,8 @@ or
 <para>Which of the following Lojban words are:
 <orderedlist numeration="loweralpha">
 <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (remember, they 
+always end in a consonant)</para></listitem>
 <listitem><para>neither?</para></listitem>
 </orderedlist></para>
 
@@ -77,8 +78,13 @@ lang="art-lojban">gismu</foreignphrase>, let's see what we can make it do.
 <foreignphrase lang="art-lojban">dunda</foreignphrase> means <quote
 role="gloss">give</quote>, and as a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> it describes a relationship
-between a giver, something they give, and someone who receives it. Let's
-say we have three people, Maria, Claudia and Julia. If we say 
+between a giver, something they give, and someone who receives it &mdash; in that order.
+(Lojban insists on the order so you can tell which is which; but that's a convention
+of <foreignphrase lang="art-lojban">dunda</foreignphrase>, rather than something 
+intrinsic in the act of giving.)</para>
+
+<para>Let's
+say we have three people, Maria, Claudia and Julia, for instance. If we say 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la mari,as. dunda la .iulias. la klaudias.</foreignphrase></literallayout>
 </informalexample>we mean that Maria gives Julia to Claudia.</para>
 
@@ -292,8 +298,8 @@ role="socalled">doing</quote> and <quote role="socalled">being</quote>).
 <listitem><para>If there is someone or something that has something done to them,
 he/she/it is usually in the second place.  </para></listitem>
 
-<listitem><para><wordasword>to</wordasword> places nearly always come before 
-<wordasword>from</wordasword> places. </para></listitem>
+<listitem><para><wordasword>to</wordasword> places (destinations) nearly always come before 
+<wordasword>from</wordasword> places (origins). </para></listitem>
 
 <listitem><para>Less-used places come towards the end.  These tend to be things
 like <quote role="gloss">by standard</quote>, <quote role="gloss">by
@@ -326,6 +332,7 @@ the third, fourth and fifth places. </para>
 <listitem><para><foreignphrase lang="art-lojban">sutra</foreignphrase> &ndash; fast</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase> &ndash; green</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">sisti</foreignphrase> &ndash; stop, cease</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">prenu</foreignphrase> &ndash; person</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cmima</foreignphrase> &ndash; member</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">barda</foreignphrase> &ndash; big</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cusku</foreignphrase> &ndash; say, express</para></listitem>
@@ -673,6 +680,9 @@ green</para></listitem></varlistentry></variablelist></para></listitem>
 lang="art-lojban">sisti</foreignphrase></term> <listitem><para>x<subscript>1</subscript>
 ceases/stops/halts activity/process/state x<subscript>2</subscript> [not necessarily completing
 it] </para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">prenu</foreignphrase></term> <listitem><para>x<subscript>1</subscript> is a person/people (noun) [not necessarily human]</para></listitem></varlistentry></variablelist></para></listitem>
 
 <listitem><para><variablelist><varlistentry><term><foreignphrase
 lang="art-lojban">cmima</foreignphrase></term> <listitem><para>x<subscript>1</subscript> is a

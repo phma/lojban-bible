@@ -53,19 +53,9 @@ we can (and do) say
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">prami</foreignphrase></term><listitem><para>x<subscript>1</subscript> loves/feels
-strong affectionate devotion towards x<subscript>2</subscript>
-(object/state)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">nenri</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
-in/inside/within x<subscript>2</subscript>; x<subscript>1</subscript> is on the inside/interior of x<subscript>2</subscript> [totally within the
-bounds of x<subscript>2</subscript>]</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">finti</foreignphrase></term><listitem><para>x<subscript>1</subscript>
-invents/creates/composes/authors x<subscript>2</subscript> for function/purpose x<subscript>3</subscript> from existing
-elements/ideas x<subscript>4</subscript></para></listitem></varlistentry>
+lang="art-lojban">catra</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent)
+kills/slaughters/murders x<subscript>2</subscript> by action/method
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">ciska</foreignphrase></term><listitem><para>x<subscript>1</subscript> inscribes/writes
@@ -73,9 +63,25 @@ x<subscript>2</subscript> on display/storage medium x<subscript>3</subscript> wi
 scribe</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">catra</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent)
-kills/slaughters/murders x<subscript>2</subscript> by action/method
-x<subscript>3</subscript></para></listitem></varlistentry>
+lang="art-lojban">finti</foreignphrase></term><listitem><para>x<subscript>1</subscript>
+invents/creates/composes/authors x<subscript>2</subscript> for function/purpose x<subscript>3</subscript> from existing
+elements/ideas x<subscript>4</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">nelci</foreignphrase></term><listitem><para>x<subscript>1</subscript> is fond of/likes/has a taste for x<subscript>2</subscript> (object/state) </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">nenri</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+in/inside/within x<subscript>2</subscript>; x<subscript>1</subscript> is on the inside/interior of x<subscript>2</subscript> [totally within the
+bounds of x<subscript>2</subscript>]</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">prami</foreignphrase></term><listitem><para>x<subscript>1</subscript> loves/feels
+strong affectionate devotion towards x<subscript>2</subscript>
+(object/state)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">sutra</foreignphrase></term><listitem><para>x<subscript>1</subscript> is fast/swift/quick/hastes/rapid at doing/being/bringing about x<subscript>2</subscript> (event/state)</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -505,24 +511,30 @@ can't really say <foreignphrase lang="art-lojban">la pe la meiris.
 porc.</foreignphrase>, either.</para><para>For <foreignphrase
 lang="art-lojban">le</foreignphrase> + <foreignphrase
 lang="art-lojban">gismu</foreignphrase> as a possessor, things are even
-worse: if I want to say <foreignphrase lang="art-lojban">le tamne pe le
-ninmu klama</foreignphrase> <quote role="gloss">the woman traveller's
-cousin</quote>, I could flip it around as <foreignphrase
-lang="art-lojban">le le ninmu klama tamne</foreignphrase> &mdash; but then,
-how can you tell where the <quote role="socalled">possessor</quote> ends
-and where the <quote role="socalled">possessee</quote> begins? That could
-just as easily be <quote role="gloss">the woman's travelling
-cousin.</quote> And as it turns out, in Lojban grammar this actually
-translates as <quote>the woman travelling cousin's... Where did the
-possessee go? Does not compute.</quote> A situation best avoided, in other
-words.</para><para>There <emphasis>is</emphasis> a way you can make this
-work, though &mdash; which we'll cover in <link linkend="less5">a couple of
-lessons</link>. For now, nest only names and single-word <foreignphrase
+worse. The way Lojban grammar works, the <foreignphrase
+lang="art-lojban">sumti</foreignphrase> you insert between <foreignphrase
+lang="art-lojban">le</foreignphrase> and a <foreignphrase
+lang="art-lojban">brivla</foreignphrase>, to indicate a <quote 
+role="socalled">possessor</quote>, has to be kept fairly simple. For now,
+in fact, nest only names and single-word <foreignphrase
 lang="art-lojban">sumti</foreignphrase> inside <foreignphrase
 lang="art-lojban">le</foreignphrase> + <foreignphrase
 lang="art-lojban">gismu</foreignphrase>-type <foreignphrase
 lang="art-lojban">sumti</foreignphrase>; that's what everyone ends up doing
-anyway.</para></note>
+anyway.</para>
+
+<para>To see why things can go wrong, consider how you would say 
+<foreignphrase lang="art-lojban">le tamne pe le
+ninmu klama</foreignphrase> <quote role="gloss">the woman traveller's
+cousin</quote> with this kind of nesting. You could flip it around as <foreignphrase
+lang="art-lojban">le le ninmu klama tamne</foreignphrase> &mdash; but then,
+how can you tell where the <quote role="socalled">possessor</quote> ends
+and where the <quote role="socalled">possessee</quote> begins? That phrase could
+just as easily be <quote role="gloss">the woman's travelling
+cousin.</quote> A situation best avoided, in other
+words. There <emphasis>is</emphasis> a way you can make this
+work, though &mdash; which we'll cover in <link linkend="less5">a couple of
+lessons</link>. </para></note>
 
 <simplesect role="exercise"><title>Exercise 3</title>
 
@@ -703,7 +715,7 @@ lang="art-lojban">sumti</foreignphrase>;</para></listitem>
 lang="art-lojban">selbri</foreignphrase>;</para></listitem>
 <listitem><para>express association between two <foreignphrase 
 lang="art-lojban">sumti</foreignphrase>, using <foreignphrase 
-lang="art-lojban">pe</foreignphrase> and forethought nesting;</para></listitem>
+lang="art-lojban">pe</foreignphrase> and nesting;</para></listitem>
 <listitem><para>express association between two <foreignphrase 
 lang="art-lojban">sumti</foreignphrase> more precisely, as alienable or 
 inalienable possession.</para></listitem>
@@ -749,7 +761,7 @@ about Paris, Texas.  </para></listitem>
 
 <listitem><para>Trick question.  <foreignphrase
 lang="art-lojban">la</foreignphrase> can name a specific Porsche, not Porsches in
-general, so it might go fast or not (e.g. it could have just broken down
+general, and a specific Porsche might go fast or not (e.g. it could have just broken down
 and not go at all.)  </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la KEnydis.</foreignphrase>
