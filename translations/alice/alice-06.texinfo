@@ -1,5 +1,5 @@
 @node    xamoi pagbu
-@chapter xamo'o le xarju .e lei tsaprpiperi
+@chapter no'ino'i xamo'o le xarju .e lei tsaprpiperi
 
 
 @c                               CHAPTER VI

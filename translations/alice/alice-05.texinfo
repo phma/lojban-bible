@@ -1,5 +1,5 @@
 @node    mumoi pagbu
-@chapter mumo'o se djusku lo ciftoldi
+@chapter no'ino'i mumo'o se djusku lo ciftoldi
 
 
 @c                                CHAPTER V
@@ -13,9 +13,9 @@
 @c    silence:  at last the Caterpillar took the hookah out of its
 @c    mouth, and addressed her in a languid, sleepy voice.
 
-la ciftoldi ku joi la alis ze'a simxu le nu smaji catlu i bazubo
-la ciftoldi cu bevri le nargile fo le moklu gi'e o'udai a'inaidai
-cusku fi abu
+no'i la ciftoldi ku joi la alis ze'a simxu le nu smaji catlu i bazubo la
+ciftoldi cu bevri le nargile fo le moklu gi'e o'udai a'inaidai cusku fi
+abu
 
 @c stidi zo jaurdamtci seba'i lu marna tubnu li'u
 @c Found the right word: nargile.

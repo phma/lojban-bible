@@ -2,6 +2,7 @@
 @c %**start of header
 @setfilename alice.info
 @settitle la alis. cizra je cinri zukte vi le selmacygu'e
+@smallbook
 @setchapternewpage odd
 @c %**end of header
 
@@ -33,16 +34,9 @@ dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi se
 finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 @end ifinfo
 
-@copying
-This work, in all forms, is explicitely placed in the public domain.
-@c explicitely?
-@c Yeah, it's something you have to be clear on these days.  By default,
-@c all works are copyrighted.  -Robin
-
-dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
-
-@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
-@end copying
+@tex
+\gdef \putwordTOC{liste le'i pagbu}
+@end tex
 
 @titlepage
 @sp 10
@@ -53,20 +47,25 @@ dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
 
 @vskip 0pt plus 1filll
 
-@insertcopying
-
 @end titlepage
 
 @contents
 
+@iftex
+@headings off
+@evenheading @thispage @|  @    @|  @thistitle
+@oddheading  @thischaptername @| @  @| @thispage
+@end iftex
+
 @ifinfo
 @node Top
-@top la alis. cizra je cinri zukte vi le selmacygu'e
+@top no'ino'ino'i la alis. cizra je cinri zukte vi le selmacygu'e
 
-dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi se
-finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
+no'i dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi
+se finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 
 @menu
+* le fukpi te curmi::	le te curmi be le nu fukpi [Copying Permissions]
 * pamoi pagbu::	pamo'o mo'ini'a le ractu kevna
 * remoi pagbu::	remo'o le se klaku lalxu
 * cimoi pagbu::	cimo'o le me la kaukus nu bajra jivna e le clani lisri
@@ -81,6 +80,19 @@ finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 * paremoi pagbu::	paremo'o le sidydatni po'e la alis.
 @end menu
 @end ifinfo
+
+@node le fukpi te curmi
+@unnumbered no'ino'i le fukpi te curmi [Copying Permissions]
+
+This work, in all forms, is explicitely placed in the public domain.
+@c explicitely?
+@c Yeah, it's something you have to be clear on these days.  By default,
+@c all works are copyrighted.  -Robin
+
+no'i dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni
+selpo'e
+
+@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
 
 @include alice-01.texinfo
 @include alice-02.texinfo

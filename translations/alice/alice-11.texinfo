@@ -1,5 +1,5 @@
-﻿@node    papamoi pagbu
-@chapter papamo'o ma zerle'a lei rutytisna
+@node    papamoi pagbu
+@chapter no'ino'i papamo'o ma zerle'a lei rutytisna
 
 
 @c                               CHAPTER XI
