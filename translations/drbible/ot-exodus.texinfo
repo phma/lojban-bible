@@ -2175,7 +2175,7 @@ ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
 20:2. .i mi'e .iaves noi cevni do mi livgau do le misro gugde noi selbaigu'a zdani
 
 @c    20:3. Thou shalt not have strange gods before me.
-20:3. .i lo drata be mi be'o na cevni ko
+20:3. .i lo drata be mi na cevni ko
 @c zo be'o na sarcu
 
 @c    20:4. Thou shalt not make to thyself a graven thing, nor the likeness
@@ -2209,7 +2209,7 @@ noi cevni do ku'o ku'o jilra cevni .i da poi xebni mi zo'u le pazypazypanzi
 
 @c    20:6. And shewing mercy unto thousands to them that love me, and keep
 @c    my commandments.
-20:6. .ije mi xendo so'iki'o da poi prami mi gi'e tinbe fi mi
+20:6. .ije mi xendo so'iki'o da poi prami mi gi'e tinbe le te minde be mi
 @c lu tinbe le te minde be mi li'u pe'i mi'e adam
 
 @c    20:7. Thou shalt not take the name of the Lord thy God in vain:  for the
@@ -2225,30 +2225,40 @@ le cmene be la .iaves noi cmene da zo'u la .iaves na xusra ledu'u da zercau
 20:8. .i ko morji lenu cesri'a le surdei
 
 @c    20:9. Six days shalt thou labour, and shalt do all thy works.
-20:9. .i ca'o xafi'uze loi djedi ku ko gunka gi'e zbasu ro le do selzba
+20:9. .i ca'o lo djedi be li xa ku ko gunka gi'e zbasu ro le selzba be do
 @c i ma nabmi pe lu ca/ca'o lo djedi pe li xa li'u i ji'a lu le selzba be do li'u
 @c mi'e adam
+
+@c By {lo djedi pe li xa} you mean "at least one six-day period", implying
+@c one period per week? Ok. Why {pe} instead of {be}? -phma
 
 @c    20:10. But on the seventh day is the sabbath of the Lord thy God:  thou
 @c    shalt do no work on it, thou nor thy son, nor thy daughter, nor thy
 @c    manservant, nor thy maidservant, nor thy beast, nor the stranger that
 @c    is within thy gates.
 20:10. .iku'i le zemoi djedi cu surdei ca'i la .iaves noi cevni do .i ko na gunka ca'o ra
-.ije leko bersa .a leko tixnu .a le nakni ja fetsi selfu be ko .a leko mabru
+.ije le bersa .a le tixnu .a le nakni ja fetsi selfu .a le mabru
 .a le fange poi nenri leko vorme nago'i
 @c i lu le bersa e le tixnu li'o cu logji drani gi'e zmamapti le krasi se fanva mi'e adam
+
+@c zoi xy. ubhinkha ubhitekha .xy krasi se fanva .i zoi xy. kha .xy se fanva fu
+@c lo'u pe do le'u mi'e pier.
 
 @c    20:11. For in six days the Lord made heaven and earth, and the sea, and
 @c    all things that are in them, and rested on the seventh day:  therefore
 @c    the Lord blessed the seventh day, and sanctified it.
 20:11. .iki'ubo la .iaves cu zbasu le terdi .e le xamsi .e le se vasru be ri
 ca'o lo djedi be li xa gi'e surla ca'o le zemoi djedi .iseki'ubo la .iaves
-cu toldapma gi'e cesri'a le zemoi djedi
+cu zabgau gi'e cesri'a le zemoi djedi
 @c zo toldapma cu xlatce pe'i i cu'i zo zabna cu mapti zmadu mi'e adam
+
+@c That would mean "YHWH is a good connotation of the seventh day" - or has the meaning
+@c of {zabna} changed?
+@c xu zo zabgau mi'e pier.
 
 @c    20:12. Honour thy father and thy mother, that thou mayst be longlived
 @c    upon the land which the Lord thy God will give thee.
-20:12. .i ko sinma le do patfu .e ledo mamta mu'i lenu do ze'u jmive
+20:12. .i ko sinma le patfu be do .e le mamta be do mu'i lenu do ze'u jmive
 vi le tumla poi la .iaves noi cevni do cu dunda fi do
 @c i mi stidu zo sinma peseba'i zo salci 
 @c iji'a lu do ze'u jmive vi le tumla poi la turni noi cevni do cu dunda ke'a fi do li'u
