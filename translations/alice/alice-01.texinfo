@@ -258,10 +258,12 @@ abu barkla le manku kumfa gi'e cadzu jbini lei va zdani be loi carmi
 xrula be'o ku joi lei va lenku jinto i ku'i abu na ka'e gregau le
 ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre
 kei sei la alis uu pensi sy tolmutce le ka se pilno secau lei mi janco
-i au mi ka'e se polje tai tu'a lo darvistci i pe'i mi ka'e go'i va'o
+i au mi ka'e se polje tai tu'a le'e darvistci i pe'i mi ka'e go'i va'o
 le nu mi djuno le du'u mi co'a co'e ta'i makau li'u i lei puzi nalfadni
 fasnu tai so'imoi ja'e le nu la alis co'a jinvi le du'u so'usai da
 ca'a nalcumki
+@c le'e darvistci: this kind of contraction is typical of some kinds
+@c of telescopes, but by no means all. -phma
 
 @c      There seemed to be no use in waiting by the little door, so she
 @c    went back to the table, half hoping she might find another key on
@@ -274,10 +276,11 @@ ca'a nalcumki
 i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
 le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy
 cpana kei se.u tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
-tai tu'a lo darvistci i ca le ca krefu abu facki le du'u jy se cpana lo
+tai tu'a le'e darvistci i ca le ca krefu abu facki le du'u jy se cpana lo
 cmalu botpi to lu noi ju'o na pu zvati ti sei la alis cusku li'u toi i
 sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe
 li'u cu melbi prina ke'a sepi'o loi barda lerfu
+@c mi stidi lu .a do'anai li'u peseba'i lu se.u li'u -mi'e pier.
 
 @c      It was all very well to say `Drink me,' but the wise little
 @c    Alice was not going to do THAT in a hurry.  `No, I'll look
@@ -393,9 +396,9 @@ zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e le nu gasnu le nu
 le se klaku cu zvati le kanla i abu paroi sei morji cu troci le nu darxi
 le abu kerlo kei mu'i le nu abu abu tcica ca lo nu abu abu fapro le nu
 kelcrkroke i le vi cizra verba cu mutce le ka nelci le nu sruma le du'u
-du re prenu i lu ku'i noda mi ca prali sei la alis uu pensi le nu sruma 
+du re prenu i lu ku'i noda mi ca prali sei la alis uu pensi le nu sruma
 le du'u mi du re prenu i oi le mi ve vimcu na banzu le nu marji fi ba'e
-pa se sinma prenu li'u 
+pa se sinma prenu li'u
 
 @c      Soon her eye fell on a little glass box that was lying under
 @c    the table:  she opened it, and found in it a very small cake, on
@@ -407,9 +410,9 @@ pa se sinma prenu li'u
 
 i bazi le nu abu catlu cu se farna lo cmalu ke blaci tanxe noi cnita
 le jubme i abu kargau ty gi'e facki le du'u nenri ty fa lo cmalu mutce
-titnanba noi bu'u ke'a lei valsi po'u lu ko mi citka li'u se morna 
-loi sudgrute i lu ai mi ti citka sei la alis cusku i va'o da'i le nu ti 
-mi barze'agau kei mi snada le nu cpacu le ckiku i va'o da'i le nu ti mi
+titnanba noi bu'u ke'a lei valsi po'u lu ko mi citka li'u se morna
+loi sudgrute i lu ai mi ti citka sei la alis cusku i va'o da'i le nu ti
+mi braze'agau kei mi snada le nu cpacu le ckiku i va'o da'i le nu ti mi
 cmaze'agau kei mi kakne le nu reskla ni'a le vrogai i seki'ubo va'o le
 re fasnu kei mi ka'e klama le purdi i mi na se vajni le nu le mokau cu
 fasnu li'u
@@ -425,9 +428,9 @@ fasnu li'u
 
 i abu citka lo spisa gi'e xanka sezysku lu fa'a ma i fa'a ma li'u gi'e
 punji le xance le cpana be le stedu tezu'e le nu ganse le nu sy banro
-fa'a makau i abu mutce le ka spaji le nu facki le du'u abu stali le nu 
+fa'a makau i abu mutce le ka spaji le nu facki le du'u abu stali le nu
 barda mintu i li'a la'edi'u ta'e fasnu ca le nu citka lo titnanba i ku'i
-la alis tai se tcaci le nu ba'akau no na'e tolfadni cu fasnu kei ja'e 
+la alis tai se tcaci le nu ba'akau no na'e tolfadni cu fasnu kei ja'e
 le nu simlu le ka tolzdile gi'e bebna kei fa le nu le nunjmive cu ca'o
 fadni
 
