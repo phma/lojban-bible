@@ -132,27 +132,40 @@ le nu cipra cu spuda li'u
 @c    bite.  And the moral of that is--"Birds of a feather flock
 @c    together."'
 
-i lu je'usai sei le noltroni'u cu cusku ge lo'e xagycpi gi lo'e ?????
-cu batci i la'e di'u madni'i la'e lu lei cipni poi pimlu dunli ckaji
-roroi jmaji li'u li'u  
+i lu je'usai sei le noltroni'u cu cusku ge lo'e xagycpi gi lo'e 
+sansrmustardo cu batci i la'e di'u madni'i la'e lu lei cipni poi pimlu 
+dunli ckaji roroi jmaji li'u li'u  
 
 @c      `Only mustard isn't a bird,' Alice remarked.
 
-i lu ku'i ????? na cipni sei la alis te pinka li'u
+i lu ku'i lo'e sansrmustardo na cipni sei la alis te pinka li'u
 
 @c      `Right, as usual,' said the Duchess:  `what a clear way you
 @c    have of putting things!'
 
+i lu ca je ta'e drani sei le noltroni'u cusku i i'o le nu do cusku cu
+klina le nu jimpe li'u
+
 @c      `It's a mineral, I THINK,' said Alice.
+
+i lu sy kunra ba'e pe'i sei la alis cusku li'u
 
 @c      `Of course it is,' said the Duchess, who seemed ready to agree
 @c    to everything that Alice said; `there's a large mustard-mine near
 @c    here.  And the moral of that is--"The more there is of mine, the
 @c    less there is of yours."'
 
+i lu li'a go'i sei le noltroni'u noi simlu le ka bredi le nu tugni la alis
+roda cusku i lo barda sansrmustardo terkunra vi jibni i la'e di'u madni'i
+la'e lu le nu lo memimoi cu zenba cu panra le nu lo medomoi cu jdika li'u 
+li'u
+
 @c      `Oh, I know!' exclaimed Alice, who had not attended to this
 @c    last remark, `it's a vegetable.  It doesn't look like one, but it
 @c    is.'
+
+i lu ue ka'u sei la alis noi na jundi le romoi pinka cu krisku i sy stagi
+i sy le ka go'i na catlu gi'eku'i ja'a ckaji li'u 
 
 @c      `I quite agree with you,' said the Duchess; `and the moral of
 @c    that is--"Be what you would seem to be"--or if you'd like it put
@@ -160,6 +173,11 @@ i lu ku'i ????? na cipni sei la alis te pinka li'u
 @c    what it might appear to others that what you were or might have
 @c    been was not otherwise than what you had been would have appeared
 @c    to them to be otherwise."'
+ 
+i lu mi do ja'asai tugni sei le noltroni'u cusku i la'e di'u madni'i la'e
+lu ko ckaji le se simlu be do li'u i va'i sa'u lu ko noroi se xanri le nu
+do na ckaji na'eboda poi do simlu fi lei drata fe le ka de poi do ca'a ja
+nu'o ckaji ke'a na drata di poi do simlu ke'a lei drata lo drata li'u li'u
 
 @c      `I think I should understand that better,' Alice said very
 @c    politely, `if I had it written down:  but I can't quite follow it
