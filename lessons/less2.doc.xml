@@ -1,2 +1,857 @@
-<chapter id="less2"><title>Relationships and Places</title><sect1 id="less2rels"><title>Names and relationships</title><para>In Lesson1 we looked at <foreignphrase lang="art-lojban">cmene</foreignphrase>,Lojban names. <foreignphrase lang="art-lojban">cmene</foreignphrase> alwayslabel one particular thing. Just as in English, if I say<wordasword>Mary</wordasword>, I mean one particular person called Mary ata time, no matter how many people there are in the world called Mary; so inLojban, <foreignphrase lang="art-lojban">meiris.</foreignphrase> can onlyrefer to one person. This means that <foreignphraselang="art-lojban">cmene</foreignphrase> normally do not stand for classesof things (like <wordasword>person</wordasword>,<wordasword>dog</wordasword> or <wordasword>computer</wordasword>) or forrelationships between things (like <wordasword>loves</wordasword>,<wordasword>gives</wordasword> or <wordasword>is inside</wordasword>).</para><para>Relationships are the key to Lojban, and words describing arelationship are called <foreignphraselang="art-lojban">selbri</foreignphrase>. A <foreignphraselang="art-lojban">selbri</foreignphrase> is not a <emphasis>type</emphasis>of word (like a <quote role="socalled">verb</quote> in English), it issomething that some types of word can <emphasis>do</emphasis>. Varioustypes of word can act as <foreignphraselang="art-lojban">selbri</foreignphrase>, but <foreignphraselang="art-lojban">cmene</foreignphrase>, as we've seen, can't. </para><para>The main type of word used as a <foreignphraselang="art-lojban">selbri</foreignphrase> is a <foreignphraselang="art-lojban">gismu</foreignphrase>, or root-word. These are thebuilding blocks of Lojban vocabulary. <foreignphraselang="art-lojban">gismu</foreignphrase> are easy to recognise, because theyalways have five letters, in the form<informalexample><literallayout>CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></informalexample>or<informalexample><literallayout>CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene</foreignphrase>(C=consonant; V=vowel).</literallayout></informalexample></para><simplesect role="exercise"><title>Exercise 1</title><para>Which of the following Lojban words are:<orderedlist numeration="loweralpha"><listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem><listitem><para>neither?</para></listitem></orderedlist></para><para>Note: I've left out the full stops in the <foreignphraselang="art-lojban">cmene</foreignphrase> &mdash; that would make it too easy!<orderedlist><listitem><para><foreignphrase lang="art-lojban">lojban</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">dunda</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ankaras</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">cukta</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">prenu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">blanu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ka'e</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">dublin</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">selbri </foreignphrase></para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less2places"><title>Take your places...</title> <para>Now we can recognise a <foreignphraselang="art-lojban">gismu</foreignphrase>, let's see what we can make it do.<foreignphrase lang="art-lojban">dunda</foreignphrase> means <quoterole="gloss">give</quote>, and as a <foreignphraselang="art-lojban">selbri</foreignphrase> it describes a relationshipbetween a giver, something they give, and someone who receives it. Let'ssay we have three people, Maria, Claudia and Julia. If we say<informalexample><literallayout><foreignphrase lang="art-lojban">la mari,as. dunda la .iulias. la klaudias.</foreignphrase></literallayout></informalexample>we mean that Maria gives Julia to Claudia. (Let's say Julia is ababy, as since the abolition of slavery, we don't normally give people aspresents. In English you <emphasis>can</emphasis> <quoterole="socalled">give</quote> someone in marriage, but that's aculture-specific metaphor, and Lojban discourages that kind of thing&mdash; it's an example of <foreignphraselang="art-lojban">malglico</foreignphrase> (<quote role="gloss">damnedEnglish</quote>), transferring features of English into Lojban which don'twork.)</para><note><para>The <foreignphraselang="art-lojban">la</foreignphrase> you see in front of each name is an article, like <wordasword>a</wordasword> and <wordasword>the</wordasword> in English. Its job is to signal to the listener that the word coming up is a name, and not some other kind of word.</para></note><para>If, on the other hand, we say<informalexample><literallayout><foreignphrase lang="art-lojban">la .iulias. dunda la mari,as. la klaudias.</foreignphrase></literallayout></informalexample>we mean that Maria is the baby, and Julia gives her to Claudia. How do weknow this? English uses the word <wordasword>to</wordasword> to indicatethe receiver, and in some other languages (like Latin or Turkish) the formof the words themselves change. In Lojban, as in logic, we have what iscalled <emphasis>place structure</emphasis>. </para><para>Place-structure means that <foreignphraselang="art-lojban">dunda</foreignphrase> doesn't just mean <wordasword>give</wordasword>, it means<informalexample><literallayout>x1 gives x2 to x3</literallayout></informalexample>where <wordasword>x</wordasword> means someone or something. Even if wejust say <foreignphrase lang="art-lojban">dunda</foreignphrase> on its own, westill mean that someone gives something to someone; we just aren'tinterested in (or we already know) who or what. </para><para>We can say, then, that <foreignphraselang="art-lojban">dunda</foreignphrase> has three <quoterole="socalled">places</quote>. We can think of places as slots which wecan, if we want, fill with people, objects, events or whatever. Theseplaces are called <foreignphrase lang="art-lojban">sumti</foreignphrase> in Lojban(easy to remember, as it sounds a bit like someone saying<wordasword>something</wordasword> and chewing off the end of the word). Again, a<foreignphrase lang="art-lojban">sumti</foreignphrase> is not a<emphasis>type</emphasis> of word, it is something a word<emphasis>does</emphasis>. The simplest Lojban sentence is a <foreignphraselang="art-lojban">bridi</foreignphrase>, i.e. a <foreignphraselang="art-lojban">selbri</foreignphrase> and a bunch of <foreignphraselang="art-lojban">sumti</foreignphrase>. In other words,<informalexample><literallayout><foreignphrase lang="art-lojban">bridi = selbri + sumti</foreignphrase></literallayout></informalexample></para><note><title>Note for logicians and computer programmers</title><para>For<foreignphrase lang="art-lojban">selbri</foreignphrase> read <quoterole="gloss">function</quote>; for <foreignphraselang="art-lojban">sumti</foreignphrase> read <quote role="gloss">argument</quote>.</para> </note><para>How many <foreignphrase lang="art-lojban">sumti</foreignphrase> can a<foreignphrase lang="art-lojban">selbri</foreignphrase> describe? The numberdepends on the place structure of the word we use for the <foreignphraselang="art-lojban">selbri</foreignphrase> (there are ways of tagging on extra<foreignphrase lang="art-lojban">sumti</foreignphrase>, which we'll cover in laterlessons). A <foreignphrase lang="art-lojban">gismu</foreignphrase> has a setnumber of places; as we've just seen, <foreignphraselang="art-lojban">dunda</foreignphrase> has three. The number of places variesfrom one to a staggering (and rare) five. Here are some examples. </para><variablelist><title>One place</title><varlistentry><term><foreignphrase lang="art-lojban">ninmu</foreignphrase></term><listitem><para>x1 is a woman (any female humanoid person, not necessarilyadult)</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">blabi</foreignphrase></term><listitem><para>x1 is white / very light-coloured</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">cmila</foreignphrase></term><listitem><para>x1 laughs [not necessarily at someone or something;to include the object of the laughter you would use the <foreignphraselang="art-lojban">lujvo</foreignphrase> (compound word) <foreignphraselang="art-lojban">mi'afra</foreignphrase> &mdash; x1 laughs at x2, a slightlydifferent concept]</para></listitem></varlistentry> </variablelist><variablelist><title>Two places</title><varlistentry><term><foreignphrase lang="art-lojban">cipni</foreignphrase></term><listitem><para>x1 is a bird/avian/fowl of species x2</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">vofli</foreignphrase></term><listitem><para>x1 flies [in air/atmosphere] using lifting/propulsion meansx2</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">jungo</foreignphrase></term><listitem><para>x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">junri</foreignphrase></term><listitem><para>x1 (person) is serious/earnest/has gravity about x2(event/state/activity) </para></listitem> </varlistentry></variablelist><variablelist><title>Three places</title><varlistentry><term><foreignphrase lang="art-lojban">xamgu</foreignphrase></term><listitem><para>x1 is good/beneficial/acceptable for x2 by standard x3</para><para>[This is <emphasis>very</emphasis> Lojbanic &mdash; the English word<wordasword>good</wordasword> on its own is so vague as to be almostmeaningless.  It is also slightly <foreignphraselang="art-lojban">malglico</foreignphrase> to put a person in the x1 place, whichis normally filled by an object, state or event. For moral good youwould usually use <foreignphrase lang="art-lojban">vrude</foreignphrase><quote role="gloss">virtuous</quote>] </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">pritu</foreignphrase></term><listitem><para>x1 is to the right of x2 facing x3</para><para>[Remember all thosetimes you have to ask <quote>Is that my right or your right?</quote> inEnglish] </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">cliva</foreignphrase></term><listitem><para>x1 leaves x2 via route x3</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">kabri</foreignphrase></term><listitem><para>x1 is a cup/glass/tumbler/mug/vessel/[bowl] containingcontents x2, and of material x3 </para></listitem></varlistentry></variablelist><variablelist><title>Four places</title><varlistentry><term><foreignphrase lang="art-lojban">vecnu</foreignphrase></term><listitem><para>x1 [seller] sells/vends x2 [goods/service/commodity] tobuyer x3 for amount/cost/expense x4 </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">tivni</foreignphrase></term><listitem><para>x1 [broadcaster] televises programming x2 via media/channelx3 to television receiver x4 </para></listitem></varlistentry></variablelist><variablelist><title>Five places</title><varlistentry><term><foreignphrase lang="art-lojban">klama</foreignphrase></term><listitem><para>x1 goes/comes to x2 from x3 via x4 by means x5</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">cukta</foreignphrase></term><listitem><para>x1 is a book about subject/theme/story x2 by author x3 foraudience x4 preserved in medium x5 </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">fanva</foreignphrase></term><listitem><para>x1 translates x2 to language x3 from language x4 with translation-result x5</para></listitem></varlistentry></variablelist></sect1><sect1 id="less2detplaces"><title>Determining place structure</title><para>If all these places sound a bit daunting, don't worry &mdash; youdon't have to memorise all of them (in fact nobody does). There are a fewcases where it's worth learning the place structure to avoidmisunderstanding, but usually you can guess place structures using contextand a few rules of thumb. </para><para><orderedlist><listitem><para>The first place is often the person or thing who<emphasis>does</emphasis> something or <emphasis>is</emphasis> something(in Lojban there is no grammatical difference between <quoterole="socalled">doing</quote> and <quote role="socalled">being</quote>).</para></listitem><listitem><para>If there is someone or something that has something done to them,he/she/it is usually in the second place.  </para></listitem><listitem><para><wordasword>to</wordasword> places nearly always come before <wordasword>from</wordasword> places. </para></listitem><listitem><para>Less-used places come towards the end.  These tend to be thingslike <quote role="gloss">by standard</quote>, <quote role="gloss">bymeans</quote> or <quote role="gloss">made of</quote>.</para></listitem></orderedlist></para><para>The general idea is that the places which are most likely to befilled come first. You don't have to use all the available places, and anyunfilled places at the end are simply missed out. </para><simplesect role="exercise"><title>Exercise 2</title> <para>Try to guess the placestructure of the following <foreignphrase lang="art-lojban">gismu</foreignphrase>.You probably won't get them all, but you should be able to guess the mostimportant ones. Think of what <emphasis>needs</emphasis> to be in thesentence for it to make sense, then add anything you think would be useful.For example, with <foreignphrase lang="art-lojban">klama</foreignphrase>, you needto know who's coming and going, and although you could in theory say<quote>Julie goes,</quote> it would be pretty meaningless if you didn't addwhere she goes to. Where she starts her journey, the route she takes andwhat transport she uses are progressively less important, so they occupythe third, fourth and fifth places. </para><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">karce</foreignphrase> &ndash; car</para></listitem><listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase> &ndash; like</para></listitem><listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> &ndash; name</para></listitem><listitem><para><foreignphrase lang="art-lojban">sutra</foreignphrase> &ndash; fast</para></listitem><listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase> &ndash; green</para></listitem><listitem><para><foreignphrase lang="art-lojban">sisti</foreignphrase> &ndash; stop, cease</para></listitem><listitem><para><foreignphrase lang="art-lojban">cmima</foreignphrase> &ndash; member</para></listitem><listitem><para><foreignphrase lang="art-lojban">barda</foreignphrase> &ndash; big</para></listitem><listitem><para><foreignphrase lang="art-lojban">cusku</foreignphrase> &ndash; say, express</para></listitem><listitem><para><foreignphrase lang="art-lojban">tavla</foreignphrase> &ndash; talk, chat</para></listitem></orderedlist></para><note><para>What the place structure for <foreignphrase lang="art-lojban">gismu</foreignphrase> should be is often enough an involved philosophical issue. Place structures were debated exhaustively in the early '90s, and the current place structures (finalised in 1994) are not really open for negotiation any more.</para></note></simplesect></sect1><sect1 id="less2sumti"><title><foreignphraselang="art-lojban">gismu</foreignphrase> as <foreignphraselang="art-lojban">sumti</foreignphrase></title> <para>So far we've seen how a<foreignphrase lang="art-lojban">gismu</foreignphrase> can express a relationshipbetween two or more <foreignphrase lang="art-lojban">cmene</foreignphrase>, so wecan say things like<informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>Bill likes Mei Li</literallayout></informalexample>But if we don't know her name, how can we say <quote>Bill likes thewoman</quote>? If we say <foreignphrase lang="art-lojban">la bil. nelci laninmu</foreignphrase>, we mean that Bill likes someone whose name is<wordasword>Woman</wordasword>. What we say, in fact, is<informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase></literallayout></informalexample>What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? Wetranslated it into English as <quote role="gloss">the</quote>, and like<wordasword>the</wordasword> and <foreignphraselang="art-lojban">la</foreignphrase>, it <emphasis>is</emphasis> an article; but<quote role="gloss">the</quote> isn't quite what it means. The best way tothink of it is <quote role="gloss">the thing(s) I call</quote>.<foreignphrase lang="art-lojban">la + cmene</foreignphrase> is like a permanentlabel (Bill is always Bill). <foreignphrase lang="art-lojban">le +gismu</foreignphrase> is more like a temporary label &mdash; I havesomething in mind, and choose to call it <quote role="gloss">woman</quote>.Probably she really is a woman, but with <foreignphraselang="art-lojban">le</foreignphrase> this doesn't have to be so &mdash; we couldbe talking about a transvestite or a stone that looks a bit like a woman.There are other articles which can show that it's a real woman, or atypical woman or whatever, but we'll leave those alone for the time being.</para><para>One more word is sometimes necessary when using <foreignphraselang="art-lojban">gismu</foreignphrase> as <foreignphraselang="art-lojban">sumti</foreignphrase>: <foreignphraselang="art-lojban">cu</foreignphrase>. This doesn't carry any meaning, butseparates the <foreignphrase lang="art-lojban">selbri</foreignphrase> fromwhatever comes before it. It's not necessary with <foreignphraselang="art-lojban">cmene</foreignphrase>, because they can't run over into anythingelse, but <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> doesn'tmean <quote>The woman goes</quote>. Two <foreignphrase lang="art-lojban">gismu</foreignphrase> next to each other form acompound <foreignphrase lang="art-lojban">selbri</foreignphrase> (or<foreignphrase lang="art-lojban">tanru</foreignphrase>), which means that<foreignphrase lang="art-lojban">ninmu</foreignphrase> and <foreignphraselang="art-lojban">klama</foreignphrase> get run together &mdash; with the resultthat it means <quote>The woman-type-of goer</quote> (maybe a femaletraveller). What we say instead, to avoid this, is<informalexample><literallayout><foreignphrase lang="art-lojban">le ninmu cu klama</foreignphrase></literallayout></informalexample></para><warning><para><foreignphrase lang="art-lojban">cu</foreignphrase> does NOT mean<quote role="gloss">is</quote> (as in <quote>The woman is going</quote>).In fact it doesn't mean anything &mdash; it's just there to indicate thatthere's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming. You canalso use <foreignphrase lang="art-lojban">cu</foreignphrase> after a<foreignphrase lang="art-lojban">cmene</foreignphrase>, but it isn't usuallynecessary, as a name can't run over into a <foreignphraselang="art-lojban">selbri</foreignphrase>: its final consonant already makes surethat it stays separate. Similarly, you don't need <foreignphraselang="art-lojban">cu</foreignphrase> after <foreignphraselang="art-lojban">mi</foreignphrase> (I / me), <foreignphraselang="art-lojban">do</foreignphrase> (you, the person I'm talking to) or any wordslike this (<quote role="socalled">pro-<foreignphraselang="art-lojban">sumti</foreignphrase></quote>, in Lojbanjargon).</para></warning><simplesect role="exercise"><title>Exercise 3</title> <para>Add<foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojbansentences where necessary, then work out what they mean.  </para><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le karci sutra</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le prenu sisti</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le ninmu cliva</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi tavla la mari,as. </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la meiris. pritu la meilis. mi</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le cipni vofli </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ninmu</foreignphrase></para></listitem></orderedlist></para></simplesect> </sect1><sect1 id="less2changeplaces"><title>Changing Places</title> <para>We'veseen that if we don't need all the places (and we rarely do), then we canmiss out the unnecessary ones at the end of the <foreignphraselang="art-lojban">bridi</foreignphrase>. We can also miss out the first place ifit is obvious (just as in Spanish). However, it sometimes happens that wewant places at the end, but not all the ones in the middle. There are anumber of ways to get round this problem. </para><para>One way is to fill the unnecessary places with <foreignphraselang="art-lojban">zo'e</foreignphrase>, which means <quote role="gloss">somethingnot important</quote>. So <foreignphrase lang="art-lojban">la suzyn. klama laparis. la berlin. zo'e le karci</foreignphrase> tells us that Susan goes toParis from Berlin by car, but we're not interested in the route she takes.In fact <foreignphrase lang="art-lojban">zo'e</foreignphrase> is always implied,even if we don't say it. If someone says <foreignphraselang="art-lojban">klama</foreignphrase>, what they actually mean is<informalexample><literallayout><foreignphrase lang="art-lojban">zo'e klama zo'e zo'e zo'e zo'e</foreignphrase></literallayout></informalexample>but it would be pretty silly to say all that.</para><note><para>A <foreignphrase lang="art-lojban">bridi</foreignphrase> containing only a<foreignphrase lang="art-lojban">selbri</foreignphrase>, and no <foreignphraselang="art-lojban">sumti</foreignphrase>, has a special kind of role in Lojban.Such <foreignphrase lang="art-lojban">bridi</foreignphrase> are calledobservatives, and their job is to make a simple observation that somethingis there or is going on, without going into the details of who or what isinvolved. So <foreignphrase lang="art-lojban">fagri</foreignphrase> means just<quote>Fire!</quote>, not <quote>My house is on fire</quote> or <quote>Thesalmon was poached over a gently lapping campfire.</quote> Similarly,<foreignphrase lang="art-lojban">karce</foreignphrase> means <quote>Car!</quote>,and not <quote>This is a natural gas powered 2001 sedan Hyundai car,featuring fuzzy dice and a <quote>Free Brobdingnag!</quote> bumpersticker</quote>.</para><para>Observatives are as simple as baby talk &mdash; which is no surprise,since that's what they were modelled on. Note that observatives are stillnormal Lojban <foreignphrase lang="art-lojban">selbri</foreignphrase>; inparticular, they don't make any distinction between verb and noun. So<foreignphrase lang="art-lojban">klama</foreignphrase> means not<quote>Go!</quote> (we'll find out how to say <emphasis>that</emphasis> in<link linkend="less3">a lesson or two</link>), but <quote>Goes!</quote> or<quote>Goer!</quote> &mdash; more idiomatically, <quote>Look! Someone'sgoing!</quote> And there is no real difference between <foreignphraselang="art-lojban">klama</foreignphrase> <quote>Look! Someone'sgoing!</quote> and <foreignphrase lang="art-lojban">karce</foreignphrase><quote>Look! A car!</quote></para></note><para>Most people don't want more than one <foreignphraselang="art-lojban">zo'e</foreignphrase> in a sentence (though there's nothing tostop you using as many as you like). A more popular way to play around withplaces is to use the <emphasis>place tags</emphasis> <foreignphraselang="art-lojban">fa, fe, fi, fo</foreignphrase> and <foreignphraselang="art-lojban">fu</foreignphrase>. These mark a <foreignphraselang="art-lojban">sumti</foreignphrase> as being associated with a certain placeof the <foreignphrase lang="art-lojban">selbri</foreignphrase>, no matter where itcomes in the sentence: <foreignphrase lang="art-lojban">fa</foreignphrase>introduces what would normally be the first place, <foreignphraselang="art-lojban">fe</foreignphrase> the second place, and so on. For example,<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>Susan goes in the car / Susan goes by car</literallayout></informalexample></para><para><foreignphrase lang="art-lojban">fu</foreignphrase> marks <foreignphraselang="art-lojban">le karce</foreignphrase> as the fifth place of <foreignphraselang="art-lojban">klama</foreignphrase> (the means of transport).  Without<foreignphrase lang="art-lojban">fu</foreignphrase>, the sentence would mean<quote>Susan goes to the car.</quote>  </para><para>With place tags you can also swap places around.  For example,<informalexample><literallayout><foreignphrase lang="art-lojban">fe le cukta cu dunda fi la klaudias.</foreignphrase>The book was given to Claudia.</literallayout></informalexample>(The book &mdash; <foreignphrase lang="art-lojban">le cukta</foreignphrase>&mdash; is the second place of <foreignphraselang="art-lojban">dunda</foreignphrase>, what is given; Claudia &mdash;<foreignphrase lang="art-lojban">la klaudias.</foreignphrase> &mdash; is the thirdplace of <foreignphrase lang="art-lojban">dunda</foreignphrase>, the recipient.)</para><para>Again, you probably don't want to overdo place tags, or you'll end upcounting on your fingers (although they're very popular in Lojban poetry&mdash; place tags, that is, not fingers.)  </para><para>A final way to change places is <emphasis>conversion</emphasis>,which actually swaps the places round in the <foreignphraselang="art-lojban">selbri</foreignphrase> &mdash; but we'll leave that for anotherlesson. There are no rules for which method you use, and you can use themin any way you want, so long as the person you're talking to understands.</para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">glico</foreignphrase></term><listitem><para>x1 isEnglish/pertains to English-speaking culture in aspectx2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">rokci</foreignphrase></term><listitem><para>x1 is a quantityof/is made of/contains rock/stone of type/composition x2 from locationx3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">rupnu</foreignphrase></term><listitem><para>x1 is measured inmajor-money-units (dollar/yuan/ruble) as x2 (quantity), monetary systemx3</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 4</title> <para>Reorder the<foreignphrase lang="art-lojban">sumti</foreignphrase> with place tags in theseLojban sentences so that no place tags are necessary, and the<foreignphrase lang="art-lojban">sumti</foreignphrase> appear in their expectedplaces. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where necessary.</para><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe la lojban. fi le prenu </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">fe mi vecnu fa do fi le karce</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">fu la .Odisis. cu fanva fi le glico fa la fitsdjerald.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">fi le rocki cu kabri</foreignphrase></para></listitem></orderedlist></para></simplesect> </sect1><sect1 id="less2summary"><title>Summary</title><para>In this lesson we've covered the following points:<itemizedlist><listitem><para>The basic <foreignphrase lang="art-lojban">bridi</foreignphrase>structure.</para></listitem><listitem><para>The difference between <foreignphraselang="art-lojban">cmene</foreignphrase> and <foreignphraselang="art-lojban">gismu</foreignphrase>, and the articles <foreignphraselang="art-lojban">la</foreignphrase> and <foreignphraselang="art-lojban">le</foreignphrase>.</para></listitem><listitem><para>The place structure of <foreignphraselang="art-lojban">gismu</foreignphrase>.</para></listitem><listitem><para><foreignphrase lang="art-lojban">cu</foreignphrase> to separate<foreignphrase lang="art-lojban">selbri</foreignphrase> from <foreignphraselang="art-lojban">sumti</foreignphrase>.</para></listitem><listitem><para><foreignphrase lang="art-lojban">zo'e</foreignphrase> to fill missing<foreignphrase lang="art-lojban">sumti</foreignphrase> places.</para></listitem><listitem><para>Changing places with place-tags.</para></listitem></itemizedlist>Although there is a lot more to Lojban sentences than this,you now have the basics of Lojban grammar; the rest is just a matterof adding things on to it &mdash; different articles, tags, times, numbersand so on.  </para></sect1><sect1 id="less2answers"><title>Answers to exercises</title><simplesect role="excanswer"><title>Exercise 1</title><para><orderedlist spacing="compact"><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">lojban</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dunda</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (give)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">.ankaras.</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (the capital ofTurkey)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">mi</foreignphrase></term> <listitem><para>Neither,it's a type of <foreignphrase lang="art-lojban">cmavo</foreignphrase> (structure word) called a <quote role="socalled">pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></quote>, a word thatstands in for a <foreignphrase lang="art-lojban">sumti</foreignphrase>, like an English pronoun stands in for anoun</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">cukta</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (book)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">prenu</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (person)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">blanu</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (blue)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">ka'e</foreignphrase></term> <listitem><para>Neither,it's a <foreignphrase lang="art-lojban">cmavo</foreignphrase> or structure word,meaning <quote role="gloss">can</quote></para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dublin.</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (the capital ofIreland)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">selbri</foreignphrase></term> <listitem><para>Neither,it's a <foreignphrase lang="art-lojban">lujvo</foreignphrase> or compoundword</para></listitem></varlistentry></variablelist></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 2</title><para><orderedlist spacing="compact"><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">karce</foreignphrase></term> <listitem><para>x1 is acar/automobile/truck/van [a wheeled motor vehicle] for carrying x2,propelled by x3 </para></listitem></varlistentry></variablelist>(A car propelled by natural gas is a different kind of thing to a diesel truck.)</para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">nelci</foreignphrase></term> <listitem><para>x1 is fondof/likes/has a taste for x2 (object/state)</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">cmene</foreignphrase></term> <listitem><para>x1 (quotedword(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3(person)</para></listitem></varlistentry></variablelist>(Different people have different names forthings.)</para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">sutra</foreignphrase></term> <listitem><para>x1 isfast/swift/quick/hastes/rapid at doing/being/bringing about x2(event/state)</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">crino</foreignphrase></term> <listitem><para>x1 isgreen</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">sisti</foreignphrase></term> <listitem><para>x1ceases/stops/halts activity/process/state x2 [not necessarily completingit] </para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">cmima</foreignphrase></term> <listitem><para>x1 is amember/element of set x2; x1 belongs to group x2; x1 is amid/among/amongstgroup x2 </para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">barda</foreignphrase></term> <listitem><para>x1 is big/large inproperty/dimension(s) x2 as compared with standard/norm x3 </para></listitem></varlistentry></variablelist>(Is the Taj Mahal big? Yes, compared to me; no, compared to Jupiter.)</para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">cusku</foreignphrase></term> <listitem><para>x1 expresses/saysx2 for audience x3 via expressive medium x4</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">tavla</foreignphrase></term> <listitem><para>x1 talks/speaks tox2 about subject x3 in language x4</para></listitem></varlistentry></variablelist>Note the different place structures of <foreignphraselang="art-lojban">cusku</foreignphrase> and <foreignphraselang="art-lojban">tavla</foreignphrase>. With <foreignphraselang="art-lojban">cusku</foreignphrase> the emphasis is on communication; what iscommunicated is more important than who it is communicated to. Quotes ine-mails frequently start with <quote><foreignphrase lang="art-lojban">do cuskudi'e</foreignphrase></quote> (<foreignphraselang="art-lojban">di'e</foreignphrase> means <quote role="gloss">thefollowing</quote>) as the Lojban equivalent of <quote>You wrote</quote>.(<foreignphrase lang="art-lojban">ciska</foreignphrase> &mdash; <quoterole="gloss">write</quote> &mdash; places more emphasis on the physical actof writing). With <foreignphrase lang="art-lojban">tavla</foreignphrase> theemphasis is rather more on the social act of talking: you can<foreignphrase lang="art-lojban">tavla</foreignphrase> about nothing inparticular. </para></listitem></orderedlist></para> </simplesect><simplesect role="excanswer"><title>Exercise 3</title><para><orderedlist spacing="compact"><listitem><para><literallayout><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil.</foreignphrase>Claudia gives the book(s) to Bill.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le karce <emphasis>cu</emphasis> sutra</foreignphrase>The car(s) is/are fast.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase><citetitle>Camille</citetitle> is a book.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase>I translate <citetitle>Camille</citetitle> into Lojban.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le prenu <emphasis>cu</emphasis> sisti</foreignphrase>The person(s) stop(s) [whatever it was they were doing]</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le ninmu <emphasis>cu</emphasis> cliva</foreignphrase>The woman/women leave(s)</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase>Istanbul is big.  (an understatement &mdash; it has a population of over ten million)</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">mi tavla la mari,a.</foreignphrase>I talk to Maria.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la meiris. pritu la meilis. mi</foreignphrase>Mary is on the right of Mei Li, if you're facing me.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le cipni <emphasis>cu</emphasis> vofli</foreignphrase>The bird(s) flies/fly</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">crino</foreignphrase>It's / they're green.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">ninmu</foreignphrase>She's a woman / They're women / There's a woman / There are some women</literallayout></para></listitem></orderedlist></para><para>In sentences 1, 3, 4, 7, 8 and 9,<foreignphrase lang="art-lojban">cu</foreignphrase> is possible but not necessary.In the last two sentences, <foreignphrase lang="art-lojban">cu</foreignphrase> isimpossible, since it has to separate the <foreignphraselang="art-lojban">selbri</foreignphrase> from the <foreignphraselang="art-lojban">sumti</foreignphrase> that comes before it, and there are no<foreignphrase lang="art-lojban">sumti</foreignphrase> here. Those last twosentences are observatives, of course. </para><para>Note that I have translated these sentences in the present tense(since in English you have to choose a tense) but they could be in anytense, so <foreignphrase lang="art-lojban">le cipni cu vofli</foreignphrase> couldalso mean <quote>The bird flew</quote>, for example. We'll look at howLojban expresses tense in <link linkend="less6">later lessons</link>; just remember that you don'tactually <emphasis>need</emphasis> it &mdash; normally it's obvious whetheran action takes place in the past, present or future.</para></simplesect><simplesect role="excanswer"><title>Exercise 4</title><para><orderedlist spacing="compact"><listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cusku la lojban. le prenu le cukta</foreignphrase>Someone expresses Lojban for the person(s) through a bookThe book is a medium for Lojban to people</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">do vecnu mi le karce zo'e</foreignphrase>You sell me the car for some amountI am sold by you the car</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la fitsdjerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>Fitzgerald translates something into English from some language as <wordasword>The Odyssey</wordasword><wordasword>The Odyssey</wordasword> is a translation into English by Fitzgerald</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">mi vecnu zo'e zo'e le rupnu</foreignphrase>I sell something to someone for the dollarI sell (it) for a dollar</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cu kabri zo'e le rocki</foreignphrase>Something is a cup, containing something, made of stoneStone is something cups are made of</literallayout></para></listitem></orderedlist></para></simplesect> </sect1></chapter>=======
-<chapter id="less2"><title>Relationships and Places</title><sect1 id="less2rels"><title>Names and relationships</title><para>In Lesson1 we looked at <foreignphrase lang="art-lojban">cmene</foreignphrase>,Lojban names. <foreignphrase lang="art-lojban">cmene</foreignphrase> alwayslabel one particular thing. Just as in English, if I say<wordasword>Mary</wordasword>, I mean one particular person called Mary ata time, no matter how many people there are in the world called Mary; so inLojban, <foreignphrase lang="art-lojban">meiris.</foreignphrase> can onlyrefer to one person. This means that <foreignphraselang="art-lojban">cmene</foreignphrase> normally do not stand for classesof things (like <wordasword>person</wordasword>,<wordasword>dog</wordasword> or <wordasword>computer</wordasword>) or forrelationships between things (like <wordasword>loves</wordasword>,<wordasword>gives</wordasword> or <wordasword>is inside</wordasword>).</para><para>Relationships are the key to Lojban, and words describing arelationship are said to act as <foreignphraselang="art-lojban">selbri</foreignphrase>. A <foreignphraselang="art-lojban">selbri</foreignphrase> is not a <emphasis>type</emphasis>of word (like a <quote role="socalled">verb</quote> in English), it issomething that some types of word can <emphasis>do</emphasis>. Varioustypes of word can act as <foreignphraselang="art-lojban">selbri</foreignphrase>, but <foreignphraselang="art-lojban">cmene</foreignphrase>, as we've seen, can't. </para><para>The main type of word used as a <foreignphraselang="art-lojban">selbri</foreignphrase> is a <foreignphraselang="art-lojban">gismu</foreignphrase>, or root-word. These are thebuilding blocks of Lojban vocabulary. <foreignphraselang="art-lojban">gismu</foreignphrase> are easy to recognise, because theyalways have five letters, in the form<informalexample><literallayout>CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></informalexample>or<informalexample><literallayout>CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene</foreignphrase>(C=consonant; V=vowel).</literallayout></informalexample></para><simplesect role="exercise"><title>Exercise 1</title><para>Which of the following Lojban words are:<orderedlist numeration="loweralpha"><listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem><listitem><para>neither?</para></listitem></orderedlist></para><para>Note: I've left out the full stops in the <foreignphraselang="art-lojban">cmene</foreignphrase> &mdash; that would make it too easy!<orderedlist><listitem><para><foreignphrase lang="art-lojban">lojban</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">dunda</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ankaras</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">cukta</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">prenu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">blanu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ka'e</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">dublin</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">selbri </foreignphrase></para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less2places"><title>Take your places...</title> <para>Now we can recognise a <foreignphraselang="art-lojban">gismu</foreignphrase>, let's see what we can make it do.<foreignphrase lang="art-lojban">dunda</foreignphrase> means <quoterole="gloss">give</quote>, and as a <foreignphraselang="art-lojban">selbri</foreignphrase> it describes a relationshipbetween a giver, something they give, and someone who receives it. Let'ssay we have three people, Maria, Claudia and Julia. If we say<informalexample><literallayout><foreignphrase lang="art-lojban">la mari,as. dunda la .iulias. la klaudias.</foreignphrase></literallayout></informalexample>we mean that Maria gives Julia to Claudia. (Let's say Julia is ababy, as since the abolition of slavery, we don't normally give people aspresents. In English you <emphasis>can</emphasis> <quoterole="socalled">give</quote> someone in marriage, but that's aculture-specific metaphor, and Lojban discourages that kind of thing&mdash; it's an example of <foreignphraselang="art-lojban">malglico</foreignphrase> (<quote role="gloss">damnedEnglish</quote>), transferring features of English into Lojban which don'twork.)</para><note><para>The <foreignphraselang="art-lojban">la</foreignphrase> you see in front of each name is an article, like <wordasword>a</wordasword> and <wordasword>the</wordasword> in English. Its job is to signal to the listener that the word coming up is a name, and not some other kind of word.</para></note><para>If, on the other hand, we say<informalexample><literallayout><foreignphrase lang="art-lojban">la .iulias. dunda la mari,as. la klaudias.</foreignphrase></literallayout></informalexample>we mean that Maria is the baby, and Julia gives her to Claudia. How do weknow this? English uses the word <wordasword>to</wordasword> to indicatethe receiver, and in some other languages (like Latin or Turkish) the formof the words themselves change. In Lojban, as in logic, we have what iscalled <emphasis>place structure</emphasis>. </para><para>Place-structure means that <foreignphraselang="art-lojban">dunda</foreignphrase> doesn't just mean <wordasword>give</wordasword>, it means<informalexample><literallayout>x1 gives x2 to x3</literallayout></informalexample>where <wordasword>x</wordasword> means someone or something. Even if wejust say <foreignphrase lang="art-lojban">dunda</foreignphrase> on its own, westill mean that someone gives something to someone; we just aren'tinterested in (or we already know) who or what. </para><para>We can say, then, that <foreignphraselang="art-lojban">dunda</foreignphrase> has three <quoterole="socalled">places</quote>. We can think of places as slots which wecan, if we want, fill with people, objects, events or whatever. Theseplaces are called <foreignphrase lang="art-lojban">sumti</foreignphrase> in Lojban(easy to remember, as it sounds a bit like someone saying<wordasword>something</wordasword> and chewing off the end of the word). Again, a<foreignphrase lang="art-lojban">sumti</foreignphrase> is not a<emphasis>type</emphasis> of word, it is something a word<emphasis>does</emphasis>. The simplest Lojban sentence is a <foreignphraselang="art-lojban">bridi</foreignphrase>, i.e. a <foreignphraselang="art-lojban">selbri</foreignphrase> and a bunch of <foreignphraselang="art-lojban">sumti</foreignphrase>. In other words,<informalexample><literallayout><foreignphrase lang="art-lojban">bridi = selbri + sumti</foreignphrase></literallayout></informalexample></para><note><title>Note for logicians and computer programmers</title><para>For<foreignphrase lang="art-lojban">selbri</foreignphrase> read <quoterole="gloss">predicate</quote> or <quoterole="gloss">relation</quote>, and <quoterole="gloss">function</quote>, respectively; for <foreignphraselang="art-lojban">sumti</foreignphrase> read <quote role="gloss">argument</quote>.</para> </note><para>How many <foreignphrase lang="art-lojban">sumti</foreignphrase> can a<foreignphrase lang="art-lojban">selbri</foreignphrase> describe? The numberdepends on the place structure of the word we use for the <foreignphraselang="art-lojban">selbri</foreignphrase> (there are ways of tagging on extra<foreignphrase lang="art-lojban">sumti</foreignphrase>, which we'll cover in laterlessons). A <foreignphrase lang="art-lojban">gismu</foreignphrase> has a setnumber of places; as we've just seen, <foreignphraselang="art-lojban">dunda</foreignphrase> has three. The number of places variesfrom one to a staggering (and rare) five. Here are some examples. </para><variablelist><title>One place</title><varlistentry><term><foreignphrase lang="art-lojban">ninmu</foreignphrase></term><listitem><para>x1 is a woman (any female humanoid person, not necessarilyadult)</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">blabi</foreignphrase></term><listitem><para>x1 is white / very light-coloured</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">cmila</foreignphrase></term><listitem><para>x1 laughs [not necessarily at someone or something;to include the object of the laughter you would use the <foreignphraselang="art-lojban">lujvo</foreignphrase> (compound word) <foreignphraselang="art-lojban">mi'afra</foreignphrase> &mdash; x1 laughs at x2, a slightlydifferent concept]</para></listitem></varlistentry> </variablelist><variablelist><title>Two places</title><varlistentry><term><foreignphrase lang="art-lojban">cipni</foreignphrase></term><listitem><para>x1 is a bird/avian/fowl of species x2</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">vofli</foreignphrase></term><listitem><para>x1 flies [in air/atmosphere] using lifting/propulsion meansx2</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">jungo</foreignphrase></term><listitem><para>x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">junri</foreignphrase></term><listitem><para>x1 (person) is serious/earnest/has gravity about x2(event/state/activity) </para></listitem> </varlistentry></variablelist><variablelist><title>Three places</title><varlistentry><term><foreignphrase lang="art-lojban">xamgu</foreignphrase></term><listitem><para>x1 is good/beneficial/acceptable for x2 by standard x3</para><para>[This is <emphasis>very</emphasis> Lojbanic &mdash; the English word<wordasword>good</wordasword> on its own is so vague as to be almostmeaningless.  It is also slightly <foreignphraselang="art-lojban">malglico</foreignphrase> to put a person in the x1 place, whichis normally filled by an object, state or event. For morally good youwould usually use <foreignphrase lang="art-lojban">vrude</foreignphrase><quote role="gloss">virtuous</quote>] </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">pritu</foreignphrase></term><listitem><para>x1 is to the right of x2 facing x3</para><para>[Remember all thosetimes you have to ask <quote>Is that my right or your right?</quote> inEnglish] </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">cliva</foreignphrase></term><listitem><para>x1 leaves x2 via route x3</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">kabri</foreignphrase></term><listitem><para>x1 is a cup/glass/tumbler/mug/vessel/[bowl] containingcontents x2, and of material x3 </para></listitem></varlistentry></variablelist><variablelist><title>Four places</title><varlistentry><term><foreignphrase lang="art-lojban">vecnu</foreignphrase></term><listitem><para>x1 [seller] sells/vends x2 [goods/service/commodity] tobuyer x3 for amount/cost/expense x4 </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">tivni</foreignphrase></term><listitem><para>x1 [broadcaster] televises programming x2 via media/channelx3 to television receiver x4 </para></listitem></varlistentry></variablelist><variablelist><title>Five places</title><varlistentry><term><foreignphrase lang="art-lojban">klama</foreignphrase></term><listitem><para>x1 goes/comes to x2 from x3 via x4 by means x5</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">cukta</foreignphrase></term><listitem><para>x1 is a book about subject/theme/story x2 by author x3 foraudience x4 preserved in medium x5 </para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">fanva</foreignphrase></term><listitem><para>x1 translates x2 to language x3 from language x4 with translation-result x5</para></listitem></varlistentry></variablelist></sect1><sect1 id="less2detplaces"><title>Determining place structure</title><para>If all these places sound a bit daunting, don't worry &mdash; youdon't have to memorise all of them (in fact nobody does). There are a fewcases where it's worth learning the place structure to avoidmisunderstanding, but usually you can guess place structures using contextand a few rules of thumb. </para><para><orderedlist><listitem><para>The first place is often the person or thing who<emphasis>does</emphasis> something or <emphasis>is</emphasis> something(in Lojban there is no grammatical difference between <quoterole="socalled">doing</quote> and <quote role="socalled">being</quote>).</para></listitem><listitem><para>If there is someone or something that has something done to them,he/she/it is usually in the second place.  </para></listitem><listitem><para><wordasword>to</wordasword> places nearly always come before <wordasword>from</wordasword> places. </para></listitem><listitem><para>Less-used places come towards the end.  These tend to be thingslike <quote role="gloss">by standard</quote>, <quote role="gloss">bymeans</quote> or <quote role="gloss">made of</quote>.</para></listitem></orderedlist></para><para>The general idea is that the places which are most likely to befilled come first. You don't have to use all the available places, and anyunfilled places at the end are simply missed out. </para><simplesect role="exercise"><title>Exercise 2</title> <para>Try to guess the placestructure of the following <foreignphrase lang="art-lojban">gismu</foreignphrase>.You probably won't get them all, but you should be able to guess the mostimportant ones. Think of what <emphasis>needs</emphasis> to be in thesentence for it to make sense, then add anything you think would be useful.For example, with <foreignphrase lang="art-lojban">klama</foreignphrase>, you needto know who's coming and going, and although you could in theory say<quote>Julie goes,</quote> it would be pretty meaningless if you didn't addwhere she goes to. Where she starts her journey, the route she takes andwhat transport she uses are progressively less important, so they occupythe third, fourth and fifth places. </para><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">karce</foreignphrase> &ndash; car</para></listitem><listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase> &ndash; like</para></listitem><listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> &ndash; name</para></listitem><listitem><para><foreignphrase lang="art-lojban">sutra</foreignphrase> &ndash; fast</para></listitem><listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase> &ndash; green</para></listitem><listitem><para><foreignphrase lang="art-lojban">sisti</foreignphrase> &ndash; stop, cease</para></listitem><listitem><para><foreignphrase lang="art-lojban">cmima</foreignphrase> &ndash; member</para></listitem><listitem><para><foreignphrase lang="art-lojban">barda</foreignphrase> &ndash; big</para></listitem><listitem><para><foreignphrase lang="art-lojban">cusku</foreignphrase> &ndash; say, express</para></listitem><listitem><para><foreignphrase lang="art-lojban">tavla</foreignphrase> &ndash; talk, chat</para></listitem></orderedlist></para><note><para>What the place structure for <foreignphrase lang="art-lojban">gismu</foreignphrase> should be is often enough an involved philosophical issue. Place structures were debated exhaustively in the early '90s, and the current place structures (finalised in 1994) are not really open for negotiation any more.</para></note></simplesect></sect1><sect1 id="less2sumti"><title><foreignphraselang="art-lojban">gismu</foreignphrase> as <foreignphraselang="art-lojban">sumti</foreignphrase></title> <para>So far we've seen how a<foreignphrase lang="art-lojban">gismu</foreignphrase> can express a relationshipbetween two or more <foreignphrase lang="art-lojban">cmene</foreignphrase>, so wecan say things like<informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>Bill likes Mei Li</literallayout></informalexample>But if we don't know her name, how can we say <quote>Bill likes thewoman</quote>? If we say <foreignphrase lang="art-lojban">la bil. nelci laninmu</foreignphrase>, we mean that Bill likes someone whose name is<wordasword>Woman</wordasword>. What we say, in fact, is<informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase></literallayout></informalexample>What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? Wetranslated it into English as <quote role="gloss">the</quote>, and like<wordasword>the</wordasword> and <foreignphraselang="art-lojban">la</foreignphrase>, it <emphasis>is</emphasis> an article; but<quote role="gloss">the</quote> isn't quite what it means. The best way tothink of it is <quote role="gloss">the thing(s) I call</quote>.<foreignphrase lang="art-lojban">la + cmene</foreignphrase> is like a permanentlabel (Bill is always Bill). <foreignphrase lang="art-lojban">le +gismu</foreignphrase> is more like a temporary label &mdash; I havesomething in mind, and choose to call it <quote role="gloss">woman</quote>.Probably she really is a woman, but with <foreignphraselang="art-lojban">le</foreignphrase> this doesn't have to be so &mdash; we couldbe talking about a transvestite or a stone that looks a bit like a woman.There are other articles which can show that it's a real woman, or atypical woman or whatever, but we'll leave those alone for the time being.</para><para>One more word is sometimes necessary when using <foreignphraselang="art-lojban">gismu</foreignphrase> as <foreignphraselang="art-lojban">sumti</foreignphrase>: <foreignphraselang="art-lojban">cu</foreignphrase>. This doesn't carry any meaning, butseparates the <foreignphrase lang="art-lojban">selbri</foreignphrase> fromwhatever comes before it. It's not necessary with <foreignphraselang="art-lojban">cmene</foreignphrase>, because they can't run over into anythingelse, Similarly, you don't need <foreignphraselang="art-lojban">cu</foreignphrase> after <foreignphraselang="art-lojban">mi</foreignphrase> (I/me), <foreignphraselang="art-lojban">do</foreignphrase> (you, the person I'm talking to) or any wordslike this (<quote role="socalled">pro-<foreignphraselang="art-lojban">sumti</foreignphrase></quote>, in Lojbanjargon). Nut <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> doesn'tmean <quote>The woman goes</quote>. Two <foreignphrase lang="art-lojban">gismu</foreignphrase> next to each other form acompound <foreignphrase lang="art-lojban">selbri</foreignphrase> (or<foreignphrase lang="art-lojban">tanru</foreignphrase>), which means that<foreignphrase lang="art-lojban">ninmu</foreignphrase> and <foreignphraselang="art-lojban">klama</foreignphrase> get run together &mdash; with the resultthat it means <quote>The woman-type-of goer</quote> (maybe a femaletraveller). What we say instead, to avoid this, is<informalexample><literallayout><foreignphrase lang="art-lojban">le ninmu cu klama</foreignphrase></literallayout></informalexample></para><warning><para><foreignphrase lang="art-lojban">cu</foreignphrase> does <emphasis>not</emphasis> mean<quote role="gloss">is</quote> (as in <quote>The woman is going</quote>).In fact it doesn't mean anything &mdash; it's just there to indicate thatthere's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming.</para></warning><simplesect role="exercise"><title>Exercise 3</title> <para>Add<foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojbansentences where necessary, then work out what they mean.  </para><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le karci sutra</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le prenu sisti</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le ninmu cliva</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi tavla la mari,as. </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la meiris. pritu la meilis. mi</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">le cipni vofli </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ninmu</foreignphrase></para></listitem></orderedlist></para></simplesect> </sect1><sect1 id="less2changeplaces"><title>Changing Places</title> <para>We'veseen that if we don't need all the places (and we rarely do), then we canmiss out the unnecessary ones at the end of the <foreignphraselang="art-lojban">bridi</foreignphrase>. We can also miss out the first place ifit is obvious (just as in Spanish). However, it sometimes happens that wewant places at the end, but not all the ones in the middle. There are anumber of ways to get round this problem. </para><para>One way is to fill the unnecessary places with <foreignphraselang="art-lojban">zo'e</foreignphrase>, which means <quote role="gloss">somethingnot important</quote>. So <foreignphrase lang="art-lojban">la suzyn. klama laparis. la berlin. zo'e le karci</foreignphrase> tells us that Susan goes toParis from Berlin by car, but we're not interested in the route she takes.In fact <foreignphrase lang="art-lojban">zo'e</foreignphrase> is always implied,even if we don't say it. If someone says <foreignphraselang="art-lojban">klama</foreignphrase>, what they actually mean is<informalexample><literallayout><foreignphrase lang="art-lojban">zo'e klama zo'e zo'e zo'e zo'e</foreignphrase></literallayout></informalexample>but it would be pretty silly to say all that.</para><note><para>A <foreignphrase lang="art-lojban">bridi</foreignphrase> containing only a<foreignphrase lang="art-lojban">selbri</foreignphrase>, and no <foreignphraselang="art-lojban">sumti</foreignphrase>, has a special kind of role in Lojban.Such <foreignphrase lang="art-lojban">bridi</foreignphrase> are calledobservatives, and their job is to make a simple observation that somethingis there or is going on, without going into the details of who or what isinvolved. So <foreignphrase lang="art-lojban">fagri</foreignphrase> means just<quote>Fire!</quote>, not <quote>My house is on fire</quote> or <quote>Thesalmon was poached over a gently lapping campfire.</quote> Similarly,<foreignphrase lang="art-lojban">karce</foreignphrase> means <quote>Car!</quote>,and not <quote>This is a natural gas powered 2001 sedan Hyundai car,featuring fuzzy dice and a <quote>Free Brobdingnag!</quote> bumpersticker</quote>.</para><para>Observatives are as simple as baby talk &mdash; which is no surprise,since that's what they were modelled on. Note that observatives are stillnormal Lojban <foreignphrase lang="art-lojban">selbri</foreignphrase>; inparticular, they don't make any distinction between verb and noun. So<foreignphrase lang="art-lojban">klama</foreignphrase> means not<quote>Go!</quote> (we'll find out how to say <emphasis>that</emphasis> in<link linkend="less3">a lesson or two</link>), but <quote>Goes!</quote> or<quote>Goer!</quote> &mdash; more idiomatically, <quote>Look! Someone'sgoing!</quote> And there is no real difference between <foreignphraselang="art-lojban">klama</foreignphrase> <quote>Look! Someone'sgoing!</quote> and <foreignphrase lang="art-lojban">karce</foreignphrase><quote>Look! A car!</quote></para></note><para>Most people don't want more than one <foreignphraselang="art-lojban">zo'e</foreignphrase> in a sentence (though there's nothing tostop you using as many as you like). A more popular way to play around withplaces is to use the <emphasis>place tags</emphasis> <foreignphraselang="art-lojban">fa, fe, fi, fo</foreignphrase> and <foreignphraselang="art-lojban">fu</foreignphrase>. These mark a <foreignphraselang="art-lojban">sumti</foreignphrase> as being associated with a certain placeof the <foreignphrase lang="art-lojban">selbri</foreignphrase>, no matter where itcomes in the sentence: <foreignphrase lang="art-lojban">fa</foreignphrase>introduces what would normally be the first place, <foreignphraselang="art-lojban">fe</foreignphrase> the second place, and so on. For example,<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>Susan goes in the car / Susan goes by car</literallayout></informalexample></para><para><foreignphrase lang="art-lojban">fu</foreignphrase> marks <foreignphraselang="art-lojban">le karce</foreignphrase> as the fifth place of <foreignphraselang="art-lojban">klama</foreignphrase> (the means of transport).  Without<foreignphrase lang="art-lojban">fu</foreignphrase>, the sentence would mean<quote>Susan goes to the car.</quote>  </para><para>With place tags you can also swap places around.  For example,<informalexample><literallayout><foreignphrase lang="art-lojban">fe le cukta cu dunda fi la klaudias.</foreignphrase>The book was given to Claudia.</literallayout></informalexample>(The book &mdash; <foreignphrase lang="art-lojban">le cukta</foreignphrase>&mdash; is the second place of <foreignphraselang="art-lojban">dunda</foreignphrase>, what is given; Claudia &mdash;<foreignphrase lang="art-lojban">la klaudias.</foreignphrase> &mdash; is the thirdplace of <foreignphrase lang="art-lojban">dunda</foreignphrase>, the recipient.)</para><para>Again, you probably don't want to overdo place tags, or you'll end upcounting on your fingers (although they're very popular in Lojban poetry&mdash; place tags, that is, not fingers.)  </para><para>A final way to change places is <emphasis>conversion</emphasis>,which actually swaps the places round in the <foreignphraselang="art-lojban">selbri</foreignphrase> &mdash; but we'll leave that for anotherlesson. There are no rules for which method you use, and you can use themin any way you want, so long as the person you're talking to understands.</para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">glico</foreignphrase></term><listitem><para>x1 isEnglish/pertains to English-speaking culture in aspectx2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">rokci</foreignphrase></term><listitem><para>x1 is a quantityof/is made of/contains rock/stone of type/composition x2 from locationx3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">rupnu</foreignphrase></term><listitem><para>x1 is measured inmajor-money-units (dollar/yuan/ruble) as x2 (quantity), monetary systemx3</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 4</title> <para>Reorder the<foreignphrase lang="art-lojban">sumti</foreignphrase> with place tags in theseLojban sentences so that no place tags are necessary, and the<foreignphrase lang="art-lojban">sumti</foreignphrase> appear in their expectedplaces. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where necessary.</para><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe la lojban. fi le prenu </foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">fe mi vecnu fa do fi le karce</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">fu la .Odisis. cu fanva fi le glico fa la fitsdjerald.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">fi le rokci cu kabri</foreignphrase></para></listitem></orderedlist></para></simplesect> </sect1><sect1 id="less2summary"><title>Summary</title><para>In this lesson we've covered the following points:<itemizedlist><listitem><para>The basic <foreignphrase lang="art-lojban">bridi</foreignphrase>structure.</para></listitem><listitem><para>The difference between <foreignphraselang="art-lojban">cmene</foreignphrase> and <foreignphraselang="art-lojban">gismu</foreignphrase>, and the articles <foreignphraselang="art-lojban">la</foreignphrase> and <foreignphraselang="art-lojban">le</foreignphrase>.</para></listitem><listitem><para>The place structure of <foreignphraselang="art-lojban">gismu</foreignphrase>.</para></listitem><listitem><para><foreignphrase lang="art-lojban">cu</foreignphrase> to separate<foreignphrase lang="art-lojban">selbri</foreignphrase> from <foreignphraselang="art-lojban">sumti</foreignphrase>.</para></listitem><listitem><para><foreignphrase lang="art-lojban">zo'e</foreignphrase> to fill missing<foreignphrase lang="art-lojban">sumti</foreignphrase> places.</para></listitem><listitem><para>Changing places with place-tags.</para></listitem></itemizedlist>Although there is a lot more to Lojban sentences than this,you now have the basics of Lojban grammar; the rest is just a matterof adding things on to it &mdash; different articles, tags, times, numbersand so on.  </para></sect1><sect1 id="less2answers"><title>Answers to exercises</title><simplesect role="excanswer"><title>Exercise 1</title><para><orderedlist spacing="compact"><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">lojban</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dunda</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (give)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">.ankaras.</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (the capital ofTurkey)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">mi</foreignphrase></term> <listitem><para>Neither,it's a type of <foreignphrase lang="art-lojban">cmavo</foreignphrase> (structure word) called a <quote role="socalled">pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></quote>, a word thatstands in for a <foreignphrase lang="art-lojban">sumti</foreignphrase>, like an English pronoun stands in for anoun</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">cukta</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (book)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">prenu</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (person)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">blanu</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase> (blue)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">ka'e</foreignphrase></term> <listitem><para>Neither,it's a <foreignphrase lang="art-lojban">cmavo</foreignphrase> or structure word,meaning <quote role="gloss">can</quote></para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dublin.</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (the capital ofIreland)</para></listitem></varlistentry></variablelist></listitem><listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">selbri</foreignphrase></term> <listitem><para>Neither,it's a <foreignphrase lang="art-lojban">lujvo</foreignphrase> or compoundword</para></listitem></varlistentry></variablelist></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 2</title><para><orderedlist spacing="compact"><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">karce</foreignphrase></term> <listitem><para>x1 is acar/automobile/truck/van [a wheeled motor vehicle] for carrying x2,propelled by x3 </para></listitem></varlistentry></variablelist>(A car propelled by natural gas is a different kind of thing to a diesel truck.)</para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">nelci</foreignphrase></term> <listitem><para>x1 is fondof/likes/has a taste for x2 (object/state)</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">cmene</foreignphrase></term> <listitem><para>x1 (quotedword(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3(person)</para></listitem></varlistentry></variablelist>(Different people have different names forthings.)</para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">sutra</foreignphrase></term> <listitem><para>x1 isfast/swift/quick/hastes/rapid at doing/being/bringing about x2(event/state)</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">crino</foreignphrase></term> <listitem><para>x1 isgreen</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">sisti</foreignphrase></term> <listitem><para>x1ceases/stops/halts activity/process/state x2 [not necessarily completingit] </para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">cmima</foreignphrase></term> <listitem><para>x1 is amember/element of set x2; x1 belongs to group x2; x1 is amid/among/amongstgroup x2 </para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">barda</foreignphrase></term> <listitem><para>x1 is big/large inproperty/dimension(s) x2 as compared with standard/norm x3 </para></listitem></varlistentry></variablelist>(Is the Taj Mahal big? Yes, compared to me; no, compared to Jupiter.)</para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">cusku</foreignphrase></term> <listitem><para>x1 expresses/saysx2 for audience x3 via expressive medium x4</para></listitem></varlistentry></variablelist></para></listitem><listitem><para><variablelist><varlistentry><term><foreignphraselang="art-lojban">tavla</foreignphrase></term> <listitem><para>x1 talks/speaks tox2 about subject x3 in language x4</para></listitem></varlistentry></variablelist>Note the different place structures of <foreignphraselang="art-lojban">cusku</foreignphrase> and <foreignphraselang="art-lojban">tavla</foreignphrase>. With <foreignphraselang="art-lojban">cusku</foreignphrase> the emphasis is on communication; what iscommunicated is more important than who it is communicated to. Quotes ine-mails frequently start with <quote><foreignphrase lang="art-lojban">do cuskudi'e</foreignphrase></quote> (<foreignphraselang="art-lojban">di'e</foreignphrase> means <quote role="gloss">thefollowing</quote>) as the Lojban equivalent of <quote>You wrote</quote>.(<foreignphrase lang="art-lojban">ciska</foreignphrase> &mdash; <quoterole="gloss">write</quote> &mdash; places more emphasis on the physical actof writing). With <foreignphrase lang="art-lojban">tavla</foreignphrase> theemphasis is rather more on the social act of talking: you can<foreignphrase lang="art-lojban">tavla</foreignphrase> about nothing inparticular. </para></listitem></orderedlist></para> </simplesect><simplesect role="excanswer"><title>Exercise 3</title><para><orderedlist spacing="compact"><listitem><para><literallayout><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil.</foreignphrase>Claudia gives the book(s) to Bill.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le karce <emphasis>cu</emphasis> sutra</foreignphrase>The car(s) is/are fast.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase><citetitle>Camille</citetitle> is a book.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase>I translate <citetitle>Camille</citetitle> into Lojban.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le prenu <emphasis>cu</emphasis> sisti</foreignphrase>The person(s) stop(s) [whatever it was they were doing]</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le ninmu <emphasis>cu</emphasis> cliva</foreignphrase>The woman/women leave(s)</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase>Istanbul is big.  (an understatement &mdash; it has a population of over ten million)</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">mi tavla la mari,as.</foreignphrase>I talk to Maria.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la meiris. pritu la meilis. mi</foreignphrase>Mary is on the right of Mei Li, if you're facing me.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">le cipni <emphasis>cu</emphasis> vofli</foreignphrase>The bird(s) flies/fly</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">crino</foreignphrase>It's / they're green.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">ninmu</foreignphrase>She's a woman / They're women / There's a woman / There are some women</literallayout></para></listitem></orderedlist></para><para>In sentences 1, 3, 4, 7, 8 and 9,<foreignphrase lang="art-lojban">cu</foreignphrase> is possible but not necessary.In the last two sentences, <foreignphrase lang="art-lojban">cu</foreignphrase> isimpossible, since it has to separate the <foreignphraselang="art-lojban">selbri</foreignphrase> from the <foreignphraselang="art-lojban">sumti</foreignphrase> that comes before it, and there are no<foreignphrase lang="art-lojban">sumti</foreignphrase> here. Those last twosentences are observatives, of course. </para><para>Note that I have translated these sentences in the present tense(since in English you have to choose a tense) but they could be in anytense, so <foreignphrase lang="art-lojban">le cipni cu vofli</foreignphrase> couldalso mean <quote>The bird flew</quote>, for example. We'll look at howLojban expresses tense in <link linkend="less6">later lessons</link>; just remember that you don'tactually <emphasis>need</emphasis> it &mdash; normally it's obvious whetheran action takes place in the past, present or future.</para></simplesect><simplesect role="excanswer"><title>Exercise 4</title><para><orderedlist spacing="compact"><listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cusku la lojban. le prenu le cukta</foreignphrase>Someone expresses Lojban for the person(s) through a bookThe book is a medium for Lojban to people</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">do vecnu mi le karce zo'e</foreignphrase>You sell me the car for some amountI am sold by you the car</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">la fitsdjerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>Fitzgerald translates something into English from some language as <wordasword>The Odyssey</wordasword><wordasword>The Odyssey</wordasword> is a translation into English by Fitzgerald</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">mi vecnu zo'e zo'e le rupnu</foreignphrase>I sell something to someone for the dollarI sell (it) for a dollar</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cu kabri zo'e le rokci</foreignphrase>Something is a cup, containing something, made of stoneStone is something cups are made of</literallayout></para></listitem></orderedlist></para></simplesect> </sect1></chapter>
+<chapter id="less2"><title>Relationships and Places</title>
+
+<sect1 id="less2rels"><title>Names and relationships</title><para>In Lesson
+1 we looked at <foreignphrase lang="art-lojban">cmene</foreignphrase>,
+Lojban names. <foreignphrase lang="art-lojban">cmene</foreignphrase> always
+label one particular thing. Just as in English, if I say
+<wordasword>Mary</wordasword>, I mean one particular person called Mary at
+a time, no matter how many people there are in the world called Mary; so in
+Lojban, <foreignphrase lang="art-lojban">meiris.</foreignphrase> can only
+refer to one person. This means that <foreignphrase
+lang="art-lojban">cmene</foreignphrase> normally do not stand for classes
+of things (like <wordasword>person</wordasword>,
+<wordasword>dog</wordasword> or <wordasword>computer</wordasword>) or for
+relationships between things (like <wordasword>loves</wordasword>,
+<wordasword>gives</wordasword> or <wordasword>is inside</wordasword>).
+</para>
+
+<para>Relationships are the key to Lojban, and words describing a
+relationship are said to act as <foreignphrase
+lang="art-lojban">selbri</foreignphrase>. A <foreignphrase
+lang="art-lojban">selbri</foreignphrase> is not a <emphasis>type</emphasis>
+of word (like a <quote role="socalled">verb</quote> in English), it is
+something that some types of word can <emphasis>do</emphasis>. Various
+types of word can act as <foreignphrase
+lang="art-lojban">selbri</foreignphrase>, but <foreignphrase
+lang="art-lojban">cmene</foreignphrase>, as we've seen, can't. </para>
+
+<para>The main type of word used as a <foreignphrase
+lang="art-lojban">selbri</foreignphrase> is a <foreignphrase
+lang="art-lojban">gismu</foreignphrase>, or root-word. These are the
+building blocks of Lojban vocabulary. <foreignphrase
+lang="art-lojban">gismu</foreignphrase> are easy to recognise, because they
+always have five letters, in the form
+
+<informalexample>
+<literallayout>
+CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu</foreignphrase>
+</literallayout>
+</informalexample>
+or
+<informalexample>
+<literallayout>
+CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene</foreignphrase>
+(C=consonant; V=vowel).
+</literallayout>
+</informalexample>
+</para>
+
+
+
+<simplesect role="exercise"><title>Exercise 1</title>
+<para>
+Which of the following Lojban words are:
+<orderedlist numeration="loweralpha">
+<listitem><para><foreignphrase lang="art-lojban">gismu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem>
+<listitem><para>neither?</para></listitem>
+</orderedlist>
+</para>
+
+<para>Note: I've left out the full stops in the <foreignphrase
+lang="art-lojban">cmene</foreignphrase> &mdash; that would make it too easy!
+
+<orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">lojban</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">dunda</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ankaras</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cukta</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">prenu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">blanu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ka'e</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">dublin</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">selbri </foreignphrase></para></listitem>
+</orderedlist>
+</para>
+</simplesect>
+</sect1>
+
+<sect1 id="less2places"><title>Take your places...</title> 
+
+<para>Now we can recognise a <foreignphrase
+lang="art-lojban">gismu</foreignphrase>, let's see what we can make it do.
+<foreignphrase lang="art-lojban">dunda</foreignphrase> means <quote
+role="gloss">give</quote>, and as a <foreignphrase
+lang="art-lojban">selbri</foreignphrase> it describes a relationship
+between a giver, something they give, and someone who receives it. Let's
+say we have three people, Maria, Claudia and Julia. If we say
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">
+la mari,as. dunda la .iulias. la klaudias.
+</foreignphrase>
+</literallayout>
+</informalexample>
+
+we mean that Maria gives Julia to Claudia. (Let's say Julia is a
+baby, as since the abolition of slavery, we don't normally give people as
+presents. In English you <emphasis>can</emphasis> <quote
+role="socalled">give</quote> someone in marriage, but that's a
+culture-specific metaphor, and Lojban discourages that kind of thing
+&mdash; it's an example of <foreignphrase
+lang="art-lojban">malglico</foreignphrase> (<quote role="gloss">damned
+English</quote>), transferring features of English into Lojban which don't
+work.)</para>
+
+<note><para>The <foreignphrase
+lang="art-lojban">la</foreignphrase> you see in front of each name is an article, 
+like <wordasword>a</wordasword> and <wordasword>the</wordasword> in English. 
+Its job is to signal to the listener that the word coming up is a name, and 
+not some other kind of word.</para></note>
+
+<para>If, on the other hand, we say
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">
+la .iulias. dunda la mari,as. la klaudias.
+</foreignphrase>
+</literallayout>
+</informalexample>
+
+we mean that Maria is the baby, and Julia gives her to Claudia. How do we
+know this? English uses the word <wordasword>to</wordasword> to indicate
+the receiver, and in some other languages (like Latin or Turkish) the form
+of the words themselves change. In Lojban, as in logic, we have what is
+called <emphasis>place structure</emphasis>. </para>
+
+<para>Place-structure means that <foreignphrase
+lang="art-lojban">dunda</foreignphrase> doesn't just mean <wordasword>give</wordasword>, it means
+
+<informalexample>
+<literallayout>
+x1 gives x2 to x3
+</literallayout>
+</informalexample>
+
+where <wordasword>x</wordasword> means someone or something. Even if we
+just say <foreignphrase lang="art-lojban">dunda</foreignphrase> on its own, we
+still mean that someone gives something to someone; we just aren't
+interested in (or we already know) who or what. </para>
+
+<para>We can say, then, that <foreignphrase
+lang="art-lojban">dunda</foreignphrase> has three <quote
+role="socalled">places</quote>. We can think of places as slots which we
+can, if we want, fill with people, objects, events or whatever. These
+places are called <foreignphrase lang="art-lojban">sumti</foreignphrase> in Lojban
+(easy to remember, as it sounds a bit like someone saying
+<wordasword>something</wordasword> and chewing off the end of the word). Again, a
+<foreignphrase lang="art-lojban">sumti</foreignphrase> is not a
+<emphasis>type</emphasis> of word, it is something a word
+<emphasis>does</emphasis>. The simplest Lojban sentence is a <foreignphrase
+lang="art-lojban">bridi</foreignphrase>, i.e. a <foreignphrase
+lang="art-lojban">selbri</foreignphrase> and a bunch of <foreignphrase
+lang="art-lojban">sumti</foreignphrase>. In other words,
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">
+bridi = selbri + sumti
+</foreignphrase>
+</literallayout>
+</informalexample>
+</para>
+
+<note><title>Note for logicians and computer programmers</title><para>For
+<foreignphrase lang="art-lojban">selbri</foreignphrase> read <quote
+role="gloss">predicate</quote> or <quote
+role="gloss">relation</quote>, and <quote
+role="gloss">function</quote>, respectively; for <foreignphrase
+lang="art-lojban">sumti</foreignphrase> read <quote role="gloss">argument</quote>.
+</para> </note>
+
+<para>How many <foreignphrase lang="art-lojban">sumti</foreignphrase> can a
+<foreignphrase lang="art-lojban">selbri</foreignphrase> describe? The number
+depends on the place structure of the word we use for the <foreignphrase
+lang="art-lojban">selbri</foreignphrase> (there are ways of tagging on extra
+<foreignphrase lang="art-lojban">sumti</foreignphrase>, which we'll cover in later
+lessons). A <foreignphrase lang="art-lojban">gismu</foreignphrase> has a set
+number of places; as we've just seen, <foreignphrase
+lang="art-lojban">dunda</foreignphrase> has three. The number of places varies
+from one to a staggering (and rare) five. Here are some examples. </para>
+
+
+<variablelist><title>One place</title>
+<varlistentry><term><foreignphrase lang="art-lojban">ninmu</foreignphrase></term>
+<listitem><para>x1 is a woman (any female humanoid person, not necessarily
+adult)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">blabi</foreignphrase></term>
+<listitem><para>x1 is white / very light-coloured</para></listitem>
+</varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">cmila</foreignphrase></term>
+<listitem><para>x1 laughs [not necessarily at someone or something;
+to include the object of the laughter you would use the <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> (compound word) <foreignphrase
+lang="art-lojban">mi'afra</foreignphrase> &mdash; x1 laughs at x2, a slightly
+different concept]</para></listitem></varlistentry> </variablelist>
+
+<variablelist><title>Two places</title>
+
+<varlistentry><term><foreignphrase lang="art-lojban">cipni</foreignphrase></term>
+<listitem><para>x1 is a bird/avian/fowl of species x2</para></listitem></varlistentry>
+
+
+
+<varlistentry><term><foreignphrase lang="art-lojban">vofli</foreignphrase></term>
+<listitem><para>x1 flies [in air/atmosphere] using lifting/propulsion means
+x2</para></listitem> </varlistentry>
+
+
+<varlistentry><term><foreignphrase lang="art-lojban">jungo</foreignphrase></term>
+<listitem><para>x1 reflects Chinese [Mandarin, Cantonese, Wu, etc.] 
+culture/nationality/language in aspect x2</para></listitem> </varlistentry>
+
+
+<varlistentry><term><foreignphrase lang="art-lojban">junri</foreignphrase></term>
+<listitem><para>x1 (person) is serious/earnest/has gravity about x2
+(event/state/activity) </para></listitem> </varlistentry></variablelist>
+
+
+<variablelist><title>Three places</title>
+
+<varlistentry><term><foreignphrase lang="art-lojban">xamgu</foreignphrase></term>
+<listitem><para>x1 is good/beneficial/acceptable for x2 by standard 
+x3</para><para>[This is <emphasis>very</emphasis> Lojbanic &mdash; the English word
+<wordasword>good</wordasword> on its own is so vague as to be almost
+meaningless.  It is also slightly <foreignphrase
+lang="art-lojban">malglico</foreignphrase> to put a person in the x1 place, which
+is normally filled by an object, state or event. For morally good you
+would usually use <foreignphrase lang="art-lojban">vrude</foreignphrase>
+<quote role="gloss">virtuous</quote>] </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">pritu</foreignphrase></term>
+<listitem><para>x1 is to the right of x2 facing x3</para><para>[Remember all those
+times you have to ask <quote>Is that my right or your right?</quote> in
+English] </para></listitem></varlistentry>
+
+
+<varlistentry><term><foreignphrase lang="art-lojban">cliva</foreignphrase></term>
+<listitem><para>x1 leaves x2 via route x3
+</para></listitem></varlistentry>
+
+
+<varlistentry><term><foreignphrase lang="art-lojban">kabri</foreignphrase></term>
+<listitem><para>x1 is a cup/glass/tumbler/mug/vessel/[bowl] containing
+contents x2, and of material x3 </para></listitem></varlistentry>
+</variablelist>
+
+<variablelist><title>Four places</title>
+
+<varlistentry><term><foreignphrase lang="art-lojban">vecnu</foreignphrase></term>
+<listitem><para>x1 [seller] sells/vends x2 [goods/service/commodity] to
+buyer x3 for amount/cost/expense x4 </para></listitem></varlistentry>
+
+
+<varlistentry><term><foreignphrase lang="art-lojban">tivni</foreignphrase></term>
+<listitem><para>x1 [broadcaster] televises programming x2 via media/channel
+x3 to television receiver x4 </para></listitem></varlistentry>
+</variablelist>
+
+<variablelist><title>Five places</title>
+
+<varlistentry><term><foreignphrase lang="art-lojban">klama</foreignphrase></term>
+<listitem><para>x1 goes/comes to x2 from x3 via x4 by means x5
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">cukta</foreignphrase></term>
+<listitem><para>x1 is a book about subject/theme/story x2 by author x3 for
+audience x4 preserved in medium x5 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">fanva</foreignphrase></term>
+<listitem><para>x1 translates x2 to language x3 from language x4 with translation-result x5
+</para></listitem></varlistentry>
+</variablelist>
+
+</sect1>
+
+<sect1 id="less2detplaces"><title>Determining place structure</title>
+<para>If all these places sound a bit daunting, don't worry &mdash; you
+don't have to memorise all of them (in fact nobody does). There are a few
+cases where it's worth learning the place structure to avoid
+misunderstanding, but usually you can guess place structures using context
+and a few rules of thumb. </para>
+
+<para>
+<orderedlist>
+
+<listitem><para>The first place is often the person or thing who
+<emphasis>does</emphasis> something or <emphasis>is</emphasis> something
+(in Lojban there is no grammatical difference between <quote
+role="socalled">doing</quote> and <quote role="socalled">being</quote>).
+</para></listitem>
+
+<listitem><para>If there is someone or something that has something done to them,
+he/she/it is usually in the second place.  </para></listitem>
+
+<listitem><para><wordasword>to</wordasword> places nearly always come before 
+<wordasword>from</wordasword> places. </para></listitem>
+
+<listitem><para>Less-used places come towards the end.  These tend to be things
+like <quote role="gloss">by standard</quote>, <quote role="gloss">by
+means</quote> or <quote role="gloss">made of</quote>.</para></listitem>
+
+</orderedlist>
+</para>
+
+<para>The general idea is that the places which are most likely to be
+filled come first. You don't have to use all the available places, and any
+unfilled places at the end are simply missed out. </para>
+
+<simplesect role="exercise"><title>Exercise 2</title> 
+
+<para>Try to guess the place
+structure of the following <foreignphrase lang="art-lojban">gismu</foreignphrase>.
+You probably won't get them all, but you should be able to guess the most
+important ones. Think of what <emphasis>needs</emphasis> to be in the
+sentence for it to make sense, then add anything you think would be useful.
+For example, with <foreignphrase lang="art-lojban">klama</foreignphrase>, you need
+to know who's coming and going, and although you could in theory say
+<quote>Julie goes,</quote> it would be pretty meaningless if you didn't add
+where she goes to. Where she starts her journey, the route she takes and
+what transport she uses are progressively less important, so they occupy
+the third, fourth and fifth places. </para>
+
+<para>
+<orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">karce</foreignphrase> &ndash; car</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase> &ndash; like</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> &ndash; name</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">sutra</foreignphrase> &ndash; fast</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase> &ndash; green</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">sisti</foreignphrase> &ndash; stop, cease</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cmima</foreignphrase> &ndash; member</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">barda</foreignphrase> &ndash; big</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cusku</foreignphrase> &ndash; say, express</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">tavla</foreignphrase> &ndash; talk, chat</para></listitem>
+</orderedlist>
+</para>
+
+<note><para>What the place structure for <foreignphrase 
+lang="art-lojban">gismu</foreignphrase> should be is often enough an 
+involved philosophical issue. Place structures were debated exhaustively 
+in the early '90s, and the current place structures (finalised in 1994) 
+are not really open for negotiation any more.</para></note>
+
+</simplesect>
+</sect1>
+
+<sect1 id="less2sumti"><title><foreignphrase
+lang="art-lojban">gismu</foreignphrase> as <foreignphrase
+lang="art-lojban">sumti</foreignphrase></title> <para>So far we've seen how a
+<foreignphrase lang="art-lojban">gismu</foreignphrase> can express a relationship
+between two or more <foreignphrase lang="art-lojban">cmene</foreignphrase>, so we
+can say things like
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>
+Bill likes Mei Li
+</literallayout>
+</informalexample>
+
+But if we don't know her name, how can we say <quote>Bill likes the
+woman</quote>? If we say <foreignphrase lang="art-lojban">la bil. nelci la
+ninmu</foreignphrase>, we mean that Bill likes someone whose name is
+<wordasword>Woman</wordasword>. What we say, in fact, is
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase>
+</literallayout>
+</informalexample>
+
+What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? We
+translated it into English as <quote role="gloss">the</quote>, and like
+<wordasword>the</wordasword> and <foreignphrase
+lang="art-lojban">la</foreignphrase>, it <emphasis>is</emphasis> an article; but
+<quote role="gloss">the</quote> isn't quite what it means. The best way to
+think of it is <quote role="gloss">the thing(s) I call</quote>.
+<foreignphrase lang="art-lojban">la + cmene</foreignphrase> is like a permanent
+label (Bill is always Bill). <foreignphrase lang="art-lojban">le +
+gismu</foreignphrase> is more like a temporary label &mdash; I have
+something in mind, and choose to call it <quote role="gloss">woman</quote>.
+Probably she really is a woman, but with <foreignphrase
+lang="art-lojban">le</foreignphrase> this doesn't have to be so &mdash; we could
+be talking about a transvestite or a stone that looks a bit like a woman.
+There are other articles which can show that it's a real woman, or a
+typical woman or whatever, but we'll leave those alone for the time being.
+</para>
+
+<para>One more word is sometimes necessary when using <foreignphrase
+lang="art-lojban">gismu</foreignphrase> as <foreignphrase
+lang="art-lojban">sumti</foreignphrase>: <foreignphrase
+lang="art-lojban">cu</foreignphrase>. This doesn't carry any meaning, but
+separates the <foreignphrase lang="art-lojban">selbri</foreignphrase> from
+whatever comes before it. It's not necessary with <foreignphrase
+lang="art-lojban">cmene</foreignphrase>, because they can't run over into anything
+else, Similarly, you don't need <foreignphrase
+lang="art-lojban">cu</foreignphrase> after <foreignphrase
+lang="art-lojban">mi</foreignphrase> (I/me), <foreignphrase
+lang="art-lojban">do</foreignphrase> (you, the person I'm talking to) or any words
+like this (<quote role="socalled">pro-<foreignphrase
+lang="art-lojban">sumti</foreignphrase></quote>, in Lojban
+jargon). Nut <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> doesn't
+mean <quote>The woman goes</quote>. Two <foreignphrase 
+lang="art-lojban">gismu</foreignphrase> next to each other form a
+compound <foreignphrase lang="art-lojban">selbri</foreignphrase> (or
+<foreignphrase lang="art-lojban">tanru</foreignphrase>), which means that
+<foreignphrase lang="art-lojban">ninmu</foreignphrase> and <foreignphrase
+lang="art-lojban">klama</foreignphrase> get run together &mdash; with the result
+that it means <quote>The woman-type-of goer</quote> (maybe a female
+traveller). What we say instead, to avoid this, is
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">
+le ninmu cu klama
+</foreignphrase>
+</literallayout>
+</informalexample>
+</para>
+
+<warning><para><foreignphrase lang="art-lojban">cu</foreignphrase> does 
+<emphasis>not</emphasis> mean
+<quote role="gloss">is</quote> (as in <quote>The woman is going</quote>).
+In fact it doesn't mean anything &mdash; it's just there to indicate that
+there's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming.</para></warning>
+
+<simplesect role="exercise"><title>Exercise 3</title> <para>Add
+<foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojban
+sentences where necessary, then work out what they mean.  </para>
+
+<para>
+<orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le karce sutra</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le prenu sisti</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ninmu cliva</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi tavla la mari,as. </foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la meiris. pritu la meilis. mi</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le cipni vofli </foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ninmu</foreignphrase></para></listitem>
+</orderedlist>
+</para>
+</simplesect> 
+</sect1>
+
+<sect1 id="less2changeplaces"><title>Changing Places</title> <para>We've
+seen that if we don't need all the places (and we rarely do), then we can
+miss out the unnecessary ones at the end of the <foreignphrase
+lang="art-lojban">bridi</foreignphrase>. We can also miss out the first place if
+it is obvious (just as in Spanish). However, it sometimes happens that we
+want places at the end, but not all the ones in the middle. There are a
+number of ways to get round this problem. </para>
+
+<para>One way is to fill the unnecessary places with <foreignphrase
+lang="art-lojban">zo'e</foreignphrase>, which means <quote role="gloss">something
+not important</quote>. So <foreignphrase lang="art-lojban">la suzyn. klama la
+paris. la berlin. zo'e le karce</foreignphrase> tells us that Susan goes to
+Paris from Berlin by car, but we're not interested in the route she takes.
+In fact <foreignphrase lang="art-lojban">zo'e</foreignphrase> is always implied,
+even if we don't say it. If someone says <foreignphrase
+lang="art-lojban">klama</foreignphrase>, what they actually mean is
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">
+zo'e klama zo'e zo'e zo'e zo'e
+</foreignphrase>
+</literallayout>
+</informalexample>
+
+but it would be pretty silly to say all that.
+</para>
+
+<note><para>A <foreignphrase lang="art-lojban">bridi</foreignphrase> containing only a
+<foreignphrase lang="art-lojban">selbri</foreignphrase>, and no <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, has a special kind of role in Lojban.
+Such <foreignphrase lang="art-lojban">bridi</foreignphrase> are called
+observatives, and their job is to make a simple observation that something
+is there or is going on, without going into the details of who or what is
+involved. So <foreignphrase lang="art-lojban">fagri</foreignphrase> means just
+<quote>Fire!</quote>, not <quote>My house is on fire</quote> or <quote>The
+salmon was poached over a gently lapping campfire.</quote> Similarly,
+<foreignphrase lang="art-lojban">karce</foreignphrase> means <quote>Car!</quote>,
+and not <quote>This is a natural gas powered 2001 sedan Hyundai car,
+featuring fuzzy dice and a <quote>Free Brobdingnag!</quote> bumper
+sticker</quote>.</para>
+
+<para>Observatives are as simple as baby talk &mdash; which is no surprise,
+since that's what they were modelled on. Note that observatives are still
+normal Lojban <foreignphrase lang="art-lojban">selbri</foreignphrase>; in
+particular, they don't make any distinction between verb and noun. So
+<foreignphrase lang="art-lojban">klama</foreignphrase> means not
+<quote>Go!</quote> (we'll find out how to say <emphasis>that</emphasis> in
+<link linkend="less3">a lesson or two</link>), but <quote>Goes!</quote> or
+<quote>Goer!</quote> &mdash; more idiomatically, <quote>Look! Someone's
+going!</quote> And there is no real difference between <foreignphrase
+lang="art-lojban">klama</foreignphrase> <quote>Look! Someone's
+going!</quote> and <foreignphrase lang="art-lojban">karce</foreignphrase>
+<quote>Look! A car!</quote></para></note>
+
+
+
+<para>Most people don't want more than one <foreignphrase
+lang="art-lojban">zo'e</foreignphrase> in a sentence (though there's nothing to
+stop you using as many as you like). A more popular way to play around with
+places is to use the <emphasis>place tags</emphasis> <foreignphrase
+lang="art-lojban">fa, fe, fi, fo</foreignphrase> and <foreignphrase
+lang="art-lojban">fu</foreignphrase>. These mark a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> as being associated with a certain place
+of the <foreignphrase lang="art-lojban">selbri</foreignphrase>, no matter where it
+comes in the sentence: <foreignphrase lang="art-lojban">fa</foreignphrase>
+introduces what would normally be the first place, <foreignphrase
+lang="art-lojban">fe</foreignphrase> the second place, and so on. For example,
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>
+Susan goes in the car / Susan goes by car
+</literallayout>
+</informalexample>
+</para>
+
+<para><foreignphrase lang="art-lojban">fu</foreignphrase> marks <foreignphrase
+lang="art-lojban">le karce</foreignphrase> as the fifth place of <foreignphrase
+lang="art-lojban">klama</foreignphrase> (the means of transport).  Without
+<foreignphrase lang="art-lojban">fu</foreignphrase>, the sentence would mean
+<quote>Susan goes to the car.</quote>  </para>
+
+<para>With place tags you can also swap places around.  For example,
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">fe le cukta cu dunda fi la klaudias.</foreignphrase>
+The book was given to Claudia.
+</literallayout>
+</informalexample>
+
+(The book &mdash; <foreignphrase lang="art-lojban">le cukta</foreignphrase>
+&mdash; is the second place of <foreignphrase
+lang="art-lojban">dunda</foreignphrase>, what is given; Claudia &mdash;
+<foreignphrase lang="art-lojban">la klaudias.</foreignphrase> &mdash; is the third
+place of <foreignphrase lang="art-lojban">dunda</foreignphrase>, the recipient.)
+</para>
+
+<para>Again, you probably don't want to overdo place tags, or you'll end up
+counting on your fingers (although they're very popular in Lojban poetry
+&mdash; place tags, that is, not fingers.)  </para>
+
+<para>A final way to change places is <emphasis>conversion</emphasis>,
+which actually swaps the places round in the <foreignphrase
+lang="art-lojban">selbri</foreignphrase> &mdash; but we'll leave that for another
+lesson. There are no rules for which method you use, and you can use them
+in any way you want, so long as the person you're talking to understands.
+</para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">glico</foreignphrase></term><listitem><para>x1 is
+English/pertains to English-speaking culture in aspect
+x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">rokci</foreignphrase></term><listitem><para>x1 is a quantity
+of/is made of/contains rock/stone of type/composition x2 from location
+x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">rupnu</foreignphrase></term><listitem><para>x1 is measured in
+major-money-units (dollar/yuan/ruble) as x2 (quantity), monetary system
+x3</para></listitem></varlistentry>
+
+</variablelist>
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 4</title> <para>Reorder the
+<foreignphrase lang="art-lojban">sumti</foreignphrase> with place tags in these
+Lojban sentences so that no place tags are necessary, and the
+<foreignphrase lang="art-lojban">sumti</foreignphrase> appear in their expected
+places. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where 
+necessary.</para>
+
+<para>
+<orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe la 
+lojban. fi le prenu </foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fe mi vecnu fa do fi le karce</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fu la .Odisis. cu fanva fi le 
+glico fa la fitsdjerald.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fi le rokci cu kabri</foreignphrase></para></listitem>
+</orderedlist>
+</para>
+
+</simplesect> 
+</sect1>
+
+<sect1 id="less2summary"><title>Summary</title>
+<para>
+In this lesson we've covered the following points:
+<itemizedlist>
+
+<listitem><para>The basic <foreignphrase lang="art-lojban">bridi</foreignphrase>
+structure.</para></listitem>
+
+<listitem><para>The difference between <foreignphrase
+lang="art-lojban">cmene</foreignphrase> and <foreignphrase
+lang="art-lojban">gismu</foreignphrase>, and the articles <foreignphrase
+lang="art-lojban">la</foreignphrase> and <foreignphrase
+lang="art-lojban">le</foreignphrase>.</para></listitem>
+
+<listitem><para>The place structure of <foreignphrase
+lang="art-lojban">gismu</foreignphrase>.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">cu</foreignphrase> to separate
+<foreignphrase lang="art-lojban">selbri</foreignphrase> from <foreignphrase
+lang="art-lojban">sumti</foreignphrase>.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">zo'e</foreignphrase> to fill missing
+<foreignphrase lang="art-lojban">sumti</foreignphrase> places.</para></listitem>
+
+<listitem><para>Changing places with place-tags.</para></listitem>
+
+</itemizedlist>Although there is a lot more to Lojban sentences than this,
+you now have the basics of Lojban grammar; the rest is just a matter
+of adding things on to it &mdash; different articles, tags, times, numbers
+and so on.  </para>
+
+</sect1>
+
+<sect1 id="less2answers"><title>Answers to exercises</title>
+<simplesect role="excanswer"><title>Exercise 1</title>
+<para>
+<orderedlist spacing="compact">
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">lojban</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">cmene</foreignphrase></para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dunda</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">gismu</foreignphrase> (give)</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">.ankaras.</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">cmene</foreignphrase> (the capital of
+Turkey)</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">mi</foreignphrase></term> <listitem><para>Neither,
+it's a type of <foreignphrase lang="art-lojban">cmavo</foreignphrase> (structure word) called a <quote role="socalled">pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></quote>, a word that
+stands in for a <foreignphrase lang="art-lojban">sumti</foreignphrase>, like an English pronoun stands in for a
+noun</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">cukta</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">gismu</foreignphrase> (book)</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">prenu</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">gismu</foreignphrase> (person)</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">blanu</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">gismu</foreignphrase> (blue)</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">ka'e</foreignphrase></term> <listitem><para>Neither,
+it's a <foreignphrase lang="art-lojban">cmavo</foreignphrase> or structure word,
+meaning <quote role="gloss">can</quote></para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dublin.</foreignphrase></term> <listitem><para>
+<foreignphrase lang="art-lojban">cmene</foreignphrase> (the capital of
+Ireland)</para></listitem></varlistentry></variablelist></listitem>
+
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">selbri</foreignphrase></term> <listitem><para>Neither,
+it's a <foreignphrase lang="art-lojban">lujvo</foreignphrase> or compound
+word</para></listitem></varlistentry></variablelist></listitem>
+
+</orderedlist>
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 2</title>
+<para>
+<orderedlist spacing="compact">
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">karce</foreignphrase></term> <listitem><para>x1 is a
+car/automobile/truck/van [a wheeled motor vehicle] for carrying x2,
+propelled by x3 
+</para></listitem></varlistentry></variablelist>
+(A car propelled by natural gas is a different kind of 
+thing to a diesel truck.)</para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">nelci</foreignphrase></term> <listitem><para>x1 is fond
+of/likes/has a taste for x2 (object/state)
+</para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">cmene</foreignphrase></term> <listitem><para>x1 (quoted
+word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3
+(person)</para></listitem></varlistentry></variablelist>
+(Different people have different names for
+things.)</para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">sutra</foreignphrase></term> <listitem><para>x1 is
+fast/swift/quick/hastes/rapid at doing/being/bringing about x2
+(event/state)
+</para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">crino</foreignphrase></term> <listitem><para>x1 is
+green</para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">sisti</foreignphrase></term> <listitem><para>x1
+ceases/stops/halts activity/process/state x2 [not necessarily completing
+it] </para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">cmima</foreignphrase></term> <listitem><para>x1 is a
+member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst
+group x2 </para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">barda</foreignphrase></term> <listitem><para>x1 is big/large in
+property/dimension(s) x2 as compared with standard/norm x3 
+</para></listitem></varlistentry></variablelist>(Is the Taj Mahal big? Yes, 
+compared to me; no, compared to Jupiter.)</para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">cusku</foreignphrase></term> <listitem><para>x1 expresses/says
+x2 for audience x3 via expressive medium x4
+</para></listitem></varlistentry></variablelist></para></listitem>
+
+<listitem><para><variablelist><varlistentry><term><foreignphrase
+lang="art-lojban">tavla</foreignphrase></term> <listitem><para>x1 talks/speaks to
+x2 about subject x3 in language x4
+</para></listitem></varlistentry></variablelist>
+
+Note the different place structures of <foreignphrase
+lang="art-lojban">cusku</foreignphrase> and <foreignphrase
+lang="art-lojban">tavla</foreignphrase>. With <foreignphrase
+lang="art-lojban">cusku</foreignphrase> the emphasis is on communication; what is
+communicated is more important than who it is communicated to. Quotes in
+e-mails frequently start with <quote><foreignphrase lang="art-lojban">do cusku
+di'e</foreignphrase></quote> (<foreignphrase
+lang="art-lojban">di'e</foreignphrase> means <quote role="gloss">the
+following</quote>) as the Lojban equivalent of <quote>You wrote</quote>.
+(<foreignphrase lang="art-lojban">ciska</foreignphrase> &mdash; <quote
+role="gloss">write</quote> &mdash; places more emphasis on the physical act
+of writing). With <foreignphrase lang="art-lojban">tavla</foreignphrase> the
+emphasis is rather more on the social act of talking: you can
+<foreignphrase lang="art-lojban">tavla</foreignphrase> about nothing in
+particular. </para></listitem>
+
+</orderedlist>
+
+</para> </simplesect>
+
+<simplesect role="excanswer"><title>Exercise 3</title>
+<para>
+<orderedlist spacing="compact">
+<listitem><para>
+<literallayout>
+<foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil.</foreignphrase>
+Claudia gives the book(s) to Bill.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">le karce <emphasis>cu</emphasis> sutra</foreignphrase>
+The car(s) is/are fast.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">la kamIL. cukta</foreignphrase>
+<citetitle>Camille</citetitle> is a book.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">mi fanva la kaMIL. la lojban</foreignphrase>
+I translate <citetitle>Camille</citetitle> into Lojban.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">le prenu <emphasis>cu</emphasis> sisti</foreignphrase>
+The person(s) stop(s) [whatever it was they were doing]</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">le ninmu <emphasis>cu</emphasis> cliva</foreignphrase>
+The woman/women leave(s)</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase>
+Istanbul is big.  (an understatement &mdash; it has a population of over ten million)</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">mi tavla la mari,as.</foreignphrase>
+I talk to Maria.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">la meiris. pritu la meilis. mi</foreignphrase>
+Mary is on the right of Mei Li, if you're facing me.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">le cipni <emphasis>cu</emphasis> vofli</foreignphrase>
+The bird(s) flies/fly</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">crino</foreignphrase>
+It's / they're green.</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">ninmu</foreignphrase>
+She's a woman / They're women / There's a woman / There are some women</literallayout></para></listitem>
+
+</orderedlist></para>
+
+<para>In sentences 1, 3, 4, 7, 8 and 9,
+<foreignphrase lang="art-lojban">cu</foreignphrase> is possible but not necessary.
+In the last two sentences, <foreignphrase lang="art-lojban">cu</foreignphrase> is
+impossible, since it has to separate the <foreignphrase
+lang="art-lojban">selbri</foreignphrase> from the <foreignphrase
+lang="art-lojban">sumti</foreignphrase> that comes before it, and there are no
+<foreignphrase lang="art-lojban">sumti</foreignphrase> here. Those last two
+sentences are observatives, of course. </para>
+
+<para>Note that I have translated these sentences in the present tense
+(since in English you have to choose a tense) but they could be in any
+tense, so <foreignphrase lang="art-lojban">le cipni cu vofli</foreignphrase> could
+also mean <quote>The bird flew</quote>, for example. We'll look at how
+Lojban expresses tense in <link linkend="less6">later lessons</link>; just remember that you don't
+actually <emphasis>need</emphasis> it &mdash; normally it's obvious whether
+an action takes place in the past, present or future.</para>
+
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 4</title><para>
+<orderedlist spacing="compact">
+<listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cusku la lojban. le prenu le cukta</foreignphrase>
+Someone expresses Lojban for the person(s) through a book
+The book is a medium for Lojban to people</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">do vecnu mi le karce zo'e</foreignphrase>
+You sell me the car for some amount
+I am sold by you the car</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">la fitsdjerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>
+Fitzgerald translates something into English from some language as <wordasword>The Odyssey</wordasword>
+<wordasword>The Odyssey</wordasword> is a translation into English by Fitzgerald</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">mi vecnu zo'e zo'e le rupnu</foreignphrase>
+I sell something to someone for the dollar
+I sell (it) for a dollar</literallayout></para></listitem>
+
+<listitem><para><literallayout><foreignphrase lang="art-lojban">zo'e cu kabri 
+zo'e le rokci</foreignphrase>
+Something is a cup, containing something, made of stone
+Stone is something cups are made of</literallayout></para></listitem>
+
+</orderedlist>
+</para>
+</simplesect> 
+
+</sect1>
+</chapter>

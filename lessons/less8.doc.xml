@@ -1,1 +1,1011 @@
-<chapter id="less8"><title>Swapping things round: conversion and simple<foreignphrase lang="art-lojban">lujvo</foreignphrase></title><sect1 id="less8selbriconv"><title><foreignphrase lang="art-lojban">selbri</foreignphrase> conversions</title><para>Conversion is swapping the places of a <foreignphraselang="art-lojban">bridi</foreignphrase> around. We have already encountered onecase of conversion: the <foreignphrase lang="art-lojban">cmavo</foreignphrase>,<foreignphrase lang="art-lojban">se</foreignphrase>, which changes round the firstand second places of a <foreignphrase lang="art-lojban">bridi</foreignphrase>. Forexample<informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. cinba la ranjit.</foreignphrase>Jyoti kisses Ranjeet.</literallayout></informalexample>is the same as <informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. se cinba la djiotis.</foreignphrase>Ranjeet is kissed by Jyoti.</literallayout></informalexample></para><para><foreignphrase lang="art-lojban">se</foreignphrase> is part of a series of<foreignphrase lang="art-lojban">cmavo</foreignphrase> which go, in alphabeticalorder, <foreignphrase lang="art-lojban">se, te, ve, xe</foreignphrase>. Like a lotof these series, the first one is used a lot more than the others, butsometimes the others are useful. </para><para>Just as <foreignphrase lang="art-lojban">se</foreignphrase> changes roundthe first and second places, <foreignphrase lang="art-lojban">te</foreignphrase>changes round the first and third places, <foreignphraselang="art-lojban">ve</foreignphrase>, the first and fourth, and <foreignphraselang="art-lojban">xe</foreignphrase>, the first and fifth.<informalexample><literallayout><foreignphrase lang="art-lojban">ti bakfu lo tirse grana loi skori</foreignphrase>This is-a-bundle-of iron rods held together with string.</literallayout></informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">loi skori cu te bakfu lo tirse grana ti</foreignphrase>String holds the bundle of iron rods together (literally, <quote>with string are bundled iron rods.</quote>)</literallayout></informalexample>Note the <foreignphrase lang="art-lojban">ti</foreignphrase> has now moved to aless conspicuous place in the sentence, and so can now be dropped outwithout being noticed. In fact place conversion is often used when we wantto get rid of places like this.<informalexample><literallayout><foreignphrase lang="art-lojban">mi'a tugni do zo'e le dinske</foreignphrase>We agree with you [that something is true] about economics.  </literallayout></informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">le dinske cu ve tugni</foreignphrase>As regards economics [we] agree [with you].</literallayout></informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>The person goes somewhere, from somewhere, via somewhere, by train</literallayout></informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">lo trene cu xe klama</foreignphrase>[Someone] goes by train. (literally <quote>By a train is gone</quote>)A train is a vehicle.</literallayout></informalexample></para><para>As I've said, the more extreme conversions like <foreignphraselang="art-lojban">ve</foreignphrase> and <foreignphraselang="art-lojban">xe</foreignphrase> are rarely used, partly because most<foreignphrase lang="art-lojban">gismu</foreignphrase> only have two or threeplaces, and partly because even with four- or five-place <foreignphraselang="art-lojban">gismu</foreignphrase>, the less-used places come towards theend.  </para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">jamna</foreignphrase></term><listitem><para>x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">xatra</foreignphrase></term><listitem><para>x1 is aletter/missive/[note] to intended audience x2 from author/originator x3with content x4</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">xlura</foreignphrase></term><listitem> <para>x1 (agent)influences/lures/tempts x2 into action/state x3 by influence/threat/lurex4</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">gugde</foreignphrase></term><listitem><para>x1 is the country ofpeoples x2 with land/territory x3; (people/territoryrelationship)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">jdini</foreignphrase></term><listitem> <para>x1 ismoney/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 1</title> <para>Convert thefollowing sentences so that the highlighted <foreignphraselang="art-lojban">sumti</foreignphrase> comes first. Miss out any unimportant places.<orderedlist><listitem><para><foreignphraselang="art-lojban">zo'e fengu <emphasis>lenujamna</emphasis></foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">ti xatra mi <emphasis>la jang.</emphasis></foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">zo'e xlura mi lenu cliva le gugde kei <emphasis>loijdini</emphasis></foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">lo prenu cu tavla zo'e zo'e <emphasis>lalojban.</emphasis></foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">lo prenu cu dunda le cukta<emphasis>mi</emphasis></foreignphrase></para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less8sumticonversion"><title><foreignphraselang="art-lojban">sumti</foreignphrase> conversions</title><para>Another thing we can do is to use conversion <foreignphraselang="art-lojban">cmavo</foreignphrase> to make <foreignphraselang="art-lojban">sumti</foreignphrase>. We saw how Lojban articles turn<foreignphrase lang="art-lojban">selbri</foreignphrase> into <foreignphraselang="art-lojban">sumti</foreignphrase>, so that, for example, <foreignphraselang="art-lojban">lo mlatu</foreignphrase> means <quote>something(s) which couldfit in the first place of <foreignphraselang="art-lojban">mlatu</foreignphrase></quote> &mdash; in other words,<foreignphrase lang="art-lojban">lo</foreignphrase> changes <quoterole="gloss">is-a-cat</quote> to <quote role="gloss">a cat</quote>. Thesame is true for <foreignphrase lang="art-lojban">le mlatu</foreignphrase> exceptthat, as we've seen, it is something which the <emphasis>speaker</emphasis>has in mind as occupying x1 of <foreignphraselang="art-lojban">mlatu</foreignphrase> &mdash; in other words, <quoterole="gloss">the cat.</quote></para><para>This works fine if the only place we want to access and turn into a<foreignphrase lang="art-lojban">sumti</foreignphrase> is x1; but with other<foreignphrase lang="art-lojban">gismu</foreignphrase> we may want to make<foreignphrase lang="art-lojban">sumti</foreignphrase> out of other places. Let'slook at the last example from the previous exercise:<informalexample><para><foreignphrase lang="art-lojban">lo prenu cu dunda le cukta mi</foreignphrase></para></informalexample><foreignphrase lang="art-lojban">lo prenu</foreignphrase> can also be<foreignphrase lang="art-lojban">le dunda</foreignphrase> <quote role="gloss">thegiver</quote>; but what about the <foreignphrase lang="art-lojban">sumti</foreignphrase> describing <foreignphrase lang="art-lojban">mi</foreignphrase>and <foreignphrase lang="art-lojban">le cukta</foreignphrase>? Well, you probablyguessed. The answer you gave to the exercise was (I hope)<informalexample><para><foreignphrase lang="art-lojban">mi te dunda le cukta</foreignphrase></para></informalexample>This means that <foreignphrase lang="art-lojban">mi</foreignphrase> can be<foreignphrase lang="art-lojban">le te dunda</foreignphrase> <quoterole="gloss">the recipient</quote>. Inthe same way, <foreignphrase lang="art-lojban">le cukta</foreignphrase> can be<foreignphrase lang="art-lojban">le se dunda</foreignphrase> <quoterole="gloss">the gift</quote> or <quoterole="gloss">the thing given</quote>. So if we want tomake a really obvious sentence, we can say<informalexample><literallayout><foreignphrase lang="art-lojban">le dunda cu dunda le se dunda le te dunda</foreignphrase>The giver gives the given-thing to the person-to-whom-it-is-givenThe donor gives the gift to the recipient.</literallayout></informalexample></para><para>These conversions apply not only to <foreignphraselang="art-lojban">gismu</foreignphrase>, but to any word acting as a<foreignphrase lang="art-lojban">selbri</foreignphrase>. Remember <foreignphraselang="art-lojban">go'i</foreignphrase>, for example, which stands in for thepreceding sentence's <foreignphrase lang="art-lojban">bridi</foreignphrase>. Justas we did with <foreignphrase lang="art-lojban">dunda</foreignphrase>, we canconstruct a <foreignphrase lang="art-lojban">bridi</foreignphrase> like<informalexample><para><foreignphrase lang="art-lojban">le go'i cu go'i le se go'i le te go'i le ve go'i le xe go'i</foreignphrase></para></informalexample>On its own, this sentence doesn't mean terribly much; it just repeats theprevious sentence. But the trick is, this version of the sentence repeatsthe previous sentence, <emphasis>complete with its <foreignphraselang="art-lojban">sumti</foreignphrase></emphasis>. This is how we can refer backto <foreignphrase lang="art-lojban">sumti</foreignphrase> in the previous sentencein general. For example,<informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. zgana lonanmu goi ko'a .i ko'a melbi</foreignphrase> </para></informalexample>can also be expressed as<informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. zgana lonanmu .i <emphasis>le se go'i</emphasis> cu melbi</foreignphrase></para></informalexample>That's because <foreignphrase lang="art-lojban">le se go'i</foreignphrase>refers to the second place (x2) of the preceding <foreignphraselang="art-lojban">bridi</foreignphrase>, which is <foreignphraselang="art-lojban">lo nanmu</foreignphrase>. (There are even waysto refer back to <foreignphrase lang="art-lojban">sumti</foreignphrase>introduced by <foreignphrase lang="art-lojban">sumti tcita</foreignphrase>;but that's an advanced topic.)</para><para>Even some abstraction <foreignphraselang="art-lojban">cmavo</foreignphrase>can be modified by <foreignphraselang="art-lojban">se</foreignphrase>. <foreignphraselang="art-lojban">du'u</foreignphrase>, for example, which can be used to form a<foreignphrase lang="art-lojban">selbri</foreignphrase>, has two <foreignphraselang="art-lojban">sumti</foreignphrase>: x1, the thought described, and x2, thewords used to express it:<informalexample><literallayout><foreignphrase lang="art-lojban">le la jang. se cusku cu {du'u ri nelci la suzyn. kei} lu do bebna li'u</foreignphrase>Zhang's thing-expressed (= what Zhang said) is {the thought that he likes Susan}, in the words <quote>You're a dolt.</quote></literallayout></informalexample>That's why <foreignphraselang="art-lojban">le se du'u</foreignphrase> refers to words rather than thoughts.</para></sect1><sect1 id="less8lujvo"><title><foreignphrase lang="art-lojban">lujvo</foreignphrase></title><para>We've already seen quite a few <foreignphraselang="art-lojban">lujvo</foreignphrase>, or compound words, in theexercises; but we haven't actually made any of our own yet.  Lojban hasstrict rules for making <foreignphrase lang="art-lojban">lujvo</foreignphrase>;you can't just crunch words together like English <wordasword>brunch</wordasword> or<wordasword>edutainment</wordasword>, because this might result in a word which soundslike something else, falls apart or makes intelligent computers repeat<quote>Does not compute</quote> in a tinny voice and blow up in a cloud ofblue smoke.  However, one safe way of making acceptable <foreignphraselang="art-lojban">lujvo</foreignphrase> is by using the conversion <foreignphraselang="art-lojban">cmavo</foreignphrase> we've just looked at. </para><para><foreignphrase lang="art-lojban">se dunda</foreignphrase>, as we've seen,means <quote role="gloss">is given (by someone, to someone)</quote>. We canturn this into a <foreignphrase lang="art-lojban">lujvo</foreignphrase> simplyadding <foreignphrase lang="art-lojban">l</foreignphrase> to the <foreignphraselang="art-lojban">se</foreignphrase>, to give <foreignphraselang="art-lojban">seldunda</foreignphrase>. The new word comes complete with itsown place-structure &mdash; which is, of course, the same as that of <foreignphraselang="art-lojban">se dunda</foreignphrase>:<informalexample><para>x1 is a gift from x2 to x3</para></informalexample>(Note that <quote role="gloss">gift</quote> here is anything given withoutpayment or exchange &mdash; it doesn't need to have the <quoterole="socalled">special present</quote> associations of the English word.)</para><para>If we want to say <quote role="gloss">the gift</quote>,<foreignphrase lang="art-lojban">le seldunda</foreignphrase> is not really animprovement on <foreignphrase lang="art-lojban">le se dunda</foreignphrase>.However, most <foreignphrase lang="art-lojban">gismu</foreignphrase> have shortcombining forms (<foreignphrase lang="art-lojban">rafsi</foreignphrase>). Theseare never used on their own, only in <foreignphraselang="art-lojban">lujvo</foreignphrase>. As it happens, <foreignphraselang="art-lojban">dunda</foreignphrase> has two short forms: <foreignphraselang="art-lojban">dud</foreignphrase> and <foreignphraselang="art-lojban">du'a</foreignphrase>. We can't use <foreignphraselang="art-lojban">dud</foreignphrase>, because that would give us a word ending ina consonant, and, as we know, only <foreignphraselang="art-lojban">cmene</foreignphrase> can end in a consonant. The onlycandidate, then, is <foreignphrase lang="art-lojban">du'a</foreignphrase>, so<quote role="gloss">the gift</quote> is <foreignphrase lang="art-lojban">leseldu'a</foreignphrase>. (<foreignphraselang="art-lojban">sel<emphasis>du'a</emphasis></foreignphrase> has exactly thesame place structure as <foreignphraselang="art-lojban">sel<emphasis>dunda</emphasis></foreignphrase>.) The same is true for the otherconversion <foreignphrase lang="art-lojban">cmavo</foreignphrase>, though theircorresponding <foreignphrase lang="art-lojban">rafsi</foreignphrase> don't allfollow the same pattern:<variablelist><varlistentry><term><foreignphraselang="art-lojban">se</foreignphrase></term><listitem><para><foreignphraselang="art-lojban">sel-</foreignphrase></para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">te</foreignphrase></term><listitem><para><foreignphraselang="art-lojban"><emphasis>ter-</emphasis></foreignphrase></para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">ve</foreignphrase></term><listitem><para><foreignphraselang="art-lojban">vel-</foreignphrase></para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">xe</foreignphrase></term><listitem><para><foreignphraselang="art-lojban">xel-</foreignphrase></para></listitem></varlistentry></variablelist>So <quote role="gloss">therecipient</quote> is <foreignphrase lang="art-lojban">le terdu'a</foreignphrase>. </para><note><para>You might wonder whether <foreignphraselang="art-lojban">stela</foreignphrase> <quote role="gloss">lock</quote> wasreally important enough to have wrested the <foreignphraselang="art-lojban">rafsi</foreignphrase> <foreignphraselang="art-lojban">tel-</foreignphrase> away from <foreignphraselang="art-lojban">te</foreignphrase>. Probably not; but after the Great RafsiReallocation of 1994, it's really too late to do anything about it now.Consider it an endearing quirk of the language...</para></note><para>In this way you can expand on the <foreignphraselang="art-lojban">gismu</foreignphrase> list dramatically, to give equivalents ofcommon English words which are not included and, more interestingly, wordswhich don't have equivalents in English. A lot of these are words you wouldprobably never want to say, like <foreignphraselang="art-lojban">terna'e</foreignphrase> <quote role="gloss">x1 is the rule/logicby which proposition x2 contradicts/denies/refutes/negates propositionx3.</quote> However, you sometimes find interesting and/or useful wordswhich don't exist as single words in English.  Here are a few of my owncreations:<variablelist><varlistentry><term><foreignphrase lang="art-lojban">lotertcu</foreignphrase></term> <listitem><para>a purpose/activity for whichsomething is needed (from <foreignphraselang="art-lojban">nitcu</foreignphrase> <quote role="gloss">need</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loternu'e</foreignphrase></term> <listitem><para>a person to whom a promiseis made (from <foreignphrase lang="art-lojban">nupre</foreignphrase><quote role="gloss">promise</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lo selvu'e</foreignphrase></term><listitem><para>a moral standard (from<foreignphrase lang="art-lojban">vrude</foreignphrase> <quote role="gloss">bevirtuous</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loselte'a</foreignphrase></term> <listitem><para>a scarything (from <foreignphrase lang="art-lojban">terpa</foreignphrase><quote role="gloss">fear</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loselcta</foreignphrase></term> <listitem><para>something/someone that islooked at (from <foreignphrase lang="art-lojban">catlu</foreignphrase><quote role="gloss">look, examine</quote>)</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loselta'i</foreignphrase></term> <listitem><para>somethingwhich wears you out (from <foreignphraselang="art-lojban">tatpi</foreignphrase> <quote role="gloss">be tired/fatigued</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loveltu'i</foreignphrase></term> <listitem><para>an area ofagreement (from <foreignphrase lang="art-lojban">tugni</foreignphrase><quote role="gloss">agree with</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loselzi'e</foreignphrase></term> <listitem><para>somethingyou are free to do (from <foreignphraselang="art-lojban">zifre</foreignphrase> <quote role="gloss">befree</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loselxei</foreignphrase></term> <listitem><para>an object ofhate (from <foreignphrase lang="art-lojban">xebni</foreignphrase><quote role="gloss">hate</quote>) </para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">loselpa'i</foreignphrase></term> <listitem><para>an object of devotion (from <foreignphraselang="art-lojban">prami</foreignphrase> <quote role="gloss">love, be devotedto</quote>)</para></listitem> </varlistentry></variablelist></para><warning><para>For reasons which aren't important here, this method willalways give you an acceptable <foreignphraselang="art-lojban">lujvo</foreignphrase> &mdash; except in one case.  Lojban doesnot allow double consonants, because they are difficult to pronounce, andcan be heard incorrectly as one consonant.  This means that we can't have<foreignphrase lang="art-lojban">lujvo</foreignphrase> like <foreignphraselang="art-lojban">vellu'i</foreignphrase> (<quote role="gloss">cleansingagent</quote>, from the x4 of <foreignphraselang="art-lojban">lumci</foreignphrase> <quote role="gloss">wash</quote>).  Theway out of this problem is to put <foreignphrase lang="art-lojban">y</foreignphrase> between the two <foreignphraselang="art-lojban">l</foreignphrase>s, giving us <foreignphraselang="art-lojban">velylu'i</foreignphrase>. </para><para>In fact, if you see <foreignphraselang="art-lojban">y</foreignphrase> in a Lojban word, it cannot be a<foreignphrase lang="art-lojban">gismu</foreignphrase> or a <foreignphraselang="art-lojban">cmavo</foreignphrase> (with two exceptions we've alreadyseen: <foreignphrase lang="art-lojban">.y.</foreignphrase> <quoterole="gloss">er...</quote> and <foreignphraselang="art-lojban">.y'y.</foreignphrase> <quoterole="gloss">apostrophe.</quote>) Such a word can only be either a<foreignphrase lang="art-lojban">lujvo</foreignphrase> or a name(<foreignphrase lang="art-lojban">cmene</foreignphrase>). <foreignphraselang="art-lojban">y</foreignphrase> was avoided in <quoterole="socalled">normal</quote> Lojban words.</para> </warning></sect1><sect1 id="less8neglujvo"><title>Negative <foreignphraselang="art-lojban">lujvo</foreignphrase></title><para>Just as <foreignphrase lang="art-lojban">se</foreignphrase> has thecombining form <foreignphrase lang="art-lojban">sel</foreignphrase>, the negative<foreignphrase lang="art-lojban">na'e</foreignphrase> has the combining form <foreignphrase lang="art-lojban">nal</foreignphrase>, and wecan use this to make <foreignphrase lang="art-lojban">lujvo</foreignphrase> inexactly the same way. </para><note><para><foreignphrase lang="art-lojban">na</foreignphrase> has its own<foreignphrase lang="art-lojban">rafsi</foreignphrase>, <foreignphraselang="art-lojban">nar</foreignphrase>; but <foreignphraselang="art-lojban">na'e</foreignphrase> is more useful in creating new words:<foreignphrase lang="art-lojban">na'e</foreignphrase> in a <foreignphraselang="art-lojban">selbri</foreignphrase> still indicates an existing relationship,while <foreignphrase lang="art-lojban">na</foreignphrase> could mean anything,including non-existence &mdash; making too broad a concept for mostuses.</para></note><para>For example, <foreignphrase lang="art-lojban">jdice</foreignphrase>means <quote role="gloss">decide</quote> and has the short combining form<foreignphrase lang="art-lojban">jdi</foreignphrase>. <foreignphraselang="art-lojban">naljdi</foreignphrase> therefore means <quote role="gloss">notdecide</quote> or <quote role="gloss">be indecisive</quote>. Some other examples:<variablelist><varlistentry><term><foreignphrase lang="art-lojban">lonaljmi</foreignphrase></term><listitem><para>one who doesnot understand (from <foreignphraselang="art-lojban">jimpe</foreignphrase><quote role="gloss">understand</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lonaljvi</foreignphrase></term><listitem><para>anon-competitor (from <foreignphraselang="art-lojban">jivna</foreignphrase><quote role="gloss">compete</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lonalkri</foreignphrase></term><listitem><para>anon-believer/skeptic (from <foreignphraselang="art-lojban">krici</foreignphrase><quote role="gloss">believe</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lonalyla'e</foreignphrase></term><listitem><para>an unlikelyevent (from <foreignphrase lang="art-lojban">lakne</foreignphrase><quote role="gloss">be likely</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lo nalre'a</foreignphrase></term><listitem><para>a non-human (from<foreignphrase lang="art-lojban">remna</foreignphrase> <quote role="gloss">behuman</quote>)</para></listitem> </varlistentry></variablelist></para><para>We can see that <foreignphrase lang="art-lojban">nal</foreignphrase> is likethe English <wordasword>non-</wordasword>, but we need to remember that<wordasword>non-</wordasword> sometimes has other meanings or associationsthat <foreignphrase lang="art-lojban">nal</foreignphrase> does not have.<foreignphrase lang="art-lojban">lo naljvi</foreignphrase> is simply someone whois not taking part in a competition, not a <quote role="gloss">non-contender</quote> inthe sense of someone who competes but doesn't stand a chance of winning.Similarly <foreignphrase lang="art-lojban">lo nalre'a</foreignphrase> is someonewho is not a member of the species <foreignphrase lang="lat">homosapiens</foreignphrase> (e.g. a chimpanzee or Klingon), and cannot beapplied to someone who is inhumane or perceived as subhuman in some way.</para><para>We can also use <foreignphrase lang="art-lojban">nal</foreignphrase> with<foreignphrase lang="art-lojban">sel</foreignphrase> and its relatives; forexample,<variablelist><varlistentry><term><foreignphrase lang="art-lojban">lonaltertcu</foreignphrase></term><listitem><para>not a purpose/activity forwhich something is needed; something which has no requirements (from<foreignphrase lang="art-lojban">nitcu</foreignphrase> <quote role="gloss">x1needs/requires/is dependent on/[wants] necessity x2 forpurpose/action/stage of process x3</quote>)</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lonalveltu'i</foreignphrase></term><listitem><para>an area of disagreement; acontroversial issue (from <foreignphraselang="art-lojban">tugni</foreignphrase> <quote role="gloss">x1 [person]agrees with person(s)/position/side x2 that x3 (du'u) is true about matterx4</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lonalselzi'e</foreignphrase></term><listitem><para>something you are not freeto do (from <foreignphrase lang="art-lojban">zifre</foreignphrase> <quoterole="gloss">x1 is free/at liberty to do/be x2 (event/state) under conditions x3</quote>)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lonalselsanji</foreignphrase></term><listitem><para>something you are unawareof (from <foreignphrase lang="art-lojban">sanji</foreignphrase> <quoterole="gloss">x1 is conscious/aware of x2 (object/abstract); x1discerns/recognizes x2 (object/abstract)</quote>; this <foreignphraselang="art-lojban">gismu</foreignphrase> has no suitable short combiningform)</para></listitem> </varlistentry><varlistentry><term><foreignphrase lang="art-lojban">lo nalselse'i</foreignphrase></term><listitem><para>someone who lacks a self/ego; an enlightened personaccording to Hindu/Buddhist philosophy (from <foreignphraselang="art-lojban">sevzi</foreignphrase> <quote role="gloss">x1 is aself/ego/id/identity-image of x2</quote>)</para></listitem> </varlistentry></variablelist></para><para>As you'll have guessed, the companions of <foreignphraselang="art-lojban">na'e</foreignphrase>, namely <foreignphraselang="art-lojban">to'e</foreignphrase> and <foreignphraselang="art-lojban">no'e</foreignphrase>, have <foreignphraselang="art-lojban">rafsi</foreignphrase> of their own: <foreignphraselang="art-lojban">tol-</foreignphrase> and <foreignphraselang="art-lojban">nor-</foreignphrase>, respectively. So <quoterole="gloss">disinterested</quote>, <quoterole="gloss">uninterested</quote> and <quote role="gloss">bored</quote> inLojban are <foreignphrase lang="art-lojban">norselci'i</foreignphrase>,<foreignphrase lang="art-lojban">nalselci'i</foreignphrase> and <foreignphraselang="art-lojban">tolselci'i</foreignphrase>. </para><para><foreignphrase lang="art-lojban">lujvo</foreignphrase> can be muchmore interesting than this; interesting enough, in fact, that we won't becovering them any further here. You can make <foreignphraselang="art-lojban">lujvo</foreignphrase> out of pretty much any<foreignphrase lang="art-lojban">tanru</foreignphrase> you can devise; thisis the main way to introduce <quote role="socalled">new words</quote> intoLojban. But to make the <foreignphraselang="art-lojban">lujvo</foreignphrase> you come up with work, you needsome background knowledge:<itemizedlist><listitem><para>how to make sure <foreignphraselang="art-lojban">rafsi</foreignphrase> stick together in a word that is not ambiguous with another possible combination of words (<citetitle>The Complete Lojban Language</citetitle>, Chapter 4.5&ndash;4.6, 4.10&ndash;4.12.)</para></listitem><listitem><para>how to make sure the <foreignphraselang="art-lojban">gismu</foreignphrase> inside your <foreignphraselang="art-lojban">tanru</foreignphrase> group together properly (<citetitle>The Complete Lojban Language</citetitle>, Chapter 5.)</para></listitem><listitem><para>how to derive the place structure of the <foreignphraselang="art-lojban">lujvo</foreignphrase> from the place structures of the <foreignphraselang="art-lojban">gismu</foreignphrase> that make it up(<citetitle>The Complete Lojban Language</citetitle>, Chapter 12.)</para></listitem></itemizedlist>It's worth your while to look into these issues if you'll be working with the language seriously, and especially if you'll be writing in it. (<foreignphraselang="art-lojban">lujvo</foreignphrase> are easier to deal with while writing than while speaking, because you have the time to reflect on how you'll be creating your new word.) At this stage, though, you don't need to go into all just that yet.</para><simplesect role="exercise"><title>Exercise 2</title><para>If you have access to a <foreignphraselang="art-lojban">gismu</foreignphrase> list, use it to look up <foreignphraselang="art-lojban">gismu</foreignphrase> and make <foreignphraselang="art-lojban">lujvo</foreignphrase> meaning the following, using shortcombining forms where possible and <foreignphraselang="art-lojban">nal</foreignphrase> where necessary.<orderedlist><listitem><para>a television</para></listitem><listitem><para>a subject of conversation</para></listitem><listitem><para>someone who is deceived or cheated</para></listitem><listitem><para>an immoral or amoral (not virtuous) person</para></listitem><listitem><para>a railroad</para></listitem><listitem><para>an insignificant event</para></listitem><listitem><para>something unseen</para></listitem><listitem><para>something about which you have no feelings/emotions</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less8refl"><title>Reflexives and reciprocals</title><para>Let's now look at a slightly embellished version of theplot-advancing example sentence from <link linkend="less7">Lesson 7</link>,involving Zhang and Susan:<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. na djuno fi vo'a fe le du'u la jang. cinynei sy.</foreignphrase>Susan doesn't know about herself that Zhang fancies (<quote role="gloss">sexually-likes</quote>) her.</literallayout></informalexample>We have snuck into the sentence a new pro-<foreignphraselang="art-lojban">sumti</foreignphrase>: <foreignphraselang="art-lojban">vo'a</foreignphrase>.  This means <quote role="gloss">the first<foreignphrase lang="art-lojban">sumti</foreignphrase> of this <foreignphraselang="art-lojban">bridi</foreignphrase></quote>, and like the others, comes in aseries &mdash; <foreignphrase lang="art-lojban">vo'e</foreignphrase> refers to the second <foreignphraselang="art-lojban">sumti</foreignphrase>, <foreignphraselang="art-lojban">vo'i</foreignphrase> to the third and so on. In practice,<foreignphrase lang="art-lojban">vo'a</foreignphrase> is used quite a lot, whilethe others are rarer; but that could be because people still tend to thinkin terms of natural languages (where only the equivalent of <foreignphraselang="art-lojban">vo'a</foreignphrase> is usual.) As people start thinking more inLojban, the others could get used more. </para><note><para><quote>This <foreignphraselang="art-lojban">bridi</foreignphrase></quote> means <quote>the <foreignphraselang="art-lojban">bridi</foreignphrase> that <foreignphraselang="art-lojban">vo'a</foreignphrase> is a <foreignphraselang="art-lojban">sumti</foreignphrase> of.</quote> So if we were to say <informalexample><para><foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jang. cinynei <emphasis>vo'a</emphasis></foreignphrase></para></informalexample>we would not be saying that Susan doesn't know Zhang fancies her, but thatSusan doesn't know Zhang fancies <emphasis>himself</emphasis>:<foreignphrase lang="art-lojban">vo'a</foreignphrase> looks no further than itsclosest <foreignphrase lang="art-lojban">selbri</foreignphrase> for its meaning.</para></note><para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is very useful forgiving the sense of <quote role="socalled">reflexives</quote> &mdash; wordslike <wordasword>herself</wordasword>, <wordasword>itself</wordasword>, andso on. (That <foreignphrase lang="art-lojban">vo'a</foreignphrase> cannot skipover an embedded <foreignphrase lang="art-lojban">bridi</foreignphrase>, asdiscussed just above, is also typical of most languages' reflexives &mdash;although not, for example, Norwegian.) Here are some more straightforwardexamples of its use:<informalexample><literallayout><foreignphrase lang="art-lojban">la meilis. pensi vo'a</foreignphrase>Mei Li thinks about herself.</literallayout></informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">le gerku cu batci vo'a</foreignphrase>The dog bites itself.</literallayout></informalexample>You can also say<informalexample><literallayout><foreignphrase lang="art-lojban">mi nelci vo'a</foreignphrase>I like myself.</literallayout></informalexample>but this is the same as <foreignphrase lang="art-lojban">mi nelcimi</foreignphrase>, which is simpler.  </para><para>Now for something clever &mdash; which will also look slightly familiar.  <informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. zgani la djiotis. soi vo'a vo'e</foreignphrase>Susan notices Jyoti and vice versa.Susan and Jyoti notice each other.</literallayout></informalexample><foreignphrase lang="art-lojban">soi</foreignphrase> is a <foreignphraselang="art-lojban">cmavo</foreignphrase> meaning something like <quote>you canchange these <foreignphrase lang="art-lojban">sumti</foreignphrase> round and the<foreignphrase lang="art-lojban">bridi</foreignphrase> will still be true.</quote>If there is only one <foreignphrase lang="art-lojban">sumti</foreignphrase> afterthe <foreignphrase lang="art-lojban">soi</foreignphrase>, the other one is takento be the one immediately <emphasis>before</emphasis> <foreignphraselang="art-lojban">soi</foreignphrase>. So we can say the same thing more brieflyas <foreignphrase lang="art-lojban">la suzyn. zgani la djiotis. soivo'a</foreignphrase>, or even just <foreignphrase lang="art-lojban">ko'a zganiko'i soi vo'a</foreignphrase>. That is why you were able to use<foreignphrase lang="art-lojban">soi vo'a</foreignphrase> as <quoterole="gloss">and vice versa</quote> in the previous lesson's exercises.</para><note><para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is fixed in whatit refers back to and, unlike <foreignphrase lang="art-lojban">ri</foreignphrase>,can point back to <foreignphrase lang="art-lojban">ko'a</foreignphrase> &mdash;though you can also repeat <foreignphrase lang="art-lojban">ko'a</foreignphrase>if you prefer.</para></note><note><para>There is a <foreignphrase lang="art-lojban">gismu</foreignphrase> thatdoes the same job, <foreignphrase lang="art-lojban">simxu</foreignphrase>:<quote>x1 (set) has members who mutually/reciprocally x2 (event [x1 shouldbe reflexive in 1+ sumti]).</quote> You saw a sneak preview of this, too,in the previous lesson. It is mostly used in compound <foreignphraselang="art-lojban">selbri</foreignphrase> (<foreignphraselang="art-lojban">tanru</foreignphrase>), and from there, in <foreignphraselang="art-lojban">lujvo</foreignphrase> (<foreignphraselang="art-lojban">sim-, -si'u</foreignphrase>). We haven't covered enough grammar to useit properly yet, but you'll be seeing it again <link linkend="less14">towards the end of thelessons</link>.</para> </note></sect1><sect1 id="less8summary"><title>Summary</title><para>This lesson has introduced the following:<itemizedlist><listitem><para>Converting sentences (swapping round <foreignphrase lang="art-lojban">sumti</foreignphrase>) using<foreignphrase lang="art-lojban">se</foreignphrase> and itsrelatives;</para></listitem><listitem><para>Making <foreignphrase lang="art-lojban">sumti</foreignphrase> fromplaces other than x1 by the same method;</para></listitem><listitem><para>Making <foreignphrase lang="art-lojban">lujvo</foreignphrase>using <foreignphrase lang="art-lojban">sel</foreignphrase>, <foreignphraselang="art-lojban">vel</foreignphrase> etc.  and short combining forms(<foreignphrase lang="art-lojban">rafsi</foreignphrase>);</para></listitem><listitem><para>Making negative <foreignphraselang="art-lojban">lujvo</foreignphrase> using <foreignphraselang="art-lojban">nal</foreignphrase>.</para></listitem><listitem><para>Expressing reflexives and reciprocals using <foreignphraselang="art-lojban">vo'a</foreignphrase> and <foreignphraselang="art-lojban">soi</foreignphrase>.</para></listitem></itemizedlist></para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">berti</foreignphrase></term><listitem><para>x1 is to thenorth/northern side [right-hand-rule pole] of x2 according to frame ofreference x3 </para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">cinta</foreignphrase></term><listitem><para>x1 [material] is apaint of pigment/active substance x2, in a base of x3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">cpina</foreignphrase></term><listitem><para>x1 ispungent/piquant/peppery/spicy/irritating to sense x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">ctebi</foreignphrase></term><listitem><para>x1 is a/thelip [body-part]/rim of orifice x2 of body x3; (adjective:) x1 islabial</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">fanza</foreignphrase></term><listitem><para>x1 (event)annoys/irritates/bothers/distracts x2 </para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">jarbu</foreignphrase></term><listitem><para>x1 is a suburbanarea of city/metropolis x2 </para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">jukpa</foreignphrase></term><listitem><para>x1 cooks/preparesfood-for-eating x2 by recipe/method x3 (process)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">kisto</foreignphrase></term><listitem><para>x1 reflectsPakistani/Pashto culture/nationality/language in aspect x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">klaji</foreignphrase></term><listitem><para>x1 is astreet/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">minra</foreignphrase></term><listitem><para>x1reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4;x2 bounces on x1 </para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">nitcu</foreignphrase></term><listitem><para>x1 needs/requires/isdependent on/[wants] necessity x2 for purpose/action/stage of process x3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">snanu</foreignphrase></term><listitem><para>x1 is to thesouth/southern side of x2 according to frame of reference x3</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 3</title><para>Translate from Lojban; some of the places used here are contorted into quite non-Englishforms, but try and be as idiomatic as possible. <orderedlist><listitem><para><foreignphrase lang="art-lojban">.i le la djiotis. karce cu xeklama le gusta fi la djiotis .e la ranjit .e lasuzyn.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la suzyn. catlu le vo'a ve minra</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i le go'i cu nitcu lenu le lego'i ku ctebi cinta cu te jmina</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i ca lenu go'i kei la suzyn. teminra la ranjit. soi vo'a</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la suzyn. te preti fo ladjiotis. fe lu .i ma te klaji fi ti li'u</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i lekisto jarbu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i le vu se jukpa cu mutce cpinali'u</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la djiotis. se fanza cusku lu.i ma'a doi ranjit. klama lo berti lo snanu soi vo'evo'i</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i pe'i do na djuno fi le veklama pe le gusta li'u</foreignphrase></para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less8answers"><title>Answers to Exercises</title><simplesect role="excanswer"><title>Exercise 1</title><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">lenu jamna cu sefengu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">la jang. te xatra [miti]</foreignphrase> (Whether you include the <foreignphraselang="art-lojban">mi</foreignphrase> or <foreignphraselang="art-lojban">ti</foreignphrase> depends on whether they are important in thiscontext &mdash; probably they are obvious and can be missedout.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">loi jdini cu ve xlura lenu clivale gugde</foreignphrase> (<quote>Money is an inducement toemigrate.</quote>)</para></listitem><listitem><para><foreignphrase lang="art-lojban">la lojban. vetavla</foreignphrase> (<quote>There is a conversation in Lojban.</quote> Wedon't need <foreignphrase lang="art-lojban">lo prenu</foreignphrase> since we canassume that it is people chatting in Lojban and not, say,chimpanzees.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">le cukta cu te dundami</foreignphrase> </para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 2</title><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">lo veltivni</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo terta'a</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo seltcica</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo nalvu'e</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo teryre'e</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo nalvai</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo selvi'a</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lo naltercni</foreignphrase></para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 3</title><para><orderedlist><listitem><para>Jyoti's car is the means by which Jyoti, Ranjeet and Susan get to the restaurant.</para></listitem><listitem><para>Susan looks at her reflection. (This is the more Lojbanic version of <quote>looks at herself in the mirror.</quote> There are other ways to say this, but we haven't covered the requisite grammar yet.)</para></listitem><listitem><para>She needs to put on more lipstick. (Literally, <quote>She needs that her lip paint be added to.</quote>)</para></listitem><listitem><para>When this is happening, Susan and Ranjeet see each other's reflection.</para></listitem><listitem><para>Susan asks Jyoti, <quote>Where does this street go to?</quote></para></listitem><listitem><para>Ranjeet says, <quote>The Pakistani suburb</quote></para></listitem><listitem><para><quote>The cuisine there is veryspicy.</quote></para></listitem><listitem><para>Jyoti irritatedly says, <quote>We, Ranjeet, have been goingfrom south to north and back</quote> (i.e. from south to north and from north to south. This is one of the few times you'll probablysee <foreignphrase lang="art-lojban">soi vo'e</foreignphrase> instead of<foreignphrase lang="art-lojban">soi vo'a</foreignphrase>.)</para></listitem><listitem><para><quote>I think you don't know the way of (= to) therestaurant.</quote></para></listitem></orderedlist></para></simplesect></sect1></chapter>
+<chapter id="less8"><title>Swapping things round: conversion and simple
+<foreignphrase lang="art-lojban">lujvo</foreignphrase></title>
+
+<sect1 id="less8selbriconv"><title><foreignphrase lang="art-lojban">selbri</foreignphrase> 
+conversions</title>
+
+<para>Conversion is swapping the places of a <foreignphrase
+lang="art-lojban">bridi</foreignphrase> around. We have already encountered one
+case of conversion: the <foreignphrase lang="art-lojban">cmavo</foreignphrase>,
+<foreignphrase lang="art-lojban">se</foreignphrase>, which changes round the first
+and second places of a <foreignphrase lang="art-lojban">bridi</foreignphrase>. For
+example
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">la djiotis. cinba la ranjit.</foreignphrase>
+Jyoti kisses Ranjeet.</literallayout>
+</informalexample>
+
+is the same as 
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">la ranjit. se cinba la djiotis.</foreignphrase>
+Ranjeet is kissed by Jyoti.</literallayout>
+</informalexample>
+</para>
+
+<para><foreignphrase lang="art-lojban">se</foreignphrase> is part of a series of
+<foreignphrase lang="art-lojban">cmavo</foreignphrase> which go, in alphabetical
+order, <foreignphrase lang="art-lojban">se, te, ve, xe</foreignphrase>. Like a lot
+of these series, the first one is used a lot more than the others, but
+sometimes the others are useful. </para>
+
+<para>Just as <foreignphrase lang="art-lojban">se</foreignphrase> changes round
+the first and second places, <foreignphrase lang="art-lojban">te</foreignphrase>
+changes round the first and third places, <foreignphrase
+lang="art-lojban">ve</foreignphrase>, the first and fourth, and <foreignphrase
+lang="art-lojban">xe</foreignphrase>, the first and fifth.
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">ti bakfu lo tirse grana loi skori</foreignphrase>
+This is-a-bundle-of iron rods held together with string.</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">loi skori cu te bakfu lo tirse grana ti</foreignphrase>
+String holds the bundle of iron rods together (literally, <quote>with string are bundled iron rods.</quote>)
+</literallayout>
+</informalexample>
+
+Note the <foreignphrase lang="art-lojban">ti</foreignphrase> has now moved to a
+less conspicuous place in the sentence, and so can now be dropped out
+without being noticed. In fact place conversion is often used when we want
+to get rid of places like this.
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">mi'a tugni do zo'e le dinske</foreignphrase>
+We agree with you [that something is true] about economics.  
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">le dinske cu ve tugni</foreignphrase>
+As regards economics [we] agree [with you].
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>
+The person goes somewhere, from somewhere, via somewhere, by train
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">lo trene cu xe klama</foreignphrase>
+[Someone] goes by train. (literally <quote>By a train is gone</quote>)
+A train is a vehicle.
+</literallayout>
+</informalexample>
+
+</para>
+
+<para>As I've said, the more extreme conversions like <foreignphrase
+lang="art-lojban">ve</foreignphrase> and <foreignphrase
+lang="art-lojban">xe</foreignphrase> are rarely used, partly because most
+<foreignphrase lang="art-lojban">gismu</foreignphrase> only have two or three
+places, and partly because even with four- or five-place <foreignphrase
+lang="art-lojban">gismu</foreignphrase>, the less-used places come towards the
+end.  </para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">jamna</foreignphrase></term><listitem><para>
+x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">xatra</foreignphrase></term><listitem><para>x1 is a
+letter/missive/[note] to intended audience x2 from author/originator x3
+with content x4</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">xlura</foreignphrase></term><listitem> <para>x1 (agent)
+influences/lures/tempts x2 into action/state x3 by influence/threat/lure
+x4</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">gugde</foreignphrase></term><listitem><para>x1 is the country of
+peoples x2 with land/territory x3; (people/territory
+relationship)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">jdini</foreignphrase></term><listitem> <para>x1 is
+money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 1</title> <para>Convert the
+following sentences so that the highlighted <foreignphrase
+lang="art-lojban">sumti</foreignphrase> comes first. 
+Miss out any unimportant places.
+
+<orderedlist>
+
+<listitem><para><foreignphrase
+lang="art-lojban">zo'e fengu <emphasis>lenu
+jamna</emphasis></foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">ti xatra mi <emphasis>la jang.</emphasis></foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">zo'e xlura mi lenu cliva le gugde kei <emphasis>loi
+jdini</emphasis></foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">lo prenu cu tavla zo'e zo'e <emphasis>la
+lojban.</emphasis></foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">lo prenu cu dunda le cukta
+<emphasis>mi</emphasis></foreignphrase></para></listitem>
+
+</orderedlist>
+
+
+</para>
+</simplesect>
+</sect1>
+
+<sect1 id="less8sumticonversion"><title><foreignphrase
+lang="art-lojban">sumti</foreignphrase> conversions</title>
+
+<para>Another thing we can do is to use conversion <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> to make <foreignphrase
+lang="art-lojban">sumti</foreignphrase>. We saw how Lojban articles turn
+<foreignphrase lang="art-lojban">selbri</foreignphrase> into <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, so that, for example, <foreignphrase
+lang="art-lojban">lo mlatu</foreignphrase> means <quote>something(s) which could
+fit in the first place of <foreignphrase
+lang="art-lojban">mlatu</foreignphrase></quote> &mdash; in other words,
+<foreignphrase lang="art-lojban">lo</foreignphrase> changes <quote
+role="gloss">is-a-cat</quote> to <quote role="gloss">a cat</quote>. The
+same is true for <foreignphrase lang="art-lojban">le mlatu</foreignphrase> except
+that, as we've seen, it is something which the <emphasis>speaker</emphasis>
+has in mind as occupying x1 of <foreignphrase
+lang="art-lojban">mlatu</foreignphrase> &mdash; in other words, <quote
+role="gloss">the cat.</quote></para>
+
+<para>This works fine if the only place we want to access and turn into a
+<foreignphrase lang="art-lojban">sumti</foreignphrase> is x1; but with other
+<foreignphrase lang="art-lojban">gismu</foreignphrase> we may want to make
+<foreignphrase lang="art-lojban">sumti</foreignphrase> out of other places. Let's
+look at the last example from the previous exercise:
+
+<informalexample>
+<para><foreignphrase lang="art-lojban">lo prenu cu dunda le cukta mi</foreignphrase>
+</para></informalexample>
+
+<foreignphrase lang="art-lojban">lo prenu</foreignphrase> can also be
+<foreignphrase lang="art-lojban">le dunda</foreignphrase> <quote role="gloss">the
+giver</quote>; but what about the <foreignphrase lang="art-lojban">sumti</foreignphrase> 
+describing <foreignphrase lang="art-lojban">mi</foreignphrase>
+and <foreignphrase lang="art-lojban">le cukta</foreignphrase>? Well, you probably
+guessed. The answer you gave to the exercise was (I hope)
+
+<informalexample>
+<para><foreignphrase lang="art-lojban">mi te dunda le cukta
+</foreignphrase>
+</para></informalexample>
+
+This means that <foreignphrase lang="art-lojban">mi</foreignphrase> can be
+<foreignphrase lang="art-lojban">le te dunda</foreignphrase> <quote
+role="gloss">the recipient</quote>. In
+the same way, <foreignphrase lang="art-lojban">le cukta</foreignphrase> can be
+<foreignphrase lang="art-lojban">le se dunda</foreignphrase> <quote
+role="gloss">the gift</quote> or <quote
+role="gloss">the thing given</quote>. So if we want to
+make a really obvious sentence, we can say
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">le dunda cu dunda le se dunda le te dunda</foreignphrase>
+The giver gives the given-thing to the person-to-whom-it-is-given
+The donor gives the gift to the recipient.
+</literallayout>
+</informalexample>
+
+</para>
+
+<para>These conversions apply not only to <foreignphrase
+lang="art-lojban">gismu</foreignphrase>, but to any word acting as a
+<foreignphrase lang="art-lojban">selbri</foreignphrase>. Remember <foreignphrase
+lang="art-lojban">go'i</foreignphrase>, for example, which stands in for the
+preceding sentence's <foreignphrase lang="art-lojban">bridi</foreignphrase>. Just
+as we did with <foreignphrase lang="art-lojban">dunda</foreignphrase>, we can
+construct a <foreignphrase lang="art-lojban">bridi</foreignphrase> like
+
+<informalexample><para>
+<foreignphrase lang="art-lojban">le go'i cu go'i le se go'i le te go'i le ve go'i le xe go'i</foreignphrase>
+</para></informalexample>
+
+On its own, this sentence doesn't mean terribly much; it just repeats the
+previous sentence. But the trick is, this version of the sentence repeats
+the previous sentence, <emphasis>complete with its <foreignphrase
+lang="art-lojban">sumti</foreignphrase></emphasis>. This is how we can refer back
+to <foreignphrase lang="art-lojban">sumti</foreignphrase> in the previous sentence
+in general. For example,
+
+<informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. zgana lo
+nanmu goi ko'a .i ko'a melbi</foreignphrase> </para></informalexample>
+
+can also be expressed as
+
+<informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. zgana lo
+nanmu .i <emphasis>le se go'i</emphasis> cu melbi</foreignphrase>
+</para></informalexample>
+
+That's because <foreignphrase lang="art-lojban">le se go'i</foreignphrase>
+refers to the second place (x2) of the preceding <foreignphrase
+lang="art-lojban">bridi</foreignphrase>, which is <foreignphrase
+lang="art-lojban">lo nanmu</foreignphrase>. (There are even ways
+to refer back to <foreignphrase lang="art-lojban">sumti</foreignphrase>
+introduced by <foreignphrase lang="art-lojban">sumti tcita</foreignphrase>;
+but that's an advanced topic.)
+
+</para>
+
+<para>Even some abstraction <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> can be modified by <foreignphrase
+lang="art-lojban">se</foreignphrase>. <foreignphrase
+lang="art-lojban">du'u</foreignphrase>, for example, which can be used to form a
+<foreignphrase lang="art-lojban">selbri</foreignphrase>, has two <foreignphrase
+lang="art-lojban">sumti</foreignphrase>: x1, the thought described, and x2, the
+words used to express it:
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">le la jang. se cusku cu {du'u ri nelci la suzyn. kei} lu do bebna li'u</foreignphrase>
+Zhang's thing-expressed (= what Zhang said) is {the thought that he likes Susan}, in the words <quote>You're a dolt.</quote>
+</literallayout>
+</informalexample>
+
+That's why <foreignphrase
+lang="art-lojban">le se du'u</foreignphrase> refers to words rather than thoughts.
+
+</para>
+
+
+</sect1>
+
+<sect1 id="less8lujvo"><title><foreignphrase lang="art-lojban">lujvo</foreignphrase></title>
+
+<para>We've already seen quite a few <foreignphrase
+lang="art-lojban">lujvo</foreignphrase>, or compound words, in the
+exercises; but we haven't actually made any of our own yet.  Lojban has
+strict rules for making <foreignphrase lang="art-lojban">lujvo</foreignphrase>;
+you can't just crunch words together like English <wordasword>brunch</wordasword> or
+<wordasword>edutainment</wordasword>, because this might result in a word which sounds
+like something else, falls apart or makes intelligent computers repeat
+<quote>Does not compute</quote> in a tinny voice and blow up in a cloud of
+blue smoke.  However, one safe way of making acceptable <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> is by using the conversion <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> we've just looked at. </para>
+
+<para><foreignphrase lang="art-lojban">se dunda</foreignphrase>, as we've seen,
+means <quote role="gloss">is given (by someone, to someone)</quote>. We can
+turn this into a <foreignphrase lang="art-lojban">lujvo</foreignphrase> simply
+adding <foreignphrase lang="art-lojban">l</foreignphrase> to the <foreignphrase
+lang="art-lojban">se</foreignphrase>, to give <foreignphrase
+lang="art-lojban">seldunda</foreignphrase>. The new word comes complete with its
+own place-structure &mdash; which is, of course, the same as that of <foreignphrase
+lang="art-lojban">se dunda</foreignphrase>:
+
+<informalexample><para>x1 is a gift from x2 to x3
+</para></informalexample>
+
+(Note that <quote role="gloss">gift</quote> here is anything given without
+payment or exchange &mdash; it doesn't need to have the <quote
+role="socalled">special present</quote> associations of the English word.)
+</para>
+
+<para>If we want to say <quote role="gloss">the gift</quote>,
+<foreignphrase lang="art-lojban">le seldunda</foreignphrase> is not really an
+improvement on <foreignphrase lang="art-lojban">le se dunda</foreignphrase>.
+However, most <foreignphrase lang="art-lojban">gismu</foreignphrase> have short
+combining forms (<foreignphrase lang="art-lojban">rafsi</foreignphrase>). These
+are never used on their own, only in <foreignphrase
+lang="art-lojban">lujvo</foreignphrase>. As it happens, <foreignphrase
+lang="art-lojban">dunda</foreignphrase> has two short forms: <foreignphrase
+lang="art-lojban">dud</foreignphrase> and <foreignphrase
+lang="art-lojban">du'a</foreignphrase>. We can't use <foreignphrase
+lang="art-lojban">dud</foreignphrase>, because that would give us a word ending in
+a consonant, and, as we know, only <foreignphrase
+lang="art-lojban">cmene</foreignphrase> can end in a consonant. The only
+candidate, then, is <foreignphrase lang="art-lojban">du'a</foreignphrase>, so
+<quote role="gloss">the gift</quote> is <foreignphrase lang="art-lojban">le
+seldu'a</foreignphrase>. (<foreignphrase
+lang="art-lojban">sel<emphasis>du'a</emphasis></foreignphrase> has exactly the
+same place structure as <foreignphrase
+lang="art-lojban">sel<emphasis>dunda</emphasis></foreignphrase>.) The same is true for the other
+conversion <foreignphrase lang="art-lojban">cmavo</foreignphrase>, though their
+corresponding <foreignphrase lang="art-lojban">rafsi</foreignphrase> don't all
+follow the same pattern:
+
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">se</foreignphrase></term><listitem><para><foreignphrase
+lang="art-lojban">sel-</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">te</foreignphrase></term><listitem><para><foreignphrase
+lang="art-lojban"><emphasis>ter-</emphasis></foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">ve</foreignphrase></term><listitem><para><foreignphrase
+lang="art-lojban">vel-</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">xe</foreignphrase></term><listitem><para><foreignphrase
+lang="art-lojban">xel-</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+
+So <quote role="gloss">the
+recipient</quote> is <foreignphrase lang="art-lojban">le terdu'a</foreignphrase>. 
+</para>
+
+<note><para>You might wonder whether <foreignphrase
+lang="art-lojban">stela</foreignphrase> <quote role="gloss">lock</quote> was
+really important enough to have wrested the <foreignphrase
+lang="art-lojban">rafsi</foreignphrase> <foreignphrase
+lang="art-lojban">tel-</foreignphrase> away from <foreignphrase
+lang="art-lojban">te</foreignphrase>. Probably not; but after the Great Rafsi
+Reallocation of 1993, it's really too late to do anything about it now.
+Consider it an endearing quirk of the language...</para></note>
+
+<para>In this way you can expand on the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> list dramatically, to give equivalents of
+common English words which are not included and, more interestingly, words
+which don't have equivalents in English. A lot of these are words you would
+probably never want to say, like <foreignphrase
+lang="art-lojban">terna'e</foreignphrase> <quote role="gloss">x1 is the rule/logic
+by which proposition x2 contradicts/denies/refutes/negates proposition
+x3.</quote> However, you sometimes find interesting and/or useful words
+which don't exist as single words in English.  Here are a few of my own
+creations:
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+tertcu</foreignphrase></term> <listitem><para>a purpose/activity for which
+something is needed (from <foreignphrase
+lang="art-lojban">nitcu</foreignphrase> 
+<quote role="gloss">need</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+ternu'e</foreignphrase></term> <listitem><para>a person to whom a promise
+is made (from <foreignphrase lang="art-lojban">nupre</foreignphrase>
+<quote role="gloss">promise</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo selvu'e</foreignphrase></term>
+<listitem><para>a moral standard (from
+<foreignphrase lang="art-lojban">vrude</foreignphrase> <quote role="gloss">be
+virtuous</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+selte'a</foreignphrase></term> <listitem><para>a scary
+thing (from <foreignphrase lang="art-lojban">terpa</foreignphrase>
+<quote role="gloss">fear</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+selcta</foreignphrase></term> <listitem><para>something/someone that is
+looked at (from <foreignphrase lang="art-lojban">catlu</foreignphrase>
+<quote role="gloss">look, examine</quote>)</para></listitem>
+</varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+selta'i</foreignphrase></term> <listitem><para>something
+which wears you out (from <foreignphrase
+lang="art-lojban">tatpi</foreignphrase> <quote role="gloss">be tired/fatigued</quote>)
+</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+veltu'i</foreignphrase></term> <listitem><para>an area of
+agreement (from <foreignphrase lang="art-lojban">tugni</foreignphrase>
+<quote role="gloss">agree with</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+selzi'e</foreignphrase></term> <listitem><para>something
+you are free to do (from <foreignphrase
+lang="art-lojban">zifre</foreignphrase> <quote role="gloss">be
+free</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+selxei</foreignphrase></term> <listitem><para>an object of
+hate (from <foreignphrase lang="art-lojban">xebni</foreignphrase>
+<quote role="gloss">hate</quote>) </para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+selpa'i</foreignphrase></term> <listitem><para>an object of devotion (from <foreignphrase
+lang="art-lojban">prami</foreignphrase> <quote role="gloss">love, be devoted
+to</quote>)</para></listitem> </varlistentry>
+
+</variablelist>
+</para>
+
+<warning><para>For reasons which aren't important here, this method will
+always give you an acceptable <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> &mdash; except in one case.  Lojban does
+not allow double consonants, because they are difficult to pronounce, and
+can be heard incorrectly as one consonant.  This means that we can't have
+<foreignphrase lang="art-lojban">lujvo</foreignphrase> like <foreignphrase
+lang="art-lojban">vellu'i</foreignphrase> (<quote role="gloss">cleansing
+agent</quote>, from the x4 of <foreignphrase
+lang="art-lojban">lumci</foreignphrase> <quote role="gloss">wash</quote>).  The
+way out of this problem is to put <foreignphrase lang="art-lojban">y</foreignphrase> 
+between the two <foreignphrase
+lang="art-lojban">l</foreignphrase>s, giving us <foreignphrase
+lang="art-lojban">velylu'i</foreignphrase>. </para>
+
+<para>In fact, if you see <foreignphrase
+lang="art-lojban">y</foreignphrase> in a Lojban word, it cannot be a
+<foreignphrase lang="art-lojban">gismu</foreignphrase> or a <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> (with two exceptions we've already
+seen: <foreignphrase lang="art-lojban">.y.</foreignphrase> <quote
+role="gloss">er...</quote> and <foreignphrase
+lang="art-lojban">.y'y.</foreignphrase> <quote
+role="gloss">apostrophe.</quote>) Such a word can only be either a
+<foreignphrase lang="art-lojban">lujvo</foreignphrase> or a name
+(<foreignphrase lang="art-lojban">cmene</foreignphrase>). <foreignphrase
+lang="art-lojban">y</foreignphrase> was avoided in <quote
+role="socalled">normal</quote> Lojban words.</para> </warning>
+
+</sect1>
+
+<sect1 id="less8neglujvo"><title>Negative <foreignphrase
+lang="art-lojban">lujvo</foreignphrase></title>
+
+<para>Just as <foreignphrase lang="art-lojban">se</foreignphrase> has the
+combining form <foreignphrase lang="art-lojban">sel</foreignphrase>, the negative
+<foreignphrase lang="art-lojban">na'e</foreignphrase> has the combining form <foreignphrase lang="art-lojban">nal</foreignphrase>, and we
+can use this to make <foreignphrase lang="art-lojban">lujvo</foreignphrase> in
+exactly the same way. </para>
+
+<note><para><foreignphrase lang="art-lojban">na</foreignphrase> has its own
+<foreignphrase lang="art-lojban">rafsi</foreignphrase>, <foreignphrase
+lang="art-lojban">nar</foreignphrase>; but <foreignphrase
+lang="art-lojban">na'e</foreignphrase> is more useful in creating new 
+words:
+<foreignphrase lang="art-lojban">na'e</foreignphrase> in a <foreignphrase
+lang="art-lojban">selbri</foreignphrase> still indicates an existing relationship,
+while <foreignphrase lang="art-lojban">na</foreignphrase> could mean anything,
+including non-existence &mdash; making too broad a concept for most
+uses.</para></note>
+
+<para>For example, <foreignphrase lang="art-lojban">jdice</foreignphrase>
+means <quote role="gloss">decide</quote> and has the short combining form
+<foreignphrase lang="art-lojban">jdi</foreignphrase>. <foreignphrase
+lang="art-lojban">naljdi</foreignphrase> therefore means <quote 
+role="gloss">not
+decide</quote> or <quote role="gloss">be indecisive</quote>. Some other examples:
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+naljmi</foreignphrase></term><listitem><para>one who does
+not understand (from <foreignphrase
+lang="art-lojban">jimpe</foreignphrase>
+<quote role="gloss">understand</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+naljvi</foreignphrase></term><listitem><para>a
+non-competitor (from <foreignphrase
+lang="art-lojban">jivna</foreignphrase>
+<quote role="gloss">compete</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+nalkri</foreignphrase></term><listitem><para>a
+non-believer/skeptic (from <foreignphrase
+lang="art-lojban">krici</foreignphrase>
+<quote role="gloss">believe</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+nalyla'e</foreignphrase></term><listitem><para>an unlikely
+event (from <foreignphrase lang="art-lojban">lakne</foreignphrase>
+<quote role="gloss">be likely</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo nalre'a</foreignphrase>
+</term><listitem><para>a non-human (from
+<foreignphrase lang="art-lojban">remna</foreignphrase> <quote role="gloss">be
+human</quote>)</para></listitem> </varlistentry>
+
+</variablelist>
+</para>
+
+<para>We can see that <foreignphrase lang="art-lojban">nal</foreignphrase> is like
+the English <wordasword>non-</wordasword>, but we need to remember that
+<wordasword>non-</wordasword> sometimes has other meanings or associations
+that <foreignphrase lang="art-lojban">nal</foreignphrase> does not have.
+<foreignphrase lang="art-lojban">lo naljvi</foreignphrase> is simply someone who
+is not taking part in a competition, not a <quote role="gloss">non-contender</quote> in
+the sense of someone who competes but doesn't stand a chance of winning.
+Similarly <foreignphrase lang="art-lojban">lo nalre'a</foreignphrase> is someone
+who is not a member of the species <foreignphrase lang="lat">homo
+sapiens</foreignphrase> (e.g. a chimpanzee or Klingon), and cannot be
+applied to someone who is inhumane or perceived as subhuman in some way.
+
+</para>
+
+<para>We can also use <foreignphrase lang="art-lojban">nal</foreignphrase> with
+<foreignphrase lang="art-lojban">sel</foreignphrase> and its relatives; for
+example,
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+naltertcu</foreignphrase></term><listitem><para>not a purpose/activity for
+which something is needed; something which has no requirements (from
+<foreignphrase lang="art-lojban">nitcu</foreignphrase> <quote role="gloss">x1
+needs/requires/is dependent on/[wants] necessity x2 for
+purpose/action/stage of process x3</quote>)</para></listitem>
+</varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+nalveltu'i</foreignphrase></term><listitem><para>an area of disagreement; a
+controversial issue (from <foreignphrase
+lang="art-lojban">tugni</foreignphrase> <quote role="gloss">x1 [person]
+agrees with person(s)/position/side x2 that x3 (du'u) is true about matter
+x4</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+nalselzi'e</foreignphrase></term><listitem><para>something you are not free
+to do (from <foreignphrase lang="art-lojban">zifre</foreignphrase> <quote
+role="gloss">x1 is free/at liberty to do/be x2 (event/state) under conditions x3</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo
+nalselsanji</foreignphrase></term><listitem><para>something you are unaware
+of (from <foreignphrase lang="art-lojban">sanji</foreignphrase> <quote
+role="gloss">x1 is conscious/aware of x2 (object/abstract); x1
+discerns/recognizes x2 (object/abstract)</quote>; this <foreignphrase
+lang="art-lojban">gismu</foreignphrase> has no suitable short combining
+form)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">lo nalselse'i</foreignphrase>
+</term><listitem><para>someone who lacks a self/ego; an enlightened person
+according to Hindu/Buddhist philosophy (from <foreignphrase
+lang="art-lojban">sevzi</foreignphrase> <quote role="gloss">x1 is a
+self/ego/id/identity-image of x2</quote>)</para></listitem> </varlistentry>
+
+</variablelist>
+
+</para>
+
+<para>As you'll have guessed, the companions of <foreignphrase
+lang="art-lojban">na'e</foreignphrase>, namely <foreignphrase
+lang="art-lojban">to'e</foreignphrase> and <foreignphrase
+lang="art-lojban">no'e</foreignphrase>, have <foreignphrase
+lang="art-lojban">rafsi</foreignphrase> of their own: <foreignphrase
+lang="art-lojban">tol-</foreignphrase> and <foreignphrase
+lang="art-lojban">nor-</foreignphrase>, respectively. So <quote
+role="gloss">disinterested</quote>, <quote
+role="gloss">uninterested</quote> and <quote role="gloss">bored</quote> in
+Lojban are <foreignphrase lang="art-lojban">norselci'i</foreignphrase>,
+<foreignphrase lang="art-lojban">nalselci'i</foreignphrase> and <foreignphrase
+lang="art-lojban">tolselci'i</foreignphrase>. </para>
+
+<para><foreignphrase lang="art-lojban">lujvo</foreignphrase> can be much
+more interesting than this; interesting enough, in fact, that we won't be
+covering them any further here. You can make <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> out of pretty much any
+<foreignphrase lang="art-lojban">tanru</foreignphrase> you can devise; this
+is the main way to introduce <quote role="socalled">new words</quote> into
+Lojban. But to make the <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> you come up with work, you need
+some background knowledge:
+
+<itemizedlist>
+
+<listitem><para>how to make sure <foreignphrase
+lang="art-lojban">rafsi</foreignphrase> stick together in a word that 
+is not ambiguous with another possible combination of words 
+(<citetitle>The Complete Lojban Language</citetitle>, Chapter 4.5&ndash;4.6, 
+4.10&ndash;4.12.)</para></listitem>
+
+<listitem><para>how to make sure the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> inside your <foreignphrase
+lang="art-lojban">tanru</foreignphrase> group together properly 
+(<citetitle>The Complete Lojban Language</citetitle>, Chapter 5.)</para></listitem>
+
+<listitem><para>how to derive the place structure of the <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> from the place structures of the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> that make it up
+(<citetitle>The Complete Lojban Language</citetitle>, Chapter 12.)</para></listitem>
+
+</itemizedlist>
+
+It's worth your while to look into these issues if you'll be working with 
+the language seriously, and especially if you'll be writing in it. (<foreignphrase
+lang="art-lojban">lujvo</foreignphrase> are easier to deal with while 
+writing than while speaking, because you have the time to reflect on how 
+you'll be creating your new word.) At this stage, though, you don't need to 
+go into all just that yet.
+
+</para>
+
+<simplesect role="exercise"><title>Exercise 2</title>
+
+<para>If you have access to a <foreignphrase
+lang="art-lojban">gismu</foreignphrase> list, use it to look up <foreignphrase
+lang="art-lojban">gismu</foreignphrase> and make <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> meaning the following, using short
+combining forms where possible and <foreignphrase
+lang="art-lojban">nal</foreignphrase> where necessary.
+
+<orderedlist>
+<listitem><para>a television</para></listitem>
+<listitem><para>a subject of conversation</para></listitem>
+<listitem><para>someone who is deceived or cheated</para></listitem>
+<listitem><para>an immoral or amoral (not virtuous) person</para></listitem>
+<listitem><para>a railroad</para></listitem>
+<listitem><para>an insignificant event</para></listitem>
+<listitem><para>something unseen</para></listitem>
+<listitem><para>something about which you have no feelings/emotions</para></listitem>
+</orderedlist>
+</para>
+</simplesect>
+</sect1>
+
+<sect1 id="less8refl"><title>Reflexives and reciprocals</title>
+
+<para>Let's now look at a slightly embellished version of the
+plot-advancing example sentence from <link linkend="less7">Lesson 7</link>,
+involving Zhang and Susan:
+
+<informalexample><literallayout>
+<foreignphrase lang="art-lojban">la suzyn. na djuno fi vo'a fe le du'u la jang. cinynei sy.</foreignphrase>
+Susan doesn't know about herself that Zhang fancies (<quote role="gloss">sexually-likes</quote>) her.
+</literallayout>
+</informalexample>
+
+We have snuck into the sentence a new pro-<foreignphrase
+lang="art-lojban">sumti</foreignphrase>: <foreignphrase
+lang="art-lojban">vo'a</foreignphrase>.  This means <quote role="gloss">the first
+<foreignphrase lang="art-lojban">sumti</foreignphrase> of this <foreignphrase
+lang="art-lojban">bridi</foreignphrase></quote>, and like the others, comes in a
+series &mdash; <foreignphrase lang="art-lojban">vo'e</foreignphrase> refers to the second <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, <foreignphrase
+lang="art-lojban">vo'i</foreignphrase> to the third and so on. In practice,
+<foreignphrase lang="art-lojban">vo'a</foreignphrase> is used quite a lot, while
+the others are rarer; but that could be because people still tend to think
+in terms of natural languages (where only the equivalent of <foreignphrase
+lang="art-lojban">vo'a</foreignphrase> is usual.) As people start thinking more in
+Lojban, the others could get used more. </para>
+
+<note><para><quote>This <foreignphrase
+lang="art-lojban">bridi</foreignphrase></quote> means <quote>the <foreignphrase
+lang="art-lojban">bridi</foreignphrase> that <foreignphrase
+lang="art-lojban">vo'a</foreignphrase> is a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> of.</quote> So if we were 
+to say 
+
+<informalexample><para>
+<foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jang. cinynei <emphasis>vo'a</emphasis></foreignphrase>
+</para></informalexample>
+
+we would not be saying that Susan doesn't know Zhang fancies her, but that
+Susan doesn't know Zhang fancies <emphasis>himself</emphasis>:
+<foreignphrase lang="art-lojban">vo'a</foreignphrase> looks no further than its
+closest <foreignphrase lang="art-lojban">selbri</foreignphrase> for its meaning.
+
+</para></note>
+
+<para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is very useful for
+giving the sense of <quote role="socalled">reflexives</quote> &mdash; words
+like <wordasword>herself</wordasword>, <wordasword>itself</wordasword>, and
+so on. (That <foreignphrase lang="art-lojban">vo'a</foreignphrase> cannot skip
+over an embedded <foreignphrase lang="art-lojban">bridi</foreignphrase>, as
+discussed just above, is also typical of most languages' reflexives &mdash;
+although not, for example, Norwegian.) Here are some more straightforward
+examples of its use:
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">la meilis. pensi vo'a</foreignphrase>
+Mei Li thinks about herself.
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">le gerku cu batci vo'a</foreignphrase>
+The dog bites itself.
+</literallayout>
+</informalexample>
+
+You can also say
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">mi nelci vo'a</foreignphrase>
+I like myself.
+</literallayout>
+</informalexample>
+
+but this is the same as <foreignphrase lang="art-lojban">mi nelci
+mi</foreignphrase>, which is simpler.  </para>
+
+<para>Now for something clever &mdash; which will also look slightly 
+familiar. 
+ 
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">la suzyn. zgana la djiotis. soi vo'a vo'e</foreignphrase>
+Susan notices Jyoti and vice versa.
+Susan and Jyoti notice each other.
+</literallayout>
+</informalexample>
+
+<foreignphrase lang="art-lojban">soi</foreignphrase> is a <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> meaning something like <quote>you can
+change these <foreignphrase lang="art-lojban">sumti</foreignphrase> round and the
+<foreignphrase lang="art-lojban">bridi</foreignphrase> will still be true.</quote>
+If there is only one <foreignphrase lang="art-lojban">sumti</foreignphrase> after
+the <foreignphrase lang="art-lojban">soi</foreignphrase>, the other one is taken
+to be the one immediately <emphasis>before</emphasis> <foreignphrase
+lang="art-lojban">soi</foreignphrase>. So we can say the same thing more briefly
+as <foreignphrase lang="art-lojban">la suzyn. zgana la djiotis. soi
+vo'a</foreignphrase>, or even just <foreignphrase lang="art-lojban">ko'a zgana
+ko'i soi vo'a</foreignphrase>. That is why you were able to use
+<foreignphrase lang="art-lojban">soi vo'a</foreignphrase> as <quote
+role="gloss">and vice versa</quote> in the previous lesson's exercises.
+</para>
+
+<note><para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is fixed in what
+it refers back to and, unlike <foreignphrase lang="art-lojban">ri</foreignphrase>,
+can point back to <foreignphrase lang="art-lojban">ko'a</foreignphrase> &mdash;
+though you can also repeat <foreignphrase lang="art-lojban">ko'a</foreignphrase>
+if you prefer.</para></note>
+
+<note><para>There is a <foreignphrase lang="art-lojban">gismu</foreignphrase> that
+does the same job, <foreignphrase lang="art-lojban">simxu</foreignphrase>:
+<quote>x1 (set) has members who mutually/reciprocally x2 (event [x1 should
+be reflexive in 1+ sumti]).</quote> You saw a sneak preview of this, too,
+in the previous lesson. It is mostly used in compound <foreignphrase
+lang="art-lojban">selbri</foreignphrase> (<foreignphrase
+lang="art-lojban">tanru</foreignphrase>), and from there, in <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> (<foreignphrase
+lang="art-lojban">sim-, -si'u</foreignphrase>). We haven't covered enough grammar to use
+it properly yet, but you'll be seeing it again <link linkend="less14">towards the end of the
+lessons</link>.</para> </note>
+
+</sect1>
+
+<sect1 id="less8summary"><title>Summary</title>
+
+<para>
+This lesson has introduced the following:
+<itemizedlist>
+
+<listitem><para>Converting sentences (swapping round <foreignphrase lang="art-lojban">sumti</foreignphrase>) using
+<foreignphrase lang="art-lojban">se</foreignphrase> and its
+relatives;</para></listitem>
+
+<listitem><para>Making <foreignphrase lang="art-lojban">sumti</foreignphrase> from
+places other than x1 by the same method;</para></listitem>
+
+<listitem><para>Making <foreignphrase lang="art-lojban">lujvo</foreignphrase>
+using <foreignphrase lang="art-lojban">sel</foreignphrase>, <foreignphrase
+lang="art-lojban">vel</foreignphrase> etc.  and short combining forms
+(<foreignphrase lang="art-lojban">rafsi</foreignphrase>);</para></listitem>
+
+<listitem><para>Making negative <foreignphrase
+lang="art-lojban">lujvo</foreignphrase> using <foreignphrase
+lang="art-lojban">nal</foreignphrase>.</para></listitem>
+
+
+<listitem><para>Expressing reflexives and reciprocals using <foreignphrase
+lang="art-lojban">vo'a</foreignphrase> and <foreignphrase
+lang="art-lojban">soi</foreignphrase>.</para></listitem>
+
+</itemizedlist>
+
+</para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">berti</foreignphrase></term><listitem><para>x1 is to the
+north/northern side [right-hand-rule pole] of x2 according to frame of
+reference x3 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cinta</foreignphrase></term><listitem><para>x1 [material] is a
+paint of pigment/active substance x2, in a base of x3
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cpina</foreignphrase></term><listitem><para>x1 is
+pungent/piquant/peppery/spicy/irritating to sense x2
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">ctebi</foreignphrase></term><listitem><para>x1 is a/the
+lip [body-part]/rim of orifice x2 of body x3; (adjective:) x1 is
+labial</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">fanza</foreignphrase></term><listitem><para>x1 (event)
+annoys/irritates/bothers/distracts x2 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">jarbu</foreignphrase></term><listitem><para>x1 is a suburban
+area of city/metropolis x2 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">jukpa</foreignphrase></term><listitem><para>x1 cooks/prepares
+food-for-eating x2 by recipe/method x3 (process)
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">kisto</foreignphrase></term><listitem><para>x1 reflects
+Pakistani/Pashto culture/nationality/language in aspect x2
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">klaji</foreignphrase></term><listitem><para>x1 is a
+street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">minra</foreignphrase></term><listitem><para>x1
+reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4;
+x2 bounces on x1 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">nitcu</foreignphrase></term><listitem><para>x1 needs/requires/is
+dependent on/[wants] necessity x2 for purpose/action/stage of process x3
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">snanu</foreignphrase></term><listitem><para>x1 is to the
+south/southern side of x2 according to frame of reference x3
+</para></listitem></varlistentry>
+
+
+</variablelist>
+
+</simplesect>
+
+<simplesect role="exercise"><title>Exercise 3</title>
+
+<para>Translate from Lojban; some of the places used here are contorted into quite non-English
+forms, but try and be as idiomatic as possible. <orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le la djiotis. karce cu xe
+klama le gusta fi la djiotis .e la ranjit .e la
+suzyn.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. catlu le vo'a 
+ve minra</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le go'i cu nitcu lenu le le
+go'i ku ctebi cinta cu te jmina</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i ca lenu go'i kei la suzyn. te
+minra la ranjit. soi vo'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. te preti fo la
+djiotis. fe lu .i ma te klaji fi ti li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i le
+kisto jarbu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le vu se jukpa cu mutce cpina
+li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la djiotis. se fanza cusku lu
+.i ma'a doi ranjit. klama lo berti lo snanu soi vo'e
+vo'i</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i pe'i do na djuno fi le ve
+klama pe le gusta li'u</foreignphrase></para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+</sect1>
+
+<sect1 id="less8answers"><title>Answers to Exercises</title>
+
+<simplesect role="excanswer"><title>Exercise 1</title>
+<para>
+<orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">lenu jamna cu se
+fengu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">la jang. te xatra [mi
+ti]</foreignphrase> (Whether you include the <foreignphrase
+lang="art-lojban">mi</foreignphrase> or <foreignphrase
+lang="art-lojban">ti</foreignphrase> depends on whether they are important in this
+context &mdash; probably they are obvious and can be missed
+out.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">loi jdini cu ve xlura lenu cliva
+le gugde</foreignphrase> (<quote>Money is an inducement to
+emigrate.</quote>)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">la lojban. ve
+tavla</foreignphrase> (<quote>There is a conversation in Lojban.</quote> We
+don't need <foreignphrase lang="art-lojban">lo prenu</foreignphrase> since we can
+assume that it is people chatting in Lojban and not, say,
+chimpanzees.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">le cukta cu te dunda
+mi</foreignphrase> </para></listitem>
+
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 2</title>
+<para>
+<orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">lo veltivni</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo terta'a</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo seltcica</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo nalvu'e</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo teryre'e</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo nalvai</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo selvi'a</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo naltercni</foreignphrase></para></listitem>
+</orderedlist>
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 3</title>
+<para><orderedlist>
+
+<listitem><para>Jyoti's car is the means by which Jyoti, Ranjeet and Susan 
+get to the restaurant.</para></listitem>
+
+<listitem><para>Susan looks at her reflection. (This is the more Lojbanic 
+version of <quote>looks at herself in the mirror.</quote> There are other 
+ways to say this, but we haven't covered the requisite grammar yet.)</para></listitem>
+
+<listitem><para>She needs to put on more lipstick. (Literally, <quote>She 
+needs that her lip paint be added to.</quote>)
+</para></listitem>
+
+<listitem><para>When this is happening, Susan and Ranjeet see each other's 
+reflection.</para></listitem>
+
+<listitem><para>Susan asks Jyoti, <quote>Where does this street go 
+to?</quote></para></listitem>
+
+<listitem><para>Ranjeet says, <quote>The Pakistani suburb.</quote></para></listitem>
+
+<listitem><para><quote>The cuisine there is very
+spicy.</quote></para></listitem>
+
+<listitem><para>Jyoti irritatedly says, <quote>We, Ranjeet, have been going
+from south to north and back</quote> (i.e. from south to north and from 
+north to south. This is one of the few times you'll probably
+see <foreignphrase lang="art-lojban">soi vo'e</foreignphrase> instead of
+<foreignphrase lang="art-lojban">soi vo'a</foreignphrase>.)</para></listitem>
+
+<listitem><para><quote>I think you don't know the way of (= to) the
+restaurant.</quote></para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+
+</sect1>
+</chapter>
