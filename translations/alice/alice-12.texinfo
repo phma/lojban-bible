@@ -121,8 +121,8 @@ nasai vajni sei abu pensi sezysku li'u
 @c    from his book, `Rule Forty-two.  ALL PERSONS MORE THAN A MILE
 @c    HIGH TO LEAVE THE COURT.'
 
-i caku le noltrunau noi pu ze'a zukte ciska le ny selpapri cu cusku
-lu ei smaji li'u gi'e bacru tcidu fi sy fe lu le voremoi javni zo'u
+i caku le noltrunau noi pu ze'a zukte ciska le ny notci cukta cu cusku
+lu ei smaji li'u gi'e bacru tcidu fi cy fe lu le voremoi javni zo'u
 ei ro prenu poi galtu minli li za'upa cu cliva le kumfa li'u
    
 @c      Everybody looked at Alice.
@@ -149,7 +149,7 @@ javni i do jy cazi finti li'u
 
 @c      `It's the oldest rule in the book,' said the King.
 
-i lu jy tolcitrai lei javni sei le noltrunau cu cusku li'u
+i lu jy tolcitrai lei javni pe le cukta sei le noltrunau cu cusku li'u
 
 @c      `Then it ought to be Number One,' said Alice.
 
@@ -159,58 +159,115 @@ i lu va'o la'e di'u jy pamoi ei sei la alis cusku li'u
 @c    `Consider your verdict,' he said to the jury, in a low, trembling
 @c    voice.
 
+i le noltrunau cu labybi'o gi'e sutra polje le notci cukta i lu ko pensi 
+le do se paijdi sei le noltrunau fi le pairkamni cu dizlo je desku voksa
+cusku li'u
+
 @c      `There's more evidence to come yet, please your Majesty,' said
 @c    the White Rabbit, jumping up in a great hurry; `this paper has
 @c    just been picked up.'
 
+i lu lo drata velji'i cu za'o ba se jarco pe'u doi nolba'i sei le blabi
+ractu noi sutra plipe cu cusku i le vi pelji puzi se cpacu li'u
+
 @c      `What's in it?' said the Queen.
+
+i lu ma se ciska fi ta sei le noltruni'u cu cusku li'u
 
 @c      `I haven't opened it yet,' said the White Rabbit, `but it seems
 @c    to be a letter, written by the prisoner to--to somebody.'
 
+i lu mi ti za'o na kargau sei le blabi ractu cu cusku i ku'i ti simlu
+le ka xatra fi le pinfu fe y da li'u
+
 @c      `It must have been that,' said the King, `unless it was
 @c    written to nobody, which isn't usual, you know.'
 
+i lu ju'o go'i sei le noltrunau cu cusku ijonai ti xatra noda i ku'i
+ka'u le nu xatra noda cu rirci li'u 
+
 @c      `Who is it directed to?' said one of the jurymen.
+
+i lu ma se judri sei pa le pairkamnycmi cu cusku li'u
 
 @c      `It isn't directed at all,' said the White Rabbit; `in fact,
 @c    there's nothing written on the OUTSIDE.'  He unfolded the paper
 @c    as he spoke, and added `It isn't a letter, after all:  it's a set
 @c    of verses.'
 
+i lu nasai se judri sei le blabi ractu cu cusku i je'u no da se ciska
+fi le bartu li'u i ry tolplo le pelji ca le nu tavla gi'e jmina lu pa'e
+ti na xatra i ti penpau selcmi li'u
+
 @c      `Are they in the prisoner's handwriting?' asked another of
 @c    they jurymen.
+
+i lu xu le ciska tarmi cu me le pinfu moi sei lo drata pairkamnycmi cu
+te preti li'u 
 
 @c      `No, they're not,' said the White Rabbit, `and that's the
 @c    queerest thing about it.'  (The jury all looked puzzled.)
 
+i lu na go'i sei le blabi ractu cu cusku i la'e di'u cu traji le ka 
+cizra li'u i to ro le pairkamnycmi cu simlu le ka se cfipu toi 
+
 @c      `He must have imitated somebody else's hand,' said the King.
 @c    (The jury all brightened up again.)
 
+i lu ja'o py fukygau fi le ciska tarmi pe lo drata sei le noltrunau cu
+cusku li'u i to ro le pairkamnycmi cu xruti le ka cikygei toi
+
 @c      `Please your Majesty,' said the Knave, `I didn't write it, and
 @c    they can't prove I did:  there's no name signed at the end.'
+
+i lu pe'u doi nolba'i sei le nolse'u cu cusku mi tu na ciska i ji'a 
+no da ka'e je'urja'o le du'u mi ja'a go'i i no cmene cu zvati le
+fanmo be tu li'u 
 
 @c      `If you didn't sign it,' said the King, `that only makes the
 @c    matter worse.  You MUST have meant some mischief, or else you'd
 @c    have signed your name like an honest man.'
 
+i lu va'o le nu do na ciska le do cmene kei sei le noltrunau cu cusku
+le cuntu cu xlaze'a i ba'e ju'o do zukte fi le nu palci inaja do ne tai
+lo stace pu ciska le do cmene li'u   
+
 @c      There was a general clapping of hands at this:  it was the
 @c    first really clever thing the King had said that day.
 
+i kampu fa le nu xanvruzau la'e di'u noi cabdei pamoi lei tolbebna 
+selsku be le noltrunau 
+
 @c      `That PROVES his guilt,' said the Queen.
+
+i lu la'e di'u cu jetyja'o le du'u ta zerzu'e sei le noltruni'o 
+cu cusku li'u
 
 @c      `It proves nothing of the sort!' said Alice.  `Why, you don't
 @c    even know what they're about!'
 
+i lu la'e di'u cu jetyja'o noda poi simsa sei la alis cusku i ua do 
+na djuno ji'asai le du'u makau se ciska li'u
+
 @c      `Read them,' said the King.
+
+i lu ko tcidu sei le noltrunau li'u
 
 @c      The White Rabbit put on his spectacles.  `Where shall I begin,
 @c    please your Majesty?' he asked.
 
+i le blabi ractu co'a dasni le vistci i lu ei mi go'i co'a ma pe'u doi
+nolba'i sei ry retysku li'u
+
 @c      `Begin at the beginning,' the King said gravely, `and go on
 @c    till you come to the end:  then stop.'
 
+i lu co'a le cfafanmo sei le noltrunau cu junri cusku ko ca'o go'i 
+co'u le tolcfafanmo icaku ko sisti li'u
+
 @c      These were the verses the White Rabbit read:--
+
+i di'e penmi co se tcidu le blabi ractu
 
 @c            `They told me you had been to her,
 @c              And mentioned me to him:
