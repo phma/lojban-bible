@@ -64,7 +64,7 @@ This work, in all forms, is explicitely placed in the public domain.
 
 @menu
 * le fukpi::	le nu fukpi gau do cu se curmi fi da
-* pamo'o::	[Down the Rabbit-Hole]
+* pamo'o::	ne'i le ractu kevna
 * remo'o::	The Pool of Tears
 * cimo'o::	[A Caucus-Race and a Long Tale]
 * vomo'o::	[The Rabbit Sends in a Little Bill]
@@ -84,7 +84,7 @@ This work, in all forms, is explicitely placed in the public domain.
 @c Not done yet.
 
 @node    pamo'o, remo'o, le fukpi, Top
-@chapter pamo'o [Down The Rabbit-Hole]
+@chapter pamo'o ne'i le ractu kevna
 
 @c                                CHAPTER I
 
