@@ -119,6 +119,10 @@ Scene "sinxa" with name 'sinxa', description
 	".i le sinxa cu xusra la'elu ko se kajde vi li'u",
 	found_in sudyfoi_korbi;
 
+Scene "solri" with name 'solri', description
+	".i lenu viska cu rinka leza'i do kanla cu cortu",
+	found_in krasi_dargu pluta_le_sudyfoi sudyfoi_korbi;
+
 ! Entry point
 
 [ Initialise;
