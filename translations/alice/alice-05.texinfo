@@ -187,36 +187,6 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @c        By the use of this ointment--one shilling the box--
 @c          Allow me to sell you a couple?'
 
-@format
-
-      do tolci'o doi paf sei le citnau cu cusku
-      i le kerfa be do ca'a blabi
-      i ku'i do ru'i lolsanli le stedu
-      i do jinvi xu le du'u drani
-
-      i ca le mi nuncitno sei la uiliam spuda
-      mi terpa le nu mi se benxai
-      i caku ju'osai mi noda se besna
-      i uisai mi ka'e roroi co'e
-
-      i le citnau cu cusku do ke'u tolci'o
-      gi'e ba'o binxo lo plana
-      i ku'i do plipe puzi vi le vorme
-      i ma krinu le nu ka'e go'i
-
-      i ca le mi nuncitno sei le ruskre prije 
-      cu cusku mi rotsu se xadni
-      sepi'o le vi kruji noi fepni li pa
-      i xu do te vecnu lo remei
-
-
-@end format
-@c Poetic license, I suppose. That means "you stand on a head which is on the floor",
-@c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
-
-@ I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
-@ x2 of sanli, so it doesn't appear in the place structure of lolsanli.
-
 @c        `You are old,' said the youth, `and your jaws are too weak
 @c          For anything tougher than suet;
 @c        Yet you finished the goose, with the bones and the beak--
@@ -226,6 +196,50 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @c          And argued each case with my wife;
 @c        And the muscular strength, which it gave to my jaw,
 @c          Has lasted the rest of my life.'
+
+@format
+
+      do tolci'o doi paf sei le citnau cu cusku
+      i le kerfa be do ca'a blabi
+@     i ku'i do ru'i lolsanli le stedu
+      i ue do le loldi le stedu cu sanli
+      i do jinvi xu le du'u drani
+
+      i ca le mi nunci'o sei la uiliam spuda
+      mi terpa le nu mi se benxai
+      i caku ju'osai mi noda se besna
+      i uisai mi ka'e roroi co'e
+
+      i sei le citnau cu cusku do ke'u tolci'o
+      gi'e ba'o binxo lo plana
+      i ku'i do plipe puzi vi le vorme
+      i ma krinu le nu ka'e go'i
+
+      i ca le mi nunci'o sei le ruskre prije 
+      cu cusku mi rotsu se xadni
+      sepi'o le vi kruji noi fepni li pa
+      i xu do te vecnu lo remei
+
+      i do tolci'o sei cusku i se xedja co ruble
+      fi ro da poi jarmau lo grasu
+      i ku'i le gunse do mu'o se citka
+      i a'u ta'i ma do snada  
+
+      i ca le mi nunci'o mi flara'a gunka
+      gi'e roda le speni cu darlu
+      i le jalge ke sluji kamtsa pe le xedja
+      cu renvi fi le mi nunjmive       
+            
+
+@end format
+@c Poetic license, I suppose. That means "you stand on a head which is on the floor",
+@c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
+
+@ I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
+@ x2 of sanli, so it doesn't appear in the place structure of lolsanli.
+@ But I changed it anyway.
+
+
 
 @c        `You are old,' said the youth, `one would hardly suppose
 @c          That your eye was as steady as ever;
