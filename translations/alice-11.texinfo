@@ -1,0 +1,280 @@
+@node    papamo'o, paremo'o, panomo'o, Top
+@chapter papamo'o [Who Stole the Tarts?]
+
+
+@c                               CHAPTER XI
+
+@c                          Who Stole the Tarts?
+
+
+@c      The King and Queen of Hearts were seated on their throne when
+@c    they arrived, with a great crowd assembled about them--all sorts
+@c    of little birds and beasts, as well as the whole pack of cards:
+@c    the Knave was standing before them, in chains, with a soldier on
+@c    each side to guard him; and near the King was the White Rabbit,
+@c    with a trumpet in one hand, and a scroll of parchment in the
+@c    other.  In the very middle of the court was a table, with a large
+@c    dish of tarts upon it:  they looked so good, that it made Alice
+@c    quite hungry to look at them--`I wish they'd get the trial done,'
+@c    she thought, `and hand round the refreshments!'  But there seemed
+@c    to be no chance of this, so she began looking at everything about
+@c    her, to pass away the time.
+
+@c      Alice had never been in a court of justice before, but she had
+@c    read about them in books, and she was quite pleased to find that
+@c    she knew the name of nearly everything there.  `That's the
+@c    judge,' she said to herself, `because of his great wig.'
+
+@c      The judge, by the way, was the King; and as he wore his crown
+@c    over the wig, (look at the frontispiece if you want to see how he
+@c    did it,) he did not look at all comfortable, and it was certainly
+@c    not becoming.
+
+@c      `And that's the jury-box,' thought Alice, `and those twelve
+@c    creatures,' (she was obliged to say `creatures,' you see, because
+@c    some of them were animals, and some were birds,) `I suppose they
+@c    are the jurors.'  She said this last word two or three times over
+@c    to herself, being rather proud of it:  for she thought, and
+@c    rightly too, that very few little girls of her age knew the
+@c    meaning of it at all.  However, `jury-men' would have done just
+@c    as well.
+
+@c      The twelve jurors were all writing very busily on slates.
+@c    `What are they doing?'  Alice whispered to the Gryphon.  `They
+@c    can't have anything to put down yet, before the trial's begun.'
+
+@c      `They're putting down their names,' the Gryphon whispered in
+@c    reply, `for fear they should forget them before the end of the
+@c    trial.'
+
+@c      `Stupid things!' Alice began in a loud, indignant voice, but
+@c    she stopped hastily, for the White Rabbit cried out, `Silence in
+@c    the court!' and the King put on his spectacles and looked
+@c    anxiously round, to make out who was talking.
+
+@c      Alice could see, as well as if she were looking over their
+@c    shoulders, that all the jurors were writing down `stupid things!'
+@c    on their slates, and she could even make out that one of them
+@c    didn't know how to spell `stupid,' and that he had to ask his
+@c    neighbour to tell him.  `A nice muddle their slates'll be in
+@c    before the trial's over!' thought Alice.
+
+@c      One of the jurors had a pencil that squeaked.  This of course,
+@c    Alice could not stand, and she went round the court and got
+@c    behind him, and very soon found an opportunity of taking it
+@c    away.  She did it so quickly that the poor little juror (it was
+@c    Bill, the Lizard) could not make out at all what had become of
+@c    it; so, after hunting all about for it, he was obliged to write
+@c    with one finger for the rest of the day; and this was of very
+@c    little use, as it left no mark on the slate.
+
+@c      `Herald, read the accusation!' said the King.
+
+@c      On this the White Rabbit blew three blasts on the trumpet, and
+@c    then unrolled the parchment scroll, and read as follows:--
+
+@c        `The Queen of Hearts, she made some tarts,
+@c              All on a summer day:
+@c          The Knave of Hearts, he stole those tarts,
+@c              And took them quite away!'
+
+@c      `Consider your verdict,' the King said to the jury.
+
+@c      `Not yet, not yet!' the Rabbit hastily interrupted.  `There's
+@c    a great deal to come before that!'
+
+@c      `Call the first witness,' said the King; and the White Rabbit
+@c    blew three blasts on the trumpet, and called out, `First
+@c    witness!'
+
+@c      The first witness was the Hatter.  He came in with a teacup in
+@c    one hand and a piece of bread-and-butter in the other.  `I beg
+@c    pardon, your Majesty,' he began, `for bringing these in:  but I
+@c    hadn't quite finished my tea when I was sent for.'
+
+@c      `You ought to have finished,' said the King.  `When did you
+@c    begin?'
+
+@c      The Hatter looked at the March Hare, who had followed him into
+@c    the court, arm-in-arm with the Dormouse.  `Fourteenth of March, I
+@c    think it was,' he said.
+
+@c      `Fifteenth,' said the March Hare.
+
+@c      `Sixteenth,' added the Dormouse.
+
+@c      `Write that down,' the King said to the jury, and the jury
+@c    eagerly wrote down all three dates on their slates, and then
+@c    added them up, and reduced the answer to shillings and pence.
+
+@c      `Take off your hat,' the King said to the Hatter.
+
+@c      `It isn't mine,' said the Hatter.
+
+@c      `Stolen!' the King exclaimed, turning to the jury, who
+@c    instantly made a memorandum of the fact.
+
+@c      `I keep them to sell,' the Hatter added as an explanation;
+@c    `I've none of my own.  I'm a hatter.'
+
+@c      Here the Queen put on her spectacles, and began staring at the
+@c    Hatter, who turned pale and fidgeted.
+
+@c      `Give your evidence,' said the King; `and don't be nervous, or
+@c    I'll have you executed on the spot.'
+
+@c      This did not seem to encourage the witness at all:  he kept
+@c    shifting from one foot to the other, looking uneasily at the
+@c    Queen, and in his confusion he bit a large piece out of his
+@c    teacup instead of the bread-and-butter.
+
+@c      Just at this moment Alice felt a very curious sensation, which
+@c    puzzled her a good deal until she made out what it was:  she was
+@c    beginning to grow larger again, and she thought at first she
+@c    would get up and leave the court; but on second thoughts she
+@c    decided to remain where she was as long as there was room for
+@c    her.
+
+@c      `I wish you wouldn't squeeze so.' said the Dormouse, who was
+@c    sitting next to her.  `I can hardly breathe.'
+
+@c      `I can't help it,' said Alice very meekly:  `I'm growing.'
+
+@c      `You've no right to grow here,' said the Dormouse.
+
+@c      `Don't talk nonsense,' said Alice more boldly:  `you know
+@c    you're growing too.'
+
+@c      `Yes, but I grow at a reasonable pace,' said the Dormouse:
+@c    `not in that ridiculous fashion.'  And he got up very sulkily
+@c    and crossed over to the other side of the court.
+
+@c      All this time the Queen had never left off staring at the
+@c    Hatter, and, just as the Dormouse crossed the court, she said to
+@c    one of the officers of the court, `Bring me the list of the
+@c    singers in the last concert!' on which the wretched Hatter
+@c    trembled so, that he shook both his shoes off.
+
+@c      `Give your evidence,' the King repeated angrily, `or I'll have
+@c    you executed, whether you're nervous or not.'
+
+@c      `I'm a poor man, your Majesty,' the Hatter began, in a
+@c    trembling voice, `--and I hadn't begun my tea--not above a week
+@c    or so--and what with the bread-and-butter getting so thin--and
+@c    the twinkling of the tea--'
+
+@c      `The twinkling of the what?' said the King.
+
+@c      `It began with the tea,' the Hatter replied.
+
+@c      `Of course twinkling begins with a T!' said the King sharply.
+@c    `Do you take me for a dunce?  Go on!'
+
+@c      `I'm a poor man,' the Hatter went on, `and most things
+@c    twinkled after that--only the March Hare said--'
+
+@c      `I didn't!' the March Hare interrupted in a great hurry.
+
+@c      `You did!' said the Hatter.
+
+@c      `I deny it!' said the March Hare.
+
+@c      `He denies it,' said the King:  `leave out that part.'
+
+@c      `Well, at any rate, the Dormouse said--' the Hatter went on,
+@c    looking anxiously round to see if he would deny it too:  but the
+@c    Dormouse denied nothing, being fast asleep.
+
+@c      `After that,' continued the Hatter, `I cut some more bread-
+@c    and-butter--'
+
+@c      `But what did the Dormouse say?' one of the jury asked.
+
+@c      `That I can't remember,' said the Hatter.
+
+@c      `You MUST remember,' remarked the King, `or I'll have you
+@c    executed.'
+
+@c      The miserable Hatter dropped his teacup and bread-and-butter,
+@c    and went down on one knee.  `I'm a poor man, your Majesty,' he
+@c    began.
+
+@c      `You're a very poor speaker,' said the King.
+
+@c      Here one of the guinea-pigs cheered, and was immediately
+@c    suppressed by the officers of the court.  (As that is rather a
+@c    hard word, I will just explain to you how it was done.  They had
+@c    a large canvas bag, which tied up at the mouth with strings:
+@c    into this they slipped the guinea-pig, head first, and then sat
+@c    upon it.)
+
+@c      `I'm glad I've seen that done,' thought Alice.  `I've so often
+@c    read in the newspapers, at the end of trials, "There was some
+@c    attempts at applause, which was immediately suppressed by the
+@c    officers of the court," and I never understood what it meant
+@c    till now.'
+
+@c      `If that's all you know about it, you may stand down,'
+@c    continued the King.
+
+@c      `I can't go no lower,' said the Hatter:  `I'm on the floor, as
+@c    it is.'
+
+@c      `Then you may SIT down,' the King replied.
+
+@c      Here the other guinea-pig cheered, and was suppressed.
+
+@c      `Come, that finished the guinea-pigs!' thought Alice.  `Now we
+@c    shall get on better.'
+
+@c      `I'd rather finish my tea,' said the Hatter, with an anxious
+@c    look at the Queen, who was reading the list of singers.
+
+@c      `You may go,' said the King, and the Hatter hurriedly left the
+@c    court, without even waiting to put his shoes on.
+
+@c      `--and just take his head off outside,' the Queen added to one
+@c    of the officers:  but the Hatter was out of sight before the
+@c    officer could get to the door.
+
+@c      `Call the next witness!' said the King.
+
+@c      The next witness was the Duchess's cook.  She carried the
+@c    pepper-box in her hand, and Alice guessed who it was, even before
+@c    she got into the court, by the way the people near the door began
+@c    sneezing all at once.
+
+@c      `Give your evidence,' said the King.
+
+@c      `Shan't,' said the cook.
+
+@c      The King looked anxiously at the White Rabbit, who said in a
+@c    low voice, `Your Majesty must cross-examine THIS witness.'
+
+@c      `Well, if I must, I must,' the King said, with a melancholy
+@c    air, and, after folding his arms and frowning at the cook till
+@c    his eyes were nearly out of sight, he said in a deep voice, `What
+@c    are tarts made of?'
+
+@c      `Pepper, mostly,' said the cook.
+
+@c      `Treacle,' said a sleepy voice behind her.
+
+@c      `Collar that Dormouse,' the Queen shrieked out.  `Behead that
+@c    Dormouse!  Turn that Dormouse out of court!  Suppress him!  Pinch
+@c    him!  Off with his whiskers!'
+
+@c      For some minutes the whole court was in confusion, getting the
+@c    Dormouse turned out, and, by the time they had settled down
+@c    again, the cook had disappeared.
+
+@c      `Never mind!' said the King, with an air of great relief.
+@c    `Call the next witness.'  And he added in an undertone to the
+@c    Queen, `Really, my dear, YOU must cross-examine the next witness.
+@c    It quite makes my forehead ache!'
+
+@c      Alice watched the White Rabbit as he fumbled over the list,
+@c    feeling very curious to see what the next witness would be like,
+@c    `--for they haven't got much evidence YET,' she said to herself.
+@c    Imagine her surprise, when the White Rabbit read out, at the top
+@c    of his shrill little voice, the name `Alice!'

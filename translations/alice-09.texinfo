@@ -1,0 +1,340 @@
+@node    somo'o, panomo'o, bimo'o, Top
+@chapter somo'o [The Mock Turtle's Story]
+
+
+@c                               CHAPTER IX
+
+@c                         The Mock Turtle's Story
+
+
+@c      `You can't think how glad I am to see you again, you dear old
+@c    thing!' said the Duchess, as she tucked her arm affectionately
+@c    into Alice's, and they walked off together.
+
+@c      Alice was very glad to find her in such a pleasant temper, and
+@c    thought to herself that perhaps it was only the pepper that had
+@c    made her so savage when they met in the kitchen.
+
+@c      `When I'M a Duchess,' she said to herself, (not in a very
+@c    hopeful tone though), `I won't have any pepper in my kitchen AT
+@c    ALL.  Soup does very well without--Maybe it's always pepper that
+@c    makes people hot-tempered,' she went on, very much pleased at
+@c    having found out a new kind of rule, `and vinegar that makes them
+@c    sour--and camomile that makes them bitter--and--and barley-sugar
+@c    and such things that make children sweet-tempered.  I only wish
+@c    people knew that:  then they wouldn't be so stingy about it, you
+@c    know--'
+
+@c      She had quite forgotten the Duchess by this time, and was a
+@c    little startled when she heard her voice close to her ear.
+@c    `You're thinking about something, my dear, and that makes you
+@c    forget to talk.  I can't tell you just now what the moral of that
+@c    is, but I shall remember it in a bit.'
+
+@c      `Perhaps it hasn't one,' Alice ventured to remark.
+
+@c      `Tut, tut, child!' said the Duchess.  `Everything's got a
+@c    moral, if only you can find it.'  And she squeezed herself up
+@c    closer to Alice's side as she spoke.
+
+@c      Alice did not much like keeping so close to her:  first,
+@c    because the Duchess was VERY ugly; and secondly, because she was
+@c    exactly the right height to rest her chin upon Alice's shoulder,
+@c    and it was an uncomfortably sharp chin.  However, she did not
+@c    like to be rude, so she bore it as well as she could.
+
+@c      `The game's going on rather better now,' she said, by way of
+@c    keeping up the conversation a little.
+
+@c      `'Tis so,' said the Duchess:  `and the moral of that is--"Oh,
+@c    'tis love, 'tis love, that makes the world go round!"'
+
+@c      `Somebody said,' Alice whispered, `that it's done by everybody
+@c    minding their own business!'
+
+@c      `Ah, well!  It means much the same thing,' said the Duchess,
+@c    digging her sharp little chin into Alice's shoulder as she added,
+@c    `and the moral of THAT is--"Take care of the sense, and the
+@c    sounds will take care of themselves."'
+
+@c      `How fond she is of finding morals in things!' Alice thought to
+@c    herself.
+
+@c      `I dare say you're wondering why I don't put my arm round your
+@c    waist,' the Duchess said after a pause:  `the reason is, that I'm
+@c    doubtful about the temper of your flamingo.  Shall I try the
+@c    experiment?'
+
+@c      `HE might bite,' Alice cautiously replied, not feeling at all
+@c    anxious to have the experiment tried.
+
+@c      `Very true,' said the Duchess:  `flamingoes and mustard both
+@c    bite.  And the moral of that is--"Birds of a feather flock
+@c    together."'
+
+@c      `Only mustard isn't a bird,' Alice remarked.
+
+@c      `Right, as usual,' said the Duchess:  `what a clear way you
+@c    have of putting things!'
+
+@c      `It's a mineral, I THINK,' said Alice.
+
+@c      `Of course it is,' said the Duchess, who seemed ready to agree
+@c    to everything that Alice said; `there's a large mustard-mine near
+@c    here.  And the moral of that is--"The more there is of mine, the
+@c    less there is of yours."'
+
+@c      `Oh, I know!' exclaimed Alice, who had not attended to this
+@c    last remark, `it's a vegetable.  It doesn't look like one, but it
+@c    is.'
+
+@c      `I quite agree with you,' said the Duchess; `and the moral of
+@c    that is--"Be what you would seem to be"--or if you'd like it put
+@c    more simply--"Never imagine yourself not to be otherwise than
+@c    what it might appear to others that what you were or might have
+@c    been was not otherwise than what you had been would have appeared
+@c    to them to be otherwise."'
+
+@c      `I think I should understand that better,' Alice said very
+@c    politely, `if I had it written down:  but I can't quite follow it
+@c    as you say it.'
+
+@c      `That's nothing to what I could say if I chose,' the Duchess
+@c    replied, in a pleased tone.
+
+@c      `Pray don't trouble yourself to say it any longer than that,'
+@c    said Alice.
+
+@c      `Oh, don't talk about trouble!' said the Duchess.  `I make you
+@c    a present of everything I've said as yet.'
+
+@c      `A cheap sort of present!' thought Alice.  `I'm glad they don't
+@c    give birthday presents like that!'  But she did not venture to
+@c    say it out loud.
+
+@c      `Thinking again?' the Duchess asked, with another dig of her
+@c    sharp little chin.
+
+@c      `I've a right to think,' said Alice sharply, for she was
+@c    beginning to feel a little worried.
+
+@c      `Just about as much right,' said the Duchess, `as pigs have to fly;
+@c    and the m--'
+
+@c      But here, to Alice's great surprise, the Duchess's voice died
+@c    away, even in the middle of her favourite word `moral,' and the
+@c    arm that was linked into hers began to tremble.  Alice looked up,
+@c    and there stood the Queen in front of them, with her arms folded,
+@c    frowning like a thunderstorm.
+
+@c      `A fine day, your Majesty!' the Duchess began in a low, weak
+@c    voice.
+
+@c      `Now, I give you fair warning,' shouted the Queen, stamping on
+@c    the ground as she spoke; `either you or your head must be off,
+@c    and that in about half no time!  Take your choice!'
+
+@c      The Duchess took her choice, and was gone in a moment.
+
+@c      `Let's go on with the game,' the Queen said to Alice; and Alice
+@c    was too much frightened to say a word, but slowly followed her
+@c    back to the croquet-ground.
+
+@c      The other guests had taken advantage of the Queen's absence,
+@c    and were resting in the shade:  however, the moment they saw her,
+@c    they hurried back to the game, the Queen merely remarking that a
+@c    moment's delay would cost them their lives.
+
+@c      All the time they were playing the Queen never left off
+@c    quarrelling with the other players, and shouting `Off with his
+@c    head!' or `Off with her head!'  Those whom she sentenced were
+@c    taken into custody by the soldiers, who of course had to leave
+@c    off being arches to do this, so that by the end of half an hour
+@c    or so there were no arches left, and all the players, except the
+@c    King, the Queen, and Alice, were in custody and under sentence of
+@c    execution.
+
+@c      Then the Queen left off, quite out of breath, and said to
+@c    Alice, `Have you seen the Mock Turtle yet?'
+
+@c      `No,' said Alice.  `I don't even know what a Mock Turtle is.'
+
+@c      `It's the thing Mock Turtle Soup is made from,' said the Queen.
+
+@c      `I never saw one, or heard of one,' said Alice.
+
+@c      `Come on, then,' said the Queen, `and he shall tell you his
+@c    history,'
+
+@c      As they walked off together, Alice heard the King say in a low
+@c    voice, to the company generally, `You are all pardoned.'  `Come,
+@c    THAT'S a good thing!' she said to herself, for she had felt quite
+@c    unhappy at the number of executions the Queen had ordered.
+
+@c      They very soon came upon a Gryphon, lying fast asleep in the
+@c    sun.  (IF you don't know what a Gryphon is, look at the picture.)
+@c    `Up, lazy thing!' said the Queen, `and take this young lady to
+@c    see the Mock Turtle, and to hear his history.  I must go back and
+@c    see after some executions I have ordered'; and she walked off,
+@c    leaving Alice alone with the Gryphon.  Alice did not quite like
+@c    the look of the creature, but on the whole she thought it would
+@c    be quite as safe to stay with it as to go after that savage
+@c    Queen:  so she waited.
+
+@c      The Gryphon sat up and rubbed its eyes:  then it watched the
+@c    Queen till she was out of sight:  then it chuckled.  `What fun!'
+@c    said the Gryphon, half to itself, half to Alice.
+
+@c      `What IS the fun?' said Alice.
+
+@c      `Why, SHE,' said the Gryphon.  `It's all her fancy, that:  they
+@c    never executes nobody, you know.  Come on!'
+
+@c      `Everybody says "come on!" here,' thought Alice, as she went
+@c    slowly after it:  `I never was so ordered about in all my life,
+@c    never!'
+
+@c      They had not gone far before they saw the Mock Turtle in the
+@c    distance, sitting sad and lonely on a little ledge of rock, and,
+@c    as they came nearer, Alice could hear him sighing as if his heart
+@c    would break.  She pitied him deeply.  `What is his sorrow?' she
+@c    asked the Gryphon, and the Gryphon answered, very nearly in the
+@c    same words as before, `It's all his fancy, that:  he hasn't got
+@c    no sorrow, you know.  Come on!'
+
+@c      So they went up to the Mock Turtle, who looked at them with
+@c    large eyes full of tears, but said nothing.
+
+@c      `This here young lady,' said the Gryphon, `she wants for to
+@c    know your history, she do.'
+
+@c      `I'll tell it her,' said the Mock Turtle in a deep, hollow
+@c    tone:  `sit down, both of you, and don't speak a word till I've
+@c    finished.'
+
+@c      So they sat down, and nobody spoke for some minutes.  Alice
+@c    thought to herself, `I don't see how he can EVEN finish, if he
+@c    doesn't begin.'  But she waited patiently.
+
+@c      `Once,' said the Mock Turtle at last, with a deep sigh, `I was
+@c    a real Turtle.'
+
+@c      These words were followed by a very long silence, broken only
+@c    by an occasional exclamation of `Hjckrrh!' from the Gryphon, and
+@c    the constant heavy sobbing of the Mock Turtle.  Alice was very
+@c    nearly getting up and saying, `Thank you, sir, for your
+@c    interesting story,' but she could not help thinking there MUST be
+@c    more to come, so she sat still and said nothing.
+
+@c      `When we were little,' the Mock Turtle went on at last, more
+@c    calmly, though still sobbing a little now and then, `we went to
+@c    school in the sea.  The master was an old Turtle--we used to call
+@c    him Tortoise--'
+
+@c      `Why did you call him Tortoise, if he wasn't one?' Alice asked.
+
+@c      `We called him Tortoise because he taught us,' said the Mock
+@c    Turtle angrily:  `really you are very dull!'
+
+@c      `You ought to be ashamed of yourself for asking such a simple
+@c    question,' added the Gryphon; and then they both sat silent and
+@c    looked at poor Alice, who felt ready to sink into the earth.  At
+@c    last the Gryphon said to the Mock Turtle, `Drive on, old fellow!
+@c    Don't be all day about it!' and he went on in these words:
+
+@c      `Yes, we went to school in the sea, though you mayn't believe
+@c    it--'
+
+@c      `I never said I didn't!' interrupted Alice.
+
+@c      `You did,' said the Mock Turtle.
+
+@c      `Hold your tongue!' added the Gryphon, before Alice could speak
+@c    again.  The Mock Turtle went on.
+
+@c      `We had the best of educations--in fact, we went to school
+@c    every day--'
+
+@c      `I'VE been to a day-school, too,' said Alice; `you needn't be
+@c    so proud as all that.'
+
+@c      `With extras?' asked the Mock Turtle a little anxiously.
+
+@c      `Yes,' said Alice, `we learned French and music.'
+
+@c      `And washing?' said the Mock Turtle.
+
+@c      `Certainly not!' said Alice indignantly.
+
+@c      `Ah! then yours wasn't a really good school,' said the Mock
+@c    Turtle in a tone of great relief.  `Now at OURS they had at the
+@c    end of the bill, "French, music, AND WASHING--extra."'
+
+@c      `You couldn't have wanted it much,' said Alice; `living at the
+@c    bottom of the sea.'
+
+@c      `I couldn't afford to learn it.' said the Mock Turtle with a
+@c    sigh.  `I only took the regular course.'
+
+@c      `What was that?' inquired Alice.
+
+@c      `Reeling and Writhing, of course, to begin with,' the Mock
+@c    Turtle replied; `and then the different branches of Arithmetic--
+@c    Ambition, Distraction, Uglification, and Derision.'
+
+@c      `I never heard of "Uglification,"' Alice ventured to say.  `What is it?'
+
+@c      The Gryphon lifted up both its paws in surprise.  `What!  Never
+@c    heard of uglifying!' it exclaimed.  `You know what to beautify is,
+@c    I suppose?'
+
+@c      `Yes,' said Alice doubtfully:  `it means--to--make--anything--prettier.'
+
+@c      `Well, then,' the Gryphon went on, `if you don't know what to
+@c    uglify is, you ARE a simpleton.'
+
+@c      Alice did not feel encouraged to ask any more questions about
+@c    it, so she turned to the Mock Turtle, and said `What else had you
+@c    to learn?'
+
+@c      `Well, there was Mystery,' the Mock Turtle replied, counting
+@c    off the subjects on his flappers, `--Mystery, ancient and modern,
+@c    with Seaography:  then Drawling--the Drawling-master was an old
+@c    conger-eel, that used to come once a week:  HE taught us
+@c    Drawling, Stretching, and Fainting in Coils.'
+
+@c      `What was THAT like?' said Alice.
+
+@c      `Well, I can't show it you myself,' the Mock Turtle said:  `I'm
+@c    too stiff.  And the Gryphon never learnt it.'
+
+@c      `Hadn't time,' said the Gryphon:  `I went to the Classics
+@c    master, though.  He was an old crab, HE was.'
+
+@c      `I never went to him,' the Mock Turtle said with a sigh:  `he
+@c    taught Laughing and Grief, they used to say.'
+
+@c      `So he did, so he did,' said the Gryphon, sighing in his turn;
+@c    and both creatures hid their faces in their paws.
+
+@c      `And how many hours a day did you do lessons?' said Alice, in a
+@c    hurry to change the subject.
+
+@c      `Ten hours the first day,' said the Mock Turtle: `nine the
+@c    next, and so on.'
+
+@c      `What a curious plan!' exclaimed Alice.
+
+@c      `That's the reason they're called lessons,' the Gryphon
+@c    remarked:  `because they lessen from day to day.'
+
+@c      This was quite a new idea to Alice, and she thought it over a
+@c    little before she made her next remark.  `Then the eleventh day
+@c    must have been a holiday?'
+
+@c      `Of course it was,' said the Mock Turtle.
+
+@c      `And how did you manage on the twelfth?' Alice went on eagerly.
+
+@c      `That's enough about lessons,' the Gryphon interrupted in a
+@c    very decided tone:  `tell her something about the games now.'

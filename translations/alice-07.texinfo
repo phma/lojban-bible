@@ -1,0 +1,360 @@
+@node    zemo'o, bimo'o, xamo'o, Top
+@chapter zemo'o [A Mad Tea-Party]
+
+
+@c                               CHAPTER VII
+
+@c                             A Mad Tea-Party
+
+
+@c      There was a table set out under a tree in front of the house,
+@c    and the March Hare and the Hatter were having tea at it:  a
+@c    Dormouse was sitting between them, fast asleep, and the other two
+@c    were using it as a cushion, resting their elbows on it, and talking
+@c    over its head.  `Very uncomfortable for the Dormouse,' thought Alice;
+@c    `only, as it's asleep, I suppose it doesn't mind.'
+
+@c      The table was a large one, but the three were all crowded
+@c    together at one corner of it:  `No room!  No room!' they cried
+@c    out when they saw Alice coming.  `There's PLENTY of room!' said
+@c    Alice indignantly, and she sat down in a large arm-chair at one
+@c    end of the table.
+
+@c      `Have some wine,' the March Hare said in an encouraging tone.
+
+@c      Alice looked all round the table, but there was nothing on it
+@c    but tea.  `I don't see any wine,' she remarked.
+
+@c      `There isn't any,' said the March Hare.
+
+@c      `Then it wasn't very civil of you to offer it,' said Alice
+@c    angrily.
+
+@c      `It wasn't very civil of you to sit down without being
+@c    invited,' said the March Hare.
+
+@c      `I didn't know it was YOUR table,' said Alice; `it's laid for a
+@c    great many more than three.'
+
+@c      `Your hair wants cutting,' said the Hatter.  He had been
+@c    looking at Alice for some time with great curiosity, and this was
+@c    his first speech.
+
+@c      `You should learn not to make personal remarks,' Alice said
+@c    with some severity; `it's very rude.'
+
+@c      The Hatter opened his eyes very wide on hearing this; but all
+@c    he SAID was, `Why is a raven like a writing-desk?'
+
+@c      `Come, we shall have some fun now!' thought Alice.  `I'm glad
+@c    they've begun asking riddles.--I believe I can guess that,' she
+@c    added aloud.
+
+@c      `Do you mean that you think you can find out the answer to it?'
+@c    said the March Hare.
+
+@c      `Exactly so,' said Alice.
+
+@c      `Then you should say what you mean,' the March Hare went on.
+
+@c      `I do,' Alice hastily replied; `at least--at least I mean what
+@c    I say--that's the same thing, you know.'
+
+@c      `Not the same thing a bit!' said the Hatter.  `You might just
+@c    as well say that "I see what I eat" is the same thing as "I eat
+@c    what I see"!'
+
+@c      `You might just as well say,' added the March Hare, `that "I
+@c    like what I get" is the same thing as "I get what I like"!'
+
+@c      `You might just as well say,' added the Dormouse, who seemed to
+@c    be talking in his sleep, `that "I breathe when I sleep" is the
+@c    same thing as "I sleep when I breathe"!'
+
+@c      `It IS the same thing with you,' said the Hatter, and here the
+@c    conversation dropped, and the party sat silent for a minute,
+@c    while Alice thought over all she could remember about ravens and
+@c    writing-desks, which wasn't much.
+
+@c      The Hatter was the first to break the silence.  `What day of
+@c    the month is it?' he said, turning to Alice:  he had taken his
+@c    watch out of his pocket, and was looking at it uneasily, shaking
+@c    it every now and then, and holding it to his ear.
+
+@c      Alice considered a little, and then said `The fourth.'
+
+@c      `Two days wrong!' sighed the Hatter.  `I told you butter
+@c    wouldn't suit the works!' he added looking angrily at the March
+@c    Hare.
+
+@c      `It was the BEST butter,' the March Hare meekly replied.
+
+@c      `Yes, but some crumbs must have got in as well,' the Hatter
+@c    grumbled:  `you shouldn't have put it in with the bread-knife.'
+
+@c      The March Hare took the watch and looked at it gloomily:  then
+@c    he dipped it into his cup of tea, and looked at it again:  but he
+@c    could think of nothing better to say than his first remark, `It
+@c    was the BEST butter, you know.'
+
+@c      Alice had been looking over his shoulder with some curiosity.
+@c    `What a funny watch!' she remarked.  `It tells the day of the
+@c    month, and doesn't tell what o'clock it is!'
+
+@c      `Why should it?' muttered the Hatter.  `Does YOUR watch tell
+@c    you what year it is?'
+
+@c      `Of course not,' Alice replied very readily:  `but that's
+@c    because it stays the same year for such a long time together.'
+
+@c      `Which is just the case with MINE,' said the Hatter.
+
+@c      Alice felt dreadfully puzzled.  The Hatter's remark seemed to
+@c    have no sort of meaning in it, and yet it was certainly English.
+@c    `I don't quite understand you,' she said, as politely as she
+@c    could.
+
+@c      `The Dormouse is asleep again,' said the Hatter, and he poured
+@c    a little hot tea upon its nose.
+
+@c      The Dormouse shook its head impatiently, and said, without
+@c    opening its eyes, `Of course, of course; just what I was going to
+@c    remark myself.'
+
+@c      `Have you guessed the riddle yet?' the Hatter said, turning to
+@c    Alice again.
+
+@c      `No, I give it up,' Alice replied:  `what's the answer?'
+
+@c      `I haven't the slightest idea,' said the Hatter.
+
+@c      `Nor I,' said the March Hare.
+
+@c      Alice sighed wearily.  `I think you might do something better
+@c    with the time,' she said, `than waste it in asking riddles that
+@c    have no answers.'
+
+@c      `If you knew Time as well as I do,' said the Hatter, `you
+@c    wouldn't talk about wasting IT.  It's HIM.'
+
+@c      `I don't know what you mean,' said Alice.
+
+@c      `Of course you don't!' the Hatter said, tossing his head
+@c    contemptuously.  `I dare say you never even spoke to Time!'
+
+@c      `Perhaps not,' Alice cautiously replied:  `but I know I have to
+@c    beat time when I learn music.'
+
+@c      `Ah! that accounts for it,' said the Hatter.  `He won't stand
+@c    beating.  Now, if you only kept on good terms with him, he'd do
+@c    almost anything you liked with the clock.  For instance, suppose
+@c    it were nine o'clock in the morning, just time to begin lessons:
+@c    you'd only have to whisper a hint to Time, and round goes the
+@c    clock in a twinkling!  Half-past one, time for dinner!'
+
+@c      (`I only wish it was,' the March Hare said to itself in a
+@c    whisper.)
+
+@c      `That would be grand, certainly,' said Alice thoughtfully:
+@c    `but then--I shouldn't be hungry for it, you know.'
+
+@c      `Not at first, perhaps,' said the Hatter:  `but you could keep
+@c    it to half-past one as long as you liked.'
+
+@c      `Is that the way YOU manage?' Alice asked.
+
+@c      The Hatter shook his head mournfully.  `Not I!' he replied.
+@c    `We quarrelled last March--just before HE went mad, you know--'
+@c    (pointing with his tea spoon at the March Hare,) `--it was at the
+@c    great concert given by the Queen of Hearts, and I had to sing
+
+@c                "Twinkle, twinkle, little bat!
+@c                How I wonder what you're at!"
+
+@c    You know the song, perhaps?'
+
+@c      `I've heard something like it,' said Alice.
+
+@c      `It goes on, you know,' the Hatter continued, `in this way:--
+
+@c                "Up above the world you fly,
+@c                Like a tea-tray in the sky.
+@c                        Twinkle, twinkle--"'
+
+@c    Here the Dormouse shook itself, and began singing in its sleep
+@c    `Twinkle, twinkle, twinkle, twinkle--' and went on so long that
+@c    they had to pinch it to make it stop.
+
+@c      `Well, I'd hardly finished the first verse,' said the Hatter,
+@c    `when the Queen jumped up and bawled out, "He's murdering the
+@c    time!  Off with his head!"'
+
+@c      `How dreadfully savage!' exclaimed Alice.
+
+@c      `And ever since that,' the Hatter went on in a mournful tone,
+@c    `he won't do a thing I ask!  It's always six o'clock now.'
+
+@c      A bright idea came into Alice's head.  `Is that the reason so
+@c    many tea-things are put out here?' she asked.
+
+@c      `Yes, that's it,' said the Hatter with a sigh:  `it's always
+@c    tea-time, and we've no time to wash the things between whiles.'
+
+@c      `Then you keep moving round, I suppose?' said Alice.
+
+@c      `Exactly so,' said the Hatter:  `as the things get used up.'
+
+@c      `But what happens when you come to the beginning again?' Alice
+@c    ventured to ask.
+
+@c      `Suppose we change the subject,' the March Hare interrupted,
+@c    yawning.  `I'm getting tired of this.  I vote the young lady
+@c    tells us a story.'
+
+@c      `I'm afraid I don't know one,' said Alice, rather alarmed at
+@c    the proposal.
+
+@c      `Then the Dormouse shall!' they both cried.  `Wake up,
+@c    Dormouse!'  And they pinched it on both sides at once.
+
+@c      The Dormouse slowly opened his eyes.  `I wasn't asleep,' he
+@c    said in a hoarse, feeble voice:  `I heard every word you fellows
+@c    were saying.'
+
+@c      `Tell us a story!' said the March Hare.
+
+@c      `Yes, please do!' pleaded Alice.
+
+@c      `And be quick about it,' added the Hatter, `or you'll be asleep
+@c    again before it's done.'
+
+@c      `Once upon a time there were three little sisters,' the
+@c    Dormouse began in a great hurry; `and their names were Elsie,
+@c    Lacie, and Tillie; and they lived at the bottom of a well--'
+
+@c      `What did they live on?' said Alice, who always took a great
+@c    interest in questions of eating and drinking.
+
+@c      `They lived on treacle,' said the Dormouse, after thinking a
+@c    minute or two.
+
+@c      `They couldn't have done that, you know,' Alice gently
+@c    remarked; `they'd have been ill.'
+
+@c      `So they were,' said the Dormouse; `VERY ill.'
+
+@c      Alice tried to fancy to herself what such an extraordinary ways
+@c    of living would be like, but it puzzled her too much, so she went
+@c    on:  `But why did they live at the bottom of a well?'
+
+@c      `Take some more tea,' the March Hare said to Alice, very
+@c    earnestly.
+
+@c      `I've had nothing yet,' Alice replied in an offended tone, `so
+@c    I can't take more.'
+
+@c      `You mean you can't take LESS,' said the Hatter:  `it's very
+@c    easy to take MORE than nothing.'
+
+@c      `Nobody asked YOUR opinion,' said Alice.
+
+@c      `Who's making personal remarks now?' the Hatter asked
+@c    triumphantly.
+
+@c      Alice did not quite know what to say to this:  so she helped
+@c    herself to some tea and bread-and-butter, and then turned to the
+@c    Dormouse, and repeated her question.  `Why did they live at the
+@c    bottom of a well?'
+
+@c      The Dormouse again took a minute or two to think about it, and
+@c    then said, `It was a treacle-well.'
+
+@c      `There's no such thing!'  Alice was beginning very angrily, but
+@c    the Hatter and the March Hare went `Sh! sh!' and the Dormouse
+@c    sulkily remarked, `If you can't be civil, you'd better finish the
+@c    story for yourself.'
+
+@c      `No, please go on!' Alice said very humbly; `I won't interrupt
+@c    again.  I dare say there may be ONE.'
+
+@c      `One, indeed!' said the Dormouse indignantly.  However, he
+@c    consented to go on.  `And so these three little sisters--they
+@c    were learning to draw, you know--'
+
+@c      `What did they draw?' said Alice, quite forgetting her promise.
+
+@c      `Treacle,' said the Dormouse, without considering at all this
+@c    time.
+
+@c      `I want a clean cup,' interrupted the Hatter:  `let's all move
+@c    one place on.'
+
+@c      He moved on as he spoke, and the Dormouse followed him:  the
+@c    March Hare moved into the Dormouse's place, and Alice rather
+@c    unwillingly took the place of the March Hare.  The Hatter was the
+@c    only one who got any advantage from the change:  and Alice was a
+@c    good deal worse off than before, as the March Hare had just upset
+@c    the milk-jug into his plate.
+
+@c      Alice did not wish to offend the Dormouse again, so she began
+@c    very cautiously:  `But I don't understand.  Where did they draw
+@c    the treacle from?'
+
+@c      `You can draw water out of a water-well,' said the Hatter; `so
+@c    I should think you could draw treacle out of a treacle-well--eh,
+@c    stupid?'
+
+@c      `But they were IN the well,' Alice said to the Dormouse, not
+@c    choosing to notice this last remark.
+
+@c      `Of course they were', said the Dormouse; `--well in.'
+
+@c      This answer so confused poor Alice, that she let the Dormouse
+@c    go on for some time without interrupting it.
+
+@c      `They were learning to draw,' the Dormouse went on, yawning and
+@c    rubbing its eyes, for it was getting very sleepy; `and they drew
+@c    all manner of things--everything that begins with an M--'
+
+@c      `Why with an M?' said Alice.
+
+@c      `Why not?' said the March Hare.
+
+@c      Alice was silent.
+
+@c      The Dormouse had closed its eyes by this time, and was going
+@c    off into a doze; but, on being pinched by the Hatter, it woke up
+@c    again with a little shriek, and went on:  `--that begins with an
+@c    M, such as mouse-traps, and the moon, and memory, and muchness--
+@c    you know you say things are "much of a muchness"--did you ever
+@c    see such a thing as a drawing of a muchness?'
+
+@c      `Really, now you ask me,' said Alice, very much confused, `I
+@c    don't think--'
+
+@c      `Then you shouldn't talk,' said the Hatter.
+
+@c      This piece of rudeness was more than Alice could bear:  she got
+@c    up in great disgust, and walked off; the Dormouse fell asleep
+@c    instantly, and neither of the others took the least notice of her
+@c    going, though she looked back once or twice, half hoping that
+@c    they would call after her:  the last time she saw them, they were
+@c    trying to put the Dormouse into the teapot.
+
+@c      `At any rate I'll never go THERE again!' said Alice as she
+@c    picked her way through the wood.  `It's the stupidest tea-party I
+@c    ever was at in all my life!'
+
+@c      Just as she said this, she noticed that one of the trees had a
+@c    door leading right into it.  `That's very curious!' she thought.
+@c    `But everything's curious today.  I think I may as well go in at once.'
+@c    And in she went.
+
+@c      Once more she found herself in the long hall, and close to the
+@c    little glass table.  `Now, I'll manage better this time,'
+@c    she said to herself, and began by taking the little golden key,
+@c    and unlocking the door that led into the garden.  Then she went
+@c    to work nibbling at the mushroom (she had kept a piece of it
+@c    in her pocket) till she was about a foot high:  then she walked down
+@c    the little passage:  and THEN--she found herself at last in the
+@c    beautiful garden, among the bright flower-beds and the cool fountains.

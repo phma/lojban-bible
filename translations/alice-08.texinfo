@@ -1,0 +1,325 @@
+@node    bimo'o, somo'o, zemo'o, Top
+@chapter bimo'o [The Queen's Croquet-Ground]
+
+
+@c                              CHAPTER VIII
+
+@c                       The Queen's Croquet-Ground
+
+
+@c      A large rose-tree stood near the entrance of the garden:  the
+@c    roses growing on it were white, but there were three gardeners at
+@c    it, busily painting them red.  Alice thought this a very curious
+@c    thing, and she went nearer to watch them, and just as she came up
+@c    to them she heard one of them say, `Look out now, Five!  Don't go
+@c    splashing paint over me like that!'
+
+@c      `I couldn't help it,' said Five, in a sulky tone; `Seven jogged
+@c    my elbow.'
+
+@c      On which Seven looked up and said, `That's right, Five!  Always
+@c    lay the blame on others!'
+
+@c      `YOU'D better not talk!' said Five.  `I heard the Queen say only
+@c    yesterday you deserved to be beheaded!'
+
+@c      `What for?' said the one who had spoken first.
+
+@c      `That's none of YOUR business, Two!' said Seven.
+
+@c      `Yes, it IS his business!' said Five, `and I'll tell him--it
+@c    was for bringing the cook tulip-roots instead of onions.'
+
+@c      Seven flung down his brush, and had just begun `Well, of all
+@c    the unjust things--' when his eye chanced to fall upon Alice, as
+@c    she stood watching them, and he checked himself suddenly:  the
+@c    others looked round also, and all of them bowed low.
+
+@c      `Would you tell me,' said Alice, a little timidly, `why you are
+@c    painting those roses?'
+
+@c      Five and Seven said nothing, but looked at Two.  Two began in a
+@c    low voice, `Why the fact is, you see, Miss, this here ought to
+@c    have been a RED rose-tree, and we put a white one in by mistake;
+@c    and if the Queen was to find it out, we should all have our heads
+@c    cut off, you know.  So you see, Miss, we're doing our best, afore
+@c    she comes, to--'  At this moment Five, who had been anxiously
+@c    looking across the garden, called out `The Queen!  The Queen!'
+@c    and the three gardeners instantly threw themselves flat upon
+@c    their faces.  There was a sound of many footsteps, and Alice
+@c    looked round, eager to see the Queen.
+
+@c      First came ten soldiers carrying clubs; these were all shaped
+@c    like the three gardeners, oblong and flat, with their hands and
+@c    feet at the corners:  next the ten courtiers; these were
+@c    ornamented all over with diamonds, and walked two and two, as the
+@c    soldiers did.  After these came the royal children; there were
+@c    ten of them, and the little dears came jumping merrily along hand
+@c    in hand, in couples:  they were all ornamented with hearts.  Next
+@c    came the guests, mostly Kings and Queens, and among them Alice
+@c    recognised the White Rabbit:  it was talking in a hurried nervous
+@c    manner, smiling at everything that was said, and went by without
+@c    noticing her.  Then followed the Knave of Hearts, carrying the
+@c    King's crown on a crimson velvet cushion; and, last of all this
+@c    grand procession, came THE KING AND QUEEN OF HEARTS.
+
+@c      Alice was rather doubtful whether she ought not to lie down on
+@c    her face like the three gardeners, but she could not remember
+@c    ever having heard of such a rule at processions; `and besides,
+@c    what would be the use of a procession,' thought she, `if people
+@c    had all to lie down upon their faces, so that they couldn't see it?'
+@c    So she stood still where she was, and waited.
+
+@c      When the procession came opposite to Alice, they all stopped
+@c    and looked at her, and the Queen said severely `Who is this?'
+@c    She said it to the Knave of Hearts, who only bowed and smiled in reply.
+
+@c      `Idiot!' said the Queen, tossing her head impatiently; and,
+@c    turning to Alice, she went on, `What's your name, child?'
+
+@c      `My name is Alice, so please your Majesty,' said Alice very
+@c    politely; but she added, to herself, `Why, they're only a pack of
+@c    cards, after all.  I needn't be afraid of them!'
+
+@c      `And who are THESE?' said the Queen, pointing to the three
+@c    gardeners who were lying round the rosetree; for, you see, as
+@c    they were lying on their faces, and the pattern on their backs
+@c    was the same as the rest of the pack, she could not tell whether
+@c    they were gardeners, or soldiers, or courtiers, or three of her
+@c    own children.
+
+@c      `How should I know?' said Alice, surprised at her own courage.
+@c    `It's no business of MINE.'
+
+@c      The Queen turned crimson with fury, and, after glaring at her
+@c    for a moment like a wild beast, screamed `Off with her head!
+@c    Off--'
+
+@c      `Nonsense!' said Alice, very loudly and decidedly, and the
+@c    Queen was silent.
+
+@c      The King laid his hand upon her arm, and timidly said
+@c    `Consider, my dear:  she is only a child!'
+
+@c      The Queen turned angrily away from him, and said to the Knave
+@c    `Turn them over!'
+
+@c      The Knave did so, very carefully, with one foot.
+
+@c      `Get up!' said the Queen, in a shrill, loud voice, and the
+@c    three gardeners instantly jumped up, and began bowing to the
+@c    King, the Queen, the royal children, and everybody else.
+
+@c      `Leave off that!' screamed the Queen.  `You make me giddy.'
+@c    And then, turning to the rose-tree, she went on, `What HAVE you
+@c    been doing here?'
+
+@c      `May it please your Majesty,' said Two, in a very humble tone,
+@c    going down on one knee as he spoke, `we were trying--'
+
+@c      `I see!' said the Queen, who had meanwhile been examining the
+@c    roses.  `Off with their heads!' and the procession moved on,
+@c    three of the soldiers remaining behind to execute the unfortunate
+@c    gardeners, who ran to Alice for protection.
+
+@c      `You shan't be beheaded!' said Alice, and she put them into a
+@c    large flower-pot that stood near.  The three soldiers wandered
+@c    about for a minute or two, looking for them, and then quietly
+@c    marched off after the others.
+
+@c      `Are their heads off?' shouted the Queen.
+
+@c      `Their heads are gone, if it please your Majesty!' the soldiers
+@c    shouted in reply.
+
+@c      `That's right!' shouted the Queen.  `Can you play croquet?'
+
+@c      The soldiers were silent, and looked at Alice, as the question
+@c    was evidently meant for her.
+
+@c      `Yes!' shouted Alice.
+
+@c      `Come on, then!' roared the Queen, and Alice joined the
+@c    procession, wondering very much what would happen next.
+
+@c      `It's--it's a very fine day!' said a timid voice at her side.
+@c    She was walking by the White Rabbit, who was peeping anxiously
+@c    into her face.
+
+@c      `Very,' said Alice:  `--where's the Duchess?'
+
+@c      `Hush!  Hush!' said the Rabbit in a low, hurried tone.  He
+@c    looked anxiously over his shoulder as he spoke, and then raised
+@c    himself upon tiptoe, put his mouth close to her ear, and
+@c    whispered `She's under sentence of execution.'
+
+@c      `What for?' said Alice.
+
+@c      `Did you say "What a pity!"?' the Rabbit asked.
+
+@c      `No, I didn't,' said Alice:  `I don't think it's at all a pity.
+@c    I said "What for?"'
+
+@c      `She boxed the Queen's ears--' the Rabbit began.  Alice gave a
+@c    little scream of laughter.  `Oh, hush!' the Rabbit whispered in a
+@c    frightened tone.  `The Queen will hear you!  You see, she came
+@c    rather late, and the Queen said--'
+
+@c      `Get to your places!' shouted the Queen in a voice of thunder,
+@c    and people began running about in all directions, tumbling up
+@c    against each other; however, they got settled down in a minute or
+@c    two, and the game began.  Alice thought she had never seen such a
+@c    curious croquet-ground in her life; it was all ridges and
+@c    furrows; the balls were live hedgehogs, the mallets live
+@c    flamingoes, and the soldiers had to double themselves up and to
+@c    stand on their hands and feet, to make the arches.
+
+@c      The chief difficulty Alice found at first was in managing her
+@c    flamingo:  she succeeded in getting its body tucked away,
+@c    comfortably enough, under her arm, with its legs hanging down,
+@c    but generally, just as she had got its neck nicely straightened
+@c    out, and was going to give the hedgehog a blow with its head, it
+@c    WOULD twist itself round and look up in her face, with such a
+@c    puzzled expression that she could not help bursting out laughing:
+@c    and when she had got its head down, and was going to begin again,
+@c    it was very provoking to find that the hedgehog had unrolled
+@c    itself, and was in the act of crawling away:  besides all this,
+@c    there was generally a ridge or furrow in the way wherever she
+@c    wanted to send the hedgehog to, and, as the doubled-up soldiers
+@c    were always getting up and walking off to other parts of the
+@c    ground, Alice soon came to the conclusion that it was a very
+@c    difficult game indeed.
+
+@c      The players all played at once without waiting for turns,
+@c    quarrelling all the while, and fighting for the hedgehogs; and in
+@c    a very short time the Queen was in a furious passion, and went
+@c    stamping about, and shouting `Off with his head!' or `Off with
+@c    her head!' about once in a minute.
+
+@c      Alice began to feel very uneasy:  to be sure, she had not as
+@c    yet had any dispute with the Queen, but she knew that it might
+@c    happen any minute, `and then,' thought she, `what would become of
+@c    me?  They're dreadfully fond of beheading people here; the great
+@c    wonder is, that there's any one left alive!'
+
+@c      She was looking about for some way of escape, and wondering
+@c    whether she could get away without being seen, when she noticed a
+@c    curious appearance in the air:  it puzzled her very much at
+@c    first, but, after watching it a minute or two, she made it out to
+@c    be a grin, and she said to herself `It's the Cheshire Cat:  now I
+@c    shall have somebody to talk to.'
+
+@c      `How are you getting on?' said the Cat, as soon as there was
+@c    mouth enough for it to speak with.
+
+@c      Alice waited till the eyes appeared, and then nodded.  `It's no
+@c    use speaking to it,' she thought, `till its ears have come, or at
+@c    least one of them.'  In another minute the whole head appeared,
+@c    and then Alice put down her flamingo, and began an account of the
+@c    game, feeling very glad she had someone to listen to her.  The
+@c    Cat seemed to think that there was enough of it now in sight, and
+@c    no more of it appeared.
+
+@c      `I don't think they play at all fairly,' Alice began, in rather
+@c    a complaining tone, `and they all quarrel so dreadfully one can't
+@c    hear oneself speak--and they don't seem to have any rules in
+@c    particular; at least, if there are, nobody attends to them--and
+@c    you've no idea how confusing it is all the things being alive;
+@c    for instance, there's the arch I've got to go through next
+@c    walking about at the other end of the ground--and I should have
+@c    croqueted the Queen's hedgehog just now, only it ran away when it
+@c    saw mine coming!'
+
+@c      `How do you like the Queen?' said the Cat in a low voice.
+
+@c      `Not at all,' said Alice:  `she's so extremely--'  Just then
+@c    she noticed that the Queen was close behind her, listening:  so
+@c    she went on, `--likely to win, that it's hardly worth while
+@c    finishing the game.'
+
+@c      The Queen smiled and passed on.
+
+@c      `Who ARE you talking to?' said the King, going up to Alice, and
+@c    looking at the Cat's head with great curiosity.
+
+@c      `It's a friend of mine--a Cheshire Cat,' said Alice:  `allow me
+@c    to introduce it.'
+
+@c      `I don't like the look of it at all,' said the King:
+@c    `however, it may kiss my hand if it likes.'
+
+@c      `I'd rather not,' the Cat remarked.
+
+@c      `Don't be impertinent,' said the King, `and don't look at me
+@c    like that!'  He got behind Alice as he spoke.
+
+@c      `A cat may look at a king,' said Alice.  `I've read that in
+@c    some book, but I don't remember where.'
+
+@c      `Well, it must be removed,' said the King very decidedly, and
+@c    he called the Queen, who was passing at the moment, `My dear!  I
+@c    wish you would have this cat removed!'
+
+@c      The Queen had only one way of settling all difficulties, great
+@c    or small.  `Off with his head!' she said, without even looking
+@c    round.
+
+@c      `I'll fetch the executioner myself,' said the King eagerly, and
+@c    he hurried off.
+
+@c      Alice thought she might as well go back, and see how the game
+@c    was going on, as she heard the Queen's voice in the distance,
+@c    screaming with passion.  She had already heard her sentence three
+@c    of the players to be executed for having missed their turns, and
+@c    she did not like the look of things at all, as the game was in
+@c    such confusion that she never knew whether it was her turn or
+@c    not.  So she went in search of her hedgehog.
+
+@c      The hedgehog was engaged in a fight with another hedgehog,
+@c    which seemed to Alice an excellent opportunity for croqueting one
+@c    of them with the other:  the only difficulty was, that her
+@c    flamingo was gone across to the other side of the garden, where
+@c    Alice could see it trying in a helpless sort of way to fly up
+@c    into a tree.
+
+@c      By the time she had caught the flamingo and brought it back,
+@c    the fight was over, and both the hedgehogs were out of sight:
+@c    `but it doesn't matter much,' thought Alice, `as all the arches
+@c    are gone from this side of the ground.'  So she tucked it away
+@c    under her arm, that it might not escape again, and went back for
+@c    a little more conversation with her friend.
+
+@c      When she got back to the Cheshire Cat, she was surprised to
+@c    find quite a large crowd collected round it:  there was a dispute
+@c    going on between the executioner, the King, and the Queen, who
+@c    were all talking at once, while all the rest were quite silent,
+@c    and looked very uncomfortable.
+
+@c      The moment Alice appeared, she was appealed to by all three to
+@c    settle the question, and they repeated their arguments to her,
+@c    though, as they all spoke at once, she found it very hard indeed
+@c    to make out exactly what they said.
+
+@c      The executioner's argument was, that you couldn't cut off a
+@c    head unless there was a body to cut it off from:  that he had
+@c    never had to do such a thing before, and he wasn't going to begin
+@c    at HIS time of life.
+
+@c      The King's argument was, that anything that had a head could be
+@c    beheaded, and that you weren't to talk nonsense.
+
+@c      The Queen's argument was, that if something wasn't done about
+@c    it in less than no time she'd have everybody executed, all round.
+@c    (It was this last remark that had made the whole party look so
+@c    grave and anxious.)
+
+@c      Alice could think of nothing else to say but `It belongs to the
+@c    Duchess:  you'd better ask HER about it.'
+
+@c      `She's in prison,' the Queen said to the executioner:  `fetch
+@c    her here.'  And the executioner went off like an arrow.
+
+@c       The Cat's head began fading away the moment he was gone, and,
+@c    by the time he had come back with the Dutchess, it had entirely
+@c    disappeared; so the King and the executioner ran wildly up and down
+@c    looking for it, while the rest of the party went back to the game.

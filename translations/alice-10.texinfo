@@ -1,0 +1,330 @@
+@node    panomo'o, papamo'o, somo'o, Top
+@chapter panomo'o [The Lobster Quadrille]
+
+
+@c                                CHAPTER X
+
+@c                          The Lobster Quadrille
+
+
+@c      The Mock Turtle sighed deeply, and drew the back of one flapper
+@c    across his eyes.  He looked at Alice, and tried to speak, but for
+@c    a minute or two sobs choked his voice.  `Same as if he had a bone
+@c    in his throat,' said the Gryphon:  and it set to work shaking him
+@c    and punching him in the back.  At last the Mock Turtle recovered
+@c    his voice, and, with tears running down his cheeks, he went on
+@c    again:--
+
+@c      `You may not have lived much under the sea--' (`I haven't,' said Alice)--
+@c    `and perhaps you were never even introduced to a lobster--'
+@c    (Alice began to say `I once tasted--' but checked herself hastily,
+@c    and said `No, never') `--so you can have no idea what a delightful
+@c    thing a Lobster Quadrille is!'
+
+@c      `No, indeed,' said Alice.  `What sort of a dance is it?'
+
+@c      `Why,' said the Gryphon, `you first form into a line along the sea-shore--'
+
+@c      `Two lines!' cried the Mock Turtle.  `Seals, turtles, salmon, and so on;
+@c    then, when you've cleared all the jelly-fish out of the way--'
+
+@c      `THAT generally takes some time,' interrupted the Gryphon.
+
+@c      `--you advance twice--'
+
+@c      `Each with a lobster as a partner!' cried the Gryphon.
+
+@c      `Of course,' the Mock Turtle said:  `advance twice, set to
+@c    partners--'
+
+@c      `--change lobsters, and retire in same order,' continued the
+@c    Gryphon.
+
+@c      `Then, you know,' the Mock Turtle went on, `you throw the--'
+
+@c      `The lobsters!' shouted the Gryphon, with a bound into the air.
+
+@c      `--as far out to sea as you can--'
+
+@c      `Swim after them!' screamed the Gryphon.
+
+@c      `Turn a somersault in the sea!' cried the Mock Turtle,
+@c    capering wildly about.
+
+@c      `Change lobster's again!' yelled the Gryphon at the top of its voice.
+
+@c      `Back to land again, and that's all the first figure,' said the
+@c    Mock Turtle, suddenly dropping his voice; and the two creatures,
+@c    who had been jumping about like mad things all this time, sat
+@c    down again very sadly and quietly, and looked at Alice.
+
+@c      `It must be a very pretty dance,' said Alice timidly.
+
+@c      `Would you like to see a little of it?' said the Mock Turtle.
+
+@c      `Very much indeed,' said Alice.
+
+@c      `Come, let's try the first figure!' said the Mock Turtle to the
+@c    Gryphon.  `We can do without lobsters, you know.  Which shall
+@c    sing?'
+
+@c      `Oh, YOU sing,' said the Gryphon.  `I've forgotten the words.'
+
+@c      So they began solemnly dancing round and round Alice, every now
+@c    and then treading on her toes when they passed too close, and
+@c    waving their forepaws to mark the time, while the Mock Turtle
+@c    sang this, very slowly and sadly:--
+
+
+@c    `"Will you walk a little faster?" said a whiting to a snail.
+@c    "There's a porpoise close behind us, and he's treading on my
+@c     tail.
+@c    See how eagerly the lobsters and the turtles all advance!
+@c    They are waiting on the shingle--will you come and join the
+@c    dance?
+
+@c    Will you, won't you, will you, won't you, will you join the
+@c    dance?
+@c    Will you, won't you, will you, won't you, won't you join the
+@c    dance?
+
+
+@c    "You can really have no notion how delightful it will be
+@c    When they take us up and throw us, with the lobsters, out to
+@c                                                          sea!"
+@c    But the snail replied "Too far, too far!" and gave a look
+@c                                                           askance--
+@c    Said he thanked the whiting kindly, but he would not join the
+@c       dance.
+@c        Would not, could not, would not, could not, would not join
+@c            the dance.
+@c        Would not, could not, would not, could not, could not join
+@c            the dance.
+
+@c    `"What matters it how far we go?" his scaly friend replied.
+@c    "There is another shore, you know, upon the other side.
+@c    The further off from England the nearer is to France--
+@c    Then turn not pale, beloved snail, but come and join the dance.
+
+@c        Will you, won't you, will you, won't you, will you join the
+@c             dance?
+@c        Will you, won't you, will you, won't you, won't you join the
+@c             dance?"'
+
+
+
+@c      `Thank you, it's a very interesting dance to watch,' said
+@c    Alice, feeling very glad that it was over at last:  `and I do so
+@c    like that curious song about the whiting!'
+
+@c      `Oh, as to the whiting,' said the Mock Turtle, `they--you've
+@c    seen them, of course?'
+
+@c      `Yes,' said Alice, `I've often seen them at dinn--' she
+@c    checked herself hastily.
+
+@c      `I don't know where Dinn may be,' said the Mock Turtle, `but
+@c    if you've seen them so often, of course you know what they're
+@c    like.'
+
+@c      `I believe so,' Alice replied thoughtfully.  `They have their
+@c    tails in their mouths--and they're all over crumbs.'
+
+@c      `You're wrong about the crumbs,' said the Mock Turtle:
+@c    `crumbs would all wash off in the sea.  But they HAVE their tails
+@c    in their mouths; and the reason is--' here the Mock Turtle
+@c    yawned and shut his eyes.--`Tell her about the reason and all
+@c    that,' he said to the Gryphon.
+
+@c      `The reason is,' said the Gryphon, `that they WOULD go with
+@c    the lobsters to the dance.  So they got thrown out to sea.  So
+@c    they had to fall a long way.  So they got their tails fast in
+@c    their mouths.  So they couldn't get them out again.  That's all.'
+
+@c      `Thank you,' said Alice, `it's very interesting.  I never knew
+@c    so much about a whiting before.'
+
+@c      `I can tell you more than that, if you like,' said the
+@c    Gryphon.  `Do you know why it's called a whiting?'
+
+@c      `I never thought about it,' said Alice.  `Why?'
+
+@c      `IT DOES THE BOOTS AND SHOES.' the Gryphon replied very
+@c    solemnly.
+
+@c      Alice was thoroughly puzzled.  `Does the boots and shoes!' she
+@c    repeated in a wondering tone.
+
+@c      `Why, what are YOUR shoes done with?' said the Gryphon.  `I
+@c    mean, what makes them so shiny?'
+
+@c      Alice looked down at them, and considered a little before she
+@c    gave her answer.  `They're done with blacking, I believe.'
+
+@c      `Boots and shoes under the sea,' the Gryphon went on in a deep
+@c    voice, `are done with a whiting.  Now you know.'
+
+@c      `And what are they made of?' Alice asked in a tone of great
+@c    curiosity.
+
+@c      `Soles and eels, of course,' the Gryphon replied rather
+@c    impatiently:  `any shrimp could have told you that.'
+
+@c      `If I'd been the whiting,' said Alice, whose thoughts were
+@c    still running on the song, `I'd have said to the porpoise, "Keep
+@c    back, please:  we don't want YOU with us!"'
+
+@c      `They were obliged to have him with them,' the Mock Turtle
+@c    said:  `no wise fish would go anywhere without a porpoise.'
+
+@c      `Wouldn't it really?' said Alice in a tone of great surprise.
+
+@c      `Of course not,' said the Mock Turtle:  `why, if a fish came
+@c    to ME, and told me he was going a journey, I should say "With
+@c    what porpoise?"'
+
+@c      `Don't you mean "purpose"?' said Alice.
+
+@c      `I mean what I say,' the Mock Turtle replied in an offended
+@c    tone.  And the Gryphon added `Come, let's hear some of YOUR
+@c    adventures.'
+
+@c      `I could tell you my adventures--beginning from this morning,'
+@c    said Alice a little timidly:  `but it's no use going back to
+@c    yesterday, because I was a different person then.'
+
+@c      `Explain all that,' said the Mock Turtle.
+
+@c      `No, no!  The adventures first,' said the Gryphon in an
+@c    impatient tone:  `explanations take such a dreadful time.'
+
+@c      So Alice began telling them her adventures from the time when
+@c    she first saw the White Rabbit.  She was a little nervous about
+@c    it just at first, the two creatures got so close to her, one on
+@c    each side, and opened their eyes and mouths so VERY wide, but she
+@c    gained courage as she went on.  Her listeners were perfectly
+@c    quiet till she got to the part about her repeating `YOU ARE OLD,
+@c    FATHER WILLIAM,' to the Caterpillar, and the words all coming
+@c    different, and then the Mock Turtle drew a long breath, and said
+@c    `That's very curious.'
+
+@c      `It's all about as curious as it can be,' said the Gryphon.
+
+@c      `It all came different!' the Mock Turtle repeated
+@c    thoughtfully.  `I should like to hear her try and repeat
+@c    something now.  Tell her to begin.'  He looked at the Gryphon as
+@c    if he thought it had some kind of authority over Alice.
+
+@c      `Stand up and repeat "'TIS THE VOICE OF THE SLUGGARD,"' said
+@c    the Gryphon.
+
+@c      `How the creatures order one about, and make one repeat
+@c    lessons!' thought Alice; `I might as well be at school at once.'
+@c    However, she got up, and began to repeat it, but her head was so
+@c    full of the Lobster Quadrille, that she hardly knew what she was
+@c    saying, and the words came very queer indeed:--
+
+@c        `'Tis the voice of the Lobster; I heard him declare,
+@c        "You have baked me too brown, I must sugar my hair."
+@c        As a duck with its eyelids, so he with his nose
+@c        Trims his belt and his buttons, and turns out his toes.'
+
+@c                  [later editions continued as follows
+@c        When the sands are all dry, he is gay as a lark,
+@c        And will talk in contemptuous tones of the Shark,
+@c        But, when the tide rises and sharks are around,
+@c        His voice has a timid and tremulous sound.]
+
+@c      `That's different from what I used to say when I was a child,'
+@c    said the Gryphon.
+
+@c      `Well, I never heard it before,' said the Mock Turtle; `but it
+@c    sounds uncommon nonsense.'
+
+@c      Alice said nothing; she had sat down with her face in her
+@c    hands, wondering if anything would EVER happen in a natural way
+@c    again.
+
+@c      `I should like to have it explained,' said the Mock Turtle.
+
+@c      `She can't explain it,' said the Gryphon hastily.  `Go on with
+@c    the next verse.'
+
+@c      `But about his toes?' the Mock Turtle persisted.  `How COULD
+@c    he turn them out with his nose, you know?'
+
+@c      `It's the first position in dancing.' Alice said; but was
+@c    dreadfully puzzled by the whole thing, and longed to change the
+@c    subject.
+
+@c      `Go on with the next verse,' the Gryphon repeated impatiently:
+@c    `it begins "I passed by his garden."'
+
+@c      Alice did not dare to disobey, though she felt sure it would
+@c    all come wrong, and she went on in a trembling voice:--
+
+@c        `I passed by his garden, and marked, with one eye,
+@c        How the Owl and the Panther were sharing a pie--'
+
+@c            [later editions continued as follows
+@c        The Panther took pie-crust, and gravy, and meat,
+@c        While the Owl had the dish as its share of the treat.
+@c        When the pie was all finished, the Owl, as a boon,
+@c        Was kindly permitted to pocket the spoon:
+@c        While the Panther received knife and fork with a growl,
+@c        And concluded the banquet--]
+
+@c      `What IS the use of repeating all that stuff,' the Mock Turtle
+@c    interrupted, `if you don't explain it as you go on?  It's by far
+@c    the most confusing thing I ever heard!'
+
+@c      `Yes, I think you'd better leave off,' said the Gryphon:  and
+@c    Alice was only too glad to do so.
+
+@c      `Shall we try another figure of the Lobster Quadrille?' the
+@c    Gryphon went on.  `Or would you like the Mock Turtle to sing you
+@c    a song?'
+
+@c      `Oh, a song, please, if the Mock Turtle would be so kind,'
+@c    Alice replied, so eagerly that the Gryphon said, in a rather
+@c    offended tone, `Hm!  No accounting for tastes!  Sing her
+@c    "Turtle Soup," will you, old fellow?'
+
+@c      The Mock Turtle sighed deeply, and began, in a voice sometimes
+@c    choked with sobs, to sing this:--
+
+
+@c        `Beautiful Soup, so rich and green,
+@c        Waiting in a hot tureen!
+@c        Who for such dainties would not stoop?
+@c        Soup of the evening, beautiful Soup!
+@c        Soup of the evening, beautiful Soup!
+@c            Beau--ootiful Soo--oop!
+@c            Beau--ootiful Soo--oop!
+@c        Soo--oop of the e--e--evening,
+@c            Beautiful, beautiful Soup!
+
+@c        `Beautiful Soup!  Who cares for fish,
+@c        Game, or any other dish?
+@c        Who would not give all else for two
+@c        Pennyworth only of beautiful Soup?
+@c        Pennyworth only of beautiful Soup?
+@c            Beau--ootiful Soo--oop!
+@c            Beau--ootiful Soo--oop!
+@c        Soo--oop of the e--e--evening,
+@c            Beautiful, beauti--FUL SOUP!'
+
+@c      `Chorus again!' cried the Gryphon, and the Mock Turtle had
+@c    just begun to repeat it, when a cry of `The trial's beginning!'
+@c    was heard in the distance.
+
+@c      `Come on!' cried the Gryphon, and, taking Alice by the hand,
+@c    it hurried off, without waiting for the end of the song.
+
+@c      `What trial is it?' Alice panted as she ran; but the Gryphon
+@c    only answered `Come on!' and ran the faster, while more and more
+@c    faintly came, carried on the breeze that followed them, the
+@c    melancholy words:--
+
+@c        `Soo--oop of the e--e--evening,
+@c            Beautiful, beautiful Soup!'

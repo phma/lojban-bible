@@ -1,0 +1,226 @@
+@node    remo'o, cimo'o, pamo'o, Top
+@chapter remo'o The Pool of Tears
+
+@c                               CHAPTER II
+
+@c                            The Pool of Tears
+
+
+@c      `Curiouser and curiouser!' cried Alice (she was so much
+@c    surprised, that for the moment she quite forgot how to speak good
+@c    English); `now I'm opening out like the largest telescope that
+@c    ever was!  Good-bye, feet!' (for when she looked down at her
+@c    feet, they seemed to be almost out of sight, they were getting so
+@c    far off).  `Oh, my poor little feet, I wonder who will put on
+@c    your shoes and stockings for you now, dears?  I'm sure _I_ shan't
+@c    be able!  I shall be a great deal too far off to trouble myself
+@c    about you:  you must manage the best way you can; --but I must be
+@c    kind to them,' thought Alice, `or perhaps they won't walk the
+@c    way I want to go!  Let me see:  I'll give them a new pair of
+@c    boots every Christmas.'
+
+@c      And she went on planning to herself how she would manage it.
+@c    `They must go by the carrier,' she thought; `and how funny it'll
+@c    seem, sending presents to one's own feet!  And how odd the
+@c    directions will look!
+
+@c    @format
+@c                ALICE'S RIGHT FOOT, ESQ.
+@c                    HEARTHRUG,
+@c                        NEAR THE FENDER,
+@c                            (WITH ALICE'S LOVE).
+@c    @end format
+
+@c    Oh dear, what nonsense I'm talking!'
+
+@c      Just then her head struck against the roof of the hall:  in
+@c    fact she was now more than nine feet high, and she at once took
+@c    up the little golden key and hurried off to the garden door.
+
+@c      Poor Alice!  It was as much as she could do, lying down on one
+@c    side, to look through into the garden with one eye; but to get
+@c    through was more hopeless than ever:  she sat down and began to
+@c    cry again.
+
+@c      `You ought to be ashamed of yourself,' said Alice, `a great
+@c    girl like you,' (she might well say this), `to go on crying in
+@c    this way!  Stop this moment, I tell you!'  But she went on all
+@c    the same, shedding gallons of tears, until there was a large pool
+@c    all round her, about four inches deep and reaching half down the
+@c    hall.
+
+@c      After a time she heard a little pattering of feet in the
+@c    distance, and she hastily dried her eyes to see what was coming.
+@c    It was the White Rabbit returning, splendidly dressed, with a
+@c    pair of white kid gloves in one hand and a large fan in the
+@c    other:  he came trotting along in a great hurry, muttering to
+@c    himself as he came, `Oh! the Duchess, the Duchess! Oh! won't she
+@c    be savage if I've kept her waiting!'  Alice felt so desperate
+@c    that she was ready to ask help of any one; so, when the Rabbit
+@c    came near her, she began, in a low, timid voice, `If you please,
+@c    sir--'  The Rabbit started violently, dropped the white kid
+@c    gloves and the fan, and skurried away into the darkness as hard
+@c    as he could go.
+
+@c      Alice took up the fan and gloves, and, as the hall was very
+@c    hot, she kept fanning herself all the time she went on talking:
+@c    `Dear, dear!  How queer everything is to-day!  And yesterday
+@c    things went on just as usual.  I wonder if I've been changed in
+@c    the night?  Let me think:  was I the same when I got up this
+@c    morning?  I almost think I can remember feeling a little
+@c    different.  But if I'm not the same, the next question is, Who in
+@c    the world am I?  Ah, THAT'S the great puzzle!'  And she began
+@c    thinking over all the children she knew that were of the same age
+@c    as herself, to see if she could have been changed for any of
+@c    them.
+
+@c      `I'm sure I'm not Ada,' she said, `for her hair goes in such
+@c    long ringlets, and mine doesn't go in ringlets at all; and I'm
+@c    sure I can't be Mabel, for I know all sorts of things, and she,
+@c    oh! she knows such a very little!  Besides, SHE'S she, and I'm I,
+@c    and--oh dear, how puzzling it all is!  I'll try if I know all the
+@c    things I used to know.  Let me see:  four times five is twelve,
+@c    and four times six is thirteen, and four times seven is--oh dear!
+@c    I shall never get to twenty at that rate!  However, the
+@c    Multiplication Table doesn't signify:  let's try Geography.
+@c    London is the capital of Paris, and Paris is the capital of Rome,
+@c    and Rome--no, THAT'S all wrong, I'm certain!  I must have been
+@c    changed for Mabel!  I'll try and say "How doth the little--"'
+@c    and she crossed her hands on her lap as if she were saying lessons,
+@c    and began to repeat it, but her voice sounded hoarse and
+@c    strange, and the words did not come the same as they used to do:--
+
+@c                `How doth the little crocodile
+@c                  Improve his shining tail,
+@c                And pour the waters of the Nile
+@c                  On every golden scale!
+
+@c                `How cheerfully he seems to grin,
+@c                  How neatly spread his claws,
+@c                And welcome little fishes in
+@c                  With gently smiling jaws!'
+
+@c      `I'm sure those are not the right words,' said poor Alice, and
+@c    her eyes filled with tears again as she went on, `I must be Mabel
+@c    after all, and I shall have to go and live in that poky little
+@c    house, and have next to no toys to play with, and oh! ever so
+@c    many lessons to learn!  No, I've made up my mind about it; if I'm
+@c    Mabel, I'll stay down here!  It'll be no use their putting their
+@c    heads down and saying "Come up again, dear!"  I shall only look
+@c    up and say "Who am I then?  Tell me that first, and then, if I
+@c    like being that person, I'll come up:  if not, I'll stay down
+@c    here till I'm somebody else"--but, oh dear!' cried Alice, with a
+@c    sudden burst of tears, `I do wish they WOULD put their heads
+@c    down!  I am so VERY tired of being all alone here!'
+
+@c      As she said this she looked down at her hands, and was
+@c    surprised to see that she had put on one of the Rabbit's little
+@c    white kid gloves while she was talking.  `How CAN I have done
+@c    that?' she thought.  `I must be growing small again.'  She got up
+@c    and went to the table to measure herself by it, and found that,
+@c    as nearly as she could guess, she was now about two feet high,
+@c    and was going on shrinking rapidly:  she soon found out that the
+@c    cause of this was the fan she was holding, and she dropped it
+@c    hastily, just in time to avoid shrinking away altogether.
+
+@c    `That WAS a narrow escape!' said Alice, a good deal frightened at
+@c    the sudden change, but very glad to find herself still in
+@c    existence; `and now for the garden!' and she ran with all speed
+@c    back to the little door:  but, alas! the little door was shut
+@c    again, and the little golden key was lying on the glass table as
+@c    before, `and things are worse than ever,' thought the poor child,
+@c    `for I never was so small as this before, never!  And I declare
+@c    it's too bad, that it is!'
+
+@c      As she said these words her foot slipped, and in another
+@c    moment, splash! she was up to her chin in salt water.  Her first
+@c    idea was that she had somehow fallen into the sea, `and in that
+@c    case I can go back by railway,' she said to herself.  (Alice had
+@c    been to the seaside once in her life, and had come to the general
+@c    conclusion, that wherever you go to on the English coast you find
+@c    a number of bathing machines in the sea, some children digging in
+@c    the sand with wooden spades, then a row of lodging houses, and
+@c    behind them a railway station.)  However, she soon made out that
+@c    she was in the pool of tears which she had wept when she was nine
+@c    feet high.
+
+@c      `I wish I hadn't cried so much!' said Alice, as she swam about,
+@c    trying to find her way out.  `I shall be punished for it now, I
+@c    suppose, by being drowned in my own tears!  That WILL be a queer
+@c    thing, to be sure!  However, everything is queer to-day.'
+
+@c      Just then she heard something splashing about in the pool a
+@c    little way off, and she swam nearer to make out what it was:  at
+@c    first she thought it must be a walrus or hippopotamus, but then
+@c    she remembered how small she was now, and she soon made out that
+@c    it was only a mouse that had slipped in like herself.
+
+@c      `Would it be of any use, now,' thought Alice, `to speak to this
+@c    mouse?  Everything is so out-of-the-way down here, that I should
+@c    think very likely it can talk:  at any rate, there's no harm in
+@c    trying.'  So she began:  `O Mouse, do you know the way out of
+@c    this pool?  I am very tired of swimming about here, O Mouse!'
+@c    (Alice thought this must be the right way of speaking to a mouse:
+@c    she had never done such a thing before, but she remembered having
+@c    seen in her brother's Latin Grammar, `A mouse--of a mouse--to a
+@c    mouse--a mouse--O mouse!'  The Mouse looked at her rather
+@c    inquisitively, and seemed to her to wink with one of its little
+@c    eyes, but it said nothing.
+
+@c      `Perhaps it doesn't understand English,' thought Alice; `I
+@c    daresay it's a French mouse, come over with William the
+@c    Conqueror.'  (For, with all her knowledge of history, Alice had
+@c    no very clear notion how long ago anything had happened.)  So she
+@c    began again:  `Ou est ma chatte?' which was the first sentence in
+@c    her French lesson-book.  The Mouse gave a sudden leap out of the
+@c    water, and seemed to quiver all over with fright.  `Oh, I beg
+@c    your pardon!' cried Alice hastily, afraid that she had hurt the
+@c    poor animal's feelings.  `I quite forgot you didn't like cats.'
+
+@c      `Not like cats!' cried the Mouse, in a shrill, passionate
+@c    voice.  `Would YOU like cats if you were me?'
+
+@c      `Well, perhaps not,' said Alice in a soothing tone:  `don't be
+@c    angry about it.  And yet I wish I could show you our cat Dinah:
+@c    I think you'd take a fancy to cats if you could only see her.
+@c    She is such a dear quiet thing,' Alice went on, half to herself,
+@c    as she swam lazily about in the pool, `and she sits purring so
+@c    nicely by the fire, licking her paws and washing her face--and
+@c    she is such a nice soft thing to nurse--and she's such a capital
+@c    one for catching mice--oh, I beg your pardon!' cried Alice again,
+@c    for this time the Mouse was bristling all over, and she felt
+@c    certain it must be really offended.  `We won't talk about her any
+@c    more if you'd rather not.'
+
+@c      `We indeed!' cried the Mouse, who was trembling down to the end
+@c    of his tail.  `As if I would talk on such a subject!  Our family
+@c    always HATED cats:  nasty, low, vulgar things!  Don't let me hear
+@c    the name again!'
+
+@c      `I won't indeed!' said Alice, in a great hurry to change the
+@c    subject of conversation.  `Are you--are you fond--of--of dogs?'
+@c    The Mouse did not answer, so Alice went on eagerly:  `There is
+@c    such a nice little dog near our house I should like to show you!
+@c    A little bright-eyed terrier, you know, with oh, such long curly
+@c    brown hair!  And it'll fetch things when you throw them, and
+@c    it'll sit up and beg for its dinner, and all sorts of things--I
+@c    can't remember half of them--and it belongs to a farmer, you
+@c    know, and he says it's so useful, it's worth a hundred pounds!
+@c    He says it kills all the rats and--oh dear!' cried Alice in a
+@c    sorrowful tone, `I'm afraid I've offended it again!'  For the
+@c    Mouse was swimming away from her as hard as it could go, and
+@c    making quite a commotion in the pool as it went.
+
+@c      So she called softly after it, `Mouse dear!  Do come back
+@c    again, and we won't talk about cats or dogs either, if you don't
+@c    like them!'  When the Mouse heard this, it turned round and swam
+@c    slowly back to her:  its face was quite pale (with passion, Alice
+@c    thought), and it said in a low trembling voice, `Let us get to
+@c    the shore, and then I'll tell you my history, and you'll
+@c    understand why it is I hate cats and dogs.'
+
+@c      It was high time to go, for the pool was getting quite crowded
+@c    with the birds and animals that had fallen into it:  there were a
+@c    Duck and a Dodo, a Lory and an Eaglet, and several other curious
+@c    creatures.  Alice led the way, and the whole party swam to the
+@c    shore.
