@@ -268,8 +268,8 @@ mutce lo merlanu li'u
 @c      `I can tell you more than that, if you like,' said the
 @c    Gryphon.  `Do you know why it's called a whiting?'
 
-i lu do'a mi do ka'e tavla lo se jmina sei le cpicinfo i xu do djuno
-le du'u makau krinu le nu zo merlanu my cmene li'u
+i lu do'a mi do ka'e tavla lo se jmina sei le cpicinfo cu cusku i xu 
+do djuno le du'u makau krinu le nu zo labyfi'e cmene le merlanu li'u
 
 @c      `I never thought about it,' said Alice.  `Why?'
 
@@ -278,17 +278,30 @@ i lu mi la'e di'u noroi pensi sei la alis cusku i ma krinu li'u
 @c      `IT DOES THE BOOTS AND SHOES.' the Gryphon replied very
 @c    solemnly.
 
+i lu my kurji lei jufra e lei selsku sei le cpicinfo cu junri spuda li'u
+
 @c      Alice was thoroughly puzzled.  `Does the boots and shoes!' she
 @c    repeated in a wondering tone.
+
+i la alis mulno le ka cfipu i lu uanai kurji lei jufra e lei selsku sei
+abu preti tonga rapsku li'u
 
 @c      `Why, what are YOUR shoes done with?' said the Gryphon.  `I
 @c    mean, what makes them so shiny?'
 
+i lu a'a do ma pilno le nu kurji lei do selsku sei le cpicinfo cu cusku
+i va'i ma cipra le ka gendra li'u
+
 @c      Alice looked down at them, and considered a little before she
 @c    gave her answer.  `They're done with blacking, I believe.'
 
+i la alis ze'a pensi pu le nu danfu i lu la jbofi'e cu go'i pe'i li'u
+
 @c      `Boots and shoes under the sea,' the Gryphon went on in a deep
 @c    voice, `are done with a whiting.  Now you know.'
+
+i lu ie la lobyfi'e i le genra ni'a le xamsi sei le cpicinfo cu di'a
+condi voksa cusku cu se cipra lo labyfi'e i ka'udai li'u 
 
 @c      `And what are they made of?' Alice asked in a tone of great
 @c    curiosity.
@@ -489,21 +502,38 @@ gi'e di'a desku voksa cusku di'e
 @c    interrupted, `if you don't explain it as you go on?  It's by far
 @c    the most confusing thing I ever heard!'
 
+i lu ma prali fi le nu sitsku ro di'u sei le jitfa cakyrespa cu zunti
+va'o le nu do na ca'o ciksi i traji le ka cfipu kei fo lei mi se tirna li'u
+
 @c      `Yes, I think you'd better leave off,' said the Gryphon:  and
 @c    Alice was only too glad to do so.
+
+i lu go'i i pe'i ei sisti sei le cpicinfo li'u i la alis mutce le ka gleki
+le nu tai zukte 
 
 @c      `Shall we try another figure of the Lobster Quadrille?' the
 @c    Gryphon went on.  `Or would you like the Mock Turtle to sing you
 @c    a song?'
 
+i lu e'upei mi'a troci lo drata morna be fi le xasyjukni vonseldansu
+sei le cpicinfo cu di'a co'e iji aupei le jitfa cakyrespa cu sanga da 
+do li'u
+
 @c      `Oh, a song, please, if the Mock Turtle would be so kind,'
 @c    Alice replied, so eagerly that the Gryphon said, in a rather
 @c    offended tone, `Hm!  No accounting for tastes!  Sing her
-@c    "Turtle Soup," will you, old fellow?'
+@c    "Turtle Soup," will you, old fellow?' 
+
+i lu a'e e'o sanga pe'u doi jitfa cakyrespa sei la alis spuda li'u
+i le nu abu tai sutra spuda cu rinka le nu le cpicinfo cu cusku sepi'o
+lo jgicro tonga lu i'a ka'enai jimpe le nu makau da pluka i ko sanga
+lu cakyrespa stasu li'u ta vau aipei doi slabu li'u 
 
 @c      The Mock Turtle sighed deeply, and began, in a voice sometimes
 @c    choked with sobs, to sing this:--
 
+i le jitfa cakyrespa cu condi vruvasxu gi'e co'a sanga di'e sepi'o lo 
+voksa noi so'oroi dicra 
 
 @c        `Beautiful Soup, so rich and green,
 @c        Waiting in a hot tureen!
@@ -515,6 +545,19 @@ gi'e di'a desku voksa cusku di'e
 @c        Soo--oop of the e--e--evening,
 @c            Beautiful, beautiful Soup!
 
+@format
+
+          melbi bo stasu ricfu je crino
+          denpa fi lo vaurcnino
+          i pronalka'e kukselzbasu
+          stasu co vanci melbi bo stasu
+          stasu co vanci melbi bo stasu
+               me--elbi bo sta--asu
+               me--elbi bo sta--asu
+          sta--asu co va--a--anci
+               melbi bo melbi bo stasu
+@end format
+
 @c        `Beautiful Soup!  Who cares for fish,
 @c        Game, or any other dish?
 @c        Who would not give all else for two
@@ -525,17 +568,50 @@ gi'e di'a desku voksa cusku di'e
 @c        Soo--oop of the e--e--evening,
 @c            Beautiful, beauti--FUL SOUP!'
 
+@format
+
+          melbi bo stasu i roda kecti
+          le re'ucti ja fi'ecti
+          i no da xanka le nu ckasu
+          da le nu djica le melbi bo stasu
+          da le nu djica le melbi bo stasu
+               me--elbi bo sta--asu
+               me--elbi bo sta--asu
+          sta--asu co va--a--anci
+               melbi bo melbi -- BO STAsu
+
+@end format
+
 @c      `Chorus again!' cried the Gryphon, and the Mock Turtle had
 @c    just begun to repeat it, when a cry of `The trial's beginning!'
 @c    was heard in the distance.
 
+i lu e'e rapli sei le cpicinfo cu krixa li'u i le jitfa cakyrespa 
+puzi co'a rere'u sanga ca le nu lo selkrixa no'u lu le nunpai cu 
+cfari li'u darno se tirna 
+
 @c      `Come on!' cried the Gryphon, and, taking Alice by the hand,
 @c    it hurried off, without waiting for the end of the song.
+
+i lu e'e sei le cpicinfo cu krixa li'u i cy jgari la alis fo le xance
+gi'e sutra cliva gi'e na denpa le nu mo'u sanga
 
 @c      `What trial is it?' Alice panted as she ran; but the Gryphon
 @c    only answered `Come on!' and ran the faster, while more and more
 @c    faintly came, carried on the breeze that followed them, the
 @c    melancholy words:--
 
+i lu le nunpai cu mo sei la alis vaxyselnandu cusku ca le nu bajra i 
+ku'i le cpicinfo cu spuda lu e'e li'u po'o gi'e sutyze'a bajra ca'o
+le nu bleze'a to se bevri le brife poi jersi vo'a toi fa lei badri 
+valsi po'u di'e
+
 @c        `Soo--oop of the e--e--evening,
 @c            Beautiful, beautiful Soup!'
+
+@format
+
+          sta--asu co va--a--anci
+               melbi bo melbi bo stasu
+
+@end format
