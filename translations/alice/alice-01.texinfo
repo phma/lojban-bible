@@ -196,10 +196,24 @@ loi sudga pezli
 @c    herself in a long, low hall, which was lit up by a row of lamps
 @c    hanging from the roof.
 
+i la alis nasai se xrani gi'e zi sanli fi le jamfu gi'e catlu le gapru
+noi ku'i manku mulno i crane abu fa lo drata ke clani vorme i le blabi 
+ractu cu za'o se viska gi'e sutra le nu litru vy i ei la alis na denpa 
+i abu klama tai tu'a le brife gi'e ja'aru'e snada le nu tirna le nu ry 
+cusku lu oi doi le mi kerlo joi zbikre do'u ca'o binxo lo lerci li'u i
+abu jibni trixe ry ca le nu pagre le kojna iku'i ry ca na za'o se viska
+i abu facki le du'u abu zvati lo clani je dziseldru kumfa noi se gusni
+fi lo se linji noi dandu le drudi
+
 @c      There were doors all round the hall, but they were all locked;
 @c    and when Alice had been all the way down one side and up the
 @c    other, trying every door, she walked sadly down the middle,
 @c    wondering how she was ever to get out again.
+
+i so'i vorme cu sruri le kumfa i ku'i ro vy cu stela ganlo i ca le nu
+la alis ba'o litru le pamoi mlana e le drata gi'e troci tu'a ro vorme
+kei abu badri cadzu bu'u le midju gi'e kucli le du'u ta'i makau abu
+ba za'ure'u bartu
 
 @c      Suddenly she came upon a little three-legged table, all made of
 @c    solid glass; there was nothing on it except a tiny golden key,
@@ -210,6 +224,14 @@ loi sudga pezli
 @c    curtain she had not noticed before, and behind it was a little
 @c    door about fifteen inches high:  she tried the little golden key
 @c    in the lock, and to her great delight it fitted!
+
+ibaziku abu penmi lo cmalu ke cibyseltuple jubme be lo sligu blaci i
+cpana jy fa no na'e bo lo cmatce ke solji ckiku i abu pamoi jinvi le 
+du'u cy ckiku pa le stela be lo kumfa vorme i ku'i uinaidai ga le 
+stela cu dukse la ka barda gi le ckiku cu dukse le ka cmalu iseju
+cy ka'e kargau no sy i ku'i ca le remoi abu penmi lo dizlo murta noi
+abu na pu sanji ke'a i my murta lo cmalu vorme noi mitre li pici i
+abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti  
 
 @c      Alice opened the door and found that it led into a small
 @c    passage, not much larger than a rat-hole:  she knelt down and
