@@ -411,3 +411,45 @@
   ganzu gaz - -  /organisieren/  x1 organisiert x2 [[relatives Chaos] in x3 [[geordnetes/organisiertes Ergebnis] gemäß System/Prinzipien x4
   gapci gac - -  /Gas/  x1 ist gasförmig/Schwaden/Gas/Dampf aus Material/Zusammensatzung unter anderem x2, unter Umständen x3
   gapru gap - -  /über/  x1 ist genau/senkrecht über/oberhalb von x2 in Schwerkraft/Bezugssystem x3
+  garna gar - -  /Schiene/  x1 ist eine Schiene/Reling/Latte/ein Geländer/Balken und stützt/beschränkt x2; aus Material x3
+  gasnu - - gau  /tun/  x1 [[Person/Handelnder] ist die handelnde Ursache für Ereignis x2; x1 tut/verursacht/bewirkt x2; x1 führt x2 herbei
+  gasta gat - -  /Stahl/  x1 ist eine gewisse Menge/besteht aus/enthält Stahl von Zusammensetzung unter anderem x2
+  genja gej - -  /Wurzel/  x1 ist eine Wurzel [[Körperteil] von Pflanze/Spezies x2; [[im übertragenen Sinne: unbeweglich, stützend, nährend]
+  gento get - ge'o  /Argentinier/  x1 repräsentiert argentinische Kultur/Nationalität in Aspekt x2
+  genxu gex - -  /Haken/  x1 ist ein Haken [[Form] aus Material x2
+  gerku ger - ge'u  /Hund/  x1 ist ein Hund von Spezies/Gattung/Art x2
+  gerna gen - ge'a  /Grammatik/  x1 ist die Grammatik/der Regelsatz der Sprache x2 für Struktur/Text x3
+  gidva gid - gi'a  /Führer/  x1 (Person/Objekt/Ereignis) führt/leitet/steuert x2 (aktive Teilnehmer) bei x3 (Ereignis)
+  gigdo gig - gi'o  /1E9/  x1 ist eine Milliarde [[1x10**9] von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+  ginka gik - -  /Lager/  x1 ist ein Lager/Camp/eine temporäre Ansiedlung von x2 an Ort x3
+  girzu gir gri -  /Gruppe/  x1 ist eine Gruppe/ein Haufen/ein Schwarm mit gemeinsamer Eigenschaft (ka) x2 aufgrund von Menge x3 verbunden durch Beziehung x4
+  gismu gim - gi'u  /Stammwort/  x1 ist ein (Lojban-)Stammwort und drückt Beziehung x2 zwischen Argumenten x3 aus, mit Vor-/Nachsilbe(n) x4
+  glare - gla -  /heiß/  x1 ist heiß/warm gemäß Standard x2
+  gleki gek - gei  /glücklich/  x1 ist glücklich/fröhlich/erfreut/froh über x2 (Ereignis/Zustand)
+  gletu let gle -  /kopulieren/  x1 kopuliert mit/paart sich mit/verkehrt sexuell mit/fickt x2
+  glico gic gli -  /Englisch/  x1 ist englisch/betrifft englischsprachige Kultur in Aspekt x2
+  gluta - glu -  /Handschuh/  x1 ist ein Handschuh/Fäustling [[Bekleidung für Hand und Unterarm] aus Material x2
+  gocti goc - -  /1E-24/  x1 ist 1x10**-24 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+  gotro got - -  /1E24/  x1 ist 1x10**24 von x2 in Dimension/Aspekt x3 (Default: Einheiten)
+  gradu - - rau  /Einheit/  x1 [[Größenordnung] ist eine Einheit/ein Grad auf Skala/gemäß Referenzstandard x2 (si'o) und misst Eigenschaft x3
+  grake - gra -  /Gramm/  x1 ist x2 Gramm [[metrische Einheit] an Masse (Default: 1) gemäß Standard x3
+  grana - - ga'a  /Stange/  x1 ist ein Stab/eine Stange/ein Pfahl/ein Stock [[Form] aus Material x2
+  grasu ras - -  /Fett/  x1 ist eine gewisse Menge von/besteht aus/enthält Schmiere/Fett/Öl aus Quelle x2
+  greku rek - -  /Rahmen/  x1 ist ein Rahmen/eine Struktur/ein Skelett und stützt/trägt/gibt die Form für x2 vor
+  grusi rus - -  /grau/  x1 ist grau [[Farbadjektiv]
+  grute rut - -  /Frucht/  x1 ist eine Frucht [[Körperteil] von Spezies/Gattung/Art/Sorte x2
+  gugni gub - -  /öffentlich/  x1 ist öffentlich/offen/nicht versteckt/gehört allen aus Gemeinschaft x2 (Masse)
+  gugde gug - gu'e  /Land/  x1 ist das Land von Völkern x2 mit Gebiet/Ausdehnung x3; (Beziehung zwischen einem Volk und einem Gebiet)
+  gundi gud - -  /Industrie/  x1 ist Industrie/industriell/systematische Fertigungsaktivität und produziert x2 mit Prozess/Mitteln x3
+  gunka gun - gu'a  /arbeiten/  x1 [[Person] arbeitet an x2 [[Aktivität] mit Ziel x3
+  gunma gum - -  /gemeinsam/  x1 ist eine Masse/ein Team/ein Aggregat/ein Ganzes und besteht aus Einzelteilen x2, als Ganzes betrachtet
+  gunro gur - gu'o  /rollen/  x1 rollt auf/gegen Oberfläche x2 und rotiert auf Achse x3; x1 ist ein Roller
+  gunse - - -  /Gans/  x1 ist eine Gans/ein Ganter von Spezies/Gattung/Art x2
+  gunta gut - -  /angreifen/  x1 (Person/Masse) greift x2 an/dringt in x2 ein/übt Aggression an Opfer x2 aus mit Ziel x3
+  gurni - gru -  /Getreide/  x1 ist Getreide von Pflanze/Art x2
+  guska guk - -  /kratzen/  x1 (Klinge/Schaber) kratzt/schabt/schleift x2 von x3
+  gusni gus - gu'i  /erleuchten/  x1 [[Energie] ist Licht/Beleuchtung und erleuchtet x2 aus Lichtquelle x3
+  gusta - - -  /Restaurant/  x1 ist ein Restaurant/ein Café/ein Imbiss und serviert x2 (Art Essen) an Publikum/Gäste x3
+  gutci guc - -  /Elle/  x1 ist x2 (Default: 1) kurze [[nicht-metrische] örtliche Entfernungseinheit, gemäß Standard x3, mit Untereinheiten x4
+  gutra - - -  /Gebärmutter/  x1 ist eine/die Gebärmutter [[Körperteil] von x2; [[im übertragenen Sinne: nährend, schützend, Leben gebend]
+  guzme guz zme -  /Melone/  x1 ist eine Melone/ein Kürbis [[Frucht/Pflanze] von Spezies/Gattung/Art x2
