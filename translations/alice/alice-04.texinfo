@@ -1,11 +1,11 @@
-@node    vomoi pagbu, mumoi pagbu, cimoi pagbu, Top
-@chapter vomo'o le ractu cu benji lo cmalu me la bil
+﻿@node    vomoi pagbu, mumoi pagbu, cimoi pagbu, Top
+@chapter vomo'o la ractu cu benji lo cmalu me la bil
 
 
 @c                               CHAPTER IV
 
 @c                    The Rabbit Sends in a Little Bill
-                     le ractu cu benji lo cmalu me la bil
+                     la ractu cu benji lo cmalu me la bil
 
 
 @c      It was the White Rabbit, trotting slowly back again, and
@@ -20,15 +20,15 @@
 @c    swim in the pool, and the great hall, with the glass table and
 @c    the little door, had vanished completely.
 
-i me le blabi ractu noi masno bajra xruti gi'e xanka ke sruri catlu ca
+i me la blabi ractu noi masno bajra xruti gi'e xanka ke sruri catlu ca
 le nu klama kei tai le nu ry da pu cirko i abu tirna le nu ry lauble
-sezysku lu oi le noltroni'u i oi le noltroni'u doi dirba xance be mi
+sezysku lu oi la noltroni'u i oi la noltroni'u doi dirba xance be mi
 doi skapi be mi doi zbikre be mi zo'u ny da mi ba catrymi'e ju'osai
 ijo ro mabrnfuru cu mabrnfuru i mi ko'a ma falcru li'u i la alis zi
 smadi le du'u ry sisku le bifpra e le blabi ke kanba gluta remei i
-abu noi xendo cu co'a kalte ko'a i ku'i ko'a na se viska i roda simlu
+abu noi xendo cu co'a sisku ko'a i ku'i ko'a na se viska i roda simlu
 le ka ba'o cenba kei ba le nu abu limna le lalxu i le barda kumfa poi
-vasru le blaci jubme e le cmalu vorme ba'o mulno canci
+vasru le blaci jubme e le cmalu vorme cu ba'o mulno canci
 
 @c      Very soon the Rabbit noticed Alice, as she went hunting about,
 @c    and called out to her in an angry tone, `Why, Mary Ann, what ARE
@@ -37,7 +37,7 @@ vasru le blaci jubme e le cmalu vorme ba'o mulno canci
 @c    that she ran off at once in the direction it pointed to, without
 @c    trying to explain the mistake it had made.
 
-i baziku le ractu cu sanji la alis noi ru'u kalte ku'o gi'e fengu
+i baziku la ractu cu sanji la alis noi ru'u sisku ku'o gi'e fengu
 kixsku fi abu fe lu ue doi meri,An do ma zukte bu'u le bartu i ko ca
 bajra klama le zdani gi'e bevri lo gluta remei e lo bifpra mi i ko
 sutra li'u i la alis cu tai terpa ja'e le nu abu zi bajra fa'a le
@@ -55,9 +55,9 @@ farna poi ry jarco ku'o gi'e na troci le nu ciksi le se srera be ry
 
 i lu tu ba se spaji le nu facki le du'u mi makau du i ku'i
 e'e mi bevri le bifpra e lei gluta tu y va'o le nu da'i mi tolcri
-li'u i ca le nu cusku di'u kei abu penmi lo cnici ke cmalu zdani
+li'u i abu ca le nu cusku di'u cu penmi lo cnici ke cmalu zdani
 noi le ke'a vrogai cu se dandu lo carmi lastu tapla noi le cmene
-po'u lu blabi ractu li'u se ciska fi ke'a i abu nerkla secau le nu
+po'u lu blabi ractu li'u ba'o se ciska fi ke'a i abu nerkla secau le nu
 vrodarxi kei gi'e sutra le nu serti cpare kei gi'e terpa le nu
 penmi la meri,An sa'e noi da'i barklagau abu le zdani pu le nu 
 tolcri le bifpra e lei gluta
@@ -197,8 +197,8 @@ lo voksa noi bartu ku'o gi'e sisti tezu'e le nu tinzga
 
 i lu doi meri,An doi meri,An sei le voksa cu cusku ko bevri lei mi gluta
 mi caku li'u ibabo tirna lo nu cmalu ke jamfu stapa lei serti i la alis
-djuno le du'u le ractu cu klama tezu'e le nu sisku abu i abu desku ja'e
-le nu deskygau le zdani i abu tolmorji le nu ge abu ca kilto le ractu
+djuno le du'u la ractu cu klama tezu'e le nu sisku abu i abu desku ja'e
+le nu deskygau le zdani i abu tolmorji le nu ge abu ca kilto la ractu
 le ka barda giseki'ubo noda krinu le nu terpa ry
 
 @c      Presently the Rabbit came up to the door, and tried to open it;
@@ -206,7 +206,7 @@ le ka barda giseki'ubo noda krinu le nu terpa ry
 @c    hard against it, that attempt proved a failure.  Alice heard it
 @c    say to itself `Then I'll go round and get in at the window.'
 
-i caku le ractu cu tolcliva le vorme gi'e troci le nu kargau vy i ku'i
+i caku la ractu cu tolcliva le vorme gi'e troci le nu kargau vy i ku'i
 ki'u le nu ge le vrogai cu ei fa'ane'i karbi'o gi le cidni be la alis
 cu catke vy kei le se troci cu se fliba i la alis tirna le nu ry
 sezysku lu ai mi srukla gi'e nerkla fo le canko li'u
@@ -220,7 +220,7 @@ sezysku lu ai mi srukla gi'e nerkla fo le canko li'u
 @c    of the sort.
 
 i lu na ba go'i sei la alis pensi li'u i abu denpa le nu abu krici le
-du'u tirna le nu le ractu cu cnita le canko ibazi abu jai suksa fai
+du'u tirna le nu la ractu cu cnita le canko ibazi abu jai suksa fai
 le nu pejgau le xance gi'e jgari le vacri i abu kavbu noda gi'eku'i
 tirna lo cmalu se krixa e lo nu farlu e lo porpi blaci sance gi'e
 nibji'i la'e di'u le du'u cumki fa le nu ry farlu lo guzme tanxe a
@@ -230,14 +230,14 @@ lo simsa
 @c    you?'  And then a voice she had never heard before, `Sure then
 @c    I'm here!  Digging for apples, yer honour!'
 
-ibabo lo fengu voksa to be le ractu toi co'e lu ju'i pat ju'i pat
+ibabo lo fengu voksa to be la ractu toi co'e lu ju'i pat ju'i pat
 do ma zvati li'u ibabo lo voksa noi abu ke'a na pu tirna ku'o lu
 ju'o mi ti zvati i mi kakpa sisku lo'e plise doi banli li'u
 
 @c      `Digging for apples, indeed!' said the Rabbit angrily.  `Here!
 @c    Come and help me out of THIS!'  (Sounds of more broken glass.)
 
-i lu o'onai kakpa sisku lo'e plise sei le ractu cu fengu cusku i ko
+i lu o'onai kakpa sisku lo'e plise sei la ractu cu fengu cusku i ko
 mi klama gi'e sidju le nu mi ba'e ti bartu li'u to sance loi bancu
 ke porpi blaci toi
 
@@ -336,7 +336,7 @@ le nu makau ba fasnu
 @c    What happened to you?  Tell us all about it!'
 
 i pamai abu tirna lo voksa so'imei pe lu ta mo'i me la bil li'u i remai
-go'i le ractu voksa pe lu ko ta jgari doi le lamji be le spati jimte i
+go'i la ractu voksa pe lu ko ta jgari doi le lamji be le spati jimte i
 cimai go'i lo smaji i vomai go'i lo drata ke voksa kalsa pe lu ko sarju
 le stedu be ta i gau ko ta pinxe lo jikru i ko ta na vaxydicra i ma mo
 doi pendo i do ma pu lifri i ko mi'a jungau la'e di'u li'u
@@ -361,7 +361,7 @@ i lu ie do ca'a go'i doi pendo sei lei drata cu cusku li'u
 @c    Alice called out as loud as she could, `If you do.  I'll set
 @c    Dinah at you!'
 
-i lu ei mi'o jelgau le zdani sei le ractu voksa cu cusku li'u i la
+i lu ei mi'o jelgau le zdani sei la ractu voksa cu cusku li'u i la
 alis krixa serai le ka cladu kei lu ganai go'i gi mi ba je'icru
 la dinas do li'u
 
@@ -373,7 +373,7 @@ la dinas do li'u
 
 i zi smaji mulno i la alis pensi lu a'u ta ma ba zukte i ei va'o
 le nu prije cu vimcu le drudi li'u i bazi lo mentu be li paji'ire
-co'a za'ure'u ru'u muvdu i la alis tirna le nu le ractu cu cusku
+co'a za'ure'u ru'u muvdu i la alis tirna le nu la ractu cu cusku
 lu pa carcylai cu banzu le nu co'a co'e li'u
 
 @c paji'ire is about twelve - maybe ten to fourteen.
