@@ -283,8 +283,8 @@ i lu my kurji lei jufra e lei selsku sei le cpicinfo cu junri spuda li'u
 @c      Alice was thoroughly puzzled.  `Does the boots and shoes!' she
 @c    repeated in a wondering tone.
 
-i la alis mulno le ka cfipu i lu uanai kurji lei jufra e lei selsku sei
-abu preti tonga rapsku li'u
+i la alis mulno le ka se cfipu i lu uanai kurji lei jufra e lei selsku 
+sei abu preti tonga rapsku li'u
 
 @c      `Why, what are YOUR shoes done with?' said the Gryphon.  `I
 @c    mean, what makes them so shiny?'
@@ -320,13 +320,24 @@ darsta i mi'a na djica le nu do mi'a kansa li'u li'u
 @c      `They were obliged to have him with them,' the Mock Turtle
 @c    said:  `no wise fish would go anywhere without a porpoise.'
 
+i lu bilga le nu kansa sei le jitfa cakyrespa cu cusku i no clite
+finpe cu rivbi lo xajyfi'e li'u
+
 @c      `Wouldn't it really?' said Alice in a tone of great surprise.
+
+i lu ue je'upei sei la alis spaji mutce tonga cusku li'u
 
 @c      `Of course not,' said the Mock Turtle:  `why, if a fish came
 @c    to ME, and told me he was going a journey, I should say "With
 @c    what porpoise?"'
 
+i lu li'a go'i sei le jitfa cakyrespa cu cusku i mu'a va'o le nu lo 
+finpe cu te preti fo mi kei mi cusku lu do ma friti le do xajyfi'e 
+li'u li'u
+
 @c      `Don't you mean "purpose"?' said Alice.
+
+i lu xu do skudji zo xasyvi'e sei la alis cusku li'u
 
 @c      `I mean what I say,' the Mock Turtle replied in an offended
 @c    tone.  And the Gryphon added `Come, let's hear some of YOUR
@@ -479,13 +490,13 @@ se cfipu piro le cuntu gi'e djica le nu le selsnu cu cenba
 @c    `it begins "I passed by his garden."'
 
 i lu e'e di'a co'e le jersi pempau sei le cpicinfo rere'u naldenpa cusku
-i co'a co'e lu i mi pagre le purdi li'u li'u 
+i co'a co'e lu mi pagre le purdi li'u li'u 
 
 @c      Alice did not dare to disobey, though she felt sure it would
 @c    all come wrong, and she went on in a trembling voice:--
 
 i la alis na darsi le nu na tinbe i abu birti le du'u ba srera barkla
-gi'e di'a desku voksa cusku di'e
+gi'e di'a desku voksa cusku lu
 
 @c        `I passed by his garden, and marked, with one eye,
 @c        How the Owl and the Panther were sharing a pie--'
@@ -497,6 +508,16 @@ gi'e di'a desku voksa cusku di'e
 @c        Was kindly permitted to pocket the spoon:
 @c        While the Panther received knife and fork with a growl,
 @c        And concluded the banquet--]
+
+@format
+
+          mi pagre le purdi i i'e se funjdi
+          i le ctecpi le tirxu vi kansa lo nuncti
+          i ty le se snuji e ia le te snuji
+          cu citka ca le nu cy cpacu le smuci
+                     
+
+@end format
 
 @c      `What IS the use of repeating all that stuff,' the Mock Turtle
 @c    interrupted, `if you don't explain it as you go on?  It's by far
