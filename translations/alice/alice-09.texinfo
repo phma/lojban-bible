@@ -1,19 +1,30 @@
 @node    somo'o, panomo'o, bimo'o, Top
-@chapter somo'o [The Mock Turtle's Story]
+@chapter somo'o lisri fi la jitfa cakyrespa
 
 
 @c                               CHAPTER IX
+                                   somo'o
 
 @c                         The Mock Turtle's Story
+                         lisri fi la jitfa cakyrespa
 
 
 @c      `You can't think how glad I am to see you again, you dear old
 @c    thing!' said the Duchess, as she tucked her arm affectionately
 @c    into Alice's, and they walked off together.
 
+i lu do ka'enai pensi le nu la'u makau mi gleki le nu mi do za'ure'u 
+viska doi dirba slabu sei le noltroni'u cu cusku li'u i ny xe'ocni
+tagygau le ny birka le me la alis moi i ny joi abu cu kansi'u le ka
+cadzu cliva
+
 @c      Alice was very glad to find her in such a pleasant temper, and
 @c    thought to herself that perhaps it was only the pepper that had
 @c    made her so savage when they met in the kitchen.
+
+i la alis mutce gleki le nu zgana le nu ny pluka tarti i abu pensi le
+nu ju'ocu'i le spatrpiperi cu rinka le nu ny cilce ca le nu abu penmi ny
+le jupku'a 
 
 @c      `When I'M a Duchess,' she said to herself, (not in a very
 @c    hopeful tone though), `I won't have any pepper in my kitchen AT
@@ -25,17 +36,36 @@
 @c    people knew that:  then they wouldn't be so stingy about it, you
 @c    know--'
 
+i lu ca le nu ba'e mi noltroni'u kei sei abu to sepi'onai ku'i lo pajna 
+mutce tonga toi sezysku nosai spatrpiperi ba zvati le mi jupku'a i lo'e
+stasu cu xamgu secau i cumki fa le nu roroiku lo spatrpiperi cu rinka le
+nu lei prenu cu cpina tarti sei abu mutce se pluka be le nu facki lo 
+cnino javni i lo sarvanju cu rinka le nu py slari tarti i lo spatrkamomili
+cu rinka le nu py kurki tarti i y i lo bavmi sukta e lo simsa cu rinka le
+nu lei verba cu titla tarti i au lei prenu cu djuno la'e di'u ja'e le nu
+py na mobdu'a sy li'o li'u
+  
 @c      She had quite forgotten the Duchess by this time, and was a
 @c    little startled when she heard her voice close to her ear.
 @c    `You're thinking about something, my dear, and that makes you
 @c    forget to talk.  I can't tell you just now what the moral of that
 @c    is, but I shall remember it in a bit.'
 
+i caku abu nalmorji le noltroni'u gi'e milxe se spaji ca le nu tirna le
+ny voksa noi jibni le abu kerlo i lu do da pensi doi dirba i la'e di'u
+rinka le nu do morji le nu tavla i mi ka'enai ca cusku le sedu'u la'e di'u
+makau madni'i i ku'i mi bazi morji li'u
+
 @c      `Perhaps it hasn't one,' Alice ventured to remark.
+
+i lu ju'ocu'i madni'i noda sei la alis darsi te pinka li'u
 
 @c      `Tut, tut, child!' said the Duchess.  `Everything's got a
 @c    moral, if only you can find it.'  And she squeezed herself up
 @c    closer to Alice's side as she spoke.
+
+i lu e'i doi verba sei le noltroni'u cu cusku roda de madni'i i sarcu
+fa le nu facki li'u i ny sezlamzmagau la alis ca le nu tavla
 
 @c      Alice did not much like keeping so close to her:  first,
 @c    because the Duchess was VERY ugly; and secondly, because she was
