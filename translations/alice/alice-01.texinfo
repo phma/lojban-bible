@@ -22,11 +22,11 @@ fi lo cukta poi vasru no pixra ja nuncasnu li'u
 @c    of getting up and picking the daisies, when suddenly a White
 @c    Rabbit with pink eyes ran close by her.
 
-i ko'a ca'o jdice ga'a le ko'a menli to rai le selka'e kamxau va'o le nu
-le glare djedi cu rinka le nu ko'a lifri le nu sipseltri je bebna toi
+i abu ca'o jdice ga'a le abu menli to rai le selka'e kamxau va'o le nu
+le glare djedi cu rinka le nu abu lifri le nu sipseltri je bebna toi
 le du'u xukau le nu pluka fa le nu zbasu lo xrula linsi cu se vamji
-le raktu po'u le nu sa'irbi'o gi'e crepu lei xrula i suksa fa le nu
-lo blabi ractu poi xunblabi se kanla cu bajra pa'ore'o ko'a
+le raktu po'u le nu sa'irbi'o gi'e crepu lei xrula icabo suksa fa le nu
+lo blabi ractu poi xunblabi se kanla cu bajra zo'a abu
 
 @c      There was nothing so VERY remarkable in that; nor did Alice
 @c    think it so VERY much out of the way to hear the Rabbit say to
@@ -41,16 +41,16 @@ lo blabi ractu poi xunblabi se kanla cu bajra pa'ore'o ko'a
 @c    field after it, and fortunately was just in time to see it pop
 @c    down a large rabbit-hole under the hedge.
 
-i la'e di'u vasru no tai ba'e mutce be le ka ju'ixlu ijenaiji'a la alis
-jinvi le du'u tai ba'e mutce le ka nalfadni kei fa le nu tirna le nu
+i la'e di'u vasru no ba'e mutce be le ka ju'ixlu ijenaiji'a la alis
+jinvi le du'u ba'e mutce le ka nalfadni kei fa le nu tirna le nu
 le ractu cu sezysku lu oiro'a oiro'a mi lerci li'u to baku ca le nu
-abu pensi la'e di'u kei abu ri te sidbo le du'u eikau ri abu cizra
+abu pensi la'e di'u kei abu ri te sidbo le du'u ei ri abu cizra
 i ku'i caku piro ri simlu le ka rarna toi i ku'i ca le nu le ractu
 ca'a lebna lo junla le kosta daski gi'e catlu jy gi'e di'a sutra kei
 la alis spaji sa'irbi'o ki'u le nu lindi pagre le abu menli fa le
 si'o abu pu noroi viska lo ractu poi ponse lo kosta daski a lo junla
-poi ka'e lebna ke'a ri i bai le nu kucli kei abu bajra pagre le foldi
-gi'e jersi ry gi'e u'a viska le nu ry canci mo'ine'i lo barda ke ractu
+poi ry ke'a dy ka'e lebna i bai le nu kucli kei abu bajra pagre le foldi
+gi'e jersi ry gi'e u'adai viska le nu ry canci mo'ine'i lo barda ke ractu
 kevna noi cnita le spabi'u
 
 @c      In another moment down went Alice after it, never once
@@ -100,9 +100,9 @@ tanxe ca le nu abu ty farlu lampagre
 @c    true.)
 
 i lu uo sei la alis pensi ba lo nu farlu tai ti kei mi na ba xanka le
-nu farlu fo le serti i ua virnu sei le lanzu tu'a mi ba jinvi i u'o mi
-noda cusku va'o ji'asai le nu mi farlu fi le drudi be le zdani tosa'a
-la'e di'u la'a jetnu toi li'u
+nu farlu fo le serti i lu ua virnu sei le lanzu tu'a mi ba jinvi li'u 
+i u'o mi noda cusku va'o ji'asai le nu mi farlu fi le drudi be le zdani 
+tosa'a la'e di'u la'a jetnu toi li'u
 
 @c      Down, down, down.  Would the fall NEVER come to an end!  `I
 @c    wonder how many miles I've fallen by this time?' she said aloud.
@@ -127,8 +127,10 @@ le se minli cu jibni drani i ku'i mi kucli le du'u makau ti
 stuzrlatitudi gi'e stuzrlongitudi li'u i to la alis nasai djuno le
 du'u makau smuni ga zo stuzrlatitudi gi zo stuzrlongitudi i ku'i abu
 jinvi le du'u melbi je banli valsi toi
+
 @c {mo'ini'a mo'ini'a mo'ini'a} doesn't parse. But then neither does the English.
-@c There is a problem with the parser. Three tenses in a row should parse.
+@c There is a problem with the parser. I think three tenses in a row should parse
+@c as {mo'ini'aku mo'ini'aku mo'ini'aku}, three terms with no selbri.
 
 @c      Presently she began again.  `I wonder if I shall fall right
 @c    THROUGH the earth!  How funny it'll seem to come out among the
@@ -144,13 +146,14 @@ jinvi le du'u melbi je banli valsi toi
 
 i caku abuboi za'ure'u co'a co'e i lu mi kucli le du'u xukau mi ba farlu
 ba'e pagre le terdi i u'isai tolcanci le jbini be lei prenu poi cadzu
-fau le nu le stedu cu cnita i pe'i lei smudukti tosa'a abu gleki le nu
-noda tirna kei caku ki'u le nu le valsi nasai drani sance toi i ku'i
+fau le nu le stedu cu cnita i pe'i bu'u le smudukti tosa'a caku abu gleki 
+le nu noda tirna kei ki'u le nu le valsi nasai drani sance toi i ku'i
 ei mi te preti le cmene be le gugde le du'u mokau i lu pe'u doi ninmu
 ti nuzlo gi'i sralo tosa'a abu troci le nu krorinsa kei ca le nu tavla
 i ko se xanri le nu krorinsa ca le nu farlu i pe'ipei do ka'e snada toi
-i ny ba jinvi le du'u mi toldjuno ke cmalu nixli kei le nu mi te preti
-i ei mi na te preti i ju'ocu'i mi viska cy noi ba'o ciska ke'a da li'u
+i ny ba jinvi le du'u mi toldjuno ke cmalu nixli kei fo le nu mi te preti
+i ei mi na te preti i ju'ocu'i mi viska le nu ba'o ciska le cmene da li'u
+
 @c {abu za'ure'u} means "for the A>th time" and does not parse here.
 @c Antipodes are studukti, so how about snudukti? -phma
 @c How about {smudukti}, "antonym"? -xorxes
@@ -175,19 +178,19 @@ i ei mi na te preti i ju'ocu'i mi viska cy noi ba'o ciska ke'a da li'u
 i mo'ini'a mo'ini'a mo'ini'a i no drata be la'e di'e ka'e se zukte
 iseki'ubo la alis za'ure'u co'a tavla i lu ju'o la dinas ba mutce le
 ka se claxu mi kei ca le cabnicte tosa'a la dinas cu mlatu toi i a'o
-da ba morji tu'a le dy ladru palna ti'u le sanmi tcika i au doi dinas
-noi dirba mi do'u do mi kansa le cnita i u'u no smacu cu zvati le vacri
+da ba morji tu'a le dy ladru palna ca le sanmi tcika i doi dinas noi 
+dirba mi do'u au do mi kansa le cnita i u'u no smacu cu zvati le vacri
 i ku'i da'ibi'unai do ka'e kavbu lo volratcu noi ka'u mutce le ka simsa
 lo'e smacu i ku'i a'u xu lo'e mlatu cu citka lo'e volratcu li'u i caku
 la alis co'a sipydji lifri gi'e di'a senva sezysku lu xu lo'e mlatu cu
 citka lo'e volratcu i xu lo'e mlatu cu citka lo'e volratcu li'u
-esu'oroibo lu xu lo'e volratcu cu citka lo'e mlatu li'u iki'ubo ki'u
-le nu abu ka'e dafydu'a no le re preti kei na vajni mutce fa le nu
-porsi makau i abu lifri le nu pu'o sipna kei gi'e puzi co'a senva
+esu'oroibo lu xu lo'e volratcu cu citka lo'e mlatu li'u iseja'ebo na 
+vajni mutce fa le du'u porsi makau ki'u le nu abu ka'e spuda no le re 
+preti i abu lifri le nu pu'o sipna kei gi'e puzi co'a senva
 le nu abu xanjaisi'u cadzu kansa la dinas gi'e cusku lu ju'i doi dinas
 ko mi jungau le jetnu i xu do su'oroi citka lo volratcu li'u ca le nu
-suksa fa le nu abu mo'u farlu le cpana be lo derxi be loi grana ku joi
-loi sudga pezli
+suksa fa le nu abu le cpana be lo derxi be loi grana ku joi loi sudga 
+pezli mo'u farlu
 
 @c      Alice was not a bit hurt, and she jumped up on to her feet in a
 @c    moment:  she looked up, but it was all dark overhead; before her
@@ -204,7 +207,7 @@ i la alis nasai se xrani gi'e zi sanli fi le jamfu gi'e catlu le gapru
 noi ku'i manku mulno i crane abu fa lo drata ke clani vorme i le blabi
 ractu cu za'o se viska gi'e sutra le nu litru vy i ei la alis na denpa
 i abu klama tai tu'a le brife gi'e ja'aru'e snada le nu tirna le nu ry
-cusku lu oi doi le mi kerlo joi zbikre do'u ca'o binxo lo lerci li'u i
+cusku lu oi doi le mi kerlo joi zbikre do'u ca'o co'a lerci li'u i
 abu jibni trixe ry ca le nu pagre le kojna iku'i ry ca na za'o se viska
 i abu facki le du'u abu zvati lo clani je dziseldru kumfa noi se gusni
 fi lo se linji noi dandu le drudi
@@ -230,12 +233,13 @@ ba za'ure'u bartu
 @c    in the lock, and to her great delight it fitted!
 
 ibaziku abu penmi lo cmalu ke cibyseltuple jubme be lo sligu blaci i
-cpana jy fa no na'e bo lo cmatce ke solji ckiku i abuboi pamoi jinvi 
+cpana jy fa po'o lo cmatce ke solji ckiku i abuboi pamoi jinvi 
 le du'u cy ckiku pa le stela be lo kumfa vorme i ku'i uinaidai ga le
 stela cu dukse le ka barda gi le ckiku cu dukse le ka cmalu iseju
 cy ka'e kargau noboi sy i ku'i ca le remoi abu penmi lo dizlo murta noi
 abu na pu sanji ke'a i my murta lo cmalu vorme noi mitre li ji'ipivo i
-abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
+abu troci le nu co'e le cmalu ke solji ckiku le stela i uisaidai mapti
+
 @c {cy ka'e kargau no sy} doesn't parse.  --fixed: {noboi sy}
 @c 0.3 meter is about 1 foot - I'd say .4 meter. --ok.
 
@@ -260,9 +264,10 @@ xrula be'o ku joi lei va lenku jinto i ku'i abu na ka'e gregau le
 ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre
 kei sei la alis uu pensi sy tolmutce le ka se pilno secau lei mi janco
 i au mi ka'e se polje tai tu'a le'e darvistci i pe'i mi ka'e go'i va'o
-le nu mi djuno le du'u mi co'a co'e ta'i makau li'u i lei puzi nalfadni
+le nu mi djuno le du'u mi co'a go'i ta'i makau li'u i lei puzi nalfadni
 fasnu tai so'imoi ja'e le nu la alis co'a jinvi le du'u so'usai da
 ca'a nalcumki
+
 @c le'e darvistci: this kind of contraction is typical of some kinds
 @c of telescopes, but by no means all. -phma
 
@@ -277,12 +282,12 @@ ca'a nalcumki
 i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
 le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy cpana 
 kei a do'anai tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
-tai tu'a le'e darvistci i ca le ca krefu abu facki le du'u jy se cpana lo
+tai tu'a le'e darvistci i ca le ca krefu abu facki le du'u cpana jy fa lo
 cmalu botpi to lu noi ju'o na pu zvati ti sei la alis cusku li'u toi i
 sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe
 li'u cu melbi prina ke'a sepi'o loi barda lerfu
-@c mi stidi lu .a do'anai li'u peseba'i lu se.u li'u -mi'e pier. --ok
 
+@c mi stidi lu .a do'anai li'u peseba'i lu se.u li'u -mi'e pier. --ok
 
 @c      It was all very well to say `Drink me,' but the wise little
 @c    Alice was not going to do THAT in a hurry.  `No, I'll look
@@ -300,13 +305,14 @@ li'u cu melbi prina ke'a sepi'o loi barda lerfu
 i xamgu fa le nu cusku lu ko mi pinxe li'u i ku'i la alis noi prije
 na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku
 gi'e facki le du'u xukau da sinxa zo vindu li'u i abu pu tcidu so'o
-melbi ke cmalu lisri loi verba poi jelca se xrani gi'e se citka
+melbi ke cmalu lisri be loi verba poi jelca se xrani gi'e se citka
 loi cilce danlu gi'e lifri loi drata tolpluka ki'u le nu na morji
-lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo xunre
-glare tunta cu jelca xrani lo za'o jgari be ty zi'e no'u mu'a le nu
-va'o le nu condi mutce sraku le degji sepi'o lo dakfu kei ty ta'e
+lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo'e xunre
+glare tunta cu jelca xrani lo'e za'o jgari be ty zi'e no'u mu'a le nu
+va'o lo'e nu condi mutce sraku le degji sepi'o lo dakfu kei dy ta'e
 ciblu cirko i abuboi noroi tolmorji le du'u le nu da dukse le ka pinxe
-lo se botpi be le se tcita be zo vindu bazi ja bazu banza da
+lo se botpi be le se tcita be zo vindu bazi ja bazu fanza da
+
 @c {i abu noroi} does not parse; it means "A0 times", not "A never". --fixed
 
 @c      However, this bottle was NOT marked `poison,' so Alice ventured
@@ -320,6 +326,7 @@ vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
 mixre be lo rutrceraso tisna ku joi lo sovykruji ku joi lo grutrxananase 
 kujoi lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne 
 jelnanba
+
 @c lo rutrceraso na jbari --ok
 
 @c         *       *       *       *       *       *       *
@@ -340,7 +347,7 @@ jelnanba
 @c    like a telescope.'
 
 i lu ue cizra selga'e sei la alis cusku i ru'a ju'o mi se polje tai
-tu'a lo darvistci li'u
+tu'a le'e darvistci li'u
 
 @c      And so it was indeed:  she was now only ten inches high, and
 @c    her face brightened up at the thought that she was now the right
@@ -357,9 +364,9 @@ i ca'a co'e i caku abu cenmitre li so'u remu i le abu flira cu cambi'o
 seja'e le nu pensi le nu caku abu mapti le cmalu vorme le ka pagre
 fi le melbi purdi i ku'i pamai abu denpa le nu zgana le du'u xukau
 abu za'o brajdika i abu milxe le ka xanka la'e di'u i lu cumki fa le
-nu co'e co'u sei la alis sezysku le nu mi mo'u canci tai tu'a lo
+nu se fanmo sei la alis sezysku le nu mi mo'u canci tai tu'a lo
 lakyga'a fagri i mi kucli le du'u mi makau simsa va'o da'i la'e di'u
-li'u i abu troci le nu se xanri le nu lo lakyga'a fagri makau simsa
+li'u i abu troci le nu se xanri le du'u lo lakyga'a fagri makau simsa
 ba le nu le lakyga'a cu se gusydicra i abu ka'enai morji lo nu viska
 lo tai dacti
 
@@ -394,9 +401,9 @@ zutse gi'e klaku
 @c    person!'
 
 i lu e'e noda do prali le nu tai klaku sei la alis kinli sezysku i e'u
-ko cazi sisti li'u i abu ze'a sezystidi lo xamgu mutce to ku'i ta'enai
-zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e le nu gasnu le nu 
-le se klaku cu zvati le kanla i abu paroi sei morji cu troci le nu darxi
+ko cazi sisti li'u i abu ta'e sezystidi lo xamgu mutce to ku'i ta'enai
+mapti zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e le nu gasnu le 
+nu le se klaku cu zvati le kanla i abu morji le nu paroi troci le nu darxi
 le abu kerlo kei mu'i le nu abu abu tcica ca lo nu abu abu fapro le nu
 kelcrkroke i le vi cizra verba cu mutce le ka nelci le nu sruma le du'u
 du re prenu i lu ku'i noda mi ca prali sei la alis uu pensi le nu sruma
@@ -414,11 +421,11 @@ pa se sinma prenu li'u
 i bazi le nu abu catlu cu se farna lo cmalu ke blaci tanxe noi cnita
 le jubme i abu kargau ty gi'e facki le du'u nenri ty fa lo cmalu mutce
 titnanba noi bu'u ke'a lei valsi po'u lu ko mi citka li'u se morna
-loi sudgrute i lu ai mi ti citka sei la alis cusku i va'o da'i le nu ti
-mi braze'agau kei mi snada le nu cpacu le ckiku i va'o da'i le nu ti mi
-cmaze'agau kei mi kakne le nu reskla ni'a le vrogai i seki'ubo va'o le
-re fasnu kei mi ka'e klama le purdi i mi na se vajni le nu le mokau cu
-fasnu li'u
+loi sudgrute i lu ai mi ti citka sei la alis cusku i va'o da'i le nu 
+gau ti mi braze'a kei mi snada le nu cpacu le ckiku i va'o da'i le nu 
+gau ti mi cmaze'a kei mi kakne le nu reskla ni'a le vrogai i seki'ubo 
+va'o le re fasnu kei mi ka'e klama le purdi i mi na se vajni le du'u 
+le mokau cu fasnu li'u
 
 @c      She ate a little bit, and said anxiously to herself, `Which
 @c    way?  Which way?', holding her hand on the top of her head to
@@ -432,8 +439,8 @@ fasnu li'u
 i abu citka lo spisa gi'e xanka sezysku lu fa'a ma i fa'a ma li'u gi'e
 punji le xance le cpana be le stedu tezu'e le nu ganse le nu sy banro
 fa'a makau i abu mutce le ka spaji le nu facki le du'u abu stali le nu
-barda mintu i li'a la'edi'u ta'e fasnu ca le nu citka lo titnanba i ku'i
-la alis tai se tcaci le nu ba'akau no na'e tolfadni cu fasnu kei ja'e
+barda mintu i li'a la'edi'u ta'e fasnu ca lo'e nu citka lo titnanba i ku'i
+la alis tai se tcaci le nu ba'a no na'e tolfadni cu fasnu kei ja'e
 le nu simlu le ka tolzdile gi'e bebna kei fa le nu le nunjmive cu ca'o
 fadni
 
