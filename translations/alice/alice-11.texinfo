@@ -89,12 +89,23 @@ terpa le nu tolmorji pu le nu le nunpai cu tolcfari li'u
 @c    the court!' and the King put on his spectacles and looked
 @c    anxiously round, to make out who was talking.
 
+i lu ju'i bebna sei la alis co'a cladu je fengu voksa cusku li'u i ku'i
+abu sutra sisti ki'u le nu le blabi ractu cu krixa lu ei smaji bu'u le
+kumfa li'u i le noltrunau co'a dasni le vistci gi'e xanka catlu le sruri
+tezu'e le nu facki le du'u makau tavla
+
 @c      Alice could see, as well as if she were looking over their
 @c    shoulders, that all the jurors were writing down `stupid things!'
 @c    on their slates, and she could even make out that one of them
 @c    didn't know how to spell `stupid,' and that he had to ask his
 @c    neighbour to tell him.  `A nice muddle their slates'll be in
 @c    before the trial's over!' thought Alice.
+
+i la alis ka'e viska to xamgu tai le nu abu catlu ga'u le janco toi
+le nu ro le pairkamnycmi cu ciska lu ju'i bebna li'u le py tanbo kei
+gi'eji'asai ka'e tilvi'a le nu pa py na se slabu lei lerfu pe zo 
+bebna gi'e nitcu le nu cpedu le nu jungau kei le lamji i lu ba melbi
+kalsa fa lei tanbo pu le nu le nunpai cu mulno sei la alis pensi li'u
 
 @c      One of the jurors had a pencil that squeaked.  This of course,
 @c    Alice could not stand, and she went round the court and got
@@ -105,48 +116,102 @@ terpa le nu tolmorji pu le nu le nunpai cu tolcfari li'u
 @c    with one finger for the rest of the day; and this was of very
 @c    little use, as it left no mark on the slate.
 
+i pa le pairkamnycmi cu pilno lo pinsi noi vrumli cupra i li'a la alis
+na ka'e renvi la'e di'u gi'e klama fo le sruri be le kumfa gi'e 
+ti'erbi'o py gi'e bazi kakne le nu lebna le pinsi py i abu tai sutra
+ja'e le nu le selkecti ke cmalu pairkamnycmi no'u la bil po'u le 
+rebyrespa ka'enai facki le du'u le pinsi makau binxo kei gi'e bilga
+le nu ciska sepi'o lo degji ze'a le djedi velvi'u i la'e di'u tolmutce
+le ka prali kei ki'u le nu noda seja'e barna le tanbo
+
 @c      `Herald, read the accusation!' said the King.
+
+i lu doi noisku ko tcidu le se zerxu'a sei le noltrunau cu cusku li'u
 
 @c      On this the White Rabbit blew three blasts on the trumpet, and
 @c    then unrolled the parchment scroll, and read as follows:--
+
+i caku le blabi ractu cu ciroi tolsakci le tabra gi'e tolgurgau le
+skapi te ciska slanu gi'e tcidu bacru di'e
 
 @c        `The Queen of Hearts, she made some tarts,
 @c              All on a summer day:
 @c          The Knave of Hearts, he stole those tarts,
 @c              And took them quite away!'
 
+@format
+
+           le noltruni'u pe le risna cu zbakukte loi rutytisna 
+                ze'a lo crisa djedi
+           i le nolse'u pe le risna cu zerle'a loi rutytisna 
+                gi'e darbevri bredi
+
+@end format
+
 @c      `Consider your verdict,' the King said to the jury.
+
+i lu ko pensi le do se paijdi sei le noltrunau fi le pairkamni 
+cu cusku li'u
 
 @c      `Not yet, not yet!' the Rabbit hastily interrupted.  `There's
 @c    a great deal to come before that!'
 
+i lu ei za'o na go'i i ei za'o na go'i sei le ractu cu sutra zunti i 
+ei lo mutce cu purci la'e di'u li'u
+
 @c      `Call the first witness,' said the King; and the White Rabbit
 @c    blew three blasts on the trumpet, and called out, `First
 @c    witness!'
+
+i lu ko klagau le pamoi datnydu'a sei le noltrunau cu cusku li'u i le 
+blabi ractu cu ciroi tolsakci le tabra gi'e krixa lu ju'i pamoi 
+datnydu'a li'u
 
 @c      The first witness was the Hatter.  He came in with a teacup in
 @c    one hand and a piece of bread-and-butter in the other.  `I beg
 @c    pardon, your Majesty,' he began, `for bringing these in:  but I
 @c    hadn't quite finished my tea when I was sent for.'
 
+i le pamoi datnydu'a cu du le mapypre noi nerkla gi'e jgari nu'i ge
+lo tcati kabri lo xance gi lo nanba joi matne le drata i lu ko mi 
+fraxu doi nolba'i sei my co'a co'e le nu mi ti nerbevri i ku'i mi 
+na mo'u pinxe le tcati ca le nu mi se klagau li'u
+
 @c      `You ought to have finished,' said the King.  `When did you
 @c    begin?'
+
+i lu ei do mo'u co'e sei le noltrunau cu cusku i ca ma do co'a co'e li'u
 
 @c      The Hatter looked at the March Hare, who had followed him into
 @c    the court, arm-in-arm with the Dormouse.  `Fourteenth of March, I
 @c    think it was,' he said.
 
+i le mapypre cu catlu le cibmasti cicyractu noi pu klaje'i my le kumfa gi'e 
+kansa le sipsmacu i lu le pavomoi be le cibmasti pe'i sei cy cusku li'u
+
 @c      `Fifteenth,' said the March Hare.
 
+i lu pamumoi sei le cibmasti cicyractu cu cusku li'u
+
 @c      `Sixteenth,' added the Dormouse.
+
+i lu paxamoi sei le sipsmacu cu jmina li'u
 
 @c      `Write that down,' the King said to the jury, and the jury
 @c    eagerly wrote down all three dates on their slates, and then
 @c    added them up, and reduced the answer to shillings and pence.
 
+i lu ko ciska la'e di'u sei le noltrunau fi le pairkamni cu cusku li'u
+i le pairkamni cu sutra ciska le ci detri le py tanbo gi'e simsumji dy
+gi'e galfi le danfu lo rupnu joi fepni
+
 @c      `Take off your hat,' the King said to the Hatter.
 
+i lu ko vimcu le do mapku sei le noltrunau fi le mapypre cu cusku li'u
+
 @c      `It isn't mine,' said the Hatter.
+
+i lu ti na me mi moi sei le mapypre cu cusku li'u
 
 @c      `Stolen!' the King exclaimed, turning to the jury, who
 @c    instantly made a memorandum of the fact.
