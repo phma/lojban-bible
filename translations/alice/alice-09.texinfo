@@ -65,7 +65,8 @@ i lu ju'ocu'i madni'i noda sei la alis darsi te pinka li'u
 @c    closer to Alice's side as she spoke.
 
 i lu e'i doi verba sei le noltroni'u cu cusku roda de madni'i i sarcu
-fa le nu facki li'u i ny sezlamzmagau la alis ca le nu tavla
+fa le nu facki li'u i ny sezla'izmagau la alis ca le nu tavla
+@c s/lamzma/la'izma/ -phma
 
 @c      Alice did not much like keeping so close to her:  first,
 @c    because the Duchess was VERY ugly; and secondly, because she was
