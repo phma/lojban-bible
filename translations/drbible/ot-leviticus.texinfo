@@ -1089,40 +1089,62 @@ gi'eni'ibo toljinsa ga'a do
 
 @c    11:8. The flesh of these you shall not eat, nor shall you touch their
 @c    carcasses, because they are unclean to you.
+11:8. .i ko na citka citka le rectu be ra .ije ko na pencu le mroxadni be ra
+.iku'ibo ra toljinsa ga'a do
 
 @c    11:9. These are the things that breed in the waters, and which it is
 @c    lawful to eat.  All that hath fins, and scales, as well in the sea, as
 @c    in the rivers, and the pools, you shall eat.
+11:9. .i da poi xabju le djacu noi xamsi gi'a rirxe zo'u da se
+fipybirka gi'e se kapyplita .ijanai ko citka da
 
 @c    11:10. But whatsoever hath not fins and scales, of those things that
 @c    move and live in the waters, shall be an abomination to you,
+11:10. .iku'i da poi xabju le xamsi .a le rirxe zo'u da na se fipybirka gi'a na
+se kapyplita .inaja ko xebni da
+@c ko xebni da: sheqets hem lkhem. Anybody got a better translation of sheqets?
 
 @c    11:11. And detestable.  Their flesh you shall not eat:  and their
 @c    carcasses you shall avoid.
+11:11. .ijebo ko na citka le rectu be da .ijebo ko xebni le mroxadni be da
 
 @c    11:12. All that have not fins and scales, in the waters, shall be
 @c    unclean.
+11:12. .i da poi xabju le djacu zo'u da na se fipybirka gi'a na
+se kapyplita .inaja ko xebni da
 
 @c    11:13. Of birds these are they which you must not eat, and which are to
 @c    be avoided by you:  The eagle, and the griffon, and the osprey.
+11:13. .i le cipni zo'u ko xebni gi'enai citka vau ro cipnrxakuila .e ro
+vultura .e ro cipnrxalieto
+@c Gk. aliaietos. Haliaeetus is the bald eagle genus.
 
 @c    The griffon. . .Not the monster which the painter represent, which hath
 @c    no being upon earth; but a bird of the eagle kind, larger than the
 @c    common.
 
 @c    11:14. And the kite, and the vulture, according to their kind.
+11:14. .e ro cipnrgupa .e ro falkone be roda
 
 @c    11:15. And all that is of the raven kind, according to their likeness.
+11:15. .e ro cipnrkorvo be roda
 
 @c    11:16. The ostrich, and the owl, and the larus, and the hawk according
 @c    to its kind.
+11:16. .e ro cipnrbatiana .e ro glauka .e ro cipnrlaro .e ro .akcipitro be roda
 
 @c    11:17. The screech owl, and the cormorant, and the ibis.
+11:17. .e ro cipnrkosu .e ro flakrokoraka .e ro cipnrjancufu
 
 @c    11:18. And the swan, and the bittern, and the porphyrion.
+11:18. .e ro tinceme .e ro fipydaklycpi .e ro cipnrvispreda
+@c "tinshemet" is in the reptile list too, so I pointedly did *not* precede it with "cipnr-".
+@c I suspect it's an extinct pterosaur or other animal resembling both reptiles and birds.
+@c Tinshemet is porphyrion; this verse is rearranged in Douay. -phma
 
 @c    11:19. The heron, and the charadroin according to its kind, the houp
 @c    also, and the bat.
+11:19. .e ro cipnrkikonia .e ro cipnrxarde'a .e ro cipnrpupupa .e ro volmabru
 
 @c    11:20. Of things that fly, whatsoever goeth upon four feet, shall be
 @c    abominable to you.
