@@ -266,8 +266,15 @@
 @c    say to them:  The God of your fathers hath sent me to you.  If they shall
 @c    say to me:  What is his name?  What shall I say to them?
 
+i la moCES cusku fi le cevni fe lu ru'a mi klama lei panzi be la iisra,EL gi'e
+cusku fi py fe lu le cevni be lei dzena be do cu benji mi do li'u i da'i py
+cusku fi mi fe lu ma cmene cy li'u i mi cusku ma fi py li'u
+
 @c    3:14. God said to Moses:  I AM WHO AM.  He said:  Thus shalt thou say to
 @c    the children of Israel:  HE WHO IS, hath sent me to you.
+
+i le cevni cu cusku fi la moCES fe lu lu e'IEX aCER e'IEX li'u i ko cusku di'e lei panzi
+be la iisra,EL i la e'IEX cu benji mi do li'u
 
 @c    I am who am. . .That is, I am being itself, eternal, self-existent,
 @c    independent, infinite; without beginning, end, or change; and the
@@ -280,7 +287,7 @@
 
 i le cevni cu za'ure'u cusku fi la moCES fe lu ko cusku di'u le lanzu pe
 le bronai i lu la turni poi cevni lei dzena be do zi'epoi cevni la avra'AM
-zi'epoi cevni la iitsxak zi'epoi cevni la iaKOV cu benji mi do i cmene mi
+zi'epoi cevni la iitsXAK zi'epoi cevni la iaKOV cu benji mi do i cmene mi
 ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
 
 @c    3:16. Go and gather together the ancients of Israel, and thou shalt say
@@ -2165,15 +2172,19 @@ ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
 
 @c    20:2. I am the Lord thy God, who brought thee out of the land of Egypt,
 @c    out of the house of bondage.
-20:2. .i mi'e .iaves noi cevni do mi livgau do le misro gugde noi selbairgu'a zdani
+20:2. .i mi'e .iaves noi cevni do mi livgau do le misro gugde noi selbaigu'a zdani
 
 @c    20:3. Thou shalt not have strange gods before me.
 20:3. .i lo drata be mi be'o na cevni ko
+@c zo be'o na sarcu
 
 @c    20:4. Thou shalt not make to thyself a graven thing, nor the likeness
 @c    of any thing that is in heaven above, or in the earth beneath, nor of
 @c    those things that are in the waters under the earth.
 20:4. .i ko na zbasu lo jdaseltai co tamsmi be da poi zvati le galfi tsani
+@c ma te ckini zo lijda zo seltai
+@c i mi stidi lu lo seltai je pixra be da poi zvati le tsani noi gapru
+@c e le terdi noi cnita e le djacu noi cnita le terdi li'u
 .a le dizlo terdi .a le dizlo be le terdi be'o djacu be'o
 
 @c    A graven thing, nor the likeness of any thing, etc. . .All such images,
@@ -2191,24 +2202,32 @@ ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
 @c    mighty, jealous, visiting the iniquity of the fathers upon the
 @c    children, unto the third and fourth generation of them that hate me:
 20:5. .i ko na jdasi'a ja selfu lo jdaseltai .iseki'ubo mi no'u la .iaves
+@c i si'a zo jdasi'a i stidi lu vrese'u nagi'enai si'arse'u vau ra
 noi cevni do ku'o ku'o jilra cevni .i da poi xebni mi zo'u le pazypazypanzi
 .e le pazypazypazypanzi cu lifri le velsfa be da
+@c i mi stidi zo rorke'u noi valsi la'ozoi generation zoi
 
 @c    20:6. And shewing mercy unto thousands to them that love me, and keep
 @c    my commandments.
 20:6. .ije mi xendo so'iki'o da poi prami mi gi'e tinbe fi mi
+@c lu tinbe le te minde be mi li'u pe'i mi'e adam
 
 @c    20:7. Thou shalt not take the name of the Lord thy God in vain:  for the
 @c    Lord will not hold him guiltless that shall take the name of the Lord
 @c    his God in vain.
 20:7. .i ko na xalbo le cmene be la .iaves noi cevni do .iku'ibo da poi xalbo
+@c lu iki'ubo li'u pe'i
 le cmene be la .iaves noi cmene da zo'u la .iaves na xusra ledu'u da zercau
+@c i le nu xusra ce'u na nibli le nu ce'u jetnu i mi stidi zo kairgau mu'a
+@c i zo nalzugygau ji'a cu cumki
 
 @c    20:8. Remember that thou keep holy the sabbath day.
 20:8. .i ko morji lenu cesri'a le surdei
 
 @c    20:9. Six days shalt thou labour, and shalt do all thy works.
 20:9. .i ca'o xafi'uze loi djedi ku ko gunka gi'e zbasu ro le do selzba
+@c i ma nabmi pe lu ca/ca'o lo djedi pe li xa li'u i ji'a lu le selzba be do li'u
+@c mi'e adam
 
 @c    20:10. But on the seventh day is the sabbath of the Lord thy God:  thou
 @c    shalt do no work on it, thou nor thy son, nor thy daughter, nor thy
@@ -2217,6 +2236,7 @@ le cmene be la .iaves noi cmene da zo'u la .iaves na xusra ledu'u da zercau
 20:10. .iku'i le zemoi djedi cu surdei ca'i la .iaves noi cevni do .i ko na gunka ca'o ra
 .ije leko bersa .a leko tixnu .a le nakni ja fetsi selfu be ko .a leko mabru
 .a le fange poi nenri leko vorme nago'i
+@c i lu le bersa e le tixnu li'o cu logji drani gi'e zmamapti le krasi se fanva mi'e adam
 
 @c    20:11. For in six days the Lord made heaven and earth, and the sea, and
 @c    all things that are in them, and rested on the seventh day:  therefore
@@ -2233,9 +2253,11 @@ vi le tumla poi la .iaves noi cevni do cu dunda fi do
 @c i mi stidu zo sinma peseba'i zo salci 
 @c iji'a lu do ze'u jmive vi le tumla poi la turni noi cevni do cu dunda ke'a fi do li'u
 @c i mi mutce co xebni zo fi'o i zo ku'o poi lidne zo cu na sarcu -- mi'e adam
+@c i ji'a lu le patfu be do li'u e le simsa cu xagmau mi'e adam
 
 @c .iji'a zo jivni na valsi .i mi selfi'u pensi bau le rusko
 @c .i zo turni na xelfanva zoi xy. yahweh .xy noi vi se ciska
+@c i na'eca vajni i te lijda preti mi'e adam
 
 @c    20:13. Thou shalt not kill.
 20:13. .i ko na zercatra
