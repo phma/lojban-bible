@@ -32,6 +32,7 @@ ijebabo zi lo mentu be li so'u simlu le ka rarna kei fa le nu la alis
 goi ko'a cu facki le du'u ko'a pendo tavla ra setaida'i le nu
 ko'a se slabu ra roroi le nu ko'a jmive i je'u ko'a pu je'aze'u daupro
 la cipnrlori noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
+@c stidi lu le cipnrlori li'u .i ro cipnrlori cu babgalo mi'e pier.
 junmau li'u po'o ije la'edi'u zo'u la alis na curmi secau le nu
 djuno le du'u ly jai nanca makau ije ki'u le nu la cipnrlori cu je'a tolsarxe
 le nu cusku le du'u makau se jai nanca ly na se sumji se cusku
@@ -113,6 +114,7 @@ zo'u fi ma fa le ralju seljdagidva cu facki li'u
 
 i la smacu cu na sanji le di'u preti i ku'i sutra co ranji cusku
 lu facki le du'u se djica fa le nu kansa la edgar atelin le nu
+@c Lost in translation. Where did "da" go? -phma
 penmi la uiliam gi'e friti fi ubu fe le nu turni li'u
 
 @c      `As wet as ever,' said Alice in a melancholy tone:  `it doesn't

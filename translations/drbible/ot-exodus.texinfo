@@ -2156,15 +2156,20 @@
 @c    The ten commandments.
 
 @c    20:1. And the Lord spoke all these words:
+20:1. ni'o la cevni cu cusku piro di'e
 
 @c    20:2. I am the Lord thy God, who brought thee out of the land of Egypt,
 @c    out of the house of bondage.
+20:2. .i mi'e .iaves noi cevni do mi livgau do le misro gugde noi bairgu'a zdani
 
 @c    20:3. Thou shalt not have strange gods before me.
+20:3. .i lo drata be mi be'o na cevni ko
 
 @c    20:4. Thou shalt not make to thyself a graven thing, nor the likeness
 @c    of any thing that is in heaven above, or in the earth beneath, nor of
 @c    those things that are in the waters under the earth.
+20:4. .i ko na zbasu lo jdaseltai co tamsmi be da poi zvati le galfi tsani
+.a le dizlo terdi .a le dizlo be le terdi be'o djacu be'o
 
 @c    A graven thing, nor the likeness of any thing, etc. . .All such images,
 @c    or likenesses, are forbidden by this commandment, as are made to be
@@ -2180,41 +2185,64 @@
 @c    20:5. Thou shalt not adore them, nor serve them:  I am the Lord thy God,
 @c    mighty, jealous, visiting the iniquity of the fathers upon the
 @c    children, unto the third and fourth generation of them that hate me:
+20:5. .i ko na jdasi'a ja selfu lo jdaseltai .iseki'ubo mi no'u la .iaves
+noi cevni do ku'o ku'o jilra cevni .i da poi xebni mi zo'u le pazypazypanzi
+.e le pazypazypazypanzi cu lifri le velsfa be da
 
 @c    20:6. And shewing mercy unto thousands to them that love me, and keep
 @c    my commandments.
+20:6. .ije mi xendo so'iki'o da poi prami mi gi'e tinbe fi mi
 
 @c    20:7. Thou shalt not take the name of the Lord thy God in vain:  for the
 @c    Lord will not hold him guiltless that shall take the name of the Lord
 @c    his God in vain.
+20:7. .i ko na xalbo le cmene be la .iaves noi cevni do .iku'ibo da poi xalbo
+le cmene be la .iaves noi cmene da zo'u la .iaves na xusra ledu'u da zercau
 
 @c    20:8. Remember that thou keep holy the sabbath day.
+20:8. .i ko morji lenu cesri'a le surdei
 
 @c    20:9. Six days shalt thou labour, and shalt do all thy works.
+20:9. .i ca'o xafi'uze loi djedi ku ko gunka gi'e zbasu ro le do selzba
 
 @c    20:10. But on the seventh day is the sabbath of the Lord thy God:  thou
 @c    shalt do no work on it, thou nor thy son, nor thy daughter, nor thy
 @c    manservant, nor thy maidservant, nor thy beast, nor the stranger that
 @c    is within thy gates.
+20:10. .iku'i le zemoi djedi cu surdei ca'i la .iaves noi cevni do .i ko na gunka ca'o ra
+.ije leko bersa .a leko tixnu .a le nakni ja fetsi selfu be ko .a leko mabru
+.a le fange poi nenri leko vorme nago'i
 
 @c    20:11. For in six days the Lord made heaven and earth, and the sea, and
 @c    all things that are in them, and rested on the seventh day:  therefore
 @c    the Lord blessed the seventh day, and sanctified it.
+20:11. .iki'ubo la .iaves cu zbasu le terdi .e le xamsi .e le se vasru be ri
+ca'o lo djedi be li xa gi'e surla ca'o le zemoi djedi .iseki'ubo la .iaves
+cu toldapma gi'e cesri'a le zemoi djedi
 
 @c    20:12. Honour thy father and thy mother, that thou mayst be longlived
 @c    upon the land which the Lord thy God will give thee.
+20:12. .i ko salci [?] le do patfu .e ledo mamta mu'i lenu do clatei jivni
+fi'o se xabju le tumla poi la .iaves noi cevni do ku'o cu dandu fi do
 
 @c    20:13. Thou shalt not kill.
+20:13. .i ko na zercatra
 
 @c    20:14. Thou shalt not commit adultery.
+20:14. .i ko na datspegle
 
 @c    20:15. Thou shalt not steal.
+20:15. .i ko na zerle'a
 
 @c    20:16. Thou shalt not bear false witness against thy neighbour.
+20:16. .i ko na jitfa xusra tu'a lo xa'ujbi be do
 
 @c    20:17. Thou shalt not covet thy neighbour's house; neither shalt thou
 @c    desire his wife, nor his servant, nor his handmaid, nor his ox, nor his
 @c    ass, nor any thing that is his.
+20:17. .i ko na djica tu'a le zdani be lo xa'ujbi be do be'o goi ko'a .i ko na djica tu'a
+le speni be ko'a .a le selfu be ko'a .a le verku'i be ko'a .a le ko'a bakni .a
+le ko'a xasli .a da pe ko'a
 
 @c    20:18. And all the people saw the voices and the flames, and the sound
 @c    of the trumpet, and the mount smoking; and being terrified and struck
