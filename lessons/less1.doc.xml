@@ -1,1 +1,802 @@
-<chapter id="less1"><title>Sounds, names and a fewattitudes</title><para>The first thing you need to do when you learn aforeign language is to become familiar with the sounds of the language andhow they are written, and the same goes for Lojban.  Fortunately, Lojbansounds (phonemes) are fairly straightforward.</para><sect1 id="less1vowels"><title>Vowels</title><para>There are six vowels in Lojban.</para><variablelist><varlistentry> <term><foreignphraselang="art-lojban">a</foreignphrase></term> <listitem><para>as in <wordasword>f<emphasisrole="strong">a</emphasis>ther</wordasword> (not as in <wordasword>h<emphasis role="bold">a</emphasis>t</wordasword>)</para></listitem> </varlistentry><varlistentry> <term><foreignphrase lang="art-lojban">e</foreignphrase></term><listitem><para>as in <wordasword>g<emphasis role="bold">e</emphasis>t</wordasword></para></listitem></varlistentry><varlistentry> <term><foreignphraselang="art-lojban">i</foreignphrase></term> <listitem><para>as in (Italian) <wordasword>v<emphasisrole="bold">i</emphasis>no</wordasword> (not as in <wordasword>h<emphasis role="bold">i</emphasis>t</wordasword>)</para></listitem> </varlistentry><varlistentry> <term><foreignphrase lang="art-lojban">o</foreignphrase></term><listitem><para>as in <wordasword>b<emphasis role="bold">o</emphasis>ld </wordasword> or <wordasword>m<emphasis role="bold">o</emphasis>re</wordasword> &mdash; not as in <wordasword>s<emphasis role="bold">o</emphasis></wordasword> (this should be a <quote role="socalled">pure</quote> sound.)  </para></listitem></varlistentry><varlistentry> <term><foreignphraselang="art-lojban">u</foreignphrase></term> <listitem><para>as in <wordasword>c<emphasisrole="bold">oo</emphasis>l</wordasword> (not as in <wordasword>b<emphasis role="bold">u</emphasis>t</wordasword>)</para></listitem> </varlistentry></variablelist><para>These are pretty much the same as vowels in Italianor Spanish.  The sixth vowel, <foreignphrase lang="art-lojban">y</foreignphrase>,is called a <wordasword>schwa</wordasword> in the language trade, and is pronounced like the firstand last <wordasword>A</wordasword>'s in <wordasword>America</wordasword> (that's English <wordasword>America</wordasword>, not Spanish.)  It'sthe sound that comes out when the mouth is completely relaxed.</para><para>Two vowels together are pronounced as one sound (diphthong).  Someexamples are:</para><variablelist> <varlistentry><term><foreignphraselang="art-lojban">ai</foreignphrase></term> <listitem><para>as in <wordasword>h<emphasisrole="bold">igh</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term><listitem><para>as in <wordasword>h<emphasisrole="bold">ow</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term><listitem><para>as in <wordasword>h<emphasisrole="bold">ey</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term><listitem><para>as in <wordasword>b<emphasisrole="bold">oy</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term><listitem><para>like German <wordasword><emphasis role="bold">Ja</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term><listitem><para>like <wordasword><emphasis role="bold">yeah</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term><listitem><para>like <wordasword><emphasis role="bold">you</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term><listitem><para>as in <wordasword><emphasis role="bold">waah!</emphasis></wordasword>, or French <wordasword>q<emphasis role="bold">uoi</emphasis></wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term><listitem><para>as in <wordasword>q<emphasisrole="bold">ue</emphasis>stion</wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term><listitem><para>as in <wordasword>q<emphasisrole="bold">uo</emphasis>te</wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term><listitem><para>like <wordasword><emphasis role="bold">we</emphasis></wordasword>, or French <wordasword><emphasis role="bold">oui</emphasis></wordasword></para></listitem></varlistentry></variablelist><para>Double vowels are rare.  The only examples are<foreignphrase lang="art-lojban">ii</foreignphrase>, which is pronounced likeEnglish <wordasword>ye</wordasword> (as in <quote>Oh come all ye faithful</quote>) or Chinese <wordasword>yi</wordasword>, and<foreignphrase lang="art-lojban">uu</foreignphrase>, pronounced like <wordasword>woo</wordasword>.</para></sect1><sect1 id="less1consonants"><title>Consonants</title><para>Most Lojban consonants are the same as English, but there are someexceptions: </para><variablelist><varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term><listitem><para><wordasword>sh</wordasword>, as in <wordasword><emphasisrole="bold">sh</emphasis>ip</wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term><listitem><para>as in <wordasword>mea<emphasis role="bold">s</emphasis>ure</wordasword> or French<wordasword>bon<emphasis role="bold">j</emphasis>our</wordasword></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term><listitem><para>as in German <wordasword>Ba<emphasis role="bold">ch</emphasis></wordasword>, Spanish<wordasword><emphasis role="bold">J</emphasis>ose</wordasword> or Arabic <wordasword><emphasisrole="bold">Kh</emphasis>aled</wordasword></para></listitem></varlistentry> </variablelist><para>The English sounds <wordasword>ch</wordasword> and<wordasword>j</wordasword> are written as <foreignphraselang="art-lojban">tc</foreignphrase> and <foreignphraselang="art-lojban">dj</foreignphrase>.</para><para>Lojban doesn't use the letters <wordasword>H</wordasword>,<wordasword>Q</wordasword> or <wordasword>W</wordasword>.  </para> </sect1><sect1 id="less1special"><title>Special Characters</title><para>Lojban does not require any punctuation, but some of the charactersnormally used in punctuation affect the way Lojban is pronounced.  A fullstop (period) is a short pause to stop words running into each other. For that reason, it is conventionally placed in front of any word starting with a vowel &mdash; including the vowel letters of the alphabet we have just seen.</para>  <para>An apostrophe separates two vowels, and is pronounced like an<wordasword>h</wordasword>.  For example, <foreignphraselang="art-lojban">ui</foreignphrase> is normally pronounced<wordasword>we</wordasword>, but <foreignphraselang="art-lojban">u'i</foreignphrase> is <wordasword>oohee</wordasword>.  Theapostrophe is regarded as a proper letter in Lojban, and is called<foreignphrase lang="art-lojban">.y'y</foreignphrase>.  This should sound like acough.</para><para>Commas are rare in Lojban, but can be used to stop two vowelsblurring together when you don't want to use an apostrophe (which would puta <wordasword>h</wordasword> between them). No Lojban words have commas,but they're sometimes used in writing non-Lojban names, for example<foreignphrase lang="art-lojban">pi,ER.</foreignphrase>(<wordasword>Pierre</wordasword>), as opposed to <foreignphraselang="art-lojban">pier.</foreignphrase> (<wordasword>P-yerr</wordasword>)or <foreignphrase lang="art-lojban">pi'ER.</foreignphrase>(<wordasword>Piherr</wordasword>).</para><para>Capital letters are not normally used in Lojban. We use them innon-Lojban words (like <wordasword>Pierre</wordasword>) when the stress ofa word is different from the Lojban norm. The norm is to put the stress onthe last-but-one syllable; so, for example, <foreignphraselang="art-lojban">kurmikce</foreignphrase> <quoterole="gloss">nurse</quote> is <foreignphrase lang="art-lojban">kur<emphasisrole="bold">MIK</emphasis>ce</foreignphrase>, not <foreignphraselang="art-lojban"><emphasisrole="bold">KUR</emphasis>mikce.</foreignphrase> The name<wordasword>Juliette</wordasword> would be written <foreignphraselang="art-lojban">DJUli,et.</foreignphrase> if pronounced in an Englishway, but <foreignphrase lang="art-lojban">julIET.</foreignphrase> ifpronounced as in French.</para> </sect1><sect1 id="less1alphabet"><title>Alphabet</title><para>In most language textbooks, you get the alphabet of the language together with its sounds. Letters (<foreignphrase lang="art-lojban">lerfu</foreignphrase>) turn out to be even more important than usual in Lojban, so we might as well go through their names quickly.</para><para>Consonants are straight-forward: the name of a consonant letter is that letter, plus <foreignphrase lang="art-lojban">y</foreignphrase>. So the consonant letters of Lojban, <wordasword>b, c, d, f, g ...</wordasword>, are called <foreignphrase lang="art-lojban">by, cy, dy, fy, gy...</foreignphrase> in Lojban.</para><para>Vowels <emphasis>would</emphasis> be called <foreignphraselang="art-lojban">ay, ey, iy</foreignphrase>, but that would be ratherdifficult to pronounce. Instead, they are handled by following the vowelsound with the word <foreignphrase lang="art-lojban">bu</foreignphrase>,which basically means <quote role="gloss">letter</quote>. So the vowels ofLojban are: <foreignphrase lang="art-lojban">abu, ebu, ibu, obu, ubu,ybu</foreignphrase>. </para><para>Lojban has ways of refering to most letters you can think of; see<citetitle>The Complete Lojban Language</citetitle>, Chapter 17 fordetails. If you have the urge to spell out your name in Lojban and have an<wordasword>H</wordasword>, <wordasword>Q</wordasword>, or<wordasword>W</wordasword> to deal with, you can use <foreignphraselang="art-lojban">y'ybu</foreignphrase>, <foreignphraselang="art-lojban">kybu</foreignphrase> and <foreignphraselang="art-lojban">vybu</foreignphrase>. So<wordasword>Schwarzenegger</wordasword> is spelt in Lojban as:<informalexample><para><foreignphrase lang="art-lojban">sy cy y'ybu vybu abu ry zy ebu ny ebu gy gy ebu ry</foreignphrase></para></informalexample>And spelling <emphasis>that</emphasis> is a task the equal of anything the Terminator ever did!</para><simplesect role="exercise"><title>Exercise 1</title> <para>Spell your namein Lojban (or at least something close enough to it to use the twenty-sixletters of English we have learned, and the apostrophe.) No peeking at theback of the book &mdash; we don't have the answer to this exercisethere!</para> </simplesect> </sect1><sect1 id="less1pronounc"><title><quote role="socalled">Correct</quote> pronunciation</title><para>You don't have to be very precise about Lojban pronunciation, becausethe phonemes are distributed so that it is hard to mistake one sound foranother.  This means that rather than one <quote role="socalled">correct</quote> pronunciation, there isa range of acceptable pronunciation &mdash; the general principle is thatanything is OK so long as it doesn't sound too much like something else. For example, Lojban <foreignphrase lang="art-lojban">r</foreignphrase> can bepronounced like the <wordasword>r</wordasword> in English, Scottish orFrench.</para><para>Two things to be careful of, though, are pronouncing Lojban<foreignphrase lang="art-lojban">i</foreignphrase> and <foreignphraselang="art-lojban">u</foreignphrase> like Standard British English <wordasword>hit</wordasword> and <wordasword>but</wordasword>(Northern English <wordasword>but</wordasword> is fine!).  This is because non-Lojban vowels,particularly these two, are used to separate consonants by people who findthem hard to say.  For example, if you have problems spitting out the<foreignphrase lang="art-lojban">zd</foreignphrase> in <foreignphrase lang="art-lojban">zdani</foreignphrase> (house), you can say <foreignphraselang="art-lojban">zIdani</foreignphrase> &mdash; the first <foreignphraselang="art-lojban">I</foreignphrase> is very short, but the second has to be long. </para> </sect1><sect1 id="less1attitude"><title>Lojban with attitude!</title><para>If you tried pronouncing the vowelcombinations above, you've already said some Lojban words.  Lojban has aclass of words called <wordasword>attitudinal indicators</wordasword>, which express how thespeaker feels about something.  The most basic ones consist of two vowels,sometimes with an apostrophe in the middle.  Here are some of the mostuseful ones.  </para><variablelist><varlistentry><term><foreignphrase lang="art-lojban">.a'o</foreignphrase></term><listitem><para>hope</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.au</foreignphrase></term><listitem><para>desire</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.a'u</foreignphrase></term><listitem><para>interest</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.ie</foreignphrase></term><listitem><para>agreement</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.i'e</foreignphrase></term><listitem><para>approval</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.ii</foreignphrase></term><listitem><para>fear (think of <quote>Eeek!</quote>)</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.iu</foreignphrase></term><listitem><para>love</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.oi</foreignphrase></term><listitem><para>complaint</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.ua</foreignphrase></term><listitem><para>discovery, <quote>Ah, I get it!</quote></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.ue</foreignphrase></term><listitem><para>surprise</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.u'e</foreignphrase></term><listitem><para>wonder, <quote>Wow!</quote></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.ui</foreignphrase></term><listitem><para>happiness</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.u'i</foreignphrase></term><listitem><para>amusement</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.uu</foreignphrase></term><listitem><para>pity, sympathy<footnote id="less1fn1"><para>In English, people have started to avoid the word<wordasword>pity</wordasword>, because it has come to have associations of superiority. <foreignphrase lang="art-lojban">.uu</foreignphrase> is just the raw emotion: ifyou wanted to express pity in this rather condescending way, you'd probablysay <foreignphrase lang="art-lojban">.uuga'i</foreignphrase> &mdash; <quote>pitycombined with a sense of superiority,</quote> or <foreignphraselang="art-lojban">.uuvu'e</foreignphrase> &mdash; <quote>pity combined with a sense ofvirtue.</quote>  Then again, you would probably just keep your mouthshut.</para></footnote></para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.u'u</foreignphrase></term><listitem><para>repentance, <quote>I'm sorry!</quote></para></listitem></varlistentry></variablelist><para>You can make any of these into its opposite by adding <foreignphraselang="art-lojban">nai</foreignphrase>, so <foreignphraselang="art-lojban">.uinai</foreignphrase> means <quote>I'm unhappy</quote>,<foreignphrase lang="art-lojban">.aunai</foreignphrase> is reluctance,<foreignphrase lang="art-lojban">.uanai</foreignphrase> is confusion(<quote>I don't get it</quote>,<quote>Duh...</quote>) and so on. You canalso combine them. For example, <foreignphraselang="art-lojban">.iu.uinai</foreignphrase> would mean <quote>I amunhappily in love.</quote> In this way you can even create words to expressemotions which your native language doesn't have. </para><para>Attitudinal indicators are extremely useful and it is well worthmaking an effort to learn the most common ones. One of the biggest problemspeople have when trying to speak in a foreign language is that, whilethey've learnt how to buy a kilo of olives or ask the way to the postoffice, they can't express feelings, because many languages do this in around-about way (outside group therapy, very few British people would sayoutright that they were sad, for example!) In Lojban you can be verydirect, very briefly (there are ways of <quoterole="socalled">softening</quote> these emotions, which we'll get to in alater lesson). In fact, these attitudinals are so useful that someLojbanists use them even when they're writing in English, rather likeemoticons (those e-mail symbols like <computeroutput>;-):-(</computeroutput> etc.).</para><simplesect role="exercise"><title>Exercise 2</title> <para>Using the attitudinal indicatorsabove (including negatives), what might you say in the followingsituations?<orderedlist><listitem><para>You've just realised where you left your keys.  </para></listitem><listitem><para>Someone treads on your toes.  </para></listitem><listitem><para>You're watching a boring film.  </para></listitem><listitem><para>Someone's just told you a funny story.  </para></listitem><listitem><para>You disagree with someone.  </para></listitem><listitem><para>Someone's just taken the last cookie in the jar.  </para></listitem><listitem><para>You really don't like someone.</para></listitem><listitem><para>You are served a cold, greasy meal.  </para></listitem><listitem><para>Your friend has just failed a test.  </para></listitem><listitem><para>There is a large green beetle crawling towards you.  </para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less1names"><title>Lojban Names (<foreignphrase lang="art-lojban">cmene</foreignphrase>)</title><para>Watch any film where people don't know each other's language.  They startoff saying things like <quote>Me Tarzan,</quote> which is as good a place to startlearning Lojban as any.  So here we go.</para><informalexample><literallayout><foreignphrase lang="art-lojban">mi'e robin.</foreignphrase>I-am-named RobinI'm Robin</literallayout></informalexample><para><foreignphrase lang="art-lojban">mi'e</foreignphrase> is related to<foreignphrase lang="art-lojban">mi</foreignphrase>, which is <quote role="gloss">I</quote>, <quote role="gloss">me</quote> and so on. It's a good example of the apostrophe separating two vowels, and sounds abit like <wordasword>me heh</wordasword>.</para><para>I am lucky because my name goes directly into Lojban without anychanges. However, there are some rules for Lojban names which mean thatsome names have to be <quote role="socalled">Lojbanised</quote>. This maysound strange &mdash; after all, a name is a name &mdash; but in fact alllanguages do this to some extent. For example, English speakers tend topronounce <foreignphrase lang="spa">Jose</foreignphrase> something like<wordasword>Hozay</wordasword>, and <wordasword>Margaret</wordasword> inChinese is <foreignphrase lang="zho">Magelita</foreignphrase>. Some soundsjust don't exist in some languages, so the first thing you need to do isrewrite the name so that it only contains Lojban sounds, and is spelt in aLojban way. </para><note><para>The catch here is, what version of the sounds will you be using? For English in particular, British and American vowels can be quite different. The British version of <wordasword>Robin</wordasword> is reasonably approximated by <foreignphraselang="art-lojban">robin.</foreignphrase>; but the American version is closer to <foreignphraselang="art-lojban">rabyn.</foreignphrase> or <foreignphraselang="art-lojban">rab,n.</foreignphrase>. And within America and Britain, there is also a good deal of variation. So you should take the transliterations given below with a grain of salt.</para></note><para>Let's take the English name <wordasword>Susan</wordasword>. The two<wordasword>s</wordasword>'s are pronounced differently &mdash; the secondone is actually a <wordasword>z</wordasword> &mdash; and the<wordasword>a</wordasword> is not really an <wordasword>a</wordasword>sound, it's the <quote role="socalled">schwa</quote> we just mentioned. So<wordasword>Susan</wordasword> comes out in Lojban as <foreignphraselang="art-lojban">suzyn.</foreignphrase>. </para><para>You may have noticed the extra full stop (period) there. This isnecessary because if you didn't pause, you might not know where the nameended and the next word began. In addition, if a name<emphasis>begins</emphasis> with a vowel, you need a full stop there aswell. For example: </para><variablelist><varlistentry><term><foreignphrase lang="art-lojban">.an.</foreignphrase></term><listitem><para>Anne</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">.axmet.</foreignphrase></term><listitem><para>Ahmet</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">.eduard.</foreignphrase></term><listitem><para>Edward</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.IBraxim.</foreignphrase> or<foreignphrase lang="art-lojban">.IBra'im.</foreignphrase></term><listitem><para>Ibrahim</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="art-lojban">.odin.</foreignphrase></term><listitem><para>Odin</para></listitem> </varlistentry></variablelist><para>You can also put a full stop in between a person's first and lastnames (though it's not compulsory), so <wordasword>Jim Jones</wordasword>becomes <foreignphrase lang="art-lojban">djim.djonz.</foreignphrase>.</para><para>An important rule for Lojbanising names is that the last letter of a<foreignphrase lang="art-lojban">cmene</foreignphrase> (Lojban name) mustbe a consonant. Again, this is to prevent confusion as to where a nameends, and what is and is not a name (all other Lojban words end in avowel). We usually use <foreignphraselang="art-lojban"><wordasword>s</wordasword></foreignphrase> for this; soin Lojban, <wordasword>Mary</wordasword> becomes <foreignphraselang="art-lojban">meris.</foreignphrase> , <wordasword>Joe</wordasword>becomes <foreignphrase lang="art-lojban">djos.</foreignphrase> and so on.An alternative is to leave out the last vowel, so<wordasword>Mary</wordasword> would become <foreignphraselang="art-lojban">mer.</foreignphrase> or <foreignphraselang="art-lojban">meir.</foreignphrase>.</para><para>A few combinations of letters are illegal in Lojbanised names,because they can be confused with Lojban words: <foreignphraselang="art-lojban">la</foreignphrase>, <foreignphraselang="art-lojban">lai</foreignphrase> and <foreignphraselang="art-lojban">doi</foreignphrase>. So <wordasword>Alabama</wordasword>can't be <foreignphrase lang="art-lojban">.alabamas.</foreignphrase> butneeds to be <foreignphrase lang="art-lojban">.alybamas.</foreignphrase> ,for example. </para><para>The final point is stress. As we've seen, Lojban words are stressedon the penultimate syllable, and if a name has different stress, we usecapital letters. This means that the English and French names<wordasword>Robert</wordasword> come out differently in Lojban: the Englishname is <foreignphrase lang="art-lojban">robyt.</foreignphrase> in UKEnglish, or <foreignphrase lang="art-lojban">rab,rt.</foreignphrase> insome American dialects, but the French is <foreignphraselang="art-lojban">roBER.</foreignphrase> . </para><para>To give an idea of how all this works, here are some names of famouspeople in their own language and in Lojban.  </para><!-- set TermLength artificially to prevent both table and para renderings in the same grouping --><variablelist termlength="1"> <title>English</title><varlistentry><term>Margaret Thatcher</term> <listitem><para><foreignphraselang="art-lojban">magryt.tatcys.</foreignphrase> (no <wordasword>th</wordasword> in Lojban because mostpeople around the world can't say it!)</para></listitem></varlistentry><varlistentry><term>Mick Jagger</term> <listitem><para><foreignphraselang="art-lojban">mik.djagys.</foreignphrase></para></listitem> </varlistentry></variablelist><variablelist termlength="1"><title>French</title><varlistentry><term>Napoleon Bonaparte</term> <listitem><para><foreignphraselang="art-lojban">napole,ON. bonaPART.</foreignphrase></para></listitem></varlistentry><varlistentry><term>Juliette Binoche</term> <listitem><para><foreignphraselang="art-lojban">julIET.binOC.</foreignphrase></para></listitem></varlistentry></variablelist><variablelist termlength="1"><title>Chinese</title><varlistentry><term>Laozi</term> <listitem><para><foreignphraselang="art-lojban">laudz.</foreignphrase></para></listitem></varlistentry><varlistentry><term>Mao Zedong</term> <listitem><para><foreignphraselang="art-lojban">maus.dzeDYNG.</foreignphrase></para></listitem></varlistentry></variablelist><variablelist termlength="1"><title>Turkish</title><varlistentry><term>Mustafa Kemal</term> <listitem><para><foreignphraselang="art-lojban">MUStafas.kemal.</foreignphrase></para></listitem></varlistentry><varlistentry><term>Erkin Koray</term> <listitem><para><foreignphraselang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry></variablelist><variablelist termlength="1"><title>German</title><varlistentry><term>Ludwig Wittgenstein</term> <listitem><para><foreignphraselang="art-lojban">ludvig.VITgynctain.</foreignphrase></para></listitem></varlistentry><varlistentry><term>Clara Schumann</term> <listitem><para><foreignphraselang="art-lojban">klaras.cuman.</foreignphrase></para></listitem></varlistentry></variablelist><variablelist termlength="1"><title>Spanish</title><varlistentry><term>Isabel Allende</term> <listitem><para><foreignphraselang="art-lojban">.izaBEL.aiendes.</foreignphrase></para></listitem></varlistentry><varlistentry><term>Che Guevara</term> <listitem><para><foreignphraselang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry></variablelist><simplesect role="exercise"><title>Exercise 3</title><para>Where are these places?</para><orderedlist><listitem><para><foreignphrase lang="art-lojban">niu,IORK.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">romas.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">xavanas.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">kardif.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">beidjin.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.Ankaras.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">prictinas.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">vankuver.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">keiptaun.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">taibeis.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">bon.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">delis.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">nis.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.atinas.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">lidz.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">xelsinkis.</foreignphrase></para></listitem></orderedlist></simplesect><simplesect role="exercise"><title>Exercise 4</title><para>Lojbanise the following names</para><orderedlist><listitem><para>John</para></listitem><listitem><para>Melissa</para></listitem><listitem><para>Amanda</para></listitem><listitem><para>Matthew</para></listitem><listitem><para>Michael</para></listitem><listitem><para>David Bowie</para></listitem><listitem><para>Jane Austen</para></listitem><listitem><para>William Shakespeare</para></listitem><listitem><para>Sigourney Weaver</para></listitem><listitem><para>Richard Nixon</para></listitem><listitem><para>Quito</para></listitem><listitem><para>Istanbul</para></listitem><listitem><para>Madrid</para></listitem><listitem><para>Tokyo</para></listitem><listitem><para>San Salvador</para></listitem></orderedlist></simplesect></sect1><sect1 id="less1lojnames"><title>Lojban words as names</title><para>By now you should be able to Lojbanise your own name.  However, ifyou prefer, you can translate your name into Lojban (if you know what itmeans, of course) or adopt a completely new Lojban identity.  NativeAmericans generally translate their name when speaking English, partlybecause they have meaningful names, and partly because they don't expectthe <foreignphrase lang="dak">wasichu</foreignphrase> to be able to pronounce words inLakota, Navaho or whatever!</para><para>All Lojban words end in a vowel, and although you<emphasis>can</emphasis> use them as names as they stand, it's common toleave out the final vowel to make it absolutely clear that this is a nameand not something else (Lojban goes for overkill when it comes to possiblemisunderstanding).  So if your name or nickname is <wordasword>Cat</wordasword> (Lojban<foreignphrase lang="art-lojban">mlatu</foreignphrase>), you can either add<foreignphrase lang="art-lojban">s</foreignphrase> like a normal <foreignphraselang="art-lojban">cmene</foreignphrase> to make <foreignphraselang="art-lojban">mlatus.</foreignphrase>, or just chop the end off and callyourself <foreignphrase lang="art-lojban">mlat.</foreignphrase> .</para><para>Here are a few examples:</para><itemizedlist> <listitem><para>Fish &ndash; <foreignphraselang="art-lojban">finpe</foreignphrase> &ndash; <foreignphraselang="art-lojban">finp.</foreignphrase></para></listitem><listitem><para>Bj&ouml;rn (Scandinavian = bear) &ndash; <foreignphrase lang="art-lojban">cribe</foreignphrase>&ndash; <foreignphrase lang="art-lojban">crib.</foreignphrase></para></listitem><listitem><para>Green &ndash; <foreignphrase lang="art-lojban">crino</foreignphrase>&ndash; <foreignphrase lang="art-lojban">crin.</foreignphrase></para></listitem><listitem><para>Mei Li (Chinese = beautiful) &ndash; <foreignphraselang="art-lojban">melbi</foreignphrase> &ndash; <foreignphraselang="art-lojban">melb.</foreignphrase></para></listitem><listitem><para>Ayhan (Turkish = Moon Lord) &ndash; <foreignphraselang="art-lojban">lunra nobli</foreignphrase> (= <foreignphraselang="art-lojban">lurnobli</foreignphrase>) &ndash; <foreignphraselang="art-lojban">lurnoblis.</foreignphrase></para> </listitem> </itemizedlist></sect1><sect1 id="less1answers"><title>Answers to Exercises</title><simplesect role="excanswer"><title>Exercise 2</title> <orderedlist><listitem><para><foreignphrase lang="art-lojban">.ua</foreignphrase> </para></listitem><listitem><para><foreignphrase lang="art-lojban">.oi</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.u'inai</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.u'i</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.ienai</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.oi</foreignphrase> , <foreignphraselang="art-lojban">.i'enai</foreignphrase>, or even <foreignphraselang="art-lojban">.oi.i'enai</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.iunai</foreignphrase></para></listitem><listitem><para>Probably <foreignphrase lang="art-lojban">.a'unai.oi</foreignphrase>,unless you like cold greasy food, of course.</para></listitem><listitem><para><foreignphrase lang="art-lojban">.uu</foreignphrase></para></listitem><listitem><para>Depends on your feelings about beetles.  <foreignphraselang="art-lojban">.ii</foreignphrase> if you have a phobia, <foreignphraselang="art-lojban">.a'unai</foreignphrase> if you are merely repelled by it,<foreignphrase lang="art-lojban">.a'u</foreignphrase> if you're an entomologist,and so on. </para> </listitem></orderedlist></simplesect><simplesect role="excanswer"><title>Exercise 3</title><orderedlist><listitem><para>New York: USA</para></listitem><listitem><para>Rome: Italy</para></listitem><listitem><para>Havana: Cuba</para></listitem><listitem><para>Cardiff: Wales (The Welsh for <wordasword>Cardiff</wordasword> is <foreignphrase lang="cym">Caerdydd</foreignphrase>, which would Lojbanise to something like <foreignphrase lang="art-lojban">kairdid.</foreignphrase>.)</para></listitem><listitem><para>Beijing: China (Note the <foreignphrase lang="art-lojban">dj</foreignphrase>&mdash; the BBC always get this wrong!)</para></listitem><listitem><para>Ankara: Turkey</para></listitem><listitem><para>Prishtina: Kosovo</para></listitem><listitem><para>Vancouver: Canada</para></listitem><listitem><para>Cape Town: South Africa</para></listitem><listitem><para>Taipei: Taiwan (note <foreignphrase lang="art-lojban">b</foreignphrase>, not<foreignphrase lang="art-lojban">p</foreignphrase>)</para></listitem><listitem><para>Bonn: Germany</para></listitem><listitem><para>Delhi: India (The Hindi for <wordasword>Delhi</wordasword> is <foreignphrase lang="hin">Dill&icirc;</foreignphrase>, which would give <foreignphrase lang="art-lojban">diliys.</foreignphrase> or <foreignphrase lang="art-lojban">dili'is.</foreignphrase>.)</para></listitem><listitem><para>Nice: France</para></listitem><listitem><para>Athens: Greece</para></listitem><listitem><para>Leeds: England</para></listitem><listitem><para>Helsinki: Finland</para></listitem></orderedlist></simplesect><simplesect role="excanswer"><title>Exercise 4</title><para>There are usually alternative spellings for names, either becausepeople pronounce the originals differently, or because the exact sounddoesn't exist in Lojban, so you need to choose between two Lojban letters. This doesn't matter, so long as everyone knows who or where you're talkingabout.</para><orderedlist><listitem><para><foreignphrase lang="art-lojban">djon.</foreignphrase> (or<foreignphrase lang="art-lojban">djan.</foreignphrase> with someaccents)</para></listitem><listitem><para><foreignphrase lang="art-lojban">melisys.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.amandys.</foreignphrase> (again,depending on your accent, the final <foreignphraselang="art-lojban">y</foreignphrase> may be <foreignphraselang="art-lojban">a</foreignphrase>, and the initial <foreignphraselang="art-lojban">a</foreignphrase> may be <foreignphraselang="art-lojban">y</foreignphrase>.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">matius.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">maikyl.</foreignphrase> or<foreignphrase lang="art-lojban">maik,l.</foreignphrase> , depending on how yousay it.</para></listitem><listitem><para><foreignphrase lang="art-lojban">deivd.bau,is.</foreignphrase> or<foreignphrase lang="art-lojban">bo,is.</foreignphrase> (but not <foreignphrase lang="art-lojban">bu,is.</foreignphrase> &mdash;that's the knife)</para></listitem><listitem><para><foreignphrase lang="art-lojban">djein.ostin.</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.uiliam.cekspir.</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">sigornis.uivyr.</foreignphrase> or <foreignphraselang="art-lojban">sygornis.uivyr.</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">ritcyrd.niksyn.</foreignphrase>, or in some variants of American English, <foreignphraselang="art-lojban">retcyrd.neksyn.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">kitos.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.istanBUL.</foreignphrase> with Englishstress, <foreignphrase lang="art-lojban">.IStanbul</foreignphrase> with American,<foreignphrase lang="art-lojban">.istanbul.</foreignphrase> with Turkish. Lojbanists generally prefer to base <foreignphraselang="art-lojban">cmene</foreignphrase> on local pronunciation, but this is not anabsolute rule.</para></listitem><listitem><para><foreignphrase lang="art-lojban">maDRID.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">tokios.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">san.salvaDOR.</foreignphrase> (withSpanish stress)</para></listitem></orderedlist> </simplesect></sect1></chapter>
+<chapter id="less1"><title>Sounds, names and a few
+attitudes</title>
+
+<para>The first thing you need to do when you learn a
+foreign language is to become familiar with the sounds of the language and
+how they are written, and the same goes for Lojban.  Fortunately, Lojban
+sounds (phonemes) are fairly straightforward.</para>
+
+<sect1 id="less1vowels"><title>Vowels</title>
+
+<para>There are six vowels in Lojban.</para>
+
+<variablelist>
+<varlistentry> <term><foreignphrase
+lang="art-lojban">a</foreignphrase></term> <listitem><para>as in <wordasword>f<emphasis
+role="strong">a</emphasis>ther</wordasword> (not as in <wordasword>h<emphasis role="bold">a</emphasis>t</wordasword>)</para></listitem> </varlistentry>
+
+<varlistentry> <term><foreignphrase lang="art-lojban">e</foreignphrase></term>
+<listitem><para>as in <wordasword>g<emphasis role="bold">e</emphasis>t</wordasword></para></listitem>
+</varlistentry>
+
+<varlistentry> <term><foreignphrase
+lang="art-lojban">i</foreignphrase></term> <listitem><para>as in (Italian) <wordasword>v<emphasis
+role="bold">i</emphasis>no</wordasword> (not as in <wordasword>h<emphasis role="bold">i</emphasis>t</wordasword>)</para></listitem> </varlistentry>
+
+<varlistentry> <term><foreignphrase lang="art-lojban">o</foreignphrase></term>
+<listitem><para>as in <wordasword>b<emphasis role="bold">o</emphasis>ld </wordasword> 
+or <wordasword>m<emphasis role="bold">o</emphasis>re</wordasword> &mdash; not as in 
+<wordasword>s<emphasis role="bold">o</emphasis></wordasword> (this should 
+be a <quote role="socalled">pure</quote> sound.)  </para></listitem>
+</varlistentry>
+
+<varlistentry> <term><foreignphrase
+lang="art-lojban">u</foreignphrase></term> <listitem><para>as in <wordasword>c<emphasis
+role="bold">oo</emphasis>l</wordasword> (not as in <wordasword>b<emphasis role="bold">u</emphasis>t</wordasword>)</para></listitem> </varlistentry>
+</variablelist>
+
+<para>These are pretty much the same as vowels in Italian
+or Spanish.  The sixth vowel, <foreignphrase lang="art-lojban">y</foreignphrase>,
+is called a <wordasword>schwa</wordasword> in the language trade, and is pronounced like the first
+and last <wordasword>A</wordasword>'s in <wordasword>America</wordasword> 
+(that's English <wordasword>America</wordasword>, not Spanish.)  It's
+the sound that comes out when the mouth is completely relaxed.</para>
+
+<para>Two vowels together are pronounced as one sound (diphthong).  Some
+examples are:</para>
+
+<variablelist> <varlistentry><term><foreignphrase
+lang="art-lojban">ai</foreignphrase></term> <listitem><para>as in <wordasword>h<emphasis
+role="bold">igh</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">au</foreignphrase></term>
+<listitem><para>as in <wordasword>h<emphasis
+role="bold">ow</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">ei</foreignphrase></term>
+<listitem><para>as in <wordasword>h<emphasis
+role="bold">ey</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">oi</foreignphrase></term>
+<listitem><para>as in <wordasword>b<emphasis
+role="bold">oy</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">ia</foreignphrase></term>
+<listitem><para>like German <wordasword><emphasis role="bold">Ja</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">ie</foreignphrase></term>
+<listitem><para>like <wordasword><emphasis role="bold">yeah</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">iu</foreignphrase></term>
+<listitem><para>like <wordasword><emphasis role="bold">you</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">ua</foreignphrase></term>
+<listitem><para>as in <wordasword><emphasis 
+role="bold">waah!</emphasis></wordasword>, or French <wordasword>q<emphasis 
+role="bold">uoi</emphasis></wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">ue</foreignphrase></term>
+<listitem><para>as in <wordasword>q<emphasis
+role="bold">ue</emphasis>stion</wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">uo</foreignphrase></term>
+<listitem><para>as in <wordasword>q<emphasis
+role="bold">uo</emphasis>te</wordasword></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">ui</foreignphrase></term>
+<listitem><para>like <wordasword><emphasis role="bold">we</emphasis></wordasword>, or French <wordasword><emphasis role="bold">oui</emphasis></wordasword></para></listitem></varlistentry>
+</variablelist>
+
+<para>Double vowels are rare.  The only examples are
+<foreignphrase lang="art-lojban">ii</foreignphrase>, which is pronounced like
+English <wordasword>ye</wordasword> (as in <quote>Oh come all ye faithful</quote>) or Chinese <wordasword>yi</wordasword>, and
+<foreignphrase lang="art-lojban">uu</foreignphrase>, pronounced like 
+<wordasword>woo</wordasword>.</para>
+</sect1>
+
+<sect1 id="less1consonants"><title>Consonants</title>
+
+<para>Most Lojban consonants are the same as English, but there are some
+exceptions: </para>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term>
+<listitem><para><wordasword>sh</wordasword>, as in <wordasword><emphasis
+role="bold">sh</emphasis>ip</wordasword></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">j</foreignphrase></term>
+<listitem><para>as in <wordasword>mea<emphasis role="bold">s</emphasis>ure</wordasword> or French
+<wordasword>bon<emphasis role="bold">j</emphasis>our</wordasword></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">x</foreignphrase></term>
+<listitem><para>as in German <wordasword>Ba<emphasis role="bold">ch</emphasis></wordasword>, Spanish
+<wordasword><emphasis role="bold">J</emphasis>ose</wordasword> or Arabic <wordasword><emphasis
+role="bold">Kh</emphasis>aled</wordasword></para></listitem></varlistentry> </variablelist>
+
+<para>The English sounds <wordasword>ch</wordasword> and
+<wordasword>j</wordasword> are written as <foreignphrase
+lang="art-lojban">tc</foreignphrase> and <foreignphrase
+lang="art-lojban">dj</foreignphrase>.</para>
+
+<para>Lojban doesn't use the letters <wordasword>H</wordasword>,
+<wordasword>Q</wordasword> or <wordasword>W</wordasword>.  </para> </sect1>
+
+<sect1 id="less1special"><title>Special Characters</title>
+
+<para>Lojban does not require any punctuation, but some of the characters
+normally used in punctuation affect the way Lojban is pronounced.  A full
+stop (period) is a short pause to stop words running into each other. For 
+that reason, it is conventionally placed in front of any word starting 
+with a vowel &mdash; including the vowel letters of the alphabet we have 
+just seen.</para>  
+
+<para>An apostrophe separates two vowels, and is pronounced like an
+<wordasword>h</wordasword>.  For example, <foreignphrase
+lang="art-lojban">ui</foreignphrase> is normally pronounced
+<wordasword>we</wordasword>, but <foreignphrase
+lang="art-lojban">u'i</foreignphrase> is <wordasword>oohee</wordasword>.  The
+apostrophe is regarded as a proper letter in Lojban, and is called
+<foreignphrase lang="art-lojban">.y'y</foreignphrase>.  This should sound like a
+cough.</para>
+
+
+<para>Commas are rare in Lojban, but can be used to stop two vowels
+blurring together when you don't want to use an apostrophe (which would put
+a <wordasword>h</wordasword> between them). No Lojban words have commas,
+but they're sometimes used in writing non-Lojban names, for example
+<foreignphrase lang="art-lojban">pi,ER.</foreignphrase>
+(<wordasword>Pierre</wordasword>), as opposed to <foreignphrase
+lang="art-lojban">pier.</foreignphrase> (<wordasword>P-yerr</wordasword>)
+or <foreignphrase lang="art-lojban">pi'ER.</foreignphrase>
+(<wordasword>Piherr</wordasword>).</para>
+
+
+<para>Capital letters are not normally used in Lojban. We use them in
+non-Lojban words (like <wordasword>Pierre</wordasword>) when the stress of
+a word is different from the Lojban norm. The norm is to put the stress on
+the last-but-one syllable; so, for example, <foreignphrase
+lang="art-lojban">kurmikce</foreignphrase> <quote
+role="gloss">nurse</quote> is <foreignphrase lang="art-lojban">kur<emphasis
+role="bold">MIK</emphasis>ce</foreignphrase>, not <foreignphrase
+lang="art-lojban"><emphasis
+role="bold">KUR</emphasis>mikce.</foreignphrase> The name
+<wordasword>Juliette</wordasword> would be written <foreignphrase
+lang="art-lojban">DJUli,et.</foreignphrase> if pronounced in an English
+way, but <foreignphrase lang="art-lojban">julIET.</foreignphrase> if
+pronounced as in French.</para> </sect1>
+
+<sect1 id="less1alphabet"><title>Alphabet</title>
+<para>In most language textbooks, you get the alphabet of the language 
+together with its sounds. Letters (<foreignphrase 
+lang="art-lojban">lerfu</foreignphrase>) turn out to be even more important than 
+usual in Lojban, so we might as well go through their names quickly.
+</para>
+
+<para>Consonants are straight-forward: the name of a consonant letter is 
+that letter, plus <foreignphrase lang="art-lojban">y</foreignphrase>. So the 
+consonant letters of Lojban, <wordasword>b, c, d, f, g ...</wordasword>, 
+are called <foreignphrase lang="art-lojban">by, cy, dy, fy, gy...</foreignphrase> in Lojban.</para>
+
+<para>Vowels <emphasis>would</emphasis> be called <foreignphrase
+lang="art-lojban">ay, ey, iy</foreignphrase>, but that would be rather
+difficult to pronounce. Instead, they are handled by following the vowel
+sound with the word <foreignphrase lang="art-lojban">bu</foreignphrase>,
+which basically means <quote role="gloss">letter</quote>. So the vowels of
+Lojban are: <foreignphrase lang="art-lojban">abu, ebu, ibu, obu, ubu,
+ybu</foreignphrase>. </para>
+
+<para>Lojban has ways of refering to most letters you can think of; see
+<citetitle>The Complete Lojban Language</citetitle>, Chapter 17 for
+details. If you have the urge to spell out your name in Lojban and have an
+<wordasword>H</wordasword>, <wordasword>Q</wordasword>, or
+<wordasword>W</wordasword> to deal with, you can use <foreignphrase
+lang="art-lojban">y'ybu</foreignphrase>, <foreignphrase
+lang="art-lojban">kybu</foreignphrase> and <foreignphrase
+lang="art-lojban">vybu</foreignphrase>. So
+<wordasword>Schwarzenegger</wordasword> is spelt in Lojban as:
+
+<informalexample><para><foreignphrase 
+lang="art-lojban">sy cy y'ybu vybu abu ry zy ebu ny ebu gy gy ebu ry</foreignphrase></para></informalexample>
+
+And spelling <emphasis>that</emphasis> is a task the equal of anything the 
+Terminator ever did!
+</para>
+
+<simplesect role="exercise"><title>Exercise 1</title> <para>Spell your name
+in Lojban (or at least something close enough to it to use the twenty-six
+letters of English we have learned, and the apostrophe.) No peeking at the
+back of the book &mdash; we don't have the answer to this exercise
+there!</para> </simplesect> </sect1>
+
+<sect1 id="less1pronounc"><title><quote role="socalled">Correct</quote> pronunciation</title>
+
+<para>You don't have to be very precise about Lojban pronunciation, because
+the phonemes are distributed so that it is hard to mistake one sound for
+another.  This means that rather than one <quote role="socalled">correct</quote> pronunciation, there is
+a range of acceptable pronunciation &mdash; the general principle is that
+anything is OK so long as it doesn't sound too much like something else. 
+For example, Lojban <foreignphrase lang="art-lojban">r</foreignphrase> can be
+pronounced like the <wordasword>r</wordasword> in English, Scottish or
+French.</para>
+
+<para>Two things to be careful of, though, are pronouncing Lojban
+<foreignphrase lang="art-lojban">i</foreignphrase> and <foreignphrase
+lang="art-lojban">u</foreignphrase> like Standard British English <wordasword>hit</wordasword> and <wordasword>but</wordasword>
+(Northern English <wordasword>but</wordasword> is fine!).  This is because non-Lojban vowels,
+particularly these two, are used to separate consonants by people who find
+them hard to say.  For example, if you have problems spitting out the
+<foreignphrase lang="art-lojban">zd</foreignphrase> in <foreignphrase lang="art-lojban">zdani</foreignphrase> (house), you can say <foreignphrase
+lang="art-lojban">zIdani</foreignphrase> &mdash; the first <foreignphrase
+lang="art-lojban">I</foreignphrase> is very short, but the second has to be long. 
+</para> </sect1>
+
+<sect1 id="less1attitude"><title>Lojban with attitude!</title>
+
+<para>If you tried pronouncing the vowel
+combinations above, you've already said some Lojban words.  Lojban has a
+class of words called <wordasword>attitudinal indicators</wordasword>, which express how the
+speaker feels about something.  The most basic ones consist of two vowels,
+sometimes with an apostrophe in the middle.  Here are some of the most
+useful ones.  
+</para>
+
+<variablelist>
+<varlistentry><term><foreignphrase lang="art-lojban">.a'o</foreignphrase></term>
+<listitem><para>hope</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.au</foreignphrase></term>
+<listitem><para>desire</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.a'u</foreignphrase></term>
+<listitem><para>interest</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.ie</foreignphrase></term>
+<listitem><para>agreement</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.i'e</foreignphrase></term>
+<listitem><para>approval</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.ii</foreignphrase></term>
+<listitem><para>fear (think of <quote>Eeek!</quote>)</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.iu</foreignphrase></term>
+<listitem><para>love</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.oi</foreignphrase></term>
+<listitem><para>complaint</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.ua</foreignphrase></term>
+<listitem><para>discovery, <quote>Ah, I get it!</quote></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.ue</foreignphrase></term>
+<listitem><para>surprise</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.u'e</foreignphrase></term>
+<listitem><para>wonder, <quote>Wow!</quote></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.ui</foreignphrase></term>
+<listitem><para>happiness</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.u'i</foreignphrase></term>
+<listitem><para>amusement</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.uu</foreignphrase></term>
+<listitem><para>pity, sympathy<footnote id="less1fn1"><para>In English, people have started to avoid the word
+<wordasword>pity</wordasword>, because it has come to have associations of superiority. 
+<foreignphrase lang="art-lojban">.uu</foreignphrase> is just the raw emotion: if
+you wanted to express pity in this rather condescending way, you'd probably
+say <foreignphrase lang="art-lojban">.uuga'i</foreignphrase> &mdash; <quote>pity
+combined with a sense of superiority,</quote> or <foreignphrase
+lang="art-lojban">.uuvu'e</foreignphrase> &mdash; <quote>pity combined with a sense of
+virtue.</quote>  Then again, you would probably just keep your mouth
+shut.</para></footnote></para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">.u'u</foreignphrase></term>
+<listitem><para>repentance, <quote>I'm sorry!</quote></para></listitem></varlistentry>
+
+</variablelist>
+
+
+<para>You can make any of these into its opposite by adding <foreignphrase
+lang="art-lojban">nai</foreignphrase>, so <foreignphrase
+lang="art-lojban">.uinai</foreignphrase> means <quote>I'm unhappy</quote>,
+<foreignphrase lang="art-lojban">.aunai</foreignphrase> is reluctance,
+<foreignphrase lang="art-lojban">.uanai</foreignphrase> is confusion
+(<quote>I don't get it</quote>,<quote>Duh...</quote>) and so on. You can
+also combine them. For example, <foreignphrase
+lang="art-lojban">.iu.uinai</foreignphrase> would mean <quote>I am
+unhappily in love.</quote> In this way you can even create words to express
+emotions which your native language doesn't have. </para>
+
+<para>Attitudinal indicators are extremely useful and it is well worth
+making an effort to learn the most common ones. One of the biggest problems
+people have when trying to speak in a foreign language is that, while
+they've learnt how to buy a kilo of olives or ask the way to the post
+office, they can't express feelings, because many languages do this in a
+round-about way (outside group therapy, very few British people would say
+outright that they were sad, for example!) In Lojban you can be very
+direct, very briefly (there are ways of <quote
+role="socalled">softening</quote> these emotions, which we'll get to in a
+later lesson). In fact, these attitudinals are so useful that some
+Lojbanists use them even when they're writing in English, rather like
+emoticons (those e-mail symbols like <computeroutput>;-)
+:-(</computeroutput> etc.).</para>
+
+<simplesect role="exercise"><title>Exercise 2</title> 
+
+<para>Using the attitudinal indicators
+above (including negatives), what might you say in the following
+situations?
+
+<orderedlist>
+
+<listitem><para>You've just realised where you left your keys.  </para></listitem>
+
+<listitem><para>Someone treads on your toes.  </para></listitem>
+
+<listitem><para>You're watching a boring film.  </para></listitem>
+
+<listitem><para>Someone's just told you a funny story.  </para></listitem>
+
+<listitem><para>You disagree with someone.  </para></listitem>
+
+<listitem><para>Someone's just taken the last cookie in the jar.  </para></listitem>
+
+<listitem><para>You really don't like someone.</para></listitem>
+
+<listitem><para>You are served a cold, greasy meal.  </para></listitem>
+
+<listitem><para>Your friend has just failed a test.  </para></listitem>
+
+<listitem><para>There is a large green beetle crawling towards you.  </para></listitem>
+
+</orderedlist>
+
+</para></simplesect></sect1>
+
+<sect1 id="less1names"><title>Lojban Names (<foreignphrase 
+lang="art-lojban">cmene</foreignphrase>)</title>
+
+<para>
+Watch any film where people don't know each other's language.  They start
+off saying things like <quote>Me Tarzan,</quote> which is as good a place to start
+learning Lojban as any.  So here we go.</para>
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="art-lojban">mi'e robin.</foreignphrase>
+I-am-named Robin
+I'm Robin
+</literallayout>
+</informalexample>
+
+<para><foreignphrase lang="art-lojban">mi'e</foreignphrase> is related to
+<foreignphrase lang="art-lojban">mi</foreignphrase>, which is <quote role="gloss">I</quote>, <quote role="gloss">me</quote> and so on. 
+It's a good example of the apostrophe separating two vowels, and sounds a
+bit like <wordasword>me heh</wordasword>.</para>
+
+<para>I am lucky because my name goes directly into Lojban without any
+changes. However, there are some rules for Lojban names which mean that
+some names have to be <quote role="socalled">Lojbanised</quote>. This may
+sound strange &mdash; after all, a name is a name &mdash; but in fact all
+languages do this to some extent. For example, English speakers tend to
+pronounce <foreignphrase lang="spa">Jose</foreignphrase> something like
+<wordasword>Hozay</wordasword>, and <wordasword>Margaret</wordasword> in
+Chinese is <foreignphrase lang="zho">Magelita</foreignphrase>. Some sounds
+just don't exist in some languages, so the first thing you need to do is
+rewrite the name so that it only contains Lojban sounds, and is spelt in a
+Lojban way. </para>
+
+<note><para>The catch here is, what version of the sounds will you be 
+using? For English in particular, British and American vowels can be quite 
+different. The British version of <wordasword>Robin</wordasword> is 
+reasonably approximated by <foreignphrase
+lang="art-lojban">robin.</foreignphrase>; but the American version is 
+closer to <foreignphrase
+lang="art-lojban">rabyn.</foreignphrase> or <foreignphrase
+lang="art-lojban">rab,n.</foreignphrase>. And within America and Britain, 
+there is also a good deal of variation. So you should take the 
+transliterations given below with a grain of salt.</para></note>
+
+<para>Let's take the English name <wordasword>Susan</wordasword>. The two
+<wordasword>s</wordasword>'s are pronounced differently &mdash; the second
+one is actually a <wordasword>z</wordasword> &mdash; and the
+<wordasword>a</wordasword> is not really an <wordasword>a</wordasword>
+sound, it's the <quote role="socalled">schwa</quote> we just mentioned. So
+<wordasword>Susan</wordasword> comes out in Lojban as <foreignphrase
+lang="art-lojban">suzyn.</foreignphrase>. </para>
+
+<para>You may have noticed the extra full stop (period) there. This is
+necessary because if you didn't pause, you might not know where the name
+ended and the next word began. In addition, if a name
+<emphasis>begins</emphasis> with a vowel, you need a full stop there as
+well. For example: </para>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.an.</foreignphrase></term>
+<listitem><para>Anne</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">.axmet.</foreignphrase></term>
+<listitem><para>Ahmet</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">.eduard.</foreignphrase></term>
+<listitem><para>Edward</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.IBraxim.</foreignphrase> or
+<foreignphrase lang="art-lojban">.IBra'im.</foreignphrase></term>
+<listitem><para>Ibrahim</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">.odin.</foreignphrase></term>
+<listitem><para>Odin</para></listitem> </varlistentry>
+
+</variablelist>
+
+
+<para>You can also put a full stop in between a person's first and last
+names (though it's not compulsory), so <wordasword>Jim Jones</wordasword>
+becomes <foreignphrase lang="art-lojban">djim.djonz.</foreignphrase>.</para>
+
+<para>An important rule for Lojbanising names is that the last letter of a
+<foreignphrase lang="art-lojban">cmene</foreignphrase> (Lojban name) must
+be a consonant. Again, this is to prevent confusion as to where a name
+ends, and what is and is not a name (all other Lojban words end in a
+vowel). We usually use <foreignphrase
+lang="art-lojban"><wordasword>s</wordasword></foreignphrase> for this; so
+in Lojban, <wordasword>Mary</wordasword> becomes <foreignphrase
+lang="art-lojban">meris.</foreignphrase> , <wordasword>Joe</wordasword>
+becomes <foreignphrase lang="art-lojban">djos.</foreignphrase> and so on.
+An alternative is to leave out the last vowel, so
+<wordasword>Mary</wordasword> would become <foreignphrase
+lang="art-lojban">mer.</foreignphrase> or <foreignphrase
+lang="art-lojban">meir.</foreignphrase>.</para>
+
+<para>A few combinations of letters are illegal in Lojbanised names,
+because they can be confused with Lojban words: <foreignphrase
+lang="art-lojban">la</foreignphrase>, <foreignphrase
+lang="art-lojban">lai</foreignphrase> and <foreignphrase
+lang="art-lojban">doi</foreignphrase>. So <wordasword>Alabama</wordasword>
+can't be <foreignphrase lang="art-lojban">.alabamas.</foreignphrase> but
+needs to be <foreignphrase lang="art-lojban">.alybamas.</foreignphrase> ,
+for example. </para>
+
+<para>The final point is stress. As we've seen, Lojban words are stressed
+on the penultimate syllable, and if a name has different stress, we use
+capital letters. This means that the English and French names
+<wordasword>Robert</wordasword> come out differently in Lojban: the English
+name is <foreignphrase lang="art-lojban">robyt.</foreignphrase> in UK
+English, or <foreignphrase lang="art-lojban">rab,rt.</foreignphrase> in
+some American dialects, but the French is <foreignphrase
+lang="art-lojban">roBER.</foreignphrase> . </para>
+
+
+
+
+<para>To give an idea of how all this works, here are some names of famous
+people in their own language and in Lojban.  </para>
+
+<!-- set TermLength artificially to prevent both table and para renderings in the same grouping -->
+<variablelist termlength="1"> <title>English</title>
+
+<varlistentry><term>Margaret Thatcher</term> <listitem><para><foreignphrase
+lang="art-lojban">magryt.tatcys.</foreignphrase> (no <wordasword>th</wordasword> in Lojban because most
+people around the world can't say it!)</para></listitem></varlistentry>
+
+<varlistentry><term>Mick Jagger</term> <listitem><para><foreignphrase
+lang="art-lojban">mik.djagys.</foreignphrase></para></listitem> </varlistentry>
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>French</title>
+
+<varlistentry><term>Napoleon Bonaparte</term> <listitem><para><foreignphrase
+lang="art-lojban">napole,ON. bonaPART.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Juliette Binoche</term> <listitem><para><foreignphrase
+lang="art-lojban">julIET.binOC.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>Chinese</title>
+
+<varlistentry><term>Laozi</term> <listitem><para><foreignphrase
+lang="art-lojban">laudz.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Mao Zedong</term> <listitem><para><foreignphrase
+lang="art-lojban">maus.dzeDYNG.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+<variablelist termlength="1"><title>Turkish</title>
+
+<varlistentry><term>Mustafa Kemal</term> <listitem><para><foreignphrase
+lang="art-lojban">MUStafas.kemal.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Erkin Koray</term> <listitem><para><foreignphrase
+lang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry>
+
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>German</title>
+
+<varlistentry><term>Ludwig Wittgenstein</term> <listitem><para><foreignphrase
+lang="art-lojban">ludvig.VITgynctain.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Clara Schumann</term> <listitem><para><foreignphrase
+lang="art-lojban">klaras.cuman.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+
+<variablelist termlength="1"><title>Spanish</title>
+
+<varlistentry><term>Isabel Allende</term> <listitem><para><foreignphrase
+lang="art-lojban">.izaBEL.aiendes.</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term>Che Guevara</term> <listitem><para><foreignphrase
+lang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+<simplesect role="exercise"><title>Exercise 3</title>
+
+<para>Where are these places?</para>
+
+
+<orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">niu,IORK.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">romas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xavanas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">kardif.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">beidjin.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.Ankaras.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">prictinas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">vankuver.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">keiptaun.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">taibeis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">bon.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">delis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">nis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.atinas.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">lidz.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xelsinkis.</foreignphrase></para></listitem>
+</orderedlist>
+
+
+</simplesect>
+
+<simplesect role="exercise"><title>Exercise 4</title>
+
+<para>Lojbanise the following names</para>
+
+<orderedlist>
+
+<listitem><para>John</para></listitem>
+
+<listitem><para>Melissa</para></listitem>
+
+<listitem><para>Amanda</para></listitem>
+
+<listitem><para>Matthew</para></listitem>
+
+<listitem><para>Michael</para></listitem>
+
+<listitem><para>David Bowie</para></listitem>
+
+<listitem><para>Jane Austen</para></listitem>
+
+<listitem><para>William Shakespeare</para></listitem>
+
+<listitem><para>Sigourney Weaver</para></listitem>
+
+<listitem><para>Richard Nixon</para></listitem>
+
+<listitem><para>Quito</para></listitem>
+
+<listitem><para>Istanbul</para></listitem>
+
+<listitem><para>Madrid</para></listitem>
+
+<listitem><para>Tokyo</para></listitem>
+
+<listitem><para>San Salvador</para></listitem>
+
+</orderedlist>
+
+</simplesect>
+</sect1>
+
+<sect1 id="less1lojnames"><title>Lojban words as names</title>
+
+<para>By now you should be able to Lojbanise your own name.  However, if
+you prefer, you can translate your name into Lojban (if you know what it
+means, of course) or adopt a completely new Lojban identity.  Native
+Americans generally translate their name when speaking English, partly
+because they have meaningful names, and partly because they don't expect
+the <foreignphrase lang="dak">wasichu</foreignphrase> to be able to pronounce words in
+Lakota, Navaho or whatever!</para>
+
+<para>All Lojban words end in a vowel, and although you
+<emphasis>can</emphasis> use them as names as they stand, it's common to
+leave out the final vowel to make it absolutely clear that this is a name
+and not something else (Lojban goes for overkill when it comes to possible
+misunderstanding).  So if your name or nickname is <wordasword>Cat</wordasword> (Lojban
+<foreignphrase lang="art-lojban">mlatu</foreignphrase>), you can either add
+<foreignphrase lang="art-lojban">s</foreignphrase> like a normal <foreignphrase
+lang="art-lojban">cmene</foreignphrase> to make <foreignphrase
+lang="art-lojban">mlatus.</foreignphrase>, or just chop the end off and call
+yourself <foreignphrase lang="art-lojban">mlat.</foreignphrase> .</para>
+
+<para>Here are a few examples:</para>
+
+<itemizedlist> <listitem><para>Fish &ndash; <foreignphrase
+lang="art-lojban">finpe</foreignphrase> &ndash; <foreignphrase
+lang="art-lojban">finp.</foreignphrase></para></listitem>
+
+<listitem><para>Bj&ouml;rn (Scandinavian = bear) &ndash; <foreignphrase lang="art-lojban">cribe</foreignphrase>
+&ndash; <foreignphrase lang="art-lojban">crib.</foreignphrase></para></listitem>
+
+<listitem><para>Green &ndash; <foreignphrase lang="art-lojban">crino</foreignphrase>
+&ndash; <foreignphrase lang="art-lojban">crin.</foreignphrase></para></listitem>
+
+<listitem><para>Mei Li (Chinese = beautiful) &ndash; <foreignphrase
+lang="art-lojban">melbi</foreignphrase> &ndash; <foreignphrase
+lang="art-lojban">melb.</foreignphrase></para></listitem>
+
+<listitem><para>Ayhan (Turkish = Moon Lord) &ndash; <foreignphrase
+lang="art-lojban">lunra nobli</foreignphrase> (= <foreignphrase
+lang="art-lojban">lurnobli</foreignphrase>) &ndash; <foreignphrase
+lang="art-lojban">lurnoblis.</foreignphrase></para> </listitem> </itemizedlist>
+
+
+
+</sect1>
+
+<sect1 id="less1answers"><title>Answers to Exercises</title>
+
+<simplesect role="excanswer"><title>Exercise 2</title> <orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">.ua</foreignphrase> </para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.oi</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.u'inai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.u'i</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.ienai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.oi</foreignphrase> , <foreignphrase
+lang="art-lojban">.i'enai</foreignphrase>, or even <foreignphrase
+lang="art-lojban">.oi.i'enai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.iunai</foreignphrase></para></listitem>
+
+<listitem><para>Probably <foreignphrase lang="art-lojban">.a'unai.oi</foreignphrase>,
+unless you like cold greasy food, of course.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.uu</foreignphrase></para></listitem>
+
+<listitem><para>Depends on your feelings about beetles.  <foreignphrase
+lang="art-lojban">.ii</foreignphrase> if you have a phobia, <foreignphrase
+lang="art-lojban">.a'unai</foreignphrase> if you are merely repelled by it,
+<foreignphrase lang="art-lojban">.a'u</foreignphrase> if you're an entomologist,
+and so on. </para> </listitem>
+
+</orderedlist>
+</simplesect>
+
+
+<simplesect role="excanswer"><title>Exercise 3</title>
+
+<orderedlist>
+
+<listitem><para>New York: USA</para></listitem>
+
+<listitem><para>Rome: Italy</para></listitem>
+
+<listitem><para>Havana: Cuba</para></listitem>
+
+<listitem><para>Cardiff: Wales (The Welsh for <wordasword>Cardiff</wordasword> 
+is <foreignphrase lang="cym">Caerdydd</foreignphrase>, which would Lojbanise to 
+something like <foreignphrase lang="art-lojban">kairdid.</foreignphrase>.)</para></listitem>
+
+<listitem><para>Beijing: China (Note the <foreignphrase lang="art-lojban">dj</foreignphrase>
+&mdash; the BBC always get this wrong!)</para></listitem>
+
+<listitem><para>Ankara: Turkey</para></listitem>
+
+<listitem><para>Prishtina: Kosovo</para></listitem>
+
+<listitem><para>Vancouver: Canada</para></listitem>
+
+<listitem><para>Cape Town: South Africa</para></listitem>
+
+<listitem><para>Taipei: Taiwan (note <foreignphrase lang="art-lojban">b</foreignphrase>, not
+<foreignphrase lang="art-lojban">p</foreignphrase>)</para></listitem>
+
+<listitem><para>Bonn: Germany</para></listitem>
+
+<listitem><para>Delhi: India (The Hindi for <wordasword>Delhi</wordasword> 
+is <foreignphrase lang="hin">Dill&icirc;</foreignphrase>, which would give <foreignphrase 
+lang="art-lojban">diliys.</foreignphrase> or <foreignphrase 
+lang="art-lojban">dili'is.</foreignphrase>.)</para></listitem>
+
+<listitem><para>Nice: France</para></listitem>
+
+<listitem><para>Athens: Greece</para></listitem>
+
+<listitem><para>Leeds: England</para></listitem>
+
+<listitem><para>Helsinki: Finland</para></listitem>
+
+</orderedlist>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 4</title>
+
+<para>There are usually alternative spellings for names, either because
+people pronounce the originals differently, or because the exact sound
+doesn't exist in Lojban, so you need to choose between two Lojban letters. 
+This doesn't matter, so long as everyone knows who or where you're talking
+about.</para>
+
+<orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">djon.</foreignphrase> (or
+<foreignphrase lang="art-lojban">djan.</foreignphrase> with some
+accents)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">melisys.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.amandys.</foreignphrase> (again,
+depending on your accent, the final <foreignphrase
+lang="art-lojban">y</foreignphrase> may be <foreignphrase
+lang="art-lojban">a</foreignphrase>, and the initial <foreignphrase
+lang="art-lojban">a</foreignphrase> may be <foreignphrase
+lang="art-lojban">y</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">matius.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">maikyl.</foreignphrase> or
+<foreignphrase lang="art-lojban">maik,l.</foreignphrase> , depending on how you
+say it.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">deivd.bau,is.</foreignphrase> or
+<foreignphrase lang="art-lojban">bo,is.</foreignphrase> (but not <foreignphrase lang="art-lojban">bu,is.</foreignphrase> &mdash;
+that's the knife)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">djein.ostin.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.uiliam.cekspir.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">sigornis.uivyr.</foreignphrase> or <foreignphrase
+lang="art-lojban">sygornis.uivyr.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">ritcyrd.niksyn.</foreignphrase>, or in some variants of 
+American English, <foreignphrase
+lang="art-lojban">retcyrd.neksyn.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">kitos.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.istanBUL.</foreignphrase> with English
+stress, <foreignphrase lang="art-lojban">.IStanbul</foreignphrase> with American,
+<foreignphrase lang="art-lojban">.istanbul.</foreignphrase> with Turkish. 
+Lojbanists generally prefer to base <foreignphrase
+lang="art-lojban">cmene</foreignphrase> on local pronunciation, but this is not an
+absolute rule.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">maDRID.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">tokios.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">san.salvaDOR.</foreignphrase> (with
+Spanish stress)</para></listitem>
+
+</orderedlist> </simplesect>
+
+
+</sect1>
+
+</chapter>
+ÿ
