@@ -309,6 +309,12 @@ sipygau simsa cy gi'e vlile desygau cy ca le fanmo be lo vlali'i
 @c                    `Wow! wow! wow!'
 
 @format
+
+             ko rufsu tavla le do panzi
+             i ko py senci sfasa 
+             i le nu po'o py do fanza
+             ca'a te zukte krasi
+
                           KREFU
 
           (to le jukpa le cifnu cu kansa toi)
@@ -334,6 +340,13 @@ tai krixa ja'e le nu la alis cu ja'aru'e tirna lei valsi
 @c                    `Wow! wow! wow!'
 
 @format
+
+
+             mi junri tavla le mi panzi
+             i mi py senci sfasa 
+             i li'a py se pluka banzu
+             i tsaprpiperi stasu
+
                           KREFU
 
                          ua ua ua 
@@ -396,7 +409,7 @@ i le cifnu cu za'ure'u cmoni i la alis cu xanka mutce catlu le flira
 be cy tezu'e le nu facki le du'u cy mokau i ju'o cy se nazbi lo gapfa'a
 noi lo'e xajyzbi cu zmadu lo'e re'azbi le ka ke'a simsa ce'u iji'a lei
 kanla be cy ca'o binxo lo mutce cmalu fi lo'e cifnu kanla i to'u la alis
-nasai nelci le jvinu be le dacti i lu ku'i ju'ocu'i ti klaku po'o sei
+nasai nelci le jvinu be le dacti i lu ku'i ju'ocu'i ti kakcmo po'o sei
 abu pensi li'u i abu za'ure'u catlu le cy kanla tezu'e le nu facki le
 du'u xukau lo dirgo ba'o se klaku
 
@@ -406,12 +419,23 @@ du'u xukau lo dirgo ba'o se klaku
 @c    grunted, it was impossible to say which), and they went on for
 @c    some while in silence.
 
+i na co'e i no dirgo ba'o se klaku i lu ganai do binxo lo xarju
+doi dirba sei la alis junri cusku gi o'i mi do co'u srana li'u i
+le se kecti cmalu za'ure'u kakcmo to go'i gi'a xajycmo i na cumki
+fa le nu jdice toi i le remei di'a ze'a smaji co'e 
+
 @c      Alice was just beginning to think to herself, `Now, what am I
 @c    to do with this creature when I get it home?' when it grunted
 @c    again, so violently, that she looked down into its face in some
 @c    alarm.  This time there could be NO mistake about it:  it was
 @c    neither more nor less than a pig, and she felt that it would be
 @c    quite absurd for her to carry it further.
+
+i la alis co'a pensi sezysku lu ei mi zukte le nu mo le vi danlu kei 
+ca le nu mi tolcliva le zdani li'u ca le nu ko'a za'ure'u cmoni tai
+le ka vlile kei ja'e le nu abu xalni milxe catlu le ko'a flira i caku
+na senpi i ko'a zmadu najenai mleca xarju i abu jinvi le du'u le nu
+abu ko'a ca'o bevri cu fenki mutce 
 
 @c      So she set the little creature down, and felt quite relieved to
 @c    see it trot away quietly into the wood.  `If it had grown up,'
@@ -422,15 +446,33 @@ du'u xukau lo dirgo ba'o se klaku
 @c    way to change them--' when she was a little startled by seeing
 @c    the Cheshire Cat sitting on a bough of a tree a few yards off.
 
+iseki'ubo abu punji le danlu le loldi gi'e mutce tolxankybi'o le nu
+viska le nu dy smaji bajra fa'ane'i le ricmei i lu romu'ei le du'u
+le cifnu cu banro kei sei abu sezysku cy tolmelbi mutce verba i ku'i 
+pe'i ta ca'a melbi xarju li'u i abu co'a pensi lo drata verba noi 
+ke'a slabu abu gi'e da'i se xamgu le nu da'i xarju i abu sezysku lu
+au djuno le du'u makau drani tadji le nu galfi vy li'u ca le nu abu
+milxe se spaji le nu viska le tcica mlatu noi zutse lo jimca be lo 
+tricu za lo mitre be li su'o     
+
 @c      The Cat only grinned when it saw Alice.  It looked good-
 @c    natured, she thought:  still it had VERY long claws and a great
 @c    many teeth, so she felt that it ought to be treated with respect.
+
+i le mlatu cu cisma po'o ca le nu my viska la alis i my simlu le ka
+xendo sei abu pensi i ku'i my se jgalu loi clani mutce gi'e se denci
+lo so'isaimei iseki'ubo abu jinvi le du'u ei my se sinma
 
 @c      `Cheshire Puss,' she began, rather timidly, as she did not at
 @c    all know whether it would like the name:  however, it only
 @c    grinned a little wider.  `Come, it's pleased so far,' thought
 @c    Alice, and she went on.  `Would you tell me, please, which way I
 @c    ought to go from here?'
+
+i lu doi tcicymlatu li'u i abu toldarsi cfasku ki'u le nu nasai djuno
+le du'u xukau my nelci le cmene i ku'i my ganze'a cisma po'o i lu ua
+ta se pluka caku sei la alis pensi li'u i abo di'a co'e lu pe'udo'u
+ko mi jungau le du'u ei mi klama zo'e ti makau li'u
 
 @c      `That depends a good deal on where you want to get to,' said
 @c    the Cat.
@@ -454,7 +496,7 @@ i lu va'o lo nu mi klama ba'e da sei la alis ciksi jmina li'u
 @c      `Oh, you're sure to do that,' said the Cat, `if you only walk
 @c    long enough.'
 
-i lu ua ju'o do co'e sei le mlatu cu cusku va'o le nu do cadzu 
+i lu ua ju'o do ca'a co'e sei le mlatu cu cusku va'o le nu do cadzu 
 ze'a lo banzu li'u
 
 @c      Alice felt that this could not be denied, so she tried another
