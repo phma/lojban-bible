@@ -67,6 +67,7 @@ i lu do na clite le nu tsebi'o secau le nu se zvacpe sei cycy cusku li'u
 @c    great many more than three.'
 
 i lu mi na pu djuno le du'u le jubme cu me ba'e domoi sei la alis cusku
+@c What is "domoi" supposed to mean? -phma
 i jy bredi tu'a lo za'usaicimei li'u   
 
 @c      `Your hair wants cutting,' said the Hatter.  He had been
