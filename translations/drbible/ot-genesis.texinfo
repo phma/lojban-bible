@@ -455,30 +455,48 @@ zbasu lo palku lo figre pezli
 @c    3:8. And when they heard the voice of the Lord God walking in paradise
 @c    at the afternoon air, Adam and his wife hid themselves from the face of
 @c    the Lord God, amidst the trees of paradise.
+3:8. .i le rera cu tirna le sance be lenu la .iaves. noi cevni cu cadzu le purdi
+va'o le donri brife kei .i la .aDAM. .e le ri speni cu mipri vo'a le flira be
+la .iaves noi cevni be'o lei tricu be ne'i le purdi
 
 @c    3:9. And the Lord God called Adam, and said to him:  Where art thou?
+3:9. .i la .iaves. noi cevni cu klacpe la .adam. gi'e cusku lu do zvati ma?
+li'u
 
 @c    3:10. And he said:  I heard thy voice in paradise; and I was afraid,
 @c    because I was naked, and I hid myself.
+3:10. .i .abu dafsku lu mi tirna le voksa be do ne'i le purdi .ije mi terpa mu'i
+lenu mi tafcau kei .ije mi mipri mi li'u
 
 @c    3:11. And he said to him:  And who hath told thee that thou wast naked,
 @c    but that thou hast eaten of the tree whereof I commanded thee that thou
 @c    shouldst not eat?
+3:11. .i cusku lu ma jungau do le du'u tafcau? .i xu do citka le tricu poi mi
+minde do lenu na citka ce'u? li'u
 
 @c    3:12. And Adam said:  The woman, whom thou gavest me to be my companion,
 @c    gave me of the tree, and I did eat.
+3:12. .i la .aDAM. cusku lu le ninmu poi do kansa dunda ce'u mi cu dunda lei
+tricu mi .ije mi citka li'u
 
 @c    3:13. And the Lord God said to the woman:  Why hast thou done this?  And
 @c    she answered:  The serpent deceived me, and I did eat.
+3:13. .i la .iaves. noi cevni cu cusku lu do zukte la'edi'u ma? li'u le ninmu
+.i dafsku lu le since cu tcica mi lenu citka li'u
 
 @c    3:14. And the Lord God said to the serpent:  Because thou hast done this
 @c    thing, thou art cursed among all cattle, and beasts of the earth:  upon
 @c    thy breast shalt thou go, and earth shalt thou eat all the days of thy
 @c    life.
+3:14. .i la .iaves. noi cevni cu cusku lu mu'i lenu do zukte la'edi'u kei do
+seldapmau ro mabru .e ro cilce danlu fo lenu cpare fo le betfu kei .e lenu
+citka loi pulce ze'u lenu do jmive li'u le since
 
 @c    3:15. I will put enmities between thee and the woman, and thy seed and
 @c    her seed:  she shall crush thy head, and thou shalt lie in wait for her
 @c    heel.
+3:15. .i mi gasnu lenu do ce le ninmu pe'eje ledo panzi ce le ra panzi cu simbradi
+lenu ge ra darxi do fo le stedu gi do darxi ra fo le jamfu li'u le since
 
 @c    She shall crush. . .Ipsa, the woman; so divers of the fathers read this
 @c    place, conformably to the Latin:  others read it ipsum, viz., the seed.
@@ -488,18 +506,29 @@ zbasu lo palku lo figre pezli
 @c    3:16. To the woman also he said:  I will multiply thy sorrows, and thy
 @c    conceptions:  in sorrow shalt thou bring forth children, and thou shalt
 @c    be under thy husband's power, and he shall have dominion over thee.
+3:16. .i cusku lu mi zengau do le ni pazvau cortu .i do cortu se jbena lo panzi
+.i do <cuqat> le do speni .ije ri turni do li'u le ninmu
 
 @c    3:17. And to Adam he said:  Because thou hast hearkened to the voice of
 @c    thy wife, and hast eaten of the tree, whereof I commanded thee, that
 @c    thou shouldst not eat, cursed is the earth in thy work:  with labour and
 @c    toil shalt thou eat thereof all the days of thy life.
+3:17. .i fi la .aDAM. cusku fe lu mu'i lenu do tibytu'i le do speni le nu citka
+le tricu poi mi minde do lenu na citka ce'u keikeikei, dapma le terdi fi'o pagre
+do .i do cortu citka le teryru'e ze'u lenu do jmive
+@c "cursed is the earth in thy work" is the translation of "arurah ha'adamah
+@c ba`avodekha"; the text reads "arurah ha'adamah ba`avurekha", which differs
+@c by a tittle.
 
 @c    3:18. Thorns and thistles shall it bring forth to thee, and thou shalt
 @c    eat the herbs of the earth.
+3:18. .i dunda le jesyspa .e le kardoni do .i do citka le srasu pe le foldi
 
 @c    3:19. In the sweat of thy face shalt thou eat bread till thou return to
 @c    the earth out of which thou wast taken:  for dust thou art, and into
 @c    dust thou shalt return.
+3:19. .i fi'o te xasne le flira do citka lo nanba .ibabo do se xruti fi le dertu
+noi do se lebna fi ke'a .i do marji le pulce .ije do se xruti fi le pulce li'u
 
 @c    3:20. And Adam called the name of his wife Eve:  because she was the
 @c    mother of all the living.
