@@ -11,7 +11,7 @@
 @c    silence:  at last the Caterpillar took the hookah out of its
 @c    mouth, and addressed her in a languid, sleepy voice.
 
-lu'i le ciftoldi .e la alis. goi ko'a ze'a simxu le za'i smaji catlu le
+le ciftoldi ku ce la alis. ze'a simxu le za'i smaji catlu le
 drata cmima .i bazubo le ciftoldi mo'ize'o bevri le marna tubnu fo le
 moklu gi'e .o'udai .a'inaidai cusku fi ko'a
 
@@ -49,14 +49,27 @@ fa lu .iki'ubo le ka mi na du mi ku do se ganse li'u
 @c    politely, `for I can't understand it myself to begin with; and
 @c    being so many different sizes in a day is very confusing.'
 
+.i lu .u'u mi na kakne le nu xagmau cusku de'u li'u la alis. traji clite
+se cusku  fa lu ki'u mi zu'u na jimpe la'e de'u .ije le nu du'eroi galfi
+le ni mi clani cu traji cfipu li'u
+
 @c      `It isn't,' said the Caterpillar.
+
+.i lu na drani li'u le ciftoldi cu se cusku
 
 @c      `Well, perhaps you haven't found it so yet,' said Alice; `but
 @c    when you have to turn into a chrysalis--you will some day, you
 @c    know--and then after that into a butterfly, I should think you'll
 @c    feel it a little queer, won't you?'
 
+.i lu .o'ocu'i pe'i do puze'e ca na tugni li'u se cusku la alis. fa lu
+.iku'i ca le nu do binxo le todbi'olanka to le du'u do baca'a binxo
+teti'u da ku se djuno .a'o do toi gi'ebabo binxo le toldi .i pe'i do
+cinmo le milxe se cizra .i xu do tugni li'u
+
 @c      `Not a bit,' said the Caterpillar.
+
+.i lu na go'i li'u se cusku le ciftoldi
 
 @c      `Well, perhaps your feelings may be different,' said Alice;
 @c    `all I know is, it would feel very queer to ME.'
