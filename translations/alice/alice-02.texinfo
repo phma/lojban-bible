@@ -117,14 +117,14 @@ li ji'ipano le ka condi kei gi'e preja le xadba be le kumfa
 @c    as he could go.
 
 i bazaku abu tirna lo nu cmalu stapa le darno kei gi'e sutra le nu 
-sudgau lei kanla tezu'e le nu viska le nu makau klama i klama fa le blabi
+sudgau lei kanla tezu'e le nu viska le nu makau klama i klama fa la blabi
 ractu noi xruti gi'e melbi dasni gi'e jgari lo blabi ke kanba gluta
 remei ku fa'u lo barda bifpra le re xance i ry sutra bajra klama gi'e
-sezysku lu oi le noltroni'u zo'u ba'a ny ba cilce fengu va'o le nu mi
+sezysku lu oi la noltroni'u zo'u ba'a ny ba cilce fengu va'o le nu mi
 gasnu le nu ny denpa li'u i la alis tai cinmo le nu tolpacna kei
 ja'e le nu bredi le nu cpedu lo'e nunsidju makau iseki'ubo abu
-ca le nu le ractu jibni cu co'a cusku sepi'o lo lauble je toldarsi 
-voksa lu pe'u doi ractu li'u i le ractu cu suksa se jenca gi'e falcru lei
+ca le nu la ractu cu jibni cu co'a cusku sepi'o lo lauble je toldarsi 
+voksa lu pe'u doi ractu li'u i la ractu cu suksa se jenca gi'e falcru lei
 blabi ke kanba gluta e le bifpra gi'e bajra mo'ine'i le manku serai
 le ka sutra
 
@@ -242,7 +242,7 @@ stedu ti i mi tai titpa le nu mi ti nonkansa li'u
 
 i abu ca le nu cusku di'u cu fa'ani'a catlu le abu xance gi'e se spaji
 le nu viska le nu abu pu co'a dasni pa le cmalu ke blabi ke kanba gluta pe 
-le ractu ze'a le nu tavla i lu mi kakne ti ma sei abu pensi i 
+la ractu ze'a le nu tavla i lu mi kakne ti ma sei abu pensi i 
 ja'o mi za'ure'u jdika le ka barda li'u i abu sa'irbi'o gi'e klama le 
 jubme tezu'e le nu sezmerli fi jy i facki le du'u ca 
 centre li ji'imuno gi'e sutra le nu ca'o jdika i bazi facki le du'u 
@@ -364,7 +364,7 @@ le nu do na nelci lo'e mlatu li'u
 @c      `Not like cats!' cried the Mouse, in a shrill, passionate
 @c    voice.  `Would YOU like cats if you were me?'
 
-i lu na nelci lo'e mlatu sei le smacu cu kinli je cinmo voksa krixa
+i lu na nelci lo'e mlatu sei la smacu cu kinli je cinmo voksa krixa
 i xu ba'e do nelci lo'e mlatu va'o le nu da'i do me mi li'u
 
 @c      `Well, perhaps not,' said Alice in a soothing tone:  `don't be
@@ -385,7 +385,7 @@ lo'e mlatu va'o le nu da'i do dy viska i dy tai dirba smaji sei la alis
 tecu'uru'e le sevzi ca le nu lazni limna le lalxu ca'o co'e i dy melbi
 cmoni zutse ne'a le fagri gi'e tacpe'u le dy xance gi'e lumci le dy
 flira i dy tai pluka ranti le nu kujyjai i dy tai certu le nu kavbu
-lo'e smacu i oise'i ko mi fraxu sei la alis noi birti le du'u le smacu
+lo'e smacu i oise'i ko mi fraxu sei la alis noi birti le du'u la smacu
 noi caku tinsa cu je'u cnicro cu za'ure'u krixa i mi'o dy na ba di'a 
 casnu va'o le nu do zmanei li'u
 
@@ -394,7 +394,7 @@ casnu va'o le nu do zmanei li'u
 @c    always HATED cats:  nasty, low, vulgar things!  Don't let me hear
 @c    the name again!'
 
-i lu zo mi'o ue sei le smacu noi da bi'i le jipno be le ke'a rebla cu
+i lu zo mi'o ue sei la smacu noi da bi'i le jipno be le ke'a rebla cu
 desku cu krixa i ju'onaicai mi casnu lo simsa i le mi lanzu ze'e xebni
 lo'e mlatu i rigni je tolba'i je malfadni danlu i e'u mi na za'ure'u
 tirna le cmene li'u
@@ -414,7 +414,7 @@ tirna le cmene li'u
 @c    making quite a commotion in the pool as it went.
 
 i lu vi'osai sei la alis noi sutra le nu galfi le selsnu cu cusku i
-xu y xu do y nelci y lo'e gerku li'u i le smacu na spuda iseki'ubo 
+xu y xu do y nelci y lo'e gerku li'u i la smacu na spuda iseki'ubo 
 la alis ca'o cusku lu lo melbi ke cmalu gerku noi xabju le jibni be le 
 mi'a zdani zo'u mi djica le nu mi gy do jarco i gy cmalu gerku la terier 
 gi'e se kerfa lo clani je sarlu je bunre gi'e xrubei lei dacti poi do 
@@ -422,7 +422,7 @@ renro i gy fa'aga'u zutse gi'e cpedu le sanmi gi'e zukte so'i vrici noi
 mi ka'enai morji pimu lu'o ke'a i gy se ponse lo te cange noi xusra le 
 du'u gy tai se pilno ja'e le nu gy se vamji lo rupnu be li panono i cy 
 xusra le du'u gy catra ro le ratcu i oise'i sei la alis xenru tonga 
-krixa i mi xersmadi le du'u mi ta za'ure'u cnixai li'u i le smacu ca'o 
+krixa i mi xersmadi le du'u mi ta za'ure'u cnixai li'u i la smacu ca'o 
 limna to'o abu serai le ka vlipa kei gi'e mutce le ka kalsygau le lalxu 
 ca le nu klama  
 
@@ -436,7 +436,7 @@ ca le nu klama
 
 i abu xutla trisku lu doi smacu dirba ko za'ure'u xruti i nu'edo'u
 mi'o ba casnu genai lo'e mlatu ginaiji'a lo'e gerku va'o le nu
-do na nelci li'u i ca le nu le smacu di'u tirna kei sy dutselfarbi'o
+do na nelci li'u i ca le nu la smacu di'u tirna kei sy dutselfarbi'o
 gi'e masno limna xruti abu i le flira cu mutce le ka blabi to ja'e le
 nu cinmo sei la alis pensi toi i sy lauble je desku voksa cusku lu e'u
 mi'o klama le korbi ibabo mi do jungau le mi lisri i do ba jimpe le du'u
@@ -449,8 +449,8 @@ makau krinu le nu mi xebni lo'e mlatu e lo'e gerku li'u
 @c    shore.
 
 i ca mapti tcika le nu cliva kei ki'u le nu le lalxu ca'o tisna loi
-cipni ku joi loi danlu vu'o poi ba'o farlu ly i lo datka lo cipnrdodo
-lo cipnrlori lo cipnrxakuila so'o drata noi vrici je cizra danlu i
+cipni ku joi loi danlu vu'o poi ba'o farlu ly i la datka la cipnrdodo
+la cipnrlori la cipnrxakuila so'o drata noi vrici je cizra danlu i
 la alis lidne i piro le girzu cu limna seka'a le korbi
 
 @c lo datka lo cipnrdodo: This needs a conjunction, otherwise it means
