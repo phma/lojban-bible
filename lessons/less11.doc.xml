@@ -573,7 +573,7 @@ lang="art-lojban">da spuda ju danfu le preti</foreignphrase></para></listitem>
 lang="art-lojban">la jan. klama je penmi je tavla la suzyn.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">ro prenu cu fengu janai xanka leka se xebni</foreignphrase></para></listitem>
+lang="art-lojban">ro prenu cu fengu naja xanka leka se xebni</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">la ranjit. nelci loi kukte ja cpina</foreignphrase></para></listitem>
@@ -824,7 +824,7 @@ want <emphasis>not</emphasis> milk, <emphasis>and</emphasis> sugar</quote> (or, 
 <quote>not milk, but sugar</quote>) &mdash; which means that you are picking only
 sugar. You can still be unhelpful with your response: <foreignphrase
 lang="art-lojban">.a</foreignphrase> would leave us right where we started, for
-instance. Bbut at least this way you have a logically consistent way of 
+instance. But at least this way you have a logically consistent way of 
 picking alternatives presented to you. 
 </para>
 
@@ -1002,7 +1002,7 @@ lang="art-lojban">.i la ranjit. cusku lu .i do ca sabji le mo cidjrkari ja
 cidjrkebabi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i le bevri cu cusku lu .i lanme jonai bakni jonai jipci li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i le bevri cu cusku lu .i lanme ja bakni ja jipci li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. cu cusku lu .i mi djica lo bakni cidjrkari .e lo 
@@ -1121,7 +1121,7 @@ than one.)</para></listitem>
 lang="art-lojban">mi djica le birje .u le cidjrkari</foreignphrase>
 </para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">mi klama la .uacintyn .onai la
+<listitem><para><foreignphrase lang="art-lojban">mi klama la .uacintyn .o la
 .atlantas. la bastn.</foreignphrase> (Yes, this was meant to be tricky.
 In particular, it involves IFF rather than IF, since to get from Boston to
 Atlanta, you would likely go via Washington. So you cannot go to Atlanta
@@ -1147,7 +1147,9 @@ lang="art-lojban">la .atlantas.</foreignphrase> is in fact OK, because, if
 it did fall apart, it would fall apart into <foreignphrase
 lang="art-lojban">la .at. la ntas.</foreignphrase> <quote role="gloss">At,
 Ntas</quote> &mdash; and you'd need those pauses for it to really fall apart 
-like that.</para></tip></listitem> 
+like that. Without any such pauses, <foreignphrase
+lang="art-lojban">la .atlantas.</foreignphrase> is still treated as 
+a single word.</para></tip></listitem> 
 </orderedlist></para>
 </simplesect>
 
@@ -1208,7 +1210,7 @@ la lis.xarvis.azuald.</foreignphrase> <quote>Jack Kennedy was married to Jacquel
 by Lee Harvey Oswald.</quote></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djak.kenedis. nupre lenu lo merko cu cadzu le lunra gi'e te tinbe fi 
+lang="art-lojban">.i la djak.kenedis. nupre lenu lo merko cu cadzu le lunra kei gi'e te tinbe fi 
 la nasas.</foreignphrase> <quote>Jack Kennedy promised that an American would walk on the moon,
 and was obeyed by NASA.</quote> (The conversion works out in putting Kennedy as the x<subscript>1</subscript>
 of both <foreignphrase lang="art-lojban">bridi</foreignphrase>.)</para></listitem>
@@ -1292,15 +1294,23 @@ German or French beer?</quote>)</para></listitem>
 now?</quote> (There's no reason you can't use <foreignphrase
 lang="art-lojban">mo</foreignphrase> in a <foreignphrase
 lang="art-lojban">tanru</foreignphrase>. As usual, this asks for the listener to 
-fill in the blank.)</para></listitem>
+fill in the blank. The way Lojban works, <foreignphrase
+lang="art-lojban">mo cidjrkari ja cidjrkebabi</foreignphrase> is interpreted as
+<foreignphrase
+lang="art-lojban">mo {cidjrkari ja cidjrkebabi}</foreignphrase> &mdash; in other
+words, <foreignphrase
+lang="art-lojban">mo}</foreignphrase> applies to both <foreignphrase
+lang="art-lojban">cidjrkari</foreignphrase> and <foreignphrase
+lang="art-lojban">cidjrkebabi</foreignphrase>. There is more on the structure of <foreignphrase
+lang="art-lojban">tanru</foreignphrase> in <link linkend="less14">Lesson 14</link>.)</para></listitem>
 
 <listitem><para>The waiter says <quote>Lamb, beef or chicken.</quote> (That
 is to say, the sentence <quote>We serve <wordasword>x</wordasword> curries
 and kebabs</quote> is true for <wordasword>x</wordasword> being
-<wordasword>lamb</wordasword> XOR <wordasword>beef</wordasword>, XOR
+<wordasword>lamb</wordasword> OR <wordasword>beef</wordasword>, OR
 <wordasword>chicken</wordasword>. This means that the waiter has come up
 with a new kind of animal, a <quote
-role="socalled">Lamb-XOR-Cow-XOR-Chicken</quote>; but of course, that
+role="socalled">Lamb-OR-Cow-OR-Chicken</quote>; but of course, that
 description fits any one of a lamb, a cow or a chicken, so what the waiter
 has said does make sense.)</para></listitem>
 
@@ -1336,8 +1346,7 @@ lang="art-lojban">.i le bevri cu carna fi la suzyn. gi'e cisma gi'e cusku lu
 je'i bakni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. tirna jonai jundi le bevri</foreignphrase> (or: <foreignphrase
-lang="art-lojban">.i la suzyn. tirna le bevri gi'onai jundi le bevri</foreignphrase>)</para></listitem>
+lang="art-lojban">.i la suzyn. tirna le bevri gi'onai jundi le bevri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis pencu la suzyn. le janco gi'e cusku lu .i ju'i .suzyn. li'u</foreignphrase></para></listitem>

@@ -421,7 +421,10 @@ lang="art-lojban">bo</foreignphrase>.</para>
 lang="art-lojban">sumti tcita</foreignphrase>, by the way, like
 tense words. For example, <foreignphrase lang="art-lojban">.i ba
 bo</foreignphrase> means <quote role="gloss">afterwards, then</quote>: the
-sentence it introduces comes after the one before it. </para></tip>
+sentence after <foreignphrase lang="art-lojban">.i ba
+bo</foreignphrase> refers to something that took place after what took place
+in the sentence before <foreignphrase lang="art-lojban">.i ba
+bo</foreignphrase>. </para></tip>
 
 <note><para>The very astute reader will have noted that <quote
 role="gloss">afterwards</quote> <emphasis>should</emphasis> have been
@@ -470,7 +473,7 @@ role="gloss">do</quote>)</para></listitem></varlistentry>
 <para>Where necessary, insert any of <foreignphrase lang="art-lojban">je, seni'ibo, babo,
 seri'abo</foreignphrase> after all but the first <foreignphrase lang="art-lojban">.i</foreignphrase> in 
 each of the following text fragments. For example: <foreignphrase lang="art-lojban">.i mi telgau fi
-le vorme .i <emphasis>seni'ibo</emphasis> le vorme cu te telgau mi</foreignphrase>
+le vorme .i <emphasis>seni'ibo</emphasis> le vorme cu te telgau fi mi</foreignphrase>
 </para>
 
 <para><orderedlist>
@@ -926,7 +929,7 @@ logically preventing you from going inside; it is <emphasis>physically</emphasis
 <listitem><para><foreignphrase lang="art-lojban">seni'ibo</foreignphrase>: It logically follows from
 the definition of <quote role="gloss">lock</quote> that, if you lock a door, the door is then closed.</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ba</foreignphrase>: there is no real causal connection between
+<listitem><para><foreignphrase lang="art-lojban">babo</foreignphrase>: there is no real causal connection between
 closing a door and leaving. You may be closing the door because you've finished your business there; but who's
 to say why you closed it, after all...</para></listitem>
 
@@ -947,7 +950,7 @@ on Lojban, not logic.) So you near to join the two facts together with AND.</par
 <foreignphrase lang="art-lojban">seni'i</foreignphrase>; so you don't need to insert it again for the third sentence. In 
 fact, as we discussed later on, it would join the wrong sentences together anyway...</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ri'abo; ni'ibo</foreignphrase>. People fall as a physical result of 
+<listitem><para><foreignphrase lang="art-lojban">seri'abo; seni'ibo</foreignphrase>. People fall as a physical result of 
 being pushed. The definition of <quote role="gloss">fall</quote> logically requires that someone who has fallen is
 lower down than someone who hasn't fallen. (You don't fall upwards. Zero-gravity counterexamples &mdash; and you'll
 make a good Lojbanist if you came up with one &mdash; are
@@ -982,12 +985,14 @@ ma</foreignphrase> (Give yourself a pat on the back if you got that one
 right! Numbers and mathematical problems belong to the realm of logic, not 
 the physical world.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">le cevni cu curmi lenu palci ki'u
+<listitem><para><foreignphrase lang="art-lojban">le cevni cu curmi lenu palci kei ki'u
 ma</foreignphrase> (<foreignphrase lang="art-lojban">ki'u</foreignphrase> is best
 here, since a religious believer would probably look for some justification
 for the existence of evil, rather than a physical cause or personal
 motivation. Some theologians might prefer <foreignphrase
-lang="art-lojban">ni'i</foreignphrase>, I suppose!)</para></listitem>
+lang="art-lojban">ni'i</foreignphrase>, I suppose! The <foreignphrase 
+lang="art-lojban">kei</foreignphrase> is necessary because you're asking a question about
+the allowing, not about the evil itself.)</para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1060,7 +1065,7 @@ lang="art-lojban">.i la djiotis. tavla semu'i lenu ri simsa la ranjit. le ka plu
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i dy./le go'i/la djiotis./ra cusku lu mi lanli le vozemoi se 
-finti be la'o gy. Jimmy Bob Bach gy. se pi'o le vi minra ni'i lenu mi kakne li'u</foreignphrase>
+finti be la'o gy. Jimmy Bob Bach gy. se pi'o le vi minra mu'i lenu mi kakne li'u</foreignphrase>
 (<emphasis>or</emphasis> <foreignphrase
 lang="art-lojban">la djimis.bab.bax.</foreignphrase>. You could say <foreignphrase
 lang="art-lojban">le vozemoi se finti pe fi'e ...</foreignphrase>, but that would 

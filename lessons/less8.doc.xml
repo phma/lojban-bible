@@ -227,8 +227,8 @@ lang="art-lojban">sumti</foreignphrase>: x<subscript>1</subscript>, the thought 
 words used to express it:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">le la jan. se pensi cu {du'u ri nelci la suzyn. kei} lu do bebna li'u</foreignphrase>
-Zhang's thing-thought (= what Zhang thought) is {the thought that he likes Susan}, put into the words <quote>You're a dolt.</quote></literallayout>
+<literallayout><foreignphrase lang="art-lojban">le la jan. se pensi cu {du'u ri nelci la suzyn. kei} lu do dirba mi li'u</foreignphrase>
+Zhang's thing-thought (= what Zhang thought) is {the thought that he likes Susan}, put into the words <quote>You are dear to me.</quote></literallayout>
 </informalexample>That's why <foreignphrase
 lang="art-lojban">le se du'u</foreignphrase> refers to words rather than thoughts.
 
@@ -442,9 +442,9 @@ lang="art-lojban">y</foreignphrase> in a Lojban word, it cannot be a
 <foreignphrase lang="art-lojban">gismu</foreignphrase> or a <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> (with two exceptions we've already
 seen: <foreignphrase lang="art-lojban">.y.</foreignphrase> <quote
-role="gloss">er...</quote> and <foreignphrase
-lang="art-lojban">.y'y.</foreignphrase> <quote
-role="gloss">apostrophe.</quote>) Such a word can only be either a
+role="gloss">er...</quote> and letters of the alphabet like <foreignphrase
+lang="art-lojban">.y'y.</foreignphrase> and <foreignphrase
+lang="art-lojban">dy.</foreignphrase>) Such a word can only be either a
 <foreignphrase lang="art-lojban">lujvo</foreignphrase> or a name
 (<foreignphrase lang="art-lojban">cmene</foreignphrase>). <foreignphrase
 lang="art-lojban">y</foreignphrase> was purposefully avoided in <quote
@@ -787,6 +787,9 @@ lang="art-lojban">jarbu</foreignphrase></term><listitem><para>x<subscript>1</sub
 area of city/metropolis x<subscript>2</subscript> </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">jmina</foreignphrase></term><listitem><para>x<subscript>1</subscript> adds/combines x<subscript>2</subscript> to/with x<subscript>3</subscript>, with result x<subscript>4</subscript>; x<subscript>1</subscript> augments x<subscript>2</subscript> by amount x<subscript>3</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">jukpa</foreignphrase></term><listitem><para>x<subscript>1</subscript> cooks/prepares
 food-for-eating x<subscript>2</subscript> by recipe/method x<subscript>3</subscript> (process)
 </para></listitem></varlistentry>
@@ -827,7 +830,7 @@ south/southern side of x<subscript>2</subscript> according to frame of reference
 forms, but try and be as idiomatic as possible. <orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i le la djiotis. karce cu xe
-klama le gusta fi la djiotis .e la ranjit .e la
+klama le gusta fu la djiotis .e la ranjit .e la
 suzyn.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. catlu le vo'a 
@@ -839,7 +842,7 @@ ve minra</foreignphrase></para></listitem>
 minra la ranjit. soi vo'a</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. te preti fo la
-djiotis. fe lu .i ma te klaji fi ti li'u</foreignphrase></para></listitem>
+djiotis. fi lu .i ma te klaji fi ti li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i le
 kisto jarbu</foreignphrase></para></listitem>
@@ -852,7 +855,7 @@ li'u</foreignphrase></para></listitem>
 vo'i</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i pe'i le ve
-klama pe le gusta na te djuno do li'u</foreignphrase></para></listitem>
+klama pe le gusta na te djuno fi do li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -874,18 +877,18 @@ lang="art-lojban">ti</foreignphrase> depends on whether they are important in th
 context &mdash; probably they are obvious and can be missed
 out.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">loi jdini cu ve xlura lenu cliva
-le gugde</foreignphrase> (<quote>Money is an inducement to
+<listitem><para><foreignphrase lang="art-lojban">loi jdini cu ve xlura mi lenu cliva
+le gugde</foreignphrase> (<quote>Money is an inducement for me to
 emigrate.</quote>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la lojban. ve
-tavla</foreignphrase> (<quote>There is a conversation in Lojban.</quote> We
+tavla fo lo prenu</foreignphrase> (<quote>There is a conversation in Lojban.</quote> We
 don't need <foreignphrase lang="art-lojban">lo prenu</foreignphrase> since we can
 assume that it is people chatting in Lojban and not, say,
 chimpanzees.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">le cukta cu te dunda
-mi</foreignphrase> </para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mi te dunda le cukta lo
+prenu</foreignphrase> </para></listitem>
 
 
 </orderedlist></para>
@@ -917,7 +920,7 @@ mi</foreignphrase> </para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lo nalvu'e</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lo teryre'e</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lo nalvai</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">lo selvi'a</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lo nalselvi'a</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lo naltercni</foreignphrase></para></listitem>
 </orderedlist></para>
 </simplesect>

@@ -446,7 +446,8 @@ Chapter 12.) So, particularly when the concept you want to express is
 preferred.</para>
 
 <para>There are some cases, though, when you do have to borrow a word from
-another language. This can be because the thing you're talking about is
+another language, creating a loan word 
+(<foreignphrase lang="art-lojban">fu'ivla</foreignphrase>). This can be because the thing you're talking about is
 very concrete or particular, and/or because the reference is quite
 culture-specific. In either case, it would be really cumbersome to describe
 it with a combination of <foreignphrase
@@ -702,7 +703,7 @@ lang="art-lojban">po'u</foreignphrase> has a non-restrictive version:
 that Ranjeet was Jyoti's friend, not to distinguish him from the other
 Ranjeets you might know, but just for your information, I should use
 <foreignphrase lang="art-lojban">no'u</foreignphrase> instead of
-<foreignphrase lang="art-lojban">po'u</foreignphrase>.</para>
+<foreignphrase lang="art-lojban">po'u</foreignphrase>. You can think of <foreignphrase lang="art-lojban">no'u</foreignphrase> as tantamount to <foreignphrase lang="art-lojban">noi du</foreignphrase>, and <foreignphrase lang="art-lojban">po'u</foreignphrase> as tantamount to <foreignphrase lang="art-lojban">poi du</foreignphrase>.</para>
 
 <note><para><foreignphrase lang="art-lojban">no'u</foreignphrase> and
 <foreignphrase lang="art-lojban">po'u</foreignphrase> are typically used in
@@ -740,7 +741,7 @@ the sentences. For instance:
 <informalexample><para><wordasword>x</wordasword>, which is [equal to] y, is a number.
 <itemizedlist>
 <listitem><para><foreignphrase
-lang="art-lojban">da noi me de namcu</foreignphrase></para></listitem>
+lang="art-lojban">da noi me de cu namcu</foreignphrase></para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">da noi du de namcu</foreignphrase></para></listitem>
 <listitem><para><foreignphrase
@@ -897,7 +898,7 @@ ve cradi cu cladu li'u gi'e mo'u smagau</foreignphrase></para></listitem>
 lang="art-lojban">.i la ranjit cusku lu .i .u'i ki'e do'u mi co'a tirna mi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. cusku lu .i .uu mi ji'a go'i</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. cusku lu .i .uu mi ji'a go'i li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. cusku lu .i ke'onai .djiotis. mi nelci lei 
@@ -1002,7 +1003,7 @@ in brackets afterwards.&IPAASCIIdisclaimer;</para>
 <listitem><para>Between New Orleans and Cheyenne (Cheyenne [<emphasis role="ipa">&esh;&aeligipa;&stress;j&ekl;n</emphasis>], New Orleans [<emphasis role="ipa">&stress;n&akl;l&ikl;nz</emphasis>]. OK, we aren't necessarily
 serious about the last one.)</para></listitem>
 
-<listitem><para>Canton (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">kua&eng;t&shkl;ow</emphasis>])</para></listitem>
+<listitem><para>Canton/Guangzhou (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">kua&eng;t&shkl;ow</emphasis>])</para></listitem>
 
 <listitem><para>The bar ([<emphasis role="ipa">le &stress;bar&zhkl;a</emphasis>]). Of course.</para></listitem>
 
@@ -1042,7 +1043,8 @@ literally meant!)</para></listitem>
 what I'll do!</quote>; but <foreignphrase
 lang="art-lojban">vi'o</foreignphrase> is a response to an explicit 
 request, and <foreignphrase lang="art-lojban">fi'i</foreignphrase> isn't 
-really a request.)</para></listitem>
+really a request. It also makes sense to respond with <foreignphrase
+lang="art-lojban">ki'e</foreignphrase>.)</para></listitem>
 
 </orderedlist></para></listitem>
 
@@ -1108,10 +1110,8 @@ Greek (and thus presumably more recognisable to at least some non-English speake
 <foreignphrase lang="art-lojban">cidrndeuterio</foreignphrase>, if you know about those ablatives
 I'm not going to explain here...)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">jemnrxametisti</foreignphrase>: you can't use
-<foreignphrase lang="art-lojban">n</foreignphrase> as your favourite joining consonant, because
-the <foreignphrase lang="art-lojban">gismu</foreignphrase> prefix already ends in <foreignphrase lang="art-lojban">n</foreignphrase>!
-(As it turns out, <foreignphrase lang="art-lojban">jemnrametisti</foreignphrase> would have
+<listitem><para><foreignphrase lang="art-lojban">jemnrnametisti</foreignphrase> or 
+<foreignphrase lang="art-lojban">jemnrxametisti</foreignphrase>. (As it turns out, <foreignphrase lang="art-lojban">jemnrametisti</foreignphrase> would have
 also been acceptable as a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">zgiknralentando</foreignphrase>
@@ -1303,7 +1303,7 @@ play at that game!)</para></listitem>
 <para><orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. .e la ranjit. .e la suzyn. mu'o klama le 
+lang="art-lojban">.i la djiotis. .e la ranjit. .e la suzyn. mo'u klama le 
 dansydi'u ti'u li no pi'e muno</foreignphrase> (Not <foreignphrase
 lang="art-lojban">co'u klama</foreignphrase>, which would have had them 
 stop on the way; nor <foreignphrase
@@ -1319,9 +1319,9 @@ appropriate, though <foreignphrase lang="art-lojban">.e</foreignphrase> is
 strictly speaking correct.) </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi pu pu'o bevri loi jdini
-gi'e dukse jundi lemi se cradi</foreignphrase> (A more pedantic version
+gi'e dukse jundi lemi se cradi li'u</foreignphrase> (A more pedantic version
 &mdash; in keeping with Ranjeet's style &mdash; would be: <foreignphrase
-lang="art-lojban">.i ku'i lenu mi jundi le se cradi be mi cu se
+lang="art-lojban">.i ku'i lenu mi jundi le se cradi pe mi cu se
 dukse</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca'o lenu la ranjit. na
@@ -1349,12 +1349,17 @@ lang="art-lojban">ro da poi dotco</foreignphrase> is also correct.)
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
-je'e do'u ku'i le kanla be la ranjit. mutce zmadu le kanla be la ginter. le
+je'e do'u ku'i le kanla be la ranjit. cu mutce zmadu le kanla be la ginter. le
 ka melbi li'u</foreignphrase> (Kind of a baptism by fire for you with that
 new <foreignphrase lang="art-lojban">gismu</foreignphrase>. Sorry about
 that. You can't avoid <foreignphrase lang="art-lojban">do'u</foreignphrase>
 here, otherwise Susan would be speaking to Ranjeet's eyes: <quote>That's
-right, O eyes of Ranjeet's.</quote>)</para></listitem>
+right, O eyes of Ranjeet's.</quote></para>
+
+<para>By the way, the <foreignphrase lang="art-lojban">cu</foreignphrase> is necessary; otherwise, <foreignphrase lang="art-lojban">kanla be la ranjit. mutce zmadu</foreignphrase> would be 
+taken as a single <foreignphrase lang="art-lojban">tanru</foreignphrase> &mdash; individual
+<foreignphrase lang="art-lojban">gismu</foreignphrase> within a <foreignphrase 
+lang="art-lojban">tanru</foreignphrase> can still have their own <foreignphrase lang="art-lojban">sumti</foreignphrase> attached with <foreignphrase lang="art-lojban">be</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i vu le ninmu la jan. cladu cusku lu .i coi pendo li'u la ranjit.</foreignphrase>

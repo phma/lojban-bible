@@ -514,7 +514,8 @@ the word following it, which starts the phrase to serve as the correction.
 It then goes back in the sentence, looking for the last time you used a
 phrase starting with the same word. (Same <foreignphrase
 lang="art-lojban">selma'o</foreignphrase>, actually.) Once it finds the 
-last such phrase, it replaces it with the phrase following <foreignphrase 
+last such phrase, it replaces all text from that phrase up to <foreignphrase 
+lang="art-lojban">sa</foreignphrase> with the phrase following <foreignphrase 
 lang="art-lojban">sa</foreignphrase>. For example:
 
 <informalexample>
@@ -532,17 +533,29 @@ and including <foreignphrase lang="art-lojban">sa</foreignphrase><!--:
 sa</foreignphrase>-->. Or consider:
 
 <informalexample>
-<para><foreignphrase lang="art-lojban">.i <emphasis>ca le purlamdei</emphasis> mi mrilu fi do sa <emphasis>ca 
+<para><foreignphrase lang="art-lojban">.i mi mrilu fi do <emphasis>ca le purlamdei</emphasis> sa <emphasis>ca 
 la reldjed.</emphasis></foreignphrase></para>
 
 </informalexample>The correction is <foreignphrase lang="art-lojban">ca la
 reldjed.</foreignphrase> <quote role="gloss">on Monday</quote>. So what it 
-replaces is the last phrase beginning with <foreignphrase 
+replaces is everything from the last phrase beginning with <foreignphrase 
 lang="art-lojban">ca</foreignphrase>: <foreignphrase lang="art-lojban">ca 
 le purlamdei</foreignphrase> <quote role="gloss">yesterday</quote>. The 
 English version would be <quote>Yesterday I mailed you... actually, it was 
 Monday.</quote>
 </para>
+
+<tip><para>Of the Lojban erasure words, <foreignphrase 
+lang="art-lojban">sa</foreignphrase> is not as widely known as  <foreignphrase 
+lang="art-lojban">si</foreignphrase>, and another, unofficial solution has 
+arisen on IRC (Internet Relay Chat) to the problem of correcting a word in 
+the sentence after you've completed that sentence. (People on IRC tend to type
+faster than they should, so this kind of problem arises pretty frequently.)
+The solution is to repeat the error word, then erase it with  <foreignphrase 
+lang="art-lojban">si</foreignphrase>, then give the correction. Strictly speaking,
+that's not how  <foreignphrase lang="art-lojban">si</foreignphrase> is meant to 
+work &mdash; it only makes sense to a computer parser if the erasure is within 
+the current sentence; but you'll see this on IRC fairly often.</para></tip>
 
 <simplesect role="exercise"><title>Exercise 3</title>
 
@@ -559,10 +572,11 @@ si catlu la djan.</foreignphrase></para></listitem>
 catlu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu lebna loi lojbo 
-valsi cu nandu sa nu vimcu loi lojbo valsi lo jufra</foreignphrase></para></listitem>
+valsi cu nandu sa nu vimcu loi lojbo valsi lo jufra cu nandu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi .e lemi pendo cu 
-zvati le barja sa .e la ranjit. ca lenu do zvati le gusta</foreignphrase></para></listitem>
+zvati le barja sa .e la ranjit. cu 
+zvati le barja ca lenu do zvati le gusta</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -811,8 +825,8 @@ lu .i doi le pedro si pendo .e'uru'e mu'i ma do vi zvati li'u</foreignphrase></p
 lenu mi kansa la djiotis. .e lo pendo be ri to mutce melbi .uasai toi li'u </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la jan. lu .i mi lenu 
-do .e re melbi cu kansa ba'e 
-gleki doi pendo sa lenu do kansa re sa'e melbi li'u</foreignphrase></para></listitem>
+do .e re melbi cu kansa cu ba'e 
+gleki doi pendo sa lenu do kansa re sa'e melbi cu gleki li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit. lu .i .e'epei 
 zo'o do ca klama la jipci li'u</foreignphrase></para></listitem>
@@ -973,16 +987,19 @@ narrator isn't exaggerating here.)</para></listitem>
 
 <para><orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">.i mi viska le djan.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i mi viska la djan.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi catlu la djan.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi 
-catlu la djan.</foreignphrase> (What follows <foreignphrase 
+catlu</foreignphrase> (What follows <foreignphrase 
 lang="art-lojban">sa</foreignphrase> is a <foreignphrase 
 lang="art-lojban">selbri</foreignphrase>; so it replaces the last <foreignphrase 
-lang="art-lojban">selbri</foreignphrase> we've seen, while leaving its <foreignphrase 
-lang="art-lojban">sumti</foreignphrase> alone.)</para></listitem>
+lang="art-lojban">selbri</foreignphrase> we've seen, as well as everything else
+up to <foreignphrase 
+lang="art-lojban">sa</foreignphrase>, including the <foreignphrase 
+lang="art-lojban">sumti</foreignphrase>, <foreignphrase 
+lang="art-lojban">la djan.</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu vimcu loi lojbo
 valsi lo jufra cu nandu</foreignphrase> (You're telling me!)</para></listitem>
@@ -990,9 +1007,8 @@ valsi lo jufra cu nandu</foreignphrase> (You're telling me!)</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i mi .e la ranjit. cu
 zvati le barja ca lenu do zvati le gusta</foreignphrase> (The phrase
 following <foreignphrase lang="art-lojban">sa</foreignphrase> is the name
-<foreignphrase lang="art-lojban">la ranjit.</foreignphrase>; anything after
-that name, i.e. <foreignphrase lang="art-lojban">ca lenu do zvati le
-gusta</foreignphrase>, is left alone.)</para></listitem>
+<foreignphrase lang="art-lojban">la ranjit.</foreignphrase>; everything from
+that name on, i.e. <foreignphrase lang="art-lojban">cu zvati le barja</foreignphrase>, is deleted.)</para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1036,7 +1052,7 @@ mind telling me what you're doing here?</quote></para></listitem>
 
 <listitem><para>Zhang: <quote>I, for you and two beautiful people
 accompanying, am <emphasis>happy</emphasis>, friend... I mean, for you
-accompanying two beautiful people (to put it precisely)</quote> (We can get
+accompanying two beautiful people (to put it precisely), am happy</quote> (We can get
 away with <quote>this sentence no verb</quote> in Lojban. And let's not be too
 hard on Zhang, either, who has the sense to fix his 
 Lojban grammar even in his elated state. He has tried to say <quote>for you and 
@@ -1125,10 +1141,18 @@ tone it down to <foreignphrase
 lang="art-lojban">.uesai</foreignphrase>, if you want.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jan. lu .i da'i mi djuno ledu'o do vi zvati nagi'a 
+lang="art-lojban">.i la jan. lu .i da'i mi djuno ledu'u do vi zvati kei nagi'a 
 dasni noda zo'o li'u</foreignphrase> <emphasis>or</emphasis> <foreignphrase
-lang="art-lojban">.i la jan. lu .i da'i mi djuno ledu'o do vi zvati .inaja 
-mi dasni noda zo'o li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i la jan. lu .i da'i mi djuno ledu'u do vi zvati .inaja 
+mi dasni noda zo'o li'u</foreignphrase>. In fact (for reasons we won't go into 
+here), things turns out to be less problematic for hypothetical 
+<wordasword>if</wordasword>-statements 
+if you use a solution based on <foreignphrase 
+lang="art-lojban">nibli</foreignphrase> or <foreignphrase 
+lang="art-lojban">ni'i</foreignphrase>: <foreignphrase 
+lang="art-lojban">.i la jan. lu .i lenu mi da'i djuno ledu'u do vi zvati cu nibli 
+lenu mi dasni noda zo'o li'u</foreignphrase>, or <foreignphrase 
+lang="art-lojban">.i la jan. lu .i mi da'i djuno ledu'u do vi zvati .i seni'ibo da'i mi dasni noda zo'o li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la djiotis. lu .i
 kulnrgiki po'onai gi'e ji'a fekypre li'u</foreignphrase> 

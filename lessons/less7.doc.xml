@@ -56,7 +56,7 @@ lang="art-lojban">selbri</foreignphrase>.) So we
 can rewrite the first three sentences as
 
 <informalexample><para><foreignphrase lang="art-lojban">la suzyn. klama le barja
-.i le go'i ze'e pinxe loi vanju .i le go'i cu zgana lo
+.i le go'i ze'a pinxe loi vanju .i le go'i cu zgana lo
 nanmu</foreignphrase></para></informalexample></para>
 
 <para>The system breaks down here, though, since <foreignphrase
@@ -255,7 +255,7 @@ ko'e</foreignphrase></para>
 means that particular man, so the full story so far reads:
 
 <informalexample><para><foreignphrase lang="art-lojban">la suzyn.  goi ko'a klama
-le barja .i ko'a ze'e pinxe loi vanju .i ko'a zgana lo nanmu goi ko'e .i
+le barja .i ko'a ze'a pinxe loi vanju .i ko'a zgana lo nanmu goi ko'e .i
 ko'e melbi .i caku ko'e zgana ko'a</foreignphrase></para>
 
 </informalexample>(Note how the <foreignphrase lang="art-lojban">cu</foreignphrase>s have
@@ -304,7 +304,7 @@ important things. </para></note>
 wondering where I get all these unusual names from, Jyoti is an old
 Gujarati friend of mine). We continue ....
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. goi ko'i mo'ine'i .i ko'i rinsa ko'e</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. goi ko'i mo'ine'i klama .i ko'i rinsa ko'e</foreignphrase>
 Jyoti (henceforth #3), into. #3 greets #2.
 Jyoti comes in and says hello to the guy.</literallayout>
 </informalexample><foreignphrase lang="art-lojban">mo'ine'i</foreignphrase> is another space <quote
@@ -314,7 +314,8 @@ lang="art-lojban">ne'i</foreignphrase> means <quote role="gloss">inside</quote> 
 lang="art-lojban">gismu</foreignphrase>, <foreignphrase
 lang="art-lojban">nenri</foreignphrase>). So <foreignphrase
 lang="art-lojban">mo'ine'i</foreignphrase> corresponds to the English preposition
-<wordasword>into</wordasword>. The way Lojban grammar works, <foreignphrase
+<wordasword>into</wordasword> (while <foreignphrase
+lang="art-lojban">ne'i</foreignphrase> on its own corresponds to <wordasword>inside</wordasword> or <wordasword>into</wordasword>.) The way Lojban grammar works, <foreignphrase
 lang="art-lojban">mo'ine'i</foreignphrase> on its own is treated as <foreignphrase
 lang="art-lojban">mo'ine'i ku</foreignphrase>: a <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> with an omitted <foreignphrase
@@ -326,7 +327,7 @@ role="gloss">afterwards</quote> (relative to the here-and-now), <foreignphrase l
 role="gloss">in(to)wards</quote> &mdash; but is nowhere near as weird in
 Lojban as it is in English.)</para>
 
-<para>The <foreignphrase
+<!--<para>The <foreignphrase
 lang="art-lojban">selbri</foreignphrase> is also missed out, because the way Jyoti
 moves is not important (<foreignphrase lang="art-lojban">klama</foreignphrase> is
 possible, but unnecessary, but we could use <foreignphrase
@@ -334,14 +335,15 @@ lang="art-lojban">bajra</foreignphrase>, for example). This is creative Lojban
 &mdash; it's not exactly ungrammatical to leave a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> out like this, but it means that this is
 a sentence-fragment, not a real <foreignphrase
-lang="art-lojban">bridi</foreignphrase>. Don't try this at home, kids. </para>
+lang="art-lojban">bridi</foreignphrase>. Don't try this at home, kids. </para>-->
 
-<para>When not involved in this kind of trick, <foreignphrase lang="art-lojban">mo'i</foreignphrase>
+<para><!--When not involved in this kind of trick, --><foreignphrase lang="art-lojban">mo'i</foreignphrase>
 is extremely useful, as it allows you to distinguish between location and motion. For example, <wordasword>I ran 
 behind the bar</wordasword> in English is properly speaking ambiguous: are you running while behind the bar, or are 
 you running with your final destination behind the bar? Lojban does not allow that ambiguity: <foreignphrase
 lang="art-lojban">mi bajra ti'a le barja</foreignphrase> means the former, while <foreignphrase
-lang="art-lojban">mi bajra <emphasis>mo'i</emphasis> ti'a le barja</foreignphrase> means the latter. This kind of ambiguity may pass unnoticed by native English
+lang="art-lojban">mi bajra <emphasis>mo'i</emphasis> ti'a le barja</foreignphrase> means the latter. In the example given above, <foreignphrase
+lang="art-lojban">ne'i klama</foreignphrase> would mean not that Jyoti comes in (from outside), but that she is going from somewhere to somewhere else, while inside. This kind of ambiguity may pass unnoticed by native English
 speakers, but speakers of languages which are more precise about direction
 find it extremely vague (Turkish, for example, has at least three words to
 translate <quote role="gloss">here</quote>).</para>
@@ -363,10 +365,6 @@ opposed to <foreignphrase
 lang="art-lojban">joi</foreignphrase>.) Stay tuned for a proper explanation 
 of these words in <link linkend="less11">a 
 couple of lessons</link>.</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">fengu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is angry/mad at
-x<subscript>2</subscript> for x<subscript>3</subscript> (action/state/property)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">rinsa</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent) greets/hails/[welcomes/says hello to]/responds to arrival of x<subscript>2</subscript> in manner x<subscript>3</subscript>
@@ -563,7 +561,7 @@ Susan doesn't know that Zhang fancies (<quote role="gloss">sexually-likes</quote
 <para><foreignphrase lang="art-lojban">du'u</foreignphrase> belongs to
 <foreignphrase lang="art-lojban">selma'o</foreignphrase> (= <foreignphrase
 lang="art-lojban">se cmavo</foreignphrase>) NU, just like <foreignphrase
-lang="art-lojban">nu</foreignphrase> itself. This means you can use it wherever
+lang="art-lojban">nu</foreignphrase> itself. This means you can use it grammatically wherever
 you use <foreignphrase lang="art-lojban">nu</foreignphrase>. In fact,
 <foreignphrase lang="art-lojban">du'u</foreignphrase> and <foreignphrase
 lang="art-lojban">nu</foreignphrase> are the two major kinds of
@@ -738,7 +736,7 @@ persons</quote>, but often you can just miss it out altogether. </para>
 
 <para>English <wordasword>we</wordasword> is almost as confusing, as it can
 mean the speaker and the listener(s), the speaker and some other people, or
-the speaker and the listener and some other people. Not surprsingly, Lojban
+the speaker and the listener and some other people. Not surprisingly, Lojban
 has four pro-<foreignphrase lang="art-lojban">sumti</foreignphrase> for
 <wordasword>we</wordasword>:
 
@@ -900,8 +898,7 @@ x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">simxu</foreignphrase></term><listitem><para>x<subscript>1</subscript> (set) has members
-who mutually/reciprocally x<subscript>2</subscript> (event [x<subscript>1</subscript> should be reflexive in 1+
-sumti])</para></listitem></varlistentry>
+who mutually/reciprocally x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">.y.</foreignphrase></term><listitem><para><quote 
@@ -934,7 +931,7 @@ looking at both next lesson.</para></note></para>
 <listitem><para><foreignphrase lang="art-lojban">.i ko'a 
 burna</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i ko'a mo'ini'a catlu le
+<listitem><para><foreignphrase lang="art-lojban">.i ko'a catlu le
 la cardoNES. kabri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu zgana
@@ -948,16 +945,16 @@ vo'a </foreignphrase></para></listitem>
 <emphasis>redo</emphasis> puzi simxu ninpe'i li'u
 </foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le vanju cu simlu leka mutce
+<listitem><para><foreignphrase lang="art-lojban">.i le vanju pe ni'a cu simlu leka mutce
 cinri </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko'a sutra pinxe <emphasis>le
 go'i</emphasis> </foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i ko'e cusku lu .yyy. na
+<listitem><para><foreignphrase lang="art-lojban">.i ko'e cusku lu .y. na
 <emphasis>go'i</emphasis> </foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i <emphasis>mi</emphasis> puze'e
+<listitem><para><foreignphrase lang="art-lojban">.i <emphasis>mi</emphasis> puze'a
 na penmi <emphasis>ti</emphasis> soi vo'a li'u
 </foreignphrase></para></listitem>
 
@@ -1037,7 +1034,11 @@ lang="art-lojban">xumske</foreignphrase></term><listitem><para>chemistry
 <simplesect role="exercise"><title>Exercise 7</title>
 
 <para>Translate into Lojban. Use Lojban letters (acronyms) for the characters to refer 
-to each other.
+to each other. Do not use <foreignphrase 
+lang="art-lojban">li'u</foreignphrase> to close quotations opened with 
+<foreignphrase 
+lang="art-lojban">lu</foreignphrase> at the end of each sentence, but only when the 
+speaker actually stops speaking.
  
 <orderedlist>
  
@@ -1065,12 +1066,10 @@ disco.</quote></para></listitem>
 <listitem><para><quote>Do you want to accompany
 us?</quote></para></listitem>
 
-<listitem><para><quote>Sure,</quote> said Susan, as she and Ranjeet smiled
-at each other. (Hint: <wordasword>as</wordasword> = <wordasword>at the same
+<listitem><para><quote>Sure,</quote> said Susan, as she smiled
+at Ranjeet. (Hint: <wordasword>as</wordasword> = <wordasword>at the same
 time
-as</wordasword>. And use the <foreignphrase 
-lang="art-lojban">soi vo'a</foreignphrase> trick for <quote role="gloss">each 
-other</quote>)</para></listitem>
+as</wordasword>.)</para></listitem>
  
 </orderedlist></para>
 </simplesect>
@@ -1139,14 +1138,19 @@ counting backwards from the start of the sentence.)</para></listitem>
 
 <listitem><para>They laugh nervously.</para></listitem> 
 
-<listitem><para>Now, they look at Ranjeet. (<foreignphrase 
+<listitem><para>Now, they look at the man. (<foreignphrase 
 lang="art-lojban">le go'i</foreignphrase> means that the people doing the laughing 
 are the same as the people doing the looking &mdash; both of them.)</para></listitem> 
 
 <listitem><para>He walks towards the left of Jyoti. (Without the <foreignphrase 
 lang="art-lojban">mo'i</foreignphrase>, this would mean <quote>He walks <emphasis>at</emphasis> the left of Jyoti</quote>.)</para></listitem> 
 
-<listitem><para>He wants to know (about) her name.</para></listitem> 
+<listitem><para>He wants to know (about) her name. (That's Susan's name, not Jyoti's 
+&mdash; though in English you'd assume Jyoti, since she is the most recently named 
+female. Pro-<foreignphrase 
+lang="art-lojban">sumti</foreignphrase> like <foreignphrase 
+lang="art-lojban">ko'a</foreignphrase> aren't affected by what candidate referent has
+been mentioned most recently: they have a unique referent.)</para></listitem> 
 
 </orderedlist></para>
 
@@ -1155,8 +1159,7 @@ lang="art-lojban">mo'i</foreignphrase>, this would mean <quote>He walks <emphasi
 to change some of the pro-<foreignphrase 
 lang="art-lojban">sumti</foreignphrase> back into names.  We could also make the
 translation sound more natural by changing the word order a bit more,
-changing <wordasword>says</wordasword> to <wordasword>asks</wordasword>
-when it's a question, and maybe putting the whole thing into the past
+and maybe putting the whole thing into the past
 tense.  </para>
 
 </simplesect>
@@ -1317,18 +1320,18 @@ linkend="less14">Lesson 14</link>.)</para>
 <para><foreignphrase 
 lang="art-lojban">go'i</foreignphrase> here refers back not to
 the previous sentence in the story, but to the previous sentence <emphasis>in the
-conversation</emphasis>.  Obviously Susan wouldn't be referring back to 
-sentences written by the narrator. She's not meant to realise she's fictional, after 
+conversation</emphasis>.  Obviously Ranjeet wouldn't be referring back to 
+sentences written by the narrator. He's not meant to realise she's fictional, after 
 all.</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase 
 lang="art-lojban">mi</foreignphrase></term><listitem><para><foreignphrase 
-lang="art-lojban">la suzyn.</foreignphrase> (Just checking if you're awake...)</para></listitem></varlistentry>
+lang="art-lojban">la ranjit.</foreignphrase> (Just checking if you're awake...)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">ti</foreignphrase></term><listitem><para><foreignphrase 
-lang="art-lojban">la ranjit.</foreignphrase> (By elimination; but strictly 
+lang="art-lojban">la suzyn.</foreignphrase> (By elimination; but strictly 
 speaking <foreignphrase 
-lang="art-lojban">ti</foreignphrase> could be anyone or anything Susan happens to 
+lang="art-lojban">ti</foreignphrase> could be anyone or anything Ranjeet happens to 
 be pointing to.)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">ma'a</foreignphrase></term><listitem><para><foreignphrase 
@@ -1340,7 +1343,7 @@ lang="art-lojban">la suzyn. .e la ranjit. .e la djiotis.</foreignphrase></para><
 
 <listitem><para>Susan felt embarrassed.</para></listitem>
 
-<listitem><para>She looked down at the chardonnay glass. (As specified 
+<listitem><para>She looked at the chardonnay glass. (As specified 
 in <link linkend="less3">Lesson 3</link>, <foreignphrase
 lang="art-lojban">le la cardoNES. kabri</foreignphrase> does not mean that
 the Chardonnay owns the glass &mdash; merely that it is associated with it:
@@ -1376,8 +1379,10 @@ not trying to introduce everything at once...</para></note>
 
 </listitem>
 
-<listitem><para>The wine seemed to be incredibly
-interesting.</para></listitem>
+<listitem><para>The wine below seemed to be incredibly
+interesting. (Literally, <quote>The wine associated with below...</quote>. Strictly 
+speaking, this does not mean the wine below Susan, but the wine below the speaker;
+but we won't insist on that point for now.) </para></listitem>
 
 <listitem><para>She drank it quickly.</para></listitem>
 
@@ -1405,7 +1410,9 @@ extent. Don't be too concerned about matching these translations to the letter.
 <orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lu jy. zvati ma li'u 
-preti la djiotis. la suzyn.</foreignphrase></para></listitem>
+preti fi la djiotis. la suzyn.</foreignphrase> <emphasis>or</emphasis>
+<foreignphrase lang="art-lojban">.i lu jy. zvati ma li'u 
+preti zo'e la djiotis. la suzyn.</foreignphrase> </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. spuda fi lu jy. 
 cusku lesedu'u jy. denpa lenu mi klama li'u</foreignphrase> (And no, it's unlikely
@@ -1414,10 +1421,13 @@ lang="art-lojban">sy.</foreignphrase>!)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la djiotis. cusku lu mi no'e 
 dunku lenu jy. cliva .i mi jinvi ledu'u jy. penmi ma'a vi le dansydi'u
-</foreignphrase> (Don't close the quotation with <foreignphrase 
-lang="art-lojban">li'u</foreignphrase> yet!)</para></listitem>
+</foreignphrase> (We translate <wordasword>us</wordasword> 
+as <foreignphrase 
+lang="art-lojban">ma'a</foreignphrase> rather than <foreignphrase 
+lang="art-lojban">mi'o</foreignphrase>, because presumably it refers 
+to Ranjeet as well as Jyoti and Susan.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i jy. bilga lenu ze'e tcidu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i jy. bilga lenu ze'a tcidu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i jy. to'e morji so'e da le 
 xumske ca le crisa</foreignphrase> (You could also say <foreignphrase 
@@ -1425,7 +1435,7 @@ lang="art-lojban">so'e lo fatci</foreignphrase> instead of <foreignphrase
 lang="art-lojban">so'e da</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi'a klama lo gusta pu lenu 
-klama le dinjydi'u</foreignphrase></para></listitem>
+klama le dansydi'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i xu do djica lenu do kansa 
 mi'a li'u</foreignphrase> (We put <foreignphrase 

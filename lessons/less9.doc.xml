@@ -85,8 +85,8 @@ The recipient of the book</literallayout>
 Rena is going to Sydney
 <foreignphrase lang="art-lojban">le klama be la sidnis.</foreignphrase>
 The one going to Sydney</literallayout>
-</informalexample>As you can see, <foreignphrase lang="art-lojban">be</foreignphrase> translates
-often &mdash; but not always &mdash; to English
+</informalexample>As you can see, <foreignphrase lang="art-lojban">be</foreignphrase> can translate
+&mdash; often but not always &mdash; to English
 <wordasword>of</wordasword>. In fact, it covers surprisingly many of the
 functions of <wordasword>of</wordasword>. And because it is tied to a
 specific place of the <foreignphrase lang="art-lojban">sumti</foreignphrase>, its
@@ -101,7 +101,7 @@ mean in English?</para>
 
 <para><orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">le tcidu be le cukta</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le vecnu be le cukta</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">le cliva be la sanfransiskos.</foreignphrase></para></listitem>
 
@@ -176,15 +176,15 @@ can come up with phrases like these:
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">le xatra be la jan. bei la suzyn.</foreignphrase>
-The letter from Zhang to Susan
+The letter to Zhang from Susan
 <foreignphrase lang="art-lojban">la djiotis. mrilu ti la ranjit.</foreignphrase>
 Jyoti mails this to Ranjeet
 <foreignphrase lang="art-lojban">la djiotis. mrilu le xatra be la jan. bei la suzyn. la ranjit.</foreignphrase>
-Jyoti mails {Zhang's letter to Susan} to Ranjeet
+Jyoti mails {Susan's letter to Zhang} to Ranjeet
 <foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn. be'o bei la ranjit.</foreignphrase>
-The one who mails {Zhang's letter to Susan} to Ranjeet
+The one who mails {Susan's letter to Zhang} to Ranjeet
 <foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn. ____ bei la ranjit.</foreignphrase>
-The one who mails {Zhang's letter to Susan about Ranjeet}</literallayout>
+The one who mails {Susan's letter to Zhang about Ranjeet}</literallayout>
 </informalexample></para>
 
 <tip><para>Just because you can inflict such untold misery on the world as
@@ -450,7 +450,9 @@ lang="art-lojban">te cmene</foreignphrase> <quote role="gloss">name</quote>)</pa
 role="gloss"><foreignphrase 
 lang="art-lojban">la</foreignphrase></quote> (<foreignphrase 
 lang="art-lojban">se pa'u</foreignphrase>: as a part of..., from <foreignphrase 
-lang="art-lojban">se pagbu</foreignphrase> <quote role="gloss">have as a part</quote>)</para></listitem>
+lang="art-lojban">se pagbu</foreignphrase> <quote role="gloss">have as a part</quote>. 
+There's a trick to the quotation here (and you do need to use a quotation); check <link linkend="less7">Lesson 7</link> 
+again...)</para></listitem>
 
 <listitem><para>City roads are very complicated; <emphasis>for example, 
 Ranjeet cannot go to the Pakistani restaurant</emphasis> (<foreignphrase 
@@ -540,7 +542,7 @@ lang="art-lojban">cu</foreignphrase> &mdash; which shuts every open clause down.
 I go to the Pakistani restaurant
 <foreignphrase lang="art-lojban">le gusta be loi kisto cu berti le tcadu</foreignphrase>
 The Pakistani restaurant is north of town
-<foreignphrase lang="art-lojban">mi klama lo gusta be loi kisto {poi <emphasis>ra</emphasis> berti le tcadu}</foreignphrase>
+<foreignphrase lang="art-lojban">mi klama lo gusta be loi kisto be'o {poi <emphasis>ra</emphasis> berti le tcadu}</foreignphrase>
 I go to the Pakistani restaurant which is north of town</literallayout>
 </informalexample></para>
 </sect1>
@@ -908,7 +910,7 @@ performed/produced by x<subscript>2</subscript> (event)</para></listitem></varli
 
 <para><orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">.i bazi lo cacra be li pimu kei le 
+<listitem><para><foreignphrase lang="art-lojban">.i bazi lo cacra be li pimu le 
 karce cu zvati le kisto gusta
 </foreignphrase></para></listitem>
 
@@ -989,7 +991,7 @@ her left to come.</para></listitem>
 
 <para><orderedlist>
 
-<listitem><para>The reader of the book.</para></listitem>
+<listitem><para>The seller of the book.</para></listitem>
 
 <listitem><para>The one leaving from San Francisco.</para></listitem>
 
@@ -1126,9 +1128,11 @@ so the issue would not arise.</para>
 now?</para></tip></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">loi cmene be se pa'u la lojban.
-[cu] se lidne lu la li'u</foreignphrase> (Hope you remembered to put
-<foreignphrase lang="art-lojban">la</foreignphrase> inside the Lojban quotes
-<foreignphrase lang="art-lojban">lu ... li'u</foreignphrase>!)</para></listitem>
+[cu] se lidne lo'u la le'u</foreignphrase> (Hope you remembered to put
+<foreignphrase lang="art-lojban">la</foreignphrase> inside the Lojban <quote role="socalled">error</quote> quotes
+<foreignphrase lang="art-lojban">lo'u ... le'u</foreignphrase>! You can't use 
+<foreignphrase lang="art-lojban">lu ... li'u</foreignphrase>, because <foreignphrase lang="art-lojban">la</foreignphrase>
+by itself doesn't make sense as a fragment of Lojban.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">loi tcadu klaji cu mutce pluja
 mu'u lenu la ranjit na kakne lenu klama le kisto gusta</foreignphrase>
@@ -1268,7 +1272,7 @@ it doesn't divide them up into <wordasword>n</wordasword> individual units,
 but rather says that <wordasword>x</wordasword> measures
 <wordasword>n</wordasword> units. So <quote>Reading this lesson took me
 two hours</quote> would be in Lojban <foreignphrase lang="art-lojban">lenu mi
-tcidu le ti ve cilre cu cacra li re</foreignphrase>.</para>
+tcidu le vi ve cilre cu cacra li re</foreignphrase>.</para>
 
 <para>We've also specified a distance after the half an hour. Logically,
 <foreignphrase lang="art-lojban">ba lo cacra be li
@@ -1334,7 +1338,7 @@ last</quote> &mdash; are formed in the same way.)</para></listitem>
 <para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca lenu la djiotis. klama le
-nenri be le gusta kei la suzyn. te preti fi dy. fe lu .i do zvati ma
+nenri be le gusta kei la suzyn. te preti fo dy. fi lu .i do zvati ma
 li'u</foreignphrase> (or: <foreignphrase lang="art-lojban">te preti lu .i do zvati
 ma li'u la djiotis.</foreignphrase>)</para></listitem>
 
@@ -1355,7 +1359,7 @@ the music Bach played or owned, rather than wrote, but in context it's
 clear enough.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la djiotis. cusku lu .i doi
-suzyn. do jinvi ledu'u ro da pe cau lo jgita cu pluja li'u</foreignphrase>
+suzyn. do jinvi ledu'u ro da pe secau lo jgita cu pluja li'u</foreignphrase>
 (Lojban does not distinguish between <quote role="gloss">anything</quote>,
 <quote role="gloss">everything</quote> and <quote role="gloss">all
 things</quote>.)</para></listitem>
