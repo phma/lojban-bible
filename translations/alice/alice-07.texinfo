@@ -97,7 +97,7 @@ jubme li'u po'o
 @c    added aloud.
 
 i lu ui mi ze'aba se zdile sei la alis pensi i mi gleki le nu co'a
-retsku loi se manci nabmi i mi jinnvi le du'u mi ka'e smadi la'e di'u
+retsku loi se manci nabmi i mi jinvi le du'u mi ka'e smadi la'e di'u
 sei abu bacru jmina li'u
 
 @c      `Do you mean that you think you can find out the answer to it?'
@@ -314,7 +314,7 @@ temci ca le nu mi cilre le nu se zgike li'u
 @c    clock in a twinkling!  Half-past one, time for dinner!'
 
 i lu ua la'e di'u ve ciksi sei la mapypre cu cusku i ty na nelci lo'e
-nu darxi i ty romu'ei le nu se pendo do cu gasnu so'a se nelci be do
+nu darxi i ty boi romu'ei le nu se pendo do cu gasnu so'a se nelci be do
 ri'i le junla i mu'a da'i li so ca tcika le nu co'a tadni i banzu fa 
 le nu do ja'aru'e stidi fi ty kei le nu le junla mo'u ze'i cukli'u i 
 uo li pacipimu ca tcika le nu citka li'u
@@ -707,7 +707,7 @@ i lu je'u uaru'e sei la alis mutce se cfipu cusku i pe'i na go'i li'u
 
 @c      `Then you shouldn't talk,' said the Hatter.
 
-i lu ei va'o la'e di'u do na tavla sei la mapypre cusku li'u
+i lu ei va'o la'e di'u do na tavla sei la mapypre cu cusku li'u
 
 @c      This piece of rudeness was more than Alice could bear:  she got
 @c    up in great disgust, and walked off; the Dormouse fell asleep
@@ -750,7 +750,7 @@ i pe'i ai mi cazi nerkla li'u i abu nerkla
 @c    the little passage:  and THEN--she found herself at last in the
 @c    beautiful garden, among the bright flower-beds and the cool fountains.
 
-i abu za'ure'u zvati le clani kumfa gi'e jibni le cmalu ke blaci jubme
+i abu cu za'ure'u zvati le clani kumfa gi'e jibni le cmalu ke blaci jubme
 i lu e'e mi xagmau snada ca le ca krefu sei abu sezysku li'u i pamai abu
 jgari le cmalu ke solji ckiku gi'e telcaugau le vorme be le purdi i remai
 abu co'a citka le mledi noi pu punji lo spisa be ke'a le daski ku'o co'u
