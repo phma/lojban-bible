@@ -1,5 +1,5 @@
 @node    bimo'o, somo'o, zemo'o, Top
-@chapter bimo'o [The Queen's Croquet-Ground]
+@chapter bimo'o [noltruni'u kelcrkroke bo foldi]
 
 
 @c                              CHAPTER VIII
@@ -124,16 +124,32 @@ klama fa le noltrunau e le noltruni'u vu'ope lei risna
 @c    had all to lie down upon their faces, so that they couldn't see it?'
 @c    So she stood still where she was, and waited.
 
+i la alis cu senpi le du'u xukau ei cnita flira vreta si'a tu'a lei ci
+purdykurji i ku'i abu na morji le du'u ti'e la'e di'u dzupoi javni i lu
+ji'a ma te pilno lo dzupoi sei abu pensi va'o le nu ei ro da cnita flira 
+vreta ja'e le nu ka'enai viska dy li'u iseki'ubo abu sanli le abu se zvati
+gi'e denpa 
+
 @c      When the procession came opposite to Alice, they all stopped
 @c    and looked at her, and the Queen said severely `Who is this?'
 @c    She said it to the Knave of Hearts, who only bowed and smiled in reply.
 
+i ca le nu le dzupoi cu crane la alis kei roda cu sisti gi'e catlu abu i le
+noltruni'u junri cusku lu ti mo li'u i ny di'u cusku le risna nolse'u noi
+krobi'o je cisma spuda        
+
 @c      `Idiot!' said the Queen, tossing her head impatiently; and,
 @c    turning to Alice, she went on, `What's your name, child?'
+
+i lu doi bebna sei le noltruni'u cu sutydji cusku li'u i fa'a la alis
+ny di'a cusku lu ma do cmene doi verba li'u
 
 @c      `My name is Alice, so please your Majesty,' said Alice very
 @c    politely; but she added, to herself, `Why, they're only a pack of
 @c    cards, after all.  I needn't be afraid of them!'
+
+i lu zo alis mi cmene doi banli sei la alis clite mutce cusku li'u i ku'i
+abu jmina sezysku lu ua ta karda ga'i romei i einai mi terpa li'u 
 
 @c      `And who are THESE?' said the Queen, pointing to the three
 @c    gardeners who were lying round the rosetree; for, you see, as
@@ -142,23 +158,47 @@ klama fa le noltrunau e le noltruni'u vu'ope lei risna
 @c    they were gardeners, or soldiers, or courtiers, or three of her
 @c    own children.
 
+i lu ba'e ti mo sei le noltruni'u cu farja'o be lei ci purdykurji noi
+vreta ru'u le rozgu tricu be'o cusku li'u i ca le nu py cnita flira vreta
+kei ki'u le nu le morna be le trixe cu mintu le me ro drata moi kei
+ny ka'enai djuno le du'u py purdykurji gi'ikau sonci gi'ikau nolkansa
+gi'ikau me le ny panzi cimei 
+
 @c      `How should I know?' said Alice, surprised at her own courage.
 @c    `It's no business of MINE.'
+
+i lu a'unai sei la alis noi se spaji le nu abu darsi cu cusku i na
+cuntu ba'e mi li'u
 
 @c      The Queen turned crimson with fury, and, after glaring at her
 @c    for a moment like a wild beast, screamed `Off with her head!
 @c    Off--'
 
+i le noltruni'u cu binxo lo xunzi'u seri'a le nu fengu i ba le nu catlu
+abu zi lo mokca tai tu'a lo cilce danlu kei ny krixa lu ko le stedu abu
+vimcu i ko li'o li'u
+
 @c      `Nonsense!' said Alice, very loudly and decidedly, and the
 @c    Queen was silent.
+
+i lu tolracli sei la alis cladu je birti cusku li'u i le noltruni'u
+cu smaji
 
 @c      The King laid his hand upon her arm, and timidly said
 @c    `Consider, my dear:  she is only a child!'
 
+i le noltrunau cu punji le xance le birxa be le noltruni'u gi'e toldarsi
+cusku lu ko pensi doi dirba le nu abu verba li'u
+
 @c      The Queen turned angrily away from him, and said to the Knave
 @c    `Turn them over!'
 
+i le noltruni'u cu tolfargau le noltrunau gi'e cusku lu ko ta fa'ergau li'u
+le nolse'u
+
 @c      The Knave did so, very carefully, with one foot.
+
+i le nolse'u cu kurji mutce co'e sepi'o lo jamfu
 
 @c      `Get up!' said the Queen, in a shrill, loud voice, and the
 @c    three gardeners instantly jumped up, and began bowing to the
