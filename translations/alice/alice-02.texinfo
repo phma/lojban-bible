@@ -35,6 +35,10 @@ dunda ca ro cevjbetersla lo cnino cutci remei li'u
 @c    seem, sending presents to one's own feet!  And how odd the
 @c    directions will look!
 
+i abu ca'o platu le nu ta'i makau co'e i lu ei lei cutci cu se mrilu sei
+abu pensi i ba xajmi fa le nu benji loi seldu'a le vo'a jamfu i ua le 
+judri ba simlu le ka cizra 
+
 @c    @format
 @c                ALICE'S RIGHT FOOT, ESQ.
 @c                    HEARTHRUG,
@@ -42,16 +46,33 @@ dunda ca ro cevjbetersla lo cnino cutci remei li'u
 @c                            (WITH ALICE'S LOVE).
 @c    @end format
 
+@format
+                  le selsi'a ke pritu jamfu be la alis
+                      bu'u la fagzda lolgai
+                          ne'a le fagzu'i
+                               to la alis prami benji toi 
+@end format
+
 @c    Oh dear, what nonsense I'm talking!'
+
+i ue mi bebna tavla li'u
 
 @c      Just then her head struck against the roof of the hall:  in
 @c    fact she was now more than nine feet high, and she at once took
 @c    up the little golden key and hurried off to the garden door.
 
+i caku le abu stedu cu janli le drudi be le kumfa i je'u abu ca mitre
+za'u li repimu i abu ze'i lebna le cmalu ke solji ckiku gi'e sutra
+klama le purdi vorme
+
 @c      Poor Alice!  It was as much as she could do, lying down on one
 @c    side, to look through into the garden with one eye; but to get
 @c    through was more hopeless than ever:  she sat down and began to
 @c    cry again.
+
+i la alis uu zo'u le nu mlana vreta gi'e catlu le purdi sepi'o pa kanla
+cu jimte lei se zukte le ka abu kakne ce'u i le nu pagre cu nalcumki
+traji i abu zutse gi'e za'ure'u co'a klaku
 
 @c      `You ought to be ashamed of yourself,' said Alice, `a great
 @c    girl like you,' (she might well say this), `to go on crying in
