@@ -147,11 +147,26 @@ le jitfa cakyrespa cu masno je badri mutce sanga lu
 @c    They are waiting on the shingle--will you come and join the
 @c    dance?
 
+@format
+
+    i e'o sutra doi cakcurnu i ko ti'a zgana ua pa
+    xajyfi'e noi jbitrixe gi'e me mi rebla stapa
+    i xasyjukni i cakyrespa i ro danlu ca se jansu
+    i denpa mi'o le va canre i aipei do ba kansa dansu 
+
+@end format
+
 @c    Will you, won't you, will you, won't you, will you join the
 @c    dance?
 @c    Will you, won't you, will you, won't you, won't you join the
 @c    dance?
 
+@format
+
+    i aipei naipei aipei naipei aipei do ba dansu
+    i aipei naipei aipei naipei naipei do ba dansu 
+ 
+@end format
 
 @c    "You can really have no notion how delightful it will be
 @c    When they take us up and throw us, with the lobsters, out to
