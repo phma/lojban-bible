@@ -120,7 +120,7 @@ Language</citetitle>, Chapter 18.) But you can't expect everything in a
 beginners' course. </para></note>
 
 <para>We can use numbers either before or after <foreignphrase
-lang="art-lojban">le</foreignphrase>.  For example,
+lang="art-lojban">le</foreignphrase>. For example,
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">ci le gerku</foreignphrase></literallayout></informalexample>means <quote role="gloss">three of the dogs</quote>, while
 
@@ -176,7 +176,7 @@ sentence involving a plural in English. You could be saying that the sentence ho
 true for each individual of the group. If the men involved are Andy, 
 Barry, and Chris, you might be saying that Andy carried the piano, and 
 Barry carried the piano, and Chris carried the piano. Alternatively, you could be saying 
-that the sentence holds for the group <emphasis>as a unit</emphasis>: noone 
+that the sentence holds for the group <emphasis>as a unit</emphasis>: no one 
 carried the piano individually, but all three men carried it 
 together.</para>
 
@@ -258,7 +258,12 @@ mi</foreignphrase>. </para>
 <tip><title>For advanced students only</title><para>Once you have been 
 involved with Lojban for a while, you will notice that you will see <foreignphrase 
 lang="art-lojban">loi</foreignphrase> a lot, and <foreignphrase 
-lang="art-lojban">lu'o lo</foreignphrase> hardly ever. So how do you get 
+lang="art-lojban">lu'o lo</foreignphrase> hardly ever. In fact, by default the expression
+<foreignphrase lang="art-lojban">loi nanmu cu bevri le
+pipno</foreignphrase>, without a number, implies that all of mankind was somehow involved in
+carrying the piano. Strictly speaking, that's true (if three men carried the piano, then Man
+carried the piano.) But it's not really the most specific way of expressing what's going on.</para>
+<para>So how do you get 
 the number <quote role="gloss">three</quote> back into an expression like <foreignphrase 
 lang="art-lojban">loi nanmu cu bevri le pipno</foreignphrase>? You cannot 
 say <foreignphrase lang="art-lojban">loi ci nanmu cu bevri le 
@@ -392,8 +397,7 @@ words like <wordasword>most</wordasword> and <wordasword>many</wordasword>
 are numbers in Lojban, which is pretty logical if you think about it. The
 following <quote role="socalled">numbers</quote> are particularly useful:
 
-<itemizedlist>
-<listitem>
+
 <variablelist>
 
 <varlistentry><term><foreignphrase 
@@ -405,9 +409,7 @@ lang="art-lojban">ro</foreignphrase></term><listitem><para>each /
 all</para></listitem></varlistentry>
 
 </variablelist>
-</listitem>
 
-<listitem>
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -431,9 +433,7 @@ lang="art-lojban">so'o</foreignphrase></term><listitem><para>several</para></lis
 <varlistentry><term><foreignphrase lang="art-lojban">so'u</foreignphrase></term><listitem><para>few</para></listitem></varlistentry>
 
 </variablelist>
-</listitem>
 
-<listitem>
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -444,10 +444,7 @@ most</para></listitem></varlistentry>
 lang="art-lojban">su'o</foreignphrase></term><listitem><para>at
 least</para></listitem></varlistentry>
 
-</variablelist>
-</listitem>
-
-</itemizedlist></para>
+</variablelist></para>
 
 <para>Some examples:
 
@@ -588,8 +585,8 @@ lang="art-lojban">cmene</foreignphrase>)</para></listitem>
 <para>All question words in Lojban are requests to fill in an unknown 
 value: <foreignphrase lang="art-lojban">ma</foreignphrase> asks for an unknown <foreignphrase 
 lang="art-lojban">sumti</foreignphrase>, and <foreignphrase lang="art-lojban">mo</foreignphrase> 
-for an unknown <foreignphrase lang="art-lojban">selbri</foreignphrase>. <foreignphrase 
-lang="art-lojban">xo</foreignphrase> is the question word for numbers in Lojban. 
+for an unknown <foreignphrase lang="art-lojban">selbri</foreignphrase>. In Lojban <foreignphrase 
+lang="art-lojban">xo</foreignphrase> is the question word for numbers. 
 So, remembering the sentence <foreignphrase lang="art-lojban">re lo mi ci mensi
 cu nelci la rikis.martin.</foreignphrase>, how would I answer the following
 question?
@@ -646,10 +643,10 @@ first, but they are perfectly logical. In fact it's probably
 <emphasis>because</emphasis> they are logical that people have problems
 with them to start off with &mdash; you have to learn to think in a
 slightly different way. For the curious, here are the main articles and
-article-like words:
+article-like words:</para>
 
-<itemizedlist>
-<listitem>
+<!--<itemizedlist>
+<listitem>-->
 <para>
 <variablelist>
 
@@ -672,8 +669,9 @@ number</para></listitem></varlistentry>
 quotation mark!)</para>
 
 
-</listitem>
-<listitem>
+<!--</listitem>
+<listitem>-->
+<para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -693,10 +691,11 @@ stereotypical</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase
 lang="art-lojban">lo'e</foreignphrase></term><listitem><para>the
 typical</para></listitem></varlistentry>
-</variablelist>
-</listitem>
+</variablelist></para>
+<!--</listitem>
 
-<listitem>
+<listitem>-->
+<para>
 <variablelist>
 <varlistentry><term><foreignphrase
 lang="art-lojban">lai</foreignphrase></term><listitem><para>the mass
@@ -709,10 +708,11 @@ described</para></listitem></varlistentry>
 <varlistentry><term><foreignphrase
 lang="art-lojban">loi</foreignphrase></term><listitem><para>the mass which really
 is</para></listitem></varlistentry>
-</variablelist>
-</listitem>
+</variablelist></para>
+<!--</listitem>
 
-<listitem>
+<listitem>-->
+<para>
 <variablelist>
 <varlistentry><term><foreignphrase
 lang="art-lojban">la'i</foreignphrase></term><listitem><para>the set
@@ -726,8 +726,8 @@ described</para></listitem></varlistentry>
 lang="art-lojban">lo'i</foreignphrase></term><listitem><para>the set which really
 is</para></listitem></varlistentry>
 </variablelist>
-</listitem>
-</itemizedlist>(Sets turn out to be pretty useful in Lojban, as we'll see towards the end of this course.)
+<!--</listitem>
+</itemizedlist>-->(Sets turn out to be pretty useful in Lojban, as we'll see towards the end of this course.)
 </para>
 
 <para>We also looked briefly at <foreignphrase
@@ -847,18 +847,16 @@ give yourself a whole backrub! Though you may need help with that...)</para></li
 <listitem><para><foreignphrase lang="art-lojban">.uinai</foreignphrase>
 [<emphasis>or</emphasis> <foreignphrase lang="art-lojban">.uu</foreignphrase>]
 <foreignphrase lang="art-lojban">no lo prenu cu prami la bil.</foreignphrase>
-<emphasis>or</emphasis> <foreignphrase lang="art-lojban">na ku su'o pa lo prenu cu
-prami la bil.</foreignphrase> (Though you're meant to insert the 
-<foreignphrase lang="art-lojban">ku</foreignphrase>, you don't know what it is yet, so don't
-worry about it (yet). As it turns out, you <emphasis>cannot</emphasis> say 
-<foreignphrase lang="art-lojban">su'o pa lo prenu cu na prami la 
-bil.</foreignphrase>, which means <quote>at least one person doesn't like 
-Bill</quote> rather than <quote>It is not true that one or more persons like 
-Bill.</quote> But the interaction of negation and quantifiers is beyond the 
+<emphasis>or</emphasis> <foreignphrase lang="art-lojban">su'o pa lo prenu na
+prami la bil.</foreignphrase> (Lojban <foreignphrase lang="art-lojban">na</foreignphrase>  is somewhat odd to English-speakers, since
+it behaves exactly like logical <quote>it is not the case</quote>; the sentence
+literally means <quote>It is not the case that at least one person likes Bill</quote>
+(i.e. <quote>It is not the case that <emphasis>even</emphasis> one person likes
+Bill.</quote>) But the interaction of negation and quantifiers is beyond the 
 scope of these lessons; for more, see <citetitle>The Complete Lojban Language</citetitle>, Chapter 16.9.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">le la ROZmeris. cinfu cu batci re lo
-prenu</foreignphrase> (or: <foreignphrase lang="art-lojban">le cinfu pe la 
+<listitem><para><foreignphrase lang="art-lojban">le la ROZmeris. cifnu cu batci re lo
+prenu</foreignphrase> (or: <foreignphrase lang="art-lojban">le cifnu pe la 
 ROZmeris. ...</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">pafi'uci loi ninmu cu nelci la

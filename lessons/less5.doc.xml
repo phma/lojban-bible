@@ -72,11 +72,11 @@ So an alternative answer to the question could be
 
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">li papa pi'e mu</foreignphrase>
-Five past eleven.
-(The number eleven, and five parts of eleven)</literallayout></informalexample>or if you want to be particularly precise, 
+11:05 (Five past eleven)
+(The number eleven, and five parts)</literallayout></informalexample>or if you want to be particularly precise, 
 <informalexample><literallayout><foreignphrase lang="art-lojban">li papa pi'e mu pi'e pabi</foreignphrase>
 Five minutes and eighteen seconds past eleven
-(The number eleven, and five parts of eleven, and eighteen parts of five)</literallayout></informalexample></para>
+(The number eleven, and five parts, and eighteen parts of parts)</literallayout></informalexample></para>
 
 <para>Let's imagine, though, that the time is not five past eleven, but five
 <emphasis>to</emphasis> eleven. We can say <foreignphrase
@@ -99,7 +99,7 @@ is <foreignphrase lang="art-lojban">li pabi</foreignphrase> (18:00).
 
 </para>
 
-<para>If you insist on using twelve-hour time, you need some way of
+<para>If you want to use twelve-hour time instead, you need some way of
 distinguishing between AM and PM. The conventional way in Lojban is to use
 <foreignphrase lang="art-lojban">cmene</foreignphrase> for hours (so we can
 add supplementary information like that later on, as part of the <foreignphrase
@@ -205,11 +205,11 @@ time, we need to fill in some more places. The second place of
 role="gloss">state/event</quote>: people don't have times &mdash; events
 have times. So we need some way to show that the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> in this position is a state or an
-event, and not a thing. So
+event, and not a thing. But
 
 <informalexample><para><foreignphrase lang="art-lojban">la daucac. tcika
 le mi klama</foreignphrase>
-</para></informalexample>does not mean <quote>Ten o'clock is the time
+</para></informalexample>won't work; it does not mean <quote>Ten o'clock is the time
 that I go</quote> (or come!), but <quote>Ten o'clock is the time of my
 goer,</quote> which is meaningless.</para>
 
@@ -351,7 +351,7 @@ Abyssinian is the breed of cat Spot is</literallayout>
 <literallayout><foreignphrase lang="art-lojban">lenu mi cilre fi la lojban. cu xamgu mi</foreignphrase>
 My learning Lojban is good for me</literallayout>
 
-<literallayout><foreignphrase lang="art-lojban">mi se xamgu lenu mi cilre la lojban</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">mi se xamgu lenu mi cilre fi la lojban</foreignphrase>
 I am benefitted by my learning Lojban</literallayout>
 
 </listitem>
@@ -453,7 +453,7 @@ in the lessons ahead.</para></note>
 
 <sect1 id="less5days"><title>Days and Months</title>
 
-<para>The days of the week are also numbers, this time adding
+<para>The days of the week are also names built from numbers, this time adding
 <foreignphrase lang="art-lojban">djed.</foreignphrase>, from <foreignphrase
 lang="art-lojban">djedi</foreignphrase>, meaning <quote
 role="gloss">day</quote>. There is at present some disagreement about which
@@ -635,7 +635,7 @@ role="gloss">the warm (mildly-hot) rain</quote> &mdash; Summer</para></listitem>
 <varlistentry><term><foreignphrase lang="art-lojban">la bifcarv.</foreignphrase></term> 
 <listitem><para><quote 
 role="gloss">the windy rain</quote> &mdash; Autumn</para></listitem></varlistentry>
-<varlistentry><term><foreignphrase lang="art-lojban">la duncarv.</foreignphrase></term> 
+<varlistentry><term><foreignphrase lang="art-lojban">la dujycarv.</foreignphrase></term> 
 <listitem><para><quote 
 role="gloss">the freezing rain</quote> &mdash; Winter</para></listitem></varlistentry>
 </variablelist></para>
@@ -951,6 +951,9 @@ understands/comprehends fact/truth x<subscript>2</subscript> (du'u) about subjec
 understands (fi) x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">lerci</foreignphrase></term><listitem><para>x<subscript>1</subscript> (event) is late by standard x<subscript>2</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">nandu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
 difficult/hard/challenging for x<subscript>2</subscript> under conditions x<subscript>3</subscript>; x<subscript>1</subscript> challenges
 (non-agentive) x<subscript>2</subscript></para></listitem></varlistentry>
@@ -1028,7 +1031,7 @@ se nelci la jan.</foreignphrase></para></listitem>
 cu xebni</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la jan. djica lenu li
-reno pi'e mu tcika lenu la suzyn. klama</foreignphrase></para></listitem>
+reno pi mu tcika lenu la suzyn. klama</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i li repa tcika lenu la
 jan. djuno lenu la suzyn. na klama</foreignphrase></para></listitem>
@@ -1061,9 +1064,8 @@ of the <foreignphrase lang="art-lojban">gismu</foreignphrase> for <quote role="g
 (Hint: try it as <quote>To understand that Zhang left is not difficult for 
 Susan.</quote>)</para></listitem>
 
-<listitem><para>At 22:15, Susan wants to be at the bar, so that Susan will meet 
-Jyoti at 22:45. (Hint: treat the <quote role="gloss">so that</quote>-clause 
-as a <foreignphrase lang="art-lojban">sumti</foreignphrase> of <wordasword>desire, want</wordasword>.)</para></listitem>
+<listitem><para>At 22:15, Susan wants to meet 
+Jyoti at 22:45.</para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1090,7 +1092,11 @@ feicac. lir.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">la
 recac. lec.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">li gai pi'e ni'u pamu</foreignphrase> or <foreignphrase lang="art-lojban">li fei pi'e vomu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">li papa pi'e ni'u pamu</foreignphrase> 
+or <foreignphrase lang="art-lojban">li pare pi'e vomu</foreignphrase>. (You can 
+also use the hexadecimal digits, if you like, though this will probably be less 
+common: <foreignphrase lang="art-lojban">li gai pi'e ni'u pamu</foreignphrase>, 
+<foreignphrase lang="art-lojban">li fei pi'e vomu</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la nocac.</foreignphrase>  
 <emphasis>or</emphasis> <foreignphrase lang="art-lojban">la
@@ -1169,16 +1175,18 @@ any more to introduce the x<subscript>3</subscript> place.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la bast,n. se klama fu le karce</foreignphrase> (<quote>Boston is gone to by car.</quote>)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">lenu tivni la SEsamis.strit. [cu] se tcika li ze </foreignphrase> 
-(<quote>The broadcasting of <citetitle>Sesame Street</citetitle> is at the time 7:00.</quote> Strictly speaking,
-the <foreignphrase lang="art-lojban">cu</foreignphrase> is not necessary, as it is preceded by a <foreignphrase lang="art-lojban">cmene</foreignphrase>.)</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lenu tivni la SEsamis.strit. cu se tcika li ze </foreignphrase> 
+(<quote>The broadcasting of <citetitle>Sesame Street</citetitle> is at the time 
+7:00.</quote> The <foreignphrase lang="art-lojban">cu</foreignphrase> is actually 
+necessary, here, even though it follows a <foreignphrase 
+lang="art-lojban">cmene</foreignphrase>; but to explain why would take us
+too far afield.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">lenu loi kabri cu se vecnu zo'e la .iulias. [cu] se nelci la klaudias. 
+<listitem><para><foreignphrase lang="art-lojban">lenu loi kabri cu se vecnu zo'e la .iulias. cu se nelci la klaudias. 
 </foreignphrase> (<quote>That cups are sold by someone to Julia is liked by Claudia; cups being sold to Julia is something Claudia 
-likes.</quote> You don't need the <foreignphrase lang="art-lojban">cu</foreignphrase> after <foreignphrase lang="art-lojban">la 
-.iulias.</foreignphrase>, but you do need it after <foreignphrase lang="art-lojban">loi kabri</foreignphrase>.)</para></listitem>
+likes.</quote>.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">lenu lenu se cliva la meiris. [cu] se tcika li paso [cu] se nelci la tim.</foreignphrase> 
+<listitem><para><foreignphrase lang="art-lojban">lenu lenu se cliva la meiris. [cu] se tcika li paso cu se nelci la tim.</foreignphrase> 
 (<quote>The fact that [something] being left by Mary is at the time 19:00 is liked by Tim; [the place] being left by Mary at 19:00 
 is something Tim likes.</quote> Yes, I know it's horrible.)</para></listitem>
 
@@ -1248,7 +1256,8 @@ grammar tends to be pedantic, but Lojban descriptions can be rather sparse.)</pa
 
 <listitem><para>Alas, Susan hates German beer.</para></listitem>
 
-<listitem><para>Zhang wants 20:30 to be the time Susan will come.</para></listitem>
+<listitem><para>Zhang wants 20:30 to be the time Susan will come. (Zhang is using the 
+fraction <foreignphrase lang="art-lojban">pimu</foreignphrase>, unlike me.)</para></listitem>
 
 <listitem><para>21:00 is the time Zhang knows that Susan is not 
 coming</para></listitem>
@@ -1294,15 +1303,9 @@ lang="art-lojban">.i lenu jimpe lenu la jan. cliva [kei kei] na nandu la suzyn.
 </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase 
-lang="art-lojban">ti'u li rere pi pamu la suzyn. djica {lenu zvati le barja kei} 
-{lenu la suzyn. penmi la djiotis. ti'u li rere pi vomu}
-</foreignphrase> (Extra credit if you worked through that one! You cannot 
-leave the <foreignphrase lang="art-lojban">kei</foreignphrase> out; 
-otherwise, <foreignphrase lang="art-lojban">lenu la suzyn. penmi la 
-djiotis.</foreignphrase> would be a <foreignphrase 
-lang="art-lojban">sumti</foreignphrase> of <foreignphrase 
-lang="art-lojban">zvati</foreignphrase>, not of <foreignphrase 
-lang="art-lojban">djica</foreignphrase>.)</para>
+lang="art-lojban">ti'u li rere pi'e pamu la suzyn. djica 
+lenu penmi la djiotis. ti'u li rere pi'e vomu
+</foreignphrase> (Extra credit if you worked through that one!)</para>
 
 <note><para>As noted in the <link linkend="intro">Introduction</link>, those
 brackets are there for clarification only; you won't normally see them in Lojban

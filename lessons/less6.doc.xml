@@ -10,7 +10,7 @@ why we've held it over for this lesson.</para>
 <para>Remember that when we speak of dates in
 Lojban, we also need to specify the place on the globe where the date was calculated. 
 The instant Neil Armstrong made that small step for (a) man, for instance, it
-wasn't the 21st of June everywhere on Earth. In Tokyo, it was closer to the
+wasn't the 21st of July everywhere on Earth. In Tokyo, it was closer to the
 22nd. So if we want to point out that it was the 21st, <emphasis>Houston time</emphasis>, we
 need to specify the x<subscript>3</subscript> place of <foreignphrase
 lang="art-lojban">detri</foreignphrase>. That means we can simply say:
@@ -80,9 +80,11 @@ inside another <foreignphrase lang="art-lojban">bridi</foreignphrase>
 
 </itemizedlist>This
 means that our sentence about the moon landing is fully elaborated like
-this (putting in some braces to make things clearer): </para>
+this (putting in some braces to make things clearer, and sneaking in the terminator
+<foreignphrase lang="art-lojban">lo'o</foreignphrase> corresponding to <foreignphrase 
+lang="art-lojban">li</foreignphrase>): </para>
 
-<para><informalexample><para><foreignphrase lang="art-lojban">{li repa pi'e ze pi'e pasoxaso boi} cu detri [le{nu [lo remna ku] cu klama
+<para><informalexample><para><foreignphrase lang="art-lojban">{li [repa pi'e ze pi'e pasoxaso boi] lo'o} cu detri [le{nu [lo remna ku] cu klama
 [le lunra ku] vau kei} ku] la xustyn. vau</foreignphrase></para></informalexample></para>
 
 <para>The <foreignphrase lang="art-lojban">kei</foreignphrase> goes before
@@ -474,7 +476,7 @@ lang="art-lojban">kei</foreignphrase>'s!
 <listitem><para>A long time ago, I read <citetitle>Camille.</citetitle></para></listitem>
 
 
-<listitem><para>Ivan just left.</para></listitem>
+<listitem><para>Ivan just left the room.</para></listitem>
 
 
 <listitem><para>Yoshiko kissed Jorge just after Pierre came into the room.</para></listitem>
@@ -544,7 +546,9 @@ from the present (or whatever other time we happen to be talking about),
 these <foreignphrase lang="art-lojban">cmavo</foreignphrase> indicate short,
 medium or long durations for the action or state we are talking about. So
 <foreignphrase lang="art-lojban">mi ze'u bajra</foreignphrase> means <quote>I run
-for a long time.</quote> Again, we can put these together, so
+for a long time.</quote> (Not <quote>I am a bar for a long time</quote> &mdash;
+that's <foreignphrase lang="art-lojban">barja</foreignphrase>! Lojban does tend
+to keep you on your toes like that.) Again, we can put these together, so
 <foreignphrase lang="art-lojban">mi puzaze'u bajra</foreignphrase> means <quote>A
 while ago, I ran for a long time.</quote> A few more examples ...
 
@@ -1131,7 +1135,7 @@ that Maria speaks to Claudia.</para></listitem>
 <para><orderedlist>
 
 
-<listitem><para><foreignphrase lang="art-lojban">puzaku la juLIET. cliva la paris.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">puzaku la juLIET. klama la paris.</foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">puzuku mi tcidu la kaMIL.</foreignphrase></para></listitem>
@@ -1291,7 +1295,7 @@ currently full one.</para> <para>(It's amazing what can be tucked away in
 exercises. Yes, <foreignphrase lang="art-lojban">sumti</foreignphrase> can have
 tenses in Lojban. There's no reason they can't: though there's an article
 in front of the <foreignphrase lang="art-lojban">gismu</foreignphrase> in <foreignphrase lang="art-lojban">le kabri</foreignphrase>, that
-<foreignphrase lang="art-lojban">gismu</foreignphrase> is stil a <foreignphrase
+<foreignphrase lang="art-lojban">gismu</foreignphrase> is still a <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, and so it still expresses a
 relationship. This means that <foreignphrase
 lang="art-lojban">sumti</foreignphrase> have all the characteristics of
@@ -1331,7 +1335,13 @@ jan. pinxe loi birje</foreignphrase>.)
 
 
 <listitem><para>Drinking German beer is not liked by all people. (The terminators are the normal implied terminators
-for that particular structure.)</para></listitem>
+for that particular structure. Of course, it's much easier to say
+<foreignphrase lang="art-lojban">.i lenu pinxe loi dotco birje na se nelci ro lo 
+prenu</foreignphrase>, without the <foreignphrase lang="art-lojban">kei 
+ku</foreignphrase>; the <foreignphrase lang="art-lojban">na</foreignphrase> 
+acts like <foreignphrase lang="art-lojban">cu</foreignphrase>, to block off
+the <foreignphrase lang="art-lojban">selbri</foreignphrase> from its preceding
+<foreignphrase lang="art-lojban">sumti</foreignphrase>.)</para></listitem>
 
 <listitem><para>Susan briefly talks to the carrier. (See? A better word for 
 <wordasword>waiter</wordasword> already. Notice, too, that you can specify 

@@ -49,22 +49,23 @@ language usage in this text. We are particularly unrepentant about using
 Commonwealth spelling.</para>
 
 <para>Our thanks to the Lojbanists who have reviewed these lessons; in
-particular, Pierre Abbat, John Clifford, John Cowan, Bj&ouml;rn Gohla, Arnt Richard
-Johansen, Nora Tansky LeChevalier, Jorge Llambias, Robin Lee Powell,
+particular, Pierre Abbat, John Clifford, John Cowan, Bj&ouml;rn Gohla,
+Arnt Richard
+Johansen, John Jorgensen, Nora Tansky LeChevalier, Jorge Llambias, Robin Lee Powell,
 Adam Raizen, Anthony Roach, Tim Smith. Thanks also to Robin Lee Powell for providing the
 infrastructure for publishing the course in progress, and to Paul
 Reinerfelt for his help in producing the TeX version of the text.</para>
 
 <para><foreignphrase lang="art-lojban">ni'o le dei seltcidu cu te 
-ctuca befi loi co'a cilre bei la lojban. gi'e se pagbu lo pamumei .i le go'i cu se finti la'o 
-gy. Robin Turner gy. joi la'o gy. Nick Nicholas gy. goi nitcion. gi'e frili jai junri'a 
-fo le stura be le bangu .i la robin. finti le 1moi bi'i 8moi je 10moi 
+ctuca be loi co'a cilre bei la lojban. gi'e se pagbu lo pamumei .i le go'i cu se finti la'o 
+gy. Robin Turner gy. joi la'o gy. Nick Nicholas gy. goi la nitcion. gi'e frili jai junri'a 
+fo le stura be le bangu .i la robin. finti le 1moi bi'i 8moi .e le 10moi 
 bi'i 11moi pagbu ca la 1999nan .i la nitcion. jmina fi le pu zasti pagbu gi'e 
-finti le 9moi je 12moi bi'i 15moi vau ca la 2001nan. </foreignphrase></para>
+finti le 9moi .e le 12moi bi'i 15moi vau ca la 2001nan. </foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o lei datni poi se cusku le dei 
 te ctuca cu pe'i banzu lenu ka'enri'a le cilre lenu jimpe piso'a loi lojbo 
-poi lakne fa lenu cy. tcidu ke'a vecu'u le jordatnymu'e ke lojbo casnu girzu .a le 
+poi lakne fa lenu cy. tcidu ke'a vecu'u le jondatnymu'e ke lojbo casnu girzu .a le 
 se prigau be la lojbangirz. .i mu'i tu'a loi tcila pe la lojban. ko te 
 notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase> 
 <address><firstname>Bob</firstname> <surname>LeChevalier</surname>
@@ -77,7 +78,7 @@ notci fo la lojbangirz. noi se judri zoi gy.</foreignphrase>
 url="mailto://lojban@lojban.org"><computeroutput>lojban@lojban.org</computeroutput></ulink></email>
 <otheraddr><ulink
 url="http://www.lojban.org"><computeroutput>http://www.lojban.org</computeroutput></ulink></otheraddr> </address><foreignphrase lang="art-lojban">gy. .i le seltcidu po'u la'e <quote>lu la
-lojban mo. li'u</quote> zi'enoi ka'e se cpacu fi le jordatnymu'e tu'i zoi gy.
+lojban mo. li'u</quote> zi'enoi ka'e se cpacu fi le jondatnymu'e tu'i zoi gy.
 <ulink
 url="&level0addr;"><computeroutput>&level0addr;</computeroutput></ulink>
 gy. cu nalsteci cfari bo skicu le bangu .i ba'a ka'e cpacu le go'i tu'i
@@ -105,9 +106,10 @@ slabu do .i mi ra'u to'e xenru lenu pilno le glico se jitro gugde bo girzu
 ke valsi lerfu se cuxna</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o mi ckire le lojbo poi cipygau
-fi le kamdrani le dei ve ctuca zi'eno'u la. pier.abat. joi la biorn.golas. 
-joi. la .arnt.rikard.iuxansen. goi tsali ge'u joi la xorxes.jambi,as. joi la djan.kau,n. 
-joi la djan.klifyrd. goi pycyn. ge'u joi la
+fi le kamdrani le dei ve ctuca zi'eno'u la. pier.abat. joi la biorn.golys. 
+joi la djan.iorgensen.
+joi. la .arnt.rikard.iuxansen. goi la tsali ge'u joi la xorxes.jambi,as. joi la djan.kau,n. 
+joi la djan.klifyrd. goi la pycyn. ge'u joi la
 noras.tanskis.lecevaLIER. joi la rabin.lis.pau,el. joi la .adam.reizen. joi 
 la .antonis.routc. joi la tim.smit. .i
 ckire ji'a la rabin.lis.pau,el. ce'e lenu sabji le jicmu be lenu gubgau

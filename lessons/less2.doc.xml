@@ -106,7 +106,7 @@ not some other kind of word.</para></note>
 
 <para>If, on the other hand, we say 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la .iulias. dunda la mari,as. la klaudias.</foreignphrase></literallayout>
-</informalexample>we mean that Maria is the baby, and Julia gives her to Claudia. How do we
+</informalexample>we mean that Maria is who is being given away, and Julia is the one who gives her to Claudia. How do we
 know this? English uses the word <wordasword>to</wordasword> to indicate
 the receiver, and in some other languages (like Latin or Turkish) the form
 of the words themselves change. In Lojban, as in logic, we have what is
@@ -213,7 +213,7 @@ would usually use <foreignphrase lang="art-lojban">vrude</foreignphrase>
 <quote role="gloss">virtuous</quote>] </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">pritu</foreignphrase></term>
-<listitem><para>x<subscript>1</subscript> is to the right of x<subscript>2</subscript> facing x<subscript>3</subscript></para><para>[Remember all those
+<listitem><para>x<subscript>1</subscript> is to the right of x<subscript>2</subscript>, where x<subscript>2</subscript> is facing x<subscript>3</subscript></para><para>[Remember all those
 times you have to ask <quote>Is that my right or your right?</quote> in
 English] </para></listitem></varlistentry>
 
@@ -327,13 +327,13 @@ the third, fourth and fifth places. </para>
 
 <para><orderedlist>
 <listitem><para><foreignphrase lang="art-lojban">karce</foreignphrase> &ndash; car</para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase> &ndash; like</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">nelci</foreignphrase> &ndash; like, is fond of</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> &ndash; name</para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">sutra</foreignphrase> &ndash; fast</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">sutra</foreignphrase> &ndash; fast, quick</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">crino</foreignphrase> &ndash; green</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">sisti</foreignphrase> &ndash; stop, cease</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">prenu</foreignphrase> &ndash; person</para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">cmima</foreignphrase> &ndash; member</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">cmima</foreignphrase> &ndash; member, belongs to</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">barda</foreignphrase> &ndash; big</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">cusku</foreignphrase> &ndash; say, express</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">tavla</foreignphrase> &ndash; talk, chat</para></listitem>
@@ -384,7 +384,7 @@ typical woman or whatever, but we'll leave those alone for the time being.
 
 <para>One more word is sometimes necessary when using <foreignphrase
 lang="art-lojban">gismu</foreignphrase> as <foreignphrase
-lang="art-lojban">sumti</foreignphrase>: <foreignphrase
+lang="art-lojban">sumti</foreignphrase> &mdash; namely, <foreignphrase
 lang="art-lojban">cu</foreignphrase>. This doesn't carry any meaning, but
 separates the <foreignphrase lang="art-lojban">selbri</foreignphrase> from
 whatever comes before it. It's not necessary with <foreignphrase
@@ -466,7 +466,7 @@ involved. So <foreignphrase lang="art-lojban">fagri</foreignphrase> means just
 salmon was poached over a gently lapping campfire.</quote> Similarly,
 <foreignphrase lang="art-lojban">karce</foreignphrase> means <quote>Car!</quote>,
 and not <quote>This is a natural gas powered 2001 sedan Hyundai car,
-featuring fuzzy dice and a <quote>Free Brobdingnag!</quote> bumper
+featuring fuzzy dice and a <quote>Free Brobdignag!</quote> bumper
 sticker</quote>.</para>
 
 <para>Observatives are as simple as baby talk &mdash; which is no surprise,
@@ -488,7 +488,10 @@ going!</quote> and <foreignphrase lang="art-lojban">karce</foreignphrase>
 lang="art-lojban">zo'e</foreignphrase> in a sentence (though there's nothing to
 stop you using as many as you like). A more popular way to play around with
 places is to use the <firstterm>place tags</firstterm> <foreignphrase
-lang="art-lojban">fa, fe, fi, fo</foreignphrase> and <foreignphrase
+lang="art-lojban">fa</foreignphrase>, <foreignphrase
+lang="art-lojban">fe</foreignphrase>, <foreignphrase
+lang="art-lojban">fi</foreignphrase>, <foreignphrase
+lang="art-lojban">fo</foreignphrase> and <foreignphrase
 lang="art-lojban">fu</foreignphrase>. These mark a <foreignphrase
 lang="art-lojban">sumti</foreignphrase> as being associated with a certain place
 of the <foreignphrase lang="art-lojban">selbri</foreignphrase>, no matter where it
@@ -497,13 +500,25 @@ introduces what would normally be the first place, <foreignphrase
 lang="art-lojban">fe</foreignphrase> the second place, and so on. For example, in
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>
-Susan goes in the car / Susan goes by car</literallayout></informalexample></para>
+Susan goes in the car / Susan goes by car</literallayout>
 
-<para><foreignphrase lang="art-lojban">fu</foreignphrase> marks <foreignphrase
+</informalexample><foreignphrase lang="art-lojban">fu</foreignphrase> marks <foreignphrase
 lang="art-lojban">le karce</foreignphrase> as the fifth place of <foreignphrase
 lang="art-lojban">klama</foreignphrase> (the means of transport).  Without
 <foreignphrase lang="art-lojban">fu</foreignphrase>, the sentence would mean
 <quote>Susan goes to the car.</quote>  </para>
+
+<para>After a place introduced with a place tag, any trailing places follow it
+in numbering. So in
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama fo la .uacintyn. le karce</foreignphrase>
+Susan goes via Washington by car</literallayout>
+
+</informalexample><foreignphrase lang="art-lojban">la .uacintyn.</foreignphrase> is the 
+fourth place of <foreignphrase lang="art-lojban">klama</foreignphrase>, and <foreignphrase lang="art-lojban">le karce</foreignphrase> is understood as the place
+following the fourth place &mdash; i.e. the fifth place.
+
+</para>
 
 <para>With place tags you can also swap places around.  For example,
 
@@ -564,7 +579,7 @@ glico fi le prenu </foreignphrase></para></listitem>
 glico fa la fits.djerald.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">fi le rokci cu kabri</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">fi la lojban. fo la lojban. tavla do</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fi la lojban. fo la lojban. tavla fa do</foreignphrase></para></listitem>
 </orderedlist></para>
 
 </simplesect> 
@@ -769,7 +784,7 @@ impossible, since it has to separate the <foreignphrase
 lang="art-lojban">selbri</foreignphrase> from the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> that comes before it, and there are no
 <foreignphrase lang="art-lojban">sumti</foreignphrase> here. Those last two
-sentences are observatives, of course, as discussed in <citetitle>Changing Places</citetitle>. </para>
+sentences are observatives, as discussed in <citetitle>Changing Places</citetitle>. </para>
 
 <para>Note that I have translated these sentences in the present tense
 (since in English you have to choose a tense) but they could be in any
@@ -790,7 +805,7 @@ The book is a medium for English to people</literallayout></listitem>
 You sell me the car for some amount
 I am sold the car by you (Notice how <foreignphrase lang="art-lojban">le karce</foreignphrase> is assigned x<subscript>2</subscript>, since it follows an x<subscript>1</subscript> place immediately.)</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">la fits.djerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>
+<listitem><literallayout><foreignphrase lang="art-lojban">la fits.djerald. fanva zo'e le glico zo'e la .Odisis</foreignphrase>
 Fitzgerald translates something into English from some language as <wordasword>The Odyssey</wordasword>
 <wordasword>The Odyssey</wordasword> is a translation into English by Fitzgerald</literallayout></listitem>
 
@@ -798,13 +813,19 @@ Fitzgerald translates something into English from some language as <wordasword>T
 I sell something to someone for the dollar
 I sell (it) for a dollar</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">zo'e cu kabri zo'e le rokci</foreignphrase>
+<listitem><literallayout><foreignphrase lang="art-lojban">zo'e kabri zo'e le rokci</foreignphrase>
 Something is a cup, containing something, made of stone
 Stone is something cups are made of</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">do tavla zo'e la lojban. la lojban.</foreignphrase>
 You talk to someone about Lojban in Lojban
-You talk about Lojban in Lojban</literallayout></listitem>
+You talk about Lojban in Lojban</literallayout><note><para>As you can see, you can have more 
+than one <foreignphrase lang="art-lojban">sumti</foreignphrase> in front of
+the <foreignphrase lang="art-lojban">selbri</foreignphrase>. This is unlike
+English, where you usually have only the subject before the verb. This can
+happen with or without place tags; for instance, <foreignphrase lang="art-lojban">do  
+zo'e la lojban. tavla la lojban.</foreignphrase> means the same thing as <foreignphrase 
+lang="art-lojban">do tavla zo'e la lojban. la lojban.</foreignphrase></para></note></listitem>
 
 </orderedlist></para></simplesect> 
 

@@ -91,6 +91,11 @@ exceptions: </para>
 
 <variablelist>
 
+<varlistentry><term><foreignphrase lang="art-lojban">g</foreignphrase></term>
+<listitem><para>always <wordasword>g</wordasword> as in <wordasword><emphasis
+role="bold">g</emphasis>um</wordasword>, never <wordasword>g</wordasword> as in <wordasword><emphasis
+role="bold">g</emphasis>em</wordasword></para></listitem></varlistentry>
+
 <varlistentry><term><foreignphrase lang="art-lojban">c</foreignphrase></term>
 <listitem><para><wordasword>sh</wordasword>, as in <wordasword><emphasis
 role="bold">sh</emphasis>ip</wordasword></para></listitem></varlistentry>
@@ -116,17 +121,22 @@ lang="art-lojban">dj</foreignphrase>.</para>
 
 <para>Lojban does not require any punctuation, but some special characters
 (normally used in punctuation in other languages) 
-affect the way Lojban is pronounced.  A full
+affect the way Lojban is pronounced.</para>
+
+<para>The only one of these characters which is obligatory in Lojban is the
+apostrophe; in fact the apostrophe is regarded as a proper letter of Lojban.
+An apostrophe separates two vowels, preventing them from being pronounced together
+(as a <firstterm>diphthong</firstterm>); it is itself pronounced like an
+<wordasword>h</wordasword>. For example, <foreignphrase
+lang="art-lojban">ui</foreignphrase> is normally pronounced
+<wordasword>we</wordasword>, but <foreignphrase
+lang="art-lojban">u'i</foreignphrase> is <wordasword>oohee</wordasword>. </para>
+
+<para>A full
 stop (period) is a short pause to stop words running into each other.
 The rules of Lojban make it easier for one word to run into another when
 the second word begins with a vowel; so any word starting with a vowel
 conventionally has a full stop placed in front of it.</para>  
-
-<para>An apostrophe separates two vowels, and is pronounced like an
-<wordasword>h</wordasword>.  For example, <foreignphrase
-lang="art-lojban">ui</foreignphrase> is normally pronounced
-<wordasword>we</wordasword>, but <foreignphrase
-lang="art-lojban">u'i</foreignphrase> is <wordasword>oohee</wordasword>. </para>
 
 
 <para>Commas are rare in Lojban, but can be used to stop two vowels
@@ -220,8 +230,9 @@ lang="art-lojban">u</foreignphrase> like Standard British English <wordasword>hi
 particularly these two, are used to separate consonants by people who find
 them hard to say.  For example, if you have problems spitting out the
 <foreignphrase lang="art-lojban">zd</foreignphrase> in <foreignphrase lang="art-lojban">zdani</foreignphrase> (house), you can say <foreignphrase
-lang="art-lojban">zIdani</foreignphrase> &mdash; the first <foreignphrase
-lang="art-lojban">I</foreignphrase> is very short, but the second has to be long. 
+lang="art-lojban">z&buffer;dani</foreignphrase> &mdash; where the <foreignphrase
+lang="art-lojban">&buffer;</foreignphrase> is very short, but the final <foreignphrase
+lang="art-lojban">i</foreignphrase> has to be long. 
 </para> </sect1>
 
 <sect1 id="less1attitude"><title>Lojban with attitude!</title>
@@ -499,7 +510,7 @@ lang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry
 <variablelist termlength="20"><title>German</title>
 
 <varlistentry><term>Friedrich Nietzsche</term> <listitem><para><foreignphrase
-lang="art-lojban">fridrix.nitces.</foreignphrase></para></listitem></varlistentry>
+lang="art-lojban">fridrix.nitcys.</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term>Clara Schumann</term> <listitem><para><foreignphrase
 lang="art-lojban">klaras.cuman.</foreignphrase></para></listitem></varlistentry>
@@ -522,7 +533,7 @@ lang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 
 <orderedlist>
-<listitem><para><foreignphrase lang="art-lojban">niu,IORK.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">nu,IORK.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">romas.</foreignphrase></para></listitem>
 
@@ -530,11 +541,11 @@ lang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <listitem><para><foreignphrase lang="art-lojban">kardif.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">beijin.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">beidjin.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.ANkaras.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">prictinas.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.ALbekerkis.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">vankuver.</foreignphrase></para></listitem>
 
@@ -605,7 +616,7 @@ means, of course) or adopt a completely new Lojban identity.  Native
 Americans generally translate their name when speaking English, partly
 because they have meaningful names, and partly because they don't expect
 the <foreignphrase lang="dak">wasichu</foreignphrase> to be able to pronounce words in
-Lakota, Navaho or whatever!</para>
+Lakota, Cherokee or whatever!</para>
 
 <para>All Lojban words (as opposed to <foreignphrase lang="art-lojban">cmene</foreignphrase>) end in a vowel, and although you
 <emphasis>can</emphasis> use them as names as they stand, it's common to
@@ -690,13 +701,13 @@ and so on. </para> </listitem>
 
 <listitem><para>Cardiff: Wales (The Welsh for <wordasword>Cardiff</wordasword> 
 is <foreignphrase lang="cym">Caerdydd</foreignphrase>, which would Lojbanise to 
-something like <foreignphrase lang="art-lojban">kairdid.</foreignphrase>.)</para></listitem>
+something like <foreignphrase lang="art-lojban">kairdyd.</foreignphrase>.)</para></listitem>
 
-<listitem><para>Beijing: China (Note the <foreignphrase lang="art-lojban">j</foreignphrase>.)</para></listitem>
+<listitem><para>Beijing: China</para></listitem>
 
 <listitem><para>Ankara: Turkey</para></listitem>
 
-<listitem><para>Prishtina: Kosovo, Yugoslavia (as of this writing)</para></listitem>
+<listitem><para>Albequerque: New Mexico, USA</para></listitem>
 
 <listitem><para>Vancouver: Canada</para></listitem>
 
@@ -771,9 +782,9 @@ lang="art-lojban">sigornis.uivyr.</foreignphrase> or <foreignphrase
 lang="art-lojban">sygornis.uivyr.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">ritcyrd.niksyn.</foreignphrase>, or in some variants of 
+lang="art-lojban">ritcyrd.niksyn.</foreignphrase><!--, or in some variants of 
 American English, <foreignphrase
-lang="art-lojban">retcyrd.neksyn.</foreignphrase></para></listitem>
+lang="art-lojban">retcyrd.neksyn.</foreignphrase>--></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.istanBUL.</foreignphrase> with English
 stress, <foreignphrase lang="art-lojban">.IStanbul</foreignphrase> with American,

@@ -434,6 +434,7 @@
 <row><entry><foreignphrase lang="art-lojban">lo'i</foreignphrase></entry><entry>the set which really is</entry><entry>veridical descriptor: the set of those that really are ..., treated as a set</entry></row>
 <row><entry><foreignphrase lang="art-lojban">loi</foreignphrase></entry><entry>the mass which really is</entry><entry>veridical descriptor: the mass of individual(s) that is(are) ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lojbo</foreignphrase></entry><entry>Lojbanic</entry><entry>x1 reflects [Loglandic]/Lojbanic language/culture/nationality/community in aspect x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">lo'o</foreignphrase></entry><entry>end mex sumti</entry><entry>elidable terminator: end math expression (mex) sumti; end mex-to-sumti conversion; usually elidable</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lo'u</foreignphrase></entry><entry>error quote</entry><entry>start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lu'a</foreignphrase></entry><entry>the individuals of</entry><entry>the members of the set/components of the mass; converts another description type to individuals</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lujvo</foreignphrase></entry><entry>affix compound</entry><entry>x1 (text) is a compound predicate word with meaning x2 and arguments x3 built from metaphor x4</entry></row>

@@ -39,12 +39,20 @@ two places in a <foreignphrase lang="art-lojban">bridi</foreignphrase>, for
 example,
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">ko kurji ko</foreignphrase>
-[Act so that] you take care of you</literallayout></informalexample>or in other words, <quote>Take care of yourself.</quote> In fact, since we
+[Act so that] you take care of you</literallayout></informalexample>or in other words, 
+<quote>Take care of yourself.</quote> In fact, as alluded to in the last exercise
+of the <link linkend="less2">previous lesson</link>, we
 can put the <foreignphrase lang="art-lojban">selbri</foreignphrase>
-anywhere other than the beginning of the sentence (since, without
-<foreignphrase lang="art-lojban">fa</foreignphrase> before it, this would
-imply <quote role="gloss">someone/something</quote> for the first place),
-we can (and do) say
+anywhere other than the beginning of the sentence. (We can't just put the
+<foreignphrase lang="art-lojban">selbri</foreignphrase> at the beginning of the
+sentence), without
+<foreignphrase lang="art-lojban">fa</foreignphrase> before the 
+x<subscript>1</subscript> <foreignphrase lang="art-lojban">sumti</foreignphrase>, 
+because this would
+imply <quote role="gloss">someone/something</quote> for the first place: the
+<foreignphrase lang="art-lojban">selbri</foreignphrase> would become an
+observative.) Because of this freedom with <foreignphrase 
+lang="art-lojban">sumti</foreignphrase> position, we can (and do) say
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">ko ko kurji</foreignphrase></literallayout></informalexample></para>
 
@@ -219,8 +227,7 @@ questions &mdash; <wordasword>who</wordasword>, <wordasword>what</wordasword> et
 <foreignphrase lang="art-lojban">ma</foreignphrase>. This is like an
 instruction to fill in the missing place. For example:
 
-<itemizedlist>
-<listitem>
+<informalexample>
 
 <itemizedlist>
 
@@ -241,9 +248,9 @@ instruction to fill in the missing place. For example:
 </listitem>
 
 </itemizedlist>
-</listitem>
+</informalexample>
 
-<listitem>
+<informalexample>
 <itemizedlist>
 
 
@@ -265,9 +272,9 @@ instruction to fill in the missing place. For example:
 </listitem>
 </itemizedlist>
 
-</listitem>
+</informalexample>
 
-<listitem>
+<informalexample>
 <itemizedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">mi dunda ma do</foreignphrase>
@@ -289,9 +296,7 @@ instruction to fill in the missing place. For example:
 
 
 
-</listitem>
-
-</itemizedlist></para>
+</informalexample></para>
 
 <para>Finally we have <foreignphrase lang="art-lojban">mo</foreignphrase>.
 This is like <foreignphrase lang="art-lojban">ma</foreignphrase>, but
@@ -604,13 +609,29 @@ desk (in all likelihood the company does), but simply that he sits there
 all the time and keeps his stuff there.</para>
 
 <para>You can get more specific if you want &mdash; though Lojbanists tend 
-not to. If you want to say there is actual ownership involved, you can use <foreignphrase
+not to. If you want to say there is actual ownership involved, or any other association
+in which someone is uniquely associated with what you're talking about, you can use <foreignphrase
 lang="art-lojban">po</foreignphrase> instead of <foreignphrase
 lang="art-lojban">pe</foreignphrase>. <foreignphrase lang="art-lojban">le 
 gunjubme
 po la danis.</foreignphrase>, for instance, means that this is the desk 
-Danny actually paid money for at a store. And like anything he owns, he can 
-sell it, or give it away, in which case it stops being his. Some other examples:
+Danny is uniquely associated with. This can be because he actually paid money for at a store. 
+In that case, like anything he owns, he can 
+sell it, or give it away, in which case it stops being his. Or it may be the desk assigned to him, 
+and him alone, at work; but if the desk (or Danny) is reassigned, the desk stops being his. Moreover,
+if there is a crisis in office space, and Danny is sharing the desk with Wilfred, then you can't
+speak of the desk as being either <foreignphrase
+lang="art-lojban">le gunjubme po la danis.</foreignphrase> or <foreignphrase
+lang="art-lojban">le gunjubme po la .uilfred.</foreignphrase>, because it's unique to the pair of them, not
+to any one of them. You can still, however, speak of it as <foreignphrase
+lang="art-lojban">le gunjubme pe la danis.</foreignphrase>, which does not insist on uniqueness.</para>
+
+<tip><para>There is a way to say the desk is unique to the pair of Danny and Wilfred: <foreignphrase
+lang="art-lojban">le gunjubme po la danis. joi la .uilfred.</foreignphrase> You'll be meeting <foreignphrase
+lang="art-lojban">joi</foreignphrase> here and there in the coming lessons, but you'll be formally 
+introduced to it in <link linkend="less11">Lesson 11</link>.</para></tip>
+
+<para>Some other examples:
 
 <itemizedlist>
 
@@ -625,10 +646,10 @@ Your Coca-Cola</literallayout></listitem>
 
 </itemizedlist></para>
 
-<para>There are some things which you have, on the other hand, which never
+<para>There are some things which you have which are unique to you, but which also never
 stop being yours, by definition. Your hand, for example, remains your hand,
 even if you saw it off (apologies for gruesomeness): you'd have to enter
-the high-stakes world of international organ grafting before you could say
+the high-stakes world of international organ transplants before you could say
 that your hand becomes someone else's hand. Your parents also are not
 something you can give away or transfer (much though you might be tempted
 to on occasion!) Whatever happens, they remain, by definition, your
@@ -671,7 +692,8 @@ just follow the same fill-in-the-slot approach as we did earlier on, with
 <foreignphrase lang="art-lojban">la tim.</foreignphrase>: <quote>whose
 cousin?</quote> is <foreignphrase lang="art-lojban">le tamne pe
 ma</foreignphrase> or <foreignphrase lang="art-lojban">le ma
-tamne</foreignphrase>.</para>
+tamne</foreignphrase>. (You would have already found this out in the preceding
+exercise &mdash; if you were good, of course!)</para>
 
 
 <simplesect role="exercise"><title>Exercise 4 (Advanced)</title>
@@ -759,10 +781,13 @@ about Paris, Texas.  </para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">la tolstois.</foreignphrase>
 </para></listitem>
 
-<listitem><para>Trick question.  <foreignphrase
+<listitem><para>Trick question. <foreignphrase
 lang="art-lojban">la</foreignphrase> can name a specific Porsche, not Porsches in
 general, and a specific Porsche might go fast or not (e.g. it could have just broken down
-and not go at all.)  </para></listitem>
+and not go at all.) In general, <foreignphrase
+lang="art-lojban">la porc.</foreignphrase> means just what I say it means, 
+but as a name it is not used in general to refer to all Porsches, or to the typical 
+Porsche. (Lojban has other ways of doing that.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la KEnydis.</foreignphrase>
 </para></listitem>
@@ -855,7 +880,8 @@ lang="art-lojban">rozgu</foreignphrase>.)</para></listitem>
 <para><orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">po</foreignphrase>: You own it.</para></listitem>
+lang="art-lojban">po</foreignphrase>: You own it, so it's uniquely associated with you (by 
+default.)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">pe</foreignphrase>: You don't own it, and you can change it, so 
@@ -870,8 +896,8 @@ jeans, too, they are of course <foreignphrase
 lang="art-lojban">po</foreignphrase>.</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">pe</foreignphrase>: No real sense of <quote 
-role="socalled">possession</quote> is involved here; this is more of a 
+lang="art-lojban">po</foreignphrase>: There's no real sense of <quote 
+role="socalled">possession</quote> involved here; but this is still a 
 unique association.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">po'e</foreignphrase>: If there's
@@ -880,11 +906,11 @@ one thing that's inseparable from you &mdash; it's
 
 <listitem><para><foreignphrase
 lang="art-lojban">po</foreignphrase>: I may not have paid any money for it, but a 
-gift is my property nonetheless.</para></listitem>
+gift is my property nonetheless, so it's uniquely associated with me.</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">pe</foreignphrase>: Since I've 
+<listitem><para><foreignphrase lang="art-lojban">po</foreignphrase>: Since I've 
 given the gift away, I do not own it in any real sense. But the gift 
-is still uniquely associated with me, since it was me that gave it away.</para></listitem>
+is <emphasis>still</emphasis> uniquely associated with me, since it was me that gave it away.</para></listitem>
 
 </orderedlist></para>
 </simplesect>
