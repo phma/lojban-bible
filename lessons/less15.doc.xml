@@ -1,1 +1,1375 @@
-<chapter id="less15"><title>Singled out: Isolating specific places</title><para>In this lesson, we look at three features of Lojban grammar whichnormally get relegated to the <quote role="socalled">too-hard</quote>basket. Each of them involves singling out a particular <foreignphraselang="art-lojban">sumti</foreignphrase> from a <foreignphraselang="art-lojban">bridi</foreignphrase>, as being somehow more special thanthe other <foreignphrase lang="art-lojban">sumti</foreignphrase>. The full logical machinery associated with these <quote role="socalled">singlings out</quote> can get rather formidable, which is why Lojbanists tend to regard these features with some degree of awe. Hopefully we'll present these concepts to you with a minimum of fuss, so you can go about using them comfortably in your Lojban.</para><sect1 id="less15kau"><title>Indirect questions</title><para>A Lojban question word is a request to <quote>fill in theslot</quote>, <emphasis>wherever</emphasis> it appears in a sentence. So<foreignphrase lang="art-lojban"><emphasis>ma</emphasis> cilre lalojban.</foreignphrase> is the question <quote><emphasis>Who</emphasis> islearning Lojban?</quote> And by the same token, <foreignphraselang="art-lojban">mi djica lenu <emphasis>ma</emphasis> cilre lalojban.</foreignphrase> is the question <quote>I want<emphasis>who</emphasis> to learn Lojban?</quote> &mdash; or, in actualEnglish (since English likes to have its question words at the start of thesentence), <quote><emphasis>Who</emphasis> do I want to learnLojban?</quote> And <foreignphraselang="art-lojban">mi cusku lesedu'u <emphasis>ma</emphasis> cilre lalojban.</foreignphrase> is <quote>I said <emphasis>who</emphasis> is learning Lojban?</quote> &mdash; i.e. <quote><emphasis>Who</emphasis> did I say is learning Lojban?</quote></para><para>There's no reason <foreignphraselang="art-lojban">du'u</foreignphrase> should behave any differently than<foreignphrase lang="art-lojban">nu</foreignphrase>, let alone<foreignphrase lang="art-lojban">sedu'u</foreignphrase>; so <foreignphraselang="art-lojban">mi djuno ledu'u <emphasis>ma</emphasis> cilre lalojban.</foreignphrase> means <quote>I know that <emphasis>who</emphasis>is learning Lojban?</quote> &mdash; i.e. <quote><emphasis>Who</emphasis> doI know is learning Lojban?</quote></para><para>What it does not mean is <quote>I know who is learning Lojban</quote> &mdash; as in <quote>I know the identity of the person learning Lojban</quote>. In a construction like that in English, you are not asking a real question; that's why this is called an <emphasis>indirect question</emphasis>. You are not asking for the answer to question; you are saying that you already <emphasis>know</emphasis> the answer to the question. You can tell <wordasword>who</wordasword> in that statement is not a request for information, because it is not at the start of the sentence, there's no question mark (or questioning intonation), and the question word is not being emphasised.</para><para>Lojban does not use any of these workarounds; a question word is aquestion word in Lojban, anywhere it happens to end up. This means that<foreignphrase lang="art-lojban">mi djuno ledu'u <emphasis>ma</emphasis>cilre la lojban.</foreignphrase> can never be an indirect question: it isasking for an answer (even if you're doing it rhetorically, though that isthe kind of behaviour which Lojbanists &mdash; a level-headed bunch by mostaccounts, at least when they're speaking in Lojban &mdash; might notnecessarily appreciate.) So what to do?</para><para>Well, let's look at what you do know. Let's say the person learning Lojban is Fred. If I ask you the question <foreignphrase lang="art-lojban">ma cilre la lojban.</foreignphrase>, you know what value to fill in the <foreignphrase lang="art-lojban">ma</foreignphrase> slot with: <foreignphrase lang="art-lojban">la fred.</foreignphrase> So you could just say <foreignphrase lang="art-lojban">mi djuno ledu'u la fred. cilre la lojban.</foreignphrase> For whatever reason, however, you're not telling me the actual name &mdash; totally within your prerogative. In fact, I could say about you that <quote><emphasis>You</emphasis> know who is learning Lojban</quote> &mdash; but because I don't, I'd have no name to fill in the slot with.</para><para>So you know that <emphasis>someone</emphasis> is learning Lojban:<foreignphrase lang="art-lojban">do djuno ledu'u da cilre lalojban.</foreignphrase> And you can fill in the value of <foreignphraselang="art-lojban">da</foreignphrase>, even though I can't. What we want issome word that would tell us <quote>the answer that goes here isn't beingsaid, but it is known anyway.</quote> That word is the UI <foreignphraselang="art-lojban">cmavo</foreignphrase>, <foreignphraselang="art-lojban">kau</foreignphrase>. So <foreignphraselang="art-lojban">mi djuno ledu'u da <emphasis>kau</emphasis> cilre lalojban.</foreignphrase> means <quote>I know someone is learning Lojban, and I know who it is.</quote> <foreignphraselang="art-lojban">do djuno ledu'u da <emphasis>kau</emphasis> cilre lalojban.</foreignphrase> means <quote>You know someone is learning Lojban, and <emphasis>you</emphasis> know who it is.</quote></para><para><foreignphraselang="art-lojban">kau</foreignphrase> says that the value of the word it attaches to is known &mdash; whatever that word is. So in fact, you can put it next to a question word, and it will cancel out the question word's force. <foreignphraselang="art-lojban">mi djuno ledu'u <emphasis>ma kau</emphasis> cilre lalojban.</foreignphrase> means exactly the same as <foreignphraselang="art-lojban">mi djuno ledu'u <emphasis>da kau</emphasis> cilre lalojban.</foreignphrase> &mdash; and has the advantage of looking just like the indirect questions we're already familiar with.</para><para>Since <emphasis>kau</emphasis> belongs to<emphasis>selma'o</emphasis> UI, you can place it pretty much anywhere. Inparticular, anywhere you can put a question word in Lojban, you can make itan indirect question by adding <emphasis>kau</emphasis>. So you can say<quote>I know how many people are learning Lojban</quote>, with<foreignphrase lang="art-lojban">mi djuno ledu'u <emphasis>xokau</emphasis> prenu cilre la lojban.</foreignphrase> (Remember,<foreignphrase lang="art-lojban">xo</foreignphrase> is the question wordfor numbers.) You can even make indirect questions of Lojban's more exoticquestion words. For example, in <link linkend="less11">Lesson 11</link>,the waiter asks Jyoti and Susan <foreignphrase lang="art-lojban">lanme je'ibakni</foreignphrase> <quote>lamb or beef?</quote> Once they answer, heknows whether they want to eat lamb or beef; in Lojban, <informalexample><para><foreignphraselang="art-lojban">ba'o lenu la djiotis. .e la suzyn. spuda kei le sabji cudjuno ledu'u ra djica lenu citka loi lanme <emphasis>je'i kau</emphasis>bakni</foreignphrase></para></informalexample></para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">farna</foreignphrase></term><listitem><para>x1 is thedirection of x2 (object/event) from origin/in frame of referencex3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">gunro</foreignphrase></term><listitem><para>x1rolls/trundles on/against surface x2 rotating on axis/axle x3; x1 is aroller</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">rokci</foreignphrase></term><listitem><para>x1 is aquantity of/is made of/contains rock/stone of type/composition x2 fromlocation x3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">sepli</foreignphrase></term><listitem><para>x1 isapart/separate from x2, separated by partition/wall/gap/interval/separatingmedium x3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">simsa</foreignphrase></term><listitem><para>x1 issimilar/parallel to x2 in property/quantity x3 (ka/ni); x1 looks/appearslike x2</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 1</title><para>Express the following indirect questions in Lojban. Use Lojban question words to translate the English question words.<orderedlist><listitem><para>I want to know when you will talk to me.</para></listitem><listitem><para>I don't know why you won't talk to me.</para></listitem><listitem><para>I've said who I thought was a fool.</para></listitem><listitem><para>Tell me where the beer is.</para></listitem><listitem><para>You said who I should give the book to.</para></listitem><listitem><para>Tell me how does it feel when you're on your own with no direction known like a rolling stone. (Not only is there a profusion of Dylan here, but this is kind of a trick question. But translate it as an indirect one, anyway.)</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less15cehu"><title>Properties</title><para>We have seen here and there instances of Lojban expressions ofproperties. Lojban treats properties as abstractions, introduced by<foreignphrase lang="art-lojban">ka</foreignphrase>. There is nothingcontroversial about that; properties are things you can talk about(<foreignphrase lang="art-lojban">sumti</foreignphrase>), which involverelationships and characteristics (<foreignphraselang="art-lojban">selbri</foreignphrase>.) So if <foreignphraselang="art-lojban">xendo</foreignphrase> means <quote role="gloss">kind</quote>, for instance, <foreignphraselang="art-lojban">le ka xendo</foreignphrase> refers to <quote role="gloss">kindness</quote>.</para><para>The thing about properties, though, is that they are properties<emphasis>of</emphasis> something. They are associated, not just with a<foreignphrase lang="art-lojban">selbri</foreignphrase>, but with aparticular place of the <foreignphraselang="art-lojban">selbri</foreignphrase>. For instance, if I am being kind(<foreignphrase lang="art-lojban">mi xendo</foreignphrase>), then I cantalk about <emphasis>my</emphasis> kindness (<foreignphraselang="art-lojban">le ka <emphasis>mi</emphasis> xendo</foreignphrase>.) IfFred is being kind, we would instead speak of <emphasis>Fred</emphasis>'skindness (<foreignphrase lang="art-lojban">le ka <emphasis>lafred.</emphasis> xendo</foreignphrase>.)</para><para>Now, consider influence and susceptibility. Both involve therelationship expressed in Lojban as <foreignphraselang="art-lojban">tcica</foreignphrase>: <quote role="gloss">x1 (agent)influences/lures/tempts x2 into action/state x3 by influence/threat/lurex4</quote>. So the Lojban for influence is <foreignphraselang="art-lojban">le ka xlura</foreignphrase>. And the Lojban forsusceptibility is... <foreignphrase lang="art-lojban">le kaxlura</foreignphrase>? No, that can't be right. Let's try again. Influenceis the property associated with the x1 of <foreignphraselang="art-lojban">xlura</foreignphrase>, the influencer. Susceptibility isthe property associated with the x2 of <foreignphraselang="art-lojban">xlura</foreignphrase>, the influencee. I need to somehow,in the abstraction, highlight the place I'm interested in: <foreignphraselang="art-lojban">le ka <emphasis>mi</emphasis> xlura</foreignphrase> is myinfluence, while <foreignphrase lang="art-lojban">le ka xlura<emphasis>mi</emphasis></foreignphrase> <foreignphrase lang="art-lojban">leka <emphasis>mi</emphasis> se xlura</foreignphrase> is my susceptibility. I could play tricks like which place comes first, or which place is empty first, to tell which place I'm concentrating on. But that would just be a convention; and as was the case with relative clauses and <foreignphraselang="art-lojban">ke'a</foreignphrase>, you'd want some way of explicitly spelling out what place you're concentrating on. Moreover, what happens if both candidate places are filled &mdash; is <foreignphraselang="art-lojban">le ka mi xlura do</foreignphrase> my influence over you, or your susceptibility to me? Who are we concentrating on here?</para><para>The solution Lojban presents is pretty similar to relative clausesand <foreignphrase lang="art-lojban">ke'a</foreignphrase>, as it turns out.(Some logicians would think of it as identical, in fact.) It's also similarto Lojban's approach to questions. Remember in <linklinkend="less13">Lesson 13</link> that the search for extraterrestialintelligence was, in terms of Lojban, a search for the value to fit in theslot <foreignphrase lang="art-lojban">leka ___ terdi bartupensi</foreignphrase>. By the same token, influence is a property of thingsthat fit into the x1 place of <foreignphraselang="art-lojban">xlura</foreignphrase>; so you can think of influence as<foreignphrase lang="art-lojban">leka ___ xlura</foreignphrase>. (If weknow that <foreignphrase lang="art-lojban">mi</foreignphrase> fits into theslot, we have <quote role="gloss">my influence</quote>; if we know that<foreignphrase lang="art-lojban">la fred.</foreignphrase> fits into theslot, we have <quote role="gloss">Fred's influence</quote>.) Andsusceptibility is a property of things that fit into the x2 place of<foreignphrase lang="art-lojban">xlura</foreignphrase>; so you can think ofsusceptibility as <foreignphrase lang="art-lojban">le ka xlura___</foreignphrase> (or <foreignphrase lang="art-lojban">le ka ___ sexlura</foreignphrase>.)</para><para>Lojban has a word for that slot associated with properties. It isn't<foreignphrase lang="art-lojban">ma</foreignphrase>, because you're notasking someone what fills the slot; you're just pointing out that there's aslot there that can be filled. It isn't <foreignphraselang="art-lojban">ke'a</foreignphrase> either, because <foreignphraselang="art-lojban">ke'a</foreignphrase> refers back to something you'vealready expressed as a <foreignphraselang="art-lojban">sumti</foreignphrase> (though you might think of arelative clause as a property belonging to that <foreignphraselang="art-lojban">sumti</foreignphrase>.) Property slots get their own KOhA<foreignphrase lang="art-lojban">cmavo</foreignphrase>, <foreignphraselang="art-lojban">ce'u</foreignphrase>. So influence is <foreignphraselang="art-lojban">le ka ce'u xlura</foreignphrase> <quote>the property that X influences</quote>: anyone or anything thathas that property can stand in for <foreignphraselang="art-lojban">ce'u</foreignphrase>. Susceptibility is <foreignphraselang="art-lojban">le ka xlura ce'u</foreignphrase> <quote>the property that [something] influences X</quote>, or <foreignphraselang="art-lojban">le ka ce'u se xlura</foreignphrase> <quote>the property that X is influenced</quote>: anyone or anythingthat has <emphasis>that</emphasis> property can stand in for <foreignphraselang="art-lojban">ce'u</foreignphrase>. And extraterrestial intelligence is<foreignphrase lang="art-lojban">le ka ce'u terdi bartupensi</foreignphrase> <quote>the property that X is an earth-exterior thinker</quote>: you can tell whether you've found your Little GreenMen by substituting them for <foreignphraselang="art-lojban">ce'u</foreignphrase>, and seeing if the <foreignphraselang="art-lojban">bridi</foreignphrase> is true (<foreignphraselang="art-lojban">le ka <emphasis>lo fange pe la vulkan.</emphasis> cu terdibartu pensi</foreignphrase>.)</para><note><para>If you:<itemizedlist><listitem><para>did Computer Science at University,<emphasis>and</emphasis> you didn't skip Theory of Computation in thirdyear just because it had all sorts of strange Greek letters and ivory towermathematics in it;</para></listitem><listitem><para>did Computer Science atUniversity, and skipped Theory of Computation in third year, but hackedaround with LISP a lot anyway;</para></listitem><listitem><para>didlinguistics and did not run screaming from the Formal Semantics elective in third year (if you were even offered it)just because it had all sorts of strange Greek letters and more mathematicsthan you were used to (i.e. none);</para></listitem></itemizedlist>then it will mean something to you that <foreignphraselang="art-lojban">ce'u</foreignphrase> is a lambda variable, and that<foreignphrase lang="art-lojban">le ka ce'u xlura da de di</foreignphrase>corresponds to &lambda;x.<foreignphraselang="art-lojban">xendo</foreignphrase>(x,<foreignphraselang="art-lojban">da</foreignphrase>,<foreignphraselang="art-lojban">de</foreignphrase>,<foreignphraselang="art-lojban">di</foreignphrase>). The rest of you (which includes 90%of all programmers and 99% of all linguists) can go ahead and forget I evermentioned this.</para></note><para>When there is no <foreignphraselang="art-lojban">ce'u</foreignphrase> in the abstraction, the location of<foreignphrase lang="art-lojban">ce'u</foreignphrase> is ambiguous, and noconvention has arisen as with <foreignphraselang="art-lojban">ke'a</foreignphrase> on where it goes by default. The x1place (whether occupied or not) seems as good a default as any, but thatshould probably be left to usage to determine. This means that<foreignphrase lang="art-lojban">le ka xlura</foreignphrase> on its ownboth means <quote role="gloss">influence</quote> and <quoterole="gloss">susceptibility</quote>, although <foreignphraselang="art-lojban">le ka se xlura</foreignphrase> may well end up thepreferred way of saying <quote role="gloss">susceptibility</quote>.</para><para>What happens if you want to put <foreignphraselang="art-lojban">ce'u</foreignphrase> in the abstraction, but the placeyou're concentrating on is already occupied, because you know who it's aproperty of? Well, in that case you want to say that the value alreadythere takes up the space where the slot would be. If <quoterole="gloss">kindness</quote> is <foreignphrase lang="art-lojban">le kace'u xendo</foreignphrase>, <quote role="gloss">my kindness</quote> is<foreignphrase lang="art-lojban">le ka ce'u xendo fa mi</foreignphrase>.This means that both <foreignphrase lang="art-lojban">ce'u</foreignphrase>and <foreignphrase lang="art-lojban">mi</foreignphrase> take up the x1 of<foreignphrase lang="art-lojban">xendo</foreignphrase>. A somewhat lesspainful way to do this is to use <foreignphraselang="art-lojban">po'u</foreignphrase> to say that the property slot andthe value filling it are basically the same thing: <foreignphraselang="art-lojban">le ka ce'u po'u mi xendo</foreignphrase> <quote>thequality of X, namely me, being kind.</quote></para><note><para>The infinitesimal number of you that know about lambda calculusare by now thinking this is a pretty lame way of implementingbeta-reduction. All I can say to that is, if you want LISP, you always know where to find it...</para></note><note><para>The quantity abstractor, <foreignphrase lang="art-lojban">ni</foreignphrase><quote role="gloss">the amount by which...</quote> can also take <foreignphrase lang="art-lojban">ce'u</foreignphrase>. Had we actually looked at <foreignphrase lang="art-lojban">ni</foreignphrase> in this course at all, this piece of information might have been slightly more useful to you.</para></note><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">ckire</foreignphrase></term><listitem><para>x1 isgrateful/thankful to/appreciative of x2 for x3(event/property)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">mamta</foreignphrase></term><listitem><para>x1 is amother of x2; x1 bears/mothers/acts maternally toward x2; [not necessarilybiological]</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 2</title><para>Express the following qualities in Lojban, using <foreignphraselang="art-lojban">ce'u</foreignphrase> explicitly in all cases.<orderedlist><listitem><para>Gratitude</para></listitem><listitem><para>Similarity to Arnold Schwarzenegger</para></listitem><listitem><para>Motherhood</para></listitem><listitem><para>Having a mother</para></listitem><listitem><para>My similarity to Arnold Schwarzenegger</para></listitem><listitem><para>Being a place where people get anxious; creepiness (Hint:use <foreignphrase lang="art-lojban">sumtitcita</foreignphrase>)</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less15tuha"><title>From <foreignphraselang="art-lojban">sumti</foreignphrase> to abstraction: <foreignphraselang="art-lojban">tu'a</foreignphrase></title><para>When looking up words in a <foreignphraselang="art-lojban">gismu</foreignphrase> list, you will have already noticedthat, where languages like English has people or things as subjects orobjects, Lojban often has abstractions instead as places. For example, inEnglish, you say that <emphasis>someone</emphasis> is interesting, or<emphasis>something</emphasis> is interesting. In Lojban, you aren't reallymeant to say either. The definition of <foreignphraselang="art-lojban">cinri</foreignphrase> is <quote role="gloss">x1(abstraction) interests/is interesting to x2; x2 is interested inx1</quote>. In other words, as far as Lojban is concerned, it's not thingsor people that are interesting, but <emphasis>actions</emphasis> or<emphasis>properties</emphasis> involving those things or people. Forexample, Jyoti cannot be said to be interesting simply by virtue of beingJyoti; the way Lojban puts it, it's the things Jyoti does (or is) that areinteresting &mdash; the way she talks about British sitcoms, her choice of headgear, her tendency to break into '80s songs after she's had a few drinks. (Oh, I forgot to tell you about all that. Maybe next course.)</para><para>The same goes for <foreignphraselang="art-lojban">fenki</foreignphrase> <quote role="gloss">crazy</quote>.Almost everywhere, it is people that are called crazy. Only occasionallyare actions also called crazy. Lojban defines <foreignphraselang="art-lojban">fenki</foreignphrase> as <quote role="gloss">x1(action/event) is crazy/insane/mad/frantic/in a frenzy (one sense) bystandard x2</quote>. In other words, as far as Lojban is concerned,craziness lies in actions, not in people; a crazy person is by definitionsomeone who does crazy actions. (And this means that someone suffering fromthe particular forms of mental illness loosely called <quoterole="socalled">crazy</quote> wouldn't be called <foreignphraselang="art-lojban">fenki</foreignphrase> in Lojban &mdash; since theircondition is not <emphasis>primarily</emphasis> a matter of sociallyunaceptable actions &mdash; but <foreignphrase lang="art-lojban">menlibilma</foreignphrase>: <quote role="gloss">mentally ill</quote>.)</para><para>For now, you may be prepared to accept this as an endearing quirk ofLojban. (If you're not, we explain why Lojban is all topsy-turvy like thisin the next section.) But very often, you have no idea what to say isthe <foreignphrase lang="art-lojban">selbri</foreignphrase> of that abstraction, or you don't particularly care to. For example, yes, Jyoti doing this, that and the other is what is interesting about her, but I may not know first-hand what exactly her particular talents are, or I may not feel like going into a five-minute spiel every time I merely want to point out that she is interesting. If I can't say the Lojban for <quote>Jyoti is interesting</quote>, I should at least be able to say something like <quote>Jyoti {doing some stuff I'm not listing here} is interesting</quote>, or <quote>Some things about Jyoti are interesting.</quote> In other words, I have to say <foreignphrase lang="art-lojban">lenu la djiotis. cu ___ cu cinri</foreignphrase>, but I shouldn't have to fill in that slot with an explicit <foreignphrase lang="art-lojban">selbri</foreignphrase> each time.</para><para>There are slots in Lojban sentences that we have in fact been leavingempty all the time. Remember <foreignphraselang="art-lojban">zo'e</foreignphrase>? <foreignphraselang="art-lojban">zo'e</foreignphrase> is the <quote role="socalled">don'tcare</quote> value we leave implied in the places of <foreignphraselang="art-lojban">bridi</foreignphrase> we leave empty. For example, when Isay <foreignphrase lang="art-lojban">mi klama le barja</foreignphrase>, I'mnot bothering to specify my point of origin, route, or vehicle. They areall implied to be <foreignphrase lang="art-lojban">zo'e</foreignphrase>(<foreignphrase lang="art-lojban">mi klama le barja zo'e zo'ezo'e</foreignphrase>): there is a point of origin, a route and a vehicleinvolved, but we don't really care what they are.</para><para><foreignphrase lang="art-lojban">zo'e</foreignphrase> is a <foreignphrase lang="art-lojban">sumti</foreignphrase>; but it has a <foreignphrase lang="art-lojban">selbri</foreignphrase> equivalent, <foreignphrase lang="art-lojban">co'e</foreignphrase>. <foreignphrase lang="art-lojban">co'e</foreignphrase> can appear where any <foreignphrase lang="art-lojban">selbri</foreignphrase> can appear, but it leaves the relationship involved between its <foreignphrase lang="art-lojban">sumti</foreignphrase> unspecified. So <foreignphrase lang="art-lojban">mi co'e le barja</foreignphrase> means something like <quote>I thingummy the bar</quote>: the bar and I are in some relationship, but I'm not bothering to say what it is. I might be going to it, coming from it, sleeping in it, refurbishing it, or hearing about my neighbour getting drunk in it once. It just doesn't matter enough for me to say what.</para><para>Now normally, you can't get away with this: if you leave out the<foreignphrase lang="art-lojban">selbri</foreignphrase> in your story, youpretty much have no story. But with these abstractions that we wish weren'treally abstractions, <foreignphrase lang="art-lojban">co'e</foreignphrase>is just what you need: you can get away with making an abstractioncontaining only the <foreignphrase lang="art-lojban">sumti</foreignphrase>you want to talk about. You don't have to specify<emphasis>anything</emphasis> else in the abstraction &mdash; especiallynot the <foreignphrase lang="art-lojban">selbri</foreignphrase>. So if Iwant to say <quote>Jyoti is interesting</quote>, I need only say<foreignphrase lang="art-lojban">lenu la djiotis. cu<emphasis>co'e</emphasis> cu cinri</foreignphrase>. I'm still saying anabstraction involving Jyoti is what is interesting, so I'm following therequirements of the <foreignphrase lang="art-lojban">gismu</foreignphrase>list. But that's all I'm saying; what particular abstraction it is that isinteresting, I am leaving entirely open. In the same way, if I want to say<quote>Zhang is crazy</quote> (or <quote>berserk</quote>, probably a closertranslation of <foreignphrase lang="art-lojban">fenki</foreignphrase>), Idon't have to enumerate the various wacky stunts he has pulled over theyears. I can simply say that <quote>some stuff about Zhang iscrazy</quote>, which in Lojban comes out as <foreignphraselang="art-lojban">lenu la jang. co'e cu fenki</foreignphrase>.<foreignphrase lang="art-lojban">co'e</foreignphrase> could be<foreignphrase lang="art-lojban">dasni [loi zirpu]</foreignphrase><quote>wears purple</quote>, <foreignphrase lang="art-lojban">dansu [lazgikrfanki jipci]</foreignphrase> <quote>dances the Funky Chicken</quote>,<foreignphrase lang="art-lojban">tavla [bau la lojban.]</foreignphrase><quote>speaks Lojban</quote>, or whatever; we're just not bothering to nameit here.</para><para>Lojban can go one better, though. As you can tell, Lojban is going tohave you saying <foreignphrase lang="art-lojban">lenu ___ cu co'ekei</foreignphrase>quite often (and you never know when you might need that<foreignphrase lang="art-lojban">kei</foreignphrase> terminator); so itoffers you an abbreviation: <foreignphraselang="art-lojban">tu'a</foreignphrase>. <foreignphraselang="art-lojban">tu'a da</foreignphrase> means <foreignphraselang="art-lojban">lenu da cu co'e kei</foreignphrase>; so you can translate<foreignphrase lang="art-lojban">tu'a</foreignphrase> as <quote>someabstraction associated with...</quote>, or more colloquially, <quote>somestuff about...</quote> <foreignphraselang="art-lojban">tu'a</foreignphrase> is easily the most popular way ofdealing with abstractions you wish weren't there in Lojban; Lojbansentences using it come out fairly similar to the natural languagesentences <emphasis>without</emphasis> abstractions we're used to seeing.So the usual Lojban for <quote>Jyoti is interesting</quote> is<foreignphrase lang="art-lojban"><emphasis>tu'a</emphasis> la djiotis.cinri</foreignphrase>, and the usual Lojban for <quote>Zhang iscrazy</quote> is <foreignphrase lang="art-lojban"><emphasis>tu'a</emphasis>la jang. fenki</foreignphrase>.</para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">djica</foreignphrase></term><listitem><para>x1desires/wants/wishes x2 (event/state) for purposex3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">cfari</foreignphrase></term><listitem><para>x1[state/event/process] commences/initiates/starts/begins to occur;(intransitive verb)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">fanza</foreignphrase></term><listitem><para>x1 (event)annoys/irritates/bothers/distracts x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">nelci</foreignphrase></term><listitem><para>x1 is fondof/likes/has a taste for x2 (object/state)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">snuti</foreignphrase></term><listitem><para>x1(event/state) is an accident/unintentional on the part of x2; x1 is anaccident</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">troci</foreignphrase></term><listitem><para>x1tries/attempts/makes an effort to do/attain x2 (event/state/property) byactions/method x3</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 3</title><para>Some of these sentences need to be translated in Lojban with <foreignphraselang="art-lojban">tu'a</foreignphrase>, and some don't. Supply the appropriate translation, in either case.<orderedlist><listitem><para>I tried the curry.</para></listitem><listitem><para>I wanted the curry.</para></listitem><listitem><para>I liked the curry.</para></listitem><listitem><para>My leaving was accidental.</para></listitem><listitem><para>Gratitude annoys me</para></listitem><listitem><para>Curry annoys me</para></listitem><listitem><para>The irritation has begun</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less15jai"><title>Raising: <foreignphraselang="art-lojban">jai</foreignphrase></title><para>Things weren't always like this. In the '80s, the ancestor of Loglanstill said that things were interesting, and people were crazy, just likemost normal languages, and without detouring through abstractions. So whathappened?</para><para>Well, what happened was that Lojbanists noticed how linguists havebeen analysing these concepts in natural languages, and how they werecoming up with their own versions of <foreignphraselang="art-lojban">bridi</foreignphrase>. (The word, by the way, is<wordasword>predicates</wordasword>; we've been avoiding it up to now, butwe think you can handle the truth from now on...) Often, what was a noun inone part of the sentence, and a verb in another part, were brought togetherand considered to be underlyingly part of the same abstraction<foreignphrase lang="art-lojban">sumti</foreignphrase>.</para><para>A good example is the phrase <wordasword>I am difficult toannoy</wordasword> in English. At first sight, you might think that<wordasword>I</wordasword> is a <foreignphraselang="art-lojban">sumti</foreignphrase> of<wordasword>difficult</wordasword>. And grammatically it is: it's thesubject. But logically it isn't: what we're describing as difficult is not<wordasword>me</wordasword>. We can't say <quote>Who is difficult?</quote>&mdash; <quote>Me (to annoy)</quote> What's actually going on is that,underlyingly, what is difficult is <wordasword>to annoy me</wordasword>:the action of getting me annoyed is what is hard to achieve &mdash; not me!This is why English also allows you to say <wordasword>It is difficult toannoy me</wordasword>, and (if you squint a little) <wordasword>To annoy meis difficult</wordasword>. And sure enough, Lojban expresses this conceptaccording to that <quote role="socalled">underlying</quote> form:<foreignphrase lang="art-lojban">lenu fanza mi cu nandu</foreignphrase><quote>The event of annoying me is difficult</quote>.</para><para>So why did English pull that wierd switcheroo with <wordasword>I amdifficult to annoy</wordasword>? Basically, because when we talk, we aren'tconcentrating in our minds on intangible abstractions like <quote>the eventof annoying me</quote>, let alone <quote>the state of Jyoti having certainunspecified properties.</quote> Instead, we run little stories in our head,with heroes and villains. Concrete heroes and villains &mdash; people, forthe most part. And as it happens, we make the subjects of our sentences bethe heroes and villains we're concentrating on. (That's what a subject'sultimate job is: to present what we're concentrating on.) So by pulling aswitcheroo like that, we're not talking about abstractions and events anymore; the subject of the sentence is now our perenially favourite subject&mdash; namely <emphasis>me</emphasis>. (Yes, it <emphasis>is</emphasis>all about me...) This process is called in linguistics<wordasword>raising</wordasword>, because it raises concrete subjects (andobjects) we want to talk about, out of the haziness of an abstraction<foreignphrase lang="art-lojban">sumti</foreignphrase> (or <quoterole="socalled">argument</quote>, to use English logicalterminology.)</para><para>Once the requisite number of Lojbanists did an undergraduate coursein syntax (you may commence throwing darts at effigies of Nick Nicholas atyour leisure), it was realised that there were a <emphasis>lot</emphasis>of <foreignphrase lang="art-lojban">gismu</foreignphrase> whose placestructures contained both a raised concrete <foreignphraselang="art-lojban">sumti</foreignphrase> (usually x1), and an abstraction<foreignphrase lang="art-lojban">sumti</foreignphrase> which itselfcontained the first <foreignphrase lang="art-lojban">sumti</foreignphrase>.For example, the place structure of <foreignphraselang="art-lojban">fenki</foreignphrase> used to be <quote>x1 one is crazyin behaviour x2 (abstraction) by standard x3.</quote> But<emphasis>any</emphasis> abstraction that would go into x2 would containthe x1 <foreignphrase lang="art-lojban">sumti</foreignphrase>: any crazybehaviour would automatically be the behaviour of the crazy person. Forexample, you'd get <foreignphrase lang="art-lojban">la jang. fenki lenu lajang. dasni loi zirpu</foreignphrase>; <foreignphrase lang="art-lojban">lajang. fenki lenu la jang. dansu la jipci</foreignphrase>; <foreignphraselang="art-lojban">la jang. fenki lenu la jang tavla bau lalojban.</foreignphrase> The question then became: did the x1 tell usanything the x2 wasn't already telling us? We'd know who was involved inthe crazy behaviour, because that person would be a <foreignphraselang="art-lojban">sumti</foreignphrase> inside x2. Was there any reason to accord the person an extra place? The decision was, no: behaviour is what is crazy, so you can work out that the person acting out the behaviour is the crazy person. There's no need to have an extra place for the person, when you can already work out who they are. The same conclusion was arrived at for <foreignphrase lang="art-lojban">cinri</foreignphrase>: it is abstractions &mdash; events and qualities &mdash; that attract interest; and an interesting person is simply a person involved in an interesting attraction.</para><para>All well and good; but natural languages do raising for a reason.So when Lojban has its <foreignphrase lang="art-lojban">gismu</foreignphrase> without raising, it gains in eliminating redundancy and logical muddledness; but it loses in <quote role="socalled">naturalness</quote>. We like talking about people rather than abstractions in our languages; and Lojban should not go out of its way to form an exception to this.</para><para>There is a solution of sorts to all this with <foreignphraselang="art-lojban">tu'a</foreignphrase>; but it doesn't actually do whatraising does in natural languages: it doesn't <emphasis>change</emphasis>the x1 place from an abstraction to a concrete <foreignphraselang="art-lojban">sumti</foreignphrase>. And there are times you will wantto do just that. One example is joining <foreignphraselang="art-lojban">bridi</foreignphrase>-tails. In English, you can say<quote>Jyoti is interesting, but difficult to talk to.</quote> This isbased on two sentences (<wordasword>Jyoti is interesting</wordasword>,<wordasword>Jyoti is difficult to talk to</wordasword>) which have the samesubject. So we can easily combine them into a single sentence. In Lojban,the equivalent sentences are <foreignphrase lang="art-lojban">tu'a ladjiotis. cinri</foreignphrase> and <foreignphrase lang="art-lojban">lenutavla la djiotis. nandu</foreignphrase>. There is no way you're going tojoin those two <foreignphrase lang="art-lojban">bridi</foreignphrase>together with <foreignphrase lang="art-lojban">gi'e</foreignphrase>: theysimply do not have their first <foreignphraselang="art-lojban">sumti</foreignphrase> in common. But they're both somehow <quote role="socalled">about</quote> Jyoti; so you really should be able to work around this.</para><para>An even more important instance when you want raising is in forming<foreignphrase lang="art-lojban">sumti</foreignphrase> out of this kind of<foreignphrase lang="art-lojban">gismu</foreignphrase>. A <foreignphraselang="art-lojban">sumti</foreignphrase> means whatever goes into the x1 ofits <foreignphrase lang="art-lojban">selbri</foreignphrase>. So if<foreignphrase lang="art-lojban">la djiotis. ninmu</foreignphrase>, then Ican describe Jyoti as <foreignphrase lang="art-lojban">loninmu</foreignphrase> <quote role="gloss">a woman</quote>; if<foreignphrase lang="art-lojban">lemi karce xe klama le gusta fumi</foreignphrase>, then I can describe <foreignphraselang="art-lojban">lemi karce</foreignphrase> as <foreignphraselang="art-lojban">lo xe karce</foreignphrase> <quote role="gloss">avehicle</quote>. So how do I say that someone is a cheat, or a deceiver?The <foreignphrase lang="art-lojban">gismu</foreignphrase> for <quoterole="gloss">deceive</quote>, has the place structure <quoterole="gloss">x1 (event/experience)misleads/deceives/dupes/fools/cheats/tricks x2 into x3(event/state)</quote>. So, while in English we say that x1 deceives x2 intodoing x3, by doing x4, in Lojban the person and the action are merged intothe one place. So <foreignphrase lang="art-lojban">lo tcica</foreignphrase>is a trick, not a trickster. To say that someone is a trickster or a cheat,we need to use <foreignphrase lang="art-lojban">tu'a</foreignphrase>:<foreignphrase lang="art-lojban">tu'a da tcica</foreignphrase>. But youcan't put <foreignphrase lang="art-lojban">lo</foreignphrase> in front of<foreignphrase lang="art-lojban">tu'a da</foreignphrase>: the deceiverwould have to be the x1 of some <foreignphraselang="art-lojban">selbri</foreignphrase>, in order to get their own<foreignphrase lang="art-lojban">sumti</foreignphrase>.</para><para>The solution to this is to force Lojban to have raising after all,changing its place structure by modifying the <foreignphraselang="art-lojban">selbri</foreignphrase> involved &mdash; just as<foreignphrase lang="art-lojban">se</foreignphrase> changes the placestructure of its <foreignphrase lang="art-lojban">selbri</foreignphrase>,swapping its first and second place. If we put <foreignphraselang="art-lojban">jai</foreignphrase> in front of a <foreignphraselang="art-lojban">selbri</foreignphrase>, its x1 place changes from anabstraction, to any <foreignphrase lang="art-lojban">sumti</foreignphrase>contained <emphasis>within</emphasis> the abstraction. Let's try this with a few:<informalexample><itemizedlist><listitem> <para><foreignphrase lang="art-lojban"><emphasis>lenu la jang.dasni loi zirpu</emphasis> cu fenki</foreignphrase> </para> </listitem><listitem><para><foreignphrase lang="art-lojban"><emphasis>la jang.</emphasis> cu jai fenki</foreignphrase></para></listitem></itemizedlist><itemizedlist><listitem><para><foreignphrase lang="art-lojban"><emphasis>lenu la djiotis. cu co'e</emphasis> cu cinri</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban"><emphasis>la djiotis.</emphasis> cu jai cinri</foreignphrase></para></listitem></itemizedlist><itemizedlist><listitem><para><foreignphrase lang="art-lojban"><emphasis>tu'a la ranjit.</emphasis> tcica la suzyn.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban"><emphasis>la ranjit.</emphasis> jai tcica la suzyn.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban"><emphasis>lenu fanza mi</emphasis> cu nandu</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban"><emphasis>mi</emphasis> jai nandu</foreignphrase></para></listitem></itemizedlist></informalexample></para><para>You'll notice that, with these new place structures, the Lojbanphrases sound pretty much like their English equivalents: <foreignphraselang="art-lojban">la djiotis. cu jai cinri</foreignphrase> corresponds to<wordasword>Jyoti is interesting</wordasword>, <foreignphraselang="art-lojban">la ranjit. jai tcica la suzyn.</foreignphrase> to<wordasword>Ranjeet deceives Susan</wordasword>, and so forth.</para><para>We can now do with <foreignphraselang="art-lojban">jai</foreignphrase> those things we couldn't before. TheLojban for <quote>Jyoti is interesting and beautiful</quote>, for example,is <foreignphrase lang="art-lojban">la djiotis. cu jai cinri gi'emelbi</foreignphrase>. That's because Jyoti goes in the x1 place of<foreignphrase lang="art-lojban">jai cinri</foreignphrase>, just as it goesinto the x1 place of <foreignphraselang="art-lojban">melbi</foreignphrase>. And if I want to make a<foreignphrase lang="art-lojban">sumti</foreignphrase> meaning <quoterole="gloss">deceiver</quote> or <quote role="gloss">trickster</quote>, Ican use <foreignphrase lang="art-lojban">jai</foreignphrase> to do it:<foreignphrase lang="art-lojban"><emphasis>tu'a la ranjit.</emphasis>tcica</foreignphrase> &rArr; <foreignphrase lang="art-lojban"><emphasis>laranjit.</emphasis> jai tcica</foreignphrase> &rArr; <foreignphraselang="art-lojban">la ranjit. me <emphasis>lo jaitcica</emphasis></foreignphrase>. </para><para>However, <foreignphrase lang="art-lojban">mi jainandu</foreignphrase> does not correspond to <quote>I am difficult toannoy.</quote> In switching a concrete <foreignphraselang="art-lojban">sumti</foreignphrase> for the original x1 &mdash; theabstraction that was difficult &mdash; we have lost the abstraction: thereis nothing in <foreignphrase lang="art-lojban">mi jai nandu</foreignphrase>that means <quote role="gloss">to annoy</quote>. But not to worry: Lojbanallows you to keep the original abstraction in the <foreignphraselang="art-lojban">bridi</foreignphrase> by preceding it with <foreignphraselang="art-lojban">fai</foreignphrase>. <foreignphraselang="art-lojban">fai</foreignphrase> is a <foreignphraselang="art-lojban">cmavo</foreignphrase> like <foreignphraselang="art-lojban">fa</foreignphrase> and <foreignphraselang="art-lojban">fe</foreignphrase>; it effectively adds a new place tothe <foreignphrase lang="art-lojban">bridi</foreignphrase>. So <quote>I amdifficult to annoy</quote> is matched almost word-for-word by the Lojbansentence <foreignphrase lang="art-lojban">mi jai nandu fai lenu fanzami</foreignphrase>. And we can apply this pattern further afield; forexample, <quote>the book took three months to write</quote> is in Lojbanproperly <foreignphrase lang="art-lojban">lenu finti le cukta cu masti lici</foreignphrase> <quote>to write the book had a month duration ofthree</quote>; raising allows the slightly more familiar-looking<foreignphrase lang="art-lojban">le cukta cu jai masti li ci fai lenufinti</foreignphrase>.</para><para><foreignphrase lang="art-lojban">jai</foreignphrase> has not provenas popular as <foreignphrase lang="art-lojban">tu'a</foreignphrase>,presumably because it involves a fairly thorough rearrangement of placestructures &mdash; and has the whiff about being somehow <quoterole="socalled">un-Lojbanic</quote>. But as we've seen, it allows you totalk about things in a way that is in many ways more natural; and though itbelongs to <quote role="socalled">advanced</quote> Lojban, it is a feature you will find it useful to be familiar with.</para></sect1><sect1 id="less15summary"><title>Summary</title><para>In this lesson, we have covered:<itemizedlist><listitem><para>Indirect questions (<foreignphraselang="art-lojban">kau</foreignphrase>)</para></listitem><listitem><para>Property variables (<foreignphrase lang="art-lojban">ce'u</foreignphrase>)</para></listitem><listitem><para>Raising (<foreignphrase lang="art-lojban">co'e, tu'a, jai,fai</foreignphrase>)</para></listitem></itemizedlist></para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="art-lojban">birti</foreignphrase></term><listitem><para>x1 iscertain/sure/positive/convinced that x2 istrue</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">cipra</foreignphrase></term><listitem><para>x1(process/event) is a test for/proof of property/state x2 in subject x3(individ./set/mass)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">cizra</foreignphrase></term><listitem><para>x1 isstrange/weird/deviant/bizarre/odd to x2 in property x3(ka)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">curmi</foreignphrase></term><listitem><para>x1 (agent)lets/permits/allows x2 (event) under conditions x3; x1 grants privilegex2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">dicra</foreignphrase></term><listitem><para>x1 (event)interrupts/stops/halts/[disrupts] x2 (object/event/process) due to qualityx3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">drata</foreignphrase></term><listitem><para>x1 isn'tthe-same-thing-as/is different-from/other-than x2 by standard x3; x1 issomething else</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">drani</foreignphrase></term><listitem><para>x1 iscorrect/proper/right/perfect in property/aspect x2 (ka) in situation x3 bystandard x4 (Note: when people say correct things, that does not make them<quoterole="socalled">correct/proper/right/perfect</quote>)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">jarco</foreignphrase></term><listitem><para>x1 (agent)shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audiencex3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">kucli</foreignphrase></term><listitem><para>x1 iscurious/wonders about/is interested in/[inquisitive about] x2(object/abstract)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">kumfa</foreignphrase></term><listitem><para>x1 is a roomof/in structure x2 surrounded by partitions/walls/ceiling/floor x3(mass/jo'u)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">logji</foreignphrase></term><listitem><para>x1[rules/methods] is a logic for deducing/concluding/inferring/reasoningto/about x2 (du'u)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">lo'u... le'u</foreignphrase></term><listitem><para>Quotation marks like <foreignphraselang="art-lojban">lu... li'u</foreignphrase>, used when the Lojban text contained in them doesn't make grammatical sense.</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">mebri</foreignphrase></term><listitem><para>x1 is a/thebrow/forehead [projecting flat/smooth head/body-part] ofx2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">remna</foreignphrase></term><listitem><para>x1 is ahuman/human being/man (non-specific gender-free sense); (adjective:) x1 ishuman</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">rufsu</foreignphrase></term><listitem><para>x1 isrough/coarse/uneven/[grainy/scabrous/rugged] intexture/regularity</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">sonci</foreignphrase></term><listitem><para>x1 is asoldier/warrior/fighter of army x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="art-lojban">tarci</foreignphrase></term><listitem><para>x1 is astar/sun with stellar properties x2</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 4</title><para>Translate from Lojban.<orderedlist><listitem><para><foreignphraselang="art-lojban">.i le vo pendo na djuno le du'u ri zvati ma kau mu'i ma kau</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i la jang. cusku lu .i mi cazi ckire da'i tu'a loi glare cnino bo se zbasu ckafi li'u</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i la djiotis. se cinri leka ce'u cizra pe le kumfa poi ri nenri</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i.ue le vi canko noi jarco tu'a loi tarci cu pe'i jai se xankali'u</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i la ranjit. cusku lu .i go'i fa ji'a le re fange noi jarco leka le mebri po'e ce'u cu rufsu li'u</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i pa fange poi simsa lo sonci cu jai cfari fai lenu lanli le terdi pendo kei gi'e cusku lo'u .uxrup .ua. doglau. latl.tcak val tca. le'u</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i la ranjit. kucli ledu'u le fange cu tavla bau ma kau</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i le ka tu'a ce'u se kucli cu se jundi le drata fange noi cusku zoi gy. Greetings people of the planet ... um... Saturn?gy.</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">.i la jang. cusku lu .i tu'a le fange na drani so'a da li'u</foreignphrase></para></listitem></orderedlist></para></simplesect><simplesect role="exercise"><title>Exercise 5</title><para>Translate into Lojban. Use <foreignphraselang="art-lojban">ce'u</foreignphrase> in quality abstractions. Use <foreignphraselang="art-lojban">jai</foreignphrase> instead of <foreignphraselang="art-lojban">tu'a</foreignphrase> wherever possible.<orderedlist><listitem><para>Susan says <quote>Excuse me, but I think you are uncertain about where you are &mdash; which is Earth.</quote></para></listitem><listitem><para>The alien says <quote>You are correct.</quote></para></listitem><listitem><para><quote>We are, uh, merely testing you for terrestial intelligence.</quote></para></listitem><listitem><para>Jyoti says <quote>You could have done that and not haveinterrupted our dancing.</quote></para></listitem><listitem><para>Ranjeet says <quote>And also, if you knew that we are terrestial people and intelligent, then you also knew that we are terrestial intelligences.</quote> (Use forethought connectives.)</para></listitem><listitem><para>The alien says <quote>Are you the radio transmitter?</quote></para></listitem><listitem><para>Ranjeet says <quote>I am one of the radio transmitters.</quote></para></listitem><listitem><para><quote>But <foreignphraselang="art-lojban">mi po'onai cradi</foreignphrase> is more logically correct.</quote></para></listitem><listitem><para>The alien frowns, says <quote>You are allowed to leave</quote>, and un-removes the friends from the dance hall.</para></listitem><listitem><para>The alien says <quote><foreignphrase lang="art-klingon">xu&stress;m&akl;n &stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase></quote>, which is translated as <quote>Human logic. Yuck.</quote></para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less15answers"><title>Answers to exercises</title><simplesect role="excanswer"><title>Exercise 1</title><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">mi djica lenu mi djuno ledu'u do ba tavla mi ca ma kau</foreignphrase> (You can place the <foreignphrase lang="art-lojban">ca ma kau</foreignphrase> anywhere after <foreignphrase lang="art-lojban">ledu'u</foreignphrase>.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">mi na djuno ledu'u do na ba tavla mi mu'i ma kau</foreignphrase> (Same goes for <foreignphrase lang="art-lojban">mu'i ma kau</foreignphrase>.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">mi ba'o cusku lesedu'u mi pu jinvi ledu'u ma kau bebna</foreignphrase> (Yes, Lojban can get prolix...)</para></listitem><listitem><para><foreignphrase lang="art-lojban">ko cusku lesedu'u le birje cu zvati ma kau</foreignphrase> or <foreignphrase lang="art-lojban">ko cusku lesedu'u birje vi ma kau</foreignphrase> (... except, perhaps, where it matters most! The observative in the second version actually works: <quote>Beer! Tell me where?!</quote>)</para></listitem><listitem><para><foreignphrase lang="art-lojban">do pu cusku lesedu'u mi bilga lenu mi dunda le cukta ma kau</foreignphrase> or (if you want to risk the attitudinal) <foreignphrase lang="art-lojban">do pu cusku lesedu'u mi .ei dunda le cukta ma kau</foreignphrase></para></listitem><listitem><para>OK, this doesn't have to be that close (let alone rhyme), and in fact the English is closer to a direct than an indirect question, but this is something like <foreignphrase lang="art-lojban">ko cusku fi mi fe lesedu'u pei kau do sepli gi'e na djuno le farna gi'e simsa lo gunro rokci</foreignphrase>. Told you this was kind of a trick question...</para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 2</title><para><orderedlist><listitem><para><foreignphrase lang="art-lojban">ka ce'u ckire</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la arnold. cvartseneger.</foreignphrase> (or <foreignphrase lang="art-lojban">la'o gy. Arnold Schwarzenegger gy.</foreignphrase>, if you prefer.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">ka ce'u mamta</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">ka mamta ce'u</foreignphrase> or <foreignphrase lang="art-lojban">ka ce'u se mamta</foreignphrase></para></listitem><listitem><para>ka ce'u po'u mi simsa la arnold. cvartseneger.</para></listitem><listitem><para><foreignphrase lang="art-lojban">ka xanka vi ce'u</foreignphrase>. A little contrived, we admit.</para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 3</title><para><orderedlist><listitem><para><foreignphraselang="art-lojban">mi troci tu'a le cidjrkari</foreignphrase> (What you actually try is to eat it &mdash; or, on occasion, to keep it down.)</para></listitem><listitem><para><foreignphraselang="art-lojban">mi djica tu'a le cidjrkari</foreignphrase>(This usually comes as a shock to Lojbanists, but you can't actually want objects, only events. The event you usually want is to be in possession of the object, in some way or other.)</para></listitem><listitem><para><foreignphraselang="art-lojban">mi nelci le cidjrkari</foreignphrase>(The <foreignphraselang="art-lojban">gismu</foreignphrase> list explicitly allows <foreignphraselang="art-lojban">nelci</foreignphrase> to involve both objects and events; so you don't need <foreignphraselang="art-lojban">tu'a</foreignphrase> here. This makes <foreignphraselang="art-lojban">nelci</foreignphrase> quite different to <foreignphraselang="art-lojban">djica</foreignphrase>.)</para></listitem><listitem><para><foreignphraselang="art-lojban">lenu mi cliva cu snuti</foreignphrase> (No surprise there; <quote role="gloss">leaving</quote> corresponds to an abstraction.)</para></listitem><listitem><para><foreignphraselang="art-lojban">leka ckire cu fanza mi</foreignphrase></para></listitem><listitem><para><foreignphraselang="art-lojban">tu'a le cidjrkari cu fanza mi</foreignphrase> (Unlike gratitude, curry is certainly not an abstraction.)</para></listitem><listitem><para><foreignphraselang="art-lojban">le fanza cu cfari</foreignphrase>(Yes, you read correctly. To fit the x1 of <foreignphraselang="art-lojban">cfari</foreignphrase>, a <foreignphraselang="art-lojban">sumti</foreignphrase> doesn't actually have to <emphasis>look like</emphasis> an abstraction; it just has to <emphasis>mean</emphasis> an abstraction. Anything that can be described as <foreignphraselang="art-lojban">le fanza</foreignphrase> is going to be an abstraction, because of the place structure of <foreignphraselang="art-lojban">fanza</foreignphrase>. So since the x1 of <foreignphraselang="art-lojban">fanza</foreignphrase> is a state or event, and the x1 of <foreignphraselang="art-lojban">cfari</foreignphrase> is also a state or event, they can both be describing the same thing &mdash; without needing to strain abstractions out of one or the other using <foreignphraselang="art-lojban">tu'a</foreignphrase>.)</para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 4</title><para><orderedlist><listitem><para>The four friends do not know where they are, or why they are there. (You can ask more than one question in a sentence in Lojban, direct or indirect.)</para></listitem><listitem><para>Zhang says <quote>Right now, I would be grateful for a hot, freshly-brewed coffee.</quote> (You are grateful in Lojban for events rather than objects, so fully expanded, <foreignphraselang="art-lojban">.i la jang. ckire da'i lenu ka'e pinxe loi glare cnino bo se zbasu ckafi</foreignphrase>.)</para></listitem><listitem><para>Jyoti is interested in the wierdness of the room she is in.(<foreignphrase lang="art-lojban">pe</foreignphrase> is another way of associating abstractions with specific objects. Note that <foreignphraselang="art-lojban">pe</foreignphrase> follows a <foreignphraselang="art-lojban">sumti</foreignphrase>, so the current <foreignphraselang="art-lojban">sumti</foreignphrase>, <foreignphraselang="art-lojban">leka ce'u cizra</foreignphrase>, is assumed to have been terminated. A fate we hope will not befall our intrepid heroes...)</para></listitem><listitem><para>Susan says <quote>Wow! This window, which shows the starts, is in my opinion something to be anxious about.</quote> (<foreignphraselang="art-lojban">se xanka</foreignphrase> describes an event that provokes anxiety, so <foreignphraselang="art-lojban">jai se xanka</foreignphrase> describes a <emphasis>thing</emphasis> involved in the event that provokes anxiety. Strictly speaking, Susan is probably misusing <foreignphraselang="art-lojban">jarco</foreignphrase>...)</para></listitem><listitem><para>Ranjeet says <quote>So are the two aliens, who show thattheir foreheads are rough</quote> or <quote>who exhibit roughness in theirforeheads.</quote> (... Ranjeet, of course, cannot help but be correct inhis usage of <foreignphrase lang="art-lojban">jarco</foreignphrase>.)</para></listitem><listitem><para>One alien who is like a soldier starts analysing the Earthling friends, and says <quote><foreignphrase lang="art-klingon">&stress;&glottal;uxrup w&akl;&glottal; &stress;&dkl;o&gkl;l&akl;w&glottal; l&akl;&tlh; t&shkl;&akl;q v&akl;l t&shkl;&akl;&glottal;</foreignphrase></quote> (A lot of you may have guessed the language the alien is speaking. You are correct, and let's leave it at that.)</para></listitem><listitem><para>Ranjeet is curious about what language the aliens are speaking in.</para></listitem><listitem><para>Being an object of curiosity is something noticed by the other alien, who says (in English) <quote>Greetings people of the planet ... um... Saturn?</quote></para></listitem><listitem><para>Zhang says <quote>Stuff about the aliens is not right in most regards.</quote> (In other words, there are properties involving these aliens that are not correct in most regards; for example, their sense of direction.)</para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 5</title><para><orderedlist><listitem><para><foreignphraselang="art-lojban">.i la suzyn. cusku lu ta'a do'u pe'i do na birti ledu'u do zvati ma kau po'u la terdi li'u</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.ile fange cu cusku lu .i do jai drani</foreignphrase> (Not<foreignphrase lang="art-lojban">do drani</foreignphrase>, which would mean<quote>You, as Susan, are a correct (or perfect) human being</quote>; it isonly one aspect of Susan, namely what she has just said, which is beingdescribed here as correct.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i mi'a .y. jai cipra po'oleka ce'u terdi pensi kei do li'u</foreignphrase> (You could say<foreignphrase lang="art-lojban">.i mi'a .y. jai cipra po'o leka do po'uce'u terdi pensi kei li'u</foreignphrase>, because it's the person with thequality being tested that is the test subject. But for practical reasons,Lojban hasn't eliminated this particular redundancy, so you might as wellexploit it.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la djiotis. cusku lu donu'i go'i gi'enai jai dicra lenu mi'a dansu li'u</foreignphrase> (InLojban, only events interrupt; latex-foreheaded aliens are <quoterole="gloss">involved in interrupting</quote>.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i ji'a ganai do pu djuno ledu'u mi'a ge terdi prenu gi pensi gi do djuno ledu'u mi'a terdi pensi li'u</foreignphrase> (No, Ranjeet can never resist a good syllogism.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i le fange cu cusku lu .i xu do du le cradi li'u</foreignphrase> (A legitimate use of <foreignphrase lang="art-lojban">du</foreignphrase>, since to the alien <quote role="gloss">The radio transmitter</quote> and <quote role="gloss">You</quote> refer to the same person.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .imi me le cradi</foreignphrase> (If you want to emphasise the plurality ofthe transmitters, you could say <foreignphrase lang="art-lojban">.i mi me le su'o re cradi</foreignphrase> <quote>I am one of the two or more radio transmitters</quote>.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i ku'i lu mi po'onaicradi li'u cu zmadu fi leka ce'u logji drani li'u</foreignphrase> (Althougha person saying something correct is not eligible to be the x1 place of<foreignphrase lang="art-lojban">drani</foreignphrase>, the correct thingthey say is: <foreignphrase lang="art-lojban">drani</foreignphrase> is notby definition restricted to abstractions.)</para></listitem><listitem><para><foreignphrase lang="art-lojban">.i le fange cu furmu gi'ecusku lu do jai se curmi fai lenu cliva li'u gi'e to'e vimcu le pendo ledansydi'u</foreignphrase></para></listitem><listitem><para><foreignphrase lang="art-lojban">.i le fange cu cusku zoigy. </foreignphrase><foreignphrase lang="art-klingon">xu&stress;m&akl;n &stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase> <foreignphrase lang="art-lojban">gy. noi se fanva fi lu .i remna logji .a'unai li'u</foreignphrase> (or, inLojban phonetic approximation, <foreignphrase lang="art-lojban">lo'u xuman.mekok. wedjpux. le'u</foreignphrase>.)</para></listitem></orderedlist></para></simplesect></sect1></chapter>ÿ
+<chapter id="less15"><title>Singled out: Isolating specific places</title>
+
+<para>In this lesson, we look at three features of Lojban grammar which
+normally get relegated to the <quote role="socalled">too-hard</quote>
+basket. Each of them involves singling out a particular <foreignphrase
+lang="art-lojban">sumti</foreignphrase> from a <foreignphrase
+lang="art-lojban">bridi</foreignphrase>, as being somehow more special than
+the other <foreignphrase lang="art-lojban">sumti</foreignphrase>. The full 
+logical machinery associated with these <quote role="socalled">singlings 
+out</quote> can get rather formidable, which is why Lojbanists tend to 
+regard these features with some degree of awe. Hopefully we'll present 
+these concepts to you with a minimum of fuss, so you can go about using 
+them comfortably in your Lojban.</para>
+
+<sect1 id="less15kau"><title>Indirect questions</title>
+
+<para>A Lojban question word is a request to <quote>fill in the
+slot</quote>, <emphasis>wherever</emphasis> it appears in a sentence. So
+<foreignphrase lang="art-lojban"><emphasis>ma</emphasis> cilre la
+lojban.</foreignphrase> is the question <quote><emphasis>Who</emphasis> is
+learning Lojban?</quote> And by the same token, <foreignphrase
+lang="art-lojban">mi djica lenu <emphasis>ma</emphasis> cilre la
+lojban.</foreignphrase> is the question <quote>I want
+<emphasis>who</emphasis> to learn Lojban?</quote> &mdash; or, in actual
+English (since English likes to have its question words at the start of the
+sentence), <quote><emphasis>Who</emphasis> do I want to learn
+Lojban?</quote> And <foreignphrase
+lang="art-lojban">mi pu cusku lesedu'u <emphasis>ma</emphasis> cilre la
+lojban.</foreignphrase> is <quote>I said <emphasis>who</emphasis> is 
+learning Lojban?</quote> &mdash; i.e. <quote><emphasis>Who</emphasis> did 
+I say is learning Lojban?</quote></para>
+
+<para>There's no reason <foreignphrase
+lang="art-lojban">du'u</foreignphrase> should behave any differently than
+<foreignphrase lang="art-lojban">nu</foreignphrase>, let alone
+<foreignphrase lang="art-lojban">sedu'u</foreignphrase>; so <foreignphrase
+lang="art-lojban">mi djuno ledu'u <emphasis>ma</emphasis> cilre la
+lojban.</foreignphrase> means <quote>I know that <emphasis>who</emphasis>
+is learning Lojban?</quote> &mdash; i.e. <quote><emphasis>Who</emphasis> do
+I know is learning Lojban?</quote></para>
+
+<para>What it does not mean is <quote>I know who is learning 
+Lojban</quote> &mdash; as in <quote>I know the identity of the person 
+learning Lojban.</quote> In a construction like that in English, you are 
+not asking a real question; that's why this is called an <emphasis>indirect 
+question</emphasis>. Instead, you 
+are saying that you already <emphasis>know</emphasis> the answer to the 
+question. You can tell the word <wordasword>who</wordasword> in that statement is 
+not a request for information, because it is not at the start of the 
+sentence, there's no question mark (or questioning intonation), and the 
+question word is not being emphasised.</para>
+
+<para>Lojban does not use any of these workarounds; a question word is a
+question word in Lojban, anywhere it happens to end up. This means that
+<foreignphrase lang="art-lojban">mi djuno ledu'u <emphasis>ma</emphasis>
+cilre la lojban.</foreignphrase> can never be an indirect question: it is
+asking for an answer (even if you're doing it rhetorically, though that is
+the kind of behaviour which Lojbanists &mdash; a level-headed bunch by most
+accounts, at least when they're speaking in Lojban &mdash; might not
+necessarily appreciate.) So what to do?</para>
+
+<para>Well, let's look at what you do know. Let's say the person learning 
+Lojban is Fred. If I ask you the question <foreignphrase 
+lang="art-lojban">ma cilre la lojban.</foreignphrase>, you know what value 
+to fill in the <foreignphrase lang="art-lojban">ma</foreignphrase> slot 
+with: <foreignphrase lang="art-lojban">la fred.</foreignphrase> So you 
+could just say <foreignphrase lang="art-lojban">mi djuno ledu'u la fred. 
+cilre la lojban.</foreignphrase> For whatever reason, however, you're not 
+telling me the actual name &mdash; totally within your prerogative. In 
+fact, I could say about you that <quote><emphasis>You</emphasis> know who 
+is learning Lojban</quote> &mdash; but because I don't know it, I'd have no name 
+to fill in the slot with.</para>
+
+<para>So you know that <emphasis>someone</emphasis> is learning Lojban:
+<foreignphrase lang="art-lojban">do djuno ledu'u da cilre la
+lojban.</foreignphrase> And you can fill in the value of <foreignphrase
+lang="art-lojban">da</foreignphrase>, even though I can't. What we want is
+some word that would tell us <quote>the answer that goes here isn't being
+said, but it is known anyway.</quote> That word is the UI <foreignphrase
+lang="art-lojban">cmavo</foreignphrase>, <foreignphrase
+lang="art-lojban">kau</foreignphrase>. So <foreignphrase
+lang="art-lojban">mi djuno ledu'u da <emphasis>kau</emphasis> cilre la
+lojban.</foreignphrase> means <quote>I know someone is learning Lojban, and 
+I know who it is.</quote> <foreignphrase
+lang="art-lojban">do djuno ledu'u da <emphasis>kau</emphasis> cilre la
+lojban.</foreignphrase> means <quote>You know someone is learning Lojban, and 
+<emphasis>you</emphasis> know who it is.</quote></para>
+
+<para><foreignphrase
+lang="art-lojban">kau</foreignphrase> says that the value of the word it 
+attaches to is known &mdash; whatever that word is. So in fact, you can put 
+it next to a question word, and it will cancel out the question word's 
+force. <foreignphrase
+lang="art-lojban">mi djuno ledu'u <emphasis>ma kau</emphasis> cilre la
+lojban.</foreignphrase> means exactly the same as <foreignphrase
+lang="art-lojban">mi djuno ledu'u <emphasis>da kau</emphasis> cilre la
+lojban.</foreignphrase> &mdash; and has the advantage of looking just like 
+the indirect questions we're already familiar with.</para>
+
+<para>Since <foreignphrase
+lang="art-lojban">kau</foreignphrase> belongs to
+<foreignphrase
+lang="art-lojban">selma'o</foreignphrase> UI, you can place it pretty much anywhere. In
+particular, anywhere you can put a question word in Lojban, you can make it
+an indirect question by adding <foreignphrase
+lang="art-lojban">kau</foreignphrase>. So you can say
+<quote>I know how many people are learning Lojban</quote>, as
+<foreignphrase lang="art-lojban">mi djuno ledu'u <emphasis>xo
+kau</emphasis> prenu cilre la lojban.</foreignphrase> (Remember,
+<foreignphrase lang="art-lojban">xo</foreignphrase> is the question word
+for numbers.) You can even make indirect questions of Lojban's more exotic
+question words. For example, in <link linkend="less11">Lesson 11</link>,
+the waiter asks Jyoti and Susan <foreignphrase lang="art-lojban">lanme je'i
+bakni</foreignphrase> <quote>lamb or beef?</quote> Once they answer, he
+knows whether they want to eat lamb or beef; in Lojban, 
+
+<informalexample><para><foreignphrase
+lang="art-lojban">ba'o lenu la djiotis. .e la suzyn. spuda kei le sabji cu
+djuno ledu'u ra djica lenu citka loi lanme <emphasis>je'i kau</emphasis>
+bakni</foreignphrase></para></informalexample>
+
+</para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">farna</foreignphrase></term><listitem><para>x1 is the
+direction of x2 (object/event) from origin/in frame of reference
+x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">gunro</foreignphrase></term><listitem><para>x1
+rolls/trundles on/against surface x2 rotating on axis/axle x3; x1 is a
+roller</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">rokci</foreignphrase></term><listitem><para>x1 is a
+quantity of/is made of/contains rock/stone of type/composition x2 from
+location x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">sepli</foreignphrase></term><listitem><para>x1 is
+apart/separate from x2, separated by partition/wall/gap/interval/separating
+medium x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">simsa</foreignphrase></term><listitem><para>x1 is
+similar/parallel to x2 in property/quantity x3 (ka/ni); x1 looks/appears
+like x2</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 1</title>
+
+<para>Express the following indirect questions in Lojban. Use Lojban question 
+words to translate the English question words.
+
+<orderedlist>
+
+<listitem><para>I want to know when you will talk to me.</para></listitem>
+
+<listitem><para>I don't know why you won't talk to me.</para></listitem>
+
+<listitem><para>I've said who I thought was a fool.</para></listitem>
+
+<listitem><para>Tell me where the beer is.</para></listitem>
+
+<listitem><para>You said who I should give the book to.</para></listitem>
+
+<listitem><para>Tell me how does it feel when you're on your own with no 
+direction known like a rolling stone. (Not only is there a profusion of 
+Dylan here, but this is kind of a trick question. But do translate it as an 
+indirect one, anyway.)</para></listitem>
+
+
+</orderedlist>
+
+
+</para>
+</simplesect>
+
+
+
+</sect1>
+
+<sect1 id="less15cehu"><title>Properties</title>
+
+<para>We have seen, here and there, instances of Lojban expressions of
+properties. Lojban treats properties as abstractions, introduced by
+<foreignphrase lang="art-lojban">ka</foreignphrase>. There is nothing
+controversial about that; properties are things you can talk about
+(<foreignphrase lang="art-lojban">sumti</foreignphrase>), which involve
+relationships and characteristics (<foreignphrase
+lang="art-lojban">selbri</foreignphrase>.) So if <foreignphrase
+lang="art-lojban">xendo</foreignphrase> means <quote 
+role="gloss">kind</quote>, for instance, <foreignphrase
+lang="art-lojban">le ka xendo</foreignphrase> refers to <quote 
+role="gloss">kindness</quote>.</para>
+
+<para>The thing about properties, though, is that they are properties
+<emphasis>of</emphasis> something. They are associated, not just with a
+<foreignphrase lang="art-lojban">selbri</foreignphrase>, but with a
+particular place of the <foreignphrase
+lang="art-lojban">selbri</foreignphrase>. For instance, if I am being kind
+(<foreignphrase lang="art-lojban">mi xendo</foreignphrase>), then I can
+talk about <emphasis>my</emphasis> kindness (<foreignphrase
+lang="art-lojban">le ka <emphasis>mi</emphasis> xendo</foreignphrase>.) If
+Fred is being kind, we would instead speak of <emphasis>Fred</emphasis>'s
+kindness (<foreignphrase lang="art-lojban">le ka <emphasis>la
+fred.</emphasis> xendo</foreignphrase>.)</para>
+
+<para>Now, consider influence and susceptibility. Both involve the
+relationship expressed in Lojban as <foreignphrase
+lang="art-lojban">xlura</foreignphrase>: <quote role="gloss">x1 (agent)
+influences/lures/tempts x2 into action/state x3 by influence/threat/lure
+x4</quote>. So the Lojban for influence is <foreignphrase
+lang="art-lojban">le ka xlura</foreignphrase>. And the Lojban for
+susceptibility is... <foreignphrase lang="art-lojban">le ka
+xlura</foreignphrase>? No, that can't be right. Let's try again. Influence
+is the property associated with the x1 of <foreignphrase
+lang="art-lojban">xlura</foreignphrase>, the influencer. Susceptibility is
+the property associated with the x2 of <foreignphrase
+lang="art-lojban">xlura</foreignphrase>, the influencee. I need to somehow,
+in the abstraction, highlight the place I'm interested in: <foreignphrase
+lang="art-lojban">le ka <emphasis>mi</emphasis> xlura</foreignphrase> is my
+influence, while <foreignphrase lang="art-lojban">le
+ka <emphasis>mi</emphasis> se xlura</foreignphrase> is my susceptibility. 
+I could play tricks like using whichever place comes first, or whichever place is empty 
+first, to tell which place I'm concentrating on. But that would just be a 
+convention; and as was the case with relative clauses and <foreignphrase
+lang="art-lojban">ke'a</foreignphrase>, you'd want some way of explicitly 
+spelling out what place you're concentrating on. Moreover, what happens if 
+both candidate places are filled &mdash; is <foreignphrase
+lang="art-lojban">le ka mi xlura do</foreignphrase> my influence over you, 
+or your susceptibility to me? Who are we concentrating on here?
+</para>
+
+<para>The solution Lojban presents is pretty similar to relative clauses
+and <foreignphrase lang="art-lojban">ke'a</foreignphrase>, as it turns out.
+(Some logicians would think of it as identical, in fact.) It's also similar
+to Lojban's approach to questions. Remember in <link
+linkend="less13">Lesson 13</link> that the search for extraterrestial
+intelligence was, in terms of Lojban, a search for the value to fit in the
+slot <foreignphrase lang="art-lojban">leka ___ terdi bartu
+pensi</foreignphrase>. By the same token, influence is a property of things
+that fit into the x1 place of <foreignphrase
+lang="art-lojban">xlura</foreignphrase>; so you can think of influence as
+<foreignphrase lang="art-lojban">leka ___ xlura</foreignphrase>. (If we
+know that <foreignphrase lang="art-lojban">mi</foreignphrase> fits into the
+slot, we have <quote role="gloss">my influence</quote>; if we know that
+<foreignphrase lang="art-lojban">la fred.</foreignphrase> fits into the
+slot, we have <quote role="gloss">Fred's influence</quote>.) And
+susceptibility is a property of things that fit into the x2 place of
+<foreignphrase lang="art-lojban">xlura</foreignphrase>; so you can think of
+susceptibility as <foreignphrase lang="art-lojban">le ka xlura
+___</foreignphrase> (or <foreignphrase lang="art-lojban">le ka ___ se
+xlura</foreignphrase>.)</para>
+
+<para>Lojban has a word for that slot associated with properties. It isn't
+<foreignphrase lang="art-lojban">ma</foreignphrase>, because you're not
+asking someone what fills the slot; you're just pointing out that there's a
+slot there that can be filled. It isn't <foreignphrase
+lang="art-lojban">ke'a</foreignphrase> either, because <foreignphrase
+lang="art-lojban">ke'a</foreignphrase> refers back to something you've
+already expressed as a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> (though you might think of a
+relative clause as a property belonging to that <foreignphrase
+lang="art-lojban">sumti</foreignphrase>.) Property slots get their own KOhA
+<foreignphrase lang="art-lojban">cmavo</foreignphrase>, <foreignphrase
+lang="art-lojban">ce'u</foreignphrase>. So influence is <foreignphrase
+lang="art-lojban">le ka ce'u xlura</foreignphrase> <quote>the property 
+that X influences</quote>: anyone or anything that
+has that property can stand in for <foreignphrase
+lang="art-lojban">ce'u</foreignphrase>. Susceptibility is <foreignphrase
+lang="art-lojban">le ka xlura ce'u</foreignphrase> <quote>the property 
+that [something] influences X</quote>, or <foreignphrase
+lang="art-lojban">le ka ce'u se xlura</foreignphrase> <quote>the property 
+that X is influenced</quote>: anyone or anything
+that has <emphasis>that</emphasis> property can stand in for <foreignphrase
+lang="art-lojban">ce'u</foreignphrase>. And extraterrestial intelligence is
+<foreignphrase lang="art-lojban">le ka ce'u terdi bartu
+pensi</foreignphrase> <quote>the property that X is an earth-exterior 
+thinker</quote>: you can tell whether you've found your Little Green
+Men by substituting them for <foreignphrase
+lang="art-lojban">ce'u</foreignphrase>, and seeing if the <foreignphrase
+lang="art-lojban">bridi</foreignphrase> is true (<foreignphrase
+lang="art-lojban">le ka <emphasis>lo fange pe la vulkan.</emphasis> cu terdi
+bartu pensi</foreignphrase>.)</para>
+
+<note><para>If you:
+
+<itemizedlist>
+
+<listitem><para>did Computer Science at University,
+<emphasis>and</emphasis> you didn't skip Theory of Computation in third
+year just because it had all sorts of strange Greek letters and ivory tower
+mathematics in it;</para></listitem>
+
+<listitem><para>did Computer Science at
+University, and skipped Theory of Computation in third year, but hacked
+around with LISP a lot anyway;</para></listitem>
+
+<listitem><para>did
+Linguistics at University, and did not run screaming from the Formal Semantics elective 
+in third year (if you were even offered it)
+just because it had all sorts of strange Greek letters and more mathematics
+than you were used to (i.e. none);</para></listitem>
+
+</itemizedlist>
+
+then it will mean something to you that <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> is a lambda variable, and that
+<foreignphrase lang="art-lojban">le ka ce'u xlura da de di</foreignphrase>
+corresponds to &lambda;<wordasword>x</wordasword>.<foreignphrase
+lang="art-lojban">xendo</foreignphrase>(<wordasword>x</wordasword>,<foreignphrase
+lang="art-lojban">da</foreignphrase>,<foreignphrase
+lang="art-lojban">de</foreignphrase>,<foreignphrase
+lang="art-lojban">di</foreignphrase>). The rest of you (which includes 90%
+of all programmers and 99% of all linguists) can go ahead and forget I ever
+mentioned this.
+
+</para></note>
+
+<para>When there is no <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> in the abstraction, the location of
+<foreignphrase lang="art-lojban">ce'u</foreignphrase> is ambiguous, and no
+convention has arisen as with <foreignphrase
+lang="art-lojban">ke'a</foreignphrase> on where it goes by default. The x1
+place (whether occupied or not) seems as good a default as any, but that
+should probably be left up to usage to determine. This means that
+<foreignphrase lang="art-lojban">le ka xlura</foreignphrase> on its own
+means both <quote role="gloss">influence</quote> and <quote
+role="gloss">susceptibility</quote>, although <foreignphrase
+lang="art-lojban">le ka se xlura</foreignphrase> may well end up the
+preferred way of saying <quote role="gloss">susceptibility</quote>.</para>
+
+<para>What happens if you want to put <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> in the abstraction, but the place
+you're concentrating on is already occupied, because you know who it's a
+property of? Well, in that case you want to say that the value already
+there takes up the space where the slot would be. If <quote
+role="gloss">kindness</quote> is <foreignphrase lang="art-lojban">le ka
+ce'u xendo</foreignphrase>, <quote role="gloss">my kindness</quote> is
+<foreignphrase lang="art-lojban">le ka ce'u xendo fa mi</foreignphrase>.
+This means that both <foreignphrase lang="art-lojban">ce'u</foreignphrase>
+and <foreignphrase lang="art-lojban">mi</foreignphrase> take up the x1 of
+<foreignphrase lang="art-lojban">xendo</foreignphrase>. A somewhat less
+painful way to do this is to use <foreignphrase
+lang="art-lojban">po'u</foreignphrase> to say that the property slot and
+the value filling it are basically the same thing: <foreignphrase
+lang="art-lojban">le ka ce'u po'u mi xendo</foreignphrase> <quote>the
+quality of X, namely me, being kind.</quote></para>
+
+<note><para>The infinitesimal number of you that know about lambda calculus
+are by now thinking this is a pretty lame way of implementing
+beta-reduction. All I can say to that is, if you want LISP, you always know where 
+to find it...</para></note>
+
+<note><para>The quantity abstractor, <foreignphrase lang="art-lojban">ni</foreignphrase>
+<quote role="gloss">the amount by which...</quote> can also take <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase>. Had we actually looked at <foreignphrase 
+lang="art-lojban">ni</foreignphrase> in this course at all, this piece of 
+information might have been slightly more useful to you.</para></note>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">ckire</foreignphrase></term><listitem><para>x1 is
+grateful/thankful to/appreciative of x2 for x3
+(event/property)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">mamta</foreignphrase></term><listitem><para>x1 is a
+mother of x2; x1 bears/mothers/acts maternally toward x2; [not necessarily
+biological]</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 2</title>
+
+<para>Express the following qualities in Lojban, using <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> explicitly in all cases.
+
+<orderedlist>
+
+<listitem><para>Gratitude</para></listitem>
+
+<listitem><para>Similarity to Arnold Schwarzenegger</para></listitem>
+
+<listitem><para>Motherhood</para></listitem>
+
+<listitem><para>Having a mother</para></listitem>
+
+<listitem><para>My similarity to Arnold Schwarzenegger</para></listitem>
+
+<listitem><para>Being a place where people get anxious; creepiness (Hint:
+Use <foreignphrase lang="art-lojban">sumti
+tcita</foreignphrase>.)</para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+</sect1>
+
+<sect1 id="less15tuha"><title>From <foreignphrase
+lang="art-lojban">sumti</foreignphrase> to abstraction: <foreignphrase
+lang="art-lojban">tu'a</foreignphrase></title>
+
+<para>When looking up words in a <foreignphrase
+lang="art-lojban">gismu</foreignphrase> list, you will have already noticed
+that, where languages like English has people or things as subjects or
+objects, Lojban often uses abstractions instead as places of <foreignphrase
+lang="art-lojban">gismu</foreignphrase>. For example, in
+English, you say that <emphasis>someone</emphasis> is interesting, or
+<emphasis>something</emphasis> is interesting. In Lojban, you aren't really
+meant to say either. The definition of <foreignphrase
+lang="art-lojban">cinri</foreignphrase> is <quote role="gloss">x1
+(abstraction) interests/is interesting to x2; x2 is interested in
+x1</quote>. In other words, as far as Lojban is concerned, it's not things
+or people that are interesting, but <emphasis>actions</emphasis> or
+<emphasis>properties</emphasis> involving those things or people. For
+example, Jyoti cannot be said to be interesting simply by virtue of being
+Jyoti; the way Lojban puts it, it's the things Jyoti does (or is) that are
+interesting &mdash; the way she talks about British sitcoms, her choice of 
+headgear, her tendency to break into '80s songs after she's had a few 
+drinks. (Oh, I forgot to tell you about all that. Maybe next course.)</para>
+
+<para>The same goes for <foreignphrase
+lang="art-lojban">fenki</foreignphrase> <quote role="gloss">crazy</quote>.
+In almost every language, it is people that are called crazy. Only occasionally
+are actions also called crazy. Lojban defines <foreignphrase
+lang="art-lojban">fenki</foreignphrase> as <quote role="gloss">x1
+(action/event) is crazy/insane/mad/frantic/in a frenzy (one sense) by
+standard x2</quote>. In other words, as far as Lojban is concerned,
+craziness lies in actions, not in people; a crazy person is by definition
+someone who does crazy actions. (And this means that someone suffering from
+the particular forms of mental illness loosely called <quote
+role="socalled">crazy</quote> wouldn't be called <foreignphrase
+lang="art-lojban">fenki</foreignphrase> in Lojban &mdash; since their
+condition is not <emphasis>primarily</emphasis> a matter of socially
+unaceptable actions &mdash; but rather <foreignphrase lang="art-lojban">menli
+bilma</foreignphrase>: <quote role="gloss">mentally ill</quote>.)</para>
+
+<para>For now, you may be prepared to accept this as an endearing quirk of
+Lojban. (If you're not, we explain why Lojban is all topsy-turvy like this
+in the next section.) But very often, you have no idea what to say is
+the <foreignphrase lang="art-lojban">selbri</foreignphrase> of that 
+abstraction, or you don't particularly care to. For example, yes, Jyoti 
+doing this, that and the other is what is interesting about her; but I may 
+not know first-hand what exactly her particular talents are, or I may not feel 
+like going into a five-minute spiel every time I merely want to point out 
+that she is interesting. If I can't say the Lojban for <quote>Jyoti is 
+interesting</quote>, I should at least be able to say something like 
+<quote>Jyoti {doing some stuff I'm not listing here} is 
+interesting</quote>, or <quote>Some things about Jyoti are 
+interesting.</quote> In other words, I have to say <foreignphrase 
+lang="art-lojban">lenu la djiotis. cu ___ cu cinri</foreignphrase>, but I 
+shouldn't have to fill in that slot with an explicit <foreignphrase 
+lang="art-lojban">selbri</foreignphrase> each time.</para>
+
+<para>There are slots in Lojban sentences that we have in fact been leaving
+empty all the time. Remember <foreignphrase
+lang="art-lojban">zo'e</foreignphrase>? <foreignphrase
+lang="art-lojban">zo'e</foreignphrase> is the <quote role="socalled">don't
+care</quote> value we leave implied in the places of <foreignphrase
+lang="art-lojban">bridi</foreignphrase> we leave empty. For example, when I
+say <foreignphrase lang="art-lojban">mi klama le barja</foreignphrase>, I'm
+not bothering to specify my point of origin, route, or vehicle. They are
+all implied to be <foreignphrase lang="art-lojban">zo'e</foreignphrase>
+(<foreignphrase lang="art-lojban">mi klama le barja zo'e zo'e
+zo'e</foreignphrase>): there is a point of origin, a route and a vehicle
+involved, but we don't really care what they are.</para>
+
+<para><foreignphrase lang="art-lojban">zo'e</foreignphrase> is a
+<foreignphrase lang="art-lojban">sumti</foreignphrase>; but it has a
+<foreignphrase lang="art-lojban">selbri</foreignphrase> equivalent,
+<foreignphrase lang="art-lojban">co'e</foreignphrase>. <foreignphrase
+lang="art-lojban">co'e</foreignphrase> can appear where any <foreignphrase
+lang="art-lojban">selbri</foreignphrase> can appear, but it leaves the
+particular relationship involved between its <foreignphrase
+lang="art-lojban">sumti</foreignphrase> unspecified. So <foreignphrase
+lang="art-lojban">mi co'e le barja</foreignphrase> means something like
+<quote>I thingummy the bar</quote>: the bar and I are in some relationship,
+but I'm not bothering to say what it is. I might be going to it, coming
+from it, sleeping in it, refurbishing it, or hearing about my neighbour
+getting drunk in it once. It just doesn't matter enough for me to say
+what.</para>
+
+<para>Now normally, you can't get away with this: if you leave out the
+<foreignphrase lang="art-lojban">selbri</foreignphrase> in your story, you
+pretty much have no story. But with these abstractions that we wish weren't
+really abstractions, <foreignphrase lang="art-lojban">co'e</foreignphrase>
+is just what you need: you can get away with making an abstraction
+containing only the <foreignphrase lang="art-lojban">sumti</foreignphrase>
+you want to talk about. You don't have to specify
+<emphasis>anything</emphasis> else in the abstraction &mdash; especially
+not the <foreignphrase lang="art-lojban">selbri</foreignphrase>. So if I
+want to say <quote>Jyoti is interesting</quote>, I need only say
+<foreignphrase lang="art-lojban">lenu la djiotis. cu
+<emphasis>co'e</emphasis> cu cinri</foreignphrase>. I'm still saying an
+abstraction involving Jyoti is what is interesting, so I'm following the
+requirements of the <foreignphrase lang="art-lojban">gismu</foreignphrase>
+list. But that's all I'm saying; what particular abstraction it is that is
+interesting, I am leaving entirely open. In the same way, if I want to say
+<quote>Zhang is crazy</quote> (or <quote>berserk</quote>, probably a closer
+translation of <foreignphrase lang="art-lojban">fenki</foreignphrase>), I
+don't have to enumerate the various wacky stunts he has pulled over the
+years. I can simply say that <quote>some stuff about Zhang is
+crazy</quote>, which in Lojban comes out as <foreignphrase
+lang="art-lojban">lenu la jang. co'e cu fenki</foreignphrase>. The value of
+<foreignphrase lang="art-lojban">co'e</foreignphrase> could be
+<foreignphrase lang="art-lojban">dasni [loi zirpu]</foreignphrase>
+<quote>wears purple</quote>, <foreignphrase lang="art-lojban">dansu [la
+zgikrfanki jipci]</foreignphrase> <quote>dances the Funky Chicken</quote>,
+<foreignphrase lang="art-lojban">tavla [bau la lojban.]</foreignphrase>
+<quote>speaks Lojban</quote>, or whatever; we're just not bothering to name
+it here.</para>
+
+<para>Lojban can go one better, though. As you can tell, Lojban is going to
+have you saying <foreignphrase lang="art-lojban">lenu ___ cu co'e
+kei</foreignphrase> quite often (and you never know when you might need that
+<foreignphrase lang="art-lojban">kei</foreignphrase> terminator); so it
+offers you an abbreviation: <foreignphrase
+lang="art-lojban">tu'a</foreignphrase>. <foreignphrase
+lang="art-lojban">tu'a da</foreignphrase> means <foreignphrase
+lang="art-lojban">lenu da cu co'e kei</foreignphrase>; so you can translate
+<foreignphrase lang="art-lojban">tu'a</foreignphrase> as <quote>some
+abstraction associated with...</quote>, or more colloquially, <quote>some
+stuff about...</quote> <foreignphrase
+lang="art-lojban">tu'a</foreignphrase> is easily the most popular way of
+dealing with abstractions you wish weren't there in Lojban; Lojban
+sentences using it come out fairly similar to the natural language
+sentences <emphasis>without</emphasis> abstractions we're used to seeing.
+So the usual Lojban for <quote>Jyoti is interesting</quote> is
+<foreignphrase lang="art-lojban"><emphasis>tu'a</emphasis> la djiotis.
+cinri</foreignphrase>, and the usual Lojban for <quote>Zhang is
+crazy</quote> is <foreignphrase lang="art-lojban"><emphasis>tu'a</emphasis>
+la jang. fenki</foreignphrase>.</para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">djica</foreignphrase></term><listitem><para>x1
+desires/wants/wishes x2 (event/state) for purpose
+x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cfari</foreignphrase></term><listitem><para>x1
+[state/event/process] commences/initiates/starts/begins to occur;
+(intransitive verb)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">fanza</foreignphrase></term><listitem><para>x1 (event)
+annoys/irritates/bothers/distracts x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">nelci</foreignphrase></term><listitem><para>x1 is fond
+of/likes/has a taste for x2 (object/state)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">snuti</foreignphrase></term><listitem><para>x1
+(event/state) is an accident/unintentional on the part of x2; x1 is an
+accident</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">troci</foreignphrase></term><listitem><para>x1
+tries/attempts/makes an effort to do/attain x2 (event/state/property) by
+actions/method x3</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 3</title>
+
+<para>Some of these sentences need to be translated in Lojban with <foreignphrase
+lang="art-lojban">tu'a</foreignphrase>, and some don't. Supply the 
+appropriate translation, in either case.
+
+<orderedlist>
+
+<listitem><para>I tried the curry.</para></listitem>
+
+<listitem><para>I wanted the curry.</para></listitem>
+
+<listitem><para>I liked the curry.</para></listitem>
+
+<listitem><para>My leaving was accidental.</para></listitem>
+
+<listitem><para>Gratitude annoys me.</para></listitem>
+
+<listitem><para>Curry annoys me.</para></listitem>
+
+<listitem><para>The irritation has begun.</para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+
+</sect1>
+
+<sect1 id="less15jai"><title>Raising: <foreignphrase
+lang="art-lojban">jai</foreignphrase></title>
+
+<warning><para>This section is long and complicated. On the plus side, 
+it's also the final section in the course.</para></warning>
+
+<para>Things weren't always like this. In the '80s, the ancestor of Loglan
+still said that things were interesting, and people were crazy, just like
+most normal languages, and without detouring through abstractions. So what
+happened?</para>
+
+<para>Well, what happened was that Lojbanists noticed how linguists have
+been analysing these concepts in natural languages, and how they were
+coming up with their own versions of <foreignphrase
+lang="art-lojban">bridi</foreignphrase>. (The word, by the way, is
+<wordasword>predicates</wordasword>; we've been avoiding it up to now, but
+we think you can handle the truth from now on...) Often, what was a noun in
+one part of the sentence, and a verb in another part, were brought together
+and considered to be underlyingly part of the same abstraction
+<foreignphrase lang="art-lojban">sumti</foreignphrase>.</para>
+
+<para>A good example is the phrase <wordasword>I am difficult to
+annoy</wordasword> in English. At first sight, you might think that
+<wordasword>I</wordasword> is a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> of
+<wordasword>difficult</wordasword>. And grammatically it is: it's the
+subject. But logically it isn't: what we're describing as difficult is not
+<wordasword>me</wordasword>. We can't say <quote>Who is difficult?</quote>
+&mdash; <quote>Me (to annoy)</quote> What's actually going on is that,
+underlyingly, what is difficult is <wordasword>to annoy me</wordasword>:
+the action of getting me annoyed is what is hard to achieve &mdash; not me!
+This is why English also allows you to say <wordasword>It is difficult to
+annoy me</wordasword>, and (if you squint a little) <wordasword>To annoy me
+is difficult</wordasword>. And sure enough, Lojban expresses this concept
+according to that <quote role="socalled">underlying</quote> form:
+<foreignphrase lang="art-lojban">lenu fanza mi cu nandu</foreignphrase>
+<quote>The event of annoying me is difficult</quote>.</para>
+
+<para>So why did English pull that wierd switcheroo with <wordasword>I am
+difficult to annoy</wordasword>? Basically, because when we talk, we aren't
+concentrating in our minds on intangible abstractions like <quote>the event
+of annoying me</quote>, let alone <quote>the state of Jyoti having certain
+unspecified properties.</quote> Instead, we run little stories in our head,
+with heroes and villains: concrete heroes and villains &mdash; people, for
+the most part. And as it happens, we make the subjects of our sentences be
+the heroes and villains we're concentrating on. (That's what a subject's
+ultimate job is: to present what we're concentrating on.) So by pulling a
+switcheroo like that, we're not talking about abstractions and events any
+more; the subject of the sentence is now our perenially favourite subject
+&mdash; namely <emphasis>me</emphasis>: it's <emphasis>me</emphasis> that 
+is difficult to annoy. (Yes, it <emphasis>is</emphasis>
+all about me...) This process is called in linguistics
+<wordasword>raising</wordasword>, because it raises concrete subjects (and
+objects) we want to talk about, out of the haziness of an abstraction
+<foreignphrase lang="art-lojban">sumti</foreignphrase> (or <quote
+role="socalled">argument</quote>, to use English logical
+terminology.)</para>
+
+<para>Once the requisite number of Lojbanists did an undergraduate course
+in syntax (you may commence throwing darts at effigies of Nick Nicholas at
+your leisure), it was realised that there were a <emphasis>lot</emphasis>
+of <foreignphrase lang="art-lojban">gismu</foreignphrase> whose place
+structures contained both a raised concrete <foreignphrase
+lang="art-lojban">sumti</foreignphrase> (usually x1), and an abstraction
+<foreignphrase lang="art-lojban">sumti</foreignphrase> itself
+containing the first <foreignphrase lang="art-lojban">sumti</foreignphrase>.
+For example, the place structure of <foreignphrase
+lang="art-lojban">fenki</foreignphrase> used to be <quote>x1 is crazy
+in behaviour x2 (abstraction) by standard x3.</quote> But
+<emphasis>any</emphasis> abstraction that would go into x2 would contain
+the x1 <foreignphrase lang="art-lojban">sumti</foreignphrase>: any crazy
+behaviour would automatically be the behaviour of the crazy person. For
+example, you'd get <foreignphrase lang="art-lojban">la jang. fenki lenu la
+jang. dasni loi zirpu</foreignphrase>; <foreignphrase lang="art-lojban">la
+jang. fenki lenu la jang. dansu la jipci</foreignphrase>; <foreignphrase
+lang="art-lojban">la jang. fenki lenu la jang tavla bau la
+lojban.</foreignphrase> The question then became: does the x1 tell us
+anything the x2 wasn't already telling us? We'd know who was involved in
+the crazy behaviour, because that person would be a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> inside x2. Was there any reason to 
+accord the person an extra place in the overall <foreignphrase
+lang="art-lojban">bridi</foreignphrase>? The decision was, no: behaviour is what 
+is crazy, so you can work out that the person acting out the behaviour is 
+the crazy person. There's no need to have an extra place for the person, 
+when you can already work out who they are. The same conclusion was arrived 
+at for <foreignphrase lang="art-lojban">cinri</foreignphrase>: it is 
+abstractions &mdash; events and qualities &mdash; that attract interest; 
+and an interesting person is simply a person involved in an interesting 
+attraction.</para>
+
+<para>All well and good; but natural languages do raising for a reason.
+So when Lojban has its <foreignphrase lang="art-lojban">gismu</foreignphrase> 
+without raising, it gains in eliminating redundancy and logical muddledness; 
+but it loses in <quote role="socalled">naturalness</quote>. We like 
+talking about people rather than abstractions in our languages; and Lojban 
+should not go out of its way to form an exception to this.</para>
+
+<para>There is a solution of sorts to all this using <foreignphrase
+lang="art-lojban">tu'a</foreignphrase>; but it doesn't actually do what
+raising does in natural languages: it doesn't <emphasis>change</emphasis>
+the x1 place from an abstraction to a concrete <foreignphrase
+lang="art-lojban">sumti</foreignphrase>. And there are times you will want
+to do just that. One example is joining <foreignphrase
+lang="art-lojban">bridi</foreignphrase>-tails. In English, you can say
+<quote>Jyoti is interesting and beautiful.</quote> This is
+based on two sentences (<wordasword>Jyoti is interesting</wordasword>,
+<wordasword>Jyoti is beautiful</wordasword>) which have the same
+subject. So we can easily combine them into a single sentence. In Lojban,
+the equivalent sentences are <foreignphrase lang="art-lojban">tu'a la
+djiotis. cinri</foreignphrase> and <foreignphrase lang="art-lojban">la djiotis. 
+melbi</foreignphrase>. There is no way you're going to
+join those two <foreignphrase lang="art-lojban">bridi</foreignphrase>
+together with <foreignphrase lang="art-lojban">gi'e</foreignphrase>: they
+simply do not have their first <foreignphrase
+lang="art-lojban">sumti</foreignphrase> in common. But they're both 
+somehow <quote role="socalled">about</quote> Jyoti; so you really should be 
+able to work around this.</para>
+
+<para>An even more important instance when you want raising is in forming
+<foreignphrase lang="art-lojban">sumti</foreignphrase> out of this kind of
+<foreignphrase lang="art-lojban">gismu</foreignphrase>. A <foreignphrase
+lang="art-lojban">sumti</foreignphrase> means whatever goes into the x1 of
+its <foreignphrase lang="art-lojban">selbri</foreignphrase>. So if
+<foreignphrase lang="art-lojban">la djiotis. ninmu</foreignphrase>, then I
+can describe Jyoti as <foreignphrase lang="art-lojban">lo
+ninmu</foreignphrase> <quote role="gloss">a woman</quote>; if
+<foreignphrase lang="art-lojban">lemi karce cu xe klama le gusta fu
+mi</foreignphrase>, then I can describe <foreignphrase
+lang="art-lojban">lemi karce</foreignphrase> as <foreignphrase
+lang="art-lojban">lo xe klama</foreignphrase> <quote role="gloss">a
+vehicle</quote>. So how do I say that someone is a cheat, or a deceiver?
+The <foreignphrase lang="art-lojban">gismu</foreignphrase> for <quote
+role="gloss">deceive</quote>, <foreignphrase
+lang="art-lojban">tcica</foreignphrase>, has the place structure <quote
+role="gloss">x1 (event/experience)
+misleads/deceives/dupes/fools/cheats/tricks x2 into x3
+(event/state)</quote>. So, while in English we say that x1 deceives x2 into
+doing x3, by doing x4, in Lojban the person and the action are merged into
+the one place. That makes <foreignphrase lang="art-lojban">lo tcica</foreignphrase>
+a trick, not a trickster. To say that someone is a trickster or a cheat,
+we need to use <foreignphrase lang="art-lojban">tu'a</foreignphrase>:
+<foreignphrase lang="art-lojban">tu'a da tcica</foreignphrase>. But you
+can't put <foreignphrase lang="art-lojban">lo</foreignphrase> in front of
+<foreignphrase lang="art-lojban">tu'a da</foreignphrase>: the deceiver
+would have to be the x1 of some <foreignphrase
+lang="art-lojban">selbri</foreignphrase>, in order to get their own
+<foreignphrase lang="art-lojban">sumti</foreignphrase>.</para>
+
+<para>The solution to this is to force Lojban to have raising after all,
+changing its place structure by modifying the <foreignphrase
+lang="art-lojban">selbri</foreignphrase> involved &mdash; just as
+<foreignphrase lang="art-lojban">se</foreignphrase> changes the place
+structure of its <foreignphrase lang="art-lojban">selbri</foreignphrase>,
+swapping its first and second place. If we put <foreignphrase
+lang="art-lojban">jai</foreignphrase> in front of a <foreignphrase
+lang="art-lojban">selbri</foreignphrase>, its x1 place changes from an
+abstraction, to any <foreignphrase lang="art-lojban">sumti</foreignphrase>
+contained <emphasis>within</emphasis> the abstraction. Let's try this with 
+a few sentences:
+
+<informalexample>
+
+<itemizedlist>
+
+<listitem> 
+<para><foreignphrase lang="art-lojban"><emphasis>lenu la jang.
+dasni loi zirpu</emphasis> cu fenki</foreignphrase> </para> </listitem>
+
+<listitem>
+<para>
+<foreignphrase lang="art-lojban"><emphasis>la jang.</emphasis> cu jai fenki</foreignphrase>
+</para>
+</listitem>
+
+</itemizedlist>
+
+<itemizedlist>
+
+<listitem>
+<para><foreignphrase lang="art-lojban"><emphasis>lenu la djiotis. cu 
+co'e</emphasis> cu cinri</foreignphrase>
+</para>
+</listitem>
+
+<listitem>
+<para><foreignphrase lang="art-lojban"><emphasis>la djiotis.</emphasis> cu jai 
+cinri</foreignphrase>
+</para>
+</listitem>
+
+</itemizedlist>
+
+<itemizedlist>
+
+<listitem>
+<para><foreignphrase lang="art-lojban"><emphasis>tu'a la 
+ranjit.</emphasis> tcica la suzyn.</foreignphrase>
+</para>
+</listitem>
+
+<listitem>
+<para><foreignphrase lang="art-lojban"><emphasis>la ranjit.</emphasis> jai 
+tcica la suzyn.</foreignphrase>
+</para>
+</listitem>
+
+<listitem>
+<para><foreignphrase lang="art-lojban"><emphasis>lenu fanza mi</emphasis> 
+cu nandu</foreignphrase>
+</para>
+</listitem>
+
+<listitem>
+<para><foreignphrase lang="art-lojban"><emphasis>mi</emphasis> jai nandu</foreignphrase>
+</para>
+</listitem>
+
+</itemizedlist>
+
+</informalexample>
+</para>
+
+<para>You'll notice that, with these new place structures, the Lojban
+phrases sound pretty much like their English equivalents: <foreignphrase
+lang="art-lojban">la djiotis. cu jai cinri</foreignphrase> corresponds to
+<wordasword>Jyoti is interesting</wordasword>, <foreignphrase
+lang="art-lojban">la ranjit. jai tcica la suzyn.</foreignphrase> to
+<wordasword>Ranjeet deceives Susan</wordasword>, and so forth.</para>
+
+<para>We can now do with <foreignphrase
+lang="art-lojban">jai</foreignphrase> those things we couldn't before. The
+Lojban for <quote>Jyoti is interesting and beautiful</quote>, for example,
+is <foreignphrase lang="art-lojban">la djiotis. cu jai cinri gi'e
+melbi</foreignphrase>. That's because Jyoti goes in the x1 place of
+<foreignphrase lang="art-lojban">jai cinri</foreignphrase>, just as it goes
+into the x1 place of <foreignphrase
+lang="art-lojban">melbi</foreignphrase>. And if I want to make a
+<foreignphrase lang="art-lojban">sumti</foreignphrase> meaning <quote
+role="gloss">deceiver</quote> or <quote role="gloss">trickster</quote>, I
+can use <foreignphrase lang="art-lojban">jai</foreignphrase> to do it:
+<foreignphrase lang="art-lojban"><emphasis>tu'a la ranjit.</emphasis>
+tcica</foreignphrase> &rArr; <foreignphrase lang="art-lojban"><emphasis>la
+ranjit.</emphasis> jai tcica</foreignphrase> &rArr; <foreignphrase
+lang="art-lojban">la ranjit. me <emphasis>lo jai
+tcica</emphasis></foreignphrase>. </para>
+
+<para>However, <foreignphrase lang="art-lojban">mi jai
+nandu</foreignphrase> does <emphasis>not</emphasis> correspond to <quote>I am difficult to
+annoy.</quote> In switching a concrete <foreignphrase
+lang="art-lojban">sumti</foreignphrase> for the original x1 &mdash; the
+abstraction that was difficult &mdash; we have lost the abstraction: there
+is nothing in <foreignphrase lang="art-lojban">mi jai nandu</foreignphrase>
+that means <quote role="gloss">to annoy</quote>. But not to worry: Lojban
+allows you to keep the original abstraction in the <foreignphrase
+lang="art-lojban">bridi</foreignphrase> by preceding it with <foreignphrase
+lang="art-lojban">fai</foreignphrase>. <foreignphrase
+lang="art-lojban">fai</foreignphrase> is a <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> like <foreignphrase
+lang="art-lojban">fa</foreignphrase> and <foreignphrase
+lang="art-lojban">fe</foreignphrase>; it effectively adds a new place to
+the <foreignphrase lang="art-lojban">bridi</foreignphrase>. So <quote>I am
+difficult to annoy</quote> is matched almost word-for-word by the Lojban
+sentence <foreignphrase lang="art-lojban">mi jai nandu fai lenu fanza
+mi</foreignphrase>. And we can apply this pattern further afield; for
+example, <quote>the book took three months to write</quote> is in Lojban
+properly <foreignphrase lang="art-lojban">lenu finti le cukta cu masti li
+ci</foreignphrase> <quote>to write the book had a month duration of
+three</quote>; raising allows the slightly more familiar-looking
+<foreignphrase lang="art-lojban">le cukta cu jai masti li ci fai lenu
+finti</foreignphrase>.</para>
+
+<para><foreignphrase lang="art-lojban">jai</foreignphrase> has not proven
+as popular as <foreignphrase lang="art-lojban">tu'a</foreignphrase>,
+presumably because it involves a fairly thorough rearrangement of place
+structures &mdash; and has the whiff about being somehow <quote
+role="socalled">un-Lojbanic</quote>. But as we've seen, it allows you to
+talk about things in a way that is in many ways more natural; and though it
+belongs to <quote role="socalled">advanced</quote> Lojban, it is a feature 
+you will find it useful to be familiar with.</para>
+
+</sect1>
+
+<sect1 id="less15summary"><title>Summary</title>
+<para>In this lesson, we have covered:
+
+<itemizedlist>
+
+<listitem><para>Indirect questions (<foreignphrase
+lang="art-lojban">kau</foreignphrase>)</para></listitem>
+
+<listitem><para>Property variables (<foreignphrase lang="art-lojban">ce'u</foreignphrase>)</para></listitem>
+
+<listitem><para>Raising (<foreignphrase lang="art-lojban">co'e, tu'a, jai,
+fai</foreignphrase>)</para></listitem>
+
+</itemizedlist>
+
+And with that, we have reached the end of the <citetitle>Lojban for 
+Beginners</citetitle> course! There are several bits of the grammar of 
+Lojban not covered here; but you now have the essentials with which to 
+start using Lojban, and you are in a good position to pick up the rest 
+&mdash; preferably from <citetitle>The Complete Lojban 
+Language</citetitle>, which is a fairly easy read for a reference grammar. 
+Moreover, most of the Lojban you will see will stick fairly closely to the 
+grammar covered here. <foreignphrase
+lang="art-lojban">.i .a'o do se zdile tu'a le ve ctuca gi'e ba gleki lenu 
+pilno la lojban</foreignphrase>
+
+</para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">birti</foreignphrase></term><listitem><para>x1 is
+certain/sure/positive/convinced that x2 is
+true</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cipra</foreignphrase></term><listitem><para>x1
+(process/event) is a test for/proof of property/state x2 in subject x3
+(individ./set/mass)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cizra</foreignphrase></term><listitem><para>x1 is
+strange/weird/deviant/bizarre/odd to x2 in property x3
+(ka)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">curmi</foreignphrase></term><listitem><para>x1 (agent)
+lets/permits/allows x2 (event) under conditions x3; x1 grants privilege
+x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">dicra</foreignphrase></term><listitem><para>x1 (event)
+interrupts/stops/halts/[disrupts] x2 (object/event/process) due to quality
+x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">drata</foreignphrase></term><listitem><para>x1 isn't
+the-same-thing-as/is different-from/other-than x2 by standard x3; x1 is
+something else</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">drani</foreignphrase></term><listitem><para>x1 is
+correct/proper/right/perfect in property/aspect x2 (ka) in situation x3 by
+standard x4 (Note: when people say correct things, that does not
+automatically make them <quote
+role="socalled">correct/proper/right/perfect</quote>)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">jarco</foreignphrase></term><listitem><para>x1 (agent)
+shows/exhibits/displays/[reveals]/demonstrates x2 (property) to audience
+x3</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">kucli</foreignphrase></term><listitem><para>x1 is
+curious/wonders about/is interested in/[inquisitive about] x2
+(object/abstract)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">kumfa</foreignphrase></term><listitem><para>x1 is a room
+of/in structure x2 surrounded by partitions/walls/ceiling/floor x3
+(mass/jo'u)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">logji</foreignphrase></term><listitem><para>x1
+[rules/methods] is a logic for deducing/concluding/inferring/reasoning
+to/about x2 (du'u)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">lo'u... le'u</foreignphrase></term><listitem><para>Quotation 
+marks like <foreignphrase
+lang="art-lojban">lu... li'u</foreignphrase>, used when the Lojban text 
+contained in them doesn't make grammatical sense.</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">mebri</foreignphrase></term><listitem><para>x1 is a/the
+brow/forehead [projecting flat/smooth head/body-part] of
+x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">remna</foreignphrase></term><listitem><para>x1 is a
+human/human being/man (non-specific gender-free sense); (adjective:) x1 is
+human</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">rufsu</foreignphrase></term><listitem><para>x1 is
+rough/coarse/uneven/[grainy/scabrous/rugged] in
+texture/regularity</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">sonci</foreignphrase></term><listitem><para>x1 is a
+soldier/warrior/fighter of army x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">tarci</foreignphrase></term><listitem><para>x1 is a
+star/sun with stellar properties x2</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+<simplesect role="exercise"><title>Exercise 4</title>
+
+<para>Translate from Lojban.
+
+<orderedlist>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i le vo pendo na djuno le du'u ri zvati ma kau mu'i ma 
+kau</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la jang. cusku lu .i mi cazi ckire da'i tu'a loi glare cnino bo se 
+zbasu ckafi li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la djiotis. se cinri leka ce'u cizra pe le kumfa poi 
+ri nenri</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
+.ue le vi canko noi jarco tu'a loi tarci cu pe'i jai se xanka
+li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la ranjit. cusku lu .i go'i fa ji'a le re fange noi 
+jarco leka le mebri po'e ce'u cu rufsu li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i pa fange poi simsa lo sonci cu jai cfari fai lenu 
+lanli le terdi pendo kei gi'e cusku lo'u .uxrup .ua. doglau. latl.
+tcak val tca. le'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la ranjit. kucli ledu'u le fange cu tavla bau ma kau</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i le ka tu'a ce'u se kucli cu se jundi le drata fange 
+noi cusku zoi gy. Greetings people of the planet ... um... Saturn?
+gy.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la jang. cusku lu .i tu'a le fange na drani so'a da li'u</foreignphrase></para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="exercise"><title>Exercise 5</title>
+
+<para>Translate into Lojban. Use <foreignphrase
+lang="art-lojban">ce'u</foreignphrase> in quality abstractions. Use <foreignphrase
+lang="art-lojban">jai</foreignphrase> instead of <foreignphrase
+lang="art-lojban">tu'a</foreignphrase> wherever possible.
+
+<orderedlist>
+
+<listitem><para>Susan says <quote>Excuse me, but I think you are uncertain 
+about where you are &mdash; which is Earth.</quote></para></listitem>
+
+<listitem><para>The alien says <quote>You are correct.</quote></para></listitem>
+
+<listitem><para><quote>We are, uh, merely testing you for terrestial 
+intelligence.</quote></para></listitem>
+
+<listitem><para>Jyoti says <quote>You could have done that and not have
+interrupted our dancing.</quote></para></listitem>
+
+<listitem><para>Ranjeet says <quote>And also, if you knew that we are 
+terrestial people and intelligent, then you also knew that we are 
+terrestial intelligences.</quote> (Use forethought connectives.)</para></listitem>
+
+<listitem><para>The alien says <quote>Are you the radio 
+transmitter?</quote></para></listitem>
+
+<listitem><para>Ranjeet says <quote>I am one of the radio transmitters.</quote></para></listitem>
+
+<listitem><para><quote>But <foreignphrase
+lang="art-lojban">mi po'onai cradi</foreignphrase> is more logically 
+correct.</quote></para></listitem>
+
+<listitem><para>The alien frowns, says <quote>You are allowed to 
+leave</quote>, and un-removes the friends from the dance 
+hall.</para></listitem>
+
+<listitem><para>The alien says <quote><foreignphrase lang="art-klingon">xu&stress;m&akl;n 
+&stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase></quote>, which is 
+translated as <quote>Human logic. Yuck.</quote></para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+
+</sect1>
+
+<sect1 id="less15answers"><title>Answers to exercises</title>
+
+<simplesect role="excanswer"><title>Exercise 1</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">mi djica lenu mi djuno 
+ledu'u do ba tavla mi ca ma kau</foreignphrase> (You can place the <foreignphrase 
+lang="art-lojban">ca ma kau</foreignphrase> anywhere after <foreignphrase 
+lang="art-lojban">ledu'u</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi na djuno ledu'u do na 
+ba tavla mi mu'i ma kau</foreignphrase> (Same goes for <foreignphrase 
+lang="art-lojban">mu'i ma kau</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi ba'o cusku lesedu'u mi 
+pu jinvi ledu'u ma kau bebna</foreignphrase> (Yes, Lojban can get prolix...)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ko cusku lesedu'u le 
+birje cu zvati ma kau</foreignphrase> or <foreignphrase 
+lang="art-lojban">ko cusku lesedu'u birje vi ma kau</foreignphrase> (... 
+except, perhaps, where it matters most! The observative in the second 
+version actually works: <quote>Beer! Tell me where?!</quote>)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">do pu cusku lesedu'u mi 
+bilga lenu mi dunda le cukta ma kau</foreignphrase> <emphasis>or</emphasis> (if you want to risk 
+the attitudinal) <foreignphrase lang="art-lojban">do pu cusku 
+lesedu'u mi .ei dunda le cukta ma kau</foreignphrase></para></listitem>
+
+<listitem><para>OK, this doesn't have to be that close (let alone rhyme), 
+and in fact the English is closer to a direct than an indirect question, 
+but this is something like <foreignphrase 
+lang="art-lojban">ko cusku fi mi fe lesedu'u pei kau do sepli gi'e na 
+djuno le farna gi'e simsa lo gunro rokci</foreignphrase>. Told you this was 
+kind of a trick question...</para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 2</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">ka ce'u ckire</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la arnold. 
+cvartseneger.</foreignphrase> (or <foreignphrase lang="art-lojban">la'o 
+gy. Arnold Schwarzenegger gy.</foreignphrase>, if you prefer.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ka ce'u mamta</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ka mamta ce'u</foreignphrase> or <foreignphrase lang="art-lojban">ka 
+ce'u se mamta</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ka ce'u po'u mi simsa la
+arnold. cvartseneger.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ka xanka vi 
+ce'u</foreignphrase>. A little contrived, we admit.</para></listitem>
+
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 3</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase
+lang="art-lojban">mi troci tu'a le cidjrkari</foreignphrase> (What you 
+actually try is to eat it &mdash; or, on occasion, to keep it down.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">mi djica tu'a le cidjrkari</foreignphrase>
+(This usually comes as a shock to people learning Lojban, but you can't actually want 
+objects, only events. The event you usually want is to be in possession of 
+the object, in some way or other.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">mi nelci le cidjrkari</foreignphrase>
+(The <foreignphrase
+lang="art-lojban">gismu</foreignphrase> list explicitly allows <foreignphrase
+lang="art-lojban">nelci</foreignphrase> to involve both objects and 
+events; so you don't need <foreignphrase
+lang="art-lojban">tu'a</foreignphrase> here. This makes <foreignphrase
+lang="art-lojban">nelci</foreignphrase> quite different to <foreignphrase
+lang="art-lojban">djica</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">lenu mi cliva cu snuti</foreignphrase> (No surprise 
+there; <quote role="gloss">leaving</quote> corresponds to an abstraction.)
+</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">leka ckire cu fanza mi</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">tu'a le cidjrkari cu fanza mi</foreignphrase> (Unlike 
+gratitude, curry is certainly not an abstraction.)</para></listitem>
+
+<listitem><para><foreignphrase
+lang="art-lojban">le fanza cu cfari</foreignphrase>
+(Yes, you read correctly. To fit the x1 of <foreignphrase
+lang="art-lojban">cfari</foreignphrase>, a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> doesn't actually have to 
+<emphasis>look like</emphasis> an abstraction; it just has to 
+<emphasis>mean</emphasis> an abstraction. Anything that can be described 
+as <foreignphrase
+lang="art-lojban">le fanza</foreignphrase> is going to be an abstraction, 
+because of the place structure of <foreignphrase
+lang="art-lojban">fanza</foreignphrase>. So since the x1 of <foreignphrase
+lang="art-lojban">fanza</foreignphrase> is a state or event, and the x1 of <foreignphrase
+lang="art-lojban">cfari</foreignphrase> is also a state or event, they can 
+both be describing the same thing &mdash; without needing to strain abstractions 
+out of one or the other using <foreignphrase
+lang="art-lojban">tu'a</foreignphrase>.)</para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 4</title>
+
+<para><orderedlist>
+
+<listitem><para>The four friends do not know where they are, or why they 
+are there. (You can ask more than one question in a sentence in Lojban, 
+direct or indirect.)</para></listitem>
+
+<listitem><para>Zhang says <quote>Right now, I would be grateful for a hot, 
+freshly-brewed coffee.</quote> (You are grateful in Lojban for events 
+rather than objects, so fully expanded, <foreignphrase
+lang="art-lojban">.i la jang. ckire da'i <emphasis>lenu kakne lenu 
+pinxe</emphasis> loi glare cnino bo se 
+zbasu ckafi</foreignphrase>.)</para></listitem>
+
+<listitem><para>Jyoti is interested in the wierdness of the room she is in.
+(<foreignphrase lang="art-lojban">pe</foreignphrase> is another way of 
+associating abstractions with specific objects. Note that <foreignphrase
+lang="art-lojban">pe</foreignphrase> follows a <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, so the current <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, <foreignphrase
+lang="art-lojban">leka ce'u cizra</foreignphrase>, is assumed to have been 
+terminated. A fate we hope will not befall our intrepid heroes...)</para></listitem>
+
+<listitem><para>Susan says <quote>Wow! This window, which shows the stars, 
+is in my opinion something to be anxious about.</quote> (<foreignphrase
+lang="art-lojban">se xanka</foreignphrase> describes an event that 
+provokes anxiety, so <foreignphrase
+lang="art-lojban">jai se xanka</foreignphrase> describes a 
+<emphasis>thing</emphasis> involved in the event that provokes anxiety. 
+Strictly speaking, Susan is probably misusing <foreignphrase
+lang="art-lojban">jarco</foreignphrase>...)</para></listitem>
+
+<listitem><para>Ranjeet says <quote>So are the two aliens, who show that
+their foreheads are rough</quote> or <quote>who exhibit roughness in their
+foreheads.</quote> (... Ranjeet, of course, cannot help but be correct in
+his usage of <foreignphrase lang="art-lojban">jarco</foreignphrase>.)</para></listitem>
+
+<listitem><para>One alien who is like a soldier starts analysing the 
+Earthling friends, and says <quote><foreignphrase lang="art-klingon">&stress;&glottal;uxrup w&akl;&glottal; 
+&stress;&dkl;o&gkl;l&akl;w&glottal; l&akl;&tlh; t&shkl;&akl;q v&akl;l 
+t&shkl;&akl;&glottal;</foreignphrase></quote> (A lot of you may have guessed the language the alien is 
+speaking. You are correct, and let's leave it at that, shall we?)</para></listitem>
+
+<listitem><para>Ranjeet is curious about what language the aliens are 
+speaking in. (No, I haven't clued him in...)</para></listitem>
+
+<listitem><para>Being an object of curiosity is something noticed by the other 
+alien, who says (in English) <quote>Greetings people of the planet ... um... 
+Saturn?</quote></para></listitem>
+
+<listitem><para>Zhang says <quote>Stuff about the aliens is not right in 
+most regards.</quote> (In other words, there are properties 
+involving these aliens that are not correct in most regards; for example, 
+their sense of direction.)</para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 5</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase
+lang="art-lojban">.i la suzyn. cusku lu ta'a do'u pe'i do na birti ledu'u 
+do zvati ma kau po'u la terdi li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i
+le fange cu cusku lu .i do jai drani</foreignphrase> (Not
+<foreignphrase lang="art-lojban">do drani</foreignphrase>, which would mean
+<quote>You, as Susan, are a correct (or perfect) human being</quote>; it is
+only one aspect of Susan, namely what she has just said, which is being
+described here as correct.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i mi'a .y. jai cipra po'o
+leka ce'u terdi pensi kei do li'u</foreignphrase> (You could say
+<foreignphrase lang="art-lojban">.i mi'a .y. jai cipra po'o leka <emphasis>do po'u
+ce'u</emphasis> terdi pensi kei li'u</foreignphrase>, because it's the person with the
+quality being tested that is the test subject. But for practical reasons,
+Lojban hasn't eliminated this particular redundancy, so you might as well
+exploit it.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la djiotis. cusku lu .i
+do nu'i go'i gi'enai jai dicra lenu mi'a dansu li'u</foreignphrase> (In
+Lojban, only events interrupt; latex-foreheaded aliens are <quote
+role="gloss">involved in interrupting</quote>.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i 
+ji'a ganai do pu djuno ledu'u mi'a ge terdi prenu gi pensi gi do djuno 
+ledu'u mi'a terdi pensi li'u</foreignphrase> (No, Ranjeet can never resist 
+a good syllogism.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le fange cu cusku lu .i 
+xu do du le cradi li'u</foreignphrase> (A legitimate use of <foreignphrase 
+lang="art-lojban">du</foreignphrase>, since to the alien <quote 
+role="gloss">The radio transmitter</quote> and <quote 
+role="gloss">You</quote> refer to the same person.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i
+mi me le cradi</foreignphrase> (If you want to emphasise the plurality of
+the transmitters, you could say <foreignphrase lang="art-lojban">.i mi me le 
+su'o re cradi</foreignphrase> <quote>I am one of the two or more radio 
+transmitters</quote>.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i ku'i lu mi po'onai
+cradi li'u cu zmadu fi leka ce'u logji drani li'u</foreignphrase> (Although
+a person saying something correct is not eligible to be the x1 place of
+<foreignphrase lang="art-lojban">drani</foreignphrase>, the correct thing
+that they say <emphasis>is</emphasis> eligible: <foreignphrase lang="art-lojban">drani</foreignphrase> is
+not by definition restricted to abstractions.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le fange cu furmu gi'e
+cusku lu do jai se curmi fai lenu cliva li'u gi'e to'e vimcu le pendo le
+dansydi'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i le fange cu cusku zoi
+gy. </foreignphrase><foreignphrase lang="art-klingon">xu&stress;m&akl;n &stress;m&ekl;q&length;oq. &stress;w&ekl;d&zhkl;pux</foreignphrase> <foreignphrase lang="art-lojban">
+gy. noi se fanva fi lu .i remna logji .a'unai li'u</foreignphrase> (or, in
+Lojban phonetic approximation, <foreignphrase lang="art-lojban">lo'u xuman.
+mekok. uedjpux. le'u</foreignphrase>.)</para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+</sect1>
+
+</chapter>

@@ -14,7 +14,8 @@ two types of connective: logical and non-logical. Logical connectives say
 something about whether and in what circumstances the two things connected
 are true; an example is <foreignphrase
 lang="art-lojban">.ije</foreignphrase>. Non-logical connectives do not deal
-with truth values, but are a kind of attitudinal; an example is
+with separate truth values, but group things together to form different 
+kinds of units; an example is
 <foreignphrase lang="art-lojban">joi</foreignphrase>, which we've already
 seen in passing, and we'll be discussing again below.</para>
 
@@ -23,7 +24,7 @@ connectives, and their attitudinal content. For example, most languages
 have different words for <wordasword>and</wordasword> and
 <wordasword>but</wordasword>. Logically, they both mean the same thing. In
 terms of attitude, howeverm they are different:
-<wordasword>but</wordasword> contains a connotation of unexpectedness that
+<wordasword>but</wordasword> contains a connotation of unexpectedness which
 <wordasword>and</wordasword> does not. So Lojban translates
 <wordasword>but</wordasword> in two parts: <wordasword>.e ku'i</wordasword>
 <quote role="gloss">and &mdash; however</quote>. This follows the Lojban
@@ -164,14 +165,14 @@ lang="art-lojban">.anai</foreignphrase>.</para></listitem>
 </itemizedlist>
 </para>
 
-<note><para>There is not a little controversy in the Lojban community about
+<tip><para>There is not a little controversy in the Lojban community about
 whether natural language <wordasword>if</wordasword> is best expressed as a
 logical connective (IF, IFF), or as a <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase>. There are a couple of
 strikes against IF. One is that its logical analysis, NOT A OR B, isn't
 terribly obvious. Another is that IFF is often what is meant, rather than
-IF. Yet another is that <wordasword>if</wordasword> is strongly tied up
-with notions of causality, preconditions, or deduction &mdash; none of
+IF. Yet another is that natural language <wordasword>if</wordasword> is strongly tied up
+with notions of causality, precondition, or deduction &mdash; none of
 which is particularly emphasised by IF as a strictly logical connective.
 For that reason, you will see many Lojbanists avoiding IF, and instead
 using <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> like
@@ -181,7 +182,7 @@ lang="art-lojban">seja'e</foreignphrase> <quote role="gloss">results from
 ... happening</quote>, <foreignphrase lang="art-lojban">fau</foreignphrase>
 <quote role="gloss">in the event of...</quote>, or <foreignphrase
 lang="art-lojban">ni'i</foreignphrase> <quote role="gloss">logically cause
-by...</quote> </para></note>
+by...</quote> </para></tip>
 
 </sect1>
 
@@ -371,14 +372,18 @@ that.
 
 <listitem><para>I like fish and chips.</para></listitem>
 
-<listitem><para>Request (= order) the lemon juice or the orange juice.</para></listitem>
+<listitem><para>Request (= order) the lemon juice or the orange juice. 
+(Hint: Build expressions for <quote role="gloss">lemon</quote> and <quote 
+role="gloss">orange</quote> (the fruit) as <foreignphrase
+lang="art-lojban">tanru</foreignphrase>.)</para></listitem>
 
 <listitem><para>I want the beer, whether or not I want the curry. (Hint: 
-this is a single <foreignphrase
+This is a single <foreignphrase
 lang="art-lojban">bridi</foreignphrase>, <quote role="gloss">want</quote>!)</para></listitem>
 
 <listitem><para>If I go from Boston to Washington, I'll go all the way to 
-Atlanta. (Hint: ditto.)</para></listitem>
+Atlanta. (Hint: This too involves a single <foreignphrase
+lang="art-lojban">bridi</foreignphrase>.)</para></listitem>
 
 </orderedlist>
 
@@ -393,7 +398,7 @@ lang="art-lojban">tanru</foreignphrase></title>
 
 <para><foreignphrase lang="art-lojban">tanru</foreignphrase> have been lurking in
 these lessons since <link linkend="less2">Lesson 2</link> without a proper
-explanation, so before discussing connectives in <foreignphrase
+explanation; so before discussing connectives in <foreignphrase
 lang="art-lojban">tanru</foreignphrase>, it's worth looking at how <foreignphrase
 lang="art-lojban">tanru</foreignphrase> normally work. </para>
 
@@ -418,20 +423,21 @@ tedious.</para></note>
 [there is a] red [type-of] book
 </literallayout></informalexample>
 
-The first element of the <foreignphrase lang="art-lojban">tanru</foreignphrase>
-modifies or restricts the second element. What happens if there are three
-or more elements, though? Like many other features of Lojban grammar,
-<foreignphrase lang="art-lojban">tanru</foreignphrase> follow a left-grouping
-rule, which means that the element on the far left modifies the next one,
-then those two together modify the next, and so on. For example, in a
-careless moment I once described <citetitle>The Complete
-Lojban Language</citetitle> as <foreignphrase lang="art-lojban">le barda xunre
-cukta</foreignphrase> since it is, indeed, big and red. However,
-<foreignphrase lang="art-lojban">le barda xunre cukta</foreignphrase> does not
-mean this; it means <quote>the {(big type-of red) type-of book}</quote> and
-it is hard to imagine what <quote>big type of red</quote> would mean. There
-are various ways to get out of the left-grouping rule when you need to, but
-the simplest one here is to use a logical connective and say
+The first element of the <foreignphrase
+lang="art-lojban">tanru</foreignphrase> modifies or restricts the second
+element, in some unspecified way. What happens if there are three or more
+elements, though? Like many other features of Lojban grammar,
+<foreignphrase lang="art-lojban">tanru</foreignphrase> follow a
+left-grouping rule, which means that the element on the far left modifies
+the next one, then those two together modify the next, and so on. For
+example, in a careless moment I once described <citetitle>The Complete
+Lojban Language</citetitle> as <foreignphrase lang="art-lojban">le barda
+xunre cukta</foreignphrase> since it is, indeed, big and red. However,
+<foreignphrase lang="art-lojban">le barda xunre cukta</foreignphrase> does
+not mean this; it means <quote>the {(big type-of red) type-of book}</quote>
+and it is hard to imagine what <quote>big type of red</quote> would mean.
+There are various ways to get out of the left-grouping rule when you need
+to, but the simplest one here is to use a logical connective and say
 
 <informalexample><literallayout>
 <foreignphrase lang="art-lojban">le barda je xunre cukta</foreignphrase>
@@ -450,7 +456,7 @@ Susan fancies men who are funny or handsome (or both).
 </literallayout></informalexample>
 </para>
 
-<note><para>Now, this sentence is still true even if Susan also likes men
+<warning><para>This sentence is still true even if Susan also likes men
 who are <emphasis>not</emphasis> funny or handsome. In natural language,
 social conventions means you wouldn't normally say such a sentence in that
 case, because it would be misleading. Lojban is stricter about these
@@ -459,11 +465,11 @@ lang="art-lojban">po'o</foreignphrase> <quote role="gloss">only</quote>
 (see <link linkend="less13">Lesson 13</link>, or use a relative clause:
 <foreignphrase lang="art-lojban">ro nanmu poi se cinynei la suzyn. cu
 xajmni ja melbi</foreignphrase>. We'll stick with the vaguer sentences 
-here, though.</para></note>
+here, though.</para></warning>
 
 <para>Let's say that Susan finds the qualities of humour and good looks
 attractive but incompatible &mdash; she fancies Woody Allen and Steven
-Segal, but thinks a mixture of the two would be just two much. We would
+Seagal, but thinks a mixture of the two would be just too much. We would
 then say
 
 <informalexample><literallayout>
@@ -473,7 +479,7 @@ Susan fancies men who are either funny or handsome (but not both).
 </literallayout></informalexample>
 
 On the other hand, Jyoti is turned on by funny men, and doesn't care about
-their looks at all. Woody Allen would do fine, but Steven Segal wouldn't
+their looks at all. Woody Allen would do fine, but Steven Seagal wouldn't
 stand a chance unless he could tell a few jokes. What we need here is
 
 <informalexample><literallayout>
@@ -489,8 +495,8 @@ lang="art-lojban">.i</foreignphrase>. So if I wanted to say <quote>Either Susan
 fancies funny men, or Susan fancies handsome men</quote>, I 
 need only say
 
-<informalexample><para>.i la suzyn. cinynei ro xajmi nanmu .ijonai la 
-suzyn. cinynei ro melbi nanmu 
+<informalexample><para><foreignphrase lang="art-lojban">.i la suzyn. cinynei ro xajmi nanmu .ijonai la 
+suzyn. cinynei ro melbi nanmu</foreignphrase>
 </para></informalexample>
 
 </para>
@@ -508,26 +514,28 @@ a person who is both my mother and my spouse, which implies that I have a
 the other <quote role="socalled">non-logical</quote> connectives, some of
 which we will see in later lessons) act as both <foreignphrase
 lang="art-lojban">sumti</foreignphrase> connectives and <foreignphrase
-lang="art-lojban">tanru</foreignphrase> connectives. Normally, Lojban grammar is
-such that there is no real ambiguity between the two. However, for reasons
-a little too technical to go into here, if you use <foreignphrase
+lang="art-lojban">tanru</foreignphrase> connectives. Normally, Lojban grammar 
+arranges things so that there is no real ambiguity between the two. 
+However (for reasons
+a little too technical to go into here), if you use <foreignphrase
 lang="art-lojban">joi</foreignphrase> to join two <foreignphrase
 lang="art-lojban">sumti</foreignphrase>, and the first <foreignphrase
 lang="art-lojban">sumti</foreignphrase> is of the normal kind (article +
 <foreignphrase lang="art-lojban">selbri</foreignphrase>), you
 <emphasis>must</emphasis> terminate the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> with <foreignphrase
-lang="art-lojban">ku</foreignphrase>, in order to tell any computers which might
-be listening explicitly that you are joining two <foreignphrase
-lang="art-lojban">sumti</foreignphrase>, and not two <foreignphrase
+lang="art-lojban">ku</foreignphrase>. This is in order to make it explicit 
+for any computers which might
+be listening that you are joining two distinct <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, and not just two <foreignphrase
 lang="art-lojban">gismu</foreignphrase> inside the <foreignphrase lang="art-lojban">sumti
-selbri</foreignphrase>.</para>
+tanru</foreignphrase>.</para>
 
 <para>This means you can say <foreignphrase
 lang="art-lojban">loi jisra joi jdacu</foreignphrase> <quote role="gloss">the 
 juice-and-water-mixture</quote>; but you have to say <foreignphrase
 lang="art-lojban">loi jisra ku joi loi djacu</foreignphrase> <quote role="gloss">the 
-juice and the water, considered together</quote>, <emphasis>not</emphasis> <foreignphrase
+juice and the water, considered together</quote> &mdash; <emphasis>not</emphasis> <foreignphrase
 lang="art-lojban">loi jisra joi loi djacu</foreignphrase>. </para>
 
 </warning>
@@ -589,12 +597,11 @@ lang="art-lojban">mi bilga jenai kakne lenu mi klama le barja</foreignphrase></p
 <sect1 id="less11briditailconn"><title>Connecting <foreignphrase
 lang="art-lojban">bridi</foreignphrase> tails</title>
 
-<para>Many human languages &mdash; English among them &mdash; divide the 
-sentence into two parts: the subject, and the rest. In mainstream 
-linguistic parlance, these get called the noun phrase and the verb 
-phrase.</para>
-
-<para>(We've mostly managed to avoid the kind of grammar talk that might 
+<para>Many human languages &mdash; English among them &mdash; divide the
+sentence into two parts: the subject, and the rest. In mainstream
+linguistic parlance, these get called the <wordasword>noun
+phrase</wordasword> and the <wordasword>verb phrase</wordasword>.
+(We've mostly managed to avoid the kind of grammar talk that might 
 have sent shivers down your spine at school. Don't worry, this won't hurt a bit...)</para>
 
 <para>Now the thing about subjects is, we tend to talk about them a lot. 
@@ -604,12 +611,13 @@ same person did, or was. This means you're keeping the subject constant,
 and changing the rest of the sentence.</para>
 
 <para>This makes for an obvious shortcut: rather than repeat the same
-subject in two sentences, keep things in one sentence, and join together
+subject in two sentences, keep everything in one sentence, with a single 
+subject, and join together the
 two <quote role="socalled">rest-of-the-sentence's</quote>. For example, why
 say <wordasword>Nick went to California. And Nick stayed there for three
 years</wordasword>, when you can join them together as <wordasword>Nick
 went to California, and stayed there for three
-years</wordasword></para>
+years</wordasword>?</para>
 
 <para>Lojban, being spoken by human beings (ostensively), is not immune to 
 this kind of pressure. Strictly speaking, Lojban doesn't have noun phrases 
@@ -621,23 +629,23 @@ lang="art-lojban">sumti</foreignphrase>. The <foreignphrase
 lang="art-lojban">selbri</foreignphrase> with its trailing <foreignphrase
 lang="art-lojban">sumti</foreignphrase> can be considered the <quote 
 role="socalled">tail</quote> of the <foreignphrase
-lang="art-lojban">bridi</foreignphrase>, where the initial <foreignphrase
-lang="art-lojban">sumti</foreignphrase> (if present!) are its <quote 
-role="socalled">head</quote>.
+lang="art-lojban">bridi</foreignphrase> (corresponding to the verb phrase), where the initial <foreignphrase
+lang="art-lojban">sumti</foreignphrase> (if any!) are its <quote 
+role="socalled">head</quote> (corresponding to the noun phrase).
 </para>
 
 <para>Lojban allows you to join <foreignphrase
 lang="art-lojban">bridi</foreignphrase>-tails using a different series of logical
 connectives. <foreignphrase lang="art-lojban">sumti</foreignphrase> connectives
-started with a period (full stop), and <foreignphrase
-lang="art-lojban">tanru</foreignphrase> connectives added a <foreignphrase
+start with a period (full stop), and <foreignphrase
+lang="art-lojban">tanru</foreignphrase> connectives add a <foreignphrase
 lang="art-lojban">j</foreignphrase> in front of them. <foreignphrase
 lang="art-lojban">bridi</foreignphrase>-tail connectives add a <foreignphrase
 lang="art-lojban">gi'</foreignphrase> instead. So the <foreignphrase
 lang="art-lojban">bridi</foreignphrase>-tail connective version of AND is
 <foreignphrase lang="art-lojban">gi'e</foreignphrase>.</para>
 
-<para>What in the world is it good for? Well, quite simply, you can take 
+<para>So what is this good for? Quite simply, you can take 
 sentences like
 
 <informalexample><para>
@@ -652,7 +660,7 @@ and change them into the much more stylish
 stali ri ze'a lo nanca be li ci</foreignphrase>
 </para></informalexample>
 
-or, indeed, the even more stylish (and much less like English)
+&mdash; or, indeed, the even more stylish (and much less like English)
 
 <informalexample><para>
 <foreignphrase lang="art-lojban">.i la nik. la kalifornias. klama gi'e 
@@ -671,7 +679,7 @@ lang="art-lojban">ze'a</foreignphrase> as a tense specifies duration, as a
 <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> it introduces
 the duration of the <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>. So it corresponds precisely to 
-<foreignphrase>for</foreignphrase> in the English.</para></note>
+<foreignphrase>for</foreignphrase> in English.</para></note>
 
 </sect1>
 
@@ -693,10 +701,10 @@ around the ears. That is because natural languages are run not only by
 logic, but also by social conventions. And one of the most important social
 conventions about language (<citetitle>Gricean informativeness</citetitle>,
 for those taking third year linguistics courses) says that, whatever you
-say, you say enough to fully inform your listener about what's going on. If
+say, you should say enough to fully inform your listener about what's going on. If
 I ask <quote>Do you want milk or sugar?</quote>, I need that information in
 order to prepare you a cup of coffee to your liking. Answering me <quote>yes</quote> 
-doesn't go far in allowing me to go ahead and do so.
+doesn't give me much to go on if I want to go ahead and do so.
 </para>
 
 <para>As far as strict logic is concerned, though, <quote>Yes</quote> is
@@ -710,11 +718,11 @@ sugar?</quote> Of course, now it's <quote>No</quote> which is not helpful
 as an answer.)</para>
 
 <para>The same holds for Lojban, of course: <foreignphrase lang="art-lojban">.i xu 
-do djica loi ladru .a loi sakta</foreignphrase> is a yes/no-question, and 
+do djica lenu jmina loi ladru .a loi sakta</foreignphrase> is a yes/no-question, and 
 the only proper answers are <foreignphrase lang="art-lojban">.i go'i</foreignphrase> 
 and <foreignphrase lang="art-lojban">.i na go'i</foreignphrase>.
 What you should actually be asking, if you want to be logically correct, 
-is <quote>Identify which of the following you wish: milk, sugar.</quote></para>
+is <quote>Identify which of the following you want: milk, sugar.</quote></para>
 
 <para>You could say that, but it's not much like Lojban's fill-in-the-slot 
 approach. Instead, Lojban sneakily asks you to fill in a slot you might not 
@@ -724,14 +732,14 @@ slot:
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="art-lojban">.i do djica loi ladru ji loi sakta</foreignphrase>
-You want milk ___ sugar.
+<foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru ji loi sakta</foreignphrase>
+You want to add milk ___ sugar.
 </literallayout>
 </informalexample>
 
 By filling in the slot, you get to pick what you want. If you say
 <foreignphrase lang="art-lojban">.e</foreignphrase>, you are saying the sentence
-<foreignphrase lang="art-lojban">.i do djica loi ladru .e loi
+<foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru .e loi
 sakta</foreignphrase> &mdash; in other words, you want both. If you say
 <foreignphrase lang="art-lojban">.enai</foreignphrase>, you are using the AND NOT
 connective, which negates what follows it: so you are saying <quote>I want
@@ -741,12 +749,12 @@ lang="art-lojban">na.e</foreignphrase>. (You can negate what goes before
 <emphasis>any</emphasis> connective by putting <foreignphrase
 lang="art-lojban">na</foreignphrase> in front of it.) So if you answer
 <foreignphrase lang="art-lojban">na.e</foreignphrase>, you are saying <quote>I
-want not milk, and sugar</quote> (or, as is more usual in English, 
-<quote>not milk, but sugar</quote>) &mdash; which means you are picking only
+want <emphasis>not</emphasis> milk, <emphasis>and</emphasis> sugar</quote> (or, as is more usual in English, 
+<quote>not milk, but sugar</quote>) &mdash; which means that you are picking only
 sugar. You can still be unhelpful with your response (<foreignphrase
 lang="art-lojban">.a</foreignphrase> would leave us right where we started, for
 instance), but at least this way you have a logically consistent way of 
-picking things. 
+picking alternatives presented to you. 
 </para>
 
 <tip><para>Be careful, though: this kind of question doesn't really
@@ -852,7 +860,8 @@ lang="art-lojban">bakni</foreignphrase></term><listitem><para>x1 is
 a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cidjrkabobo</foreignphrase></term><listitem><para>kabob</para></listitem></varlistentry>
+lang="art-lojban">cidjrkabobo</foreignphrase></term><listitem><para>kabob 
+(Another one of those funny-shaped words...)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">djacu</foreignphrase></term><listitem><para>x1 is
@@ -964,7 +973,7 @@ Susan?</quote></para></listitem>
 
 <listitem><para>Susan is surprised, and says <quote>Um... Chicken.</quote></para></listitem>
 
-<listitem><para>Dyoti says <quote>Hope you enjoyed travelling through 
+<listitem><para>Jyoti says <quote>Hope you enjoyed travelling through 
 outer space &mdash; whether or not you met any aliens.</quote> (Use an attitudinal for 
 <quote role="gloss">Hope.</quote>)</para></listitem>
 
@@ -1003,7 +1012,7 @@ if more British people had been involved in the design of Lojban, there
 would be a <foreignphrase lang="art-lojban">gismu</foreignphrase> for
 <quote role="gloss">chips</quote>.)</para>
 
-<para>You're not meant to know yet that the <foreignphrase 
+<para>As it turns out, the <foreignphrase 
 lang="art-lojban">ku</foreignphrase> is obligatory there; see the warning in the 
 section on <foreignphrase
 lang="art-lojban">tanru</foreignphrase> connectives.</para></listitem>
@@ -1018,7 +1027,7 @@ lang="art-lojban">mi djica le birje .u le cidjrkari</foreignphrase>
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">mi klama la .uacintyn .onai la
-.atlantas. la bastn.</foreignphrase> (Yes, this was meant to be tricky...
+.atlantas. la bastn.</foreignphrase> (Yes, this was meant to be tricky.
 In particular, it involves IFF rather than IF, since to get from Boston to
 Atlanta, you would likely go via Washington. So you cannot go to Atlanta
 without going to Washington, and you've just said you won't go to
@@ -1044,7 +1053,8 @@ lang="art-lojban">cmene</foreignphrase>. In other words, <foreignphrase
 lang="art-lojban">la .atlantas.</foreignphrase> is in fact OK, because, if
 it did fall apart, it would fall apart into <foreignphrase
 lang="art-lojban">la .at. la ntas.</foreignphrase> <quote role="gloss">At,
-Ntas</quote> &mdash; and you'd need the pauses for it to really fall apart.
+Ntas</quote> &mdash; and you'd need those pauses for it to really fall apart 
+like that.
 </para></tip>
 
 </para>
@@ -1087,7 +1097,7 @@ implication in English, made explicit in Lojban, is to add <quote>or
 both</quote>.)</para></listitem>
 
 <listitem><para>I should but cannot go to the bar. (Not a typo: <foreignphrase
-lang="art-lojban">enai</foreignphrase> builds a new connective, AND NOT, since 
+lang="art-lojban">.enai</foreignphrase> builds a new connective, AND NOT, since 
 what follows it gets negated.)</para></listitem>
 
 </orderedlist>
@@ -1100,19 +1110,24 @@ what follows it gets negated.)</para></listitem>
 <para>
 <orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">.enai</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.enai</foreignphrase> 
+(Does Ranjeet meet Susan at the bar or the hospital?)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">nagi'e</foreignphrase></para></listitem>
+lang="art-lojban">nagi'e</foreignphrase> (Does Jyoti stay at the bar or go 
+to the restaurant?)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">gi'e</foreignphrase>, because he does both.</para></listitem>
+lang="art-lojban">gi'e</foreignphrase>, because he does both. (Does Zhang 
+study chemistry or like German beer?)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">na.e</foreignphrase> (in all likelihood.)</para></listitem>
+lang="art-lojban">na.e</foreignphrase> &mdash; in all likelihood. (Is Jyoti is 
+a friend of Lee Harvey Oswald's or of Ranjeet's?)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">naju</foreignphrase>. Think about it... 
+lang="art-lojban">naju</foreignphrase>. Think about it... (Does Susan like 
+German or French beer?)
 </para></listitem>
 </orderedlist>
 
@@ -1174,7 +1189,8 @@ li'u</foreignphrase>.)</para></listitem>
 <orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i le sabji cu carna fi la suzyn. gi'e cisma gi'e cusku lu lanme 
+lang="art-lojban">.i le sabji cu carna fi la suzyn. gi'e cisma gi'e cusku lu 
+.i lanme 
 je'i kabni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase

@@ -3,7 +3,7 @@
 <para>This lesson is something of a mixed bag. In it, we cover four topics
 which are fairly important in Lojban, each of which kind of fits somewhere
 else &mdash; but would take us far afield in each of the other lessons.
-Aspects are a special kind of <link linkend="less6">tense</link>; Vocatives
+Aspects are a special kind of <link linkend="less6">tense</link>; vocatives
 are a special kind of <link linkend="less13">attitudinal</link>; loan words
 are a way of introducing new words into Lojban, comparable to <link
 linkend="less8"><foreignphrase
@@ -16,8 +16,8 @@ lang="art-lojban">selbri</foreignphrase></link>.</para>
 
 <para>We've seen that we can locate our <foreignphrase
 lang="art-lojban">bridi</foreignphrase> in space and time, by using tenses. 
-But this is something of a simplification. We can't simply say that events 
-are before, simultaneous, or after other events, because events have 
+But this is something of a simplification. We can't just say that events 
+are before, simultaneous with, or after other events, because events have 
 beginnings, middles and ends. They are not simply points that can be lined 
 up on a timeline.
 </para>
@@ -28,7 +28,7 @@ homework?</quote>, <quote>Is he still doing his homework?</quote>, and
 <quote>Has he done his homework yet?</quote> Doing homework is an activity
 that has a beginning, a middle, and an end. So when we pinpoint the time at
 which doing homework happens, we are also pinpointing its beginning, its
-middle, and its end. And so, the first question asks whether the
+middle, and its end. Which means that the first of those questions asks whether the
 time is before the <emphasis>beginning</emphasis> of doing the homework, or
 after it. The second question asks whether or not the time is in the
 <emphasis>middle</emphasis> of doing the homework. And the third question
@@ -43,11 +43,12 @@ space as well as time, although we won't be going into that here.) In many
 languages, aspect is as important as tense, or even more important. In
 Russian, to use the best-known example, you cannot use a verb at all
 without choosing between a stem indicating that something is (or was, or
-will be) still going on (<wordasword>imperfective</wordasword>), and 
+will be) still going on (<wordasword>imperfective</wordasword>), and a
 stem indicating that something is (or was, or will be) completed 
 (<wordasword>perfective</wordasword>). </para>
 
-<para>English isn't like that; yet English has ways of expressing aspect 
+<para>English isn't like that: you can quite often leave off any 
+indication of aspect in your verbs. Yet English has ways of expressing aspect 
 anyway. When we say <quote>I have spoken to the doctor</quote>, we are also 
 indicating that we have now finished doing so &mdash; we are after the end 
 of the event. When we say <quote>I am speaking to the doctor</quote>, on 
@@ -172,19 +173,20 @@ bar.</para></listitem>
 
 </sect1>
 
-<sect1 id="less12moreasp"><title>More Aspects, and Potentialities</title>
+<sect1 id="less12moreasp"><title>More Aspects</title>
 
 <para>The aspects <foreignphrase lang="art-lojban">pu'o</foreignphrase> and
 <foreignphrase lang="art-lojban">ba'o</foreignphrase> describe situations 
-in which the event is still not going on, or no longer going on: if you 
+in which the event is still not going on, or is no longer going on: if you 
 draw a time-line, they are outside of the line corresponding to the event. 
 But beginnings and endings are pretty conspicious, as moments go. So we 
 often want to point out that we are not before the beginning of the event, 
-but at the point when it begins; and not after the end of the event, but at 
+but right at the point when it begins; and not after the end of the event, but 
+right at 
 the point when it ends.
 </para>
 
-<para>To pinpoint your time at the point when the event begins, the aspect
+<para>To pinpoint your time at the instant when the event begins, the aspect
 word you use is <foreignphrase lang="art-lojban">co'a</foreignphrase>. So
 you can say <foreignphrase lang="art-lojban">mi co'a tcidu le
 cukta</foreignphrase> at the moment when you start reading a book. When you
@@ -208,68 +210,6 @@ that makes things more succinct comes in handy.</para>
 <para>There are more aspects in Lojban, though you won't necessarily see 
 them as often in Lojban text; you can find out about them in Chapter 10 of 
 <citetitle>The Complete Lojban Language</citetitle>.  
-</para>
-
-<para>There is another group of <foreignphrase
-lang="art-lojban">cmavo</foreignphrase>, though, worth looking at; they are
-considered a kind of tense in Lojban, though most languages deal with them
-differently. These are the words corresponding to
-<wordasword>could</wordasword> and <wordasword>can</wordasword>. We already 
-know that there is a <foreignphrase 
-lang="art-lojban">gismu</foreignphrase>, <foreignphrase 
-lang="art-lojban">kakne</foreignphrase>, which conveys the idea of <quote 
-role="gloss">can</quote>. But this doesn't clearly distinguish between 
-<quote role="gloss">can</quote> and <quote role="gloss">could</quote>. And 
-introducing <foreignphrase 
-lang="art-lojban">kakne lenu</foreignphrase> makes sentences unnecessarily 
-complex, because it brings with it an extra level of nesting.</para>
-
-<para>So Lojban has <foreignphrase
-lang="art-lojban">selma'o</foreignphrase> CAhA, which contains equivalents
-of <quote role="gloss">can</quote>, treated as tenses (they come after any
-time and aspect words in a sentence.) There are four such words.
-
-<itemizedlist>
-
-<listitem><para><foreignphrase
-lang="art-lojban">ka'e</foreignphrase> is the equivalent of <foreignphrase
-lang="art-lojban">kakne</foreignphrase> and <wordasword>can</wordasword>. 
-It says that the event in the <foreignphrase
-lang="art-lojban">bridi</foreignphrase> <emphasis>can</emphasis> happen; 
-but it doesn't say if it actually has happened.</para></listitem>
-
-<listitem><para><foreignphrase
-lang="art-lojban">nu'o</foreignphrase> says that the event can happen, but 
-hasn't (or at least, hasn't yet.) This is at least one sense of 
-<wordasword>could</wordasword>.</para></listitem>
-
-<listitem><para><foreignphrase
-lang="art-lojban">pu'i</foreignphrase> says that the event can happen, and 
-in fact <emphasis>has</emphasis> happened. This one you won't see as often.</para></listitem>
-
-<listitem><para>Finally, <foreignphrase
-lang="art-lojban">ca'a</foreignphrase> dispenses with all thought of
-potentiality and hypotheticality. There's no <wordasword>can</wordasword>'s
-or <wordasword>could</wordasword>'s about the event: it is actually
-taking place.</para></listitem>
-
-</itemizedlist>
-
-So if for some reason you wish to exclaim <quote>I can eat a worm</quote>, you would normally say <foreignphrase
-lang="art-lojban">mi ka'e citka lo curnu</foreignphrase>. If you are 
-exultantly jumping up and down after giving a practical demonstration that 
-you can, indeed, eat a worm, you can also say <foreignphrase
-lang="art-lojban">mi pu'i citka lo curnu</foreignphrase>. While performing 
-this act of derring-do, you <emphasis>could</emphasis> say <foreignphrase
-lang="art-lojban">mi ca'a citka lo curnu</foreignphrase> &mdash; but it'd 
-be impolite to speak with your mouth full. (Sorry.) Wistfully thinking back on your deeds, 
-though, you could later say <foreignphrase
-lang="art-lojban">mi pu ca'a citka lo curnu</foreignphrase>. In those 
-happy days, finally, when eating worms was just a remote hypothesis, you 
-might have wanted to say <foreignphrase
-lang="art-lojban">mi nu'o citka lo curnu</foreignphrase> &mdash; just to 
-make it clear that you haven't actually gone ahead and done it yet.
-
 </para>
 
 </sect1>
@@ -306,89 +246,113 @@ lang="art-lojban">selma'o</foreignphrase> COI.)</para>
 <para>Natural languages don't distinguish as carefully between these 
 various contexts, expect in fairly artificial contexts: for example, 
 conversations over two-way radio, where it is impossible to talk over each 
-other, or to negotatiate whose turn it is to speak with subtle visual 
+other, or to negotatiate whose turn it is to speak through subtle visual 
 cues. (A less elaborate vocabulary is in place for IRC, its Internet 
 equivalent.) 
-This means that Lojban looks a little like a CB enthusiast's nightmare, 
-because the glosses you see for these vocatives come from this more 
+This means that Lojban vocatives look a little like a CB enthusiast's nightmare, 
+because the glosses you see for them come from this more 
 explicit subset of English. But normal English has these kinds of words as 
 well &mdash; they're just not as clearly distinguished, because context is 
 usually relied on instead.</para>
 
-<para>We've slipped some of these past you already, too. <foreignphrase
+<para>We've slipped some of these past you already, too.
+
+<itemizedlist>
+
+<listitem><para><foreignphrase
 lang="art-lojban">mi'e</foreignphrase> is the word you use to introduce
 yourself: it's the only vocative followed by the speaker's name, rather
 than the addressee's. So <foreignphrase lang="art-lojban">mi'e
 .robin.</foreignphrase> means <quote>I'm Robin</quote> or <quote>This is
-Robin speaking.</quote> <foreignphrase
+Robin speaking.</quote></para></listitem>
+
+<listitem><para><foreignphrase
 lang="art-lojban">coi</foreignphrase> is the greeting word: it corresponds
 to <quote>Hello</quote>, <quote>Good morning</quote>, <quote>Hi</quote>,
-<quote>Wazzup?</quote>, and whatever else happens to be in vogue.
-Conversely, <foreignphrase lang="art-lojban">co'o</foreignphrase> is the
-farewell word, corresponding to <quote>Goodbye</quote>,
-<quote>Farewell</quote>, <quote>Yo later, dude</quote>, and so on.
-Lojbanists signing off on e-mail often end with something like
-<foreignphrase lang="art-lojban">co'omi'e .robin.</foreignphrase> &mdash; 
-this is equivalent to putting your name at the end of your email in 
-English as a signature, and translates as <quote>Goodbye; I'm Robin.</quote></para>
+<quote>Wazzup?</quote>, and whatever else happens to be in vogue.</para></listitem>
 
-<para>The other vocatives are not as common. Two words similar to
+<listitem><para>Conversely, <foreignphrase
+lang="art-lojban">co'o</foreignphrase> is the farewell word, corresponding
+to <quote>Goodbye</quote>, <quote>Farewell</quote>, <quote>Yo later,
+dude</quote>, and so on. Lojbanists signing off on e-mail often end with
+something like <foreignphrase lang="art-lojban">co'omi'e
+.robin.</foreignphrase> &mdash; this is equivalent to putting your name at
+the end of your email in English as a signature, and translates as
+<quote>Goodbye; I'm Robin.</quote></para></listitem>
+
+</itemizedlist>
+</para>
+
+<para>The other vocatives are not as common.
+
+<itemizedlist>
+
+<listitem><para>Two words similar to
 <foreignphrase lang="art-lojban">coi</foreignphrase> are <foreignphrase
 lang="art-lojban">ju'i</foreignphrase> <quote role="gloss">Hey!</quote>,
 with which you draw someone's attention, and <foreignphrase
 lang="art-lojban">fi'i</foreignphrase> <quote
 role="gloss">Welcome!</quote>, with which you offer hospitality. (It's what
 you say to a visitor; you wouldn't say it over the phone, for instance,
-unless they're calling from the airport and are on their way over.) </para>
+unless they're calling from the airport and are on their way over.)</para></listitem>
 
-<para><foreignphrase lang="art-lojban">je'e</foreignphrase> corresponds to
+<listitem><para><foreignphrase lang="art-lojban">je'e</foreignphrase> corresponds to
 <quote role="gloss">Roger!</quote> in radio-speak, and <quote
 role="gloss">right</quote> or <quote role="gloss">uh-uh</quote> in normal
 English: it confirms that you've received a message. If you haven't, you
 say <foreignphrase lang="art-lojban">je'enai</foreignphrase> instead (of
 course); in normal English, that would be <quote role="gloss">Beg your
-pardon?</quote> or <quote role="gloss">Huh?</quote>. You can
-explicitly ask for the speaker to repeat whatever they said with
-<foreignphrase lang="art-lojban">ke'o</foreignphrase>.</para>
+pardon?</quote> or <quote role="gloss">Huh?</quote>.</para></listitem>
 
-<para>Similarly, <foreignphrase lang="art-lojban">be'e</foreignphrase>
+<listitem><para>In case you haven't received the message clearly, you can
+explicitly ask for the speaker to repeat whatever they said with
+<foreignphrase lang="art-lojban">ke'o</foreignphrase>.</para></listitem>
+
+<listitem><para>Similarly, <foreignphrase lang="art-lojban">be'e</foreignphrase>
 signals a request to send a message (<quote>Hello? Are you there?</quote>),
 and <foreignphrase lang="art-lojban">re'i</foreignphrase> indicates that
 you are ready to receive a message. (It's what you say when you pick up the
 phone &mdash; which in English also happens to be <quote>Hello?</quote>,
 but in Italian is <foreignphrase lang="ita">Pronto</foreignphrase> <quote
-role="gloss">Ready!</quote>.)</para>
+role="gloss">Ready!</quote>.)</para></listitem>
 
-<para><foreignphrase
+<listitem><para><foreignphrase
 lang="art-lojban">mu'o</foreignphrase> is what you say when you explictly
 make it another speaker's turn to speak: it's the <quote>Over!</quote> of
-radio. When it isn't your turn to speak, but you want to barge in anyway,
+radio.</para></listitem>
+
+<listitem><para>When it isn't your turn to speak, but you want to barge in anyway,
 you can say <foreignphrase lang="art-lojban">ta'a</foreignphrase> &mdash;
 though it probably won't make anyone any happier that you're interrupting.
-</para>
+</para></listitem>
 
-<para><foreignphrase lang="art-lojban">nu'e</foreignphrase> introduces a
+<listitem><para><foreignphrase lang="art-lojban">nu'e</foreignphrase> introduces a
 promise; <foreignphrase lang="art-lojban">pe'u</foreignphrase> introduces a
 request, and so is fairly similar to the attitudinal <foreignphrase
-lang="art-lojban">.e'o</foreignphrase>. <foreignphrase
+lang="art-lojban">.e'o</foreignphrase>.</para></listitem>
+
+<listitem><para><foreignphrase
 lang="art-lojban">vi'o</foreignphrase> acknowledges a request, and promises
 to carry it out: in radio talk this is <quote>Wilco!</quote>, and in normal
 English <quote>OK</quote> or <quote>All right, I will</quote> (or for that
-matter, <quote>Consider it done!</quote>)</para>
+matter, <quote>Consider it done!</quote>)</para></listitem>
 
-<para>You say <quote>Thank you</quote>
+<listitem><para>You say <quote>Thank you</quote>
 with <foreignphrase lang="art-lojban">ki'e</foreignphrase> &mdash; to which
 the appropriate response is <emphasis>not</emphasis> <foreignphrase
 lang="art-lojban">fi'i</foreignphrase> (<quote>You're welcome</quote>
 doesn't mean you're being visited by some guests), but the simple
-acknowledgement <foreignphrase lang="art-lojban">je'e</foreignphrase>.</para>
+acknowledgement <foreignphrase lang="art-lojban">je'e</foreignphrase>.</para></listitem>
 
-<para>Finally, to close communication (radio's <quote>Over and
+<listitem><para>Finally, to close communication (radio's <quote>Over and
 out!</quote>), you can use <foreignphrase
 lang="art-lojban">fe'o</foreignphrase>. (This is what people actually
 <emphasis>should</emphasis> be putting at the end of their e-mails; but
 it's not as well-known a word as <foreignphrase
-lang="art-lojban">co'o</foreignphrase>)</para>
+lang="art-lojban">co'o</foreignphrase>)</para></listitem>
+
+</itemizedlist>
+</para>
 
 <para>Vocatives take names (after an obligatory pause), or <foreignphrase
 lang="art-lojban">sumti</foreignphrase> or <foreignphrase
@@ -461,7 +425,7 @@ culture-specific. In either case, it would be really cumbersome to describe
 it with a combination of <foreignphrase
 lang="art-lojban">gismu</foreignphrase>. (For example, how would you come
 up with a description for <wordasword>brie</wordasword>? Or
-<wordasword>rock 'n' roll</wordasword>? &mdash; which, we should point out,
+<wordasword>rock 'n' roll</wordasword>? &mdash; which, I should point out,
 you would have to keep distinct from <wordasword>rock</wordasword>!)</para>
 
 <para>The problem with borrowing words into Lojban is, Lojban has a quite 
@@ -603,27 +567,28 @@ mensi</foreignphrase> makes the nonsensical claim that Rena
 <emphasis>is</emphasis> my three sisters. (Or should that be
 <wordasword>are</wordasword>?)</para>
 
-<note><para>Can you say <foreignphrase lang="art-lojban">mi du lo
+<tip><para>Can you say <foreignphrase lang="art-lojban">mi du lo
 prenu</foreignphrase>, doing the Lojban equivalent of making an indefinite
 noun <quote role="socalled">equal</quote> a definite noun? After all
 <foreignphrase lang="art-lojban">lo prenu</foreignphrase> applies to many
 more people in the world than just me, so <foreignphrase
 lang="art-lojban">du</foreignphrase> here kind of acts like <quote
-role="gloss">is one of</quote>. The answer is yes you can, because in this
-context they both do refer to the same person. (In strict logical terms,
+role="gloss">is one of</quote>. The answer is, yes you can, because in this
+context they both do refer to the same person. (In strict logical terms:
 there is at least one person such that that person is me.) This is frowned
 upon in Lojban in general, though, because it's miselading: <foreignphrase
 lang="art-lojban">du</foreignphrase> tends to be reserved for mathematical
 equality, and for claiming that two different names (or definite nouns)
 refer to the same thing. If you really wanted to say <foreignphrase
-lang="art-lojban">mi du lo prenu</foreignphrase>, after all, why didn't you
+lang="art-lojban">mi du lo prenu</foreignphrase>, after all, why wouldn't you
 just say <foreignphrase lang="art-lojban">mi
-prenu</foreignphrase>?</para></note>
+prenu</foreignphrase>?</para></tip>
 
 <para>These two means are grammatical Lojban, but they are viewed with some
 distaste, and are usually giveaways that some poor translating from English
 (or another natural language) has been going on. The third mechanism is
-better regarded, though, because it tucks the equality away in a corner.
+better regarded, though, because it tucks the equality away in an 
+inconspicuous corner.
 <foreignphrase lang="art-lojban">po'u</foreignphrase> has the same grammar
 as the <foreignphrase lang="art-lojban">sumti</foreignphrase> modifiers
 like <foreignphrase lang="art-lojban">pe</foreignphrase> and <foreignphrase
@@ -695,7 +660,7 @@ lang="art-lojban">jinvi</foreignphrase>.)</para></listitem>
 <emphasis>is</emphasis> half-German.</para></listitem>
 
 <listitem><para>This blue car which <emphasis>is</emphasis> the one to the 
-right of mine <emphasis>is</emphasis> a Ford. (Use <foreignphrase
+right of mine <emphasis>is</emphasis> a Ford car. (Use <foreignphrase
 lang="art-lojban">le pritu</foreignphrase>.)</para></listitem>
 
 </orderedlist>
@@ -713,8 +678,6 @@ lang="art-lojban">le pritu</foreignphrase>.)</para></listitem>
 
 <listitem><para>Simple aspects (<foreignphrase
 lang="art-lojban">pu'o, ca'o, ba'o; co'a, co'o, mo'u</foreignphrase>)</para></listitem>
-
-<listitem><para>Potentialities (CAhA)</para></listitem>
 
 <listitem><para>Vocatives (DOI, COI)</para></listitem>
 
@@ -803,7 +766,7 @@ more than x2 in property/quantity x3 (ka/ni) by amount/excess x4
 lang="art-lojban">zgikrfanki</foreignphrase></term><listitem><para>This is 
 a <foreignphrase
 lang="art-lojban">fu'ivla</foreignphrase>, and you'll have to work out 
-what it is. Hint: say the word out loud.</para></listitem></varlistentry>
+what it is. Hint: say the word out loud, minus the prefix.</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -825,14 +788,14 @@ lang="art-lojban">.i ca'o bo ri klama le dansydi'u po'u la zgikrfanki jipci</for
 lang="art-lojban">.i la suzyn. cusku lu .i pe'u .djiotis. ko smagau le ve cradi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i mi na ka'e tirna la ranjit. li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i mi co'u tirna la ranjit. li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. cusku lu .i ke'o mi na'e tirna ri'a lenu le 
 ve cradi cu cladu li'u gi'e mo'u smagau</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la ranjit cusku lu .i .u'i ki'e do'u mi co'a pu'i tirna mi li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i la ranjit cusku lu .i .u'i ki'e do'u mi co'a tirna mi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. cusku lu .i .u'u mi ji'a go'i</foreignphrase></para></listitem>
@@ -866,7 +829,7 @@ lang="art-lojban">klama</foreignphrase> and an appropriate aspect.)</para></list
 <listitem><para>Ranjeet says to Jyoti and Susan <quote>Look, you two, I've
 got to go to the bank.</quote></para></listitem>
 
-<listitem><para><quote>I could have brought money, but I was paying too
+<listitem><para><quote>I was going to bring money, but I was paying too
 much attention to my radio transmissions. (Hint: use <foreignphrase
 lang="art-lojban">dukse</foreignphrase> in a <foreignphrase
 lang="art-lojban">tanru</foreignphrase>)</quote></para></listitem>
@@ -935,15 +898,31 @@ spita pu lenu do troci lenu do tavla mi</foreignphrase>
 <para>
 <orderedlist>
 
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase lang="art-lojban">be'e</foreignphrase> 
 (<quote>Will Jyoti receive my message?</quote>, although <foreignphrase 
 lang="art-lojban">ju'i</foreignphrase> could also be used, as someone is 
-trying to draw Jyoti's attention); <foreignphrase lang="art-lojban">re'inai</foreignphrase>
+trying to draw Jyoti's attention.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">re'inai</foreignphrase>
 (Jyoti is <emphasis>not</emphasis> ready to receive any messages.)</para></listitem>
+
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">fi'i</foreignphrase> (the
 English is a classic formula for offering hospitality; it may not always be
-literally meant!); <foreignphrase lang="art-lojban">je'e</foreignphrase>
+literally meant!)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">je'e</foreignphrase>
 (the simplest response is simply to acknowledge what has been said to you;
 <quote>Much obliged!</quote> is doing pretty much the same job as
 <quote>You're welcome!</quote> You <emphasis>could</emphasis> respond with
@@ -951,17 +930,33 @@ literally meant!); <foreignphrase lang="art-lojban">je'e</foreignphrase>
 what I'll do!</quote>; but <foreignphrase
 lang="art-lojban">vi'o</foreignphrase> is a response to an explicit 
 request, and <foreignphrase lang="art-lojban">fi'i</foreignphrase> isn't 
-really a request.)
+really a request.)</para></listitem>
+
+</orderedlist>
+
 </para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">mu'o</foreignphrase> 
 (<quote>Please respond</quote>, which is pretty much the same thing as 
-<quote>It's now your turn to speak</quote>); <foreignphrase 
+<quote>It's now your turn to speak.</quote>)</para></listitem>
+
+<listitem><para><foreignphrase 
 lang="art-lojban">ke'o</foreignphrase> (unless you're sneakily trying to 
 say <quote>No</quote>, which would be more like <foreignphrase 
 lang="art-lojban">vi'onai</foreignphrase> <quote>I refuse to comply with 
-your request.</quote>)
+your request.</quote>)</para></listitem>
+
+</orderedlist>
+
 </para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">pe'u</foreignphrase> 
 (because the primary thing you're doing is making a request; but 
@@ -970,10 +965,16 @@ wasn't expecting, so you could also use <foreignphrase
 lang="art-lojban">ju'i</foreignphrase>, <foreignphrase 
 lang="art-lojban">ta'a</foreignphrase>, <foreignphrase 
 lang="art-lojban">be'e</foreignphrase>, or even <foreignphrase 
-lang="art-lojban">coi</foreignphrase>); <foreignphrase 
+lang="art-lojban">coi</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase 
 lang="art-lojban">vi'o</foreignphrase> (<emphasis>Not</emphasis> <foreignphrase 
 lang="art-lojban">fi'i</foreignphrase>, despite the English wording: you're 
 not offering hospitality, just a chair.)</para></listitem>
+
+</orderedlist>
+
+</para></listitem>
 
 </orderedlist>
 
@@ -984,9 +985,17 @@ not offering hospitality, just a chair.)</para></listitem>
 
 <orderedlist>
 
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase lang="art-lojban">la djiotis. me lo
-ninmu</foreignphrase>. <foreignphrase lang="art-lojban">la djiotis. du lo
-ninmu</foreignphrase> is possible, but frowned on, as discussed. As for the
+ninmu</foreignphrase>.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">la djiotis. du lo
+ninmu</foreignphrase> is possible, but frowned on, as discussed.</para></listitem>
+
+<listitem><para>As for the
 other two alternatives, even if we tucked away the
 <wordasword>is</wordasword>-clause after <foreignphrase
 lang="art-lojban">po'u</foreignphrase> or <foreignphrase
@@ -994,47 +1003,116 @@ lang="art-lojban">no'u</foreignphrase>, we would be left
 with no <foreignphrase lang="art-lojban">selbri</foreignphrase> at
 all.</para></listitem>
 
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase
 lang="art-lojban">la djiotis. .e la suzyn. cu me le re ninmu poi klama fu 
-le karce po la djiotis.</foreignphrase>; <foreignphrase
+le karce po la djiotis.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
 lang="art-lojban">la djiotis. joi la suzyn. du lei re ninmu poi klama fu le 
 karce po la djiotis</foreignphrase> (note the masses! If you'd used <foreignphrase
 lang="art-lojban">.e</foreignphrase>, you would be saying that Jyoti was 
-the two women, and Susan was also the two women!) There are two <foreignphrase
+the two women, and Susan was also the two women!)</para></listitem>
+
+<listitem><para>There are two <foreignphrase
 lang="art-lojban">selbri</foreignphrase> here, but you can't really tuck 
 one away with <foreignphrase
 lang="art-lojban">po'u</foreignphrase> and be left with a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> for the rest of the sentence.</para></listitem>
 
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase lang="art-lojban">la djiotis. .e la suzyn.
-me le ninmu poi la jang. jinvi le du'u ke'a pendo ri</foreignphrase>.
-<foreignphrase lang="art-lojban">la djiotis. .e la suzyn. du le ninmu poi
+me le ninmu poi la jang. jinvi le du'u ke'a pendo ri</foreignphrase>.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">la djiotis. .e la suzyn. du le ninmu poi
 la jang. jinvi le du'u ke'a pendo ri</foreignphrase> is possible but
-frowned on. A version with <foreignphrase
+frowned on.</para></listitem>
+
+<listitem><para>A version with <foreignphrase
 lang="art-lojban">no'u</foreignphrase> is not really possible, because
 there would be no <foreignphrase lang="art-lojban">selbri</foreignphrase>
 left for the main <foreignphrase
 lang="art-lojban">bridi</foreignphrase>.</para></listitem>
 
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase lang="art-lojban">la ranjit. noi me lo pendo
-be la djiotis. cu me lo xadbu dotco</foreignphrase>. Frowned on but 
+be la djiotis. cu me lo xadbu dotco</foreignphrase>.</para></listitem>
+
+<listitem><para>Frowned on but 
 possible: <foreignphrase
 lang="art-lojban">la ranjit. noi du lo pendo
-be la djiotis. cu me lo xadbu dotco</foreignphrase>, <foreignphrase
+be la djiotis. cu me lo xadbu dotco</foreignphrase>.</para></listitem>
+
+<listitem><para>Frowned on but 
+possible: <foreignphrase
 lang="art-lojban">la ranjit. no'u lo pendo
 be la djiotis. cu me lo xadbu dotco</foreignphrase>.</para></listitem>
 
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase
 lang="art-lojban">le vi blanu karce poi me le pritu be le mi karce cu me 
-la ford.</foreignphrase>; <foreignphrase
+la ford. karce</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase
 lang="art-lojban">le vi blanu karce poi du le pritu be le mi karce cu me 
-la ford.</foreignphrase> (The first <wordasword>is</wordasword> does 
+la ford. karce</foreignphrase> (The first <wordasword>is</wordasword> does 
 indeed act as an equality sign: you're describing a car two different 
 ways, to narrow it down. But the brand of a car is a class, so the second 
-<wordasword>is</wordasword> is not an equality sign); <foreignphrase
+<wordasword>is</wordasword> is not an equality sign.)</para></listitem>
+
+<listitem><para><foreignphrase
 lang="art-lojban">le vi blanu karce po'u le pritu be le mi karce cu me 
-la ford.</foreignphrase> (Since you're narrowing down what the car is, you 
+la ford. karce</foreignphrase> (Since you're narrowing down what the car is, you 
 need a restrictive rather than a non-restrictive clause.)</para></listitem>
+
+</orderedlist>
+
+This use of <foreignphrase lang="art-lojban">me</foreignphrase> is pretty
+standard to get a <foreignphrase lang="art-lojban">cmene</foreignphrase>
+into a <foreignphrase lang="art-lojban">tanru</foreignphrase>. There are 
+often times when you will want to use a name to describe a class of 
+things, rather than a unique thing, which in turn means you have to treat a <foreignphrase
+lang="art-lojban">cmene</foreignphrase> like a <foreignphrase
+lang="art-lojban">selbri</foreignphrase>, entering into domains like <foreignphrase
+lang="art-lojban">tanru</foreignphrase>. In fact, as
+an extension of this, Type 1 and 2 <foreignphrase
+lang="art-lojban">fu'ivla</foreignphrase> are merely <foreignphrase
+lang="art-lojban">cmene</foreignphrase> converted with <foreignphrase
+lang="art-lojban">me</foreignphrase> to <foreignphrase
+lang="art-lojban">selbri</foreignphrase>: Type 1 involves the undigested
+<foreignphrase lang="art-lojban">cmene</foreignphrase>, with <foreignphrase
+lang="art-lojban">la'o</foreignphrase>, while Type 2 Lojbanises it, using
+<foreignphrase lang="art-lojban">la</foreignphrase>.
+
+</para></listitem>
 
 </orderedlist>
 
@@ -1052,7 +1130,7 @@ lang="art-lojban">ba'o</foreignphrase> means pretty much the same as <foreignphr
 lang="art-lojban">ba</foreignphrase> here, but emphasises that they had 
 <emphasis>finished</emphasis> eating when they started talking again.)</para></listitem>
 
-<listitem><para>While they did so, they went to the disco [which is] <citetitle>The 
+<listitem><para>While they were doing so, they went to the disco [which is] <citetitle>The 
 Funky Chicken</citetitle> (Aspects can also be used to connect sentences, 
 just like tenses can. <foreignphrase
 lang="art-lojban">.i ca'o bo</foreignphrase> means that the second sentence 
@@ -1063,16 +1141,13 @@ role="gloss">The Funk Chicken</quote> is probably more accurate.)</para></listit
 
 <listitem><para>Susan says <quote>Jyoti, please turn the radio down.</quote></para></listitem>
 
-<listitem><para><quote>I can't hear Ranjeet.</quote> (<foreignphrase
-lang="art-lojban">nu'o</foreignphrase> isn't enough here: it's not that 
-Susan <emphasis>could</emphasis> hear Ranjeet, and hasn't gotten around to it; she isn't able to 
-do it at all.)</para></listitem>
+<listitem><para><quote>I've stopped hearing Ranjeet.</quote></para></listitem>
 
 <listitem><para>Jyoti says <quote>Come again? I didn't hear you because the 
 radio is loud</quote>, and completes turning it down. (i.e. she turns it 
 down to completion &mdash; all the way down.)</para></listitem>
 
-<listitem><para>Ranjeet says <quote>Heheh, thanks! I can (and do) now start hearing 
+<listitem><para>Ranjeet says <quote>Heheh, thanks! I now start hearing 
 myself!</quote> (This is a more pedantic rendering of what in English 
 would be more like <quote>I can hear 
 myself think again</quote>. The <foreignphrase
@@ -1085,10 +1160,7 @@ Ranjeet would be addressing himself: <quote>Thanks, Me!</quote>)</para></listite
 Eurythmics songs, but my own voice more. (or: I like my own voice more 
 than Eurythmics songs.)</quote> 
 (Ranjeet, too clever a Lojbanist for his own good, is playing around with 
-his vocatives. This use of <foreignphrase
-lang="art-lojban">me</foreignphrase> is pretty standard to get a <foreignphrase
-lang="art-lojban">cmene</foreignphrase> into a <foreignphrase
-lang="art-lojban">tanru</foreignphrase>.)</para></listitem>
+his vocatives.)</para></listitem>
 
 <listitem><para>Susan says <quote>I was about to say that.</quote> (The 
 full tense would have been <foreignphrase
@@ -1124,7 +1196,7 @@ banxa</foreignphrase>. Since Ranjeet speaks to Jyoti and Susan as a unit
 appropriate, though <foreignphrase lang="art-lojban">.e</foreignphrase> is 
 strictly speaking correct.) </para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i mi nu'o bevri loi jdini
+<listitem><para><foreignphrase lang="art-lojban">.i mi pu pu'o bevri loi jdini
 gi'e dukse jundi lemi se cradi</foreignphrase> (A more pedantic version
 &mdash; in keeping with Ranjeet's style &mdash; would be: <foreignphrase
 lang="art-lojban">.i ku'i lenu mi jundi le se cradi be mi cu se
@@ -1136,21 +1208,22 @@ ticygau co'u prami do</foreignphrase> (<foreignphrase
 lang="art-lojban">co'u</foreignphrase> is the only really good aspect to
 use; it's somewhat more controversial to think of love as something with a
 natural ending point (<foreignphrase
-lang="art-lojban">mo'u</foreignphrase>), and G&uuml;nter &mdash; who has turned Susan off some
-perfectly acceptable beverages &mdash; had not necessarily reached that
-point, anyway. If you wanted to keep the umlaut, you could also use
-<foreignphrase lang="art-lojban">la'o dy. G&uuml;nter dy.</foreignphrase>,
-or something like that. We presume this is the only G&uuml;nter they know,
-so his nickname isn't being used to distinguish him from other
-G&uuml;nters; hence, <foreignphrase lang="art-lojban">no'u</foreignphrase>
-instead of <foreignphrase
+lang="art-lojban">mo'u</foreignphrase>), and G&uuml;nter &mdash; though he
+has turned Susan off some perfectly acceptable beverages &mdash; had not
+necessarily reached that point, anyway. If you wanted to keep the umlaut,
+you could also use <foreignphrase lang="art-lojban">la'o dy. G&uuml;nter
+dy.</foreignphrase>, or something like that. We presume this is the only
+G&uuml;nter they know, so his nickname isn't being used to distinguish him
+from other G&uuml;nters; hence, <foreignphrase
+lang="art-lojban">no'u</foreignphrase> instead of <foreignphrase
 lang="art-lojban">po'u</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i semu'ibo mi pu jinvi ledu'u do ca'o xebni ro lo dotco 
 li'u</foreignphrase> (or: <foreignphrase
 lang="art-lojban">ro dotco</foreignphrase>, since <foreignphrase
-lang="art-lojban">lo</foreignphrase> is assumed after numbers.)
+lang="art-lojban">lo</foreignphrase> is assumed after numbers. <foreignphrase
+lang="art-lojban">ro da poi dotco</foreignphrase> is also correct.)
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
@@ -1162,7 +1235,7 @@ here, otherwise Susan would be speaking to Ranjeet's eyes: <quote>That's
 right, O eyes of Ranjeet's.</quote>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i vu le ninmu la jang. cladu cusku lu coi pendo li'u la ranjit.</foreignphrase>
+lang="art-lojban">.i vu le ninmu la jang. cladu cusku lu .i coi pendo li'u la ranjit.</foreignphrase>
 (A pure greeting, of course; Zhang is not actually asking Ranjeet how he is 
 doing anything. He might want to know <emphasis>what</emphasis> he doing 
 there; but that's the next chapter of the saga...)</para></listitem>

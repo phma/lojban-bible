@@ -23,11 +23,11 @@ you put the things you talk about in the foreground or the background; how
 you deal with misunderstandings and errors; and how you structure your 
 texts.</para>
 
-<para>A language isn't really a language if it can't deal with things like
+<para>A language isn't really a language if it can't cope with things like
 these &mdash; although typically these kinds of things are not dealt with
 in traditional grammars, but are picked up in usage. If there's one thing
 you'll have noticed about Lojban, of course, it's that it's as explicitly
-specified out as possible. Accordingly, Lojban has a special subsection of
+specified as possible. Accordingly, Lojban has a special subsection of
 its grammar dealing with this kind of thing, rather than leaving it up to
 usage. But, precisely because this kind of thing isn't what logic was
 designed for, the grammar Lojban uses has little to do with <foreignphrase
@@ -77,9 +77,13 @@ lang="art-lojban">ru'e</foreignphrase>. If you want to say you feel it
 strongly, you can add <foreignphrase lang="art-lojban">sai</foreignphrase>.
 And if you want to say you feel it <emphasis>really</emphasis> strongly,
 you add <foreignphrase lang="art-lojban">cai</foreignphrase>. This gives
-you a seven-part scale: <foreignphrase lang="art-lojban">cai
-sai</foreignphrase> (nothing) <foreignphrase lang="art-lojban">ru'e cu'i
-nairu'e nai naisai naicai</foreignphrase>. So for instance, if you want to
+you a seven-part scale:
+
+<informalexample><literallayout>
+<foreignphrase lang="art-lojban">cai &gt; sai &gt;</foreignphrase> (nothing) <foreignphrase lang="art-lojban">&gt; ru'e  &gt; cu'i &gt; nairu'e &gt; nai &gt; naisai &gt; naicai</foreignphrase></literallayout>
+</informalexample>
+
+So for instance, if you want to
 say <quote>Eh. That's cool</quote>, you'd say <foreignphrase
 lang="art-lojban">.a'ucu'i</foreignphrase>. If you want to say <quote>That
 is really gross!</quote>, you'd say <foreignphrase
@@ -115,9 +119,9 @@ lang="art-lojban">cmavo</foreignphrase> in this category you will see
 almost constantly is <foreignphrase lang="art-lojban">zo'o</foreignphrase>.
 It is used just like the smiley-face in e-mail, to indicate that you're
 being humorous when saying something, and it's used for much the same
-reason. In these communication systems, it's difficult to work out whether 
-someone is joking or not &mdash; e-mail because you can't hear the tone of voice 
-that gives things away, Lojban because by ideology the language doesn't 
+reason. In these two communication systems, it's difficult to work out whether 
+someone is joking or not &mdash; in e-mail, because you can't hear the tone of voice 
+that gives things away; in Lojban, because by its ideology the language doesn't 
 want to leave things to natural-language&ndash;based intuition. So hints 
 like this are always welcome, and frequently taken advantage of.</para></note>
 
@@ -219,7 +223,7 @@ Contrapositives</citetitle>, has just won a match. You watch football maybe
 twice a year.</para></listitem>
 
 <listitem><para>You have just been slapped in the face, and you are neither 
-the Buddha nor Christ, or into S&amp;M</para></listitem>
+the Buddha nor Christ, or into S&amp;M, for that matter.</para></listitem>
 
 </orderedlist>
 
@@ -255,11 +259,11 @@ lang="art-lojban">.ei</foreignphrase>, which expresses obligation.
 do cliva</foreignphrase> doesn't necessarily mean <quote>You ought to
 leave.</quote> It's more like <quote>I feel the obligation for you to
 leave</quote>: I can say this if I want you gone while you're making 
-yourself comfortable, but not if you've remembered you've got to be 
+yourself comfortable &mdash; but not if you've remembered you've got to be 
 somewhere else, while I'd want nothing more than for you to stick around.</para>
 
 <note><para>The temptation is strong enough, in fact, that there are a
-couple of ways of going around it. If you add the UI5 <foreignphrase
+couple of ways of getting around it. If you add the UI5 <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> <foreignphrase
 lang="art-lojban">se'i</foreignphrase>, you say that you feel the emotion
 for yourself. If you add <foreignphrase
@@ -371,21 +375,21 @@ Some to watch out for, though, include:
 lang="art-lojban">cmavo</foreignphrase> that will come in handy. <foreignphrase 
 lang="art-lojban">da'i</foreignphrase> means <quote 
 role="gloss">hypothetically</quote>; it points out that what you are saying 
-is possibly a hypothesis, rather than fact. This is how you distinguish 
+is a hypothesis, rather than fact. This is how you distinguish 
 between hypothetical and non-hypothetical kinds of 
 <wordasword>if</wordasword>:
 
 <informalexample>
 <literallayout>
 <foreignphrase lang="art-lojban">.i <emphasis>da'i</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
-If you <emphasis>had</emphasis> gone to the Ricky Martin concert, then you <emphasis>would have</emphasis> heard <citetitle>La Vida Loca</citetitle>
+If you <emphasis>had</emphasis> gone to the Ricky Martin concert, then you <emphasis>would have</emphasis> heard <citetitle>La Vida Loca</citetitle>.
 </literallayout>
 </informalexample>
 
 <informalexample>
 <literallayout>
 <foreignphrase lang="art-lojban">.i <emphasis>da'inai</emphasis> do zvati le nu la rikis.martin. tigni .inaja do tirna la'o sy. La Vida Loca sy.</foreignphrase>
-If you <emphasis>did</emphasis> go to the Ricky Martin concert, then you <emphasis>must have</emphasis> heard <citetitle>La Vida Loca</citetitle>
+If you <emphasis>did</emphasis> go to the Ricky Martin concert, then you <emphasis>must have</emphasis> heard <citetitle>La Vida Loca</citetitle>.
 </literallayout>
 </informalexample>
 
@@ -399,13 +403,14 @@ someone has just said &mdash; whether because you don't get what they were
 referring to, or you don't know the word, or the grammar confused you &mdash; 
 you repeat the word or phrase you didn't get, and add <foreignphrase 
 lang="art-lojban">ki'a</foreignphrase> as a plaintive request for 
-clarification (so it's even better than <wordasword>Huh?</wordasword>):
+clarification (so it's even better than <wordasword>Huh?</wordasword>, 
+because you can identify exactly what made you say <wordasword>Huh?</wordasword>):
 
 <informalexample>
 <literallayout>
 <foreignphrase lang="art-lojban">.i mi puzi te vencu lo matcrflokati
 .i matcrflokati ki'a</foreignphrase>
-<quote>I just bought a <foreignphrase lang="ell">flokati</foreignphrase> [rug]</quote>
+<quote>I just bought a <foreignphrase lang="ell">flokati</foreignphrase> [rug].</quote>
 <quote><foreignphrase lang="ell">Flokati</foreignphrase>? Huh?</quote>
 </literallayout>
 </informalexample>
@@ -453,7 +458,7 @@ this scintillating little anecdote and translate in to Lojban. Like, totally.)
 your grammar, you don't normally bother to correct it (if you even realise
 you made a mistake in the first place.) That's because natural languages 
 are fairly redundant (for this reason!); and we normally rely a lot more 
-on context than what we actually hear, anyway. If we do catch ourselves 
+on context than on what we actually hear, anyway. If we do catch ourselves 
 making an error, we stumble out a correction that will do the trick, 
 without going into details like how many words should be cancelled: again, 
 context is almost always more than adequate. So if I say
@@ -509,8 +514,8 @@ lang="art-lojban">sa</foreignphrase> is a sentence; you know that, because
 the first word after <foreignphrase lang="art-lojban">sa</foreignphrase> is
 the sentence marker, <foreignphrase lang="art-lojban">.i</foreignphrase>.
 So the sentence following <foreignphrase
-lang="art-lojban">sa</foreignphrase> replaces the sentence up to and
-including <foreignphrase lang="art-lojban">sa</foreignphrase>:
+lang="art-lojban">sa</foreignphrase> replaces the current sentence up to
+and including <foreignphrase lang="art-lojban">sa</foreignphrase>:
 <foreignphrase lang="art-lojban">.i mi te benji je cilre loi
 sa</foreignphrase>. Or take:
 
@@ -564,7 +569,7 @@ only be called odds and ends; they each have a specific little job, and don't
 have much in common. <citetitle>The Complete Lojban Language</citetitle>,
 Chapter 19, bemoans the same problem. </para>
 
-<para>To survive in Lojbanistan, you'll need that following:
+<para>To survive in Lojbanistan, though, you'll certainly need the following:
 
 <itemizedlist>
 
@@ -605,7 +610,7 @@ Huh?</quote> at all, but <quote>The word <foreignphrase
 lang="art-lojban">ki'a</foreignphrase>.</quote> To ask
 <quote><foreignphrase lang="art-lojban">ki'a</foreignphrase>? Huh?</quote>,
 you'll have to resort to (wait for it) <foreignphrase lang="art-lojban">zo
-zo ki'a</foreignphrase>.</para></note> </listitem>
+ki'a ki'a</foreignphrase>.</para></note> </listitem>
 
 <listitem><para>Parenthetical remarks can go anywhere UI can &mdash;
 meaning pretty much anywhere in a Lojban sentence. With parentheses, just
@@ -763,10 +768,10 @@ gleki doi pendo sa lenu do kansa re sa'e melbi li'u</foreignphrase></para></list
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit. lu .i .e'epei 
 zo'o do ca'a klama la jipci li'u</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la jang. lu .i audai do 
-denpa lenu viska lenu mi dansu lenu si si la jipci vi la jipci li'u</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i la jang. lu .i .audai do 
+denpa lenu viska lenu mi dansu lenu si si la jipci vi .y. la jipci li'u</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i ranjit. lu ro da pe le 
+<listitem><para><foreignphrase lang="art-lojban">.i ranjit. lu .i ro da pe le 
 dansydi'u co'a krixa zo pe'u vau ba'uru'e li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i jang. lu .i xu .iacu'i
@@ -876,29 +881,58 @@ pleasure.)</para></listitem>
 the only discursive Lojban would tolerate here, as the Eiffel Tower, is, 
 like, totally <emphasis>not</emphasis> 20 miles tall!</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">da'i</foreignphrase>;
-<foreignphrase lang="art-lojban">ju'o</foreignphrase> <quote>that would 
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
+<listitem><para><foreignphrase lang="art-lojban">da'i</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ju'o</foreignphrase> <quote>that would 
 certainly be embarrassing</quote> (or <foreignphrase 
 lang="art-lojban">sa'e</foreignphrase> &mdash; <quote>that would literally 
 be embarrassing.</quote>)</para></listitem>
 
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
+
 <listitem><para><foreignphrase lang="art-lojban">ta'onai</foreignphrase> 
-(<quote>getting back to what I was saying...</quote>);
-<foreignphrase lang="art-lojban">po'o</foreignphrase> (<quote>this is the only 
-relevant thing I'm doing</quote>);
-<foreignphrase lang="art-lojban">ki'a</foreignphrase> (there's a wealth of 
+(<quote>getting back to what I was saying...</quote>)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">po'o</foreignphrase> (<quote>this is the only 
+relevant thing I'm doing.</quote>)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ki'a</foreignphrase> (there's a wealth of 
 attitudinals in this word, but <foreignphrase lang="art-lojban">ki'a</foreignphrase> 
 is really the only relevant discursive.)</para></listitem>
+
+</orderedlist>
+
+</para></listitem>
+
+<listitem><para>
+
+<orderedlist numeration="loweralpha">
 
 <listitem><para><foreignphrase lang="art-lojban">zu'u</foreignphrase>
 (<quote>on the one hand...</quote>; it might not be as elegant as the Classical
 Greek contrast clauses with <foreignphrase lang="grc">men</foreignphrase> and
-<foreignphrase lang="grc">de</foreignphrase>, but that's what it means);
-<foreignphrase lang="art-lojban">zu'unai</foreignphrase>;
-<foreignphrase lang="art-lojban">ji'a</foreignphrase>;
-<foreignphrase lang="art-lojban">sa'e</foreignphrase> (or <foreignphrase 
+<foreignphrase lang="grc">de</foreignphrase>, but that's what it means.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">zu'unai</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ji'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">sa'e</foreignphrase> (or <foreignphrase 
 lang="art-lojban">ba'ucu'i</foreignphrase>: presumably our hapless 
-narrator isn't exaggerating here.)
+narrator isn't exaggerating here.)</para></listitem>
+
+</orderedlist>
+
 </para></listitem>
 
 </orderedlist>
@@ -924,7 +958,7 @@ lang="art-lojban">selbri</foreignphrase> we've seen, while leaving its <foreignp
 lang="art-lojban">sumti</foreignphrase> alone.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu vimcu loi lojbo
-valsi lo jufra cu nandu</foreignphrase></para></listitem>
+valsi lo jufra cu nandu</foreignphrase> (You're telling me!)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i mi .e la ranjit. cu
 zvati le barja ca lenu do zvati le gusta</foreignphrase> (The phrase
@@ -966,7 +1000,7 @@ reciprocal.)</para></listitem>
 <citetitle>Chicken</citetitle> &mdash; sure you can manage it? :-) </quote></para></listitem>
 
 <listitem><para>Zhang: <quote>You're just waiting to see me dance that, 
-er, the <citetitle>Chicken</citetitle> at the 
+er, the <citetitle>Chicken</citetitle> at, uh, the 
 <citetitle>Chicken</citetitle>.</quote> (The empathy attitudinal expresses 
 desire, but it's a desire Zhang is projecting onto others. That's roughly 
 what <wordasword>just</wordasword> is doing in the English: <quote>You must 
@@ -1037,16 +1071,16 @@ lang="art-lojban">la suzyn.</foreignphrase>, since that's who it applies
 to.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. li .uecai do vi zvati gi'e ji'a dasni loi 
-zirpu li'u</foreignphrase> or <foreignphrase
-lang="art-lojban">.i la suzyn. li .uecai do vi zvati .i je ji'a do dasni loi 
+lang="art-lojban">.i la suzyn. lu .uecai do vi zvati gi'e ji'a dasni loi 
+zirpu li'u</foreignphrase> <emphasis>or</emphasis> <foreignphrase
+lang="art-lojban">.i la suzyn. lu .uecai do vi zvati .i je ji'a do dasni loi 
 zirpu li'u</foreignphrase> (You can 
 tone it down to <foreignphrase
 lang="art-lojban">.uesai</foreignphrase>, if you want.)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la jang. lu .i da'i mi djuno ledu'o do vi zvati nagi'a 
-dasni noda zo'o li'u</foreignphrase> or <foreignphrase
+dasni noda zo'o li'u</foreignphrase> <emphasis>or</emphasis> <foreignphrase
 lang="art-lojban">.i la jang. lu .i da'i mi djuno ledu'o do vi zvati .inaja 
 mi dasni noda zo'o li'u</foreignphrase></para></listitem>
 
@@ -1054,7 +1088,8 @@ mi dasni noda zo'o li'u</foreignphrase></para></listitem>
 kulnrgiki po'onai gi'e ji'a fekypre li'u</foreignphrase> 
 (<wordasword>But</wordasword> here doesn't contradict expectation, but 
 corroborates it; so it actually means <quote role="gloss">also</quote>! 
-You could in fact add <wordasword>also</wordasword> in the English 
+You could in fact add <wordasword>also</wordasword> or 
+<wordasword>too</wordasword> in the English 
 sentence. Some languages &mdash; notably German &mdash; have different 
 words for the two types of <wordasword>but</wordasword>: German here would 
 use <foreignphrase lang="deu">sondern</foreignphrase> instead of <foreignphrase 
@@ -1066,7 +1101,7 @@ la'a</foreignphrase> (or <foreignphrase
 lang="art-lojban">lu .i la'a go'i li'u</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">to vuku lo terdi bartu
-pensi co'a klama la terdi toi</foreignphrase> or <foreignphrase
+pensi co'a klama la terdi toi</foreignphrase> <emphasis>or</emphasis> <foreignphrase
 lang="art-lojban">to lo terdi bartu pensi vu co'a klama la
 terdi toi</foreignphrase> (You could optionally put an <foreignphrase
 lang="art-lojban">.i</foreignphrase> after <foreignphrase
