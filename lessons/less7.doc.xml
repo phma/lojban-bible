@@ -482,6 +482,23 @@ lang="art-lojban">lu le munje li'u cu cmalu</foreignphrase>
 lang="art-lojban">le munje na cmalu</foreignphrase>
 The universe is not small</literallayout></informalexample></para>
 
+<tip><para><foreignphrase
+lang="art-lojban">lu</foreignphrase>... <foreignphrase
+lang="art-lojban">li'u</foreignphrase> is intended to quote grammatical pieces of Lojban &mdash; ideally, entire 
+sentences, rather than individual words. For smaller chunks of Lojban, which do not necessary make sense in isolation,
+the proper quotation words are instead <foreignphrase
+lang="art-lojban">lo'u</foreignphrase>... <foreignphrase
+lang="art-lojban">le'u</foreignphrase>, the <quote role="socalled">error quotes</quote>. For example, <foreignphrase
+lang="art-lojban">ro le mi pendo cu klama</foreignphrase> makes sense in Lojban as a sentence, and can be enclosed in
+<foreignphrase
+lang="art-lojban">lu</foreignphrase>... <foreignphrase
+lang="art-lojban">li'u</foreignphrase>. But if you want to say what goes before <foreignphrase
+lang="art-lojban">pendo</foreignphrase> in the sentence, <foreignphrase
+lang="art-lojban">ro le mi</foreignphrase> does not necessarily make that much sense on its own. So you would quote that
+sentence fragment, not as <foreignphrase
+lang="art-lojban">lu ro le mi li'u</foreignphrase>, but as <foreignphrase
+lang="art-lojban">lo'u ro le mi le'u</foreignphrase>.</para></tip>
+
 <simplesect role="exercise"><title>Exercise 3</title>
 
 <para>Translate the following. Continue to assume the same values for <foreignphrase
@@ -580,6 +597,17 @@ lang="art-lojban">du'u</foreignphrase>. </para>
 
 <note><para>The <foreignphrase lang="art-lojban">se</foreignphrase> in <foreignphrase lang="art-lojban">sedu'u</foreignphrase> is what you
 think it is. I'll explain what it's doing there next lesson.</para></note>
+
+<note><para>A jargon word you will occasionally see in talk about Lojban is
+<firstterm>reification</firstterm>. Don't be scared off: this piece of jargon
+actually helps! Reification is Latin for taking something, and turning it into 
+an object, a thing. It's what it turns out both <foreignphrase
+lang="art-lojban">du'u</foreignphrase> and <foreignphrase
+lang="art-lojban">sedu'u</foreignphrase> do. These words take what was an event, an 
+occurrence in the physical world,
+and turns it into a single object, a thing, which you can think, which you
+can discover, or which you can use in logic. (Or, in the case of <foreignphrase
+lang="art-lojban">sedu'u</foreignphrase>, which you can say.)</para></note>
 
 <para>So Lojban has different words for <wordasword>that...</wordasword>,
 depending on what sort of thing is meant.

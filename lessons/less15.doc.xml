@@ -510,11 +510,9 @@ lang="art-lojban">le pulji cu sisku leka ce'u tavla ce'u lenu jemna zerle'a</for
                    
 </para></informalexample></para>
 
-<tip><para>... Almost. The two instances of <foreignphrase 
-lang="art-lojban">ce'u</foreignphrase> don't necessarily refer to different people. 
-If you want to keep
-them straight, you'll have to use subscripts. Which you'll learn about... in some other
-course.</para></tip>
+<tip><para>By default, two different instances <foreignphrase 
+lang="art-lojban">ce'u</foreignphrase> are two distinct entities. So the example given is not saying
+that the police are looking to someone who talked to themselves about the heist!</para></tip>
 
 <para>The main use for multiple instances of <foreignphrase 
 lang="art-lojban">ce'u</foreignphrase> is our old friend <foreignphrase 
@@ -1239,6 +1237,10 @@ pilno la lojban.</foreignphrase>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
+<note><para>Remember the <quote role="socalled">error quote</quote> <foreignphrase
+lang="art-lojban">lo'u</foreignphrase>... <foreignphrase
+lang="art-lojban">le'u</foreignphrase> from <link linkend="less7">Lesson 7</link>.</para></note>
+
 <variablelist>
 
 <varlistentry><term><foreignphrase
@@ -1292,13 +1294,6 @@ of/in structure x<subscript>2</subscript> surrounded by partitions/walls/ceiling
 lang="art-lojban">logji</foreignphrase></term><listitem><para>x<subscript>1</subscript>
 [rules/methods] is a logic for deducing/concluding/inferring/reasoning
 to/about x<subscript>2</subscript> (du'u)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">lo'u</foreignphrase></term><listitem><para>Quotation 
-marks like <foreignphrase
-lang="art-lojban">lu... li'u</foreignphrase>, used when the Lojban text 
-contained in them doesn't make grammatical sense. (Terminator: <foreignphrase
-lang="art-lojban">le'u</foreignphrase>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">mebri</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a/the
