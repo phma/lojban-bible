@@ -2228,11 +2228,14 @@ cu toldapma gi'e cesri'a le zemoi djedi
 
 @c    20:12. Honour thy father and thy mother, that thou mayst be longlived
 @c    upon the land which the Lord thy God will give thee.
-20:12. .i ko salci [?] le do patfu .e ledo mamta mu'i lenu do clatei jivni
-fi'o se xabju le tumla poi la .iaves noi cevni do ku'o cu dundu fi do
+20:12. .i ko sinma le do patfu .e ledo mamta mu'i lenu do ze'u jmive
+vi le tumla poi la .iaves noi cevni do cu dunda fi do
 @c i mi stidu zo sinma peseba'i zo salci 
 @c iji'a lu do ze'u jmive vi le tumla poi la turni noi cevni do cu dunda ke'a fi do li'u
 @c i mi mutce co xebni zo fi'o i zo ku'o poi lidne zo cu na sarcu -- mi'e adam
+
+@c .iji'a zo jivni na valsi .i mi selfi'u pensi bau le rusko
+@c .i zo turni na xelfanva zoi xy. yahweh .xy noi vi se ciska
 
 @c    20:13. Thou shalt not kill.
 20:13. .i ko na zercatra
