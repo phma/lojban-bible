@@ -1,7 +1,22 @@
 # KDE Config File
+[bacru.html]
+URL=bacru.html
+Time=32
 [detri.html]
 URL=detri.html
 Time=32
+[index.html]
+URL=index.html
+Time=32
+[kanro.html]
+URL=kanro.html
+Time=3107695
+[cidja.html]
+URL=cidja.html
+Time=32
+[litru.html]
+URL=litru.html
+Time=12
 [Ftp]
 Login=
 Remote Dir=
@@ -9,5 +24,5 @@ Host=
 [General Options]
 Name=phrasebook
 Base URL=
-Files=detri.html,
-Open Files=/home/phma/lojban/cvs/lojban/phrasebook/index.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,/home/phma/lojban/cvs/lojban/phrasebook/bacru.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,
+Files=litru.html,kanro.html,index.html,cidja.html,bacru.html,detri.html,
+Open Files=/home/phma/lojban/cvs/lojban/phrasebook/bacru.html,/home/phma/lojban/cvs/lojban/phrasebook/kanro.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,/home/phma/lojban/cvs/lojban/phrasebook/index.html,
