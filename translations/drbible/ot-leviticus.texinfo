@@ -1029,9 +1029,12 @@
 @c    The distinction of clean and unclean animals.
 
 @c    11:1. And the Lord spoke to Moses and Aaron, saying:
+11:1. ni'o la .iaves cusku fi la moCES .e la .a'aRON lu
 
 @c    11:2. Say to the children of Israel:  These are the animals which you
 @c    are to eat of all the living things of the earth.
+11:2. ko cusku fi le panzi be la .isra,EL lu da poi xabju be le tumla be'o
+mabru zo'u
 
 @c    Animals which you are to eat, etc. . .The prohibition of so many kinds
 @c    of beasts, birds, and fishes, in the law, was ordered, 1st, to exercise
@@ -1044,6 +1047,8 @@
 
 @c    11:3. Whatsoever hath the hoof divided, and cheweth the cud among the
 @c    beasts, you shall eat.
+11:3. ga ge lo sufti be da cu relselpau gi da xejzalvi lo se toltu'o ginai ko
+citka da
 
 @c    Hoof divided, and cheweth the cud. . .The dividing of the hoof and
 @c    chewing of the cud, signify discretion between good and evil, and
@@ -1055,9 +1060,13 @@
 @c    11:4. But whatsoever cheweth indeed the cud, and hath a hoof, but
 @c    divideth it not, as the camel, and others:  that you shall not eat, but
 @c    shall reckon it among the unclean.
+11:4. .iku'i ganai ge da xejzalvi lo se toltu'o ginai lo sufti be da cu relselpau
+mu'a lo kumte gi do na citka da gi'e da toljinsa ga'a do
 
 @c    11:5. The cherogrillus which cheweth the cud, but divideth not the
 @c    hoof, is unclean.
+11:5. .i ro mabrlxirake cu xejzalvi lo se toltu'o gi'enai relselpau se sufti
+gi'eni'ibo toljinsa ga'a do
 
 @c    The cherogrillus. . .Some suppose it to be the rabbit, others the
 @c    hedgehog.  St. Jerome intimates that it is another kind of animal common
@@ -1068,9 +1077,15 @@
 
 @c    11:6. The hare also:  for that too cheweth the cud, but divideth not the
 @c    hoof.
+11:6. .i ro ractu cu xejzalvi lo se toltu'o gi'enai relselpau se sufti
+gi'eni'ibo toljinsa ga'a do
+
+PIKTCITA. .i ro ractu cu ta'e citka le kalci be vo'a be'o noi pe'a toltu'o
 
 @c    11:7. And the swine, which, though it divideth the hoof, cheweth not
 @c    the cud.
+11:7. .i ro xarju cu relselpau se sufti gi'enai xejzalvi lo se toltu'o
+gi'eni'ibo toljinsa ga'a do
 
 @c    11:8. The flesh of these you shall not eat, nor shall you touch their
 @c    carcasses, because they are unclean to you.
