@@ -284,6 +284,7 @@ cfipu kei ki'u le nu lei barda cipni cu pante le nu na kakne le nu
 vu'irga'e le mebycy.moi kei kei e le nu lei cmalu cu <choked> gi'e ei se
 darxi fo le trixe i ku'i fanmo uo ije le romei cu za'ure'u
 zutse co djine gi'e cpedu fi la smacu fe le nu ca'o cusku
+@c stidi lu se vaxyzu'i li'u mi'e pier
 
 @c      `You promised to tell me your history, you know,' said Alice,
 @c    `and why it is you hate--C and D,' she added in a whisper, half

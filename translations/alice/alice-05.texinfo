@@ -328,13 +328,22 @@ le nu so'iroi selstika ca'o le ze'apu djedi
 @c    time, but never ONE with such a neck as that!  No, no!  You're a
 @c    serpent; and there's no use denying it.  I suppose you'll be
 @c    telling me next that you never tasted an egg!'
+.i lu lisri lakne .ianai sei le tcacpi cu tolsi'arai tonga cusku
+.i mi ze'epu viska so'i cmalu nixli .eku'i nori se cnebu lo simsa
+be ta .i .ienaicai .i do since .ije do nafsku .e'enai .i la'a do
+bazi cusku le sedu'u do ze'epu na vu'izga lo sovda li'u
 
 @c      `I HAVE tasted eggs, certainly,' said Alice, who was a very
 @c    truthful child; `but little girls eat eggs quite as much as
 @c    serpents do, you know.'
+.i lu mi ja'a vu'izga lo sovda sei la .alis. noi mutce jetsku verba
+cu cusku .iku'i za'a lo'e cmalu nixli cu dunli lo'e since le ni citka
+lo sovda li'u
 
 @c      `I don't believe it,' said the Pigeon; `but if they do, why
 @c    then they're a kind of serpent, that's all I can say.'
+.i le tcacpi cu cusku lu .ianai .i seni'ibo lo'e cmalu nixli cu
+since da .i mi ja'o cusku di'u
 
 @c      This was such a new idea to Alice, that she was quite silent
 @c    for a minute or two, which gave the Pigeon the opportunity of
