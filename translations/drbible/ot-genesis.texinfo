@@ -1,5 +1,5 @@
 @c    THE BOOK OF GENESIS
-
+KRASI
 
 
 @c    This book is so called from its treating of the GENERATION, that is, of
@@ -427,8 +427,8 @@ lu ko na citka gi'e na pencu tezu'e do na mrobi'o li'u li'u
 @c    3:5. For God doth know that in what day soever you shall eat thereof,
 @c    your eyes shall be opened:  and you shall be as Gods, knowing good and
 @c    evil.
-3:5. .ini'ibo du'o le cevni ca lenu do'o citka ra kei le kanla be do cu
-<nifqaxu> .ije do simsa le cevni le ka djuno fi le vrude .e lo palci
+3:5. .ini'ibo du'o le cevni ca lenu do'o citka ra kei do kanla sajbi'o
+.ije do simsa le cevni le ka djuno fi le vrude .e lo palci
 
 @c    3:6. And the woman saw that the tree was good to eat, and fair to the
 @c    eyes, and delightful to behold:  and she took of the fruit thereof, and
@@ -440,7 +440,7 @@ dunda fi le speni be vo'a be'o noi kansa ra .i ri citka
 @c    3:7. And the eyes of them both were opened:  and when they perceived
 @c    themselves to be naked, they sewed together fig leaves, and made
 @c    themselves aprons.
-3:7. .i le kanla be rera cu se <tipaqaxena> .i djuno le nu tafcau gi'e fenso
+3:7. .i rera kanla sajbi'o .i djuno le nu tafcau gi'e fenso
 zbasu lo palku lo figre pezli
 
 @c    And the eyes, etc. . .Not that they were blind before, (for the woman
@@ -532,24 +532,33 @@ noi do se lebna fi ke'a .i do marji le pulce .ije do se xruti fi le pulce li'u
 
 @c    3:20. And Adam called the name of his wife Eve:  because she was the
 @c    mother of all the living.
+3:20. .i la .aDAM. cmedu'a zo .xavat. le vo'a speni mu'i lenu mamta ro le jmive
 
 @c    3:21. And the Lord God made for Adam and his wife garments of skins,
 @c    and clothed them.
+3:21. .i la .iaves noi cevni cu zbasu le taxfu lo skapi gi'e dasygau la .aDAM
+.e le speni ty
 
 @c    3:22. And he said:  Behold Adam is become as one of us, knowing good and
 @c    evil:  now therefore lest perhaps he put forth his hand and take also of
 @c    the tree of life, and eat, and live for ever.
+3:22. ni'o la .iaves noi cevni cu cusku lu .ua la .adam co'a simsa pa me mi'a
+lenu djuno fi lo vrude .e lo palci .iseki'ubo .einai jgari le tricu be le kamji'e
+le xance le grute gi'e citka gi'e ze'e jmive
 
 @c    Behold Adam, etc. . .This was spoken by way of reproaching him with his
 @c    pride, in affecting a knowledge that might make him like to God.
 
 @c    3:23. And the Lord God sent him out of the paradise of pleasure, to
 @c    till the earth from which he was taken.
+3:23. .i la .iaves. noi cevni cu klagau .abu fo le purdi bevi la .eden. tezu'e
+lenu gunka le dertu noi marji ke'a
 
 @c    3:24. And he cast out Adam:  and placed before the paradise of pleasure
 @c    Cherubims, and a flaming sword, turning every way, to keep the way of
 @c    the tree of life.
-
+3:24. .i catke le nanmu .i punji lo ridrkruvi .e lo slilu dakyxa'i <lahat> tezu'e
+ganlo le tricu be le kamji'e
 
 
 @c    Genesis Chapter 4
@@ -4336,19 +4345,21 @@ noi do se lebna fi ke'a .i do marji le pulce .ije do se xruti fi le pulce li'u
 @c    accused his brethren to his father of a most wicked crime.
 
 .i la'e di'e citri la .iaKOV. .i la .ioSEF. nanca li paze gi'e lamgidva kansa lei bruna be vo'a
+@c lamgidva: langidva?
 sei .ibu nanla gi'e kansa lei bersa be la bilXAT. .e la zilPAT. vu'o noi speni le patfu be vo'a
 .i .ibu malskicu by. le patfu be by.
 
 @c    37:3. Now Israel loved Joseph above all his sons, because he had him in
 @c    his old age:  and he made him a coat of divers colours.
 
-.i la .iisra,EL. prami la .ioSEF. serai piro loi bersa be vo'a ki'u le nu vo'e bersa co tolcitno 
+.i la .iisra,EL. prami la .ioSEF. serai piro loi bersa be vo'a ki'u le nu vo'e bersa co tolcitno
 gi'e ja'ebo finti seva'u la .ioSEF. fe lo dasri taxfu
 
 @c    37:4. And his brethren seeing that he was loved by his father, more
 @c    than all his sons, hated hem, and could not speak peaceably to him.
 
 .i lei bruna cu jmibi'o le du'u prami fa le patfu be vo'a la .ioSEF. serai piroi loi bruna kei gi'e
+@c serai piroi: I think that should be {pe serai piro}. -phma
 xebni .ibu gi'e tolka'e le nu panpi tavla .ibu
 
 @c    37:5. Now it fell out also that he told his brethren a dream, that he
@@ -4369,8 +4380,11 @@ xebni .ibu gi'e tolka'e le nu panpi tavla .ibu
 @c    arose as it were, and stood, and your sheaves standing about bowed down
 @c    before my sheaf.
 
-.i za'a mi'o bakfu finti ne'i le foldi .ije za'a le mi bakfu cu galbi'u jeji'a sanli 
+.i za'a mi'o bakfu finti ne'i le foldi .ije za'a le mi bakfu cu galbi'u jeji'a sanli
 .i za'a le do bakfu cu sruri le mi bakfu gi'e vresi'a le mi bakfu li'u
+@c {finti} should be {zbasu} - bundles had already been invented.
+@c {le do baktu} should be {lei do baktu}. Each bundle did not surround his bundle -
+@c they all did.
 
 @c    37:8. His brethren answered:  Shalt thou be our king?  or shall we be
 @c    subject to thy dominion?  Therefore this matter of his dreams and words
@@ -4385,6 +4399,7 @@ xebni .ibu gi'e tolka'e le nu panpi tavla .ibu
 
 .i .ibu senva lo drata senva gi'e skicu fi lei bruna be vo'a .i cusku lu ba'anai mi senva
 lo drata senva .i za'a le solri .e le lunra .e papa tarci cu vresi'a mi li'u
+@c .ibu senva lo drata se senva
 
 @c    37:10. And when he had told this to his father, and brethren, his
 @c    father rebuked him and said:  What meaneth this dream that thou hast
@@ -4433,7 +4448,7 @@ cu te preti fi lu do ca'o sisku ma li'u
 @c    37:16. But he answered:  I seek my brethren, tell me where they feed the
 @c    flocks.
 
-.i cusku lu fe lei bruna be mi fa mi sisku .i .e'o ko cusku fi mi fe le se du'u 
+.i cusku lu fe lei bruna be mi fa mi sisku .i .e'o ko cusku fi mi fe le se du'u
 bu'u makau by. lanku'i li'u
 
 @c    37:17. And the man said to him:  They are departed from this place:  for
@@ -4446,7 +4461,7 @@ la doTAN. li'u .i la .ioSEF. cu klama jersi by. gi'e tolcri fi la doTAN.
 @c    37:18. And when they saw him afar off, before he came nigh them, they
 @c    thought to kill him:
 
-.i by. viska .ibu noi darno .i pu le nu .ibu jbikla kei by. malplatu le nu 
+.i by. viska .ibu noi darno .i pu le nu .ibu jbikla kei by. malplatu le nu
 catra .ibu
 
 @c    37:19. And said one to another:  Behold the dreamer cometh.
@@ -4457,14 +4472,14 @@ catra .ibu
 @c    will say:  Some evil beast hath devoured him:  and then it shall appear
 @c    what his dreams avail him:
 
-.i caku .e'u mi'o catra sy. gi'e renro sy. pa le kevna gi'e cusku lu le xlali 
+.i caku .e'u mi'o catra sy. gi'e renro sy. pa le kevna gi'e cusku lu le xlali
 danlu cu citka li'u .i mi'o ba facki le du'u makau jalge lei se senva be sy. li'u
 
 @c    37:21. And Ruben hearing this, endeavoured to deliver him out of their
 @c    hands, and said:
 
-.i la re,uVEN. cu tirna gi'e troci co nurgau ibu fi by. gi'e cusku lu .e'ocai 
-mi'o na catra 
+.i la re,uVEN. cu tirna gi'e troci co nurgau ibu fi by. gi'e cusku lu .e'ocai
+mi'o na catra
 
 @c    37:22. Do not take away his life, nor shed his blood:  but cast him into
 @c    this pit, that is in the wilderness, and keep your hands harmless:  now
@@ -4480,6 +4495,7 @@ nurgau .ibu fi by. gi'e xruklagau .ibu le patfu
 
 .i ca le nu la .ioSEF. mo'u klama lei bruna be .ibu kei by. toldasygau la .ioSEF.
 le ri taxfu no'u le dasri taxfu noi se dasni .ibu
+@c toldasygau: tafyvi'u?
 
 @c    37:24. And cast him into an old pit where there was not water.
 
@@ -4493,6 +4509,9 @@ ne'i ky.
 .i tsebi'o mu'i le nu nanba citka kei gi'e galcta gi'e viska le nu .ua sirji
 girzu be loi prenrxiisma,eli cu jbikla fi la gil,AD. .i lei kumte cu bevri la nyXOT.
 .e la tsyris. .e la lot. .i klama gi'e bevri fi le misrygu'e
+@c la nyXOT .e la tsyris .e la lot: These should be fu'ivla. Otherwise, the reader
+@c may think "I know who Lot was, but who were the other two?" What are they anyway?
+@c "prenrxiicma,eli" is spelled three different ways.
 
 @c    37:26. And Juda said to his brethren:  What will it profit us to kill
 @c    our brother, and conceal his blood?
@@ -4504,7 +4523,7 @@ catra le bruna be mi'o gi'e mipri le nu catra
 @c    hands be not defiled:  for he is our brother and our flesh.  His brethren
 @c    agreed to his words.
 
-.i .e'u mi'o vecnu fi lei prenrxiicma,eli .i .ei mi'o na darxi ki'u le nu 
+.i .e'u mi'o vecnu fi lei prenrxiicma,eli .i .ei mi'o na darxi ki'u le nu
 bruna je tamne li'u .i lei bruna cu sarxe tinbe
 
 @c    37:28. And when the Madianite merchants passed by, they drew him out of
@@ -4519,6 +4538,7 @@ le kevna gi'e vecnu la .ioSEF lei prenrxiiicma,eli lo rijru'u be li reno .i klag
 
 .i la re,uVEN. klama xruzva le kevna .i .uadai la .ioSEF. na nenri le kevna
 .i ry. katna le vo'a taxfu
+@c stidi zo popygau peseba'i zo katna
 
 @c    37:30. And rending his garments he went to his brethren, and said:  The
 @c    boy doth not appear, and whither shall I go?
@@ -4569,6 +4589,7 @@ be la .ioSEF. cu klaku mu'i .ibu
 
 .i lei prenrmidiani cu klagau .ibu le misrygu'e gi'e vecnu fi la potiFAR. no'u
 le nobli pe la par,OX. zi'e noi jukpa fuzme
+@c tabaxim are cooks?
 
 @c    An eunuch. . .This word sometimes signifies a chamberlain, courtier, or
 @c    officer of the king:  and so it is taken in this place.
@@ -4703,7 +4724,7 @@ le nobli pe la par,OX. zi'e noi jukpa fuzme
 
 .i la .ioSEF. gau klama le misrygu'e .i la potiFAR. no'u le nobli pe la par,OX.
 zi'e noi jukpa fuzme zi'e noi misro cu te vecnu .ibu lei prenrxiicma,eli noi
-klaugau .ibu my.
+klagau .ibu my.
 
 @c    39:2. And the Lord was with him, and he was a prosperous man in all
 @c    things:  and he dwelt in his master's house:
@@ -4789,7 +4810,7 @@ le bartu
 @c    me; and when I cried out,
 
 le ninmu cu kixta'a lei selfu xabju be le zdani gi'e cusku lu *re'u* klagau
-le xebro mu'i le nu ckasu mi'a .i klama mi mu'i le nu vreta kansa mi .i mi 
+le xebro mu'i le nu ckasu mi'a .i klama mi mu'i le nu vreta kansa mi .i mi
 krixa lo cladu mutce
 
 @c    39:15. And he heard my voice, he left the garment that I held, and got
@@ -4815,7 +4836,7 @@ ckasu mi
 @c    39:18. And when he heard me cry, he left the garment which I held, and
 @c    fled out.
 
-.i ca le nu mi cladu bacru gi'e kixta'a kei xy. tolcpa le taxfu mi 
+.i ca le nu mi cladu bacru gi'e kixta'a kei xy. tolcpa le taxfu mi
 gi'e bajykla le bartu tu'u
 
 @c    39:19. His master hearing these things, and giving too much credit to
@@ -4833,7 +4854,7 @@ pinfu cu pinfu .i .ibu xabju le pinfu zdani
 @c    39:21. But the Lord was with Joseph, and having mercy upon him gave him
 @c    favour in the sight of the chief keeper of the prison:
 
-.i la turni cu kansa la .ioSEF. gi'e xendo .ibu gi'e pukygau .ibu le 
+.i la turni cu kansa la .ioSEF. gi'e xendo .ibu gi'e pukygau .ibu le
 pinfu zdani fuzme
 
 @c    39:22. Who delivered into his hand all the prisoners that were kept in
