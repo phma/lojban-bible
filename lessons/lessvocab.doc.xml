@@ -86,11 +86,13 @@
 <row><entry><foreignphrase lang="art-lojban">binxo</foreignphrase></entry><entry>become</entry><entry>x1 becomes/changes/converts/transforms into x2 under conditions x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bi'o</foreignphrase></entry><entry>ordered interval</entry><entry>non-logical interval connective: ordered from ... to ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">birje</foreignphrase></entry><entry>beer</entry><entry>x1 is made of/contains/is a amount of beer/ale/brew brewed from x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">birka</foreignphrase></entry><entry>arm</entry><entry>x1 is a/the arm [body-part] of x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">birti</foreignphrase></entry><entry>certain</entry><entry>x1 is certain/sure/positive/convinced that x2 is true</entry></row>
 <row><entry><foreignphrase lang="art-lojban">blabi</foreignphrase></entry><entry>white</entry><entry>x1 is white / very light-coloured</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bo</foreignphrase></entry><entry>short scope link</entry><entry>short scope joiner; joins various constructs with shortest scope and right grouping</entry></row>
 <row><entry><foreignphrase lang="art-lojban">boi</foreignphrase></entry><entry>end number or lerfu</entry><entry>elidable terminator: terminate numeral or letteral string</entry></row>
 <row><entry><foreignphrase lang="art-lojban">botpi</foreignphrase></entry><entry>bottle</entry><entry>x1 is a bottle/jar/urn/flask/closable container for x2, made of material x3 with lid x4</entry></row>
+<row><entry><foreignphrase lang="art-lojban">bridi</foreignphrase></entry><entry>predicate</entry><entry>x1 (text) is a predicate relationship with relation x2 among arguments (sequence/set)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">briju</foreignphrase></entry><entry>office</entry><entry>x1 is an office/bureau/work-place of worker x2 at location x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">budjo</foreignphrase></entry><entry>Buddhist</entry><entry>x1 pertains to the Buddhist culture/religion/ethos in aspect x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">burna</foreignphrase></entry><entry>embarassed</entry><entry>x1 is embarrassed/disconcerted/flustered/ill-at-ease about/under conditions x2 (abstraction)</entry></row>
@@ -139,6 +141,7 @@
 <row><entry><foreignphrase lang="art-lojban">clite</foreignphrase></entry><entry>polite</entry><entry>x1 is polite/courteous/civil in matter x2 according to standard/custom x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cliva</foreignphrase></entry><entry>leave</entry><entry>x1 leaves x2 via route x3 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmalu</foreignphrase></entry><entry>small</entry><entry>x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cmavo</foreignphrase></entry><entry>structure word</entry><entry>x1 is a structure word of grammatical class x2, with meaning/function x3 in usage (language) x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmene</foreignphrase></entry><entry>name</entry><entry>x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3 (person)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmila</foreignphrase></entry><entry>laugh</entry><entry>x1 laughs</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cmima</foreignphrase></entry><entry>member</entry><entry>x1 is a member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst group x2 </entry></row>
@@ -264,6 +267,7 @@
 <row><entry><foreignphrase lang="art-lojban">gi'i</foreignphrase></entry><entry>bridi conn?</entry><entry>logical connective: bridi-tail afterthought connective question</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gi'o</foreignphrase></entry><entry>bridi iff</entry><entry>logical connective: bridi-tail afterthought biconditional/iff/if-and-only-if</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gi'onai</foreignphrase></entry><entry>bridi xor</entry><entry>logical connective: bridi-tail afterthought exclusive or</entry></row>
+<row><entry><foreignphrase lang="art-lojban">gismu</foreignphrase></entry><entry>root word</entry><entry>x1 is a (Lojban) root word expressing relation x2 among argument roles x3, with affix(es)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gi'u</foreignphrase></entry><entry>bridi whether</entry><entry>logical connective: bridi-tail afterthought whether-or-not</entry></row>
 <row><entry><foreignphrase lang="art-lojban">glare</foreignphrase></entry><entry>hot</entry><entry>x1 is hot/[warm] by standard x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gleki</foreignphrase></entry><entry>happy</entry><entry>x1 is happy/gay/merry/glad/gleeful about x2 (event/state)</entry></row>
@@ -408,6 +412,7 @@
 <row><entry><foreignphrase lang="art-lojban">lojbo</foreignphrase></entry><entry>Lojbanic</entry><entry>x1 reflects [Loglandic]/Lojbanic language/culture/nationality/community in aspect x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lo'u</foreignphrase></entry><entry>error quote</entry><entry>start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lu'a</foreignphrase></entry><entry>the individuals of</entry><entry>the members of the set/components of the mass; converts another description type to individuals</entry></row>
+<row><entry><foreignphrase lang="art-lojban">lujvo</foreignphrase></entry><entry>affix compound</entry><entry>x1 (text) is a compound predicate word with meaning x2 and arguments x3 built from metaphor x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lunra</foreignphrase></entry><entry>lunar</entry><entry>x1 is Earth's moon (default); x1 is a major natural satellite/moon of planet x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lu'o</foreignphrase></entry><entry>the mass composed of</entry><entry>the mass composed of; converts another description type to a mass composed of the members</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ly</foreignphrase></entry><entry>l</entry><entry>letteral for l</entry></row>
@@ -532,6 +537,7 @@
 <row><entry><foreignphrase lang="art-lojban">py</foreignphrase></entry><entry>p</entry><entry>letteral for p</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ra</foreignphrase></entry><entry>recent sumti</entry><entry>pro-sumti: a recent sumti before the last one, as determined by back-counting rules</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ractu</foreignphrase></entry><entry>rabbit</entry><entry>x1 is a rabbit/hare/[doe] of species/breed x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">rafsi</foreignphrase></entry><entry>affix</entry><entry>x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties x3, language x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">rarna</foreignphrase></entry><entry>natural</entry><entry>x1 is natural/spontaneous/instinctive, not [consciously] caused by person(s)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">rasyjukpa</foreignphrase></entry><entry>fry</entry><entry>x1 fries x2 (<foreignphrase lang="art-lojban">grasu</foreignphrase> <quote role="gloss">grease</quote> + <foreignphrase lang="art-lojban">jukpa</foreignphrase> <quote role="gloss">cook</quote>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">re</foreignphrase></entry><entry>2</entry><entry>digit/number: 2</entry></row>
@@ -543,6 +549,7 @@
 <row><entry><foreignphrase lang="art-lojban">ri'a</foreignphrase></entry><entry>because of cause</entry><entry>rinka modal, 1st place (phys./mental)             causal because ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">rinka</foreignphrase></entry><entry>cause</entry><entry>x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">rinsa</foreignphrase></entry><entry>greet</entry><entry>x1 (agent) greets/hails/[welcomes/says hello to]/responds to arrival of x2 in manner x3 (action)</entry></row>
+<row><entry><foreignphrase lang="art-lojban">rirni</foreignphrase></entry><entry>parent</entry><entry>x1 is a parent of/raises/rears x2; x1 mentors/acts parental toward child/protege x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ri'u</foreignphrase></entry><entry>on the right of</entry><entry>location tense relation/direction; rightwards/to the right of ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ro</foreignphrase></entry><entry>each</entry><entry>digit/number: each, all</entry></row>
 <row><entry><foreignphrase lang="art-lojban">rokci</foreignphrase></entry><entry>rock</entry><entry>x1 is a quantity of/is made of/contains rock/stone of type/composition x2 from location x3</entry></row>
@@ -570,6 +577,7 @@
 <row><entry><foreignphrase lang="art-lojban">se si'u</foreignphrase></entry><entry>assisting</entry><entry>sidju modal, 2nd place                            assisting ... (in doing/maintaining something)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">se</foreignphrase></entry><entry>2nd conversion</entry><entry>2nd conversion; switch 1st/2nd places</entry></row>
 <row><entry><foreignphrase lang="art-lojban">se'i</foreignphrase></entry><entry>self-oriented</entry><entry>attitudinal modifier: self-oriented &ndash; other-oriented</entry></row>
+<row><entry><foreignphrase lang="art-lojban">selbri</foreignphrase></entry><entry>predicate relation</entry><entry>x2 (text) is a predicate relationship with relation x1 among arguments (sequence/set) (= <foreignphrase lang="art-lojban">se bridi</foreignphrase>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">selpeicku</foreignphrase></entry><entry>manifesto</entry><entry>x1 is a manifesto about topic x2 by author x3 for audience x4 preserved in medium x5 (<foreignphrase lang="art-lojban">pensi</foreignphrase> <quote role="gloss">thought</quote> + <foreignphrase lang="art-lojban">cukta</foreignphrase> <quote role="gloss">book</quote>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">sepli</foreignphrase></entry><entry>apart</entry><entry>x1 is apart/separate from x2, separated by partition/wall/gap/interval/separating medium x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">si</foreignphrase></entry><entry>erase word</entry><entry>erase the last Lojban word, treating non-Lojban text as a single word</entry></row>
@@ -581,6 +589,7 @@
 <row><entry><foreignphrase lang="art-lojban">sisku</foreignphrase></entry><entry>seek</entry><entry>x1 seeks/searches/looks for property x2 among set x3 (complete specification of set)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">sisti</foreignphrase></entry><entry>cease</entry><entry>x1 ceases/stops/halts activity/process/state x2 [not necessarily completing it] </entry></row>
 <row><entry><foreignphrase lang="art-lojban">skapi</foreignphrase></entry><entry>pelt</entry><entry>x1 is a pelt/skin/hide/leather from x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">skicu</foreignphrase></entry><entry>describe</entry><entry>x1 tells about/describes x2 (object/event/state) to audience x3 with description x4 (property)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">skori</foreignphrase></entry><entry>cord</entry><entry>x1 is cord/cable/rope/line/twine/cordage/woven strands of material x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">slabu</foreignphrase></entry><entry>familiar</entry><entry>x1 is old/familiar/well-known to observer x2 in feature x3 (ka) by standard x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">sluni</foreignphrase></entry><entry>onion</entry><entry>x1 is a quantity of/contains onions/scallions of type/cultivar x2</entry></row>
@@ -608,6 +617,7 @@
 <row><entry><foreignphrase lang="art-lojban">stedu</foreignphrase></entry><entry>head</entry><entry>x1 is a/the head [body-part] of x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">stela</foreignphrase></entry><entry>lock</entry><entry>x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">su'e</foreignphrase></entry><entry>at most</entry><entry>digit/number: at most (all); no more than</entry></row>
+<row><entry><foreignphrase lang="art-lojban">sumti</foreignphrase></entry><entry>argument</entry><entry>x1 is a/the argument of predicate/function x2 filling place x3 (kind/number)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">su'o</foreignphrase></entry><entry>at least</entry><entry>at least some); no less than</entry></row>
 <row><entry><foreignphrase lang="art-lojban">sutra</foreignphrase></entry><entry>fast</entry><entry>x1 is fast/swift/quick/hastes/rapid at doing/being/bringing about x2 (event/state) </entry></row>
 <row><entry><foreignphrase lang="art-lojban">su'u</foreignphrase></entry><entry>unspecified abstract</entry><entry>abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstraction of type x2</entry></row>
@@ -690,6 +700,7 @@
 <row><entry><foreignphrase lang="art-lojban">xalka</foreignphrase></entry><entry>alcohol</entry><entry>x1 is a quantity of/contains/is made of alcohol of type x2 from source/process x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xamgu</foreignphrase></entry><entry>good</entry><entry>x1 is good/beneficial/acceptable for x2 by standard x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xanka</foreignphrase></entry><entry>nervous</entry><entry>x1 is nervous/anxious about x2 (abstraction) under conditions x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">xanto</foreignphrase></entry><entry>elephant</entry><entry>x1 is an elephant of species/breed x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xatra</foreignphrase></entry><entry>letter</entry><entry>x1 is a letter/missive/[note] to intended audience x2 from author/originator x3 with content x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xe</foreignphrase></entry><entry>5th conversion</entry><entry>5th conversion; switch 1st/5th places</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xebni</foreignphrase></entry><entry>hate</entry><entry>x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1</entry></row>
@@ -733,6 +744,7 @@
 <row><entry><foreignphrase lang="art-lojban">zy</foreignphrase></entry><entry>z</entry><entry>letteral for z</entry></row>
 </tbody></tgroup></informaltable>
 </appendix> 
+
 
 
 

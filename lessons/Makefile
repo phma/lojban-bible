@@ -5,12 +5,14 @@ all: rtf paperback tex html
 
 paperback: lessons.index.doc.xml
 	openjade -E 0 -wno-valid -t rtf -o lessons.tmp.rtf -d $(DSSSLLOC)/print/my_docbook.paperback.dsl $(DOCBOOKTOOLS)/xml.dcl lessStart.silencoding.doc.xml
-	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lessons.tmp.rtf > lessons.paperback.rtf
+	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lessons.tmp.rtf > lessons.tmp1.rtf
+	perl $(DOCBOOKTOOLS)/rtfDocBookCleanup.pl < lessons.tmp1.rtf > lessons.paperback.rtf
 	echo "Don't forget to index the text in Word (Ctrl-A, F9 on PC.)"
 
 rtf: lessons.index.doc.xml
 	openjade -E 0 -o lessons.tmp.rtf -t rtf -d $(DSSSLLOC)/print/my_docbook.print.dsl $(DOCBOOKTOOLS)/xml.dcl lessStart.doc.xml
-	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lessons.tmp.rtf > lessons.doc.rtf
+	perl $(DOCBOOKTOOLS)/rtf2rtf.pl < lessons.tmp.rtf > lessons.tmp1.rtf
+	perl $(DOCBOOKTOOLS)/rtfDocBookCleanup.pl < lessons.tmp1.rtf > lessons.doc.rtf
 	echo "Don't forget to index the text in Word (Ctrl-A, F9 on PC.)"
 
 

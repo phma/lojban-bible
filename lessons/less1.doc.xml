@@ -20,7 +20,7 @@ role="strong">a</emphasis>ther</wordasword> (not as in <wordasword>h<emphasis ro
 </varlistentry>
 
 <varlistentry> <term><foreignphrase
-lang="art-lojban">i</foreignphrase></term> <listitem><para>as in (Italian) <wordasword>v<emphasis
+lang="art-lojban">i</foreignphrase></term> <listitem><para>as in <wordasword>mach<emphasis role="bold">i</emphasis>ne</wordasword> or (Italian) <wordasword>v<emphasis
 role="bold">i</emphasis>no</wordasword> (not as in <wordasword>h<emphasis role="bold">i</emphasis>t</wordasword>)</para></listitem> </varlistentry>
 
 <varlistentry> <term><foreignphrase lang="art-lojban">o</foreignphrase></term>
@@ -118,17 +118,13 @@ lang="art-lojban">dj</foreignphrase>.</para>
 normally used in punctuation affect the way Lojban is pronounced.  A full
 stop (period) is a short pause to stop words running into each other. For 
 that reason, it is conventionally placed in front of any word starting 
-with a vowel &mdash; including the vowel letters of the alphabet we have 
-just seen.</para>  
+with a vowel.</para>  
 
 <para>An apostrophe separates two vowels, and is pronounced like an
 <wordasword>h</wordasword>.  For example, <foreignphrase
 lang="art-lojban">ui</foreignphrase> is normally pronounced
 <wordasword>we</wordasword>, but <foreignphrase
-lang="art-lojban">u'i</foreignphrase> is <wordasword>oohee</wordasword>.  The
-apostrophe is regarded as a proper letter in Lojban, and is called
-<foreignphrase lang="art-lojban">.y'y</foreignphrase>.  This should sound like a
-cough.</para>
+lang="art-lojban">u'i</foreignphrase> is <wordasword>oohee</wordasword>. </para>
 
 
 <para>Commas are rare in Lojban, but can be used to stop two vowels
@@ -169,19 +165,24 @@ consonant letters of Lojban, <wordasword>b, c, d, f, g ...</wordasword>,
 are called <foreignphrase lang="art-lojban">by., cy., dy., fy., gy....</foreignphrase> in Lojban (using the full stop as we've just described.)</para>
 
 <para>Vowels <emphasis>would</emphasis> be called <foreignphrase
-lang="art-lojban">ay, ey, iy</foreignphrase>, but that would be rather
+lang="art-lojban">.ay, .ey, .iy</foreignphrase>, but that would be rather
 difficult to pronounce. Instead, they are handled by following the vowel
 sound with the word <foreignphrase lang="art-lojban">bu</foreignphrase>,
 which basically means <quote role="gloss">letter</quote>. So the vowels of
 Lojban are: <foreignphrase lang="art-lojban">.abu, .ebu, .ibu, .obu, .ubu,
 ybu</foreignphrase>. </para>
 
+<para>The
+apostrophe is regarded as a proper letter in Lojban, and is called
+<foreignphrase lang="art-lojban">.y'y</foreignphrase>.  This should sound like a
+cough.</para>
+
 <para>Lojban has ways of refering to most letters you can think of; see
 <citetitle>The Complete Lojban Language</citetitle>, Chapter 17 for
 details. If you have the urge to spell out your name in Lojban and have an
 <wordasword>H</wordasword>, <wordasword>Q</wordasword>, or
 <wordasword>W</wordasword> to deal with, you can use <foreignphrase
-lang="art-lojban">y'ybu</foreignphrase>, <foreignphrase
+lang="art-lojban">.y'ybu</foreignphrase>, <foreignphrase
 lang="art-lojban">kybu</foreignphrase> and <foreignphrase
 lang="art-lojban">vybu</foreignphrase>. So
 <wordasword>Schwarzenegger</wordasword> is spelt in Lojban as:
@@ -194,7 +195,7 @@ Terminator ever did!
 <simplesect role="exercise"><title>Exercise 1</title> <para>Spell your name
 in Lojban (or at least something close enough to it to use the twenty-six
 letters of English we have learned, and the apostrophe.) No peeking at the
-back of the book &mdash; we don't have the answer to this exercise
+back &mdash; we don't have the answer to this exercise
 there!</para> </simplesect> </sect1>
 
 <sect1 id="less1pronounc"><title><quote role="socalled">Correct</quote> pronunciation</title>
@@ -282,7 +283,7 @@ lang="art-lojban">.iu.uinai</foreignphrase> would mean <quote>I am
 unhappily in love.</quote> In this way you can even create words to express
 emotions which your native language doesn't have. </para>
 
-<para>Attitudinal indicators are extremely useful and it is well worth
+<para>Attitudinal indicators are extremely useful, and it is well worth
 making an effort to learn the most common ones. One of the biggest problems
 people have when trying to speak in a foreign language is that, while
 they've learnt how to buy a kilo of olives or ask the way to the post
@@ -444,7 +445,7 @@ lang="art-lojban">roBER.</foreignphrase> . </para>
 <para>To give an idea of how all this works, here are some names of famous
 people in their own language and in Lojban.  </para>
 
-<variablelist termlength="20"> <title>English</title>
+<variablelist termlength="25"> <title>English</title>
 
 <varlistentry><term>Margaret Thatcher</term> <listitem><para><foreignphrase
 lang="art-lojban">magryt.tatcys.</foreignphrase> (no <wordasword>th</wordasword> in Lojban because most

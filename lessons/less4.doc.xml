@@ -58,7 +58,7 @@ lang="art-lojban">ki'o</foreignphrase> also has the advantage that if the
 following digits are all zeroes, we don't need to say them, so 3,000 is
 <foreignphrase lang="art-lojban">ci ki'o</foreignphrase>. You can remember
 <foreignphrase lang="art-lojban">ki'o</foreignphrase> easily if you think
-of <wordasword>kilo</wordasword> &mdash; a thousand. </para>
+of <wordasword>kilo</wordasword> &mdash; a thousand. (The similarity is not coincidental.)</para>
 
 <para>Just as we have a word for a comma, we also have one for a decimal
 point: <foreignphrase lang="art-lojban">pi</foreignphrase>. So 5.3 is <foreignphrase
@@ -67,7 +67,7 @@ lang="art-lojban">pi</foreignphrase> is not always decimal; it's the point for
 whatever number base you're using. But that's a more advanced topic. </para>
 
 <tip><para>Don't get this mixed
-up with the number <wordasword>pi</wordasword>: 3.1415..., which has its 
+up with the number <wordasword>pi</wordasword>: 3.14159..., which has its 
 own word in Lojban: <foreignphrase lang="art-lojban">pai</foreignphrase> &mdash; 
 oddly enough.</para></tip>
 
@@ -153,7 +153,7 @@ have in mind.</emphasis></quote> (That's how <quote>A dog came in.
 sidesteps this problem by using <foreignphrase lang="art-lojban">le
 gerku</foreignphrase> <quote role="gloss">something which I'm going to call
 a dog</quote>. It's up to the audience to put together what the speaker had
-in mind when s/he called it <foreignphrase lang="art-lojban">le
+in mind when they called it <foreignphrase lang="art-lojban">le
 gerku</foreignphrase>, just as it is the audience's job in English to work
 out what dog the speaker had in mind.</para> </note>
 
@@ -168,8 +168,8 @@ clarification on this issue &mdash; or for that matter on the differences
 between <foreignphrase lang="art-lojban">lo</foreignphrase> and
 <foreignphrase lang="art-lojban">le</foreignphrase>). </para>
 
-<para>Let us now consider the English sentence <quote>Three men carried a 
-piano</quote>. This sentence has two potential meanings, as does any 
+<para>Now consider the English sentence <wordasword>Three men carried a 
+piano</wordasword>. This sentence has two potential meanings, as does any 
 sentence involving a plural in English. You could be saying that the sentence holds 
 true for each individual of the group. If the men involved are Andy, 
 Barry, and Chris, you might be saying that Andy carried the piano, and 
@@ -178,7 +178,7 @@ that the sentence holds for the group <emphasis>as a unit</emphasis>: noone
 carried the piano individually, but all three men carried it 
 together.</para>
 
-<para>Natural languages typically leave it to context and plausibility to
+<para>Natural languages typically leave it up to context and plausibility to
 determine which of the two interpretations holds. But Lojban is a logical
 language, and so does not tolerate this confusion! <foreignphrase
 lang="art-lojban">le</foreignphrase> and <foreignphrase
@@ -256,7 +256,7 @@ lang="art-lojban">loi ci lo nanmu cu bevri le pipno</foreignphrase>:
 <quote>The mass of three out of [all] men carries the piano.</quote></para></tip>
 
 <simplesect role="exercise"><title>Exercise 2</title>
-<para>In the following English sentences, are the emphasised nouns individuals (prefixed in Lojban with <foreignphrase lang="art-lojban">le</foreignphrase> or <foreignphrase lang="art-lojban">lo</foreignphrase>) or masses (prefixed in Lojban with <foreignphrase lang="art-lojban">lei</foreignphrase> or <foreignphrase lang="art-lojban">loi</foreignphrase>)?
+<para>In the following English sentences, are the emphasised nouns <emphasis>individuals</emphasis> (prefixed in Lojban with <foreignphrase lang="art-lojban">le</foreignphrase> or <foreignphrase lang="art-lojban">lo</foreignphrase>) or <emphasis>masses</emphasis> (prefixed in Lojban with <foreignphrase lang="art-lojban">lei</foreignphrase> or <foreignphrase lang="art-lojban">loi</foreignphrase>)?
 <orderedlist>
 
 <listitem><para><emphasis>The students</emphasis> listened to the radio.</para></listitem>
@@ -320,9 +320,11 @@ lang="art-lojban">lo</foreignphrase> are <emphasis>not</emphasis> like
 
 <para>But with people in general, rather than a specific group of people I know,
 I would have to say something in the order of
-<foreignphrase lang="art-lojban">vo ki'o nocize ki'o pasovo lo xa ki'o
-cipare ki'o pamubi remna cu nelci la rikis.martin.</foreignphrase> &mdash;
-I would have to give the real counts for all humans, and for all humans who
+
+<informalexample>
+<literallayout><foreignphrase lang="art-lojban">vo ki'o nocize ki'o pasovo ki'o rexare lo xa ki'o cipare ki'o pamubi ki'o nosoci remna cu nelci la rikis.martin.</foreignphrase>
+4,037,194,262 out of the 6,312,158,093 (existing) humans like Ricky Martin</literallayout>
+</informalexample>meaning, I would have to give the real counts for all humans, and for all humans who
 suffer from that particular affliction. Which obviously is not terribly
 practical. (The real counts, I mean, not the affliction. Though on second
 thought...)</para>
@@ -349,7 +351,25 @@ into thirds is not considered acceptable behaviour even for pollsters or
 advertisers. On the other hand, chopping up
 <emphasis>populations</emphasis> into thirds is perfectly acceptable; and
 that's what <foreignphrase lang="art-lojban">loi prenu</foreignphrase>
-is. (A population, I mean, not an acceptable. Though on second thought...)</para> </sect1>
+is. (A population, I mean, not an acceptable. Though on second thought...)</para> 
+
+<para>Here are some more proportions:
+
+<itemizedlist>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">mi tcica pimu lei prenu</foreignphrase>
+I fooled half of the people (treating the people as a mass, or population)</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">mi tcica pafi'ure lei prenu</foreignphrase>
+I fooled one out of two people (which means exactly the same thing)</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">mi tcica pa le re mlatu</foreignphrase>
+I fooled out of of the two cats (treating the cats as individuals)</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">mi djuno vopano lo pacivore gismu</foreignphrase>
+I know 410 out of the 1342 (existing) <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></listitem>
+
+</itemizedlist></para></sect1>
 
 <sect1 id="less4quantities"><title>Quantities</title><para>I've said that
 words like <wordasword>most</wordasword> and <wordasword>many</wordasword>

@@ -6,7 +6,7 @@ Lojban names. <foreignphrase lang="art-lojban">cmene</foreignphrase> always
 label one particular thing. Just as in English, if I say
 <wordasword>Mary</wordasword>, I mean one particular person called Mary at
 a time, no matter how many people there are in the world called Mary; so in
-Lojban, <foreignphrase lang="art-lojban">meiris.</foreignphrase> can only
+Lojban, <foreignphrase lang="art-lojban">meris.</foreignphrase> can only
 refer to one person. This means that <foreignphrase
 lang="art-lojban">cmene</foreignphrase> normally do not stand for classes
 of things (like <wordasword>person</wordasword>,
@@ -32,9 +32,9 @@ building blocks of Lojban vocabulary. <foreignphrase
 lang="art-lojban">gismu</foreignphrase> are easy to recognise, because they
 always have five letters, in the form
 
-<informalexample><literallayout>CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></informalexample>
+<informalexample><literallayout>CVCCV &mdash; e.g. <foreignphrase lang="art-lojban">gismu, dunda, sumti</foreignphrase></literallayout></informalexample>
 or
-<informalexample><literallayout>CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene</foreignphrase>
+<informalexample><literallayout>CCVCV &mdash; e.g. <foreignphrase lang="art-lojban">cmene, bridi, klama</foreignphrase>
 (C=consonant; V=vowel).</literallayout></informalexample></para>
 
 
@@ -216,6 +216,9 @@ buyer x<subscript>3</subscript> for amount/cost/expense x<subscript>4</subscript
 <varlistentry><term><foreignphrase lang="art-lojban">tivni</foreignphrase></term>
 <listitem><para>x<subscript>1</subscript> [broadcaster] televises programming x<subscript>2</subscript> via media/channel
 x<subscript>3</subscript> to television receiver x<subscript>4</subscript> </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase lang="art-lojban">bajra</foreignphrase></term>
+<listitem><para>x<subscript>1</subscript> runs on surface x<subscript>2</subscript> using limbs x<subscript>3</subscript> with gait x<subscript>4</subscript></para></listitem></varlistentry>
 </variablelist>
 
 <variablelist><title>Five places</title>
@@ -233,6 +236,26 @@ audience x<subscript>4</subscript> preserved in medium x<subscript>5</subscript>
 </para></listitem></varlistentry>
 </variablelist>
 
+<para>So for example you can say (trying desperately to match the grammar to what you've been taught so far):
+
+<itemizedlist>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">la mari,as. ninmu</foreignphrase>
+Maria is a woman.</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">la tuitis. vofli la serinus.serinus.kanarias.</foreignphrase>
+Tweety is a bird of species <foreignphrase lang="lat">Serinus serinus canaria</foreignphrase>.</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">la .iulias. pritu la mari,as. la klaudias.</foreignphrase>
+Julia is to the right of Maria, facing Claudia.</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">la pybysys. tivni la niksyn.in.tcainas. la kycy,etys. la telis.</foreignphrase>
+PBS (the American Public Broadcasting Service) televises <citetitle>Nixon in China</citetitle> through KCET (the Los Angeles PBS affiliate) to Telly (a pet name for a particular television) (!).</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">la .iulias. klama la .uacintyn. la losandjeles. la cikagos. la .amtrak.</foreignphrase>
+Julia travels to Washington from Los Angeles via Chicago on Amtrak (the American inter-city train network.)</literallayout></listitem>
+
+</itemizedlist></para>
 </sect1>
 
 <sect1 id="less2detplaces"><title>Determining place structure</title>
@@ -310,12 +333,16 @@ between two or more <foreignphrase lang="art-lojban">cmene</foreignphrase>, so w
 can say things like
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>
-Bill likes Mei Li</literallayout></informalexample>But if we don't know her name, how can we say <quote>Bill likes the
+Bill likes Mei Li</literallayout></informalexample></para>
+
+<para>But <foreignphrase lang="art-lojban">cmene</foreignphrase> get old pretty fast (as the examples
+above must have proven!) Most things and people in world won't have names &mdash; or at least,
+not any names we are aware of. So if we don't know Mei Li's name, how can we say <quote>Bill likes the
 woman</quote>? If we say <foreignphrase lang="art-lojban">la bil. nelci la
 ninmu</foreignphrase>, we mean that Bill likes someone whose name is
 <wordasword>Woman</wordasword>. What we say, in fact, is 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase></literallayout></informalexample>What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? We
-translated it into English as <quote role="gloss">the</quote>, and like
+have translated it into English as <quote role="gloss">the</quote>, and like
 <wordasword>the</wordasword> and <foreignphrase
 lang="art-lojban">la</foreignphrase>, it <emphasis>is</emphasis> an article; but
 <quote role="gloss">the</quote> isn't quite what it means. The best way to
@@ -350,7 +377,7 @@ lang="art-lojban">gismu</foreignphrase> next to each other form a
 compound <foreignphrase lang="art-lojban">selbri</foreignphrase> (or
 <foreignphrase lang="art-lojban">tanru</foreignphrase>), which means that
 <foreignphrase lang="art-lojban">ninmu</foreignphrase> and <foreignphrase
-lang="art-lojban">klama</foreignphrase> get run together &mdash; with the result
+lang="art-lojban">klama</foreignphrase> get run together. The result is that
 that <foreignphrase
 lang="art-lojban">le ninmu klama</foreignphrase> means <quote>The woman-type-of goer</quote> (maybe a female
 traveller). What we say instead, to avoid this, is
@@ -365,7 +392,9 @@ there's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming.</para>
 
 <simplesect role="exercise"><title>Exercise 3</title> <para>Add
 <foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojban
-sentences where necessary, then work out what they mean.  </para>
+sentences where necessary, then work out what they mean. For example, for <foreignphrase lang="art-lojban">le klama ninmu</foreignphrase>
+to make sence as a sentence, you need to add <foreignphrase lang="art-lojban">cu</foreignphrase>:
+<foreignphrase lang="art-lojban">le klama <emphasis>cu</emphasis> ninmu</foreignphrase>.  </para>
 
 <para><orderedlist><listitem><para><foreignphrase lang="art-lojban">la klaudias. dunda le cukta la bil. </foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">le karce sutra</foreignphrase></para></listitem>
@@ -500,7 +529,8 @@ x<subscript>3</subscript></para></listitem></varlistentry>
 Lojban sentences so that no place tags are necessary, and the
 <foreignphrase lang="art-lojban">sumti</foreignphrase> appear in their expected
 places. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where 
-necessary.</para>
+necessary. For example: <foreignphrase lang="art-lojban">fi la .iulias. cu pritu fe le karce</foreignphrase> = 
+<foreignphrase lang="art-lojban">le karce cu pritu zo'e la .iulias.</foreignphrase></para>
 
 <para><orderedlist>
 <listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe la 
@@ -510,6 +540,7 @@ lojban. fi le prenu </foreignphrase></para></listitem>
 glico fa la fits.djerald.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">fi le rokci cu kabri</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fi la lojban. fo la lojban. tavla do</foreignphrase></para></listitem>
 </orderedlist></para>
 
 </simplesect> 
@@ -557,8 +588,7 @@ and so on.  </para>
 <listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">dunda</foreignphrase></term> <listitem><para>
 <foreignphrase lang="art-lojban">gismu</foreignphrase> (give)</para></listitem></varlistentry></variablelist></listitem>
 
-<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">praxas.</foreignphrase></term> <listitem><para>
-<foreignphrase lang="art-lojban">cmene</foreignphrase> (Prague &mdash; <foreignphrase lang="cze">Praha</foreignphrase> in Czech &mdash; the capital of
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">praxas.</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (Prague &mdash; <foreignphrase lang="cze">Praha</foreignphrase> in Czech &mdash; the capital of
 the Czech Republic)</para></listitem></varlistentry></variablelist></listitem>
 
 <listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">mi</foreignphrase></term> <listitem><para>Neither,
@@ -658,7 +688,7 @@ lang="art-lojban">di'e</foreignphrase> means <quote role="gloss">the
 following</quote>) as the Lojban equivalent of <quote>You wrote</quote>.
 (<foreignphrase lang="art-lojban">ciska</foreignphrase> <quote
 role="gloss">write</quote> places more emphasis on the physical act
-of writing). With <foreignphrase lang="art-lojban">tavla</foreignphrase> the
+of writing.) With <foreignphrase lang="art-lojban">tavla</foreignphrase> the
 emphasis is rather more on the social act of talking: you can
 <foreignphrase lang="art-lojban">tavla</foreignphrase> about nothing in
 particular. </para></listitem>
@@ -744,6 +774,10 @@ I sell (it) for a dollar</literallayout></listitem>
 <listitem><literallayout><foreignphrase lang="art-lojban">zo'e cu kabri zo'e le rokci</foreignphrase>
 Something is a cup, containing something, made of stone
 Stone is something cups are made of</literallayout></listitem>
+
+<listitem><literallayout><foreignphrase lang="art-lojban">do tavla zo'e la lojban. la lojban.</foreignphrase>
+You talk to someone about Lojban in Lojban
+You talk about Lojban in Lojban</literallayout></listitem>
 
 </orderedlist></para></simplesect> 
 
