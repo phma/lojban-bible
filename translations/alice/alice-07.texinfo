@@ -5,7 +5,7 @@
                                 zemo'o ckupau
 
 @c *** That means something like Part 7: there's a bookpart
-@  *** It should be either {zemo'o} by itself, or {zemoi ckupau} /xorxes
+@c  *** It should be either {zemo'o} by itself, or {zemoi ckupau} /xorxes
 
 
 
