@@ -86,11 +86,11 @@ i ni'ibo le temci cu mutce banzu ca le nu farlu kei le nu catlu le sruri
 gi'e kucli le du'u makau bazi fasnu i pamai abu troci le nu catlu le
 cnita gi'e facki le du'u abu makau klama i ku'i dukse le ka manku kei
 le nu ka'e viska i remai abu catlu lei mlana be le jintyke'a gi'e facki le
-du'u my culno loi kabri tanxe ku joi loi cukta kajna i abu viska loi
+du'u my culno loi se kajna tanxe ku joi loi cukta kajna i abu viska loi
 cartu ku joi loi pixra vu'o noi dandu loi genxu i abu lebna lo botpi
 pa le kajna ca le nu lampagre i by se tcita lu najnimre tityjdu li'u
 gi'e ku'i u'anaidai kunti i abu na'e djica le nu falcru le botpi kei mu'i le
-nu terpa le nu catra da iseki'ubo abu suksa le nu punji by pa le kabri
+nu terpa le nu catra da iseki'ubo abu suksa le nu punji by pa le se kajna
 tanxe ca le nu abu ty farlu lampagre
 
 @c      `Well!' thought Alice to herself, `after such a fall as this, I
@@ -258,7 +258,7 @@ abu troci le nu co'e le cmalu ke solji ckiku le stela i uisaidai mapti
 
 i la alis kargau le vrogai gi'e facki le du'u vy se jersi lo cmalu
 vorme noi na bramau lo ratcu kevna i abu cidni sanli gi'e catlu le se
-vorme noi traji le ka melbi lei purdi poi ze'e se viska i a'osaidai
+vorme noi traji le ka melbi kei lei purdi poi ze'e se viska i a'osaidai
 abu barkla le manku kumfa gi'e cadzu jbini lei va zdani be loi carmi
 xrula be'o ku joi lei va lenku jinto i ku'i abu na ka'e gregau le
 ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre
@@ -280,7 +280,7 @@ ca'a nalcumki
 @c    of the bottle was a paper label, with the words `DRINK ME'
 @c    beautifully printed on it in large letters.
 
-i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
+i ru'adai na prali fa le nu denpa fi tu'a le cmalu vorme iseki'ubo abu xruti
 le jubme gi'e xadba pacna le nu facki le du'u lo drata ckiku jy cpana 
 kei a do'anai tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
 tai tu'a lo'e darvistci i ca le ca krefu abu facki le du'u cpana jy fa lo
@@ -303,12 +303,12 @@ li'u cu melbi prina ke'a sepi'o loi barda lerfu
 @c    `poison,' it is almost certain to disagree with you, sooner or
 @c    later.
 
-i xamgu fa le nu cusku lu ko mi pinxe li'u i ku'i la alis noi prije
+i o'ocu'i xamgu fa le nu cusku lu ko mi pinxe li'u i ku'i la alis noi prije
 cu na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku
 gi'e facki le du'u xukau da sinxa zo vindu li'u i abu pu tcidu so'o
 melbi ke cmalu lisri be loi verba poi jelca se xrani gi'e se citka
 loi cilce danlu gi'e lifri loi drata tolpluka ki'u le nu na morji
-lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo'e xunre
+lo'e sampu javni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo'e xunre
 glare tunta cu jelca xrani lo'e za'o jgari be ty zi'e no'u mu'a le nu
 va'o lo'e nu condi mutce sraku le degji sepi'o lo dakfu kei dy ta'e
 ciblu cirko i abuboi noroi tolmorji le du'u le nu da dukse le ka pinxe
@@ -324,8 +324,8 @@ lo se botpi be le se tcita be zo vindu cu bazi ja bazu fanza da
 
 i ku'i le vi botpi na se tcita zo vindu iseki'ubo la alis darsi le nu
 vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
-mixre be lo rutrceraso tisna ku joi lo sovykruji ku joi lo grutrxananase 
-kujoi lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne 
+mixre be lo'e rutrceraso tisna ku joi lo'e sovykruji ku joi lo'e bromeli 
+kujoi lo'e seljukpa xukre'u ku joi lo'e satmatne ku joi lo'e glare ke matne 
 jelnanba toi i abu zi mo'u pinxe
 
 @c lo rutrceraso na jbari --ok
@@ -402,8 +402,8 @@ zutse gi'e klaku
 @c    person!'
 
 i lu e'e noda do prali le nu tai klaku sei la alis kinli sezysku i e'u
-ko cazi sisti li'u i abu ta'e sezystidi lo xamgu mutce to ku'i ta'enai
-mapti zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e le nu gasnu le 
+ko cazi sisti li'u i abu ta'e sezystidi lo'e xamgu mutce to ku'i ta'enai
+mapti zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e lo'e nu gasnu le 
 nu le se klaku cu zvati le kanla i abu morji le nu paroi troci le nu darxi
 le abu kerlo kei mu'i le nu abu tcica abu ca lo nu abu fapro abu le nu
 kelcrkroke i le vi cizra verba cu mutce le ka nelci le nu sruma le du'u
