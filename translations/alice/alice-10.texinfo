@@ -417,36 +417,62 @@ ca'a cizra mutce barkla i lu
        gi'e tavla co ckasu brafi'e se cfila
        i ii ku'i ca le nu le xamsi cu banro
        kei le voksa cu binxo lo sance tolkanro
+
 @end format
        
-
 @c      `That's different from what I used to say when I was a child,'
 @c    said the Gryphon.
 
+i lu di'u frica le ta'e se cusku be mi bei ca le nu mi verba sei 
+le cpicinfo cu cusku li'u
+
 @c      `Well, I never heard it before,' said the Mock Turtle; `but it
 @c    sounds uncommon nonsense.'
+
+i lu ju'a mi di'u pu noroi tirna sei le jitfa cakyrespa i ku'i simlu le ka
+nalfadni nonselsmu li'u
 
 @c      Alice said nothing; she had sat down with her face in her
 @c    hands, wondering if anything would EVER happen in a natural way
 @c    again.
 
+i la alis noda cusku gi'e ca'o zutse to le flira cu se sarju le xance toi
+gi'e kucli le du'u xukau ca de ba za'ure'u rarna fasnu 
+
 @c      `I should like to have it explained,' said the Mock Turtle.
+
+i lu mi djica le nu mi te ciksi sei le jitfa cakyrespa li'u
 
 @c      `She can't explain it,' said the Gryphon hastily.  `Go on with
 @c    the next verse.'
 
+i lu ta ka'enai ciksi sei le cpicinfo cu sutra cusku i e'e di'a co'e
+le jersi pempau li'u
+
 @c      `But about his toes?' the Mock Turtle persisted.  `How COULD
 @c    he turn them out with his nose, you know?'
+
+i lu ku'i lei batke xu sei le jitfa cakyrespa cu za'o co'e i ta'i ba'e ma
+pilno le nazbi le nu cnici li'u
 
 @c      `It's the first position in dancing.' Alice said; but was
 @c    dreadfully puzzled by the whole thing, and longed to change the
 @c    subject.
 
+i lu pamoi be lei nundansu stapa sei la alis cusku li'u i ku'i abu mutce
+se cfipu piro le cuntu gi'e djica le nu le selsnu cu cenba
+
 @c      `Go on with the next verse,' the Gryphon repeated impatiently:
 @c    `it begins "I passed by his garden."'
 
+i lu e'e di'a co'e le jersi pempau sei le cpicinfo rere'u naldenpa cusku
+i co'a co'e lu i mi pagre le purdi li'u li'u 
+
 @c      Alice did not dare to disobey, though she felt sure it would
 @c    all come wrong, and she went on in a trembling voice:--
+
+i la alis na darsi le nu na tinbe i abu birti le du'u ba srera barkla
+gi'e di'a desku voksa cusku di'e
 
 @c        `I passed by his garden, and marked, with one eye,
 @c        How the Owl and the Panther were sharing a pie--'
