@@ -1,20 +1,20 @@
-  badri - dri - traurig x1 ist traurig/deprimiert/niedergeschlagen [unglücklich] über x2 (Abstraktion)
-  bajra baj - - laufen x1 läuft/rennt auf Oberfläche x2 mit Gliedmaßen x3 und Gangart x4
-  bakfu bak - - Bündel x1 ist ein Bündel/Päckchen/Klumpen [Form] mit Inhalt x2, zusammengehalten von x3
-  bakni bak - - Rind x1 ist eine Kuh/Rind/Ochse [Bulle/Kalb] [Rindvieh] von Art/Gattung x2
-  bakri - - - Kreide x1 ist eine gewisse Menge/enthält/besteht aus Kreide von Quelle x2 in Form x3
-  baktu - - - Eimer x1 ist ein Eimer/Dose/tiefer, fester Behälter mit breitem Rand mit Inhalt x2, bestehend aus Material x3
-  balji - - - Knolle x1 ist eine Knolle/Zwiebel [Körperteil] von Pflanze/Art x2; [im übertragenen Sinne: gerundet, ausgebeult]
-  balni - - - Balkon x1 ist ein Balkon/Überhang/Sims/Regal von Gebäude/Struktur x2
-  balre - - ba'e Klinge x1 ist eine Klinge von Werkzeug/Waffe x2
-  balvi bav - - Zukunft x1 liegt in der Zukunft von/ist später als/nach x2 in zeitlicher Reihenfolge; x1 ist später; x2 ist früher/ehemalig
-  bancu bac - - ferner x1 übertrifft/übersteigt Grenze x2 mit Bezugspunkt x3 in Eigenschaft/Menge x4 (ka/ni)
-  bandu bad - - verteidigen x1 (Ereignis) verteidigt/schützt x2 (Objekt/Zustand) gegen Bedrohung/Gefahr/Möglichkeit x3 (Ereignis)
-  banfi - - - Amphibie x1 ist eine Amphibie von Art/Gattung x2
-  bangu ban - bau Sprache x1 ist eine/die Sprache/Dialekt, die x2 benutzt, um x3 auszudrücken (si'o/du'u, kein Zitat)
-  banli bal - ba'i großartig x1 ist großartig/eindrucksvoll/erhaben in Eigenschaft x2 (ka) gemäß Standard x3
-  banro - - ba'o wachsen x1 wächst/expandiert/wird größer bis zu Größe/Form x2 aus x3 heraus
-  banxa bax - - Bank x1 ist eine Bank im Banksystem/im Besitz von x2 für Bankfunktion(en) x3 (Ereignis)
+  badri - dri -  /traurig/  x1 ist traurig/deprimiert/niedergeschlagen [unglücklich] über x2 (Abstraktion)
+  bajra baj - -  /laufen/  x1 läuft/rennt auf Oberfläche x2 mit Gliedmaßen x3 und Gangart x4
+  bakfu bak - -  /Bündel/  x1 ist ein Bündel/Päckchen/Klumpen [Form] mit Inhalt x2, zusammengehalten von x3
+  bakni bak - -  /Rind/  x1 ist eine Kuh/Rind/Ochse [Bulle/Kalb] [Rindvieh] von Art/Gattung x2
+  bakri - - -  /Kreide/  x1 ist eine gewisse Menge/enthält/besteht aus Kreide von Quelle x2 in Form x3
+  baktu - - -  /Eimer/  x1 ist ein Eimer/Dose/tiefer, fester Behälter mit breitem Rand mit Inhalt x2, bestehend aus Material x3
+  balji - - -  /Knolle/  x1 ist eine Knolle/Zwiebel [Körperteil] von Pflanze/Art x2; [im übertragenen Sinne: gerundet, ausgebeult]
+  balni - - -  /Balkon/  x1 ist ein Balkon/Überhang/Sims/Regal von Gebäude/Struktur x2
+  balre - - ba'e  /Klinge/  x1 ist eine Klinge von Werkzeug/Waffe x2
+  balvi bav - -  /Zukunft/  x1 liegt in der Zukunft von/ist später als/nach x2 in zeitlicher Reihenfolge; x1 ist später; x2 ist früher/ehemalig
+  bancu bac - -  /ferner/  x1 übertrifft/übersteigt Grenze x2 mit Bezugspunkt x3 in Eigenschaft/Menge x4 (ka/ni)
+  bandu bad - -  /verteidigen/  x1 (Ereignis) verteidigt/schützt x2 (Objekt/Zustand) gegen Bedrohung/Gefahr/Möglichkeit x3 (Ereignis)
+  banfi - - -  /Amphibie/  x1 ist eine Amphibie von Art/Gattung x2
+  bangu ban - bau  /Sprache/  x1 ist eine/die Sprache/Dialekt, die x2 benutzt, um x3 auszudrücken (si'o/du'u, kein Zitat)
+  banli bal - ba'i  /großartig/  x1 ist großartig/eindrucksvoll/erhaben in Eigenschaft x2 (ka) gemäß Standard x3
+  banro - - ba'o  /wachsen/  x1 wächst/expandiert/wird größer bis zu Größe/Form x2 aus x3 heraus
+  banxa bax - -  /Bank/  x1 ist eine Bank im Banksystem/im Besitz von x2 für Bankfunktion(en) x3 (Ereignis)
   banzu baz - -  /genügen/  x1 (Gegenstand) genügt/ist genug für Zweck x2 unter Bedingungen x3
   bapli bap - bai  /zwingen/  x1 [Kraft] (ka) zwingt das Geschehen von/erzwingt Ereignis x2
   barda - bra -  /groß/  x1 ist groß in Eigenschaft/Abmessung(en) x2 (ka), verglichen mit Standard/Norm x3
