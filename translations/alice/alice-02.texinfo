@@ -98,6 +98,9 @@ li ji'ipano le ka condi kei gi'e preja le xadba be le kumfa
 
 @c {tai klaku} does not parse. Neither does {taiku klaku}.
 @c Parser bug? What's wrong with it? --xorxes
+@c The parser is right; it's not a bug: you can't put two tense-modals
+@c in the selbri tag without a connective:  {ca'o je tai} would
+@c be correct. --jrd
 
 @c      After a time she heard a little pattering of feet in the
 @c    distance, and she hastily dried her eyes to see what was coming.
