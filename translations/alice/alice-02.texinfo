@@ -188,7 +188,7 @@ sance lo rufsu je cizra i lei valsi na mintu le se tcaci
 
 @c      `I'm sure those are not the right words,' said poor Alice, and
 @c    her eyes filled with tears again as she went on, `I must be Mabel
-@c    after all, and I shall have to go and live in that poky little 
+@c    after all, and I shall have to go and live in that poky little
 @c    house, and have next to no toys to play with, and oh! ever so
 @c    many lessons to learn!  No, I've made up my mind about it; if I'm
 @c    Mabel, I'll stay down here!  It'll be no use their putting their
@@ -311,10 +311,12 @@ lu doi smacu xu do se slabu le pluta be le bartu be le bu'u lalxu i
 mi mutce le ka tatpi le nu ru'u limna doi smacu li'u to la alis pu
 jinvi le du'u ju'okau ta drani le ka tadji nu tavla lo smacu i abu
 noroi pu zukte lo simsa gi'eku'i morji le nu tcidu fi le latmo gerna 
-cukta pe le bruna fe lu lo smacu -- sera'a lo smacu -- seka'a lo smacu
--- lo smacu -- doi smacu li'u i le smacu cu terpreti mutce catlu abu
-gi'e simlu le ka rinsa fi le nu ze'i ga'orgau pa le cmalu kanla i ku'i 
+cukta pe le bruna fe lo'u lo smacu -- sera'a lo smacu -- seka'a lo smacu
+-- lo smacu -- doi smacu le'u i le smacu cu terpreti mutce catlu abu
+gi'e simlu le ka rinsa fi le nu ze'i ga'orgau pa le cmalu kanla i ku'i
 sy cusku noda
+@c the declension has to be in lo'u-le'u as it's words out of grammatical
+@c context. -phma
 
 @c      `Perhaps it doesn't understand English,' thought Alice; `I
 @c    daresay it's a French mouse, come over with William the
@@ -329,12 +331,12 @@ sy cusku noda
 i cumki fa le nu ta na se bangu le lojbo sei la alis pensi i ru'a ta
 fraso smacu gi'e kansa la uiliam no'u le jamji'a le ka klama ti li'u
 to abu djuno piso'ida lei purcedra gi'eku'i na mutce le ka jimpe le
-du'u py pu fasnu za makau toi i abu za'ure'u co'a co'e zoi fy Ou est
+du'u py pu fasnu za makau toi i abu za'ure'u co'a co'e zoi fy Où est
 ma chatte? fy noi pamoi lei jufra pe le abu fraso ve cilre cukta i le
 smacu cu suksa plipe le bartu be le djacu gi'e simlu le ka desku le
-nu terpa i lu oise'i ko mi fraxu sei la alis noi xersmadi le du'u abu 
-crogau le danlu le cnirango cu sutra krixa i mi mulno le ka tolmorji 
-le nu do na nelci lo'e mlatu li'u 
+nu terpa i lu oise'i ko mi fraxu sei la alis noi xersmadi le du'u abu
+crogau le danlu le cnirango cu sutra krixa i mi mulno le ka tolmorji
+le nu do na nelci lo'e mlatu li'u
 
 @c      `Not like cats!' cried the Mouse, in a shrill, passionate
 @c    voice.  `Would YOU like cats if you were me?'
@@ -358,20 +360,20 @@ i lu y'y la'anai sei la alis surgau tonga cusku i ko na fengu i ku'i
 au mi ka'e jarco le mi'a mlatu po'u la dinas do i pe'i do co'a nelci
 lo'e mlatu va'o le nu da'i do dy viska i dy tai dirba smaji sei la alis
 tecu'uru'e le sevzi ca le nu lazni limna le lalxu ca'o co'e i dy melbi
-cmoni zutse ne'a le fagri gi'e tacpe'u le dy xance gi'e lumci le dy 
+cmoni zutse ne'a le fagri gi'e tacpe'u le dy xance gi'e lumci le dy
 flira i dy tai pluka ranti le nu kujyjai i dy tai certu le nu kavbu
-lo'e smacu i oise'i ko mi fraxu sei la alis noi birti le du'u le smacu 
+lo'e smacu i oise'i ko mi fraxu sei la alis noi birti le du'u le smacu
 noi caku tinsa cu je'u cnicro rere'u krixa i mi'o dy na ba di'a casnu
-va'o le nu do zmanei li'u 
+va'o le nu do zmanei li'u
 
 @c      `We indeed!' cried the Mouse, who was trembling down to the end
 @c    of his tail.  `As if I would talk on such a subject!  Our family
 @c    always HATED cats:  nasty, low, vulgar things!  Don't let me hear
 @c    the name again!'
 
-i lu zo mi'o ue sei le smacu noi da bi'i le jipno be le ke'a rebla cu 
+i lu zo mi'o ue sei le smacu noi da bi'i le jipno be le ke'a rebla cu
 desku cu krixa i ju'onaicai mi casnu lo simsa i le mi lanzu ze'e xebni
-lo'e mlatu i rigni je tolba'i je malfadni danlu i e'u mi na za'ure'u 
+lo'e mlatu i rigni je tolba'i je malfadni danlu i e'u mi na za'ure'u
 tirna le cmene li'u
 
 @c      `I won't indeed!' said Alice, in a great hurry to change the
@@ -388,8 +390,8 @@ tirna le cmene li'u
 @c    Mouse was swimming away from her as hard as it could go, and
 @c    making quite a commotion in the pool as it went.
 
-i lu vi'osai sei la alis noi sutra le nu galfi le selsnu cu cusku i 
-xu y'y xu do y'y nelci y'y lo'e gerku li'u i le smacu na spuda 
+i lu vi'osai sei la alis noi sutra le nu galfi le selsnu cu cusku i
+xu y'y xu do y'y nelci y'y lo'e gerku li'u i le smacu na spuda
 iseki'ubo la alis ca'o co'e lu lo melbi ke cmalu gerku noi xabju le
 jibni be le mi'a zdani zo'u mi djica le nu mi gy do jarco i gy cmalu
 gerku la terier gi'e se kerfa lo clani je sarlu je bunre gi'e xrubei
@@ -425,8 +427,8 @@ makau krinu le nu mi xebni lo'e mlatu e lo'e gerku li'u
 
 i ca mapti tcika le nu cliva kei ki'u le nu le lalxu ca'o tisna loi
 cipni ku joi loi danlu vu'o poi ba'o farlu ly i lo datka lo cipnrdodo
-lo cipnrlori lo cipnrxakuila so'o drata noi vrici je cizra danlu i 
+lo cipnrlori lo cipnrxakuila so'o drata noi vrici je cizra danlu i
 la alis lidne i piro le girzu cu limna seka'a le korbi
- 
+@c lo datka lo cipnrdodo: This needs a conjunction, otherwise it means
+@c "The duck did the dodo..." with the verb unspecified. --phma
 
-  

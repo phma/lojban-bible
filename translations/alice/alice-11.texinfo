@@ -22,16 +22,19 @@
 @c    her, to pass away the time.
 
 i le risna noltrunau e le risna noltruni'u cu zutse le vo'a nolstizu
-ca le nu tolcliva i lo barda premei cu jmaji le sruri i ro klesi be 
+ca le nu tolcliva i lo barda premei cu jmaji le sruri i ro klesi be
 lei cmalu cipni joi danlu be'o e ji'a le karda romei i le nolse'u cu
 sanli ca'u le remei gi'e se rinju lo linsi gi'e jbini lo sonci remei
-noi fanta i jibni le noltrunau fa le blabi ractu noi jgari nu'i ge 
-lo tabra lo xance gi lo skapi te ciska clanu le drata i satci midju 
-le kumfa fa lo jubme noi se cpana lo barda palne be loi rutytisna noi 
-tai xamgu se jvinu ja'e le nu la alis xagji ri'a le nu catlu i lu au 
-mulgau le nunpai sei abu pensi gi'e fairgau le cidja li'u i ku'i la'e 
-di'u simlu le ka na lakne i seki'ubo abu co'a catlu ro sruri be abu 
-tezu'e le nu le temci cu canlu     
+noi fanta i jibni le noltrunau fa le blabi ractu noi jgari nu'i ge
+lo tabra lo xance gi lo skapi te ciska clanu le drata i satci midju
+le kumfa fa lo jubme noi se cpana lo barda palne be loi rutytisna noi
+tai xamgu se jvinu ja'e le nu la alis xagji ri'a le nu catlu i lu au
+mulgau le nunpai sei abu pensi gi'e fairgau le cidja li'u i ku'i la'e
+di'u simlu le ka na lakne i seki'ubo abu co'a catlu ro sruri be abu
+tezu'e le nu le temci cu canlu
+@c Classes can't gather at thrones, and I'm sure there weren't birds of
+@c every species in the world. That should be {le cmalu cipni be so'ada}
+@c or the like. -phma
 
 @c      Alice had never been in a court of justice before, but she had
 @c    read about them in books, and she was quite pleased to find that
@@ -48,9 +51,9 @@ dasni lo barda krebasti li'u
 @c    did it,) he did not look at all comfortable, and it was certainly
 @c    not becoming.
 
-i ta'o le pajni cu du le noltrunau noi dasni le nolmapku nega'u 
+i ta'o le pajni cu du le noltrunau noi dasni le nolmapku nega'u
 le krebasti to ko catlu le craxra va'o le nu do djica le nu viska
-le nu dasni ta'i makau toi gi'enaisai simlu le ka kufra i ju'o 
+le nu dasni ta'i makau toi gi'enaisai simlu le ka kufra i ju'o
 na melbi mapti
 
 @c      `And that's the jury-box,' thought Alice, `and those twelve
@@ -62,19 +65,19 @@ na melbi mapti
 @c    meaning of it at all.  However, `jury-men' would have done just
 @c    as well.
 
-i lu ta pairkamni tsina sei la alis pensi i lei va pare danlu to ei 
+i lu ta pairkamni tsina sei la alis pensi i lei va pare danlu to ei
 abu cusku zo danlu ki'u le nu ge su'o dy mabru gi su'o dy cipni toi
 cu pe'i pairkamnycmi li'u i abu reji'iciroi cusku le romoi valsi gi'e
 jgira mutce ki'u le nu jinvi to drani toi le du'u so'usai cmalu nixli
 le me abu moi cu djuno le du'u makau smuni i ku'i zo paicmi ji'a mapti
-banzu 
+banzu
 
 @c      The twelve jurors were all writing very busily on slates.
 @c    `What are they doing?'  Alice whispered to the Gryphon.  `They
 @c    can't have anything to put down yet, before the trial's begun.'
 
-i ro le pare pairkamnycmi cu zuktce ciska fi lo tanbo i lu tu ma zukte 
-sei la alis fi le cpicinfo cu tolylau cusku i noda kakne le nu tu 
+i ro le pare pairkamnycmi cu zuktce ciska fi lo tanbo i lu tu ma zukte
+sei la alis fi le cpicinfo cu tolylau cusku i noda kakne le nu tu
 ciska kei pu le nu le nunpai cu cfari li'u
 
 @c      `They're putting down their names,' the Gryphon whispered in
@@ -93,6 +96,7 @@ i lu ju'i bebna sei la alis co'a cladu je fengu voksa cusku li'u i ku'i
 abu sutra sisti ki'u le nu le blabi ractu cu krixa lu ei smaji bu'u le
 kumfa li'u i le noltrunau co'a dasni le vistci gi'e xanka catlu le sruri
 tezu'e le nu facki le du'u makau tavla
+@c ju'i bebna: Is she addressing them, or should this be an attitudinal? -phma
 
 @c      Alice could see, as well as if she were looking over their
 @c    shoulders, that all the jurors were writing down `stupid things!'
@@ -103,7 +107,7 @@ tezu'e le nu facki le du'u makau tavla
 
 i la alis ka'e viska to xamgu tai le nu abu catlu ga'u le janco toi
 le nu ro le pairkamnycmi cu ciska lu ju'i bebna li'u le py tanbo kei
-gi'eji'asai ka'e tilvi'a le nu pa py na se slabu lei lerfu pe zo 
+gi'eji'asai ka'e tilvi'a le nu pa py na se slabu lei lerfu pe zo
 bebna gi'e nitcu le nu cpedu le nu jungau kei le lamji i lu ba melbi
 kalsa fa lei tanbo pu le nu le nunpai cu mulno sei la alis pensi li'u
 
@@ -117,9 +121,9 @@ kalsa fa lei tanbo pu le nu le nunpai cu mulno sei la alis pensi li'u
 @c    little use, as it left no mark on the slate.
 
 i pa le pairkamnycmi cu pilno lo pinsi noi vrumli cupra i li'a la alis
-na ka'e renvi la'e di'u gi'e klama fo le sruri be le kumfa gi'e 
+na ka'e renvi la'e di'u gi'e klama fo le sruri be le kumfa gi'e
 ti'erbi'o py gi'e bazi kakne le nu lebna le pinsi py i abu tai sutra
-ja'e le nu le selkecti ke cmalu pairkamnycmi no'u la bil po'u le 
+ja'e le nu le selkecti ke cmalu pairkamnycmi no'u la bil po'u le
 rebyrespa ka'enai facki le du'u le pinsi makau binxo kei gi'e bilga
 le nu ciska sepi'o lo degji ze'a le djedi velvi'u i la'e di'u tolmutce
 le ka prali kei ki'u le nu noda seja'e barna le tanbo
@@ -141,30 +145,30 @@ skapi te ciska slanu gi'e tcidu bacru di'e
 
 @format
 
-           le noltruni'u pe le risna cu zbakukte loi rutytisna 
+           le noltruni'u pe le risna cu zbakukte loi rutytisna
                 ze'a lo crisa djedi
-           i le nolse'u pe le risna cu zerle'a loi rutytisna 
+           i le nolse'u pe le risna cu zerle'a loi rutytisna
                 gi'e darbevri bredi
 
 @end format
 
 @c      `Consider your verdict,' the King said to the jury.
 
-i lu ko pensi le do se paijdi sei le noltrunau fi le pairkamni 
+i lu ko pensi le do se paijdi sei le noltrunau fi le pairkamni
 cu cusku li'u
 
 @c      `Not yet, not yet!' the Rabbit hastily interrupted.  `There's
 @c    a great deal to come before that!'
 
-i lu ei za'o na go'i i ei za'o na go'i sei le ractu cu sutra zunti i 
+i lu ei za'o na go'i i ei za'o na go'i sei le ractu cu sutra zunti i
 ei lo mutce cu purci la'e di'u li'u
 
 @c      `Call the first witness,' said the King; and the White Rabbit
 @c    blew three blasts on the trumpet, and called out, `First
 @c    witness!'
 
-i lu ko klagau le pamoi datnydu'a sei le noltrunau cu cusku li'u i le 
-blabi ractu cu ciroi tolsakci le tabra gi'e krixa lu ju'i pamoi 
+i lu ko klagau le pamoi datnydu'a sei le noltrunau cu cusku li'u i le
+blabi ractu cu ciroi tolsakci le tabra gi'e krixa lu ju'i pamoi
 datnydu'a li'u
 
 @c      The first witness was the Hatter.  He came in with a teacup in
@@ -173,8 +177,8 @@ datnydu'a li'u
 @c    hadn't quite finished my tea when I was sent for.'
 
 i le pamoi datnydu'a cu du le mapypre noi nerkla gi'e jgari nu'i ge
-lo tcati kabri lo xance gi lo nanba joi matne le drata i lu ko mi 
-fraxu doi nolba'i sei my co'a co'e le nu mi ti nerbevri i ku'i mi 
+lo tcati kabri lo xance gi lo nanba joi matne le drata i lu ko mi
+fraxu doi nolba'i sei my co'a co'e le nu mi ti nerbevri i ku'i mi
 na mo'u pinxe le tcati ca le nu mi se klagau li'u
 
 @c      `You ought to have finished,' said the King.  `When did you
@@ -186,7 +190,7 @@ i lu ei do mo'u co'e sei le noltrunau cu cusku i ca ma do co'a co'e li'u
 @c    the court, arm-in-arm with the Dormouse.  `Fourteenth of March, I
 @c    think it was,' he said.
 
-i le mapypre cu catlu le cibmasti cicyractu noi pu klaje'i my le kumfa gi'e 
+i le mapypre cu catlu le cibmasti cicyractu noi pu klaje'i my le kumfa gi'e
 kansa le sipsmacu i lu le pavomoi be le cibmasti pe'i sei cy cusku li'u
 
 @c      `Fifteenth,' said the March Hare.
@@ -217,7 +221,7 @@ i lu ti na me mi moi sei le mapypre cu cusku li'u
 @c    instantly made a memorandum of the fact.
 
 i lu zerle'a sei le noltrunau fa'a le pairkamni cu ki'asku li'u i py
-zi notci'a le fatci 
+zi notci'a le fatci
 
 @c      `I keep them to sell,' the Hatter added as an explanation;
 @c    `I've none of my own.  I'm a hatter.'
@@ -228,7 +232,7 @@ mapypre li'u
 @c      Here the Queen put on her spectacles, and began staring at the
 @c    Hatter, who turned pale and fidgeted.
 
-i caku le noltruni'u co'a dasni le vistci gi'e co'a ze'a catlu le 
+i caku le noltruni'u co'a dasni le vistci gi'e co'a ze'a catlu le
 mapypre noi labybi'o gi'e xanka tarti
 
 @c      `Give your evidence,' said the King; `and don't be nervous, or
@@ -255,7 +259,7 @@ seba'i le nanba joi matne
 @c    her.
 
 i caku la alis ganse lo cizra noi cfipu abu co'u le nu facki le du'u
-makau fasnu i abu ca'o co'a za'ure'u barda banro gi'e pamai jdice le 
+makau fasnu i abu ca'o co'a za'ure'u barda banro gi'e pamai jdice le
 nu cliva le kumfa kei gi'e ku'i remai jdice le nu stali ze'a le nu
 le canlu cu banzu
 
@@ -276,7 +280,7 @@ i lu ei do na vi banro sei le sipsmacu cu cusku li'u
 @c      `Don't talk nonsense,' said Alice more boldly:  `you know
 @c    you're growing too.'
 
-i lu ko na bebna tavla sei la alis darsyze'a cusku i ju'o do ji'a 
+i lu ko na bebna tavla sei la alis darsyze'a cusku i ju'o do ji'a
 ca'o banro li'u
 
 @c      `Yes, but I grow at a reasonable pace,' said the Dormouse:
@@ -284,7 +288,7 @@ ca'o banro li'u
 @c    and crossed over to the other side of the court.
 
 i lu go'i i ku'i mi banro sekai lo ka racli sutra sei le sipsmacu cu
-cusku i na tai ckasu go'i li'u i sy tolgei mutce sa'irbi'o gi'e pagre 
+cusku i na tai ckasu go'i li'u i sy tolgei mutce sa'irbi'o gi'e pagre
 le kumfa le drata fanmo
 
 @c      All this time the Queen had never left off staring at the
@@ -295,9 +299,9 @@ le kumfa le drata fanmo
 
 i ze'a la'e di'u le noltruni'u noroi sisti le nu catlu le mapypre kei
 gi'e cusku ca le nu le sipsmacu cu pagre le kumfa kei fi pa le nunpai
-pulji lu ko bevri le liste be lei sanga pe le romoi ke zgike se tigni 
-li'u i le mapypre cu tai desku ja'e le nu le re cutci cu 
-nalseldasybi'o 
+pulji lu ko bevri le liste be lei sanga pe le romoi ke zgike se tigni
+li'u i le mapypre cu tai desku ja'e le nu le re cutci cu
+nalseldasybi'o
 
 @c      `Give your evidence,' the King repeated angrily, `or I'll have
 @c    you executed, whether you're nervous or not.'
@@ -325,7 +329,7 @@ i lu co'a le tcati sei le mapypre cu spuda li'u
 @c      `Of course twinkling begins with a T!' said the King sharply.
 @c    `Do you take me for a dunce?  Go on!'
 
-i lu li'a sei le noltrunau cu kinli cusku i xu do jinvi le du'u mi 
+i lu li'a sei le noltrunau cu kinli cusku i xu do jinvi le du'u mi
 bebna i e'e di'a co'e li'u
 
 @c      `I'm a poor man,' the Hatter went on, `and most things
@@ -348,7 +352,7 @@ i lu mi na'erxu'a sei le cibmasti cicyractu cu cusku li'u
 
 @c      `He denies it,' said the King:  `leave out that part.'
 
-i lu ta na'erxu'a sei le noltrunau cu cusku i ko tolju'i le di'u 
+i lu ta na'erxu'a sei le noltrunau cu cusku i ko tolju'i le di'u
 pagbu li'u
 
 @c      `Well, at any rate, the Dormouse said--' the Hatter went on,
@@ -362,7 +366,7 @@ i ku'i sy na'erxu'a noda gi'e carmi sipna
 @c      `After that,' continued the Hatter, `I cut some more bread-
 @c    and-butter--'
 
-i lu baku sei le mapypre cu di'a cusku mi za'ure'u katna lo nanba 
+i lu baku sei le mapypre cu di'a cusku mi za'ure'u katna lo nanba
 joi matne li'u
 
 @c      `But what did the Dormouse say?' one of the jury asked.
@@ -382,7 +386,7 @@ i lu ei do morji sei le noltrunau cu notsku ija mi da do catrymi'e li'u
 @c    and went down on one knee.  `I'm a poor man, your Majesty,' he
 @c    began.
 
-i le selkecti mapypre cu falcru le tcati kabri e le nanba joi matne 
+i le selkecti mapypre cu falcru le tcati kabri e le nanba joi matne
 gi'e sanli fi pa le cidni i lu mi pindi doi nolba'i sei my co'a co'e li'u
 
 @c      `You're a very poor speaker,' said the King.
@@ -399,7 +403,7 @@ i lu do pindi le ka tavla certu sei le noltrunau cu cusku li'u
 i caku pa le smacrkobaiu cu geirki'a gi'e bazi se rinju lei nunpai
 pulji to zo rinju cu rufsu valsi i mi ciksi le nu ta'i makau zukte
 i py ponse lo barda ke bukpu dakli noi ka'e ganlo sepi'o loi dasri
-i py le smacrkobaiu cu setca dy gi'e zutse toi   
+i py le smacrkobaiu cu setca dy gi'e zutse toi
 
 @c      `I'm glad I've seen that done,' thought Alice.  `I've so often
 @c    read in the newspapers, at the end of trials, "There was some
@@ -408,16 +412,16 @@ i py le smacrkobaiu cu setca dy gi'e zutse toi
 @c    till now.'
 
 i lu mi gleki le nu mi viska la'e di'u sei la alis pensi i mi so'iroi
-tcidu fi loi karni ca le mu'o nunpai lu troci le nu xanvruzau noi 
+tcidu fi loi karni ca le mu'o nunpai lu troci le nu xanvruzau noi
 bazi se rinju lei nunpai pulji li'u gi'e pu noroi jimpe le du'u makau
 smuni li'u
 
 @c      `If that's all you know about it, you may stand down,'
 @c    continued the King.
 
-i lu e'a va'o le nu la'e di'u cu piromei le do se djuno be fi le cuntu 
+i lu e'a va'o le nu la'e di'u cu piromei le do se djuno be fi le cuntu
 kei do nitkla sei le noltrunau cu di'a cusku li'u
- 
+
 @c      `I can't go no lower,' said the Hatter:  `I'm on the floor, as
 @c    it is.'
 
@@ -425,11 +429,11 @@ i lu mi ka'enai klama lo nitmau sei le mapypre i mi cpana le loldi li'u
 
 @c      `Then you may SIT down,' the King replied.
 
-i e'a va'o la'e di'u do nitytse sei le noltrunau cu spuda li'u 
+i e'a va'o la'e di'u do nitytse sei le noltrunau cu spuda li'u
 
 @c      Here the other guinea-pig cheered, and was suppressed.
 
-i caku le drata smacrkobaiu cu geirki'a gi'e se rinju 
+i caku le drata smacrkobaiu cu geirki'a gi'e se rinju
 
 @c      `Come, that finished the guinea-pigs!' thought Alice.  `Now we
 @c    shall get on better.'
@@ -453,23 +457,24 @@ le kumfa secau le nu denpa ji'asai le nu dasni lei cutci
 @c    officer could get to the door.
 
 i lu ije ko le stedu tu vimcu bu'u le bartu sei le noltruni'u fi pa le
-pulji cu jmina cusku li'u i ku'i le mapypre na ka'e se viska pu le nu 
+pulji cu jmina cusku li'u i ku'i le mapypre na ka'e se viska pu le nu
 le pulji cu tolcliva le vorme
 
 @c      `Call the next witness!' said the King.
 
 i lu ko klagau le jersi datnydu'a sei le noltrunau cu cusku li'u
+@c eipei zo bavla'i basti zo jersi? mi'e pier
 
 @c      The next witness was the Duchess's cook.  She carried the
 @c    pepper-box in her hand, and Alice guessed who it was, even before
 @c    she got into the court, by the way the people near the door began
 @c    sneezing all at once.
 
-i le jersi datnydu'a du le jukpa pe le noltroni'u i jy jgari le 
+i le jersi datnydu'a du le jukpa pe le noltroni'u i jy jgari le
 tsaprpiperi tanxe le xance i la alis cu smadi le du'u du makau kei
-pu le nu jy klama le kumfa kei ki'u le nu ro le prenu poi jibni le 
+pu le nu jy klama le kumfa kei ki'u le nu ro le prenu poi jibni le
 vorme cu co'a senci
- 
+
 @c      `Give your evidence,' said the King.
 
 i lu ko dunda le do datni sei le noltrunau cu cusku li'u
@@ -482,18 +487,18 @@ i lu na go'i sei le jukpa cu cusku li'u
 @c    low voice, `Your Majesty must cross-examine THIS witness.'
 
 i le noltrunau cu xanka catlu le blabi ractu noi tolylau voksa cusku
-lu ei le nolba'i cu lalmu'o le vi datnydu'a li'u 
+lu ei le nolba'i cu lalmu'o le vi datnydu'a li'u
 
 @c      `Well, if I must, I must,' the King said, with a melancholy
 @c    air, and, after folding his arms and frowning at the cook till
 @c    his eyes were nearly out of sight, he said in a deep voice, `What
 @c    are tarts made of?'
 
-i lu i'a o'o i'a sei le noltrunau cu tolgleki li'u i ba le nu 
+i lu i'a o'o i'a sei le noltrunau cu tolgleki li'u i ba le nu
 kucysimgau lei birka gi'e frumu fa'a le jukpa co'u le nu le ny kanla
 cu jibni le nu na ka'e se viska cu condi voksa cusku lu ma te zbasu
 loi rutytisna li'u
- 
+
 @c      `Pepper, mostly,' said the cook.
 
 i lu lo tsaprpiperi ra'u sei le jukpa cu cusku li'u
@@ -515,7 +520,7 @@ tunta i ko le zbikre cu vimcu li'u
 @c    again, the cook had disappeared.
 
 i ze'a lo mentu be li so'o le kumfa cu kalsa ca'o le nu le sipsmacu
-gau barkla i ca le nu cnici xruti kei le jukpa ba'o canci 
+gau barkla i ca le nu cnici xruti kei le jukpa ba'o canci
 
 @c      `Never mind!' said the King, with an air of great relief.
 @c    `Call the next witness.'  And he added in an undertone to the
@@ -525,7 +530,7 @@ gau barkla i ca le nu cnici xruti kei le jukpa ba'o canci
 i lu na vajni sei le noltrunau cu surla mutce cusku i ko klagau le jersi
 datnydu'a li'u i ny tolylau tonga jmina cusku fi le noltruni'u fe lu i'u
 doi dirba ei ba'e do lalmu'o le jersi datnydu'a i le nu go'i cu mutce
-corgau mi le sedycra li'u 
+corgau mi le sedycra li'u
 
 @c      Alice watched the White Rabbit as he fumbled over the list,
 @c    feeling very curious to see what the next witness would be like,

@@ -13,7 +13,7 @@
 @c    thing!' said the Duchess, as she tucked her arm affectionately
 @c    into Alice's, and they walked off together.
 
-i lu do ka'enai pensi le nu la'u makau mi gleki le nu mi do za'ure'u 
+i lu do ka'enai pensi le nu la'u makau mi gleki le nu mi do za'ure'u
 viska doi dirba slabu sei le noltroni'u cu cusku li'u i ny xe'ocni
 tagygau le ny birka le me la alis moi i ny joi abu cu kansi'u le ka
 cadzu cliva
@@ -24,7 +24,7 @@ cadzu cliva
 
 i la alis mutce gleki le nu zgana le nu ny pluka tarti i abu pensi le
 nu ju'ocu'i le spatrpiperi cu rinka le nu ny cilce ca le nu abu penmi ny
-le jupku'a 
+le jupku'a
 
 @c      `When I'M a Duchess,' she said to herself, (not in a very
 @c    hopeful tone though), `I won't have any pepper in my kitchen AT
@@ -36,10 +36,10 @@ le jupku'a
 @c    people knew that:  then they wouldn't be so stingy about it, you
 @c    know--'
 
-i lu ca le nu ba'e mi noltroni'u kei sei abu to sepi'onai ku'i lo pajna 
+i lu ca le nu ba'e mi noltroni'u kei sei abu to sepi'onai ku'i lo pajna
 mutce tonga toi sezysku nosai spatrpiperi ba zvati le mi jupku'a i lo'e
 stasu cu xamgu secau i cumki fa le nu roroiku lo spatrpiperi cu rinka le
-nu lei prenu cu cpina tarti sei abu mutce se pluka be le nu facki lo 
+nu lei prenu cu cpina tarti sei abu mutce se pluka be le nu facki lo
 cnino javni i lo sarvanju cu rinka le nu py slari tarti i lo spatrkamomili
 cu rinka le nu py kurki tarti i y i lo bavmi sukta e lo simsa cu rinka le
 nu lei verba cu titla tarti i au lei prenu cu djuno la'e di'u ja'e le nu
@@ -76,9 +76,9 @@ fa le nu facki li'u i ny sezla'izmagau la alis ca le nu tavla
 @c    like to be rude, so she bore it as well as she could.
 
 i la alis na mutce nelci le nu jibni ny gepamai ki'u le nu le noltroni'u
-cu mutce le ka tolmelbi giremai ki'u le nu ny satci galtu mapti le nu 
+cu mutce le ka tolmelbi giremai ki'u le nu ny satci galtu mapti le nu
 vregau le firji'o le abu janco i tolkufra kinli firji'o i ku'i abu na
-nelci le nu tolclite iseki'ubo abu renvi rai le ka xamgu  
+nelci le nu tolclite iseki'ubo abu renvi rai le ka xamgu
 
 @c      `The game's going on rather better now,' she said, by way of
 @c    keeping up the conversation a little.
@@ -167,7 +167,8 @@ li'u
 @c    is.'
 
 i lu ue ka'u sei la alis noi na jundi le romoi pinka cu krisku i sy stagi
-i sy le ka go'i na catlu gi'eku'i ja'a ckaji li'u 
+i sy le ka go'i na catlu gi'eku'i ja'a ckaji li'u
+@c prula'i jenai romoi mi'e pier.
 
 @c      `I quite agree with you,' said the Duchess; `and the moral of
 @c    that is--"Be what you would seem to be"--or if you'd like it put
@@ -175,7 +176,7 @@ i sy le ka go'i na catlu gi'eku'i ja'a ckaji li'u
 @c    what it might appear to others that what you were or might have
 @c    been was not otherwise than what you had been would have appeared
 @c    to them to be otherwise."'
- 
+
 i lu mi do ja'asai tugni sei le noltroni'u cu cusku i la'e di'u madni'i la'e
 lu ko ckaji le se simlu be do li'u i va'i sa'u lu ko noroi se xanri le nu
 do na ckaji na'eboda poi do simlu fi lei drata fe le ka de poi do ca'a ja

@@ -503,12 +503,13 @@ mutce
 @c    me see--how IS it to be managed?  I suppose I ought to eat or
 @c    drink something or other; but the great question is, what?'
 
-i lu ku'i dirba ke cmalu gerpanzi sei la alis noi surla le nu vreta 
-lo pelselxrula kei gi'e pilno lo py pezli le nu cupra lo brife fa'a 
-abu cusku i mi mutce nelci le nu ctuca gy loi seltra va'oda'i le nu 
+i lu ku'i dirba ke cmalu gerpanzi sei la alis noi surla le nu vreta
+lo pelselxrula kei gi'e pilno lo py pezli le nu cupra lo brife fa'a
+abu cusku i mi mutce nelci le nu ctuca gy loi seltra va'oda'i le nu
 mi mapti fi le ka barda i oi mi jibni tolmorji le nu ei mi za'ure'u
 banro i a'a ei mi zukte ma i ru'a ei mi citka ja pinxe da i ku'i
-le banli preti zo'u go'i ma li'u 
+le banli preti zo'u go'i ma li'u
+@c stidi zo banfyxrula .a zo matnyxrula
 
 @c      The great question certainly was, what?  Alice looked all round
 @c    her at the flowers and the blades of grass, but she did not see
@@ -519,11 +520,11 @@ le banli preti zo'u go'i ma li'u
 @c    that she might as well look and see what was on the top of it.
 
 i ju'o le banli preti cu me zo ma i la alis fa'aru'u catlu lei xrula
-e lei srasu gi'e ku'i viska noda poi simlu lo'e mapti be fi le ka 
+e lei srasu gi'e ku'i viska noda poi simlu lo'e mapti be fi le ka
 citka ja pinxe ce'u i lo barda mledi cu zvati lo jibni be abu gi'e
-simsa abu le ka galtu i ca le nu abu ba'o catlu le cnita e le re 
+simsa abu le ka galtu i ca le nu abu ba'o catlu le cnita e le re
 mlana e le trixe be my kei abu te sidbo file du'u e'e catlu gi'e
-viska le nu makau cpana my     
+viska le nu makau cpana my
 
 @c      She stretched herself up on tiptoe, and peeped over the edge of
 @c    the mushroom, and her eyes immediately met those of a large
@@ -531,7 +532,7 @@ viska le nu makau cpana my
 @c    quietly smoking a long hookah, and taking not the smallest notice
 @c    of her or of anything else.
 
-i abu tcena ji'u lei jamfu jipno gi'e catlu le bancu be le korbi 
+i abu tcena ji'u lei jamfu jipno gi'e catlu le bancu be le korbi
 be le mledi i lei abu kanla cu penmi lei kanla be lo barda ciftoldi
 noi zutse le cpana zi'e noi lei ke'a brika cu se polje zi'e noi smaji
 damva'u sepi'o lo clani nargile zi'e noi jundi genai abu ginai
