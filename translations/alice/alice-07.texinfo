@@ -381,21 +381,42 @@ banli ke zgike se tigni le risna noltruni'u i mi bilga le nu sanga di'e
 @c                "Twinkle, twinkle, little bat!
 @c                How I wonder what you're at!"
 
+                  i gu'irgu'i doi volratcu
+                  i u'e a'u do ma klatcu
+
 @c    You know the song, perhaps?'
 
-i lu le selsanga do slabu ti'epei li'u
+i le selsanga do slabu ti'epei li'u
+
 
 @c      `I've heard something like it,' said Alice.
 
+i lu mi pu tirna lo simsa li'u se cusku la alis
+
+
 @c      `It goes on, you know,' the Hatter continued, `in this way:--
+
+i lu di'a sei la mapypre di'a cusku di'e 
+
 
 @c                "Up above the world you fly,
 @c                Like a tea-tray in the sky.
 @c                        Twinkle, twinkle--"'
 
+
+                  i do munje gapru vofli 
+                  si'a tcatypalne trofli
+                             gu'irgu'i
+
+
 @c    Here the Dormouse shook itself, and began singing in its sleep
 @c    `Twinkle, twinkle, twinkle, twinkle--' and went on so long that
 @c    they had to pinch it to make it stop.
+
+li'u i caku le sipsmacu cu sezydesygau gi'e co'a sanga ca le nu sipna 
+lu gu'irgu'i gu'irgu'i li'u gi'e za'o ze'u co'e ja'e le nu sarcu fa le 
+nu tunta sy kei le nu stigau sy
+
 
 @c      `Well, I'd hardly finished the first verse,' said the Hatter,
 @c    `when the Queen jumped up and bawled out, "He's murdering the
