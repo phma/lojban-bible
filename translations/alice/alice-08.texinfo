@@ -329,7 +329,7 @@ i lu ko zvati le medomoi sei le noltruni'u cu lidvru voksa cusku li'u
 i lei prenu co'a bajra fa'a roda gi'e jalsi'u i ku'i ba bredi zi lo mentu
 be li paji'ire i le nu kelci cu cfari i la alis jinvi le du'u noroi le
 nu jmive pu viska lo ta'i kelcrkroke foldi i cpana joi skuro i le
-bolci cu jmive cpinymabru i le mruli cu jmive fagycpi i le sonci cu
+bolci cu jmive jesymabru i le mruli cu jmive fagycpi i le sonci cu
 krosa'ibi'o fi lei xance ku joi lei jamfu ja'e le nu bargu
 
 @c      The chief difficulty Alice found at first was in managing her
@@ -351,17 +351,19 @@ krosa'ibi'o fi lei xance ku joi lei jamfu ja'e le nu bargu
 i le ralju be lei nandu be la alis ca le cfari cu nu jitro le fagycpi
 i abu snada le nu kufra banzu punji le fy xadni noi le tuple cu dandu
 ge'u le cnita be le abu birka i ku'i ta'e ca le nu ge le cnebo mo'u
-sirji gi abu bredi le nu darxi le cpinymabru le fy stedu kei fy
+sirji gi abu bredi le nu darxi le jesymabru le fy stedu kei fy
 sezytongau gi'e catlu fa'a le abu flira gi'e se cfipu frumu ja'e le
 nu abu ka'enai rivbi le nu spoja cmila i ca le nu abu ba'o punji le
 fy stedu le dizlo gi'e pu'o za'ure'u co'a co'e kei xajmi mutce fa le
-nu facki le du'u le cpinymabru pu nalbolbi'o gi'e ca'o klama lo darno
+nu facki le du'u le jesymabru pu nalbolbi'o gi'e ca'o klama lo darno
 i ji'a ta'eku lo cmana a lo skuro cu zunti ca le nu abu djica le nu
-benji le cpinymabru i ki'u le nu le korcu sonci roroi sa'irgau gi'e
+benji le jesymabru i ki'u le nu le korcu sonci roroi sa'irgau gi'e
 dzukla lo drata pagbu be le foldi kei la alis jivbi'o le du'u le
 nunkei ja'a mutce le ka nandu
 @c {cpina} means "spicy" not "spiny". I suggest {jesymabru} (which
 @c could also be a spiny anteater) or {ernace}. -phma
+@c The x2 of {cpina} is the sense, which can be the sense of touch 
+@c according to the gi'uste. But {jesymabru} is good.
 
 @c      The players all played at once without waiting for turns,
 @c    quarrelling all the while, and fighting for the hedgehogs; and in
@@ -370,7 +372,7 @@ nunkei ja'a mutce le ka nandu
 @c    her head!' about once in a minute.
 
 i ro le kelci cu mintu temci kelci gi'e na denpa le me ky moi gi'e
-ru'i toltugni gi'e damba fi lei cpinymabru i baziku le noltruni'u
+ru'i toltugni gi'e damba fi lei jesymabru i baziku le noltruni'u
 cu fengu cinmo gi'e ca'o marxa cadzu gi'e krixa lu ko le stedu ta
 vimcu li'u a lu ko le stedu tu vimcu li'u ji'iparoi ro mentu
 
@@ -433,12 +435,13 @@ tonga cusku i ro tu da'arta'a ja'e le nu na ka'e tirna le nu tavla i
 tu simlu le ka na steci javni fi ce'u iseju va'o le nu ja'a javni kei
 no da jy jundi .i zmadu be le se djuno be do be'o be'o fi le du'u ro le
 dacti cu jmive i mu'a tu no'u le bargu poi ei mi ca pagre cu cadzu bu'u
-le drata fanmo be le foldi i mi pu'o kelcrkroke le cpinymabru pe le
+le drata fanmo be le foldi i mi pu'o darxi le jesymabru pe le
 noltruni'u i ku'i ue cy to'o bajra ca le nu viska le nu le memimoi cu
 jbikla li'u
 @c I think that should be {mi pu'o darxrkroke} meaning that one ball
 @c hits the other - as it is, it means that
 @c Alice and the hedgehog are opponents in croquet. -phma
+@c The x2 of {kelci} is not the opponent. But plain {darxi} should do.
 
 @c      `How do you like the Queen?' said the Cat in a low voice.
 
@@ -527,7 +530,7 @@ krixa i abu ba'o tirna le nu ny minde le nu ci kelci cu se catra
 ki'u le nu ky na kelci ca le me ky moi i abu na nelci le jvinu be
 le cuntu ki'u le nu le nunkelci cu mutce le ka cfipu kei ja'e le nu
 abu noroi djuno le du'u xukau ca ei kelci i seki'ubo abu co'a sisku
-le abu cpinymabru
+le abu jesymabru
 
 @c      The hedgehog was engaged in a fight with another hedgehog,
 @c    which seemed to Alice an excellent opportunity for croqueting one
@@ -536,7 +539,7 @@ le abu cpinymabru
 @c    Alice could see it trying in a helpless sort of way to fly up
 @c    into a tree.
 
-i le cpinymabru ca'o damba lo drata cpinymabru i la alis jinvi le du'u
+i le jesymabru ca'o damba lo drata jesymabru i la alis jinvi le du'u
 xautce prali la'e di'u le nu kelcrkroke pa cy le drata i le po'o nabmi
 cu nu le abu fagycpi ba'o klama le drata fanmo be le purdi be'o noi
 la alis viska le nu vi ke'a fy tolsnada troci le nu volkla lo tricu
@@ -549,7 +552,7 @@ la alis viska le nu vi ke'a fy tolsnada troci le nu volkla lo tricu
 @c    a little more conversation with her friend.
 
 i ca le nu abu le fagycpi ba'o kavbu gi'e xrugau kei ge le nundamba cu
-mulno gi lei re cpinymabru na se viska i lu ku'i na vajni mutce sei
+mulno gi lei re jesymabru na se viska i lu ku'i na vajni mutce sei
 la alis pensi i ro le dargu cu canci le vi mlana be le foldi li'u i
 abu punji fy le cnita be le abu birka ja'e le nu na ka'e za'ure'u
 cliva kei gi'e xruti le nu jmina tavla le pendo

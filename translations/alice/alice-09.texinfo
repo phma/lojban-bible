@@ -37,14 +37,14 @@ le jupku'a
 @c    know--'
 
 i lu ca le nu ba'e mi noltroni'u kei sei abu to sepi'onai ku'i lo pajna
-mutce tonga toi sezysku nosai spatrpiperi ba zvati le mi jupku'a i lo'e
-stasu cu xamgu secau i cumki fa le nu roroiku lo spatrpiperi cu rinka le
+mutce tonga toi sezysku nosai tsaprpiperi ba zvati le mi jupku'a i lo'e
+stasu cu xamgu secau i cumki fa le nu roroiku lo tsaprpiperi cu rinka le
 nu lei prenu cu cpina tarti sei abu mutce se pluka be le nu facki lo
 cnino javni i lo sarvanju cu rinka le nu py slari tarti i lo spatrkamomili
 cu rinka le nu py kurki tarti i y i lo bavmi sukta e lo simsa cu rinka le
 nu lei verba cu titla tarti i au lei prenu cu djuno la'e di'u ja'e le nu
 py na mobdu'a sy li'o li'u
-@c You mean tsaprpiperi, don't you? Spatrpiperi is the plant. -phma
+@c You mean tsaprpiperi, don't you? Spatrpiperi is the plant. -phma  -ok.
 
 @c      She had quite forgotten the Duchess by this time, and was a
 @c    little startled when she heard her voice close to her ear.
@@ -66,8 +66,8 @@ i lu ju'ocu'i madni'i noda sei la alis darsi te pinka li'u
 @c    closer to Alice's side as she spoke.
 
 i lu e'i doi verba sei le noltroni'u cu cusku roda de madni'i i sarcu
-fa le nu facki li'u i ny sezla'izmagau la alis ca le nu tavla
-@c s/lamzma/la'izma/ -phma
+fa le nu facki li'u i ny sezla'izengau la alis ca le nu tavla
+@c s/lamzma/la'izma/ -phma   -yes, and also s/zma/zen.
 
 @c      Alice did not much like keeping so close to her:  first,
 @c    because the Duchess was VERY ugly; and secondly, because she was
@@ -168,7 +168,7 @@ li'u
 
 i lu ue ka'u sei la alis noi na jundi le romoi pinka cu krisku i sy stagi
 i sy le ka go'i na catlu gi'eku'i ja'a ckaji li'u
-@c prula'i jenai romoi mi'e pier.
+@c prula'i jenai romoi mi'e pier.  i ja'a romoi lei purci mi'e xorxes
 
 @c      `I quite agree with you,' said the Duchess; `and the moral of
 @c    that is--"Be what you would seem to be"--or if you'd like it put
@@ -257,7 +257,7 @@ i ko cuxna li'u
 
 @c      The Duchess took her choice, and was gone in a moment.
 
-i le noltroni'u cu cuxna gi'e zi klama
+i le noltroni'u cu cuxna gi'e zi ba'o cliva
 
 @c      `Let's go on with the game,' the Queen said to Alice; and Alice
 @c    was too much frightened to say a word, but slowly followed her
