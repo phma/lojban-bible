@@ -4,6 +4,7 @@ alice/		Lewis Carrol's "Alice's Adventures In Wonderland",
 		texinfo format.
 drbible/	The Douay-Rheims version of the Bible, texinfo format.
 german/		Translating brochures into german, XML format.
+originals/	Texts copied verbatim from the Gutenberg Project.
 
 In general, please do _not_ start at the beginning of whatever you're
 working on (i.e. I started translating Alice with Chapter 5).  Everyone
