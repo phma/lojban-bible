@@ -28,12 +28,12 @@ gi'e na'e kufra
 @c    more to be said.
 
 i le pamoi co preti cu li'a du'u ta'i makau rere'u sudga i casnu la'edi'u
-ije zi lo mentu be li so'u ba simlu le ka rarna kei fa le nu la alis
+ijebabo zi lo mentu be li so'u simlu le ka rarna kei fa le nu la alis
 goi ko'a cu facki le du'u ko'a pendo tavla ra setaida'i le nu
 ko'a se slabu ra roroi le nu ko'a jmive i je'u ko'a pu je'aze'u daupro
 la loris noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
 junmau li'u po'o ije la'edi'u zo'u la alis na curmi secau le nu
-djuno le du'u ly jai nanca makau ije ji'u le nu la loris cu je'a tolsarxe
+djuno le du'u ly jai nanca makau ije ki'u le nu la loris cu je'a tolsarxe
 le nu cusku le du'u makau se jai nanca ly na se sumji se cusku
 
 @c      At last the Mouse, who seemed to be a person of authority among
@@ -57,31 +57,52 @@ sy ki'u le nu ko'a birti le du'u co'a bilma bai le nu na sudbi'o baziku
 
 i lu ta'a sei la smacu cu vajni simlu cusku xu ro do bredi i la'edi'e
 cu sudrai lo'i se slabu be mi i ro ko smaji e'o i lu la uiliam poi
-jamji'a ku noi se nelcu'a la papas cu pukiku bazi trubi'o loi glepre
+jamji'a ku noi se nelcu'a la papas cu pubaziki trubi'o loi glepre
 ku noi ke'a turni djica gi'e puziku mutce co se slabu le nu trubasti je 
-jamji'a i la eduin joi la morkar goi lei turni be la mersias fa'u 
-la nortumbrias li'u
+jamji'a i la eduin joi la morkar vu'ogoi lei turni be la mersias fa'u 
+la nortumbrias li'u li'u
 
 @c      `Ugh!' said the Lory, with a shiver.
+
+i lu o'unai sei la loris cusku je desku li'u
 
 @c      `I beg your pardon!' said the Mouse, frowning, but very
 @c    politely:  `Did you speak?'
 
+i lu ke'ope'u sei la smacu cu cusku je frumu jekeku'i clite mutce
+i xu do cusku li'u
+
 @c      `Not I!' said the Lory hastily.
+
+i lu na'ebo mi sei la loris sutra co cusku li'u
 
 @c      `I thought you did,' said the Mouse.  `--I proceed.  "Edwin and
 @c    Morcar, the earls of Mercia and Northumbria, declared for him:
 @c    and even Stigand, the patriotic archbishop of Canterbury, found
 @c    it advisable--"'
 
+i lu mi jinvi le du'u go'e sei la cmaci cu cusku i mi ca'o cusku i lu
+la eduin joi la morkar vu'ogoi lei turni be la mersias fa'u la
+nortumbrias cu xusra seva'u ubu ije la stigand ji'a goi le
+naijgi ke ralju seljdagidva pe la kanterburis cu facki fi da fe le du'u se djica li'u
+
 @c      `Found WHAT?' said the Duck.
+
+i lu facki fi ba'e ma sei la datka cusku li'u
 
 @c      `Found IT,' the Mouse replied rather crossly:  `of course you
 @c    know what "it" means.'
 
+i lu facki fi ba'e da sei la smacu cu spudu co fengu milxe i li'a
+do djuno le du'u zo da sinxa ma li'u
+
 @c      `I know what "it" means well enough, when I find a thing,' said
 @c    the Duck:  `it's generally a frog or a worm.  The question is,
 @c    what did the archbishop find?'
+
+i lu mi djuno je'u le du'u makau sinxa zo da kei ca le nu mi facki
+sei la datka cu cusku fi da poi so'iroi banfi ja curnu i le preti
+zo'u fi ma fa le ralju seljdagidva cu facki li'u
 
 @c      The Mouse did not notice this question, but hurriedly went on,
 @c    `"--found it advisable to go with Edgar Atheling to meet William
@@ -90,24 +111,50 @@ la nortumbrias li'u
 @c    getting on now, my dear?' it continued, turning to Alice as it
 @c    spoke.
 
+i la smacu cu na sanji le di'u preti i ku'i sutra co ranji cusku
+lu facki le du'u se djica fa le nu kansa la edgar atelin le nu
+penmi la uiliam gi'e friti fi ubu fe le nu turni li'u
+
 @c      `As wet as ever,' said Alice in a melancholy tone:  `it doesn't
 @c    seem to dry me at all.'
+
+i lu cilmo du'i le ka pu cilmo sei la alis badri cusku i simlu
+le ka nalmilxe ji'a co sudgau mi li'u
 
 @c      `In that case,' said the Dodo solemnly, rising to its feet, `I
 @c    move that the meeting adjourn, for the immediate adoption of more
 @c    energetic remedies--'
+
+i lu iseki'ubo sei la dodos junri cusku co sanli be fi lei tuple
+i mi stidi le du'u le nu penmi cu tolcfa ki'u le nu pilno lo tolcadmau
+danfu li'u
 
 @c      `Speak English!' said the Eaglet.  `I don't know the meaning of
 @c    half those long words, and, what's more, I don't believe you do
 @c    either!'  And the Eaglet bent down its head to hide a smile:
 @c    some of the other birds tittered audibly.
 
+i lu ko seke lojbo bangu sei la cipnrxakuila cifnu cu cusku i mi
+na se slabu le smuni be pisu'omu lei di'u clani valsi ije mi jinvi
+le du'u do ji'a na go'i li'u i la cipnrxakuila cifnu cu krogau
+le stedu mu'i le nu mipri le nu cisma i pisu'o lei drata cipni
+cu mi'amli co se tirna
+
 @c      `What I was going to say,' said the Dodo in an offended tone,
 @c    `was, that the best thing to get us dry would be a Caucus-race.'
+
+i lu le pubazi se cusku be mi sei la dodos se xrani cusku cu du'u
+le traji co se jalge be le nu sudgau mi'o cu me la kaukus nu bajra
+jivni li'u
 
 @c      `What IS a Caucus-race?' said Alice; not that she wanted much
 @c    to know, but the Dodo had paused as if it thought that SOMEBODY
 @c    ought to speak, and no one else seemed inclined to say anything.
+
+i lu ki'a me la kaukus nu bajra jivni sei la alis cusku li'u i ko'a
+na'e mutce co djica le nu djuno i ku'i la dodos pu denpa setai
+le nu dy jinvi le du'u ba'e da ei tavla ije no drata pu simlu le ka
+djica le nu cusku da
 
 @c      `Why,' said the Dodo, `the best way to explain it is to do it.'
 @c    (And, as you might like to try the thing yourself, some winter
@@ -287,3 +334,13 @@ la nortumbrias li'u
 @c    footsteps in the distance, and she looked up eagerly, half hoping
 @c    that the Mouse had changed his mind, and was coming back to
 @c    finish his story.
+
+
+
+
+
+
+
+
+
+
