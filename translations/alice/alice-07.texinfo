@@ -1,11 +1,11 @@
 @node    zemo'o, bimo'o, xamo'o, Top
-@chapter zemo'o [A Mad Tea-Party]
-
+@chapter zemo'o fenki tcati te salci
 
 @c                               CHAPTER VII
+                                zemo'o ckupau
 
 @c                             A Mad Tea-Party
-
+                            fenki tcati te salci
 
 @c      There was a table set out under a tree in front of the house,
 @c    and the March Hare and the Hatter were having tea at it:  a
