@@ -36,8 +36,7 @@ ruxse'i be la cevni cu fregau le djacu
 
 @c    1:4. And God saw the light that it was good; and he divided the light
 @c    from the darkness.
-1:4. .i la cevni cu catlu le gusni noi xamgu .i seirgau le gusni le manku
-@c I really want a selbri meaning "x1 sees that x2 has quality x3".
+1:4. .i la cevni cu ga'ezga le gusni le ka xamgu .i seirgau le gusni le manku
 @c .i zgana fa la cevni le gusni fi'o se jinvi loza'i xamgu
 @c .i fedri'a fa la cevni fo le gusni ku ce le manku (ku)
 
@@ -321,7 +320,7 @@ fi voda
 @c    2:11. The name of the one is Phison:  that is it which compasseth all
 @c    the land of Hevilath, where gold groweth.
 @c "gold groweth"? -phma
-2:11. .i le pamoi se cmene zo .piCON. gi'e tonli'u piro la xaviLAT. no'u le
+2:11. .i le pamoi se cmene zo .piCON. gi'e tonli'u piro la xaviLOT. no'u le
 tumla noi se zvati lo solji
 
 @c    2:12. And the gold of that land is very good:  there is found bdellium,
@@ -395,7 +394,7 @@ speni .ibo le remei cu binxo pa rectu toi
 
 @c    2:25. And they were both naked:  to wit, Adam and his wife:  and were not
 @c    ashamed.
-2:25. .i la .aDAM. .e le ninmu cu tafcau gi'enai ckeji
+2:25. .i la .aDAM. .e le ninmu vu'o noi se remei cu tafcau gi'enai ckeji
 
 
 @c    Genesis Chapter 3
@@ -407,28 +406,42 @@ speni .ibo le remei cu binxo pa rectu toi
 @c    3:1. Now the serpent was more subtle than any of the beasts of the
 @c    earth which the Lord God had made.  And he said to the woman:  Why hath
 @c    God commanded you, that you should not eat of every tree of paradise?
+3:1. ni'o le since cu ticrai le'i foldi danlu poi se zbasu la .iaves. noi
+cevni .i sy cusku lu xusai le cevni cu cusku lu ro purdi tricu zo'u ko naku
+citka li'u li'u le ninmu
 
 @c    3:2. And the woman answered him, saying:  Of the fruit of the trees that
 @c    are in paradise we do eat:
+3:2. .i le ninmu cu dafsku lu le grute be le purdi tricu zo'u mi'a citka
 
 @c    3:3. But of the fruit of the tree which is in the midst of paradise,
 @c    God hath commanded us that we should not eat; and that we should not
 @c    touch it, lest perhaps we die.
+3:3. .iku'i le grute be le tricu poi midju le purdi zo'i le cevni cu cusku
+lu ko na citka gi'e na pencu tezu'e do na mrobi'o li'u li'u
 
 @c    3:4. And the serpent said to the woman:  No, you shall not die the
 @c    death.
+3:4. .i le since cu cusku lu do'o nasai mrobi'o
 
 @c    3:5. For God doth know that in what day soever you shall eat thereof,
 @c    your eyes shall be opened:  and you shall be as Gods, knowing good and
 @c    evil.
+3:5. .ini'ibo du'o le cevni ca lenu do'o citka ra kei le kanla be do cu
+<nifqaxu> .ije do simsa le cevni le ka djuno fi le vrude .e lo palci
 
 @c    3:6. And the woman saw that the tree was good to eat, and fair to the
 @c    eyes, and delightful to behold:  and she took of the fruit thereof, and
 @c    did eat, and gave to her husband, who did eat.
+3:6. .i le ninmu cu ga'ezga le tricu le ka cidja xamgu .e le ka kanla melbi
+.e le ka seldji fi lenu pijbi'o .i lebna gi'e citka vau lo grute be ty .i
+dunda fi le speni be vo'a be'o noi kansa ra .i ri citka
 
 @c    3:7. And the eyes of them both were opened:  and when they perceived
 @c    themselves to be naked, they sewed together fig leaves, and made
 @c    themselves aprons.
+3:7. .i le kanla be rera cu se <tipaqaxena> .i djuno le nu tafcau gi'e fenso
+zbasu lo palku lo figre pezli
 
 @c    And the eyes, etc. . .Not that they were blind before, (for the woman
 @c    saw that the tree was fair to the eyes, ver. 6.) nor yet that their
