@@ -302,14 +302,27 @@ i di'e penmi co se tcidu le blabi ractu
 @c      `That's the most important piece of evidence we've heard yet,'
 @c    said the King, rubbing his hands; `so now let the jury--'
 
+i lu la'e di'u cu vajrai lei datni poi se tirna ca le cabdei sei le 
+noltrunau noi xance simymosra cu cusku i seki'ubo ei le pairkanmi li'o 
+li'u
+
 @c      `If any one of them can explain it,' said Alice, (she had
 @c    grown so large in the last few minutes that she wasn't a bit
 @c    afraid of interrupting him,) `I'll give him sixpence.  _I_ don't
 @c    believe there's an atom of meaning in it.'
 
+i lu va'o le nu py ka'e ciksi di'u kei sei la alis cusku to abu cu banro
+lo tai barda ze'a le puzi mentu be li so'u ja'e le nu abu nasai terpa
+le nu zunti ny toi mi dunda lo rupnu py i ba'e mi na jinvi le du'u lo
+selci ji'asai di'u smuni li'u  
+
 @c      The jury all wrote down on their slates, `SHE doesn't believe
 @c    there's an atom of meaning in it,' but none of them attempted to
 @c    explain the paper.
+
+i ro le pairkamnycmi cu ciska fi le tanbo fe lu ba'e ta na jinvi le
+du'u lo selci ji'asai di'u smuni li'u gi'enai ku'i troci le nu ciksi
+le pelji   
 
 @c      `If there's no meaning in it,' said the King, `that saves a
 @c    world of trouble, you know, as we needn't try to find any.  And
