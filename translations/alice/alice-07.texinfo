@@ -138,18 +138,38 @@ mi skudji le mi se cusku i la'e di'u mintu li'u
 @c    as well say that "I see what I eat" is the same thing as "I eat
 @c    what I see"!'
 
+i lu na mintu li'u se cusku la mapypre i lu i do du'i ka'e cusku 
+le du'u lu mi viska le mi se citka li'u mintu lu mi citka le mi
+se viska li'u li'u
+
+
 @c      `You might just as well say,' added the March Hare, `that "I
 @c    like what I get" is the same thing as "I get what I like"!'
+
+i lu do du'i ka'e cusku sei la cibmoimasti cicractu cu jmina le du'u
+lu mi nelci le mi se cpacu li'u mintu lu mi cpacu le mi se nelci li'u li'u
+
 
 @c      `You might just as well say,' added the Dormouse, who seemed to
 @c    be talking in his sleep, `that "I breathe when I sleep" is the
 @c    same thing as "I sleep when I breathe"!'
+
+i lu do du'i ka'e cusku sei la sipsmacu noi simlu le ka sipna tavla 
+cu jmina le du'u lu mi vasxu ca le nu sipna li'u mintu lu mi sipna
+ca le nu vasxu li'u  
+
 
 @c      `It IS the same thing with you,' said the Hatter, and here the
 @c    conversation dropped, and the party sat silent for a minute,
 @c    while Alice thought over all she could remember about ravens and
 @c    writing-desks, which wasn't much.
 
+i lu ja'a mintu sera'a do li'u se cusku la mapypre i le nunsnu ca 
+te denpa i lei kansi'u cu smaji zutse ze'a lo mentu ze'a le nu la alis
+pensi piro da poi abu morji ke'a lo'e cipnrkorvi a lo'e ciska jubme
+zi'e noi na so'imei
+
+ 
 @c      The Hatter was the first to break the silence.  `What day of
 @c    the month is it?' he said, turning to Alice:  he had taken his
 @c    watch out of his pocket, and was looking at it uneasily, shaking
