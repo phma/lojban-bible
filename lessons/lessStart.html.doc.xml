@@ -2,6 +2,7 @@
 <!ENTITY mdash "--">
 <!ENTITY ndash "-">
 <!ENTITY rArr "=&gt;">
+<!ENTITY uuml "&#252;">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">
