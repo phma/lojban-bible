@@ -377,6 +377,8 @@ le nu prije cu vimcu le drudi li'u i bazi lo mentu be li pabi'ire
 co'a za'ure'u ru'u muvdu i la alis tirna le nu le ractu cu cusku
 lu pa carcylai cu banzu le nu co'a co'e li'u
 @c paji'ire is about twelve - maybe ten to fourteen.
+@c That's {ji'ipare}. It doesn't make much sense to treat {ji'i} as 
+@c modifying a digit rather than a number. --xorxes
 
 @c      `A barrowful of WHAT?' thought Alice; but she had not long to
 @c    doubt, for the next moment a shower of little pebbles came
@@ -417,11 +419,11 @@ cmazengau mi li'u
 i seki'ubo abu tunlo pa le nanba gi'e gleki le nu facki le du'u abu
 ca co'a cmaze'a i ca le nu abu cmalu banzu le nu pagre le vorme keikei
 abu bajra klama le bartu be le zdani gi'e penmi lo so'imei be loi cmalu
-danlu e cipni vu'o noi denpa i le cmalu rebyrespala uu no'u la bil midju
+danlu e cipni vu'o noi denpa i le cmalu rebyrespa uu no'u la bil midju
 lei ro da gi'e se sarju re smacrkobaiu noi dunda lo se botpi i roda
 sutra fa'a la alis ca le nu abu tolcanci i ku'i abu to'o bajra rai le
 ka sutra gi'ebazi snura zvati lo denmi ricmei
-@c rebyrespala ki'a .i zo rebyrespa xu basti
+@c rebyrespala ki'a .i zo rebyrespa xu basti  --yes.
 
 @c      `The first thing I've got to do,' said Alice to herself, as she
 @c    wandered about in the wood, `is to grow to my right size again;
