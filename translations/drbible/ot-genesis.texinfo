@@ -282,7 +282,7 @@ ne ja'i lori jutsi ge'u .e loi dertu befydzu ne ja'i lori jutsi
 @c    him have dominion over the fishes of the sea, and the fowls of the air,
 @c    and the beasts, and the whole earth, and every creeping creature that
 @c    moveth upon the earth.
-1:26. .i bacru fa la cevni lu .ai mi zbasu loi remna ne ta'i le
+1:26. .i bacru fa la cevni lu .ai mi zbasu loi remna ne tai le
 se tarmi be mi
 .i ra turni ba'a.e'a loi xamsi finpe .e loi tsani cipni .e loi danlu .e
 piro loi terdi .e piro loi befydzu noi befydzu loi terdi li'u
@@ -453,23 +453,26 @@ fi voda
 @c    2:11. The name of the one is Phison:  that is it which compasseth all
 @c    the land of Hevilath, where gold groweth.
 @c "gold groweth"? -phma
-2:11. .i le pamoi se cmene zo .piCON. gi'e tonli'u piro la xaviLOT. no'u le
+2:11. .i le pamoi se cmene zo .piCON. gi'e sruri piro la xaviLOT. no'u le
 tumla noi se zvati lo solji
 @c Shouldn't it be 'xaviLAT'?
 @c I think that 'sruri' is better than 'tonli'u' (also in the following)
 @c -- Adam
+@c Tried that already. "xaviLAT" breaks up into "xa vi la T".
 
 @c    2:12. And the gold of that land is very good:  there is found bdellium,
 @c    and the onyx stone.
-2:12. to le vi ra ku solji cu xamgu .iji'a lo majrbdola .e lo ja'unro'i
+2:12. to le vi ra ku solji cu xamgu .iji'a lo krilrbdola .e lo ja'unro'i
 cu zvati ra toi
 @c 'le vi ra ku solji' is ungrammatical. Maybe 'le solji pe vi (bu'u?) ra' (xy
-@c would be more specific.) I think that 'bdolax' is 'krili'. What is a 
-'claw rock'? -- Adam
+@c would be more specific.) I think that 'bdolax' is 'krili'. What is a
+@c 'claw rock'? -- Adam
+@c Onyx is so called because it looks like fingernail.
+@c Should it then be 'krilrbdola'? It sounds like a specific material to me. -phma
 
 @c    2:13. And the name of the second river is Gehon:  the same is it that
 @c    compasseth all the land of Ethiopia.
-2:13. .i le remoi rirxe se cmene zo .gi'ON. gi'e tonli'u piro la kuc. noi tumla
+2:13. .i le remoi rirxe se cmene zo .giXON. gi'e sruri piro la kuc. noi tumla
 @ I think that 'giXON' is a better transliteration. -- Adam
 
 @c    2:14. And the name of the third river is Tigris:  the same passeth along
@@ -503,17 +506,17 @@ lo palci .iki'ubo ca le nu do citka kei do ba'e morsi li'u
 
 @c    2:18. And the Lord God said:  It is not good for man to be alone:  let us
 @c    make him a help like unto himself.
-2:18. .i la .iaves. cu cusku lu le nu le nanmu cu pamei na xamgu .i.e'u mi zbasu
-le dutsimsa sidju be ny
+2:18. .i la .iaves. cu cusku lu le nu le nanmu cu pamei na xamgu .i.ai mi zbasu
+le dutsimsa sidju be ny li'u
 @c I think that 'ai' would be better than '.e'u'. -- Adam
 
 @c    2:19. And the Lord God having formed out of the ground all the beasts
 @c    of the earth, and all the fowls of the air, brought them to Adam to see
 @c    what he would call them:  for whatsoever Adam called any living creature
 @c    the same is its name.
-2:19. .i la .iaves. noi cevni pu zbasu fi le dertu ro danlu pe le terdi
-.e ro cipni pe le vacri .ije klagau fi la .aDAM. tezu'e lenu facki fi ra
-le du'u cmedunda makau .ija'ebo le se cmedunda be ro jmive bei la .aDAM be'o
+2:19. .i la .iaves. noi cevni pu zbasu fi le dertu fe ro danlu pe le terdi
+.e ro cipni pe le vacri .ije klagau fi la .aDAM. tezu'e lenu facki
+le du'u te cmene makau .ija'ebo le se cmene be ro jmive bei la .aDAM be'o
 cmene ca'e jy
 @c 'fi le dertu fe ro danlu'
 @c 'fi ra' is redundant, and it makes you tag the next sumti with 'fe'.
@@ -522,16 +525,19 @@ cmene ca'e jy
 @c    2:20. And Adam called all the beasts by their names, and all the fowls
 @c    of the air, and all the cattle of the field:  but for Adam there was not
 @c    found a helper like himself.
-2:20. .i la .aDAM. cmedu'a fi ro mabru .e ro cipni pe le vacri .e ro danlu pe le
+2:20. .i la .aDAM. cmedu'a fi ro mabru .e ro cipni pe le tsani .e ro danlu pe le
 foldi .iku'i na facki lo dutsimsa sidju la .aDAM.
 @c 'shamayim' is 'tsani', and 'facki' here should be 'tolcri'. -- Adam
+@c 'tolcri lo dutsimsa sidju la .aDAM' doesn't make sense. The problem here is,
+@c given Adam, find his match, and that's facki. -phma
 
 @c    2:21. Then the Lord God cast a deep sleep upon Adam:  and when he was
 @c    fast asleep, he took one of his ribs, and filled up flesh for it.
-2:21. .i la .iaves. noi cevni cu gasnu lenu la .aDAM. cu tardema .i ca lenu
+2:21. .i la .iaves. noi cevni cu gasnu lenu la .aDAM. cu sipcai .i ca lenu
 sipna ku tolse'a pa le .abu cutybo'u gi'e basti setca lo rectu
 @c 'tardema' is 'sipcai'. 'basti' should be 'basygau' ('basygau je setca')
 @c -- Adam
+@c It's a tanru. 'basti setca' is fine, since lo rectu cu basti.
 
 @c    2:22. And the Lord God built the rib which he took from Adam into a
 @c    woman:  and brought her to Adam.
@@ -542,21 +548,22 @@ la .aDAM. gi'e pengau ra la .aDAM.
 @c    2:23. And Adam said:  This now is bone of my bones, and flesh of my
 @c    flesh; she shall be called woman, because she was taken out of man.
 2:23. .i la .aDAM. cusku lu ti te bongu fi le bongu be fi mi gi'e se rectu le
-rectu be fe mi .i ti se cmene zo ninmu mu'i lenu ti tolse'a le nanmu li'u
+rectu be fe mi .i ti se cmene zo ninmu ki'u lenu ti tolse'a le nanmu li'u
 @c 'fe' is redundant'. I would add 'ca'e' to the 'se cmene' sentence.
 @c I think the 'ki'u' is more appropriate than 'mu'i'. -- Adam
+@c 'fe' is there for parallelism. -phma
 
 @c    2:24. Wherefore a man shall leave father and mother, and shall cleave
 @c    to his wife:  and they shall be two in one flesh.
-2:24. to .iseki'ubo lo'e nanmu cu cliva lo'e patfu .e lo'e mamta gi'e snipa lo'e
-speni .ibo le remei cu binxo pa rectu toi
+2:24. to .iseki'ubo lo'e nanmu cu cliva leri patfu .e lera mamta gi'e jorne lera
+speni .ibo le remei cu binxo pa xadni toi
 @c I think that 'lo'e' should be avoided as it's not clear what it means.
 @c At any rate the most canonical meaning doesn't work here. ('the typical
 @c man will leave the typical father?') -- Adam
 
 @c    2:25. And they were both naked:  to wit, Adam and his wife:  and were not
 @c    ashamed.
-2:25. .i la .aDAM. .e le ninmu vu'o noi se remei cu tafcau gi'enai ckeji
+2:25. .i le remei no'u la .aDAM. joi le ninmu cu lunbe gi'enai ckeji
 @c better 'lunbe' than 'tafcau'.
 @c 'shneyhem ... ha-adam ve-ishto' is more like 'le remei noi la .aDAM joi le ninmu'.
 @c -- Adam
