@@ -197,6 +197,16 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @c        And the muscular strength, which it gave to my jaw,
 @c          Has lasted the rest of my life.'
 
+@c        `You are old,' said the youth, `one would hardly suppose
+@c          That your eye was as steady as ever;
+@c        Yet you balanced an eel on the end of your nose--
+@c          What made you so awfully clever?'
+
+@c        `I have answered three questions, and that is enough,'
+@c          Said his father; `don't give yourself airs!
+@c        Do you think I can listen all day to such stuff?
+@c          Be off, or I'll kick you down stairs!'
+
 @format
 
       do tolci'o doi paf sei le citnau cu cusku
@@ -204,6 +214,14 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @     i ku'i do ru'i lolsanli le stedu
       i ue do le loldi le stedu cu sanli
       i do jinvi xu le du'u drani
+     
+@c Poetic license, I suppose. That means "you stand on a head which is on the floor",
+@c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
+
+@ I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
+@ x2 of sanli, so it doesn't appear in the place structure of lolsanli.
+@ But I changed it anyway.
+
 
       i ca le mi nunci'o sei la uiliam spuda
       mi terpa le nu mi se benxai
@@ -228,29 +246,19 @@ i la alis polje lei xance gi'e co'a co'e di'e
       i ca le mi nunci'o mi flara'a gunka
       gi'e roda le speni cu darlu
       i le jalge ke sluji kamtsa pe le xedja
-      cu renvi fi le mi nunjmive       
-            
+      cu renvi fi le mi nunjmive  
+
+      i do tolci'o sei cusku i nandu co sruma
+      le nu le do kanla cu vlipa
+      i ku'i lo xasycurnu gau do nazbi lanxe
+      i ma rinka le nu do tai certu
+
+      i mi ba'o spuda ci preti noi banzu
+      sei le patfu cu cusku i ko cumla
+      i pe'ipei mi do ba tirna ze'esai
+      i ko cliva inaja mi do tikpa
 
 @end format
-@c Poetic license, I suppose. That means "you stand on a head which is on the floor",
-@c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
-
-@ I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
-@ x2 of sanli, so it doesn't appear in the place structure of lolsanli.
-@ But I changed it anyway.
-
-
-
-@c        `You are old,' said the youth, `one would hardly suppose
-@c          That your eye was as steady as ever;
-@c        Yet you balanced an eel on the end of your nose--
-@c          What made you so awfully clever?'
-
-@c        `I have answered three questions, and that is enough,'
-@c          Said his father; `don't give yourself airs!
-@c        Do you think I can listen all day to such stuff?
-@c          Be off, or I'll kick you down stairs!'
-
 
 @c      `That is not said right,' said the Caterpillar.
 
