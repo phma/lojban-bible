@@ -15,29 +15,50 @@ _ugly_.
 Notes on Changes
 ================
 
-> I translated a paragraph from alice-01. The problem I see now is that
-> unless one person coordinates the whole thing, the translation will be
-> horribly hodgepodgy. I suppose it would not be right for me to edit
-> what someone else translated or for someone else to edit what I
-> translated.
-
-Ah, important point.
-
-I think that people should _absolutely_ edit other people's work.
-Hopefully things will eventually settle on the 'best' translation.  So
-please, read what other people have done!
+People should _absolutely_ edit other people's work. Hopefully things
+will eventually settle on the 'best' translation.  So please, read what
+other people have done!
 
 However, I do request that when you do so you put a comment (@c at th
 beginning of the line marks comments) saying why you made the change.
 
-> Changes are not recorded, right?
 
-They most certainly _are_ recorded, this is the whole point of using
+Here's a small set of guidelines on those comments (Courtesy of Jay
+Kominek):
+
+
+1) If there is a grammatical error where the correction is obvious, then
+fix it. No need to make a note of anything.
+
+2) If there is a grammatical error where the correction isn't obvious,
+then fix it, and make a little note.
+
+3) If you think that some grmmatical form was poorly chosen, make a
+note, but don't do anything.
+
+4) If you think a word is really badly chosen, make a note.
+
+5) If you think a word is _stylistically_ poorly chosen, (because you
+don't like some cmavo, or when gismu are similar. 'drink' vs 'eat' for
+something ambigous, like gelatin), then just make a mental note of it to
+discuss when translation is nearing completion and the whole thing has
+to be made consistent.
+
+
+Worrying about consistency during the initial phase of a group
+translation project seems like it might be premature. (Though something
+to keep in the back of your mind.) A final pass for consistency will be
+needed no matter what.
+
+So, don't worry about consistency too much.  Stylistic consistency will
+be up to whomever edits the final draft, but let's get it _done_ first,
+yes?
+
+
+Changes most certainly _are_ recorded, this is the whole point of using
 CVS.  I can revert to _any_ previous version if people give me a good
 reason to do so (i.e. you accidentally checked in a version with most of
 the text missing).
-
--Robin
 
 
 
