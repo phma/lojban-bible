@@ -1389,7 +1389,7 @@ xriso xis     xi'o  cristiano       x1 refleja cultura/religión cristiana en asp
 xruba xub           alforfón        x1 es una cantidad de alforfón/trigo_sarraceno/ruibarbo/acedera de especie/variedad x2;
 xruki xuk           pavo            x1 es un pavo de especie/raza x2;
 xrula rul           flor            x1 es una flor de planta/especie x2;
-xruti     xru       volver          x1 vuelve/regresa/retorna a estado/lugar anterior/original x2 desde x3;
+xruti     xru       volver          x1 vuelve/regresa/retorna a estado/lugar anterior/original x2 desde x3; [def. oficial: x1 devuelve/regresa x2 a persona/estado/lugar anterior/original x3 desde x4]
 xukmi xum     xu'i  sustancia       x1 es una cantidad de sustancia química x2 con pureza x3;
 xunre xun     xu'e  rojo            x1 es rojo/colorado (color);
 xurdo xur     xu'o  urdu            x1 refleja cultura/nacionalidad/idioma urdu en aspecto x2;
