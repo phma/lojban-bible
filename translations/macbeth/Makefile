@@ -25,8 +25,8 @@ clean:
 $(DOCPS): $(DOCDVI)
 	dvips $(DOCDVI) -o $(DOCPS)
 
-$(DOCPDF): $(DOCDVI)
-	dvipdf $(DOCDVI) $(DOCPDF)
+$(DOCPDF): $(DOCSRC)
+	pdflatex $(DOCSRC)
 
 $(DOCHTML): $(DOCSRC)
 	latex2html $(DOCSRC)
