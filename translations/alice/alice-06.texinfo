@@ -378,56 +378,110 @@ le terdi cu cacra le jendu kei li revo cacra li'u
 @c      `That depends a good deal on where you want to get to,' said
 @c    the Cat.
 
+i lu la'e di'u jalge le du'u do djica le nu klama makau sei le mlatu
+cu cusku li'u
+
 @c      `I don't much care where--' said Alice.
+
+i lu tu'a makau na vajni mi sei la alis cusku li'u
 
 @c      `Then it doesn't matter which way you go,' said the Cat.
 
+i va'o la'e di'u na vajni fa le nu do klama fo makau sei le mlatu cu
+cusku li'u
+
 @c      `--so long as I get SOMEWHERE,' Alice added as an explanation.
+
+i lu va'o lo nu mi klama ba'e da sei la alis ciksi jmina li'u
 
 @c      `Oh, you're sure to do that,' said the Cat, `if you only walk
 @c    long enough.'
 
+i lu ua ju'o do co'e sei le mlatu cu cusku va'o le nu do cadzu 
+ze'a lo banzu li'u
+
 @c      Alice felt that this could not be denied, so she tried another
 @c    question.  `What sort of people live about here?'
+
+i la alis jinvi le du'u la'e di'u ka'enai te darlu iseki'ubo abu troci
+tu'a lo drata preti i lu loi mo prenu cu xabju le vi sruri li'u
 
 @c      `In THAT direction,' the Cat said, waving its right paw round,
 @c    `lives a Hatter:  and in THAT direction,' waving the other paw,
 @c    `lives a March Hare.  Visit either you like:  they're both mad.'
 
+i lu vufa'a tu sei le mlatu cu pritu xance desku cusku cu xabju lo 
+mapypre i vufa'a tu sei drata xance desku cu xabju lo cibmasti 
+cicyractu i ko vitke le do se nelci i le reda cu fenki li'u
+
 @c      `But I don't want to go among mad people,' Alice remarked.
+
+i lu ku'i mi na djica le nu jbini loi fenki sei la alis te pinka li'u
 
 @c      `Oh, you can't help that,' said the Cat:  `we're all mad here.
 @c    I'm mad.  You're mad.'
 
+i lu o'o do ka'enai rivbi sei le mlatu cu cusku i ro ma'a vi fenki
+i mi fenki i do fenki li'u
+
 @c      `How do you know I'm mad?' said Alice.
 
+i lu do jinvi le du'u mi fenki kei fo ma li'u
+
 @c      `You must be,' said the Cat, `or you wouldn't have come here.'
+
+i lu ju'o do co'e sei le mlatu cu cusku ija do na ba'o klama ti li'u
 
 @c      Alice didn't think that proved it at all; however, she went on
 @c    `And how do you know that you're mad?'
 
+i la alis nasai jinvi le du'u la'e di'u cu je'urja'o i ku'i di'a co'e
+lu do jinvi le du'u do fenki kei fo ma li'u
+
 @c      `To begin with,' said the Cat, `a dog's not mad.  You grant
 @c    that?'
 
+i lu pamai sei le mlatu cu cusku lo'e gerku na fenki i iepei li'u
+
 @c      `I suppose so,' said Alice.
+
+i lu ieru'e sei la alis cusku li'u
 
 @c      `Well, then,' the Cat went on, `you see, a dog growls when it's
 @c    angry, and wags its tail when it's pleased.  Now I growl when I'm
 @c    pleased, and wag my tail when I'm angry.  Therefore I'm mad.'
 
+i lu ka'u le mlatu cu di'a co'e lo'e gerku cu cmoni ca le nu fengu kei 
+gi'e rebla deskygau ca le nu gleki i zu'unai mi cmoni ca le nu gleki kei 
+gi'e rebla deskygau ca le nu fengu iseni'ibo mi fenki li'u
+
 @c      `I call it purring, not growling,' said Alice.
+
+i lu mi te cmene fi zo pukcmo enai zo cmoni sei la alis cusku li'u
 
 @c      `Call it what you like,' said the Cat.  `Do you play croquet
 @c    with the Queen to-day?'
 
+i lu ko te cmene fi lo do se nelci sei le mlatu cu cusku i xu do kansa
+le noltruni'u le nu kelcrkroke ca le cabdei li'u
+
 @c      `I should like it very much,' said Alice, `but I haven't been
 @c    invited yet.'
 
+i lu mi mutce le ka nelci la'e di'u sei la alis cusku i ku'i mi za'o 
+na te friti li'u 
+
 @c      `You'll see me there,' said the Cat, and vanished.
+
+i lu do mi ba bu'u viska sei le mlatu cu cusku li'u i my canci
 
 @c      Alice was not much surprised at this, she was getting so used
 @c    to queer things happening.  While she was looking at the place
 @c    where it had been, it suddenly appeared again.
+
+i la alis na mutce se spaji la'e di'u ki'u le nu abu ca'o co'a se tcaci 
+le nu loi cizra cu fasnu i ca le nu abu catlu le stuzi be le nu my pu
+zvati kei my za'ure'u tolcanci
 
 @c      `By-the-bye, what became of the baby?' said the Cat.  `I'd
 @c    nearly forgotten to ask.'
@@ -440,6 +494,9 @@ lenu terpreti li'u
 xruti vo'a
 
 @c      `I thought it would,' said the Cat, and vanished again.
+
+i lu mi pu jinvi le du'u go'i sei le mlatu cu cusku li'u i za'ure'u
+canci
 
 @c      Alice waited a little, half expecting to see it again, but it
 @c    did not appear, and after a minute or two she walked on in the
