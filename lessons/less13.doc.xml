@@ -1,13 +1,13 @@
 <chapter id="less13"><title>Keeping it flowing: Textual <foreignphrase 
 lang="art-lojban">cmavo</foreignphrase></title>
 
-<para>Most of what we've been concentrating on until now has had to do 
-with the logical side of Lojban &mdash; getting sentences to be true. To 
-that end, we've been looking at how to describe relationships between 
-things (<foreignphrase lang="art-lojban">bridi</foreignphrase>, internal <foreignphrase lang="art-lojban">sumti</foreignphrase>); how to situate events and things in time and space; 
-how to describe things as masses or individuals; how to speak about events 
-and facts; and so on.
-</para>
+<para>Most of what we've been concentrating on until now has had to do with
+the logical side of Lojban &mdash; getting sentences to be true. To that
+end, we've been looking at how to describe relationships between things
+(<foreignphrase lang="art-lojban">bridi</foreignphrase>, internal
+<foreignphrase lang="art-lojban">sumti</foreignphrase>); how to situate
+events and things in time and space; how to describe things as masses or
+individuals; how to speak about events and facts; and so on. </para>
 
 <para>This kind of thing is the <quote role="socalled">hard-core</quote> of
 Lojban, so to speak; the logical machinery on which Lojban is based, and
@@ -71,26 +71,26 @@ lang="art-lojban">cu'i</foreignphrase>. So <foreignphrase
 lang="art-lojban">.a'ucu'i</foreignphrase> expresses neither interest nor
 repulsion, but disinterest.</para>
 
-<para>You can divide up the continuum even more finely. If you want to say 
+<para>You can divide up the continuum even more finely. If you want to say
 that you feel an emotion only weakly, you can add to it <foreignphrase
-lang="art-lojban">ru'e</foreignphrase>. If you want to say you feel it 
-strongly, you can add <foreignphrase
-lang="art-lojban">sai</foreignphrase>. And if you want to say you feel it 
-<emphasis>really</emphasis> strongly, you add <foreignphrase
-lang="art-lojban">cai</foreignphrase>. This gives you a seven-part scale: <foreignphrase
-lang="art-lojban">cai sai</foreignphrase> (nothing) <foreignphrase
-lang="art-lojban">ru'e cu'i nairu'e nai naisai naicai</foreignphrase>. So 
-for instance, if you want to say <quote>Eh. That's cool</quote>, you'd say <foreignphrase
-lang="art-lojban">.a'ucu'i</foreignphrase>. If you want to say 
-<quote>That is really gross!</quote>, you'd say <foreignphrase
-lang="art-lojban">.a'unaisai</foreignphrase>. And if you want to say 
-<quote>Oh my God, that is the most interesting thing in the world since the 
+lang="art-lojban">ru'e</foreignphrase>. If you want to say you feel it
+strongly, you can add <foreignphrase lang="art-lojban">sai</foreignphrase>.
+And if you want to say you feel it <emphasis>really</emphasis> strongly,
+you add <foreignphrase lang="art-lojban">cai</foreignphrase>. This gives
+you a seven-part scale: <foreignphrase lang="art-lojban">cai
+sai</foreignphrase> (nothing) <foreignphrase lang="art-lojban">ru'e cu'i
+nairu'e nai naisai naicai</foreignphrase>. So for instance, if you want to
+say <quote>Eh. That's cool</quote>, you'd say <foreignphrase
+lang="art-lojban">.a'ucu'i</foreignphrase>. If you want to say <quote>That
+is really gross!</quote>, you'd say <foreignphrase
+lang="art-lojban">.a'unaisai</foreignphrase>. And if you want to say
+<quote>Oh my God, that is the most interesting thing in the world since the
 very invention of Lojban!</quote>, <foreignphrase
-lang="art-lojban">.a'ucai</foreignphrase> is a pretty safe bet. (All these 
-modifiers belong to <foreignphrase 
-lang="art-lojban">selma'o</foreignphrase> CAI, except for <foreignphrase 
-lang="art-lojban">nai</foreignphrase> &mdash; which turns up all over 
-Lojban grammar, as we've already seen, and has its own <foreignphrase 
+lang="art-lojban">.a'ucai</foreignphrase> is a pretty safe bet. (All these
+modifiers belong to <foreignphrase
+lang="art-lojban">selma'o</foreignphrase> CAI, except for <foreignphrase
+lang="art-lojban">nai</foreignphrase> &mdash; which turns up all over
+Lojban grammar, as we've already seen, and has its own <foreignphrase
 lang="art-lojban">selma'o</foreignphrase>, NAI.)</para>
 
 <para>There are 39 attitudinals fitting the pattern VV (two vowels,
@@ -326,17 +326,17 @@ sentences: <foreignphrase lang="art-lojban">.i mi venfu do doi melbi .e
 for <quote>I'll get you, my pretty &mdash; and your little dog,
 <emphasis>too</emphasis>!</quote></para>
 
-<para>In some cases, there is nothing to either contrast or add to what 
-you've said, because what you've said is the unique relevant case. In that 
-context, you would use <wordasword>only</wordasword> in English. Because 
-<wordasword>only</wordasword> is somewhat clumsy to express in terms of 
-pure logic, Lojban allows another discursive as its equivalent: <foreignphrase
-lang="art-lojban">po'o</foreignphrase>. So <quote>Only cats like catnip</quote> 
-is in Lojban <foreignphrase
-lang="art-lojban">loi mlatu po'o cu nelci loi spati be la'o ly. Nepeta 
-cataria ly.</foreignphrase> (<citetitle>Nepeta cataria</citetitle> being the 
-Linnaean name for catnip.) If you wanted to say that something is 
-<emphasis>not</emphasis> the only applicable case, then of course you'd say <foreignphrase
+<para>In some cases, there is nothing to either contrast or add to what
+you've said, because what you've said is the unique relevant case. In that
+context, you would use <wordasword>only</wordasword> in English. Because
+<wordasword>only</wordasword> is somewhat clumsy to express in terms of
+pure logic, Lojban allows another discursive as its equivalent:
+<foreignphrase lang="art-lojban">po'o</foreignphrase>. So <quote>Only cats
+like catnip</quote> is in Lojban <foreignphrase lang="art-lojban">loi mlatu
+po'o cu nelci loi spati be la'o ly. Nepeta cataria ly.</foreignphrase>
+(<citetitle>Nepeta cataria</citetitle> being the Linnaean name for catnip.)
+If you wanted to say that something is <emphasis>not</emphasis> the only
+applicable case, then of course you'd say <foreignphrase
 lang="art-lojban">po'onai</foreignphrase>.</para>
 
 <para>There are several more discursives, but because written English 

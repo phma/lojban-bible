@@ -4,6 +4,17 @@
 <!ENTITY rArr "=&gt;">
 <!ENTITY uuml "ue">
 <!ENTITY times "*">
+<!ENTITY lambda "LAMBDA">
+<!ENTITY glottal "'">
+<!ENTITY akl "aa">
+<!ENTITY dkl "rd">
+<!ENTITY gkl "G">
+<!ENTITY tlh "tl">
+<!ENTITY shkl "sh">
+<!ENTITY stress "">
+<!ENTITY length ":">
+<!ENTITY zhkl "zh">
+<!ENTITY ekl "E">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">
@@ -18,6 +29,7 @@
 <!ENTITY less12 SYSTEM "less12.doc.xml">
 <!ENTITY less13 SYSTEM "less13.doc.xml">
 <!ENTITY less14 SYSTEM "less14.doc.xml">
+<!ENTITY less15 SYSTEM "less15.doc.xml">
 <!ENTITY lessons SYSTEM "lessons.doc.xml">
 <!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
