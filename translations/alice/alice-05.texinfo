@@ -177,6 +177,16 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @c        But, now that I'm perfectly sure I have none,
 @c          Why, I do it again and again.'
 
+@c        `You are old,' said the youth, `as I mentioned before,
+@c          And have grown most uncommonly fat;
+@c        Yet you turned a back-somersault in at the door--
+@c          Pray, what is the reason of that?'
+
+@c        `In my youth,' said the sage, as he shook his grey locks,
+@c          `I kept all my limbs very supple
+@c        By the use of this ointment--one shilling the box--
+@c          Allow me to sell you a couple?'
+
 @format
 
       do tolci'o doi paf sei le citnau cu cusku
@@ -194,19 +204,18 @@ i la alis polje lei xance gi'e co'a co'e di'e
       i ku'i do plipe puzi vi le vorme
       i ma krinu le nu ka'e go'i
 
+      i ca le mi nuncitno sei le ruskre prije 
+      cu cusku mi rotsu se xadni
+      sepi'o le vi kruji noi fepni li pa
+      i xu do te vecnu lo remei
+
+
 @end format
 @c Poetic license, I suppose. That means "you stand on a head which is on the floor",
 @c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
 
-@c        `You are old,' said the youth, `as I mentioned before,
-@c          And have grown most uncommonly fat;
-@c        Yet you turned a back-somersault in at the door--
-@c          Pray, what is the reason of that?'
-
-@c        `In my youth,' said the sage, as he shook his grey locks,
-@c          `I kept all my limbs very supple
-@c        By the use of this ointment--one shilling the box--
-@c          Allow me to sell you a couple?'
+@ I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
+@ x2 of sanli, so it doesn't appear in the place structure of lolsanli.
 
 @c        `You are old,' said the youth, `and your jaws are too weak
 @c          For anything tougher than suet;
