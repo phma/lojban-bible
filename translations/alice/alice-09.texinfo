@@ -183,27 +183,49 @@ nu'o ckaji ke'a na drata di poi do simlu ke'a lei drata lo drata li'u li'u
 @c    politely, `if I had it written down:  but I can't quite follow it
 @c    as you say it.'
 
+i lu pe'i mi ka'e xagmau jimpe la'e di'u sei la alis clite mutce cusku
+va'o le nu ciska i ku'i mi ka'enai jimpe ca le nu do cusku li'u
+
 @c      `That's nothing to what I could say if I chose,' the Duchess
 @c    replied, in a pleased tone.
+
+i lu le nu di'u cu nomoi cu xe karbi di'u lo mi ka'e se cusku be va'o 
+le nu mi cuxna sei le noltroni'u cu se pluka tonga spuda li'u
 
 @c      `Pray don't trouble yourself to say it any longer than that,'
 @c    said Alice.
 
+i lu e'o ko ko na raktu le nu cusku sepi'o lo clamau sei la alis cusku li'u
+
 @c      `Oh, don't talk about trouble!' said the Duchess.  `I make you
 @c    a present of everything I've said as yet.'
+
+i lu o'a na raktu sei le noltroni'u cu cusku i mi dunda ro ca ba'o se
+cusku be mi do li'u 
 
 @c      `A cheap sort of present!' thought Alice.  `I'm glad they don't
 @c    give birthday presents like that!'  But she did not venture to
 @c    say it out loud.
 
+i lu tolkargu seldunda sei la alis pensi i mi gleki le nu na tai dunda 
+ca le jbedetri te salci li'u i ku'i abu na darsi le nu cladu cusku 
+
 @c      `Thinking again?' the Duchess asked, with another dig of her
 @c    sharp little chin.
+
+i lu xu za'ure'u pensi sei ca le nu za'ure'u ca'ergau le kinli je cmalu 
+firji'o kei le noltroni'u cu te preti li'u 
 
 @c      `I've a right to think,' said Alice sharply, for she was
 @c    beginning to feel a little worried.
 
+i lu mi zifre le nu pensi sei la alis noi co'a xanka cu kinli cusku li'u 
+
 @c      `Just about as much right,' said the Duchess, `as pigs have to fly;
 @c    and the m--'
+
+i lu du'i le nu zifre sei le noltroni'u cu cusku fa lo'e xarju le nu vofli
+i la'e di'u my li'o li'u
 
 @c      But here, to Alice's great surprise, the Duchess's voice died
 @c    away, even in the middle of her favourite word `moral,' and the
