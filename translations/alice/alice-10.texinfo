@@ -397,11 +397,28 @@ ca'a cizra mutce barkla i lu
 @c        As a duck with its eyelids, so he with his nose
 @c        Trims his belt and his buttons, and turns out his toes.'
 
+@format
+
+       xasyjukni se voksa i cusku ia ti'e
+       lu do mi za'o jukpa i ei gau kresi'e 
+       li'u gi'e zbipilno le nu vo'a cnici
+       le ka dasri joi batke e ro si'a vrici
+@end format
+
 @c                  [later editions continued as follows
 @c        When the sands are all dry, he is gay as a lark,
 @c        And will talk in contemptuous tones of the Shark,
 @c        But, when the tide rises and sharks are around,
 @c        His voice has a timid and tremulous sound.]
+
+@format
+
+       i ca le nu le canre cu sudga ku cmila
+       gi'e tavla co ckasu brafi'e se cfila
+       i ii ku'i ca le nu le xamsi cu banro
+       kei le voksa cu binxo lo sance tolkanro
+@end format
+       
 
 @c      `That's different from what I used to say when I was a child,'
 @c    said the Gryphon.
