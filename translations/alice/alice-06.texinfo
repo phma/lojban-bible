@@ -234,21 +234,44 @@ la .alis noi mutce se pluka le nu jorne fi le nunsimtavla
 @c    they hit her; and the baby was howling so much already, that it
 @c    was quite impossible to say whether the blows hurt it or not.
 
+i la alis nasai nelci le tonga pe le pinka gi'e jinvi le du'u xamgu
+fa le nu cfagau lo drata selcasnu i ca le nu abu troci le nu cuxna
+pa dysy kei le jukpa cu lebna le patxu be lo'e stasu le fagri gi'e
+co'a zukte le nu renro ro se kuspe be jy le noltroni'u ku joi le cifnu
+i lei fagri tirse cu pamoi ibabo jersi fa lo tansi joi palta joi palne
+carvi i le noltroni'u na'e jundi caji'asai le nu darxi ny i le cifnu
+pu tai mutce krixa ja'e le nu nalcumki fa le nu djuno le du'u xukau
+lei nundarxi cu crogau   
+
 @c      `Oh, PLEASE mind what you're doing!' cried Alice, jumping up
 @c    and down in an agony of terror.  `Oh, there goes his PRECIOUS
 @c    nose'; as an unusually large saucepan flew close by it, and very
 @c    nearly carried it off.
 
+i lu oi e'osai ko kurji le do se tarti sei la alis terpa dunku plipe 
+krixa i oi uu le ta melbi nazbi li'u ca le nu lo nalfadni barda tansi 
+cu vofli ne'a ny gi'e naru'e beivi'u ny
+
 @c      `If everybody minded their own business,' the Duchess said in a
 @c    hoarse growl, `the world would go round a deal faster than it
 @c    does.'
+
+i lu va'o da'i le nu roda kurji le da cuntu kei sei le noltroni'u cu 
+rufsu cmoni cusku le munje cu da'ibi'unai zenba le ka cacra sutra li'u
 
 @c      `Which would NOT be an advantage,' said Alice, who felt very
 @c    glad to get an opportunity of showing off a little of her
 @c    knowledge.  `Just think of what work it would make with the day
 @c    and night!  You see the earth takes twenty-four hours to turn
 @c    round on its axis--'
-.i le terdi di'i lo cacra be li revo cu carna .iseni'ibo li'u
+
+i lu la'e di'u na prali sei la alis noi mutce gleki le nu ka'e jarco
+piso'u le nu abu djuno cu cusku i ko pensi le nabmi poi la'e di'u 
+ke'a rinka da'ibi'unai sera'a lo'e donri e lo'e nicte i ka'u le nu 
+le terdi cu cacra le jendu kei li revo cacra li'u
+
+@c .i le terdi di'i lo cacra be li revo cu carna .iseni'ibo li'u
+@c I reworded this so as to leave 'cacra' as the last word. -xorxes
 
 @c      `Talking of axes,' said the Duchess, `chop off her head!'
 .i le noltroni'u cu cusku lu le catra zo'u ko vimcu le stedu ti li'u
