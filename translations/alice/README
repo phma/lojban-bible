@@ -1,0 +1,6 @@
+This is the directory for the effort to translate "Alice's Adventures In
+Wonderland" into lojban.  The first file is 'alice.texinfo', which
+contains information on modifying texinfo files.  The rest of the files
+are named after the chapter they contain (there are 12 chapters).
+
+-Robin Powell
