@@ -10,84 +10,84 @@ more than just counting; for example, in Lojban,
 <para>The numbers from one to nine are as follows:
 
 <orderedlist>
-<listitem><para><foreignphrase lang="loj">pa</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">re</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">ci</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">vo</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">mu</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">xa</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">ze</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">bi</foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="loj">so</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">pa</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">re</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ci</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">vo</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">mu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">xa</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">ze</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">bi</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">so</foreignphrase></para></listitem>
 </orderedlist>
 
-This leaves zero,which is <foreignphrase lang="loj">no</foreignphrase>
+This leaves zero,which is <foreignphrase lang="art-lojban">no</foreignphrase>
 (think <quote>yes, we have no bananas</quote>).  You may have noticed that
 the numbers repeat the vowels <wordasword>AEIOU</wordasword>.  Since you
 can't get by without memorising numbers, try to think of mnemonics for the
 unfamiliar ones.  For example, although the sound is different,
-<foreignphrase lang="loj">xa</foreignphrase> has the
+<foreignphrase lang="art-lojban">xa</foreignphrase> has the
 <wordasword>X</wordasword> of <quote role="gloss">six</quote>, and I
-remembered <foreignphrase lang="loj">so</foreignphrase> by thinking of the
+remembered <foreignphrase lang="art-lojban">so</foreignphrase> by thinking of the
 proverb <quote>A stitch in time saves <emphasis>nine</emphasis>,</quote>
 which is about <emphasis>sew</emphasis>ing (<foreignphrase
-lang="loj">.oi</foreignphrase>).  </para>
+lang="art-lojban">.oi</foreignphrase>).  </para>
 
 <para>Numbers from 10 onwards are made by putting the digits together,
 just like you'd say a telephone number.  For example:
 
 <variablelist>
-<varlistentry><term><foreignphrase lang="loj">pano</foreignphrase></term> 
+<varlistentry><term><foreignphrase lang="art-lojban">pano</foreignphrase></term> 
 <listitem><para>10</para></listitem></varlistentry>
-<varlistentry><term><foreignphrase lang="loj">zebi</foreignphrase></term> 
+<varlistentry><term><foreignphrase lang="art-lojban">zebi</foreignphrase></term> 
 <listitem><para>78</para></listitem></varlistentry>
-<varlistentry><term><foreignphrase lang="loj">xanoci</foreignphrase></term> 
+<varlistentry><term><foreignphrase lang="art-lojban">xanoci</foreignphrase></term> 
 <listitem><para>603</para></listitem></varlistentry>
-<varlistentry><term><foreignphrase lang="loj">vomusore</foreignphrase></term> 
+<varlistentry><term><foreignphrase lang="art-lojban">vomusore</foreignphrase></term> 
 <listitem><para>4,592</para></listitem></varlistentry>
 </variablelist>
 
 4,592 has a comma in it (or a full stop in some languages, just to make
 things confusing).  We can't use a comma in Lojban, because that means
 <quote>separate these two syllables</quote> (as we saw in <link linkend="less1">Lesson 1</link>
-with Lojbanised names like <foreignphrase lang="loj">zo,is.</foreignphrase> for
+with Lojbanised names like <foreignphrase lang="art-lojban">zo,is.</foreignphrase> for
 <wordasword>Zoe</wordasword>).  What we say instead is <foreignphrase
-lang="loj">ki'o</foreignphrase>.  We don't <emphasis>have</emphasis> to use
-<foreignphrase lang="loj">ki'o</foreignphrase>, but it can make things
-clearer.  So 4,592 can also be read as <foreignphrase lang="loj">vo ki'o
-musore</foreignphrase>.  <foreignphrase lang="loj">ki'o</foreignphrase>
+lang="art-lojban">ki'o</foreignphrase>.  We don't <emphasis>have</emphasis> to use
+<foreignphrase lang="art-lojban">ki'o</foreignphrase>, but it can make things
+clearer.  So 4,592 can also be read as <foreignphrase lang="art-lojban">vo ki'o
+musore</foreignphrase>.  <foreignphrase lang="art-lojban">ki'o</foreignphrase>
 also has the advantage that if the following digits are all zeroes, we
-don't need to say them, so 3,000 is <foreignphrase lang="loj">ci
+don't need to say them, so 3,000 is <foreignphrase lang="art-lojban">ci
 ki'o</foreignphrase>.  You can remember <foreignphrase
-lang="loj">ki'o</foreignphrase> easily if you think of
+lang="art-lojban">ki'o</foreignphrase> easily if you think of
 <wordasword>kilo</wordasword> &mdash; a thousand.  </para>
 
 <para>Just as we have a word for a comma, we also have one for a decimal
-point: <foreignphrase lang="loj">pi</foreignphrase>. (Don't get this mixed
+point: <foreignphrase lang="art-lojban">pi</foreignphrase>. (Don't get this mixed
 up with the number <wordasword>pi</wordasword>: 3.1415..., which has its 
-own word in Lojban: <foreignphrase lang="loj">pai</foreignphrase> &mdash; 
+own word in Lojban: <foreignphrase lang="art-lojban">pai</foreignphrase> &mdash; 
 oddly enough).  So 5.3 is <foreignphrase
-lang="loj">mupici</foreignphrase>.  In fact, <foreignphrase
-lang="loj">pi</foreignphrase> is not always decimal; it's the point for
+lang="art-lojban">mupici</foreignphrase>.  In fact, <foreignphrase
+lang="art-lojban">pi</foreignphrase> is not always decimal; it's the point for
 whatever number base you're using. But that's a more advanced topic. </para>
 
 <para>When you want to talk about numbers as <foreignphrase
-lang="loj">sumti</foreignphrase> &mdash; that is to say, as things in and 
+lang="art-lojban">sumti</foreignphrase> &mdash; that is to say, as things in and 
 of themselves &mdash; you need to put an article in front of them. But 
-that article cannot be <foreignphrase lang="loj">la</foreignphrase>, and 
+that article cannot be <foreignphrase lang="art-lojban">la</foreignphrase>, and 
 for reasons which hopefully will become clear soon, it cannot be <foreignphrase 
-lang="loj">le</foreignphrase> either. In front of numbers, Lojban uses the 
-article <foreignphrase lang="loj">li</foreignphrase>. So <foreignphrase 
-lang="loj">li pareci</foreignphrase> means <quote role="gloss">the number 
+lang="art-lojban">le</foreignphrase> either. In front of numbers, Lojban uses the 
+article <foreignphrase lang="art-lojban">li</foreignphrase>. So <foreignphrase 
+lang="art-lojban">li pareci</foreignphrase> means <quote role="gloss">the number 
 one hundred and twenty three</quote>. <quote role="gloss">One, two, 
 three</quote>, on the other hand, would be <foreignphrase 
-lang="loj">li pa li re li ci</foreignphrase>: each <foreignphrase 
-lang="loj">li</foreignphrase> introduces a brand new number.
+lang="art-lojban">li pa li re li ci</foreignphrase>: each <foreignphrase 
+lang="art-lojban">li</foreignphrase> introduces a brand new number.
 </para>
 
 <simplesect role="exercise"><title>Exercise 1</title> <para>What are the
 following numbers in Lojban?  (don't forget <foreignphrase
-lang="loj">li</foreignphrase>!)
+lang="art-lojban">li</foreignphrase>!)
 
 <orderedlist>
 <listitem><para>35</para></listitem>
@@ -101,13 +101,13 @@ lang="loj">li</foreignphrase>!)
 </sect1>
 
 <sect1 id="less4articles"><title>Numbers and articles</title> <para>So far, we've looked at
-three articles: <foreignphrase lang="loj">la</foreignphrase>, for
-<foreignphrase lang="loj">cmene</foreignphrase>, <foreignphrase
-lang="loj">le</foreignphrase>, for <foreignphrase
-lang="loj">sumti</foreignphrase> and <foreignphrase
-lang="loj">li</foreignphrase> for numbers.  So <foreignphrase lang="loj">li
+three articles: <foreignphrase lang="art-lojban">la</foreignphrase>, for
+<foreignphrase lang="art-lojban">cmene</foreignphrase>, <foreignphrase
+lang="art-lojban">le</foreignphrase>, for <foreignphrase
+lang="art-lojban">sumti</foreignphrase> and <foreignphrase
+lang="art-lojban">li</foreignphrase> for numbers.  So <foreignphrase lang="art-lojban">li
 bi</foreignphrase> is <quote role="gloss">the number eight.</quote>
-Actually, outside mathematics, <foreignphrase lang="loj">li</foreignphrase>
+Actually, outside mathematics, <foreignphrase lang="art-lojban">li</foreignphrase>
 is not used very much.  What we usually want to say is things like <quote
 role="gloss">three people,</quote> or <quote role="gloss">the two
 women.</quote> </para>
@@ -119,11 +119,11 @@ in a separate subset of the language.  But you can't expect everything in a
 beginners' course.  </para></note>
 
 <para>We can use numbers either before or after <foreignphrase
-lang="loj">le</foreignphrase>.  For example,
+lang="art-lojban">le</foreignphrase>.  For example,
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">ci le gerku</foreignphrase>
+<foreignphrase lang="art-lojban">ci le gerku</foreignphrase>
 </literallayout>
 </informalexample>
 
@@ -131,7 +131,7 @@ means <quote role="gloss">three of the dogs</quote>, while
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">le ci gerku</foreignphrase>
+<foreignphrase lang="art-lojban">le ci gerku</foreignphrase>
 </literallayout>
 </informalexample>
 
@@ -140,43 +140,43 @@ means <quote role="gloss">the three dogs.</quote>
 
 <para>What do we do, though, if we just want to say <quote>three
 dogs</quote>?  For this we need another article, <foreignphrase
-lang="loj">lo</foreignphrase>.  The logic of <foreignphrase
-lang="loj">lo</foreignphrase> is pretty complicated, but it basically means
+lang="art-lojban">lo</foreignphrase>.  The logic of <foreignphrase
+lang="art-lojban">lo</foreignphrase> is pretty complicated, but it basically means
 <quote role="gloss">something which really is,</quote> which nine times out
 of ten is the same as English <wordasword>a</wordasword> or
 <wordasword>some</wordasword> (translating Lojban grammar into English like
 this is a mortal sin, but even so, this is the best thing to do with
-<foreignphrase lang="loj">lo</foreignphrase> at this stage!).  </para>
+<foreignphrase lang="art-lojban">lo</foreignphrase> at this stage!).  </para>
 
-<note><title>Note for logicians</title><para><foreignphrase lang="loj">lo
+<note><title>Note for logicians</title><para><foreignphrase lang="art-lojban">lo
 prenu cu klama</foreignphrase> expresses the proposition <quote>There exists at
 least one person, such that that person goes.</quote>  </para>
 
 <para>By contrast, <wordasword>the</wordasword> cannot mean the same thing
-as <foreignphrase lang="loj">lo</foreignphrase>.  In English,
+as <foreignphrase lang="art-lojban">lo</foreignphrase>.  In English,
 <wordasword>the dog</wordasword> doesn't mean just <quote
 role="gloss">something which really is a dog</quote>, but more like
 <quote role="gloss">something which really is a dog, <emphasis>and which I already
 have in mind.</emphasis></quote> (That's how <quote>A dog came in. 
 <emphasis>A</emphasis> dog was black</quote> and <quote>A dog came in. 
 <emphasis>The</emphasis> dog was black</quote> are different.)  Lojban
-sidesteps this problem by using <foreignphrase lang="loj"><emphasis>le
+sidesteps this problem by using <foreignphrase lang="art-lojban"><emphasis>le
 gerku</emphasis></foreignphrase> <quote role="gloss">something which I'm going to call
 a dog</quote>.  It's up to the audience to put together what the speaker
-had in mind when he called it a <foreignphrase lang="loj">le
+had in mind when he called it a <foreignphrase lang="art-lojban">le
 gerku</foreignphrase>, just as it is the audience's job in English to work
 out what dog the speaker had in mind.</para> </note>
 
-<para>So <foreignphrase lang="loj">ci lo gerku</foreignphrase>
+<para>So <foreignphrase lang="art-lojban">ci lo gerku</foreignphrase>
 means <quote role="gloss">three of those which really are dogs</quote>, or
 in plain words, <quote role="gloss">three dogs</quote>.  <foreignphrase
-lang="loj">lo ci gerku</foreignphrase>, however, means that there are only
+lang="art-lojban">lo ci gerku</foreignphrase>, however, means that there are only
 three dogs in the world, which is not something you'd really want to say. 
 (Mathematicians and logicians can look up the relevant parts of
 <wordasword>The Complete Lojban Language</wordasword> if they want
 clarification on this issue &mdash; or for that matter on the differences
-between <foreignphrase lang="loj">lo</foreignphrase> and <foreignphrase
-lang="loj">le</foreignphrase>).  </para>
+between <foreignphrase lang="art-lojban">lo</foreignphrase> and <foreignphrase
+lang="art-lojban">le</foreignphrase>).  </para>
 
 <para>Let us now consider the English sentence <quote>Three men carried a 
 piano</quote>. This sentence has two potential meanings, as does any 
@@ -191,65 +191,66 @@ together.</para>
 <para>Natural languages typically leave it to context and plausibility to
 determine which of the two interpretations holds.  But Lojban is a logical
 language, and so does not tolerate this confusion!  <foreignphrase
-lang="loj">le</foreignphrase> and <foreignphrase
-lang="loj">lo</foreignphrase> force the individual interpretation.  That
-is, if I say <foreignphrase lang="loj">lo ci nanmu cu bevri le
+lang="art-lojban">le</foreignphrase> and <foreignphrase
+lang="art-lojban">lo</foreignphrase> force the individual interpretation.  That
+is, if I say <foreignphrase lang="art-lojban">lo ci nanmu cu bevri le
 pipno</foreignphrase>, I mean that each of the three men (<foreignphrase
-lang="loj">nanmu</foreignphrase>) carried (<foreignphrase
-lang="loj">bevri</foreignphrase>) the piano (<foreignphrase
-lang="loj">pipno</foreignphrase>).  And if I say <foreignphrase
-lang="loj">ci lo gerku cu batci mi</foreignphrase>, I just mean that three
+lang="art-lojban">nanmu</foreignphrase>) carried (<foreignphrase
+lang="art-lojban">bevri</foreignphrase>) the piano (<foreignphrase
+lang="art-lojban">pipno</foreignphrase>).  And if I say <foreignphrase
+lang="art-lojban">ci lo gerku cu batci mi</foreignphrase>, I just mean that three
 dogs bite me.  Maybe one dog bit me in the morning, one in the afternoon,
 and one at night, or maybe I mean that I have been bitten by a dog three
 times in my life. There is nothing to say that the three dogs have 
 anything to do with each other.</para>
 
 <para>But if you want those dogs, or those men, to be considered as a 
-unit, you'd say <foreignphrase lang="loj"><emphasis>lu'o</emphasis> lo ci nanmu cu bevri le
+unit, you'd say <foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> lo ci nanmu cu bevri le
 pipno</foreignphrase>, and <foreignphrase
-lang="loj"><emphasis>lu'o</emphasis> ci lo gerku cu batci 
+lang="art-lojban"><emphasis>lu'o</emphasis> ci lo gerku cu batci 
 mi</foreignphrase>. <foreignphrase
-lang="loj">lu'o</foreignphrase> means <quote role="gloss">the mass composed 
+lang="art-lojban">lu'o</foreignphrase> means <quote role="gloss">the mass composed 
 of</quote>, and in effect
 converts a bunch of individuals into a coherent unit. In the case of the 
 dogs, for example, it makes them a pack. If you're a fan of
 computer strategy games, think of <foreignphrase
-lang="loj">lu'o</foreignphrase> as like the <quote role="socalled">group</quote> command for units
+lang="art-lojban">lu'o</foreignphrase> as like the <quote role="socalled">group</quote> command for units
 (there's also an <quote role="socalled">ungroup</quote> command, <foreignphrase
-lang="loj">lu'a</foreignphrase>). Moreover, since the dogs act as a pack, 
+lang="art-lojban">lu'a</foreignphrase>). Moreover, since the dogs act as a pack, 
 it is not necessarily true that each of them individually bit you: it is actually
 enough that one of them bit you, for the pack to have bitten you.</para>
 
-<para>With <foreignphrase lang="loj">le</foreignphrase> things are simpler. 
-While <foreignphrase lang="loj">le pano ninmu</foreignphrase> means <quote
-role="gloss">the ten women</quote>, <foreignphrase lang="loj">lu'o le pano
+<para>With <foreignphrase lang="art-lojban">le</foreignphrase> things are simpler. 
+While <foreignphrase lang="art-lojban">le pano ninmu</foreignphrase> means <quote
+role="gloss">the ten women</quote>, <foreignphrase lang="art-lojban">lu'o le pano
 ninmu</foreignphrase> means <quote role="gloss">the ten women treated as a
 group or mass</quote>.  Let's imagine that ten women I have in mind kiss me
 on ten separate occasions. (Hey, I do do get to write these lessons, after all...)
-I could then say <foreignphrase lang="loj">le
+I could then say <foreignphrase lang="art-lojban">le
 pano ninmu cu cinba mi</foreignphrase>, in which case I'd consider myself
 quite fortunate.  However, if I say <foreignphrase
-lang="loj"><emphasis>lu'o</emphasis> le pano pano ninmu cu cinba
-mi</foreignphrase>, I mean that the ten women kiss me <foreignphrase>en
+lang="art-lojban"><emphasis>lu'o</emphasis> le pano pano ninmu cu cinba
+mi</foreignphrase>, I mean that the ten women kiss me <foreignphrase 
+lang="fra">en
 masse</foreignphrase>, in which case I would consider myself either blessed
 or harrassed (maybe I'm a rock star or something).  However, it does not
 necessarily mean that each and every woman kisses me, simply that I was
 mobbed by a group of ten women and kissed by one or (probably) more in the
 process.  </para>
 
-<para><foreignphrase lang="loj">lu'o le</foreignphrase> and <foreignphrase
-lang="loj">lu'o lo</foreignphrase> are very useful concepts, even without explicit numbers,
+<para><foreignphrase lang="art-lojban">lu'o le</foreignphrase> and <foreignphrase
+lang="art-lojban">lu'o lo</foreignphrase> are very useful concepts, even without explicit numbers,
 and there are shorter ways of saying each when no number comes between them:
-<foreignphrase lang="loj">lei</foreignphrase>
-and <foreignphrase lang="loj">loi</foreignphrase>.  So the three men
+<foreignphrase lang="art-lojban">lei</foreignphrase>
+and <foreignphrase lang="art-lojban">loi</foreignphrase>.  So the three men
 carrying the piano could be expressed as <foreignphrase
-lang="loj"><emphasis>loi</emphasis> nanmu cu bevri le
+lang="art-lojban"><emphasis>loi</emphasis> nanmu cu bevri le
 pipno</foreignphrase>, and the throng of women kissing me (!)  as
-<foreignphrase lang="loj"><emphasis>lei</emphasis> pano ninmu cu cinba
+<foreignphrase lang="art-lojban"><emphasis>lei</emphasis> pano ninmu cu cinba
 mi</foreignphrase>. </para>
 
 <simplesect role="exercise"><title>Exercise 2</title>
-<para>In the following English sentences, are the emphasised nouns individuals (prefixed in Lojban with <foreignphrase lang="loj">le</foreignphrase> or <foreignphrase lang="loj">lo</foreignphrase>) or masses (prefixed in Lojban with <foreignphrase lang="loj">lei</foreignphrase> or <foreignphrase lang="loj">loi</foreignphrase>)?
+<para>In the following English sentences, are the emphasised nouns individuals (prefixed in Lojban with <foreignphrase lang="art-lojban">le</foreignphrase> or <foreignphrase lang="art-lojban">lo</foreignphrase>) or masses (prefixed in Lojban with <foreignphrase lang="art-lojban">lei</foreignphrase> or <foreignphrase lang="art-lojban">loi</foreignphrase>)?
 <orderedlist>
 
 <listitem><para><emphasis>The students</emphasis> listened to the radio.</para></listitem>
@@ -276,29 +277,29 @@ mi</foreignphrase>. </para>
 some tricky logical stuff.  Skip it if you're not interested. 
 </para></warning>
 
-<para>If <foreignphrase lang="loj">le ci
+<para>If <foreignphrase lang="art-lojban">le ci
 prenu</foreignphrase> means <quote>the three people,</quote> and
-<foreignphrase lang="loj">re le prenu</foreignphrase> means <quote>two of
+<foreignphrase lang="art-lojban">re le prenu</foreignphrase> means <quote>two of
 the people,</quote> how do you say <quote>two of the three people</quote>?  </para>
 
-<para>You probably got this one pretty easily: <foreignphrase lang="loj">re
+<para>You probably got this one pretty easily: <foreignphrase lang="art-lojban">re
 le ci prenu</foreignphrase>.  If, however, we use <foreignphrase
-lang="loj">lo</foreignphrase>, the meaning changes.  We can't say
-<foreignphrase lang="loj">re lo ci prenu</foreignphrase> to mean two out of
+lang="art-lojban">lo</foreignphrase>, the meaning changes.  We can't say
+<foreignphrase lang="art-lojban">re lo ci prenu</foreignphrase> to mean two out of
 <emphasis>any</emphasis> three people (i.e. two thirds of the population). 
-This is because while <foreignphrase lang="loj">le ci prenu</foreignphrase>
+This is because while <foreignphrase lang="art-lojban">le ci prenu</foreignphrase>
 means the three people that I have in mind,
-<foreignphrase lang="loj">lo ci prenu</foreignphrase>, by the same logic, means the three
+<foreignphrase lang="art-lojban">lo ci prenu</foreignphrase>, by the same logic, means the three
 people that actually exist &mdash; i.e. that there are only three people in the
 universe.  (That's also why, as the astute reader may have noted, you can't
-say <foreignphrase lang="loj">loi <emphasis>ci</emphasis> nanmu cu bevri le
+say <foreignphrase lang="art-lojban">loi <emphasis>ci</emphasis> nanmu cu bevri le
 pipno</foreignphrase>.)  You would therefore only use the
-number+<foreignphrase lang="loj">lo</foreignphrase>+number formula if you
+number+<foreignphrase lang="art-lojban">lo</foreignphrase>+number formula if you
 knew the actual numbers rather than just the proportions, e.g.
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">re lo mi ci mensi cu nelci la rikis.martin.</foreignphrase>
+<foreignphrase lang="art-lojban">re lo mi ci mensi cu nelci la rikis.martin.</foreignphrase>
 Two of my three sisters like Ricky Martin.
 </literallayout>
 </informalexample>
@@ -308,15 +309,15 @@ Two of my three sisters like Ricky Martin.
 case!)  Second, that two of them like Ricky Martin (it doesn't actually
 state that my third sister <emphasis>hates</emphasis> him &mdash; she may
 be indifferent to him, or never have heard of him).  If I use
-<foreignphrase lang="loj">le</foreignphrase> in the same sentence, it isn't
+<foreignphrase lang="art-lojban">le</foreignphrase> in the same sentence, it isn't
 actually wrong, but it allows the possibility that I have, say, five
 sisters, but I'm only talking about three of them!  This is one of the few
-areas where <foreignphrase lang="loj">le</foreignphrase> and <foreignphrase
-lang="loj">lo</foreignphrase> are <emphasis>not</emphasis> like
+areas where <foreignphrase lang="art-lojban">le</foreignphrase> and <foreignphrase
+lang="art-lojban">lo</foreignphrase> are <emphasis>not</emphasis> like
 <wordasword>the</wordasword> and <wordasword>a/some</wordasword>.  </para>
 
 <para>But with people, I would have to say something on the order of
-<foreignphrase lang="loj">vo ki'o nocize ki'o pasovo lo xa ki'o cipare ki'o
+<foreignphrase lang="art-lojban">vo ki'o nocize ki'o pasovo lo xa ki'o cipare ki'o
 pamubi remna cu nelci la rikis.martin.</foreignphrase> &mdash; I would have
 to give the real counts for all humans, and for all humans who suffer from
 that particular affliction.  Which obviously is not terribly
@@ -324,25 +325,25 @@ practical. (The real counts, I mean, not the affliction. Though on second
 thought...)</para>
 
 <para>One way out of this is to use <foreignphrase
-lang="loj">fi'u</foreignphrase>, which is like the Lojban slash sign.  So
+lang="art-lojban">fi'u</foreignphrase>, which is like the Lojban slash sign.  So
 <quote>two out of every three people</quote> is really <quote>2/3 of 
 people</quote>, or
-<foreignphrase lang="loj">refi'uci loi prenu</foreignphrase>. Of course, 
+<foreignphrase lang="art-lojban">refi'uci loi prenu</foreignphrase>. Of course, 
 this is actually a fraction, and fractions have decimal equivalents; you could also 
-say <foreignphrase lang="loj"><emphasis>pixaxaxa</emphasis> loi prenu</foreignphrase>, and not 
+say <foreignphrase lang="art-lojban"><emphasis>pixaxaxa</emphasis> loi prenu</foreignphrase>, and not 
 be that far off &mdash; even if your use of decimals might have some 
 people laughing in the aisles... </para>
 
 <para>Yes, that's our new friend <foreignphrase
-lang="loj">loi</foreignphrase> in that sentence.  If I had said
-<foreignphrase lang="loj">refi'uci lo prenu</foreignphrase>, that would
-have to be understood in the same way as <foreignphrase lang="loj">re lo
-prenu</foreignphrase> or <foreignphrase lang="loj">ci lo
+lang="art-lojban">loi</foreignphrase> in that sentence.  If I had said
+<foreignphrase lang="art-lojban">refi'uci lo prenu</foreignphrase>, that would
+have to be understood in the same way as <foreignphrase lang="art-lojban">re lo
+prenu</foreignphrase> or <foreignphrase lang="art-lojban">ci lo
 prenu</foreignphrase>, and I would have ended up talking about two thirds
 of a person.  In most cultures, chopping up persons into thirds is not
 considered acceptable behaviour even for pollsters or advertisers.  On the other hand, chopping
 up <emphasis>populations</emphasis> into thirds is perfectly
-acceptable; and that's what <foreignphrase lang="loj">loi
+acceptable; and that's what <foreignphrase lang="art-lojban">loi
 prenu</foreignphrase> is.</para>
 </sect1>
 
@@ -356,11 +357,11 @@ in Lojban, which is pretty logical if you think about it.  The following
 <variablelist>
 
 <varlistentry><term><foreignphrase 
-lang="loj">no</foreignphrase></term><listitem><para>none (we've already seen
+lang="art-lojban">no</foreignphrase></term><listitem><para>none (we've already seen
 this as <quote role="gloss">zero</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase 
-lang="loj">ro</foreignphrase></term><listitem><para>each / 
+lang="art-lojban">ro</foreignphrase></term><listitem><para>each / 
 all</para></listitem></varlistentry>
 
 </variablelist>
@@ -370,24 +371,24 @@ all</para></listitem></varlistentry>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">du'e</foreignphrase></term><listitem><para>too
+lang="art-lojban">du'e</foreignphrase></term><listitem><para>too
 many</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">so'a</foreignphrase></term><listitem><para>almost
+lang="art-lojban">so'a</foreignphrase></term><listitem><para>almost
 all</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">so'e</foreignphrase></term><listitem><para>most</para></listitem></varlistentry>
+lang="art-lojban">so'e</foreignphrase></term><listitem><para>most</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">so'i</foreignphrase></term><listitem><para>many / a lot
+lang="art-lojban">so'i</foreignphrase></term><listitem><para>many / a lot
 of</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">so'o</foreignphrase></term><listitem><para>several</para></listitem></varlistentry>
+lang="art-lojban">so'o</foreignphrase></term><listitem><para>several</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase lang="loj">so'u</foreignphrase></term><listitem><para>few</para></listitem></varlistentry>
+<varlistentry><term><foreignphrase lang="art-lojban">so'u</foreignphrase></term><listitem><para>few</para></listitem></varlistentry>
 
 </variablelist>
 </listitem>
@@ -396,11 +397,11 @@ lang="loj">so'o</foreignphrase></term><listitem><para>several</para></listitem><
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">su'e</foreignphrase></term><listitem><para>at
+lang="art-lojban">su'e</foreignphrase></term><listitem><para>at
 most</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">su'o</foreignphrase></term><listitem><para>at
+lang="art-lojban">su'o</foreignphrase></term><listitem><para>at
 least</para></listitem></varlistentry>
 
 </variablelist>
@@ -418,7 +419,7 @@ Some examples:
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">no le ninmu cu nelci la bil.</foreignphrase>
+<foreignphrase lang="art-lojban">no le ninmu cu nelci la bil.</foreignphrase>
 None of the women like Bill.
 </literallayout>
 </para>
@@ -427,15 +428,15 @@ None of the women like Bill.
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">no lo ninmu cu nelci la bil.</foreignphrase>
-No women like Bill. </literallayout>(because <foreignphrase lang="loj">lo ninmu</foreignphrase> potentially includes all women that exist)
+<foreignphrase lang="art-lojban">no lo ninmu cu nelci la bil.</foreignphrase>
+No women like Bill. </literallayout>(because <foreignphrase lang="art-lojban">lo ninmu</foreignphrase> potentially includes all women that exist)
 </para>
 </listitem>
 
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">coi rodo</foreignphrase>
+<foreignphrase lang="art-lojban">coi rodo</foreignphrase>
 Hi, everyone
 </literallayout>
 </para>
@@ -444,7 +445,7 @@ Hi, everyone
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">mi nelci ro lo mlatu</foreignphrase>
+<foreignphrase lang="art-lojban">mi nelci ro lo mlatu</foreignphrase>
 I like all cats.
 </literallayout>
 </para>
@@ -453,12 +454,12 @@ I like all cats.
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">mi na nelci ro lo gerku</foreignphrase>
+<foreignphrase lang="art-lojban">mi na nelci ro lo gerku</foreignphrase>
 It's not true that I like all dogs.
 </literallayout>
 
 (this is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
-<foreignphrase lang="loj">mi nelci no lo gerku</foreignphrase>. There are 
+<foreignphrase lang="art-lojban">mi nelci no lo gerku</foreignphrase>. There are 
 other ways of saying this, but we haven't got enough grammar under our 
 belt yet.) </para>
 </listitem>
@@ -466,7 +467,7 @@ belt yet.) </para>
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">so'i lo merko cu nelci la nirvanas.</foreignphrase>
+<foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
 Many Americans like Nirvana (the group, not the mystical state. Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)
 </literallayout>
 </para>
@@ -475,7 +476,7 @@ Many Americans like Nirvana (the group, not the mystical state. Yes, names are a
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
+<foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
 Few Chinese people like Nirvana.
 </literallayout>
 </para>
@@ -484,7 +485,7 @@ Few Chinese people like Nirvana.
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">su'e mu le muno prenu cu cmila</foreignphrase>
+<foreignphrase lang="art-lojban">su'e mu le muno prenu cu cmila</foreignphrase>
 No more than five out of the fifty people laugh(ed) (let's say a comedian told a bad joke). 
 </literallayout>
 </para>
@@ -493,7 +494,7 @@ No more than five out of the fifty people laugh(ed) (let's say a comedian told a
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">su'o pa lo prenu cu prami do</foreignphrase>
+<foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
 At least one person loves you.
 </literallayout>
 </para>
@@ -502,47 +503,46 @@ At least one person loves you.
 </itemizedlist>
 </informalexample>
 
-This last one is logically the same as <foreignphrase lang="loj">lo prenu
+This last one is logically the same as <foreignphrase lang="art-lojban">lo prenu
 cu prami do</foreignphrase>, which means <quote>there exists at least one person
 such that that person loves you,</quote> but it makes the meaning clearer and more
 emphatic. In fact, all articles in Lojban have such default numbers associated 
-with them; <foreignphrase lang="loj">lo</foreignphrase> by default means <foreignphrase 
-lang="loj">su'o lo ro</foreignphrase>. </para>
+with them; <foreignphrase lang="art-lojban">lo</foreignphrase> by default means <foreignphrase 
+lang="art-lojban">su'o lo ro</foreignphrase>. </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
-<para>
+
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">cifnu</foreignphrase></term><listitem><para>x1 is an infant/baby
+lang="art-lojban">cifnu</foreignphrase></term><listitem><para>x1 is an infant/baby
 [helpless through youth/incomplete development] of species
 x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">cinba</foreignphrase></term><listitem><para>x1 (agent)
+lang="art-lojban">cinba</foreignphrase></term><listitem><para>x1 (agent)
 kisses/busses x2 at locus x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">citka</foreignphrase></term><listitem><para>x1 eats/ingests/consumes (transitive verb) x2</para></listitem></varlistentry>
+lang="art-lojban">citka</foreignphrase></term><listitem><para>x1 eats/ingests/consumes (transitive verb) x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">mlatu</foreignphrase></term><listitem><para>x1 is a
+lang="art-lojban">mlatu</foreignphrase></term><listitem><para>x1 is a
 cat/[puss/pussy/kitten] [feline animal] of species/breed x2; (adjective:)
 x1 is feline</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">nanmu</foreignphrase></term><listitem><para>x1 is a man/men; x1
+lang="art-lojban">nanmu</foreignphrase></term><listitem><para>x1 is a man/men; x1
 is a male humanoid person [not necessarily
 adult]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">rectu</foreignphrase></term><listitem><para>x1 is a quantity
+lang="art-lojban">rectu</foreignphrase></term><listitem><para>x1 is a quantity
 of/contains meat/flesh from source/animal x2
 </para></listitem></varlistentry>
 
 </variablelist>
 
-</para>
 </simplesect>
 
 <simplesect role="exercise"><title>Exercise 3</title>
@@ -575,12 +575,12 @@ indicator)</para></listitem>
 
 <listitem><para>No more than 15% of Buddhists eat meat.  (<quote
 role="gloss">Buddhist</quote> is <foreignphrase
-lang="loj">budjo</foreignphrase>, as you may remember from <link linkend="less3">Lesson
+lang="art-lojban">budjo</foreignphrase>, as you may remember from <link linkend="less3">Lesson
 3</link>).  </para></listitem>
 
 <listitem><para>Nine out of ten cats like <quote
 role="socalled">Whiskas.</quote> (use a <foreignphrase
-lang="loj">cmene</foreignphrase>)</para></listitem>
+lang="art-lojban">cmene</foreignphrase>)</para></listitem>
 
 
 </orderedlist>
@@ -591,30 +591,30 @@ lang="loj">cmene</foreignphrase>)</para></listitem>
 <sect1 id="less4numquestions"><title>Number Questions</title>
 
 <para>All question words in Lojban are requests to fill in an unknown 
-value: <foreignphrase lang="loj">ma</foreignphrase> asks for an unknown <foreignphrase 
-lang="loj">sumti</foreignphrase>, and <foreignphrase lang="loj">mo</foreignphrase> 
-for an unknown <foreignphrase lang="loj">selbri</foreignphrase>. <foreignphrase 
-lang="loj">xo</foreignphrase> is the question word for numbers in Lojban. 
-So, remembering the sentence <foreignphrase lang="loj">re lo mi ci mensi
+value: <foreignphrase lang="art-lojban">ma</foreignphrase> asks for an unknown <foreignphrase 
+lang="art-lojban">sumti</foreignphrase>, and <foreignphrase lang="art-lojban">mo</foreignphrase> 
+for an unknown <foreignphrase lang="art-lojban">selbri</foreignphrase>. <foreignphrase 
+lang="art-lojban">xo</foreignphrase> is the question word for numbers in Lojban. 
+So, remembering the sentence <foreignphrase lang="art-lojban">re lo mi ci mensi
 cu nelci la rikis.martin.</foreignphrase>, how would I answer the following
 question?
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">xo le mensi cu nelci la rikis.martin.</foreignphrase>
+<foreignphrase lang="art-lojban">xo le mensi cu nelci la rikis.martin.</foreignphrase>
 </literallayout>
 </informalexample>
 
-The answer, of course, is <foreignphrase lang="loj">re</foreignphrase>. 
+The answer, of course, is <foreignphrase lang="art-lojban">re</foreignphrase>. 
 (But not all questions that can be answered with a number have to take
-<foreignphrase lang="loj">xo</foreignphrase>, as we'll see in the next
+<foreignphrase lang="art-lojban">xo</foreignphrase>, as we'll see in the next
 lesson).</para>
 
-<para><foreignphrase lang="loj">xo</foreignphrase> is also used in mathematics, as in
+<para><foreignphrase lang="art-lojban">xo</foreignphrase> is also used in mathematics, as in
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">li ci su'i vo du li xo</foreignphrase>
+<foreignphrase lang="art-lojban">li ci su'i vo du li xo</foreignphrase>
 3 + 4 = ?
 </literallayout>
 </informalexample>
@@ -628,7 +628,7 @@ A few more examples:
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">xo le botpi cu kunti</foreignphrase>
+<foreignphrase lang="art-lojban">xo le botpi cu kunti</foreignphrase>
 How many of the bottles are empty?
 </literallayout>
 </para>
@@ -637,7 +637,7 @@ How many of the bottles are empty?
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">xo lo prenu cu klama ti</foreignphrase>
+<foreignphrase lang="art-lojban">xo lo prenu cu klama ti</foreignphrase>
 How many people come here?
 </literallayout>
 </para>
@@ -646,7 +646,7 @@ How many people come here?
 <listitem>
 <para>
 <literallayout>
-<foreignphrase lang="loj">do viska xo lo sonci</foreignphrase>
+<foreignphrase lang="art-lojban">do viska xo lo sonci</foreignphrase>
 How many soldiers do you see?
 </literallayout>
 </para>
@@ -655,19 +655,19 @@ How many soldiers do you see?
 </para>
 
 <note><para>It is not actually necessary to include the
-<foreignphrase lang="loj">lo</foreignphrase> after <foreignphrase
-lang="loj">xo</foreignphrase>.  In fact, it isn't necessary after any
-number &mdash; for example <foreignphrase lang="loj">ci lo gerku</foreignphrase>
-could be simply <foreignphrase lang="loj">ci gerku</foreignphrase>, if you
+<foreignphrase lang="art-lojban">lo</foreignphrase> after <foreignphrase
+lang="art-lojban">xo</foreignphrase>.  In fact, it isn't necessary after any
+number &mdash; for example <foreignphrase lang="art-lojban">ci lo gerku</foreignphrase>
+could be simply <foreignphrase lang="art-lojban">ci gerku</foreignphrase>, if you
 prefer.  However, some Lojbanists prefer to keep the <foreignphrase
-lang="loj">lo</foreignphrase> for the sake of clarity.  </para></note>
+lang="art-lojban">lo</foreignphrase> for the sake of clarity.  </para></note>
 
 
 
 <simplesect role="exercise"><title>A final question</title>
 
 <para>Lojban has no difference between singular and plural: <wordasword>the dog</wordasword> and
-<wordasword>the dogs</wordasword> can both be <foreignphrase lang="loj">le gerku</foreignphrase>. 
+<wordasword>the dogs</wordasword> can both be <foreignphrase lang="art-lojban">le gerku</foreignphrase>. 
 But suppose you wanted to make a distinction between the two; how would
 you do it?  </para>
 </simplesect>
@@ -687,23 +687,23 @@ For the curious, here are the main articles and article-like words:
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">la</foreignphrase></term><listitem><para>that
+lang="art-lojban">la</foreignphrase></term><listitem><para>that
 named</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">le</foreignphrase></term><listitem><para>that
+lang="art-lojban">le</foreignphrase></term><listitem><para>that
 described</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">lo</foreignphrase></term><listitem><para>that which really
+lang="art-lojban">lo</foreignphrase></term><listitem><para>that which really
 is</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">li</foreignphrase></term><listitem><para>the
+lang="art-lojban">li</foreignphrase></term><listitem><para>the
 number</para></listitem></varlistentry>
 </variablelist>
 
-(<foreignphrase lang="loj">lu</foreignphrase> is not an article, it's a
+(<foreignphrase lang="art-lojban">lu</foreignphrase> is not an article, it's a
 quotation mark!)</para>
 
 
@@ -712,20 +712,20 @@ quotation mark!)</para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">la'e</foreignphrase></term><listitem><para>the referent of (not
+lang="art-lojban">la'e</foreignphrase></term><listitem><para>the referent of (not
 really an article, as it takes a full <foreignphrase
-lang="loj">sumti</foreignphrase> or pro-<foreignphrase
-lang="loj">sumti</foreignphrase>, as in <foreignphrase
-lang="loj">la'edi'u</foreignphrase> &mdash; the thing the last sentence refers
+lang="art-lojban">sumti</foreignphrase> or pro-<foreignphrase
+lang="art-lojban">sumti</foreignphrase>, as in <foreignphrase
+lang="art-lojban">la'edi'u</foreignphrase> &mdash; the thing the last sentence refers
 to, as opposed to the words of the last
 sentence)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">le'e</foreignphrase></term><listitem><para>the
+lang="art-lojban">le'e</foreignphrase></term><listitem><para>the
 stereotypical</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">lo'e</foreignphrase></term><listitem><para>the
+lang="art-lojban">lo'e</foreignphrase></term><listitem><para>the
 typical</para></listitem></varlistentry>
 </variablelist>
 </listitem>
@@ -733,15 +733,15 @@ typical</para></listitem></varlistentry>
 <listitem>
 <variablelist>
 <varlistentry><term><foreignphrase
-lang="loj">lai</foreignphrase></term><listitem><para>the mass
+lang="art-lojban">lai</foreignphrase></term><listitem><para>the mass
 named</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">lei</foreignphrase></term><listitem><para>the mass
+lang="art-lojban">lei</foreignphrase></term><listitem><para>the mass
 described</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">loi</foreignphrase></term><listitem><para>the mass which really
+lang="art-lojban">loi</foreignphrase></term><listitem><para>the mass which really
 is</para></listitem></varlistentry>
 </variablelist>
 </listitem>
@@ -749,15 +749,15 @@ is</para></listitem></varlistentry>
 <listitem>
 <variablelist>
 <varlistentry><term><foreignphrase
-lang="loj">la'i</foreignphrase></term><listitem><para>the set
+lang="art-lojban">la'i</foreignphrase></term><listitem><para>the set
 named</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">le'i</foreignphrase></term><listitem><para>the set
+lang="art-lojban">le'i</foreignphrase></term><listitem><para>the set
 described</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">lo'i</foreignphrase></term><listitem><para>the set which really
+lang="art-lojban">lo'i</foreignphrase></term><listitem><para>the set which really
 is</para></listitem></varlistentry>
 </variablelist>
 </listitem>
@@ -767,24 +767,24 @@ is</para></listitem></varlistentry>
 </para>
 
 <para>We also looked briefly at <foreignphrase
-lang="loj">lu'o</foreignphrase>, which turns a set into a mass, and
-<foreignphrase lang="loj">lu'a</foreignphrase>, which turns a mass into a
+lang="art-lojban">lu'o</foreignphrase>, which turns a set into a mass, and
+<foreignphrase lang="art-lojban">lu'a</foreignphrase>, which turns a mass into a
 set of individuals ("group" and "ungroup").  Strictly speaking, these
 aren't articles, though.  </para>
 
 <para>If all this looks terribly complicated, don't be discouraged!  As
 you can see, these articles are all really variants on <foreignphrase
-lang="loj">la, le</foreignphrase> and <foreignphrase
-lang="loj">lo</foreignphrase>, which are normally all you will need.  My
+lang="art-lojban">la, le</foreignphrase> and <foreignphrase
+lang="art-lojban">lo</foreignphrase>, which are normally all you will need.  My
 personal advice (not official Lojban policy!)  is <emphasis>when in doubt, use
-<foreignphrase lang="loj">le</foreignphrase></emphasis>.  This is because the only
-time <foreignphrase lang="loj">le</foreignphrase> is completely wrong is
-with a <foreignphrase lang="loj">cmene</foreignphrase> (which needs
-<foreignphrase lang="loj">la</foreignphrase>, of course).  If you use
-<foreignphrase lang="loj">le</foreignphrase> where another article would be
+<foreignphrase lang="art-lojban">le</foreignphrase></emphasis>.  This is because the only
+time <foreignphrase lang="art-lojban">le</foreignphrase> is completely wrong is
+with a <foreignphrase lang="art-lojban">cmene</foreignphrase> (which needs
+<foreignphrase lang="art-lojban">la</foreignphrase>, of course).  If you use
+<foreignphrase lang="art-lojban">le</foreignphrase> where another article would be
 more appropriate, you may not express yourself as clearly as you wanted,
 but at least you will not be talking nonsense, like you would in German if
-you said <foreignphrase>der Frau</foreignphrase>.  </para>
+you said <foreignphrase lang="deu">der Frau</foreignphrase>.  </para>
 </sect1>
 
 <sect1 id="less4answers"><title>Answers to Exercises</title>
@@ -792,21 +792,21 @@ you said <foreignphrase>der Frau</foreignphrase>.  </para>
 <para>
 <orderedlist>
 
-<listitem><para>35: <foreignphrase lang="loj">li
+<listitem><para>35: <foreignphrase lang="art-lojban">li
 cimu</foreignphrase></para></listitem>
 
-<listitem><para>4,802: <foreignphrase lang="loj">li
+<listitem><para>4,802: <foreignphrase lang="art-lojban">li
 vobinore</foreignphrase> <emphasis>or</emphasis> <foreignphrase
-lang="loj">li vo ki'o binore</foreignphrase> (the spaces are
+lang="art-lojban">li vo ki'o binore</foreignphrase> (the spaces are
 optional)</para></listitem>
 
-<listitem><para>6,000: <foreignphrase lang="loj">li xa
+<listitem><para>6,000: <foreignphrase lang="art-lojban">li xa
 ki'o</foreignphrase></para></listitem>
 
-<listitem><para>7.54: <foreignphrase lang="loj">li ze
+<listitem><para>7.54: <foreignphrase lang="art-lojban">li ze
 pimuvo</foreignphrase> (again the space is optional)</para></listitem>
 
-<listitem><para>6,891,573.905: <foreignphrase lang="loj">li xa ki'o bisopa
+<listitem><para>6,891,573.905: <foreignphrase lang="art-lojban">li xa ki'o bisopa
 ki'o muzeci pisonomu</foreignphrase> (if that looks long, try writing it as
 a word in English!)  </para></listitem>
 
@@ -859,61 +859,61 @@ likers first, and as talkers second.</para></listitem>
 <para>
 <orderedlist>
 
-<listitem><para><foreignphrase lang="loj">lei ci mlatu cu batci le
+<listitem><para><foreignphrase lang="art-lojban">lei ci mlatu cu batci le
 gerku</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">.ue la meilis.  prami re lo
+<listitem><para><foreignphrase lang="art-lojban">.ue la meilis.  prami re lo
 nanmu</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">so'e lo nanmu cu prami su'o pa lo
+<listitem><para><foreignphrase lang="art-lojban">so'e lo nanmu cu prami su'o pa lo
 ninmu</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">ro lo nanmu na prami su'o pa lo
+<listitem><para><foreignphrase lang="art-lojban">ro lo nanmu na prami su'o pa lo
 ninmu </foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">lu'o vo lo ninmu cu cinba la
+<listitem><para><foreignphrase lang="art-lojban">lu'o vo lo ninmu cu cinba la
 rikis.martin.  (give yourself a pat on the back if you got that one
 right!)</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">.uinai</foreignphrase>
-[<emphasis>or</emphasis> <foreignphrase lang="loj">.uu</foreignphrase>]
-<foreignphrase lang="loj">no lo prenu cu prami la bil.</foreignphrase>
-<emphasis>or</emphasis> <foreignphrase lang="loj">na su'o pa lo prenu cu
+<listitem><para><foreignphrase lang="art-lojban">.uinai</foreignphrase>
+[<emphasis>or</emphasis> <foreignphrase lang="art-lojban">.uu</foreignphrase>]
+<foreignphrase lang="art-lojban">no lo prenu cu prami la bil.</foreignphrase>
+<emphasis>or</emphasis> <foreignphrase lang="art-lojban">na su'o pa lo prenu cu
 prami la bil.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">le la ROZmeris. cinfu cu batci re lo
-prenu</foreignphrase> (or: <foreignphrase lang="loj">le cinfu pe la 
+<listitem><para><foreignphrase lang="art-lojban">le la ROZmeris. cinfu cu batci re lo
+prenu</foreignphrase> (or: <foreignphrase lang="art-lojban">le cinfu pe la 
 ROZmeris. ...</foreignphrase>)</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">pafu'ici loi ninmu cu nelci la
+<listitem><para><foreignphrase lang="art-lojban">pafu'ici loi ninmu cu nelci la
 deivyd.bo,is.  (note that <quote role="gloss">Bowie</quote>
  is not pronounced <foreignphrase
-lang="loj">bau,i</foreignphrase> or as in "bowie
+lang="art-lojban">bau,i</foreignphrase> or as in "bowie
 knife")</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">su'e pipamu loi budjo cu citka lo
+<listitem><para><foreignphrase lang="art-lojban">su'e pipamu loi budjo cu citka lo
 rectu</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">sofu'ipano loi mlatu cu nelci la .uiskas.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">sofu'ipano loi mlatu cu nelci la .uiskas.</foreignphrase></para></listitem>
 
 </orderedlist>
 </para>
 </simplesect>
 
 <simplesect role="excanswer"><title>A final question</title> <para><quote
-role = "gloss">The dog</quote> would be <foreignphrase lang="loj">le pa
+role = "gloss">The dog</quote> would be <foreignphrase lang="art-lojban">le pa
 gerku</foreignphrase>.  Normally, we wouldn't bother with the
-<foreignphrase lang="loj">pa</foreignphrase> though, unless we wanted to
+<foreignphrase lang="art-lojban">pa</foreignphrase> though, unless we wanted to
 make it quite clear that we only have one dog in mind.  <quote
-role="gloss">The dogs</quote> would be <foreignphrase lang="loj">le su'o re
-gerku</foreignphrase> (or <foreignphrase lang="loj">lei su'o re
+role="gloss">The dogs</quote> would be <foreignphrase lang="art-lojban">le su'o re
+gerku</foreignphrase> (or <foreignphrase lang="art-lojban">lei su'o re
 gerku</foreignphrase>, if we're thinking of them as a group) &mdash; <quote
 role="gloss">the at least two dogs</quote>.  However, it is hard to think
 of many situations where you would need to say this.  Like some other
 languages (e.g. Chinese), Lojban normally leaves number up to context.  You
 guessed it &mdash; you've just spent all this time learning to say how many
 people, dogs etc.  there are, and <foreignphrase
-lang="loj">piso</foreignphrase> of the time, you don't need to!  But, like
+lang="art-lojban">piso</foreignphrase> of the time, you don't need to!  But, like
 many features of Lojban, it can be very useful when you want it, so please
 don't feel tricked.  </para>
 

@@ -38,8 +38,8 @@ recently even English had two (the other being
 <wordasword>wherefore</wordasword>, as in <quote>wherefore art thou
 Romeo?</quote>). We would expect, then, that Lojban would have at least
 four words for <wordasword>why</wordasword>, but in fact it doesn't, since all
-questions are handled with <foreignphrase lang="loj">ma, mo</foreignphrase>
-and <foreignphrase lang="loj">xo</foreignphrase>. What Lojban <emphasis>does</emphasis>
+questions are handled with <foreignphrase lang="art-lojban">ma, mo</foreignphrase>
+and <foreignphrase lang="art-lojban">xo</foreignphrase>. What Lojban <emphasis>does</emphasis>
 have is four words for <wordasword>because</wordasword>. </para>
 
 
@@ -51,29 +51,29 @@ If we express the rather unlikely explanation in Lojban, we get
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">lenu lei dilnu cu klaku ca rinka lenu carvi</foreignphrase>
+<foreignphrase lang="art-lojban">lenu lei dilnu cu klaku ca rinka lenu carvi</foreignphrase>
 the-event the-mass-of cloud now weep physically-cause the-event rain
 The clouds' crying is making it rain.
 </literallayout>
 </informalexample>
 
-<foreignphrase lang="loj">rinka</foreignphrase> means <quote
+<foreignphrase lang="art-lojban">rinka</foreignphrase> means <quote
 role="gloss">cause</quote> in a physical or mechanical sense. To change
 this <quote role="gloss">cause</quote> to a <quote
 role="gloss">because</quote>, we can use <foreignphrase
-lang="loj">ri'a</foreignphrase>. This is a <foreignphrase lang="loj">sumti
+lang="art-lojban">ri'a</foreignphrase>. This is a <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> derived from <foreignphrase
-lang="loj">rinka</foreignphrase>, in the same way that we saw
-<foreignphrase lang="loj">de'i</foreignphrase> derived from <foreignphrase
-lang="loj">detri</foreignphrase> in <link linkend="less5">Lesson 5</link>. 
-So it adds a new place to the <foreignphrase lang="loj">bridi</foreignphrase> 
+lang="art-lojban">rinka</foreignphrase>, in the same way that we saw
+<foreignphrase lang="art-lojban">de'i</foreignphrase> derived from <foreignphrase
+lang="art-lojban">detri</foreignphrase> in <link linkend="less5">Lesson 5</link>. 
+So it adds a new place to the <foreignphrase lang="art-lojban">bridi</foreignphrase> 
 it sits in.
-Just as <foreignphrase lang="loj">de'i</foreignphrase> means <quote 
+Just as <foreignphrase lang="art-lojban">de'i</foreignphrase> means <quote 
 role="gloss">with
-date</quote>, <foreignphrase lang="loj">ri'a</foreignphrase> means
+date</quote>, <foreignphrase lang="art-lojban">ri'a</foreignphrase> means
 <quote role="gloss">with physical cause</quote>. So we can now say
 
-<informalexample><para><foreignphrase lang="loj">
+<informalexample><para><foreignphrase lang="art-lojban">
 carvi ri'a lenu lei dilnu cu klaku
 </foreignphrase></para></informalexample>
 
@@ -81,15 +81,15 @@ which is much more elegant. (Note that Lojban does not need the empty
 <wordasword>it</wordasword> in <quote>It's raining</quote>.) </para>
 
 <para>The reason I have emphasised that <foreignphrase
-lang="loj">rinka</foreignphrase> and <foreignphrase
-lang="loj">ri'a</foreignphrase> only deal with
+lang="art-lojban">rinka</foreignphrase> and <foreignphrase
+lang="art-lojban">ri'a</foreignphrase> only deal with
 <emphasis>physical</emphasis> causes is that it cannot apply in many cases
 where an English-speaker would use <wordasword>because</wordasword>. Consider the
 second example. If we say
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">la salis. darxi do ri'a lenu do lacpu lei kerfa</foreignphrase>
+<foreignphrase lang="art-lojban">la salis. darxi do ri'a lenu do lacpu lei kerfa</foreignphrase>
 Sally hits you with-physical-cause you pull the-mass-of hair
 </literallayout>
 </informalexample>
@@ -123,9 +123,9 @@ may lead us to believe that we have no control over our emotions or even
 our actions. Whether or not we believe in free will at a metaphysical
 level, it is useful to distinguish between physical reactions and responses
 which have a cognitive/emotional element. Not surprisingly, then, Lojban
-has a separate <foreignphrase lang="loj">gismu</foreignphrase> for
-motivation: <foreignphrase lang="loj">mukti</foreignphrase>. The full
-definition of <foreignphrase lang="loj">mukti</foreignphrase> is
+has a separate <foreignphrase lang="art-lojban">gismu</foreignphrase> for
+motivation: <foreignphrase lang="art-lojban">mukti</foreignphrase>. The full
+definition of <foreignphrase lang="art-lojban">mukti</foreignphrase> is
 
 <informalexample><para>x1 (action/event/state) motivates/is a
 motive/incentive for action/event x2, per volition of x3
@@ -135,7 +135,7 @@ We can therefore say
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">lenu do lacpu lei kerfa [pe la salis.] cu mukti lenu la salis. darxi do [kei la salis]</foreignphrase>
+<foreignphrase lang="art-lojban">lenu do lacpu lei kerfa [pe la salis.] cu mukti lenu la salis. darxi do [kei la salis]</foreignphrase>
 the-event you pull the-mass hair [related-to Sally] motivates the-event Sally hit you [through the volition of Sally]
 Your pulling Sally's hair motivated her to hit you.
 </literallayout>
@@ -146,12 +146,12 @@ Your pulling Sally's hair motivated her to hit you.
 can assume that the agent of the second event is also the person who
 decides to do it. Even so, this structure is a bit clumsy, so again we
 would normally use a <foreignphrase
-lang="loj">sumti tcita</foreignphrase>, in this case, <foreignphrase
-lang="loj">mu'i</foreignphrase>. This gives us
+lang="art-lojban">sumti tcita</foreignphrase>, in this case, <foreignphrase
+lang="art-lojban">mu'i</foreignphrase>. This gives us
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">la salis. darxi do mu'i lenu do lacpu lei kerfa</foreignphrase>
+<foreignphrase lang="art-lojban">la salis. darxi do mu'i lenu do lacpu lei kerfa</foreignphrase>
 Sally hits you with-motive you pull the-mass hair
 </literallayout>
 </informalexample>
@@ -160,8 +160,8 @@ Sally hits you with-motive you pull the-mass hair
 <simplesect role="exercise"><title>Exercise 1</title>
 
 <para>Don't bother to translate these sentences, just decide whether they
-should use <foreignphrase lang="loj">ri'a</foreignphrase> or <foreignphrase
-lang="loj">mu'i</foreignphrase>. </para>
+should use <foreignphrase lang="art-lojban">ri'a</foreignphrase> or <foreignphrase
+lang="art-lojban">mu'i</foreignphrase>. </para>
 
 <para>
 <orderedlist>
@@ -190,7 +190,7 @@ the teacher, it is possible to say
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">la salis. te dunda lo tartcita le ctuca mu'i lenu sy tcetoi gunka</foreignphrase>
+<foreignphrase lang="art-lojban">la salis. te dunda lo tartcita le ctuca mu'i lenu sy tcetoi gunka</foreignphrase>
 Sally is-given a star-label [by] the teacher with-motivation she much-try work
 </literallayout>
 </informalexample>
@@ -200,41 +200,41 @@ Sally is-given a star-label [by] the teacher with-motivation she much-try work
 to give her a star. It does not imply that it is the custom for teachers to
 give stars (or <quote role="socalled">star-labels</quote>, as I have rather
 pedantically translated it) as a reward for good work. What we need here is
-<foreignphrase lang="loj">ki'u</foreignphrase>, the <foreignphrase
-lang="loj">sumti tcita</foreignphrase> from <foreignphrase
-lang="loj">krinu</foreignphrase> (<quote>x1 (event/state) is a
+<foreignphrase lang="art-lojban">ki'u</foreignphrase>, the <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> from <foreignphrase
+lang="art-lojban">krinu</foreignphrase> (<quote>x1 (event/state) is a
 reason/justification/explanation for/causing/permitting x2
 (event/state)</quote>). We can therefore more accurately say
 
-<informalexample><para><foreignphrase lang="loj">
+<informalexample><para><foreignphrase lang="art-lojban">
 lenu la salis. tcetoi gunka cu krinu lenu le ctuca cu dunda lo tartcita sy
 </foreignphrase></para></informalexample>
 
 or, as in the earlier example,
 
-<informalexample><para><foreignphrase lang="loj">
+<informalexample><para><foreignphrase lang="art-lojban">
 la salis. te dunda lo tartcita le ctuca ki'u lenu sy. tcetoi gunka
 </foreignphrase></para></informalexample>
 </para>
 
-<note><para>Don't get <foreignphrase lang="loj">ki'u</foreignphrase> mixed
-up with <foreignphrase lang="loj">ku'i</foreignphrase> <quote
+<note><para>Don't get <foreignphrase lang="art-lojban">ki'u</foreignphrase> mixed
+up with <foreignphrase lang="art-lojban">ku'i</foreignphrase> <quote
 role="gloss">but, however</quote>! </para></note>
 
-<para><foreignphrase lang="loj">ki'u</foreignphrase> appeals to more
-general considerations than <foreignphrase lang="loj">mu'i</foreignphrase>,
+<para><foreignphrase lang="art-lojban">ki'u</foreignphrase> appeals to more
+general considerations than <foreignphrase lang="art-lojban">mu'i</foreignphrase>,
 but it still deals with human standards, not logical laws. Only a very naive
 student would believe that if a student is given a star, it must logically
 imply that that student has worked hard. In the tragic case of Fluffy,
 however, the fact that Fluffy is a rabbit logically implies that he will
 not live long, given what we know about rabbits. Here we can confidently
-use <foreignphrase lang="loj">nibli</foreignphrase>: <quote>x1 logically
+use <foreignphrase lang="art-lojban">nibli</foreignphrase>: <quote>x1 logically
 necessitates/entails/implies action/event/state x2 under rules/logic system
 x3</quote>. The sentence
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">lenu la flufis. ractu cu nibli lenu fy. pu mrobi'o</foreignphrase>
+<foreignphrase lang="art-lojban">lenu la flufis. ractu cu nibli lenu fy. pu mrobi'o</foreignphrase>
 the-event Fluffy is-a-rabbit implies the-event he past die
 </literallayout>
 </informalexample>
@@ -243,7 +243,7 @@ actually misses out a step (the information that rabbits are short-lived)
 but it will do for practical purposes. If you want a textbook logic
 example, you can say
 
-<informalexample><para><foreignphrase lang="loj">
+<informalexample><para><foreignphrase lang="art-lojban">
 la flufis. ractu .ije ro ractu na'e ze'u jmive .iseni'ibo la flufis. na ze'u jmive
 </foreignphrase></para></informalexample>
 
@@ -266,12 +266,12 @@ not long-lived.</para></listitem>
 that it demonstrates how sentences can be joined, and how <quote
 role="gloss">because</quote> can be turned into <quote
 role="gloss">therefore</quote>. We've seen how <foreignphrase
-lang="loj">.i</foreignphrase> shows that a new sentence is starting; but we
+lang="art-lojban">.i</foreignphrase> shows that a new sentence is starting; but we
 can also tag things onto <foreignphrase
-lang="loj">.i</foreignphrase>. We've seen (in passing) that two <foreignphrase
-lang="loj">sumti</foreignphrase> can be joined with <foreignphrase
-lang="loj">.e</foreignphrase>.In the same way, <foreignphrase
-lang="loj">.ije</foreignphrase> joins two sentences with a logical 
+lang="art-lojban">.i</foreignphrase>. We've seen (in passing) that two <foreignphrase
+lang="art-lojban">sumti</foreignphrase> can be joined with <foreignphrase
+lang="art-lojban">.e</foreignphrase>.In the same way, <foreignphrase
+lang="art-lojban">.ije</foreignphrase> joins two sentences with a logical 
 <wordasword>and</wordasword>,
 i.e. it asserts that both sentences are true. Normally we don't need to do
 this, since we usually assume that what we say is true; but it is useful
@@ -282,19 +282,19 @@ here, because it binds the first two sentences together, so that when the
 not important for now.) </para>
 
 <para>So what is <foreignphrase
-lang="loj">.iseni'ibo</foreignphrase>? <quote 
+lang="art-lojban">.iseni'ibo</foreignphrase>? <quote 
 role="gloss">Therefore</quote>, for one, or <quote 
 role="gloss">with the logical result that...</quote>. How? Well, a <foreignphrase
-lang="loj">sumti tcita</foreignphrase> can be used to connect sentences to 
+lang="art-lojban">sumti tcita</foreignphrase> can be used to connect sentences to 
 other sentences, just as it can be used to connect <foreignphrase
-lang="loj">sumti</foreignphrase> into <foreignphrase
-lang="loj">bridi</foreignphrase> (though there are only so many <foreignphrase
-lang="loj">sumti tcita</foreignphrase> this makes sense for &mdash; and this 
+lang="art-lojban">sumti</foreignphrase> into <foreignphrase
+lang="art-lojban">bridi</foreignphrase> (though there are only so many <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> this makes sense for &mdash; and this 
 lesson contains most of them.) <emphasis>However</emphasis>, left on its own, a <foreignphrase
-lang="loj">sumti tcita</foreignphrase> applies to the <foreignphrase
-lang="loj">sumti</foreignphrase> after it. So had I just said
+lang="art-lojban">sumti tcita</foreignphrase> applies to the <foreignphrase
+lang="art-lojban">sumti</foreignphrase> after it. So had I just said
 
-<informalexample><para><foreignphrase lang="loj">.iseni'i la flufis. na ze'u jmive
+<informalexample><para><foreignphrase lang="art-lojban">.iseni'i la flufis. na ze'u jmive
 </foreignphrase></para></informalexample>
 
 that would have meant something like <quote>With the logical result of 
@@ -302,46 +302,46 @@ Fluffy, [something] doesn't live long.</quote> We're not quite sure what this
 means; maybe the <quote role="socalled">something</quote> is some mythical 
 creature that spontaneously generates bunny rabbits when it dies. But of 
 course, this doesn't mean what we want. To make the <foreignphrase
-lang="loj">sumti tcita</foreignphrase> apply to the 
+lang="art-lojban">sumti tcita</foreignphrase> apply to the 
 <emphasis>entire</emphasis> sentence, we follow it with the word <foreignphrase
-lang="loj">bo</foreignphrase>.</para>
+lang="art-lojban">bo</foreignphrase>.</para>
 
 <note><para>This applies to other kind of <foreignphrase
-lang="loj">sumti tcita</foreignphrase>, by the way; for example, tense 
+lang="art-lojban">sumti tcita</foreignphrase>, by the way; for example, tense 
 words. For example, <foreignphrase
-lang="loj">.i ba bo</foreignphrase> means <quote role="gloss">afterwards, 
+lang="art-lojban">.i ba bo</foreignphrase> means <quote role="gloss">afterwards, 
 then</quote>: the sentence it introduces comes after the one before it.
 </para></note>
 
 <note><para>The very astute reader will have noted that <quote role="gloss">afterwards</quote> 
 <emphasis>should</emphasis> have been <foreignphrase
-lang="loj">.i pu bo</foreignphrase>; the analogy with <foreignphrase
-lang="loj">ba ku</foreignphrase> won out, though. The rest of you can 
+lang="art-lojban">.i pu bo</foreignphrase>; the analogy with <foreignphrase
+lang="art-lojban">ba ku</foreignphrase> won out, though. The rest of you can 
 ponder what on Earth I'm talking about, but need not lose over sleep over 
 it.</para></note>
 
-<para>What we're left with is a <foreignphrase lang="loj">sumti
-tcita</foreignphrase>, <foreignphrase lang="loj">se ni'i</foreignphrase>,
+<para>What we're left with is a <foreignphrase lang="art-lojban">sumti
+tcita</foreignphrase>, <foreignphrase lang="art-lojban">se ni'i</foreignphrase>,
 which we haven't yet explain. Actually, though, you've seen enough to work
 this out from <link linkend="less9">Lesson 9</link>. As you saw there,
-<foreignphrase lang="loj">sumti tcita</foreignphrase> can be modified with
-<foreignphrase lang="loj">se, te, ve, xe</foreignphrase>, just like their
-underlying <foreignphrase lang="loj">gismu</foreignphrase>. You'll have
-guessed by now that <foreignphrase lang="loj">ni'i</foreignphrase> is a
-<foreignphrase lang="loj">sumti tcita</foreignphrase> meaning <quote
+<foreignphrase lang="art-lojban">sumti tcita</foreignphrase> can be modified with
+<foreignphrase lang="art-lojban">se, te, ve, xe</foreignphrase>, just like their
+underlying <foreignphrase lang="art-lojban">gismu</foreignphrase>. You'll have
+guessed by now that <foreignphrase lang="art-lojban">ni'i</foreignphrase> is a
+<foreignphrase lang="art-lojban">sumti tcita</foreignphrase> meaning <quote
 role="gloss">logically because of</quote>. In other words, the
-<foreignphrase lang="loj">sumti</foreignphrase> introduced by
-<foreignphrase lang="loj">ni'i</foreignphrase> is <foreignphrase
-lang="loj">le nibli</foreignphrase> <quote role="gloss">that which
-logically necessitates.</quote> This makes <foreignphrase lang="loj">se
-ni'i</foreignphrase> a <foreignphrase lang="loj">sumti
-tcita</foreignphrase> introducing <foreignphrase lang="loj">le se
+<foreignphrase lang="art-lojban">sumti</foreignphrase> introduced by
+<foreignphrase lang="art-lojban">ni'i</foreignphrase> is <foreignphrase
+lang="art-lojban">le nibli</foreignphrase> <quote role="gloss">that which
+logically necessitates.</quote> This makes <foreignphrase lang="art-lojban">se
+ni'i</foreignphrase> a <foreignphrase lang="art-lojban">sumti
+tcita</foreignphrase> introducing <foreignphrase lang="art-lojban">le se
 nibli</foreignphrase> &mdash; <quote role="gloss">that which is logically
 necessitated; the logical result.</quote> And so
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">la flufis. pu mrobi'o ni'i lenu ro ractu na'e ze'u jmive</foreignphrase>
+<foreignphrase lang="art-lojban">la flufis. pu mrobi'o ni'i lenu ro ractu na'e ze'u jmive</foreignphrase>
 Fluffy past die with-logical-necessity the-event all rabbits other-than long-time-period live
 Fluffy died because rabbits don't live long.
 </literallayout>
@@ -351,22 +351,22 @@ is the same as
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">ro ractu na'e ze'u jmive seni'i lenu la flufis. pu mrobi'o</foreignphrase>
+<foreignphrase lang="art-lojban">ro ractu na'e ze'u jmive seni'i lenu la flufis. pu mrobi'o</foreignphrase>
 Rabbits don't live long, with the logical consequence that Fluffy died.
 </literallayout>
 </informalexample>
 
 And because <foreignphrase
-lang="loj">lenu</foreignphrase>-abstractions can be treated as sentences,  
+lang="art-lojban">lenu</foreignphrase>-abstractions can be treated as sentences,  
 they are equivalent in turn to our initial example,
 
-<informalexample><para><foreignphrase lang="loj">
+<informalexample><para><foreignphrase lang="art-lojban">
 la flufis. ractu .ije ro ractu na'e ze'u jmive .iseni'ibo la flufis. na ze'u jmive
 </foreignphrase></para></informalexample>
 
 and its inverse, 
 
-<informalexample><para><foreignphrase lang="loj">
+<informalexample><para><foreignphrase lang="art-lojban">
 la flufis. na ze'u jmive .ini'ibo la flufis. ractu .ije ro ractu na'e ze'u jmive
 </foreignphrase></para></informalexample>
 
@@ -377,11 +377,11 @@ Fluffy is a rabbit and that he had lived out his rabbit life naturally,
 rather than getting eaten by a dog &mdash; but you get the idea, I hope). </para>
 
 <para>We can apply this principle to the other <foreignphrase
-lang="loj">sumti tcita</foreignphrase> we've looked at. Here are some examples:
+lang="art-lojban">sumti tcita</foreignphrase> we've looked at. Here are some examples:
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">le lante cu spoja ri'a lenu ri pu glare</foreignphrase>
+<foreignphrase lang="art-lojban">le lante cu spoja ri'a lenu ri pu glare</foreignphrase>
 the can explode with-physical-cause the-event it past is-hot
 The can exploded because it was hot.
 </literallayout>
@@ -389,7 +389,7 @@ The can exploded because it was hot.
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">le lante pu glare seri'a lenu ri spoja</foreignphrase>
+<foreignphrase lang="art-lojban">le lante pu glare seri'a lenu ri spoja</foreignphrase>
 the can past is-hot with-physical-result the-event it explode
 The can was hot, so it exploded. 
 </literallayout>
@@ -397,7 +397,7 @@ The can was hot, so it exploded.
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">so'i prenu cu nelci la djiotis. mu'i lenu ri xajmi</foreignphrase>
+<foreignphrase lang="art-lojban">so'i prenu cu nelci la djiotis. mu'i lenu ri xajmi</foreignphrase>
 many people like Jyoti with-motivation the-event she is-funny
 Many people like Jyoti because she's funny.
 </literallayout>
@@ -405,7 +405,7 @@ Many people like Jyoti because she's funny.
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">la djiotis. xajmi semu'i lenu so'i prenu cu nelci dy</foreignphrase>
+<foreignphrase lang="art-lojban">la djiotis. xajmi semu'i lenu so'i prenu cu nelci dy</foreignphrase>
 Jyoti is-funny with-motivated-result the-event many people like her
 Jyoti is funny, so many people like her.
 </literallayout>
@@ -416,9 +416,9 @@ Jyoti is funny, so many people like her.
 <simplesect role="exercise"><title>Exercise 2.</title>
 
 <para>This is just like Exercise 1, except that now we have eight choices:
-<foreignphrase lang="loj">ri'a, mu'i, ki'u, ni'i</foreignphrase> and their
-<foreignphrase lang="loj">se</foreignphrase> forms. For each sentence,
-choose the most suitable <foreignphrase lang="loj">sumti tcita</foreignphrase>.
+<foreignphrase lang="art-lojban">ri'a, mu'i, ki'u, ni'i</foreignphrase> and their
+<foreignphrase lang="art-lojban">se</foreignphrase> forms. For each sentence,
+choose the most suitable <foreignphrase lang="art-lojban">sumti tcita</foreignphrase>.
 </para>
 
 <para>
@@ -450,67 +450,67 @@ got an exciting story-line.</para></listitem>
 
 <para>With four types of <wordasword>because</wordasword>, we can now make four types
 of <wordasword>why</wordasword>, simply by using <foreignphrase
-lang="loj">ma</foreignphrase>. Our child's questions translate as follows:
+lang="art-lojban">ma</foreignphrase>. Our child's questions translate as follows:
 
 <itemizedlist>
 
-<listitem><para><foreignphrase lang="loj">carvi ri'a ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">carvi ri'a ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">la salis. darxi mi mu'i ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la salis. darxi mi mu'i ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">la salis. te dunda lo tartcita le ctuca ki'u ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la salis. te dunda lo tartcita le ctuca ki'u ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">la flufis. pu mrobi'o ni'i ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la flufis. pu mrobi'o ni'i ma</foreignphrase></para></listitem>
 
 </itemizedlist>
 </para>
 
 <para>Of course, the questions do not have to take these forms; if young
-Joey is a religious type, he might say <foreignphrase lang="loj">la flufis.
+Joey is a religious type, he might say <foreignphrase lang="art-lojban">la flufis.
 pu mrobi'o ki'u ma</foreignphrase>, asking with what justification God took
 his rabbit from him, whereas if he is scientifically minded, he might ask
-<foreignphrase lang="loj">la flufis. pu mrobi'o ri'a ma</foreignphrase>,
+<foreignphrase lang="art-lojban">la flufis. pu mrobi'o ri'a ma</foreignphrase>,
 inquiring as to the physical cause of Fluffy's death. </para>
 
 <para>To an English-speaker, this looks back-to-front (<quote>It rains.
 Why?</quote>) but there is really no reason why question-words have to come
 at the beginning of a sentence. However, if you prefer to start with
-<foreignphrase lang="loj">ma</foreignphrase>, you can always use the
-<foreignphrase lang="loj">gismu</foreignphrase>, e.g.
+<foreignphrase lang="art-lojban">ma</foreignphrase>, you can always use the
+<foreignphrase lang="art-lojban">gismu</foreignphrase>, e.g.
 
 <informalexample>
 <literallayout>
-<foreignphrase lang="loj">ma rinka lenu carvi</foreignphrase>
+<foreignphrase lang="art-lojban">ma rinka lenu carvi</foreignphrase>
 what? physically-causes the-event rain
 </literallayout>
 </informalexample>
 
-And since the position of <foreignphrase lang="loj">sumti 
+And since the position of <foreignphrase lang="art-lojban">sumti 
 tcita</foreignphrase> in the <foreignphrase 
-lang="loj">bridi</foreignphrase> is fairly free, nothing is preventing you 
+lang="art-lojban">bridi</foreignphrase> is fairly free, nothing is preventing you 
 from saying
 
 <informalexample>
 <para>
-<foreignphrase lang="loj">ri'a ma carvi</foreignphrase>
+<foreignphrase lang="art-lojban">ri'a ma carvi</foreignphrase>
 </para>
 </informalexample>
 
 </para>
 
 <para>Answers to <wordasword>why</wordasword> questions are usually not a whole
-sentence but an event-<foreignphrase lang="loj">sumti</foreignphrase>, 
+sentence but an event-<foreignphrase lang="art-lojban">sumti</foreignphrase>, 
 following Lojban's fill-in-the-slot approach to questions and answers; e.g.
 
 <itemizedlist>
 
-<listitem><para><foreignphrase lang="loj">la salis. darxi mi mu'i ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">la salis. darxi mi mu'i ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">lenu do lacpu lei kerfa</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">lenu do lacpu lei kerfa</foreignphrase></para></listitem>
 
 </itemizedlist>
 
-This is short for the long-winded <foreignphrase lang="loj">lenu do lacpu
+This is short for the long-winded <foreignphrase lang="art-lojban">lenu do lacpu
 lei kerfa cu mukti la salis. darxi do</foreignphrase>.
 
 </para>
@@ -520,32 +520,32 @@ lei kerfa cu mukti la salis. darxi do</foreignphrase>.
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">spebi'o</foreignphrase></term><listitem><para>x1 marries x2; x1
+lang="art-lojban">spebi'o</foreignphrase></term><listitem><para>x1 marries x2; x1
 becomes a spouse of x2 under law/custom/tradition/system/convention x3
-(<foreignphrase lang="loj">speni</foreignphrase> <quote
-role="gloss">spouse</quote> + <foreignphrase lang="loj">binxo</foreignphrase> <quote
+(<foreignphrase lang="art-lojban">speni</foreignphrase> <quote
+role="gloss">spouse</quote> + <foreignphrase lang="art-lojban">binxo</foreignphrase> <quote
 role="gloss">become</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">cmoni</foreignphrase></term><listitem><para>x1 utters
+lang="art-lojban">cmoni</foreignphrase></term><listitem><para>x1 utters
 moan/groan/howl/scream [non-linguistic utterance] x2 expressing x3
 (property)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">manku</foreignphrase></term><listitem><para>x1 is dark/lacking in illumination</para></listitem></varlistentry>
+lang="art-lojban">manku</foreignphrase></term><listitem><para>x1 is dark/lacking in illumination</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">danfu</foreignphrase></term><listitem><para>x1 is the
+lang="art-lojban">danfu</foreignphrase></term><listitem><para>x1 is the
 answer/response/solution/[reply] to question/problem
 x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">cevni</foreignphrase></term><listitem><para>x1 is a/the
+lang="art-lojban">cevni</foreignphrase></term><listitem><para>x1 is a/the
 god/deity of people(s)/religion x2 with dominion over x3 [sphere]; x1 is
 divine</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">palci</foreignphrase></term><listitem><para>x1 is
+lang="art-lojban">palci</foreignphrase></term><listitem><para>x1 is
 evil/depraved/wicked [morally bad] by standard
 x2</para></listitem></varlistentry>
 
@@ -579,34 +579,34 @@ x2</para></listitem></varlistentry>
 <sect1 id="less10summary"><title>Summary</title>
 
 <para>In this lesson we have looked at four <foreignphrase
-lang="loj">gismu</foreignphrase> for cause and effect and their
-corresponding <foreignphrase lang="loj">sumti tcita</foreignphrase>:
+lang="art-lojban">gismu</foreignphrase> for cause and effect and their
+corresponding <foreignphrase lang="art-lojban">sumti tcita</foreignphrase>:
 
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">ri'a</foreignphrase></term><listitem><para>physical cause (<foreignphrase
-lang="loj">rinka</foreignphrase>)</para></listitem></varlistentry>
+lang="art-lojban">ri'a</foreignphrase></term><listitem><para>physical cause (<foreignphrase
+lang="art-lojban">rinka</foreignphrase>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">mu'i</foreignphrase></term><listitem><para>motive (<foreignphrase
-lang="loj">mukti</foreignphrase>)</para></listitem></varlistentry>
+lang="art-lojban">mu'i</foreignphrase></term><listitem><para>motive (<foreignphrase
+lang="art-lojban">mukti</foreignphrase>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">ki'u</foreignphrase></term><listitem><para>justification (<foreignphrase
-lang="loj">krinu</foreignphrase>)</para></listitem></varlistentry>
+lang="art-lojban">ki'u</foreignphrase></term><listitem><para>justification (<foreignphrase
+lang="art-lojban">krinu</foreignphrase>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">ni'i</foreignphrase></term><listitem><para>implication (<foreignphrase
-lang="loj">nibli</foreignphrase>)</para></listitem></varlistentry>
+lang="art-lojban">ni'i</foreignphrase></term><listitem><para>implication (<foreignphrase
+lang="art-lojban">nibli</foreignphrase>)</para></listitem></varlistentry>
 
 </variablelist>
 </para>
 
-<para>We have also seen how <foreignphrase lang="loj">sumti
+<para>We have also seen how <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> can be converted with <foreignphrase
-lang="loj">se</foreignphrase> and looked briefly at connecting sentences
-(<foreignphrase lang="loj">.ije</foreignphrase>.) The next lesson will
+lang="art-lojban">se</foreignphrase> and looked briefly at connecting sentences
+(<foreignphrase lang="art-lojban">.ije</foreignphrase>.) The next lesson will
 look at connectives in more detail. </para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -614,80 +614,80 @@ look at connectives in more detail. </para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
-lang="loj">ba'e</foreignphrase></term><listitem><para>forethought emphasis
+lang="art-lojban">ba'e</foreignphrase></term><listitem><para>forethought emphasis
 indicator; indicates next word is especially
 emphasized</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">carna</foreignphrase></term><listitem><para>x1
+lang="art-lojban">carna</foreignphrase></term><listitem><para>x1
 turns/rotates/revolves around axis x2 in direction
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">ckasu</foreignphrase></term><listitem><para>x1
+lang="art-lojban">ckasu</foreignphrase></term><listitem><para>x1
 ridicules/mocks/scoffs at x2 about x3 (property/event) by doing activity x4
 (event)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">clite</foreignphrase></term><listitem><para>x1 is
+lang="art-lojban">clite</foreignphrase></term><listitem><para>x1 is
 polite/courteous/civil in matter x2 according to standard/custom
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">jubme</foreignphrase></term><listitem><para>x1 is a table/flat
+lang="art-lojban">jubme</foreignphrase></term><listitem><para>x1 is a table/flat
 solid upper surface of material x2, supported by legs/base/pedestal
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">lanli</foreignphrase></term><listitem><para>x1
+lang="art-lojban">lanli</foreignphrase></term><listitem><para>x1
 analyzes/examines-in-detail x2 by method/technique/system x3
 [process/activity] </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">manci</foreignphrase></term><listitem><para>x1 feels wonder/awe/marvels about x2
+lang="art-lojban">manci</foreignphrase></term><listitem><para>x1 feels wonder/awe/marvels about x2
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">pi'o</foreignphrase></term><listitem><para>used by... (<foreignphrase
-lang="loj">sumti tcita</foreignphrase> from <foreignphrase
-lang="loj">pilno</foreignphrase> <quote role="gloss">use</quote>)</para></listitem></varlistentry>
+lang="art-lojban">pi'o</foreignphrase></term><listitem><para>used by... (<foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> from <foreignphrase
+lang="art-lojban">pilno</foreignphrase> <quote role="gloss">use</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">sanmi</foreignphrase></term><listitem><para>x1 (mass) is a meal
+lang="art-lojban">sanmi</foreignphrase></term><listitem><para>x1 (mass) is a meal
 composed of dishes including x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">se ba'i</foreignphrase></term><listitem><para>instead of... (<foreignphrase
-lang="loj">sumti tcita</foreignphrase> from <foreignphrase
-lang="loj">se basti</foreignphrase> <quote role="gloss">is replaced</quote>)</para></listitem></varlistentry>
+lang="art-lojban">se ba'i</foreignphrase></term><listitem><para>instead of... (<foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> from <foreignphrase
+lang="art-lojban">se basti</foreignphrase> <quote role="gloss">is replaced</quote>)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">smaji</foreignphrase></term><listitem><para>x1 (source) is
+lang="art-lojban">smaji</foreignphrase></term><listitem><para>x1 (source) is
 quiet/silent/[still] at observation point x2 by standard
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">tarti</foreignphrase></term><listitem><para>x1 behaves/conducts
+lang="art-lojban">tarti</foreignphrase></term><listitem><para>x1 behaves/conducts
 oneself as/in-manner x2 (event/property) under conditions
 x3</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">tirna</foreignphrase></term><listitem><para>x1 hears x2 against
+lang="art-lojban">tirna</foreignphrase></term><listitem><para>x1 hears x2 against
 background/noise x3; x2 is audible; (adjective:) x1 is
 aural</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">voksa</foreignphrase></term><listitem><para>x1 is a voice/speech
+lang="art-lojban">voksa</foreignphrase></term><listitem><para>x1 is a voice/speech
 sound of individual x2</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">vi'irku'a</foreignphrase></term><listitem><para>toilet (<foreignphrase
-lang="loj">vikmi</foreignphrase> <quote role="gloss">excrete</quote> + <foreignphrase
-lang="loj">kumfa</foreignphrase> <quote role="gloss">room</quote>)
+lang="art-lojban">vi'irku'a</foreignphrase></term><listitem><para>toilet (<foreignphrase
+lang="art-lojban">vikmi</foreignphrase> <quote role="gloss">excrete</quote> + <foreignphrase
+lang="art-lojban">kumfa</foreignphrase> <quote role="gloss">room</quote>)
 </para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="loj">xajmi</foreignphrase></term><listitem><para>x1 is funny/comical
+lang="art-lojban">xajmi</foreignphrase></term><listitem><para>x1 is funny/comical
 to x2 in property/aspect x3 (nu/ka); x3 is what is funny about x1 to x2
 </para></listitem></varlistentry>
 
@@ -708,45 +708,45 @@ inserting a phrase from another language into the language. In both cases,
 we have to give an unambiguous signal where the non-Lojban text finishes.
 To do this, non-Lojban is surrounded on either side by a Lojban word
 &mdash; any word, as long as it doesn't occur inside the non-Lojban text.
-The most popular choice is <foreignphrase lang="loj">gy</foreignphrase>,
-standing for <foreignphrase lang="loj">glico</foreignphrase> <quote
+The most popular choice is <foreignphrase lang="art-lojban">gy</foreignphrase>,
+standing for <foreignphrase lang="art-lojban">glico</foreignphrase> <quote
 role="gloss">English</quote> (since that's where most non-Lojban text comes
 from.)</para><para>If the text is a name, it is preceded by <foreignphrase
-lang="loj">la'o</foreignphrase> instead of <foreignphrase
-lang="loj">la</foreignphrase>. If it is a quotation, it is preceded by
-<foreignphrase lang="loj">zoi</foreignphrase> instead of <foreignphrase
-lang="loj">lu ... li'u</foreignphrase>.</para></note>
+lang="art-lojban">la'o</foreignphrase> instead of <foreignphrase
+lang="art-lojban">la</foreignphrase>. If it is a quotation, it is preceded by
+<foreignphrase lang="art-lojban">zoi</foreignphrase> instead of <foreignphrase
+lang="art-lojban">lu ... li'u</foreignphrase>.</para></note>
 
 <para>
 <orderedlist>
 
 <listitem><para><foreignphrase
-lang="loj">.i la ranjit. smaji ca lenu la suzyn. cpedu le sanmi le sabji 
+lang="art-lojban">.i la ranjit. smaji ca lenu la suzyn. cpedu le sanmi le sabji 
 kei ki'u le ka ry. clite kei .e le nu ry. nelci le voksa be la suzyn. kei</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i seri'a bo la djiotis. kakne lenu tirna lenu le'i zutse pe le 
+lang="art-lojban">.i seri'a bo la djiotis. kakne lenu tirna lenu le'i zutse pe le 
 ri'u jubme cu simxu tavla</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la djiotis. mu'i lenu go'i cu carna fi le ri'u jubme</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. mu'i lenu go'i cu carna fi le ri'u jubme</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="loj">.i ni'i ku la djiotis. na zgana
+<listitem><para><foreignphrase lang="art-lojban">.i ni'i ku la djiotis. na zgana
 lenu la ranjit. tarti lenu simsa dy. kei mu'i le nu
 ckasu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la suzyn. cisma semu'i lenu la djiotis. carna fi sy.</foreignphrase></para></listitem>
+lang="art-lojban">.i la suzyn. cisma semu'i lenu la djiotis. carna fi sy.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i cusku lu .i mo li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i cusku lu .i mo li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la suzyn. cusku lu .i la ranjit. pu cusku lo xajmi pe la'o 
+lang="art-lojban">.i la suzyn. cusku lu .i la ranjit. pu cusku lo xajmi pe la'o 
 gy. Sch&ouml;nberg gy. .e. la'o gy. Stravinsky gy. li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la djiotis. semu'i cmoni cusku zoi gy. chootio! gy.</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. semu'i cmoni cusku zoi gy. chootio! gy.</foreignphrase></para></listitem>
 
 </orderedlist>
 </para>
@@ -766,12 +766,12 @@ bathroom, so he cannot hear Jyoti.</para></listitem>
 
 <listitem><para>She says <quote>I shall now analyse the 47th creation (= composition) 
 of Jimmy Bob Bach with this mirror &mdash; because I can.</quote> (Hint: 
-use <foreignphrase lang="loj">la'o</foreignphrase>.
+use <foreignphrase lang="art-lojban">la'o</foreignphrase>.
 You can express <quote role="gloss">with</quote>; look at the vocabulary 
 list carefully...)</para></listitem>
 
 <listitem><para>Susan laughs, since Jyoti is as funny as Ranjeet. (Hint: use <foreignphrase
-lang="loj">mintu</foreignphrase>)</para></listitem>
+lang="art-lojban">mintu</foreignphrase>)</para></listitem>
 
 <listitem><para>Jyoti says <quote>Susan, why are you talking with Ranjeet 
 about crap?</quote> (Hint: do <emphasis>not</emphasis> use the Lojban word 
@@ -796,26 +796,26 @@ place structure of <quote role="gloss">eye</quote> will do this for you.)</para>
 <para>
 <orderedlist>
 
-<listitem><para><foreignphrase lang="loj">ri'a</foreignphrase>,
+<listitem><para><foreignphrase lang="art-lojban">ri'a</foreignphrase>,
 obviously.</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">mu'i</foreignphrase>. Even if it
+<listitem><para><foreignphrase lang="art-lojban">mu'i</foreignphrase>. Even if it
 is a classic <quote role="socalled">startle response</quote>, my fear is not a
 <emphasis>direct</emphasis> result of the noise, but the result of some
 kind of cognitive interpretation, however low-level.</para></listitem>
 
 <listitem><para>Even the most dogmatic dialectical materialist would
-probably give <foreignphrase lang="loj">mu'i</foreignphrase>
+probably give <foreignphrase lang="art-lojban">mu'i</foreignphrase>
 here.</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">ri'a</foreignphrase>, since the
+<listitem><para><foreignphrase lang="art-lojban">ri'a</foreignphrase>, since the
 mold cannot really be said to be motivated by the plastic wrapper, or
 indeed by anything.</para></listitem>
 
-<listitem><para>I would say <foreignphrase lang="loj">mu'i</foreignphrase>,
+<listitem><para>I would say <foreignphrase lang="art-lojban">mu'i</foreignphrase>,
 since economics is determined by human motives, not physical laws. Note
-that here the x3 of <foreignphrase lang="loj">mukti</foreignphrase> is not
-<quote role="gloss">prices</quote> (<foreignphrase lang="loj">jdima</foreignphrase>) but
+that here the x3 of <foreignphrase lang="art-lojban">mukti</foreignphrase> is not
+<quote role="gloss">prices</quote> (<foreignphrase lang="art-lojban">jdima</foreignphrase>) but
 those who increase the prices: manufacturers, retailers or the
 government.</para></listitem>
 
@@ -827,21 +827,21 @@ government.</para></listitem>
 <para>
 <orderedlist>
 
-<listitem><para><foreignphrase lang="loj">ki'u</foreignphrase>, because at
+<listitem><para><foreignphrase lang="art-lojban">ki'u</foreignphrase>, because at
 least somebody thought that it <emphasis>deserved</emphasis> an
 Oscar.</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">mu'i</foreignphrase>: the
+<listitem><para><foreignphrase lang="art-lojban">mu'i</foreignphrase>: the
 exciting story motivated me to like the book.</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">semu'i</foreignphrase> (an
+<listitem><para><foreignphrase lang="art-lojban">semu'i</foreignphrase> (an
 obscure example of British pub culture).</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">ri'a</foreignphrase>: the
+<listitem><para><foreignphrase lang="art-lojban">ri'a</foreignphrase>: the
 artificial leg physically causes him to walk in a particular
 way.</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">seni'i</foreignphrase>, even
+<listitem><para><foreignphrase lang="art-lojban">seni'i</foreignphrase>, even
 though it's a logical fallacy &mdash; just because a lot of Australians like
 Vegemite doesn't mean that she has to. (Cultural note: Vegemite is the
 Australian equivalent of the British Marmite; both are a salty paste that
@@ -850,17 +850,17 @@ stuff. Your Australian co-author did not spend his formative years in God's
 Own Country, so he never really got a taste for the stuff.)</para></listitem>
 
 <listitem><para>A tricky one. You could say <foreignphrase
-lang="loj">ri'a</foreignphrase>, meaning that the fact that the computer is
+lang="art-lojban">ri'a</foreignphrase>, meaning that the fact that the computer is
 running Linux physically prevents it from getting a virus, or you could
-possibly say <foreignphrase lang="loj">ni'i</foreignphrase>, implying that
+possibly say <foreignphrase lang="art-lojban">ni'i</foreignphrase>, implying that
 it is an essential feature of Linux computers that they are immune to
 viruses.</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">seki'u</foreignphrase>, whether
+<listitem><para><foreignphrase lang="art-lojban">seki'u</foreignphrase>, whether
 or not you actually believe in Hell or the criteria for entering it. Note
 also that in English <wordasword>and</wordasword> sometimes has the sense of
 <wordasword>so</wordasword>, which is not the case in Lojban: <foreignphrase
-lang="loj">do pu zergle .ije vi le daptutra do ba jelca</foreignphrase>
+lang="art-lojban">do pu zergle .ije vi le daptutra do ba jelca</foreignphrase>
 simply means <quote>It is true that you committed adultery and it is also
 true that you will burn in Hell</quote> (literally: you past crime-copulate
 AND at-this-place the hell you future burn). More about the logical (and
@@ -874,32 +874,32 @@ non-logical) connectives follows in the next lesson.</para></listitem>
 <para>
 <orderedlist>
 
-<listitem><para><foreignphrase lang="loj">la djim. spebi'o la samantas.
+<listitem><para><foreignphrase lang="art-lojban">la djim. spebi'o la samantas.
 mu'i ma</foreignphrase> </para></listitem>
 
-<listitem><para><foreignphrase lang="loj">le gerku ca cmoni mu'i
-ma</foreignphrase> (<foreignphrase lang="loj">mu'i</foreignphrase> seems
+<listitem><para><foreignphrase lang="art-lojban">le gerku ca cmoni mu'i
+ma</foreignphrase> (<foreignphrase lang="art-lojban">mu'i</foreignphrase> seems
 the best choice, since we can assume that dogs bark as a response to
 something, and are thus motivated rather than physically caused to bark.
-Note that <foreignphrase lang="loj">cu</foreignphrase> is possible here
-instead of <foreignphrase lang="loj">ca</foreignphrase>; I have used
-<foreignphrase lang="loj">ca</foreignphrase> since it seems important that
+Note that <foreignphrase lang="art-lojban">cu</foreignphrase> is possible here
+instead of <foreignphrase lang="art-lojban">ca</foreignphrase>; I have used
+<foreignphrase lang="art-lojban">ca</foreignphrase> since it seems important that
 the dog is barking <emphasis>now</emphasis>.)</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">vi manku ri'a ma</foreignphrase>
+<listitem><para><foreignphrase lang="art-lojban">vi manku ri'a ma</foreignphrase>
 (It isn't really necessary to translate the <wordasword>in</wordasword>, since the
 speaker is probably inside anyway.)</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">li vopixa cu danfu ni'i
+<listitem><para><foreignphrase lang="art-lojban">li vopixa cu danfu ni'i
 ma</foreignphrase> (Give yourself a pat on the back if you got that one
 right!)</para></listitem>
 
-<listitem><para><foreignphrase lang="loj">le cevni cu curmi lenu palci ki'u
-ma</foreignphrase> (<foreignphrase lang="loj">ki'u</foreignphrase> is best
+<listitem><para><foreignphrase lang="art-lojban">le cevni cu curmi lenu palci ki'u
+ma</foreignphrase> (<foreignphrase lang="art-lojban">ki'u</foreignphrase> is best
 here, since a religious believer would probably look for some justification
 for the existence of evil, rather than a physical cause or personal
 motivation. Some theologians might prefer <foreignphrase
-lang="loj">ni'i</foreignphrase>, I suppose!)</para></listitem>
+lang="art-lojban">ni'i</foreignphrase>, I suppose!)</para></listitem>
 
 </orderedlist>
 </para>
@@ -916,11 +916,11 @@ voice.</para></listitem>
 
 <listitem><para>As a (physical) result, Jyoti can hear the ones sitting at 
 the table to the right talking to each other. (<foreignphrase
-lang="loj">simxu</foreignphrase> takes a set as its x1. <foreignphrase
-lang="loj">le ri'u jubme</foreignphrase> means <quote role="gloss">the 
+lang="art-lojban">simxu</foreignphrase> takes a set as its x1. <foreignphrase
+lang="art-lojban">le ri'u jubme</foreignphrase> means <quote role="gloss">the 
 table to the right</quote>: <foreignphrase
-lang="loj">selbri</foreignphrase> can take <foreignphrase
-lang="loj">sumti tcita</foreignphrase> and locations as <quote 
+lang="art-lojban">selbri</foreignphrase> can take <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> and locations as <quote 
 role="socalled">tenses</quote>, just like they do time tenses.)</para></listitem>
 
 <listitem><para>Jyoti, because (motivation) of this, turns towards the 
@@ -929,7 +929,7 @@ table to the left</para></listitem>
 <listitem><para>Necessarily (= with something logically causing this), 
 Jyoti does not observe that Ranjeet behaves as resembling her in order to 
 mock (= Ranjeet is imitating her) (The logical cause in <foreignphrase
-lang="loj">ni'i ku</foreignphrase> has been left out, but is presumably 
+lang="art-lojban">ni'i ku</foreignphrase> has been left out, but is presumably 
 the previous setence.)</para></listitem>
 
 <listitem><para>Susan laughs, causing (motivating) Jyoti to turn to her.</para></listitem>
@@ -941,8 +941,8 @@ Sch&ouml;nberg and Stravinsky.</quote></para></listitem>
 
 <listitem><para>Jyoti thus (motivation) groans <quote>Chootio!</quote> (Gujarati for <quote 
 role="gloss">jerk</quote>) (Like any other <foreignphrase
-lang="loj">sumti tcita</foreignphrase>, <foreignphrase
-lang="loj">mu'i</foreignphrase> can also be used as a <quote 
+lang="art-lojban">sumti tcita</foreignphrase>, <foreignphrase
+lang="art-lojban">mu'i</foreignphrase> can also be used as a <quote 
 role="socalled">tense</quote>.)</para></listitem>
 
 </orderedlist>
@@ -955,41 +955,41 @@ role="socalled">tense</quote>.)</para></listitem>
 <orderedlist>
 
 <listitem><para><foreignphrase
-lang="loj">.i ba lenu cpedu le sanmi kei la ranjit. cliva mu'i lenu klama 
+lang="art-lojban">.i ba lenu cpedu le sanmi kei la ranjit. cliva mu'i lenu klama 
 le vi'irku'a kei ri'a lenu ry. na kakne lenu tirna la 
 djiotis.</foreignphrase> (or: <foreignphrase
-lang="loj">ra na kakne</foreignphrase>)</para></listitem>
+lang="art-lojban">ra na kakne</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la djiotis. tavla semu'i lenu ri simsa la ranjit. le ka pluja</foreignphrase>
+lang="art-lojban">.i la djiotis. tavla semu'i lenu ri simsa la ranjit. le ka pluja</foreignphrase>
 </para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i dy./le go'i/la djiotis./ra cusku lu mi lanli le vozemoi se 
+lang="art-lojban">.i dy./le go'i/la djiotis./ra cusku lu mi lanli le vozemoi se 
 finti be la'o gy. Jimmy Bob Bach gy. se pi'o le vi minra ni'i lenu mi kakne li'u</foreignphrase>
 (You could say <foreignphrase
-lang="loj">le vozemoi se finti pe fi'e ...</foreignphrase>, but that would 
+lang="art-lojban">le vozemoi se finti pe fi'e ...</foreignphrase>, but that would 
 mean exactly the same thing. If the composition rather than the analysis happened with a mirror, you would say <foreignphrase
-lang="loj">le vozemoi se 
+lang="art-lojban">le vozemoi se 
 finti be la'o gy. Jimmy Bob Bach gy. be'o ne se pi'o le vi minra</foreignphrase>.</para> <para>You could also say <foreignphrase
-lang="loj">le vozemoi be le'i se finti be ... </foreignphrase>, in which 
+lang="art-lojban">le vozemoi be le'i se finti be ... </foreignphrase>, in which 
 case you're either brilliant, or you've been reading ahead...)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la suzyn. cisma ki'u lenu la djiotis. mintu la ranjit. 
+lang="art-lojban">.i la suzyn. cisma ki'u lenu la djiotis. mintu la ranjit. 
 le ka xajmi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">.i la djiotis. cusku lu .i doi suzyn. mu'i ma do tavla la 
+lang="art-lojban">.i la djiotis. cusku lu .i doi suzyn. mu'i ma do tavla la 
 ranjit. [soi vo'a] loi se bebna li'u</foreignphrase>
 (<foreignphrase
-lang="loj">loi se bebna</foreignphrase>, <quote role="gloss">the thing one is foolish 
+lang="art-lojban">loi se bebna</foreignphrase>, <quote role="gloss">the thing one is foolish 
 in</quote>, is better here than <foreignphrase
-lang="loj">loi nu bebna</foreignphrase> or <foreignphrase
-lang="loj">loi ka bebna</foreignphrase>.)</para></listitem>
+lang="art-lojban">loi nu bebna</foreignphrase> or <foreignphrase
+lang="art-lojban">loi ka bebna</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="loj">lenu ry./le se go'i/la ranjit./ra cu se kanla lo ba'e se manci</foreignphrase>
+lang="art-lojban">lenu ry./le se go'i/la ranjit./ra cu se kanla lo ba'e se manci</foreignphrase>
 (This is an extra-idiomatic way of saying things; kudos if you got it, 
 don't be too worried if you didn't.)</para></listitem>
 
