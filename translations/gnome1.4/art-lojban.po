@@ -33,9 +33,11 @@ msgstr ".i le sumti me la url. poi se lasna .enai la'o <.desktop> zei datnyvei"
 msgid ""
 "You must supply a single argument with the .desktop file or url to use\n"
 msgstr ""
-".i ko sabji pa lo sumti poi la'o <url> gi'onai la'o <.desktop> zei datnyvei\n"
+".i ko sabji pa sumti po'u lo me .uburyly gi'onai me la'o <.desktop> zei datnyvei\n"
 #stidi lu pa sumti po'u lo me .uburyly gi'onai la'o <.desktop> zei datnyvei li'u
 #mi'e pier.
+
+# lu me la'o li'u sarcu lenu de'u ka'e se genlanli .i mi'e rab.
 
 #: panel/gnome-panel-add-launcher.c:80
 msgid "No panel found\n"
@@ -125,8 +127,9 @@ msgstr "jarco le samru'e poi le samru'e tanbo cu mipri ke'a (SKIP-TASKBAR)"
 #. CONFIG_SECTION (sect_null_1, NULL),
 #: applets/desk-guide/deskguide_applet.c:113
 msgid "Geometry"
-msgstr "tarmi"
+msgstr "morna"
 #zo morna xu cu xagmau mi'e pier.
+# .i go'i mi'e rab.
 
 #: applets/desk-guide/deskguide_applet.c:114
 msgid "Horizontal Layout"
@@ -134,15 +137,15 @@ msgstr "le pinta te platu"
 
 #: applets/desk-guide/deskguide_applet.c:116
 msgid "Desktop Height [pixels]"
-msgstr "le gunsfe ni galtu cu se merli xo vidnysle"
+msgstr "le gunsfe nilga'u cu se merli xo vidnysle"
 
 #: applets/desk-guide/deskguide_applet.c:118
 msgid "Override desktop height with panel size"
-msgstr "le gunsfe ni galtu cu vajmau le tanbo ni galtu"
+msgstr "le gunsfe nilga'u cu vajmau le tanbo nilga'u"
 
 #: applets/desk-guide/deskguide_applet.c:120
 msgid "Divide height by number of vertical areas"
-msgstr "fendi leni galtu le xokau plita"
+msgstr "fendi le nilga'u le xokau plita"
 
 #: applets/desk-guide/deskguide_applet.c:122
 msgid "Rows of Desktops"
@@ -150,7 +153,7 @@ msgstr "xo pinta linji be le gunsfe"
 
 #: applets/desk-guide/deskguide_applet.c:124
 msgid "Divide height by number of rows"
-msgstr "fendi leni galtu le xokau linji"
+msgstr "fendi le nilga'u le xokau linji"
 
 #: applets/desk-guide/deskguide_applet.c:125
 msgid "Vertical Layout"
@@ -158,15 +161,15 @@ msgstr "le sraji te platu"
 
 #: applets/desk-guide/deskguide_applet.c:127
 msgid "Desktop Width [pixels]"
-msgstr "le gunsfe ni ganra cu se merli xo vidnysle"
+msgstr "le gunsfe nilganra cu se merli xo vidnysle"
 
 #: applets/desk-guide/deskguide_applet.c:129
 msgid "Override desktop width with panel size"
-msgstr "le gunsfe ni ganra cu vajmau le tanbo ni ganra"
+msgstr "le gunsfe nilganra cu vajmau le tanbo ni ganra"
 
 #: applets/desk-guide/deskguide_applet.c:131
 msgid "Divide width by number of horizontal areas"
-msgstr "fendi leni ganra le xokau plita"
+msgstr "fendi le nilganra le xokau plita"
 
 #: applets/desk-guide/deskguide_applet.c:133
 msgid "Columns of Desktops"
@@ -174,7 +177,7 @@ msgstr "xo sraji linji be le gunsfe"
 
 #: applets/desk-guide/deskguide_applet.c:135
 msgid "Divide width by number of columns"
-msgstr "fendi leni ganra le xokau linji"
+msgstr "fendi le nilganra le xokau linji"
 
 #: applets/desk-guide/deskguide_applet.c:137
 msgid "Advanced"
@@ -269,7 +272,7 @@ msgstr "kampu se cuxna"
 
 #: applets/desk-guide/deskguide_applet.c:1151
 msgid "Desk Guide Settings"
-msgstr "gunsfeja'o se cuxna"
+msgstr "le gunsfeja'o se cuxna"
 
 #: applets/fish/fish.c:399 applets/fish/fish.c:774
 #, no-c-format
@@ -597,7 +600,7 @@ msgstr ".i cpedu le selmri ba ro le"
 msgid "minutes"
 msgstr "mei mentu ku joi le"
 # The full sentence is: "Check for mail every <number> minutes <number>
-# seconds"
+# seconds" (Rob)
 
 #: applets/gen_util/mailcheck.c:1198
 msgid "seconds"
@@ -707,76 +710,76 @@ msgstr ".i e'unai xu mi cirko le na se vreji te galfi gi'e ranji"
 
 #: applets/tasklist/tasklist_menu.c:258
 msgid "Restore"
-msgstr "nalcmagau"
+msgstr "ko nalcmagau"
 
 #: applets/tasklist/tasklist_menu.c:258
 msgid "Iconify"
-msgstr "cmagau"
+msgstr "ko cmagau"
 
 #: applets/tasklist/tasklist_menu.c:264
 msgid "Unshade"
-msgstr "naljakygau"
+msgstr "ko naljakygau"
 
 #: applets/tasklist/tasklist_menu.c:264
 msgid "Shade"
-msgstr "jakygau"
+msgstr "ko jakygau"
 
 #: applets/tasklist/tasklist_menu.c:270
 msgid "Unstick"
-msgstr "nalnipygau"
+msgstr "ko nalnipygau"
 
 #: applets/tasklist/tasklist_menu.c:270
 msgid "Stick"
-msgstr "nipygau"
+msgstr "ko nipygau"
 
 #: applets/tasklist/tasklist_menu.c:276 applets/tasklist/tasklist_menu.c:369
 msgid "To desktop"
-msgstr "muvdu lo gunsfe"
+msgstr "ko muvgau fi lo gunsfe"
 
 #: applets/tasklist/tasklist_menu.c:316
 msgid "Close window"
-msgstr "vimcu le samca'o"
+msgstr "ko vimcu le samca'o"
 
 #: applets/tasklist/tasklist_menu.c:323
 msgid "Kill app"
-msgstr "dicra le mutmi'i"
+msgstr "ko dicra le samru'e"
 
 #. if (iconified window in group)
 #: applets/tasklist/tasklist_menu.c:349
 msgid "Restore All"
-msgstr "nalcmagau romei"
+msgstr "ko nalcmagau romei"
 
 #: applets/tasklist/tasklist_menu.c:352
 msgid "Iconify All"
-msgstr "cmagau romei"
+msgstr "ko cmagau romei"
 
 #: applets/tasklist/tasklist_menu.c:355
 msgid "Unshade All"
-msgstr "naljakygau romei"
+msgstr "ko naljakygau romei"
 
 #: applets/tasklist/tasklist_menu.c:358
 msgid "Shade All"
-msgstr "jakygau romei"
+msgstr "ko jakygau romei"
 
 #: applets/tasklist/tasklist_menu.c:361
 msgid "Unstick All"
-msgstr "nalnipygau romei"
+msgstr "ko nalnipygau romei"
 
 #: applets/tasklist/tasklist_menu.c:364
 msgid "Stick All"
-msgstr "nipygau romei"
+msgstr "ko nipygau romei"
 
 #: applets/tasklist/tasklist_menu.c:409
 msgid "Close All"
-msgstr "vimcu le romei samca'o"
+msgstr "ko vimcu le romei samca'o"
 
 #: applets/tasklist/tasklist_menu.c:417
 msgid "Kill All"
-msgstr "dicra le romei mutmi'i"
+msgstr "ko dicra le romei samru'e"
 
 #: applets/tasklist/tasklist_properties.c:149
 msgid "Follow panel size"
-msgstr "mapti le tanbo ni ganra"
+msgstr "mapti le tanbo nilga'u"
 
 #: applets/tasklist/tasklist_properties.c:158 panel/menu.c:4430
 msgid "Horizontal"
@@ -785,7 +788,7 @@ msgstr "pinta"
 #: applets/tasklist/tasklist_properties.c:168
 #: applets/tasklist/tasklist_properties.c:230
 msgid "Tasklist width:"
-msgstr "pau le samru'e liste ni clani"
+msgstr "leko'a nilcla"
 
 #: applets/tasklist/tasklist_properties.c:175
 msgid "Rows of tasks:"
@@ -793,402 +796,421 @@ msgstr "xo pinta linji be le samru'e"
 
 #: applets/tasklist/tasklist_properties.c:189
 msgid "Default task size:"
-msgstr ""
+msgstr "lo'e samru'e nilcla"
 
 #: applets/tasklist/tasklist_properties.c:199
 msgid "Tasklist width is fixed"
-msgstr ""
+msgstr "leko'a nilcla na galfi"
 
 #: applets/tasklist/tasklist_properties.c:204
 msgid "Tasklist width is dynamic"
-msgstr ""
+msgstr "leko'a nilcla cu galfi"
 
 #: applets/tasklist/tasklist_properties.c:209
 #: applets/tasklist/tasklist_properties.c:255
 msgid "Only use empty space"
-msgstr ""
+msgstr "ko'a pilno po'o le canlu poi kunti"
 
 #: applets/tasklist/tasklist_properties.c:215 panel/menu.c:4431
 msgid "Vertical"
-msgstr ""
+msgstr "sraji"
 
 #: applets/tasklist/tasklist_properties.c:223
 msgid "Tasklist height:"
-msgstr ""
+msgstr "leko'a nilga'u"
 
 #: applets/tasklist/tasklist_properties.c:243
 msgid "Tasklist height is fixed"
-msgstr ""
+msgstr "leko'a nilga'u na galfi"
 
 #: applets/tasklist/tasklist_properties.c:249
 msgid "Tasklist height is dynamic"
-msgstr ""
+msgstr "leko'a nilga'u cu galfi"
 
 #: applets/tasklist/tasklist_properties.c:261
 msgid "Tasklist width is that of longest title"
-msgstr ""
+msgstr "leko'a nilga'u"
 
 #: applets/tasklist/tasklist_properties.c:269 panel/menu.c:4476
 msgid "Size"
-msgstr ""
+msgstr "nilbra"
 
 #: applets/tasklist/tasklist_properties.c:282
 msgid "Which tasks to show"
-msgstr ""
+msgstr "ko'a jarco ma poi samru'e"
 
 #: applets/tasklist/tasklist_properties.c:293
 msgid "Show normal applications"
-msgstr ""
+msgstr "jarco le fadni je samru'e"
 
 #: applets/tasklist/tasklist_properties.c:299
 msgid "Show iconified (minimized) applications"
-msgstr ""
+msgstr "jarco le se cmagau je samru'e"
 
 #: applets/tasklist/tasklist_properties.c:306
 msgid "Show normal applications on all desktops"
-msgstr ""
+msgstr "jarco le fadni je samru'e bedi'o ro gunsfe"
 
 #: applets/tasklist/tasklist_properties.c:312
 msgid "Show iconified (minimized) applications on all desktops"
-msgstr ""
+msgstr "jarco le se cmagau je samru'e bedi'o ro gunsfe"
 
 #. Miscellaneous frame
 #: applets/tasklist/tasklist_properties.c:316 help-browser/toc-man.c:25
 #: help-browser/toc2-man.c:27 panel/gnome-panel-properties.c:1061
 #: panel/gnome-panel-properties.c:1532 panel/panel_config.c:680
 msgid "Miscellaneous"
-msgstr ""
+msgstr "vrici"
 
 #: applets/tasklist/tasklist_properties.c:327
 msgid "Show mini icons"
-msgstr ""
+msgstr "jarco le cmalu je snixra" 
 
 #: applets/tasklist/tasklist_properties.c:334
 msgid "Confirm before killing windows"
-msgstr ""
+msgstr "te preti pulenu dicra lo mutmi'i"
 
 #: applets/tasklist/tasklist_properties.c:341
 msgid "Move iconified tasks to current workspace when restoring"
-msgstr ""
+msgstr "ko muvgau le se cmagau samca'o leca gunsfe calenu nalcmagau"
 
 #: applets/tasklist/tasklist_properties.c:349
 msgid "Enable task grouping"
-msgstr ""
+msgstr "grigau le samca'o"
 
 #: applets/tasklist/tasklist_properties.c:357
 msgid "Number of tasks before grouping occurs"
-msgstr ""
+msgstr "grigau le su'o xo smisi'u samca'o"
 
 #: applets/tasklist/tasklist_properties.c:392
 msgid "Tasklist properties"
-msgstr ""
+msgstr "samru'e liste goi ko'a se cuxna"
 
 #: gmenu/desktop.c:84
 msgid " Folder"
-msgstr ""
+msgstr " poi datnyveiste"
 
 #: gmenu/edit.c:307
 msgid "Save"
-msgstr ""
+msgstr "ko ciska"
 
 #: gmenu/edit.c:325 gsm/session-properties.c:173 panel/launcher.c:532
 #: panel/menu.c:1330 panel/menu.c:1441
 msgid "Revert"
-msgstr ""
+msgstr "ko xruti"
 
 #: gmenu/edit.c:367 gmenu/tree.c:401
 msgid "Favorites (user menus)"
-msgstr ""
+msgstr "le'i selneirai (pilno tercuxste)"
+# There are many better ways to express that the set of favorites is the same
+# as the set that the user menu is composed of, but none of them will fit in
+# the narrow column of text gmenu provides. And the English doesn't even
+# bother. -Rob
 
 #: gmenu/edit.c:369 gmenu/tree.c:409
 msgid "Programs (system menus)"
-msgstr ""
+msgstr "le'i mutmi'i (kampu tercuxste)"
 
 #: gmenu/edit.c:371 gmenu/tree.c:427
 msgid "Applets (system menus)"
-msgstr ""
+msgstr "le'i nermutmi'i (kampu sy.)"
+
 
 #: gmenu/edit.c:374 gmenu/tree.c:418
 msgid "Programs to be merged in (system menus)"
-msgstr ""
+msgstr "le'i mutmi'i poi ba te jmina (kampu sy.)"
+#
 
 #: gmenu/main.c:53 gmenu/main.c:128
 msgid "_New Submenu..."
-msgstr ""
+msgstr "ko zbasu lo _nertercuxste ..."
 
 #: gmenu/main.c:54 gmenu/main.c:98 gmenu/main.c:129
 msgid "Create a new submenu"
-msgstr ""
+msgstr ".i zbasu lo nertercuxste"
+# .i ui .i mi nalra'agau le plidju mi'e rab.
 
 #: gmenu/main.c:57 gmenu/main.c:125
 msgid "New _Item..."
-msgstr ""
+msgstr "ko zbasu lo _te tercuxste ..."
 
 #: gmenu/main.c:58 gmenu/main.c:126
 msgid "Create a new menu item"
-msgstr ""
+msgstr ".i jmina le se tercuxste le cnino te tercuxste"
 
 #: gmenu/main.c:61 gmenu/main.c:134
 msgid "_Delete..."
-msgstr ""
+msgstr "ko _vimcu ti ..."
 
 #: gmenu/main.c:72
 msgid "_Sort Submenu"
-msgstr ""
+msgstr "ko _nicygau le nertercuxste"
 
 #: gmenu/main.c:76
 msgid "Sort Submenu _Recursive"
-msgstr ""
+msgstr "ko ner_ke'u nicygau le nertercuxste"
 
 #: gmenu/main.c:90 gmenu/main.c:149
 msgid "_Sort"
-msgstr ""
+msgstr "ko _nicygau ti"
 
 #: gmenu/main.c:98
 msgid "New Submenu"
-msgstr ""
+msgstr "ko zbasu lo nertercuxste"
 
 #: gmenu/main.c:102
 msgid "New Item"
-msgstr ""
+msgstr "ko zbasu lo te tercuxste"
 
 #: gmenu/main.c:102
 msgid "Create a new item"
-msgstr ""
+msgstr "zbasu lo te tercuxste"
 
 #: gmenu/main.c:106 gsm/session-properties-capplet.c:257
 #: gsm/session-properties-capplet.c:311
 msgid "Delete"
-msgstr ""
+msgstr "ko vimcu"
 
 #: gmenu/main.c:106
 msgid "Delete selected menu item"
-msgstr ""
+msgstr "ko vimcu le ca te tercuxste"
 
 #: gmenu/main.c:110 gmenu/main.c:140
 msgid "Move up"
-msgstr ""
+msgstr "ko ga'u muvgau"
 
 #: gmenu/main.c:110 gmenu/main.c:140
 msgid "Move selected menu up"
-msgstr ""
+msgstr "ko ga'u muvgau le vi tercuxste"
 
 #: gmenu/main.c:113 gmenu/main.c:143
 msgid "Move down"
-msgstr ""
+msgstr "ko ni'a muvgau"
 
 #: gmenu/main.c:113 gmenu/main.c:143
 msgid "Move selected menu down"
-msgstr ""
+msgstr "ko ni'a muvgau le vi tercuxste"
 
 #: gmenu/main.c:117
 msgid "Sort Submenu"
-msgstr ""
+msgstr "ko nicygau le nertercuxste"
 
 #: gmenu/main.c:117
 msgid "Sort selected submenu"
-msgstr ""
+msgstr "ko nicygau le vi nertercuxste"
 
 #: gmenu/main.c:153
 msgid "Sort _Recursive"
-msgstr ""
+msgstr "ko ner_ke'u nicygau"
 
 #. loading dialog
 #: gmenu/main.c:241 gmenu/main.c:307 gmenu/tree.c:380
 msgid "GNOME menu editor"
-msgstr ""
+msgstr "le la gnom. tercuxste galfi"
 
 #: gmenu/main.c:244
 msgid ""
 "Released under the terms of the GNU Public License.\n"
 "GNOME menu editor."
-msgstr ""
+msgstr "le la gnom. tercuxste galfi\n"
+"pu zifygau ja'i le la gnus. gubni bo pilno bo javni"
 
 #: gmenu/main.c:287
 msgid "Unable to retrieve GNOME installation directory\n"
-msgstr ""
+msgstr "na kakne lenu cpacu le la gnom. ke nu setca datnyveiste\n"
 
 #: gmenu/order.c:81
 #, c-format
 msgid "Unable to create file: %s\n"
-msgstr ""
+msgstr "na kakne lenu zbasu le datnyvei befa la'o <%s>\n"
 
 #: gmenu/order.c:95
 #, c-format
 msgid "unable to remove .order file: %s\n"
-msgstr ""
+msgstr "na kakne lenu vimcu le la'o <.order> datnyvei befa la'o <%s>\n"
 
 #: gmenu/save.c:27 gmenu/save.c:86
 msgid "The menu item must have a name"
-msgstr ""
+msgstr "le te tercuxste cu nitcu lo cmene"
 
 #: gmenu/save.c:33
 msgid "The menu entry must have a filename"
-msgstr ""
+msgstr "le te tercuxste cu nitcu lo datnyvei cmene"
 
 #: gmenu/save.c:40
 msgid "Save changes?"
-msgstr ""
+msgstr ".i xu ciska le te galfi"
 
 #: gmenu/save.c:54
 msgid "This change conflicts with an existing menu item"
-msgstr ""
+msgstr ".i nabmi le galfi lenu mintu lo ca te tercuxste le cmene"
 
 #: gmenu/save.c:61
 msgid "Overwrite existing menu entry?"
-msgstr ""
+msgstr ".i xu vimcu ciska sy."
 
 #: gmenu/save.c:114
 msgid ""
 "This change conflicts with an existing menu item.\n"
 "No two menu items in a submenu can have the same name."
 msgstr ""
+".i nabmi le galfi lenu mintu lo ca te tercuxste le cmene\n"
+".i su'ore te tercuxste na kakne lenu simxu mintu le cmene"
 
 #: gmenu/tree.c:382
 msgid "One moment, reading menus..."
-msgstr ""
+msgstr ".i o'odai mi tcidu le tercuxste"
 
 #: gmenu/tree.c:402
 msgid "Top of user menus"
-msgstr ""
+msgstr "le pilno tercuxste seljimca stani"
+# This is where tanru get to shine. -Rob
 
 #: gmenu/tree.c:410
 msgid "Top of system menus"
-msgstr ""
+msgstr "le kampu tercuxste seljimca stani"
 
 #: gmenu/tree.c:419
 msgid "Top of system merge menus"
-msgstr ""
+msgstr "le kampu se jmina tercuxste seljimca stani"
 
 #: gmenu/tree.c:428
 msgid "Top of applet menus"
-msgstr ""
+msgstr "le nermutmi'i tercuxste seljimca stani"
 
 #: gmenu/treedel.c:118
 msgid "You can not delete a top level submenu."
-msgstr ""
+msgstr ".i do na kakne lenu vimcu lo tercuxste seljimcu stani"
+# .i la'e zoi <top level submenu> ri cu natfe
+# .i mi dragau xau [goi la'edi'u] pi'o la lojban.
+# mi'e rab.
 
 #: gmenu/treedel.c:130 gmenu/treedel.c:153
 msgid "Delete this menu item?"
-msgstr ""
+msgstr ".i xu vimcu levi te tercuxste"
 
 #: gmenu/treedel.c:140
 msgid "Delete empty submenu?"
-msgstr ""
+msgstr ".i xu vimcu le kunti nertercuxste"
 
 #: gmenu/treedel.c:146
 msgid "Are you sure you want to delete this submenu and all its contents?"
 msgstr ""
+".i xu do birti djica lenu vimcu levi nertercuxste .e ro leri se vasru"
 
 #: gmenu/treenew.c:35 gmenu/treenew.c:110
 msgid ""
 "You can't add an entry to that submenu.\n"
 "You do not have the proper permissions."
 msgstr ""
+".i do na kakne lenu jmina le se tercuxste"
+".i do na ponse le sarcu nu curmi"
 
 #: gmenu/treenew.c:43 gmenu/treenew.c:52 gmenu/treenew.c:73 gmenu/treenew.c:82
 msgid "New Folder"
-msgstr ""
+msgstr "lo cnino nertercuxste"
 
 #: gmenu/treenew.c:63
 msgid "Failed to create directory"
-msgstr ""
+msgstr ".i fliba lenu zbasu le datnyveiste"
 
 #: gmenu/treenew.c:118 gmenu/treenew.c:127
 msgid "untitled.desktop"
-msgstr ""
+msgstr "cmeclax.desktop"
 
 #: gmenu/treenew.c:137 gmenu/treenew.c:144 panel/menu.c:742
 msgid "untitled"
-msgstr ""
+msgstr "la cmeclax."
 
 #: gmenu/utils.c:32
 #, c-format
 msgid "creating user directory: %s\n"
-msgstr ""
+msgstr ".i la'o <%s> zo'u mi zbasu ri poi pilno nertercuxste\n"
 
 #: gmenu/utils.c:35
 #, c-format
 msgid "unable to create user directory: %s\n"
-msgstr ""
+msgstr ".i la'o <%s> zo'u mi na kakne lenu zbasu ri poi le pilno nertercuxste"
 
 #: gnome-about/contributors.h:13
 msgid "GNOME was brought to you by"
-msgstr ""
+msgstr ".i do te friti la gnom. zoizoi"
+# It would be impossible to Lojbanize this at all - these names are only part
+# of the list
 
 #. for languages that can't display aacute, replace 'á' with 'a'
 #: gnome-about/contributors.h:23
 msgid "Szabolcs 'Shooby' Bán"
-msgstr ""
+msgstr "Szabolcs 'Shooby' Bán"
 
 #: gnome-about/contributors.h:70
 msgid "Gergõ Érdi"
-msgstr ""
+msgstr "Gergõ Érdi"
 
 #: gnome-about/contributors.h:88
 msgid "The Mysterious GEGL"
-msgstr ""
+msgstr "The Mysterious GEGL"
 
 #. for languages that can't display ntilde, replace 'ñ' with 'n'
 #: gnome-about/contributors.h:175
 msgid "Alexandre Muñiz"
-msgstr ""
+msgstr "Alexandre Muñiz"
 
 #: gnome-about/contributors.h:176
 msgid "Sung-Hyun Nam"
-msgstr ""
+msgstr "Sung-Hyun Nam"
 
 #. languages that can't display adiaeresis, replace 'ä' with 'ae'
 #: gnome-about/contributors.h:181
 msgid "Martin Norbäck"
-msgstr ""
+msgstr "Martin Norbäck"
 
 #. languages that can't display Odiaeresis, replace 'Ö' with 'Oe'
 #: gnome-about/contributors.h:187
 msgid "Tomas Ögren"
-msgstr ""
+msgstr "Tomas Ögren"
 
 #: gnome-about/contributors.h:216
 msgid "Kazuhiro Sasayama"
-msgstr ""
+msgstr "Kazuhiro Sasayama"
 
 #. for languages that can't display ntilde, replace 'ñ' with 'n'
 #: gnome-about/contributors.h:223
 msgid "Iñigo Serna"
-msgstr ""
+msgstr "Iñigo Serna"
 
 #. not really a person name :)
 #: gnome-about/contributors.h:236
 msgid "The Squeaky Rubber Gnome"
-msgstr ""
+msgstr "The Squeaky Rubber Gnome"
 
 #: gnome-about/contributors.h:261
 msgid "Wanda the GNOME Fish"
-msgstr ""
+msgstr "Wanda the GNOME Fish"
 
 #: gnome-about/contributors.h:274
 msgid "... and many more"
-msgstr ""
+msgstr "zoi .e le mutce drata"
 
 #: gnome-about/gnome-about.c:465 panel/foobar-widget.c:245
 msgid "About GNOME"
-msgstr ""
+msgstr "le datni be la gnom."
 
 #: gnome-about/gnome-about.c:566
 msgid "GNOME News Site"
-msgstr ""
+msgstr "le la gnom. nuzba stuzi"
 
 #: gnome-about/gnome-about.c:570
 msgid "http://www.gnome.org/"
-msgstr ""
+msgstr "http://www.gnome.org/"
 
 #: gnome-about/gnome-about.c:571
 msgid "GNOME Main Site"
-msgstr ""
+msgstr "le la gnom. ralju bo stuzi"
 
 #: gnome-about/gnome-about.c:576
 msgid "GNOME Developers' Site"
-msgstr ""
+msgstr "le la gnom. finti stuzi"
 
 #: gnome-edit/gnome-edit.c:141 gnome-edit/gnome-edit.c:148
 msgid ""
