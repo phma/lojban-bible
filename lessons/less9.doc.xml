@@ -183,7 +183,7 @@ Jyoti mails this to Ranjeet
 Jyoti mails {Zhang's letter to Susan} to Ranjeet
 <foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn. be'o bei la ranjit.</foreignphrase>
 The one who mails {Zhang's letter to Susan} to Ranjeet
-<foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn. ___ bei la ranjit.</foreignphrase>
+<foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn. ____ bei la ranjit.</foreignphrase>
 The one who mails {Zhang's letter to Susan about Ranjeet}</literallayout>
 </informalexample></para>
 
@@ -1248,7 +1248,7 @@ it gets. Lojban would use a fairly empty <quote role="socalled">head</quote> to 
 something like <foreignphrase lang="art-lojban">da</foreignphrase>.</para></listitem>
 
 <listitem><para>Non-restrictive &mdash; unless you live in a city with multiple city centres.
-In which case I'd move out, if I were you: the traffic must be murder...</para></listitem>
+In which case I'd move away, if I were you: the traffic must be murder...</para></listitem>
 
 </orderedlist></para>
 </simplesect>

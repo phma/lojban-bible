@@ -29,6 +29,9 @@
 <!ENTITY oeligipa "W">
 <!ENTITY yipa "y">
 <!ENTITY aeligipa "&amp;">
+<!ENTITY uacute "u">
+<!ENTITY ograve "o">
+<!ENTITY oacute "o">
 <!ENTITY nbhy "-">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">

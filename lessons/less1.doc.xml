@@ -114,8 +114,9 @@ lang="art-lojban">dj</foreignphrase>.</para>
 
 <sect1 id="less1special"><title>Special Characters</title>
 
-<para>Lojban does not require any punctuation, but some of the characters
-normally used in punctuation affect the way Lojban is pronounced.  A full
+<para>Lojban does not require any punctuation, but some special characters
+(normally used in punctuation in other languages) 
+affect the way Lojban is pronounced.  A full
 stop (period) is a short pause to stop words running into each other.
 The rules of Lojban make it easier for one word to run into another when
 the second word begins with a vowel; so any word starting with a vowel

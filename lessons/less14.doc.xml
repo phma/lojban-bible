@@ -60,7 +60,7 @@ it</emphasis> isn't exactly being helpful.
 
 <para>So if we're going to use logical connectives in Lojban, and are 
 obligated to pull NOT!-tricks like this, the Lojban listener can 
-understandably get frustrated. Once again, though, Lojban has an answer, though. 
+understandably get frustrated. Once again, though, Lojban has an answer
 With <firstterm>forethought connectives</firstterm>, you can indicate the logical relationship 
 between two terms <emphasis>in front of</emphasis> the first term. You 
 still need a word between the two terms, to show that they're being 
@@ -1112,8 +1112,8 @@ people insisting on the distinction, and saying things like <quote
 role="gloss">facsimile of a chicken</quote> or <quote
 role="gloss">chicken-like thing</quote>.</para>
 
-<para>Strictly speaking, neither (<foreignphrase lang="art-lojban">le
-jipci</foreignphrase> nor (<foreignphrase lang="art-lojban">lo
+<para>Strictly speaking, neither <foreignphrase lang="art-lojban">le
+jipci</foreignphrase> nor <foreignphrase lang="art-lojban">lo
 jipci</foreignphrase> actually work. <foreignphrase 
 lang="art-lojban">le</foreignphrase> is <firstterm>non-veridical</firstterm>
 (<quote>that which I describe as</quote>), but it is also specific (the speaker,
@@ -1126,7 +1126,7 @@ out of pretzels is still a chicken, of the species <foreignphrase
 lang="x-eng-pseudolinnaean">Chickenus Breadproductus Pretzelus</foreignphrase>. 
 (Remember: all chickens have to have a species or breed (<foreignphrase 
 lang="art-lojban">lo se jipci</foreignphrase>) to be called <foreignphrase 
-lang="art-lojban">le</foreignphrase>! Compare <citetitle>The Complete Lojban
+lang="art-lojban">le jipci</foreignphrase>! Compare <citetitle>The Complete Lojban
 Language</citetitle>, Chapter 6.2, and the example of teddybears.)</para>
 
 <para>Like we said, the final vowel of <foreignphrase

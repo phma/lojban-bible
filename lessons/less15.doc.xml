@@ -733,7 +733,7 @@ kei</foreignphrase> quite often (and you never know when you might need that
 offers you an abbreviation: <foreignphrase
 lang="art-lojban">tu'a</foreignphrase>. <foreignphrase
 lang="art-lojban">tu'a da</foreignphrase> means <foreignphrase
-lang="art-lojban">lesu'u da cu co'e kei</foreignphrase>; (where <foreignphrase
+lang="art-lojban">lesu'u da cu co'e kei</foreignphrase> (where <foreignphrase
 lang="art-lojban">su'u</foreignphrase>, you may recall, is the generic 
 abstractor); so you can translate
 <foreignphrase lang="art-lojban">tu'a</foreignphrase> as <quote>some
@@ -992,7 +992,7 @@ lang="art-lojban">tcica</foreignphrase>, has the place structure
 misleads/deceives/dupes/fools/cheats/tricks x<subscript>2</subscript> into x<subscript>3</subscript>
 (event/state)</para>
 
-</informalexample>This means that, while in English we say that x<quote><subscript>1</subscript> deceives x<subscript>2</subscript> into
+</informalexample>This means that, while in English we say that <quote>x<subscript>1</subscript> deceives x<subscript>2</subscript> into
 doing x<subscript>3</subscript>, by doing x<subscript>4</subscript></quote>, in Lojban the person and the action are merged into
 the one place. That makes <foreignphrase lang="art-lojban">lo tcica</foreignphrase>
 a trick, not a trickster; a deception, and not a deceiver.
@@ -1566,7 +1566,7 @@ bangu</foreignphrase> <quote>Of Lojban, it is known to me about Lojban that Lojb
 language.</quote>
 (As this indicates, the x<subscript>3</subscript> place of <foreignphrase
 lang="art-lojban">djuno</foreignphrase> is raised out of its x<subscript>2</subscript> place.
-Since you have wide liberty in stating what you know about a subject, however, this won't neecssarily always be the case:
+Since you have wide liberty in stating what you know about a subject, however, this won't necessarily always be the case:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">.i mi djuno ledu'u loi cidro ku joi loi kijno cu cupra loi djacu kei loi xumske</foreignphrase>
 I know about chemistry that hydrogen and oxygen makes water</literallayout></informalexample></para></listitem>
