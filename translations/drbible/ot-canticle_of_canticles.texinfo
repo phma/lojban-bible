@@ -1,11 +1,11 @@
-@node		papirevomo'o, selsa'a1, pamo'o, pamo'o
+@node		papirevomoi pagbu, pamoi selsanga, pamoi pagbu, pamoi pagbu
 @chapter	papirevomo'o la selsa'a pe la solomon.
 
 @menu
-* selsa'a1::	[Song of Solomon Chapter 1]
-* selsa'a2::	[Song of Solomon Chapter 2]
-* selsa'a3::	[Song of Solomon Chapter 3]
-* selsa'a4::	[Song of Solomon Chapter 4]
+* pamoi selsanga::	[Song of Solomon Chapter 1]
+* remoi selsanga::	[Song of Solomon Chapter 2]
+* cimoi selsanga::	[Song of Solomon Chapter 3]
+* vomoi selsanga::	[Song of Solomon Chapter 4]
 @end menu
 
 @c    SOLOMON'S CANTICLE OF CANTICLES
@@ -23,7 +23,7 @@ la selsa'a pe la solomon.
 
 
 @c    Canticle of Canticles Chapter 1
-@node		selsa'a1, selsa'a2, papirevomo'o, papirevomo'o
+@node		pamoi selsanga, remoi selsanga, papirevomoi pagbu, papirevomoi pagbu
 @section	papirevopipamo'o [Song of Solomon Chapter 1]
 
 @c    The spouse aspires to an union with Christ, their mutual love for one
@@ -184,7 +184,7 @@ trina .iji'a le mi'o ckana cu crino
 
 
 @c    Canticle of Canticles Chapter 2
-@node		selsa'a2, selsa'a3, selsa'a1, papirevomo'o
+@node		remoi selsanga, cimoi selsanga, pamoi selsanga, papirevomoi pagbu
 @section	papirevopiremo'o [Song of Solomon Chapter 2]
 
 @c    Christ caresses his spouse:  he invites her to him.
@@ -314,7 +314,7 @@ mirli be ga'u le cmana pe la beter.
 
 
 @c    Canticle of Canticles Chapter 3
-@node		selsa'a3, selsa'a4, selsa'a2, papirevomo'o
+@node		cimoi selsanga, vomoi selsanga, remoi selsanga, papirevomoi pagbu
 @section	papirevopiremo'o [Song of Solomon Chapter 3]
 
 @c    The spouse seeks Christ.  The glory of his humanity.
@@ -408,7 +408,7 @@ ko'a gleki
 
 
 @c    Canticle of Canticles Chapter 4
-@node		selsa'a4, , selsa'a3, papirevomo'o
+@node		vomoi selsanga, , cimoi selsanga, papirevomoi pagbu
 @section	papirevopiremo'o [Song of Solomon Chapter 4]
 
 @c    Christ sets forth the graces of his spouse:  and declares his love for

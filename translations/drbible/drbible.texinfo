@@ -72,12 +72,12 @@ translation here.
 
 @menu
 * le fukpi::	le nu fukpi gau do cu se curmi fi da
-* pamo'o::	[The Old Testament]
-* remo'o::	[The New Testament]
-* cimo'o::	[Appendices]
+* pamoi pagbu::	[The Old Testament]
+* remoi pagbu::	[The New Testament]
+* cimoi pagbu::	[Appendices]
 @end menu
 
-@node le fukpi, pamo'o, Top, Top
+@node le fukpi, pamoi pagbu, Top, Top
 @chapter le fukpi
 
 @c Not done yet.

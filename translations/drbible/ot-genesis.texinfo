@@ -1,4 +1,4 @@
-@node 	  papipamo'o, kra1, pamo'o, pamo'o
+@node 	  papipamoi pagbu, kra1, pamoi pagbu, pamoi pagbu
 @chapter  papipamo'o krasi
 @comment  node-name, next,      previous,  up
 
@@ -84,7 +84,7 @@ KRASI
 
 
 @c    Genesis Chapter 1
-@node 	  kra1, kra2, papipamo'o, papipamo'o
+@node 	  kra1, kra2, papipamoi pagbu, papipamoi pagbu
 @comment  node-name, next,      previous,  up
 @section  papipapipamo'o [Genesis Chapter 1]
 
@@ -342,7 +342,7 @@ xamgu
 
 
 @c    Genesis Chapter 2
-@node     kra2, kra3, kra1, papipamo'o
+@node     kra2, kra3, kra1, papipamoi pagbu
 @comment  node-name, next,      previous,  up
 @section  papipapiremo'o [Genesis Chapter 2]
 
@@ -570,7 +570,7 @@ speni .ibo le remei cu binxo pa xadni toi
 
 
 @c    Genesis Chapter 3
-@node     kra3,    , kra2, papipamo'o
+@node     kra3,    , kra2, papipamoi pagbu
 @comment  node-name, next,      previous,  up
 @section  papipapicimo'o [Genesis Chapter 3]
 

@@ -1,7 +1,7 @@
-@node remo'o, cimo'o, pamo'o, Top
+@node remoi pagbu, cimoi pagbu, pamoi pagbu, Top
 
 @menu
-@c * repipamo'o::	[Gospel According to St. Matthew]
+@c * repipamoi pagbu::	[Gospel According to St. Matthew]
 @end menu
 
 @c    THE NEW TESTAMENT OF OUR LORD AND SAVIOUR JESUS CHRIST

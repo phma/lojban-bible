@@ -1,4 +1,4 @@
-@node cimo'o, , remo'o, Top
+@node cimoi pagbu, , remoi pagbu, Top
 
 @c    THE NEW TESTAMENT OF OUR LORD AND SAVIOUR JESUS CHRIST
 
