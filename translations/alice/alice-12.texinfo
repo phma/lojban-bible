@@ -21,7 +21,7 @@ mokau barda cu se banro ze'a le puzi mentu be li so'u i abu tai sutra
 plipe ja'e le nu falgau le pairkamni tsina sepi'o le skaci korbi gi'e
 renro ro le pairkamnycmi lei stedu be le cnita premei i lei pairkamnycmi
 cu kalsa preja i la'e di'u morjygau la alis le nu abu se snuti le nu 
-falgau lo fiptanxe ca le purlamjeftu 
+falgau lo slofi'e tanxe ca le purlamjeftu 
 
 @c      `Oh, I BEG your pardon!' she exclaimed in a tone of great
 @c    dismay, and began picking them up again as quickly as she could,
@@ -29,10 +29,20 @@ falgau lo fiptanxe ca le purlamjeftu
 @c    she had a vague sort of idea that they must be collected at once
 @c    and put back into the jury-box, or they would die.
 
+i lu u'u i e'osai ko mi fraxu sei abu dunku tonga ki'asku li'u i abu
+co'a crepu lei pairkamnycmi le loldi rai le ka sutra kei ki'u le nu
+le slofi'e snuti za'o se canlu le abu menli i abu tolsatci cu te sidbo
+fi le du'u ga eikau crepu gi'e punji py le pairkamni tsina gi py ba 
+mrogau
+
 @c      `The trial cannot proceed,' said the King in a very grave
 @c    voice, `until all the jurymen are back in their proper places--
 @c    ALL,' he repeated with great emphasis, looking hard at Alice as
 @c    he said do.
+
+i lu le nunpai na ka'e di'a fasnu sei le noltrunau cu junri mutce voksa
+cusku pu le nu ro le pairkamnycmi cu xruti le drani selzva i ba'e ro
+sei ny rere'u basna mutce cusku li'u i ny catlu la alis ca le nu cusku 
 
 @c      Alice looked at the jury-box, and saw that, in her haste, she
 @c    had put the Lizard in head downwards, and the poor little thing
@@ -40,6 +50,12 @@ falgau lo fiptanxe ca le purlamjeftu
 @c    to move.  She soon got it out again, and put it right; `not that
 @c    it signifies much,' she said to herself; `I should think it
 @c    would be QUITE as much use in the trial one way up as the other.'
+
+i la alis catlu le pairkamni tsina gi'e viska le nu abu pu punji 
+seja'e le nu sutra kei le rebyrespa ja'e le nu le ry stedu cu cnita
+i le se kecti cu sligau le rebla ta'i lo nu tolgei kei gi'e ka'enaisai
+muvdu i abu ry bargau gi'e drani punji i lu na mutce le ka vajni sei abu 
+sezysku i pe'i le fatne le se fatne cu dunli le ka prali le nunpai li'u 
 
 @c      As soon as the jury had a little recovered from the shock of
 @c    being upset, and their slates and pencils had been found and
@@ -51,12 +67,19 @@ falgau lo fiptanxe ca le purlamjeftu
 @c      `What do you know about this business?' the King said to
 @c    Alice.
 
+i lu do ma djuno le cuntu sei le noltrunau fi la alis cusku li'u
+
 @c      `Nothing,' said Alice.
-lu noda li'u se cusku la alis
+
+i lu noda sei la alis cusku li'u
 
 @c      `Nothing WHATEVER?' persisted the King.
 
+i lu xu nosai da sei le noltrunau cu za'o co'e li'u
+
 @c      `Nothing whatever,' said Alice.
+
+i lu nosai da sei la alis cu cusku li'u
 
 @c      `That's very important,' the King said, turning to the jury.
 @c    They were just beginning to write this down on their slates, when
