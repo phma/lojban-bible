@@ -544,20 +544,38 @@ i lu fy mo sei la alis retsku
 @c    Turtle replied; `and then the different branches of Arithmetic--
 @c    Ambition, Distraction, Uglification, and Derision.'
 
+i lu li'a pamai nu ctidu'e gi'e ci'iska sei le jitfa cakyrespa cu spuda i remai
+le vo pagbu be le nacycmaci be'o no'u le nu jmina'e e le nu vimcu'a e le nu 
+pilji'e e le nu fende'a li'u
+
 @c      `I never heard of "Uglification,"' Alice ventured to say.  `What is it?'
+
+i lu mi na jimpe fi zo jmina'e sei la alis cusku darsi i ki'a li'u 
 
 @c      The Gryphon lifted up both its paws in surprise.  `What!  Never
 @c    heard of uglifying!' it exclaimed.  `You know what to beautify is,
 @c    I suppose?'
 
+i le cpicinfo cu spaji lafti le re xance i lu ue paunai xu na jimpe fi 
+zo jmina'e sei cy ki'asku i ru'a je'upei do jimpe fi zo natfe li'u
+
 @c      `Yes,' said Alice doubtfully:  `it means--to--make--anything--prettier.'
+
+i lu go'i sei la alis senpi cusku i le du'u da de natfe cu se smuni le 
+du'u da onai de jetnu li'u
 
 @c      `Well, then,' the Gryphon went on, `if you don't know what to
 @c    uglify is, you ARE a simpleton.'
 
+i lu ja'o sei le cpicinfo di'a cusku do natfe jimpe i do ja'a bebna va'o
+le nu do na jimpe natfe jimpe li'u
+
 @c      Alice did not feel encouraged to ask any more questions about
 @c    it, so she turned to the Mock Turtle, and said `What else had you
 @c    to learn?'
+
+i la alis na darsi le nu za'ure'u te preti la'e di'u i abu fa'a le jitfa
+cakyrespa cu cusku lu do cilre ma ji'a li'u
 
 @c      `Well, there was Mystery,' the Mock Turtle replied, counting
 @c    off the subjects on his flappers, `--Mystery, ancient and modern,
@@ -565,38 +583,81 @@ i lu fy mo sei la alis retsku
 @c    conger-eel, that used to come once a week:  HE taught us
 @c    Drawling, Stretching, and Fainting in Coils.'
 
+i lu le cerdyske sei le jitfa cakyrespa noi kancu lei seltadni sepi'o
+lei limna'i cu cusku i le cerdyske no'u le prutce e le cabna ge'u e
+le xasyske i ji'a le nu pixra'i zo'u le pixra'i ctuca cu tolci'o 
+sincyfi'e noi zvati paroi ro jeftu i ctuca fo le nu pixra'i gi'e
+grasu'u cintai finti li'u
+
 @c      `What was THAT like?' said Alice.
+
+i lu a'u la'e di'u mo sei la alis cusku li'u
 
 @c      `Well, I can't show it you myself,' the Mock Turtle said:  `I'm
 @c    too stiff.  And the Gryphon never learnt it.'
 
+i lu ba'e mi ka'enai jarco sei le jitfa cakyrespa cu cusku i mi dukse
+le ka tinsa i ji'a le cpicinfo noroi cilre li'u 
+
 @c      `Hadn't time,' said the Gryphon:  `I went to the Classics
 @c    master, though.  He was an old crab, HE was.'
+
+i lu claxu le temci sei le cpicinfo cu cusku i mi zvati le dzeklu
+ctuca i ri tolci'o xasyjukni i go'i li'u
 
 @c      `I never went to him,' the Mock Turtle said with a sigh:  `he
 @c    taught Laughing and Grief, they used to say.'
 
+i lu mi ri noroi zvati sei le jitfa cakyrespa cu vruvasxu cusku i ri
+ctuca fo ti'e le nu clacmo gi'e geisto li'u
+
 @c      `So he did, so he did,' said the Gryphon, sighing in his turn;
 @c    and both creatures hid their faces in their paws.
+
+i lu go'i i go'i sei le cpicinfo noi ji'a vruvasxu cu cusku li'u i le
+re danlu cu gairgau le vo'a xance le vo'a flira
 
 @c      `And how many hours a day did you do lessons?' said Alice, in a
 @c    hurry to change the subject.
 
+i lu do cilre ca ro djedi ze'a lo cacra be li xo sei la alis noi 
+djica le nu sutra galfi le selsnu cu cusku li'u
+
 @c      `Ten hours the first day,' said the Mock Turtle: `nine the
 @c    next, and so on.'
 
+i lu ze'a lo cacra be li pare ca le pamoi djedi e le remoi djedi sei 
+le jitfa cakyrespa cu cusku i li so le cimoi e le vomoi i li'oli'o 
+li'u 
+ 
 @c      `What a curious plan!' exclaimed Alice.
+
+i lu cinri selpla sei la alis ki'asku li'u 
 
 @c      `That's the reason they're called lessons,' the Gryphon
 @c    remarked:  `because they lessen from day to day.'
+
+i lu la'e di'u krinu le nu zo CILRE cmene i jdika le ka temci kei
+lo cacra be li ba'e CI ca ro djedi be li ba'e RE li'u
 
 @c      This was quite a new idea to Alice, and she thought it over a
 @c    little before she made her next remark.  `Then the eleventh day
 @c    must have been a holiday?'
 
+i le sidbo cu mutce cnino la alis i abu pensi ze'a lo milxe pu le nu
+te pinka fi lu ja'o je'upei ca le somoi djedi e le panomoi djedi cu 
+zifre li'u
+
 @c      `Of course it was,' said the Mock Turtle.
+
+i lu je'u li'a go'i sei le jitfa cakyrespa li'u
 
 @c      `And how did you manage on the twelfth?' Alice went on eagerly.
 
+i lu mo ca le papamoi djedi sei la alis di'a kucli cusku li'u
+
 @c      `That's enough about lessons,' the Gryphon interrupted in a
 @c    very decided tone:  `tell her something about the games now.'
+
+i lu la'e di'u banzu sera'a le nu ckule sei le cpicinfo cu jditce tonga
+zunti i caku ko ta tavla lei nu kelci li'u
