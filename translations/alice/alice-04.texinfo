@@ -156,17 +156,38 @@ uenai
 @c    sorrowful tone; `at least there's no room to grow up any more
 @c    HERE.'
 
+i lu le zdani cu mutce zmadu le ka pluka sei la alis uu pensi i bu'u zy
+na roroi zenba joi jdika gi'e roroi se minde loi smacu e loi ractu i 
+aunairu'e mi na klama fo le ractu kevna i ku'i i ku'i cizra fa le tai
+nu jmive i mi ja'a kucli le du'u mi makau pu ca'a lifri i ca le nu mi 
+tcidu loi crida lisri kei mi krici le nu lo tai cuntu noroi fasnu i 
+caku mi cy midju i ei finti lo cukta mi i ei go'i i ai ca le nu mi ba'o 
+banro kei mi cy finti i ku'i mi ca ba'o banro sei abu badri tonga jmina 
+i ba'unai le bu'u canlu na banzu le nu banro lo bancu li'u 
+
 @c      `But then,' thought Alice, `shall I NEVER get any older than I
 @c    am now?  That'll be a comfort, one way--never to be an old woman--
 @c    but then--always to have lessons to learn!  Oh, I shouldn't like THAT!'
+
+i lu ku'i ja'o sei la alis pensi mi ba noroi zenba le ka tolcitno i la'e
+di'u pluka i mi noroi tolcitno ninmu i ku'i ei mi roroi cilre fo da i oi
+aunai go'i li'u
 
 @c      `Oh, you foolish Alice!' she answered herself.  `How can you
 @c    learn lessons in here?  Why, there's hardly room for YOU, and no
 @c    room at all for any lesson-books!'
 
+i lu oi doi alis noi bebna sei abu sezyspuda ta'i ma do ka'e cilre fo da
+bu'uku i ue le canlu ja'aru'e banzu tu'a do i noda bu'u canlu lei ve cilre
+cukta li'u
+
 @c      And so she went on, taking first one side and then the other,
 @c    and making quite a conversation of it altogether; but after a few
 @c    minutes she heard a voice outside, and stopped to listen.
+
+i abu ca'o co'e i pamai darlu lo mlana gi'e remai darlu le drata gi'e
+zbasu lo vajni nuncasnu le romei i ku'i ba lo mentu be li so'o abu tirna
+lo voksa noi bartu gi'e sisti tezu'e le nu tinzga 
 
 @c      `Mary Ann!  Mary Ann!' said the voice.  `Fetch me my gloves
 @c    this moment!'  Then came a little pattering of feet on the
@@ -175,10 +196,21 @@ uenai
 @c    was now about a thousand times as large as the Rabbit, and had no
 @c    reason to be afraid of it.
 
+i lu doi meriAn doi meriAn sei le voksa cu cusku ko bevri lei mi gluta
+mi caku li'u ibabo tirna lo nu cmalu ke jamfu stapa lei serti i la alis
+djuno le du'u le ractu cu klama tezu'e le nu sisku abu i abu desku ja'e
+le nu deskygau le zdani i abu tolmorji le nu ge abu ca kilto le ractu 
+le ka barda giseki'ubo noda krinu le nu terpa ry    
+
 @c      Presently the Rabbit came up to the door, and tried to open it;
 @c    but, as the door opened inwards, and Alice's elbow was pressed
 @c    hard against it, that attempt proved a failure.  Alice heard it
 @c    say to itself `Then I'll go round and get in at the window.'
+
+i caku le ractu cu tolcliva le vorme gi'e troci le nu kargau vy i ku'i
+ki'u le nu ge le vrogai cu ei fa'ane'i karbi'o gi le cidni be la alis
+cu catke vy kei le se troci cu se fliba i la alis tirna le nu ry
+sezysku lu ai mi srukla gi'e nerkla fo le canko li'u
 
 @c      `THAT you won't' thought Alice, and, after waiting till she
 @c    fancied she heard the Rabbit just under the window, she suddenly
