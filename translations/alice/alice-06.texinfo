@@ -1,11 +1,11 @@
-﻿@node    xamoi pagbu, zemoi pagbu, mumoi pagbu, Top
-@chapter xamo'o [Pig And Pepper]
+﻿@node    xamoi pagbu
+@chapter xamo'o le xarju .e lei tsaprpiperi
 
 
 @c                               CHAPTER VI
 
 @c                             Pig and Pepper
-                        le xarju .e lei tsaprpiperi
+@c                      le xarju .e lei tsaprpiperi
 
 
 @c      For a minute or two she stood looking at the house, and

@@ -1,4 +1,4 @@
-@node    pamoi pagbu, remoi pagbu, le fukpi, Top
+@node    pamoi pagbu
 @chapter pamo'o mo'ini'a le ractu kevna
 
 @c                                CHAPTER I

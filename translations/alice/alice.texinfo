@@ -3,12 +3,23 @@
 @setfilename alice.info
 @settitle la alis. cizra je cinri zukte vi le selmacygu'e
 @setchapternewpage odd
+@smallbook
 @c %**end of header
 
 @c Thanks to the Gutenberg project for the original text.
 @c http://www.gutenberg.net/.  Feel free to send them donations!
 
 
+@copying
+This work, in all forms, is explicitely placed in the public domain.
+@c explicitely?
+@c Yeah, it's something you have to be clear on these days.  By default,
+@c all works are copyrighted.  -Robin
+
+dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
+
+@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
+@end copying
 
 
 @c #########################################
@@ -31,12 +42,9 @@
 @c (the address of Alice's foot, just about any of the poetry), place
 @c the command '@format' before the text and '@end format' at the end.
 
-
-
-
 @ifinfo
-[This is the text of the lojban translation of Lewis Carrol's ]
-["Alice's Adventures In Wonderland".  A work in progress.]
+dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi se
+finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 @end ifinfo
 
 @titlepage
@@ -46,48 +54,35 @@
 @page
 @vskip 0pt plus 1filll
 
-This work, in all forms, is explicitely placed in the public domain.
-@c explicitely?
-
-dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
-
-@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
+@insertcopying
 
 @end titlepage
 
 @contents
 
-@node 	  Top,     le fukpi,    ,          (dir)
+@node 	  Top
+@top
 @comment  node-name, next,      previous,  up
 
 @ifinfo
-[This is the text of the lojban translation of Lewis Carrol's]
-["Alice's Adventures In Wonderland".  A work in progress.]
+dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi se
+finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 @end ifinfo
 
 @menu
-* le fukpi::	le nu fukpi gau do cu se curmi fi da
-* pamoi pagbu::	pamo'o mo'ini'a le ractu kevna
+* pamoi pagbu::	mo'ini'a le ractu kevna
 * remoi pagbu::	le se klaku lalxu
 * cimoi pagbu::	le me la kaukus nu bajra jivna e le clani lisri
-* vomoi pagbu::	[The Rabbit Sends in a Little Bill]
-* mumoi pagbu::	[Advice from a Caterpillar]
+* vomoi pagbu::	la ractu cu benji lo cmalu me la bil
+* mumoi pagbu::	 se djusku lo ciftoldi
 * xamoi pagbu::	le xarju .e lei tsaprpiperi
 * zemoi pagbu::	fenki tcati te salci
 * bimoi pagbu::	noltruni'u kelcrkroke bo foldi
-* somoi pagbu::	[The Mock Turtle's Story]
-* panomoi pagbu::	[The Lobster Quadrille]
+* somoi pagbu::	lisri fi la jitfa cakyrespa
+* panomoi pagbu::	xasyjukni vonseldansu
 * papamoi pagbu::	ma zerle'a le rutytisna
 * paremoi pagbu::	le sidydatni po'e la alis.
 @end menu
-
-@node le fukpi, pamoi pagbu, Top, Top
-@chapter le fukpi
-
-@c Not done yet.
-
-@c ************
-@c The rest of the text is now is files named alice-??.texinfo.
 
 @include alice-01.texinfo
 @include alice-02.texinfo

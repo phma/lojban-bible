@@ -1,10 +1,10 @@
-@node    remoi pagbu, cimoi pagbu, pamoi pagbu, Top
+@node    remoi pagbu
 @chapter remo'o le se klaku lalxu
 
 @c                               CHAPTER II
 
 @c                            The Pool of Tears
-                              le se klaku lalxu
+@c                              le se klaku lalxu
 
 @c      `Curiouser and curiouser!' cried Alice (she was so much
 @c    surprised, that for the moment she quite forgot how to speak good

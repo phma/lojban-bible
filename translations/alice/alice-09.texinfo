@@ -1,12 +1,12 @@
-@node    somoi pagbu, panomoi pagbu, bimoi pagbu, Top
+@node    somoi pagbu
 @chapter somo'o lisri fi la jitfa cakyrespa
 
 
 @c                               CHAPTER IX
-                                   somo'o
+@c                                 somo'o
 
 @c                         The Mock Turtle's Story
-                         lisri fi le jitfa cakyrespa
+@c                       lisri fi le jitfa cakyrespa
 
 
 @c      `You can't think how glad I am to see you again, you dear old

@@ -1,11 +1,11 @@
-﻿@node    vomoi pagbu, mumoi pagbu, cimoi pagbu, Top
+﻿@node    vomoi pagbu
 @chapter vomo'o la ractu cu benji lo cmalu me la bil
 
 
 @c                               CHAPTER IV
 
 @c                    The Rabbit Sends in a Little Bill
-                     la ractu cu benji lo cmalu me la bil
+@c                     la ractu cu benji lo cmalu me la bil
 
 
 @c      It was the White Rabbit, trotting slowly back again, and

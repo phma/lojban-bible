@@ -1,14 +1,14 @@
-@node    cimoi pagbu, vomoi pagbu, remoi pagbu, Top
-@chapter cimo'o [A Caucus-Race and a Long Tale]
+@node    cimoi pagbu
+@chapter cimo'o le me la kaukus nu bajra jivna e le clani lisri
 
 
 @c                               CHAPTER III
 
-                                  cimo'o
+@c                                 cimo'o
 
 @c                      A Caucus-Race and a Long Tale
 
-              i le me la kaukus nu bajra jivna e le clani linsi
+@c              i le me la kaukus nu bajra jivna e le clani linsi
 
 
 @c      They were indeed a queer-looking party that assembled on the

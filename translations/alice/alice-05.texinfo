@@ -1,11 +1,11 @@
-﻿@node    mumoi pagbu, xamoi pagbu, vomoi pagbu, Top
+﻿@node    mumoi pagbu
 @chapter mumo'o se djusku lo ciftoldi
 
 
 @c                                CHAPTER V
 
 @c                        Advice from a Caterpillar
-                           se djusku lo ciftoldi
+@c                         se djusku lo ciftoldi
 
 
 

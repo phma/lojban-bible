@@ -1,12 +1,12 @@
-@node    paremoi pagbu, , papamoi pagbu, Top
+@node    paremoi pagbu
 @chapter paremo'o le sidydatni po'e la alis.
 
 
 @c                               CHAPTER XII
-                               paremo'o ckupau
+@c                             paremo'o ckupau
 
 @c                            Alice's Evidence
-                         le sidydatni po'e la alis.
+@c                       le sidydatni po'e la alis.
 
 @c      `Here!' cried Alice, quite forgetting in the flurry of the
 @c    moment how large she had grown in the last few minutes, and she

@@ -1,11 +1,11 @@
-@node    panomoi pagbu, papamoi pagbu, somoi pagbu, Top
+@node    panomoi pagbu
 @chapter panomo'o xasyjukni vonseldansu
 
 
 @c                                CHAPTER X
 
 @c                          The Lobster Quadrille
-                            xasyjukni vonseldansu
+@c                          xasyjukni vonseldansu
 
 @c      The Mock Turtle sighed deeply, and drew the back of one flapper
 @c    across his eyes.  He looked at Alice, and tried to speak, but for

@@ -1,11 +1,11 @@
-﻿@node    zemoi pagbu, bimoi pagbu, xamoi pagbu, Top
+﻿@node    zemoi pagbu
 @chapter zemo'o fenki ke tcati kansi'u
 
 @c                               CHAPTER VII
-                                   zemo'o 
+@c                                 zemo'o 
 
 @c                             A Mad Tea-Party
-                            fenki ke tcati kansi'u
+@c                          fenki ke tcati kansi'u
 
 
 @c      There was a table set out under a tree in front of the house,

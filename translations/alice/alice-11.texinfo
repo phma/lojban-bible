@@ -1,12 +1,12 @@
-@node    papamoi pagbu, paremoi pagbu, panomoi pagbu, Top
+@node    papamoi pagbu
 @chapter papamo'o ma zerle'a lei rutytisna
 
 
 @c                               CHAPTER XI
-                               papamo'o ckupau
+@c                             papamo'o ckupau
 
 @c                          Who Stole the Tarts?
-                          ma zerle'a lei rutytisna
+@c                        ma zerle'a lei rutytisna
 
 @c      The King and Queen of Hearts were seated on their throne when
 @c    they arrived, with a great crowd assembled about them--all sorts
