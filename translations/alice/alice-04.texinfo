@@ -362,6 +362,10 @@ i lu ie do ca'a go'i doi pendo sei lei drata cu cusku li'u
 @c    Alice called out as loud as she could, `If you do.  I'll set
 @c    Dinah at you!'
 
+i lu ei mi'o jelgau le zdani sei le ractu voksa cu cusku li'u i la
+alis krixa rai le ka cladu kei lu ganai go'i gi mi ba je'icru 
+la dinas do li'u
+
 @c      There was a dead silence instantly, and Alice thought to
 @c    herself, `I wonder what they WILL do next!  If they had any
 @c    sense, they'd take the roof off.'  After a minute or two, they
