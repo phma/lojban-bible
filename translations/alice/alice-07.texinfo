@@ -2,16 +2,10 @@
 @chapter zemo'o fenki tcati te salci
 
 @c                               CHAPTER VII
-                                zemo'o ckupau
-
-@c *** That means something like Part 7: there's a bookpart
-@c  *** It should be either {zemo'o} by itself, or {zemoi ckupau} /xorxes
-
-
+                                   zemo'o 
 
 @c                             A Mad Tea-Party
                             fenki ke tcati te salci
-
 
 
 @c      There was a table set out under a tree in front of the house,
@@ -21,9 +15,9 @@
 @c    over its head.  `Very uncomfortable for the Dormouse,' thought Alice;
 @c    `only, as it's asleep, I suppose it doesn't mind.'
 
-i lo jubme cu bredi ni'a lo tricu ca'u le zdani i ko'a goi la cibmasti
-cicyractu ku joi la mapypre cu pinxe lo tcati i lo sipsmacu cu zutse jbini
-ko'a gi'e carmi sipna i ko'a pilno sy le nu kicne gi'e vregau lei cidni sy
+i lo jubme cu bredi ni'a lo tricu ca'u le zdani i le cibmasti cicyractu ku 
+joi le mapypre cu pinxe lo tcati i lo sipsmacu cu zutse jbini le remei gi'e 
+carmi sipna i le remei cu pilno sy le nu kicne gi'e vregau lei bircidni sy
 gi'e tavla simxu ga'u le sy stedu i lu tolkufra mutce ri'i le sipsmacu sei
 la alis pensi i ku'i pe'i va'o le nu sipna kei sy na se vajni li'u
 
@@ -37,13 +31,13 @@ la alis pensi i ku'i pe'i va'o le nu sipna kei sy na se vajni li'u
 @c    end of the table.
 
 i le jubme cu barda i ku'i le cimei cu tagji jmaji le kojna be jy i lu
-canlu nomei i canlu nomei sei ko'a ca le nu viska le nu la alis klama cu
-krixa li'u i lu canlu ba'e za'uraumei sei la alis fengu cusku li'u i abu
-tsebi'o lo barda birstizu bu'u lo fanmo be le jubme
+canlu nomei i canlu nomei sei le remei ca le nu viska le nu la alis klama
+cu krixa li'u i lu canlu ba'e za'uraumei sei la alis fengu cusku li'u i 
+abu tsebi'o lo barda birstizu bu'u lo fanmo be le jubme
 
 @c      `Have some wine,' the March Hare said in an encouraging tone.
 
-i lu e'e cpacu lo vanju sei la cibmasti cicyractu cu cusku co zanru li'u
+i lu e'e cpacu lo vanju sei le cibmasti cicyractu cu cusku co zanru li'u
 
 @c      Alice looked all round the table, but there was nothing on it
 @c    but tea.  `I don't see any wine,' she remarked.
@@ -53,7 +47,7 @@ lo vanju sei abu piksku li'u
 
 @c      `There isn't any,' said the March Hare.
 
-i lu noda zvati sei cycy cusku li'u
+i lu no vy zvati sei cycy cusku li'u
 
 @c      `Then it wasn't very civil of you to offer it,' said Alice
 @c    angrily.
@@ -70,14 +64,16 @@ i lu do na clite le nu tsebi'o secau le nu se zvacpe sei cycy cusku li'u
 @c    great many more than three.'
 
 i lu mi na pu djuno le du'u le jubme cu me ba'e domoi sei la alis cusku
-@c What is "domoi" supposed to mean? -phma    "yours" --xorxes
 i jy bredi tu'a lo za'usaicimei li'u
+
+@c What is "domoi" supposed to mean? -phma    "yours" --xorxes
+
 
 @c      `Your hair wants cutting,' said the Hatter.  He had been
 @c    looking at Alice for some time with great curiosity, and this was
 @c    his first speech.
 
-i lu le do kerfa cu nitcu le nu katna sei la mapypre cu cusku li'u
+i lu le do kerfa cu nitcu le nu katna sei le mapypre cu cusku li'u
 i my pu ze'u mutce kucli catlu la alis gi'e ca pare'u tavla
 
 @c      `You should learn not to make personal remarks,' Alice said
@@ -89,7 +85,7 @@ co junri i mutce tolclite li'u
 @c      The Hatter opened his eyes very wide on hearing this; but all
 @c    he SAID was, `Why is a raven like a writing-desk?'
 
-i la mapypre cu kargau lei kanla ja'e le nu mutce ganra kei ca le nu
+i le mapypre cu kargau lei kanla ja'e le nu mutce ganra kei ca le nu
 tirna di'u i ku'i my cusku lu ma te simsa lo'e cipnrkorvi lo'e ciska
 jubme li'u po'o
 
@@ -119,20 +115,20 @@ i lu ei do cusku le do se skudji sei cycy di'a cusku li'u
 @c    I say--that's the same thing, you know.'
 
 i lu mi go'i sei la alis sutra spuda i y ju'oru'e y i mi skudji le mi
-se cusku i ga'icu'i la'e di'u mintu li'u
+se cusku i ka'u la'e di'u mintu li'u
 
 @c      `Not the same thing a bit!' said the Hatter.  `You might just
 @c    as well say that "I see what I eat" is the same thing as "I eat
 @c    what I see"!'
 
-i lu na mintu sei la mapypre cu cusku i do du'i ka'e cusku le du'u
+i lu na mintu sei le mapypre cu cusku i do du'i ka'e cusku le du'u
 lu mi viska le mi se citka li'u mintu lu mi citka le mi se viska li'u
 li'u
 
 @c      `You might just as well say,' added the March Hare, `that "I
 @c    like what I get" is the same thing as "I get what I like"!'
 
-i lu do du'i ka'e cusku sei la cibmasti cicyractu cu jmina le du'u
+i lu do du'i ka'e cusku sei le cibmasti cicyractu cu jmina le du'u
 lu mi nelci le mi se cpacu li'u mintu lu mi cpacu le mi se nelci li'u
 li'u
 
@@ -140,16 +136,16 @@ li'u
 @c    be talking in his sleep, `that "I breathe when I sleep" is the
 @c    same thing as "I sleep when I breathe"!'
 
-i lu do du'i ka'e cusku sei la sipsmacu noi simlu le ka sipna tavla
-cu jmina le du'u lu mi vasxu ca le nu sipna li'u mintu lu mi sipna
-ca le nu vasxu li'u
+i lu do du'i ka'e cusku sei le sipsmacu noi simlu le ka sipna tavla
+cu jmina le du'u lu mi vasxu ze'a le nu sipna li'u mintu lu mi sipna
+ze'a le nu vasxu li'u
 
 @c      `It IS the same thing with you,' said the Hatter, and here the
 @c    conversation dropped, and the party sat silent for a minute,
 @c    while Alice thought over all she could remember about ravens and
 @c    writing-desks, which wasn't much.
 
-i lu ja'a mintu sera'a do sei la mapypre cu cusku li'u icabo le nunsnu
+i lu ja'a mintu sera'a do sei le mapypre cu cusku li'u icabo le nunsnu
 cu te denpa i le kansi'u cu smaji zutse ze'a lo mentu ca'o le nu la alis
 pensi piro da poi abu morji ke'a lo'e cipnrkorvi a lo'e ciska jubme
 zi'e noi na mutce
@@ -159,7 +155,7 @@ zi'e noi na mutce
 @c    watch out of his pocket, and was looking at it uneasily, shaking
 @c    it every now and then, and holding it to his ear.
 
-i la mapypre cu pamoi le ka co'u smaji i lu le xomoi be le masti cu
+i le mapypre cu pamoi lei co'u smaji i lu le xomoi be le masti cu
 detri sei my fa'a la alis cusku li'u i my le junla ba'o cpacu le daski
 gi'e ca'o xanka catlu gi'e di'inai desygau gi'e jbipu'i le my kerlo
 
@@ -174,9 +170,9 @@ i la alis ze'i pensi gi'e cusku lu le vomoi li'u
 @c    wouldn't suit the works!' he added looking angrily at the March
 @c    Hare.
 
-i lu oiri'e srera la'u lo djedi be li re sei la mapypre cu cusku i
-mi pu cusku le du'u lo matne na mapti le minji sei my jmina li'u i
-my fengu catlu la cibmasti cicyractu
+i lu oiri'e srera la'u lo djedi be li re sei le mapypre cu cusku i
+mi pu cusku le du'u lo'e matne na mapti le minji sei my jmina li'u i
+my fengu catlu le cibmasti cicyractu
 
 @c      `It was the BEST butter,' the March Hare meekly replied.
 
@@ -188,7 +184,7 @@ i lu ra ba'e xagrai lei matne sei cycy cumla spuda li'u
 @c      `Yes, but some crumbs must have got in as well,' the Hatter
 @c    grumbled:  `you shouldn't have put it in with the bread-knife.'
 
-i lu go'i i ku'i la'a loi ji'a nanba spisa cu nerbi'o sei la mapypre
+i lu go'i i ku'i la'a loi ji'a nanba spisa cu nerbi'o sei le mapypre
 cu pante i einai do ra pu setca sepi'o le nanba dakfu li'u
 
 @c      The March Hare took the watch and looked at it gloomily:  then
@@ -196,10 +192,10 @@ cu pante i einai do ra pu setca sepi'o le nanba dakfu li'u
 @c    could think of nothing better to say than his first remark, `It
 @c    was the BEST butter, you know.'
 
-la cibmasti cicyractu le junla cu jgari gi'e tolgei catlu gi'e
-jirgau le kabri tcati gi'e rere'u catlu i ku'i cycy ka'enai pensi lo
-se cusku poi xagmau le pamoi pinka po'u lu ga'icu'i ra ba'e xagrai
-le ka matne li'u
+le cibmasti cicyractu le junla cu jgari gi'e tolgei catlu gi'e
+jirgau le kabri tcati gi'e rere'u catlu i ku'i cycy na kakne co pensi 
+lo se cusku poi xagmau le pamoi pinka po'u lu ga'icu'i ra ba'e xagrai
+lei matne li'u
 
 @c      Alice had been looking over his shoulder with some curiosity.
 @c    `What a funny watch!' she remarked.  `It tells the day of the
@@ -209,12 +205,12 @@ i la alis pu ca'o kucli catlu ga'u le cycy janco i lu a'u xajmi junla
 sei abu te pinka i ue jy sinxa le du'u le xokaumoi be le masti cu
 detri enai ku'i le du'u makau tcika li'u
 
-@c "xokaumoi be lei masti"? --adam
+@c "xokaumoi be lei masti"? --adam  ro djedi cu no'omoi be le masti --xorxes 
 
 @c      `Why should it?' muttered the Hatter.  `Does YOUR watch tell
 @c    you what year it is?'
 
-i lu ei ki'u ma go'i sei la mapypre cu cusku i xu le ba'e do junla cu
+i lu ei ki'u ma go'i sei le mapypre cu cusku i xu le ba'e do junla cu
 sinxa le du'u le xokaumoi nanca cu detri li'u
 
 @c      `Of course not,' Alice replied very readily:  `but that's
@@ -225,16 +221,16 @@ se krinu le nu ze'u stali fa le pa nanca li'u
 
 @c      `Which is just the case with MINE,' said the Hatter.
 
-i lu mi'u le me ba'e mimoi sei la mapypre cu cusku li'u
+i lu mi'u le me ba'e mimoi sei le mapypre cu cusku li'u
 
 @c      Alice felt dreadfully puzzled.  The Hatter's remark seemed to
 @c    have no sort of meaning in it, and yet it was certainly English.
 @c    `I don't quite understand you,' she said, as politely as she
 @c    could.
 
-i la alis cinmo le ka mutce se cfipu i le pinka be fi la mapypre cu
+i la alis cinmo le ka mutce se cfipu i le pinka be fi le mapypre cu
 simlu le ka noda smuni ke'a kei gi'e ku'i ja'a lojbo i lu mi na mulno
-jimpe sei abu rai le ka clite cu cusku li'u
+jimpe sei abu serai le ka clite verai lei abu selka'e cu cusku li'u
 
 @c maybe "te jbobau" --adam
 @c changed to "lojbo". --xorxes
@@ -242,8 +238,8 @@ jimpe sei abu rai le ka clite cu cusku li'u
 @c      `The Dormouse is asleep again,' said the Hatter, and he poured
 @c    a little hot tea upon its nose.
 
-i la mapypre cu cusku lu le sipsmacu za'ure'u sipna li'u gi'e falcru
-piso'u glare tcati le sy nazbi
+i lu le sipsmacu za'ure'u sipna sei le mapypre cu cusku li'u i my 
+falcru piso'u glare tcati le sy nazbi
 
 @c      The Dormouse shook its head impatiently, and said, without
 @c    opening its eyes, `Of course, of course; just what I was going to
@@ -255,10 +251,8 @@ kargau le kanla kei lu li'a li'a i di'usai pu'o pinka fi mi li'u
 @c      `Have you guessed the riddle yet?' the Hatter said, turning to
 @c    Alice again.
 
-i lu xu do ba'o smadi tu'a le manci nabmi sei la mapypre fi la alis
-ne za'ure'uku cusku li'u
-
-@c Maybe "ne za'ure'uku", since "la alis" is already identified --adam  yes!
+i lu xu do ba'o smadi tu'a le manci nabmi sei le mapypre fi la alis
+cusku li'u
 
 @c      `No, I give it up,' Alice replied:  `what's the answer?'
 
@@ -266,11 +260,11 @@ i lu na go'i i mi te jinga sei la alis spuda i ma danfu li'u
 
 @c      `I haven't the slightest idea,' said the Hatter.
 
-i lu lo ji'asai cmarai di'u mi na sidbo sei la mapypre cu cusku li'u
+i lu mi na te sidbo di'u lo ji'asai cmarai sei le mapypre cu cusku li'u
 
 @c      `Nor I,' said the March Hare.
 
-i lu go'ira'o sei la cibmasti cicyractu cu cusku li'u
+i lu go'ira'o sei le cibmasti cicyractu cu cusku li'u
 
 @c      Alice sighed wearily.  `I think you might do something better
 @c    with the time,' she said, `than waste it in asking riddles that
@@ -283,7 +277,7 @@ nabmi poi na se danfu li'u
 @c      `If you knew Time as well as I do,' said the Hatter, `you
 @c    wouldn't talk about wasting IT.  It's HIM.'
 
-i lu va'oda'i le nu la temci cu slabu do nedu'i mi kei sei la mapypre
+i lu va'oda'i le nu la temci cu slabu do nedu'i mi kei sei le mapypre
 cusku do na pilno zo le le nu cmene ty i zo la mapti li'u
 
 @c Maybe "nedu'i mi", like above. --adam  yep.
@@ -295,7 +289,7 @@ i lu mi na jimpe le du'u do skudji makau sei la alis cusku li'u
 @c      `Of course you don't!' the Hatter said, tossing his head
 @c    contemptuously.  `I dare say you never even spoke to Time!'
 
-i lu li'a do na go'i sei la mapypre cu stedu muvgau tolsi'a cusku
+i lu li'a do na go'i sei le mapypre cu stedu muvgau tolsi'a cusku
 i la'a do noroi tavla ji'asai la temci li'u
 
 @c I think it needs to be "stedu bo muvgau", otherwise it comes out as
@@ -314,16 +308,16 @@ temci ca le nu mi cilre le nu se zgike li'u
 @c    you'd only have to whisper a hint to Time, and round goes the
 @c    clock in a twinkling!  Half-past one, time for dinner!'
 
-i lu ua la'e di'u ve ciksi sei la mapypre cu cusku i ty na nelci le
-nu darxi i va'o le nu do ty pendo kei ty gasnu so'a se nelci be do
-ri'i le junla i mu'a da'i li so tcika le cabna ecabo le nu co'a tadni
-i banzu fa le nu do ja'aru'e stidi fi ty kei le nu le junla mo'u ze'i
-cukli'u i uo li pacipimu ca tcika le nu citka li'u
+i lu ua la'e di'u ve ciksi sei le mapypre cu cusku i ty na nelci lo'e
+nu darxi i romu'ei le nu do ty pendo kei ty gasnu so'a se nelci be do
+ri'i le junla i mu'a da'i li so ca tcika le nu co'a tadni i banzu fa 
+le nu do ja'aru'e stidi fi ty kei le nu le junla mo'u ze'i cukli'u i 
+uo li pacipimu ca tcika le nu citka li'u
 
 @c      (`I only wish it was,' the March Hare said to itself in a
 @c    whisper.)
 
-to lu au go'i sei la cibmasti cicyractu cu tolcladu se'isku li'u toi
+to lu au go'i sei le cibmasti cicyractu cu lauble se'isku li'u toi
 
 @c      `That would be grand, certainly,' said Alice thoughtfully:
 @c    `but then--I shouldn't be hungry for it, you know.'
@@ -334,7 +328,7 @@ mi na xagji li'u
 @c      `Not at first, perhaps,' said the Hatter:  `but you could keep
 @c    it to half-past one as long as you liked.'
 
-i lu ieru'e go'i ca le cfari sei la mapypre cu cusku i ku'i e'e
+i lu ieru'e go'i ca le cfari sei le mapypre cu cusku i ku'i e'e
 li pacipimu za'o tcika ze'u lo do se djica li'u
 
 @c      `Is that the way YOU manage?' Alice asked.
@@ -346,10 +340,10 @@ i lu xu la'e di'u tadji le nu ba'e do zukte sei la alis retsku li'u
 @c    (pointing with his tea spoon at the March Hare,) `--it was at the
 @c    great concert given by the Queen of Hearts, and I had to sing
 
-i la mapypre cu tolgei desygau le stedu i lu na go'i sei my spuda
-i mi'a da'arsi'u ca le puzi cibmasti ibazibo ty fenki binxo ju'ido'u 
-to'i pilno le tcati smuci le nu farja'o cycy toi i fasnu ca le banli 
-ke zgike se tigni be le risna noltruni'u i mi bilga le nu sanga di'e 
+i le mapypre cu tolgei desygau le stedu i lu na go'i sei my spuda
+i mi'a da'arsi'u ca le puzi cibmasti ibazibo ty fenki binxo to'i my 
+pilno le tcati smuci le nu farja'o cycy toi i fasnu ca le banli ke 
+zgike se tigni be le risna noltruni'u i mi bilga le nu sanga di'e 
 
 @c "ibazibo", I think --adam    yes.
 
@@ -371,7 +365,7 @@ i lu mi pu tirna lo simsa sei la alis cusku li'u
 
 @c      `It goes on, you know,' the Hatter continued, `in this way:--
 
-i lu di'a sei la mapypre di'a cusku di'e
+i lu di'a co'e sei le mapypre di'a cusku di'e
 
 
 @c                "Up above the world you fly,
@@ -380,7 +374,7 @@ i lu di'a sei la mapypre di'a cusku di'e
 
 @format
                   i do munje gapru vofli
-                  si'a tcatypalne trofli
+                  tcatypalne si'a trofli
                           i gu'irgu'i
 @end format
 
@@ -388,17 +382,17 @@ i lu di'a sei la mapypre di'a cusku di'e
 @c    `Twinkle, twinkle, twinkle, twinkle--' and went on so long that
 @c    they had to pinch it to make it stop.
 
-li'u i caku le sipsmacu cu sezydesygau gi'e co'a sanga ca le nu sipna
-lu gu'irgu'i gu'irgu'i li'u gi'e za'o ze'u co'e ja'e le nu sarcu fa le
+li'u i caku le sipsmacu cu desyzu'e gi'e co'a sanga ca le nu sipna
+lu gu'irgu'i gu'irgu'i li'u gi'e ze'u za'o co'e ja'e le nu sarcu fa le
 nu tunta sy kei le nu stigau sy
 
 @c      `Well, I'd hardly finished the first verse,' said the Hatter,
 @c    `when the Queen jumped up and bawled out, "He's murdering the
 @c    time!  Off with his head!"'
 
-i lu no'i mi puzi ba'o mulgau le pamoi pempau sei la mapypre cu cusku
-ca le nu le noltruni'u cu zunti gi'e krixa lu my catra le temci i ko
-le stedu my vimcu li'u li'u
+i lu no'i mi bazi ba'o mulgau le pamoi pempau sei le mapypre cu cusku
+ca le nu le noltruni'u cu zunti gi'e krixa lu ta catra le temci i ko
+le stedu ta vimcu li'u li'u
 
 @c      `How dreadfully savage!' exclaimed Alice.
 
@@ -407,8 +401,8 @@ i lu oi selte'a cilce sei la alis ki'asku li'u
 @c      `And ever since that,' the Hatter went on in a mournful tone,
 @c    `he won't do a thing I ask!  It's always six o'clock now.'
 
-i lu co'a la'e di'u sei la mapypre di'a tolgei cusku ty na zukte da
-poi mi cpedu i ca ru'i tcika fa li xa li'u
+i lu co'a la'e di'u sei le mapypre di'a tolgei cusku ty na zukte lo
+se cpedu be mi i ca ru'i tcika fa li xa li'u
 
 @c      A bright idea came into Alice's head.  `Is that the reason so
 @c    many tea-things are put out here?' she asked.
@@ -422,8 +416,8 @@ krinu le nu so'i ue tcati dacti cu zvati sei abu retsku li'u
 @c      `Yes, that's it,' said the Hatter with a sigh:  `it's always
 @c    tea-time, and we've no time to wash the things between whiles.'
 
-i lu ja'a go'i sei la mapypre cusku je va'urpante i ru'i tcika le
-tcati sanmi i mi'a noroi ka'e lumci lei dacti ca le jbini li'u
+i lu ja'a go'i sei le mapypre cusku je va'urpante i ru'i tcika le
+tcati sanmi i mi'a noroi kakne le nu lumci lei dacti ca le jbini li'u
 
 @c      `Then you keep moving round, I suppose?' said Alice.
 
@@ -431,7 +425,7 @@ i lu ja'o ru'a do za'o muvdu fo lo cukla sei la alis cusku li'u
 
 @c      `Exactly so,' said the Hatter:  `as the things get used up.'
 
-i lu sa'e go'i sei la mapypre cusku ca le nu so'o le dacti
+i lu sa'e go'i sei le mapypre cusku ca le nu so'o le dacti
 mo'u se xaksu li'u
 
 @c "roroi ca" breaks up into "roroiku ca". I think that just "roroi"
@@ -441,16 +435,15 @@ mo'u se xaksu li'u
 @c      `But what happens when you come to the beginning again?' Alice
 @c    ventured to ask.
 
-i lu ku'i ma fasnu ca le nu do za'ure'u tolcliva le cfari sei la alis
-retsku darsi li'u
+i lu ku'i ma fasnu ca le nu do xruti le cfari sei la alis retsku darsi li'u
 
 @c      `Suppose we change the subject,' the March Hare interrupted,
 @c    yawning.  `I'm getting tired of this.  I vote the young lady
 @c    tells us a story.'
 
-i lu e'u ma'a galfi le se casnu sei la cibmasti cicyractu cu zunti
+i lu e'u mi'o galfi le se casnu sei le cibmasti cicyractu cu zunti
 je sipfru i mi ti tatpi i mi sarji le nu da lisri zo'e le citno ninmu
-ma'a li'u
+mi'a li'u
 
 @c      `I'm afraid I don't know one,' said Alice, rather alarmed at
 @c    the proposal.
@@ -462,8 +455,8 @@ i lu u'u noda mi slabu sei la alis noi xanka le se stidi cu cusku li'u
 @c    Dormouse!'  And they pinched it on both sides at once.
 
 i lu va'o la'e di'u le sipsmacu ba co'e sei le remei cu se krixa
-i ko cikybi'o doi sipsmacu li'u i ko'a sy tunta le re mlana ca le
-mintu
+i ko cikybi'o doi sipsmacu li'u i le remei cu tunta sy le re mlana ca 
+le mintu
 
 @c      The Dormouse slowly opened his eyes.  `I wasn't asleep,' he
 @c    said in a hoarse, feeble voice:  `I heard every word you fellows
@@ -484,7 +477,7 @@ i lu e'o go'i pe'u sei la alis cpesku li'u
 @c      `And be quick about it,' added the Hatter, `or you'll be asleep
 @c    again before it's done.'
 
-i lu ji'a ko sutra sei la mapypre cu jmina iseva'onaibo do ba sipna
+i lu ji'a ko sutra sei le mapypre cu jmina iseva'onaibo do ba sipna
 pu le nu mulno li'u
 
 @c      `Once upon a time there were three little sisters,' the
@@ -498,8 +491,8 @@ le loldi be lo jinto li'u
 @c      `What did they live on?' said Alice, who always took a great
 @c    interest in questions of eating and drinking.
 
-i lu ma my cidja sei la alis noi roroi se cinri le nu citka je pinxe
-makau cu cusku li'u
+i lu ma my cidja sei la alis noi roroi se cinri lo'e du'u citka je 
+pinxe makau cu cusku li'u
 
 @c      `They lived on treacle,' said the Dormouse, after thinking a
 @c    minute or two.
@@ -545,7 +538,7 @@ za'ure'u go'i li'u
 @c      `You mean you can't take LESS,' said the Hatter:  `it's very
 @c    easy to take MORE than nothing.'
 
-i lu do skudji le du'u do ka'enai ba'e me'ire'u pinxe sei la mapypre
+i lu do skudji le du'u do ka'enai ba'e me'ire'u pinxe sei le mapypre
 cu cusku i frili fa le nu za'unore'u go'i li'u
 
 @c      `Nobody asked YOUR opinion,' said Alice.
@@ -555,14 +548,14 @@ i lu noda cpedu le ba'e do seljinvi sei la alis cusku li'u
 @c      `Who's making personal remarks now?' the Hatter asked
 @c    triumphantly.
 
-i lu ma cusku loi prenu pinka caku sei la mapypre cu jinga reisku li'u
+i lu ma cusku loi prenu pinka caku sei le mapypre cu jinga reisku li'u
 
 @c      Alice did not quite know what to say to this:  so she helped
 @c    herself to some tea and bread-and-butter, and then turned to the
 @c    Dormouse, and repeated her question.  `Why did they live at the
 @c    bottom of a well?'
 
-i la alis na kakne le nu spuda fi makau iseki'ubo abu sezyse'u le nu
+i la alis na kakne le nu spuda la'e di'u iseki'ubo abu sezyse'u le nu
 cpacu lo tcati e lo nanba joi matne kei gi'ebabo rere'u te preti fo
 le sipsmacu fi lu ki'u ma my xabju le loldi be lo jinto li'u
 
@@ -581,9 +574,9 @@ cusku lu jy satyjisra jinto li'u
 @c    story for yourself.'
 
 i lu o'onai no go'i cu zasti sei la alis co'a fengu cusku li'u i ku'i
-la mapypre e cycy bacru zoi sance c c sance i le sipsmacu cu pante te
-pinka fi lu va'o le nu do na ka'e clite kei e'e do se'a mulgau le lisri
-li'u
+le mapypre e cycy bacru zoi sance c c sance i le sipsmacu cu pante te
+pinka fi lu va'o le nu do na ka'e clite kei e'e do se'adai mulgau le 
+lisri li'u
 
 @c      `No, please go on!' Alice said very humbly; `I won't interrupt
 @c    again.  I dare say there may be ONE.'
@@ -611,7 +604,7 @@ i lu lo satyjisra sei caku le sipsmacu secau le nu pensi cu cusku li'u
 @c      `I want a clean cup,' interrupted the Hatter:  `let's all move
 @c    one place on.'
 
-i lu mi djica lo'e jinsa kabri sei la mapypre cu zunti i e'u roma'a
+i lu mi djica lo'e jinsa kabri sei le mapypre cu zunti i e'u romi'o
 muvdu le lamji stuzi li'u
 
 @c      He moved on as he spoke, and the Dormouse followed him:  the
@@ -621,10 +614,10 @@ muvdu le lamji stuzi li'u
 @c    good deal worse off than before, as the March Hare had just upset
 @c    the milk-jug into his plate.
 
-i my muvdu ca le nu cusku i le sipsmacu my jersi i la cibmasti
-cicyractu cu muvdu le se zvati be le sipsmacu i la alis noi banzu
-naldjica cu basti cycy le ka ce'u zvati makau i la mapypre po'o
-cu se prali da le nungalfi i la alis se tolprali lo mutce ki'u le nu
+i my muvdu ca le nu cusku i le sipsmacu my jersi i le cibmasti
+cicyractu cu muvdu le pu se zvati be le sipsmacu i la alis noi banzu
+naldjica cu basti cycy le ka ce'u zvati makau i le mapypre po'o
+cu se prali da le nuncenba i la alis se tolprali lo mutce ki'u le nu
 la cibmasti cicyractu puzi falcru le ladru botpi le cycy palta
 
 @c      Alice did not wish to offend the Dormouse again, so she began
@@ -638,8 +631,8 @@ kajde ke tolsti cusku lu mi na jimpe i my cpacu le satyjisra ma li'u
 @c    I should think you could draw treacle out of a treacle-well--eh,
 @c    stupid?'
 
-i lu ka'u ka'e cpacu lo djacu lo djacu jinto sei la mapypre cusku isi'a
-li'a ka'e cpacu lo satyjisra lo satyjisra jinto vau iepei doi bebna li'u
+i lu ka'u ka'e cpacu lo'e djacu lo'e djacu jinto sei le mapypre cusku isi'a
+li'a ka'e cpacu lo'e satyjisra lo'e satyjisra jinto vau iepei doi bebna li'u
 
 @c      `But they were IN the well,' Alice said to the Dormouse, not
 @c    choosing to notice this last remark.
@@ -672,7 +665,7 @@ i lu ki'u ma zo my sei la alis cusku li'u
 
 @c      `Why not?' said the March Hare.
 
-i lu ki'u ma naku sei cycy cusku li'u
+i lu ki'u ma naku da'i sei cycy cusku li'u
 
 @c      Alice was silent.
 
@@ -686,10 +679,10 @@ i la alis cu smaji
 @c    see such a thing as a drawing of a muchness?'
 
 i le sipsmacu ba'o ga'orgau lei kanla ca la'e di'u gi'e ca'o co'a
-sipna i ku'i ca le nu se tunta la mapypre kei sy za'ure'u cikybi'o
+sipna i ku'i ca le nu se tunta le mapypre kei sy za'ure'u cikybi'o
 gi'e cmalu krixa gi'e di'a cusku lu li'o poi zo my pamoi lei cmene be
 ke'a lerfu i mu'a lo mirli terkavbu e lo mluni e lo mojrango e lo
-mutce i ka'u da ka'e mutce le ka mutce i xu do su'oroi viska lo pixra
+mutce i ka'u da ka'e mutce lo mutce i xu do su'oroi viska lo pixra
 be lo mutce li'u
 
 @c "much of a muchness" is an idiom; "muchness" is {termi'u}, I think. -phma
@@ -701,7 +694,7 @@ i lu je'u uaru'e sei la alis mutce se cfipu cusku mi na jinvi li'u
 
 @c      `Then you shouldn't talk,' said the Hatter.
 
-i lu ei va'o la'e di'u do na tavla sei la mapypre cusku li'u
+i lu ei va'o la'e di'u do na tavla sei le mapypre cusku li'u
 
 @c      This piece of rudeness was more than Alice could bear:  she got
 @c    up in great disgust, and walked off; the Dormouse fell asleep
@@ -710,17 +703,17 @@ i lu ei va'o la'e di'u do na tavla sei la mapypre cusku li'u
 @c    they would call after her:  the last time she saw them, they were
 @c    trying to put the Dormouse into the teapot.
 
-le di'u se tolclite cu zmadu le ka'e se sarji be la alis i abu selrigni
+le di'u se tolclite cu zmadu le sarji selka'e be la alis i abu selrigni
 gi'e sa'irbi'o gi'e to'o cadzu i le sipsmacu cu ze'i sipybi'o i no le
 re drata cu jundi le nu abu cliva i abu paji'ireroi trixe catlu fi'o
-xadba se pacna le nu ko'a abu klacpe i ca le nu abu ko'a roroi viska
-kei ko'a troci le nu setca le sipsmacu le tcati patxu
+xadba se pacna le nu le remei cu klacpe abu i ca le nu abu roroi viska 
+kei le remei cu troci le nu setca le sipsmacu le tcati patxu
 
 @c      `At any rate I'll never go THERE again!' said Alice as she
 @c    picked her way through the wood.  `It's the stupidest tea-party I
 @c    ever was at in all my life!'
 
-i lu ai mi noroi rere'u klama ba'e ta sei la alis ca le nu pluta
+i lu ai mi noroi za'ure'u klama ba'e tu sei la alis ca le nu pluta
 sisku pa'o le ricmei cu cusku i traji le kambebna lei tcati te salci
 poi mi zvati ca le nu mi jmive li'u
 
@@ -745,10 +738,10 @@ i pe'i ai mi cazi nerkla li'u i abu nerkla
 @c    beautiful garden, among the bright flower-beds and the cool fountains.
 
 i abu za'ure'u zvati le clani kumfa gi'e jibni le cmalu ke blaci jubme
-i lu e'e mi xagmau zukte ca le cabmoi sei abu se'isku li'u i pamai abu
+i lu e'e mi xagmau snada ca le ca krefu sei abu se'isku li'u i pamai abu
 jgari le cmalu ke solji ckiku gi'e telcaugau le vorme be le purdi i remai
-abu co'a citka le mledi noi pu punji lo spisa be ke'a le daski ge'u co'u
-le nu gutci li ji'ipa i cimai abu cadzu pa'o le cmalu vorlu'a i ba'e vomai
-uo abu zvati le melbi purdi gi'e jbini lei carmi ke xrula zdani e lei lenku
-milxe jaurjinto
+abu co'a citka le mledi noi pu punji lo spisa be ke'a le daski ku'o co'u
+le nu cenmitre li ji'icino i cimai abu cadzu pa'o le cmalu vorlu'a i ba'e 
+romai uo abu zvati le melbi purdi gi'e jbini lei carmi ke xrula zdani e 
+lei lenku milxe jaurjinto
 
