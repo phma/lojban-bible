@@ -339,14 +339,16 @@ noltruni'u cu minde xokau nuncatra
 @c    Queen:  so she waited.
 
 i bazibo penmi le cpicinfo noi sipna mutce vreta le se solgu'i to e'u 
-va'o le nu na djuno le du'u makau cpicinfo kei ko catlu le pixra toi
+ko va'o le nu na djuno le du'u makau cpicinfo cu catlu le pixra toi
 i lu ko sa'irbi'o doi lazni sei le noltruni'u cu cusku i ko klagau le
 vi citno ninmu le nu viska le jitfa cakyrespa gi'e tirna le cy lisri
 i ei mi xruti gi'e jitro so'o nuncatra noi mi minde li'u i ny cadzu
 cliva la alis noi stali le cpicinfo i la alis na mutce le ka nelci
 le jvinu be le danlu i ku'i abu pensi le du'u le ka abu snura ce'u 
-cu se dunli le nu stali cy kei le nu jersi le cilce noltruni'u i
+cu te dunli le nu stali cy kei le nu jersi le cilce noltruni'u i
 seki'ubo abu denpa
+@c "va'o le nu na djuno le du'u makau cpicinfo kei ko catlu le pixra"
+@c was missing a "kei". And that's a te dunli, not a se dunli -- nitcion
 
 @c      The Gryphon sat up and rubbed its eyes:  then it watched the
 @c    Queen till she was out of sight:  then it chuckled.  `What fun!'
