@@ -352,14 +352,14 @@
  ne'a      FAhA3    junto a                                   locación/dirección; junto a
  pa'o      FAhA3    a través de                               locación/dirección; a través de
  ne'i      FAhA3    dentro de                                 locación/dirección; dentro de
- to'o      FAhA4    hacia fuera de                            locación/dirección; departing from/directly away from ...
+ to'o      FAhA4    hacia fuera de                            locación/dirección; alejandose de/directamente hacia afuera de ...
  zo'i      FAhA4    hacia adentro                             locación/dirección; mas cerca que ... /hacia adentro/acercandose desde ...
  ze'o      FAhA4    hacia afuera                              locación/dirección; mas allá/pasando/dejando ...
  zo'a      FAhA4    tangente a                                locación/dirección; tangente a
  fa'a      FAhA4    hacia                                     locación/dirección; hacia/en dirección a
  fa'o      FAhO     fin de texto                              fin de texto incondicional; fuera de la gramática regular
  fe'e      FEhE     aspectos espaciales                       marca aspectos distributivos de intervalo espacial
- fe'u      FEhU     fin de modal de selbri                    terminador elisible: fin conversión de selbri a modal; usualmente elisible
+ fe'u      FEhU     fin de modal de selbri                    terminador elisible: fin conversión de selbri a modal; generalmente elisible
  fi'o      FIhO     selbri a modal                            convierte selbri a modal
  foi       FOI      fin de lerfu compuesto                    terminador: fin de lerfu compuesto; nunca elisible
  fu'a      FUhA     polaco inverso                            expresión matemática en polaco inverso
@@ -374,7 +374,7 @@
  gonai     GA*      o exclusivo preposicionado                conector lógico preposicionado: o exclusivo (con gi)
  ke'i      GAhO     intervalo abierto                         marcador de intervalo abierto; modifica intervalos en conectores no lógicos; excluye límites
  ga'o      GAhO     intervalo cerrado                         marcador de intervalo cerrado; modifica intervalos en conectores no lógicos; incluye límites
- ge'u      GEhU     fin de frase relativa                     terminador elisible: fin de frases relativas; usualmente elisible en frases no complejas
+ ge'u      GEhU     fin de frase relativa                     terminador elisible: fin de frases relativas; generalmente elisible en frases no complejas
  gi        GI       medial de conectivo                       conector lógico preposicionado: introduce el segundo término
  gi'e      GIhA     bridi y                                   conector lógico entre bridi-tail: y
  gi'i      GIhA     bridi conector ?                          conector lógico entre bridi-tail: pregunta
@@ -384,83 +384,83 @@
  gi'enai   GIhA*    bridi pero no                             conector lógico entre bridi-tail: x pero no y
  nagi'a    GIhA*    bridi sólo si                             conector lógico entre bridi-tail: condicional/sólo si
  gi'onai   GIhA*    bridi o exclusivo                         conector lógico entre bridi-tail: o exclusivo
- no'u      GOI      identidad incidental                      non-restrictive appositive phrase marker: which incidentally is the same thing as ...
- ne        GOI      frase incidental                          non-restrictive relative phrase marker: which incidentally is associated con ...
- po        GOI      es específico a                           restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal
- goi       GOI      asigna pro-sumti                          sumti assignment; used to define/assign ko'a/fo'a series pro-sumti; Latin 'sive'
- po'u      GOI      identidad restrictiva                     restrictive appositive phrase marker: which is the same thing as
- pe        GOI      frase restrictiva                         restrictive relative phrase marker: which is associated con ...; loosest associative/possessive
- po'e      GOI      que pertenece a                           restrictive relative phrase marker: which belongs to ... ; inalienable possession
- mo        GOhA     bridi ?                                   pro-bridi: bridi/selbri/brivla question
- nei       GOhA     bridi actual                              pro-bridi: repite the current bridi
- go'u      GOhA     bridi anterior                            pro-bridi: repite a remote past bridi
- go'o      GOhA     bridi posterior                           pro-bridi: repite a future bridi, normally the next one
- go'i      GOhA     bridi último                              pro-bridi: preceding bridi; in answer to a yes/no question, repite the claim, meaning yes
- no'a      GOhA     next outer bridi                          pro-bridi: repite the bridi in which this one is embedded
- go'e      GOhA     bridi anteúltimo                          pro-bridi: repite the next to last bridi
- go'a      GOhA     bridi reciente                            pro-bridi: repite a recent bridi (usually not the last 2)
- du        GOhA     es (identidad)                            identity selbri; = sign; x1 identically equals x2, x3, etc.; attached sumti refer to same thing
- bu'a      GOhA     algún selbri 1                            logically quantified predicate variable: some selbri 1
- bu'e      GOhA     algún selbri 2                            logically quantified predicate variable: some selbri 2
- bu'i      GOhA     algún selbri 3                            logically quantified predicate variable: some selbri 3
- co'e      GOhA     bridi no específico                       elliptical/unspecified bridi relationship
- nago'i    GOhA*    negar bridi último                        selbri: repite preceding bridi while denying it as false; pro-assign values are unchanged
- go'ira'o  GOhA*    último bridi actualizado                  pro-bridi: preceding bridi; repite claim as true, updating for speaker/listener change
- gu'e      GUhA     pre tanru y                               conector lógico preposicionado en tanru: y (con gi)
- gu'i      GUhA     pre tanru conn ?                          conector lógico preposicionado en tanru: pregunta (con gi)
- gu'o      GUhA     pre tanru sii                             conector lógico preposicionado en tanru: bicondicional/sii/si y sólo si (con gi)
- gu'a      GUhA     pre tanru o                               conector lógico preposicionado en tanru: o (con gi)
- gu'u      GUhA     pre tanru whether                         conector lógico preposicionado en tanru: sea o no que (con gi)
- gu'anai   GUhA*    pre tanru sólo si                         conector lógico preposicionado en tanru: condicional/sólo si (con gi)
- gu'onai   GUhA*    pre tanru o exclusivo                     conector lógico preposicionado en tanru: o exclusivo (con gi)
-.i         I        acople de oración                         sentence link/continuation; continuing sentences on same topic; normally elided for new speakers
+ no'u      GOI      identidad incidental                      marcador de frase relativa apositiva no restrictiva: que por cierto es lo mismo que ...
+ ne        GOI      frase incidental                          marcador de frase relativa no restrictiva: que por cierto está asociado con ...
+ po        GOI      es específico a                           marcador de frase relativa restrictiva: aquel que es específico a ...; posesivo normal físico/legal
+ goi       GOI      asigna pro-sumti                          asignación de sumti; usado para definir/asignar pro-sumti de serie ko'a/fo'a; latín 'sive'
+ po'u      GOI      identidad restrictiva                     marcador de frase relativa apositiva restrictiva: aquel que es lo mismo que ...
+ pe        GOI      frase restrictiva                         marcador de frase relativa restrictiva: aquel asociado con ...; posesivo/asociativo impreciso
+ po'e      GOI      que pertenece a                           marcador de frase relativa restrictiva: aquel que pertenece a ... ; posesión inalienable
+ mo        GOhA     bridi ?                                   pro-bridi: pregunta de bridi/selbri/brivla
+ nei       GOhA     bridi actual                              pro-bridi: repite bridi actual
+ go'u      GOhA     bridi anterior                            pro-bridi: repite un bridi anterior
+ go'o      GOhA     bridi posterior                           pro-bridi: repite un bridi futuro, normalmente el siguiente
+ go'i      GOhA     bridi último                              pro-bridi: bridi precedente; en respuesta a una pregunta por sí o por no, repite la oración como afirmación
+ no'a      GOhA     primer bridi externo                      pro-bridi: repite el bridi en el cual está incluído
+ go'e      GOhA     bridi anteúltimo                          pro-bridi: repite el anteúltimo bridi
+ go'a      GOhA     bridi reciente                            pro-bridi: repite un bridi reciente (usualmente no uno de los dos últimos)
+ du        GOhA     es (identidad)                            selbri de identidad; signo =; x1 es idénticamente igual a x2, x3, etc.; cada sumti se refiere a lo mismo
+ bu'a      GOhA     algún selbri 1                            predicado variable cuantificado lógicamente: algún selbri  1
+ bu'e      GOhA     algún selbri 2                            predicado variable cuantificado lógicamente: algún selbri  2
+ bu'i      GOhA     algún selbri 3                            predicado variable cuantificado lógicamente: algún selbri  3
+ co'e      GOhA     bridi no especificado                     relación elíptica/no especificada
+ nago'i    GOhA*    niega último bridi                        selbri: repite el bridi precedente negándolo; valores pro-asignados permanecen sin cambio
+ go'ira'o  GOhA*    último bridi actualizado                  pro-bridi: bridi precedente; repite oración, actualizando valores de hablante/oyente
+ gu'e      GUhA     pre tanru y                               conector lógico preposicionado entre componentes de tanru: y (con gi)
+ gu'i      GUhA     pre tanru conector ?                      conector lógico preposicionado entre componentes de tanru: pregunta (con gi)
+ gu'o      GUhA     pre tanru sii                             conector lógico preposicionado entre componentes de tanru: bicondicional/sii/si y sólo si (con gi)
+ gu'a      GUhA     pre tanru o                               conector lógico preposicionado entre componentes de tanru: o (con gi)
+ gu'u      GUhA     pre tanru sea o no                        conector lógico preposicionado entre componentes de tanru: sea o no que (con gi)
+ gu'anai   GUhA*    pre tanru sólo si                         conector lógico preposicionado entre componentes de tanru: condicional/sólo si (con gi)
+ gu'onai   GUhA*    pre tanru o exclusivo                     conector lógico preposicionado entre componentes de tanru: o exclusivo (con gi)
+.i         I        acople de oración                         enlace de oración; continúan oraciones sobre el mismo tema; normalmente elisible para nuevo hablante
  je        JA       tanru y                                   conector lógico entre componentes de tanru: y
- je'i      JA       tanru conn ?                              conector lógico entre componentes de tanru: conn question
+ je'i      JA       tanru conector ?                          conector lógico entre componentes de tanru: conn question
  jo        JA       tanru sii                                 conector lógico entre componentes de tanru: bicondicional/sii/si y sólo si
  ja        JA       tanru o                                   conector lógico entre componentes de tanru: o
- ju        JA       tanru whether                             conector lógico entre componentes de tanru: sea o no que
+ ju        JA       tanru sea o no                            conector lógico entre componentes de tanru: sea o no que
 .ije       JA*      oración y                                 conector lógico entre oraciones: y
-.ijenai    JA*      oración but not                           conector lógico entre oraciones: x pero no y
-.ije'i     JA*      oración conn ?                            conector lógico entre oraciones: pregunta
+.ijenai    JA*      oración pero no                           conector lógico entre oraciones: x pero no y
+.ije'i     JA*      oración conector ?                        conector lógico entre oraciones: pregunta
 .ijanai    JA*      oración si                                conector lógico entre oraciones: si
 .ijo       JA*      oración sii                               conector lógico entre oraciones: bicondicional/sii/si y sólo si
 .inaja     JA*      oración sólo si                           conector lógico entre oraciones: condicional/sólo si
 .ija       JA*      oración o                                 conector lógico entre oraciones: o
-.iju       JA*      oración whether                           conector lógico entre oraciones: sea o no que
+.iju       JA*      oración sea o no                          conector lógico entre oraciones: sea o no que
 .ijonai    JA*      oración o exclusivo                       conector lógico entre oraciones: o exclusivo
  jenai     JA*      tanru pero no                             conector lógico entre componentes de tanru: x pero no y
  naja      JA*      tanru sólo si                             conector lógico entre componentes de tanru: condicional/sólo si
  jonai     JA*      tanru o exclusivo                         conector lógico entre componentes de tanru: o exclusivo
- jai       JAI      conversión modal                          convert tense/modal (tagged) place to 1er argumento; 1er argumento moves to extra FA place (fai)
+ jai       JAI      conversión modal                          convierte posición modal (preposicionada) en 1er argumento; el 1er argumento se mueve a la posición FA adicional (fai)
  fa'u      JOI      y respectivamente                         conector no lógico: respectivamente; asociación ordenada distributiva
  pi'u      JOI      producto cruzado                          conector no lógico: producto cruzado; producto cartesiano de conjuntos
  joi       JOI      junto con                                 conector no lógico: conjunción colectiva; y, junto con, formando un grupo
  ce'o      JOI      en secuencia con                          conector no lógico: enlace de secuencia ordenada; "y después", formando una secuencia
  ce        JOI      en un conjunto con                        conector no lógico: enlace de conjunto, no ordenado; formando un conjunto
- jo'u      JOI      en común con                              conector no lógico: en común con; along con (unmixed)
+ jo'u      JOI      en común con                              conector no lógico: en común con; junto con (no mezclado)
  ku'a      JOI      intersección                              conector no lógico: intersección de conjuntos
  jo'e      JOI      unión                                     conector no lógico: unión de conjuntos
- ju'e      JOI      conectivo vago                            conector vago no lógico: analogo a ".i"
- jo'i      JOhI     matriz                                    join mathematical expression (mex) operands into an array
- ke        KE       comienzo agrupación                       start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping
- kei       KEI      fin abstracción                           terminador elisible: end abstracción bridi (often elisible)
- ke'e      KEhE     fin agrupación                            terminador elisible: end of tanru left grouping override (usually elisible)
- ki        KI       tense default                             tense/modal: set/use tense default; establishes new open scope space/time/modal reference base
- roda      KOhA*    todos                                     logically quantified universal sumti: everything (unless restricted)
- la'edi'u  KOhA*    last expresión it                         pro-sumti: the referent of the last expresión; the state described: "IT was fun"
- noda      KOhA*    ninguno                                   logically quantified sumti: nothing at all (unless restricted)
- da        KOhA1    alguno 1                                  logically quantified existential pro-sumti: there exists something 1 (usually restricted)
- de        KOhA1    alguno 2                                  logically quantified existential pro-sumti: there exists something 2 (usually restricted)
- di        KOhA1    alguno 3                                  logically quantified existential pro-sumti: there exists something 3 (usually restricted)
- da'u      KOhA2    expresión anterior                        pro-sumti: a remote past expresión; "She couldn't have known that IT would be true."
- da'e      KOhA2    expresión eventual                        pro-sumti: remote future expresión; "He'll tell you tomorrow. IT will be a doozy."
- di'u      KOhA2    expresión última                          pro-sumti: the last expresión
- di'e      KOhA2    expresión siguiente                       pro-sumti: the next expresión
- de'u      KOhA2    expresión reciente                        pro-sumti: a recent expresión
- de'e      KOhA2    expresión próxima                         pro-sumti: a near future expresión
- dei       KOhA2    expresión actual                          pro-sumti: this expresión
- do'i      KOhA2    expresión no específica                   pro-sumti: elliptical/unspecified expresión variable
- ko        KOhA3    imperativo                                pro-sumti: you (imperative); make it true for you, the listener
+ ju'e      JOI      conectivo vago                            conector vago no lógico: análogo a ".i"
+ jo'i      JOhI     matríz                                    une operandos matemáticos en una matríz
+ ke        KE       comienzo agrupación                       comienza grupo en tanru, etc; anula agrupmiento normal de tanru por izquierda
+ kei       KEI      fin abstracción                           terminador elisible: fin de bridi de abstracción (a menudo elisible)
+ ke'e      KEhE     fin agrupación                            terminador elisible: fin de grupo en tanru (generalmente elisible)
+ ki        KI       fija tiempo verbal                        tiempo/modal: fija tiempo verbal; establece una nueva base de referencia para tiempo/espacio verbal/modal
+ roda      KOhA*    todos                                     sumti con cuantificación universal: todo (a menos que sea restringido)
+ la'edi'u  KOhA*    lo anterior                               pro-sumti: el referente de la expresión anterior; el estado descripto: "ESO fué divertido"
+ noda      KOhA*    ninguno                                   sumti cuantificado: nada en absoluto (a menos que sea restringido)
+ da        KOhA1    alguno 1                                  pro-sumti con cuantificación existencial: existe algo 1 (generalmente restringido)
+ de        KOhA1    alguno 2                                  pro-sumti con cuantificación existencial: existe algo 2 (generalmente restringido)
+ di        KOhA1    alguno 3                                  pro-sumti con cuantificación existencial: existe algo 3 (generalmente restringido)
+ da'u      KOhA2    expresión anterior                        pro-sumti: una expresión pasada; "Ella no podía saber que ESO sería cierto."
+ da'e      KOhA2    expresión eventual                        pro-sumti: expresión futura; "Te lo dirá mañana. ESO va a estar bueno."
+ di'u      KOhA2    expresión última                          pro-sumti: la última expresión
+ di'e      KOhA2    expresión siguiente                       pro-sumti: la próxima expresión
+ de'u      KOhA2    expresión reciente                        pro-sumti: una expresión reciente
+ de'e      KOhA2    expresión próxima                         pro-sumti: una expresión futura próxima
+ dei       KOhA2    expresión actual                          pro-sumti: esta expresión
+ do'i      KOhA2    expresión no especificada                 pro-sumti: expresión elíptica/no especificada
+ ko        KOhA3    imperativo                                pro-sumti: tú/ustedes (imperativo); haz que sea cierto
  mi        KOhA3    yo                                        pro-sumti: yo/nosotros; identificado por autovocativo "mi'e"
  mi'o      KOhA3    tú/ustedes y yo                           pro-sumti: yo/nosotros & tú/usted(es)
  ma'a      KOhA3    tú/ustedes, otros y yo                    pro-sumti: yo/nosotros & tú/usted(es) & otros no especificados
@@ -482,135 +482,135 @@
  vo'i      KOhA4    x3 ello                                   pro-sumti: repite 3er argumento del bridi principal de esta oración
  vo'o      KOhA4    x4 ello                                   pro-sumti: repite 4to argumento del bridi principal de esta oración
  vo'u      KOhA4    x5 ello                                   pro-sumti: repite 5to argumento del bridi principal de esta oración
- ru        KOhA5    sumti anterior                            pro-sumti: a remote past sumti, before all other in-use backcounting sumti
- ri        KOhA5    sumti último                              pro-sumti: the last sumti, as determined by back-counting rules
- ra        KOhA5    sumti reciente                            pro-sumti: a recent sumti before the last one, as determined by back-counting rules
- ta        KOhA6    ése                                       pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener
- tu        KOhA6    aquél                                     pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker&listener
- ti        KOhA6    éste                                      pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker
- zi'o      KOhA7    elimina argumento                         pro-sumti: fills a posición de sumti, deleting it from selbri place structure;changes selbri semantics
- ke'a      KOhA7    pro-sumti relativo                        pro-sumti: relativized sumti (object of relative clause)
- ma        KOhA7    sumti ?                                   pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank
- zu'i      KOhA7    el típico                                 pro-sumti: the typical sumti value for this place in this relationship; affects truth value
- zo'e      KOhA7    sumti no especificado                     pro-sumti: an elliptical/unspecified value; has some value which makes bridi true
- ce'u      KOhA8    relativo de abstracción                   pseudo-quantifier binding a variable within an abstracción that represents an open place
- ku        KU       fin de sumti                              terminador elisible: end descripción, modal, or negator sumti; often elisible
- ku'e      KUhE     end mex forethought                       terminador elisible: end mathematical (mex) forethought (Polish) expression; often elisible
- ku'o      KUhO     fin de cláusula relativa                  terminador elisible: end NOI relative clause; always elisible, but preferred in complex clauses
- la        LA       that named                                name descriptor: the one(s) called ... ; takes name or selbri descripción
- lai       LA       the mass of named                         name descriptor: the mass of individual(s) named ... ; takes name or selbri descripción
- la'i      LA       the set of named                          name descriptor: the set of those named ... ; takes name or selbri descripción
- ce'a      LAU      font cambia                                2-word letra/cambia: the word following indicates a new font (e.g. italics, manuscript)
- lau       LAU      punctuation mark                          2-word letra/cambia: punctuation mark or special symbol follows
- zai       LAU      select alphabet                           2-word letra/cambia: alternate alphabet selector follows
- tau       LAU      cambia next lerfu                          2-word letra/cambia: change case for next letra only
- tu'a      LAhE     the bridi implied by                      extracts a concrete sumti from an unspecified abstracción; equivalent to le nu/su'u [sumti] co'e
- lu'a      LAhE     the individuals of                        the members of the set/components of the mass; converts another descripción type to individuals
- lu'o      LAhE     the mass composed of                      the mass composed of; converts another descripción type to a mass composed of the members
- la'e      LAhE     the referent of                           the referent of (indirect pointer); uses the referent of a sumti as the desired sumti
- vu'i      LAhE     the sequence of                           sumti qualifier: the sequence made from set or composed of elements/components; order is vague
- lu'i      LAhE     the set composed of                       the set con members; converts another descripción type to a set of the members
- lu'e      LAhE     the symbol for                            the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti
- le        LE       the described                             non-veridical descriptor: the one(s) described as ...
- lei       LE       the mass described                        non-veridical descriptor: the mass of individual(s) described as ...
- loi       LE       the mass really is                        veridical descriptor: the mass of individual(s) that is(are) ...
- lo        LE       the really is                             veridical descriptor: the one(s) that really is(are) ...
- le'i      LE       the set described                         non-veridical descriptor: the set of those described as ..., treated as a set
- lo'i      LE       the set really is                         veridical descriptor: the set of those that really are ..., treated as a set
- le'e      LE       the stereotypical                         non-veridical descriptor: the stereotype of those described as ...
- lo'e      LE       the typical                               veridical descriptor: the typical one(s) who really is(are) ...
- leko'a    LE*      it-1's described as                       possessive/associative descriptor: the one(s) described as, of it-1's
- lemi      LE*      my described as                           possessive/associative descriptor: the one(s) described as, of mine
- leta      LE*      that one's                                possessive/associative descriptor: nearby demonstrative possessive; cannot use for 'THAT ...'
- leva      LE*      that there                                located descriptor: descriptive that-there (non-demonstrative)
- levu      LE*      that yonder                               located descriptor: descriptive that-yonder (non-demonstrative)
- letu      LE*      the yonder one's                          possessive/associative descriptor: distant demonstrative possessive
- levi      LE*      this here                                 located descriptor: descriptive this-here (non-demonstrative)
- leti      LE*      this one's                                possessive/associative descriptor: immediate demonstrative possessive; cannot use for 'THIS ...'
- ledo      LE*      your described as                         possessive/associative descriptor: the one(s) described as, of yours
- le'u      LEhU     end error quote                           end quote of questionable or out-of-context text; not elisible
- me'o      LI       the mex                                   the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti
- li        LI       the número                                the número/evaluated expression; convert número/operand/evaluated math expression to sumti
- li'u      LIhU     end quote                                 terminador elisible: end grammatical quotation; seldom elisible except at end of text
- lo'o      LOhO     end mex sumti                             terminador elisible: end math express.(mex) sumti; end mex-to-sumti conversión; usually elisible
- lo'u      LOhU     error quote                               start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical
- lu        LU       quote                                     start grammatical quotation; quoted text should be grammatical on its own
- lu'u      LUhU     end sumti qualifiers                      terminador elisible: end of sumti qualifiers; usually elisible except before a sumti
- mo'o      MAI      section ordinal                           higher-order expresión ordinal suffix; converts a número to ordinal, usually a section/chapter
- mai       MAI      sentence ordinal                          expresión ordinal suffix; converts a número to an ordinal, such as an item or paragraph número
- pamai     MAI*     firstly                                   discursivo: first expresión ordinal
- romai     MAI*     lastly                                    discursivo expresión ordinal: finally; last expresión ordinal
- remai     MAI*     secondly                                  discursivo: second expresión ordinal
- nomo'o    MAI*     section 0                                 discursivo expresión ordinal: zeroth section/chapter ordinal; foreword
- pamo'o    MAI*     section 1                                 discursivo expresión ordinal: first section/chapter ordinal
- ma'o      MAhO     operand to operator                       convert letra string or other mathematical expression (mex) operand to mex operator
- me        ME       sumti to selbri                           convert sumti to selbri/tanru element; x1 is specific to [sumti] in aspect x2
- me'u      MEhU     end sumti to selbri                       terminador elisible: end sumti that was converted to selbri; usually elisible
- mei       MOI      cardinal selbri                           convert número to cardinality selbri; x1 is the mass formed from set x2 whose n member(s) are x3
- moi       MOI      ordinal selbri                            convert número to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3
- si'e      MOI      portion selbri                            convert número to portion selbri; x1 is an (n)th portion of mass/totality x2; (cf. gunma)
- cu'o      MOI      probability selbri                        convert número to probability selbri; event x1 has probability (n) of occurring under cond. x2
- raumei    MOI*     are enough                                selbri cuantificado: converts enough to cardinal; x1 is a set con members x2, enough by std. x3
- pimucu'o  MOI*     has even odds                             selbri cuantificado: convert .5 to probability selbri; event x1 has a 50/50 chance under cond. x2
- so'imei   MOI*     is a bunch                                selbri cuantificado: convert many to cardinal; x1 is a set con many members x2 of total set x3
- panonomei MOI*     is a century                              selbri cuantificado: convert 100 to cardinal selbri; x1 is a set con the century of members x2
- panomei   MOI*     is a decade                               selbri cuantificado: convert 10 to cardinal selbri; x1 is a set con the decade of members x2
- paremei   MOI*     is a dozen                                selbri cuantificado: convert 12 to cardinal selbri; x1 is a set con a dozen members x2
- piresi'e  MOI*     is a fifth portion                        selbri cuantificado: convert .2 = 1/5 to portion selbri; x1 is 1/5 of mass/totality x2
- bimei     MOI*     is a octet                                selbri cuantificado: convert 8 to cardinal selbri; x1 is a set con the octet of members x2
- remei     MOI*     is a pair                                 selbri cuantificado: convert 2 to cardinal selbri; x1 is a set con the pair of members x2
- mumei     MOI*     is a quintet                              selbri cuantificado: convert 5 to cardinal selbri; x1 is a set con the quintet of members x2
- renomei   MOI*     is a score                                selbri cuantificado: convert 20 to cardinal selbri; x1 is a set con the score of members x2
- cimei     MOI*     is a trio                                 selbri cuantificado: convert 3 to cardinal selbri; x1 is a set con the trio of members x2
- da'aremoi MOI*     is antepenultimate                        selbri cuantificado: converts all-but-2 to ordinal selbri; x1 is antepenult. among x2 by rule x3
- su'oremoi MOI*     is at least second                        selbri cuantificado: convert at least 2 to ordinal selbri; x1 is at-least-2nd among x2 by rule x3
- bimoi     MOI*     is eighth among                           selbri cuantificado: convert 8 to ordinal selbri; x1 is eighth among x2 ordered by rule x3
- raumoi    MOI*     is enoughth among                         selbri cuantificado: converts enough to ordinal; x1 is enoughth among x2, order rule x3
- mumoi     MOI*     is fifth among                            selbri cuantificado: convert 5 to ordinal selbri; x1 is fifth among x2 ordered by rule x3
- pamoi     MOI*     is first among                            selbri cuantificado: convert 1 to ordinal selbri; x1 is first among x2 ordered by rule x3
- vomoi     MOI*     is fourth among                           selbri cuantificado: convert 4 to ordinal selbri; x1 is fourth among x2 ordered by rule x3
- romoi     MOI*     is last among                             selbri cuantificado: is final among; convert all to ordinal selbri; x1 is last among x2, rule x3
- somoi     MOI*     is ninth among                            selbri cuantificado: convert 9 to ordinal selbri; x1 is ninth among x2 ordered by rule x3
- da'amoi   MOI*     is penultimate among                      selbri cuantificado: converts all-but-(1) to ordinal selbri; x1 is penultimate among x2 by rule x3
- su'oremei MOI*     is plural                                 selbri cuantificado: convert at least 2 to cardinal selbri; x1 is a set con plural membership x2
- remoi     MOI*     is second among                           selbri cuantificado: convert 2 to ordinal selbri; x1 is second among x2 ordered by rule x3
- zemoi     MOI*     is seventh among                          selbri cuantificado: convert 7 to ordinal selbri; x1 is seventh among x2 ordered by rule x3
- pamei     MOI*     is singular                               selbri cuantificado: convert 1 to cardinal selbri; x1 is a set con single/sole/only member x2
- xamoi     MOI*     is sixth among                            selbri cuantificado: convert 6 to ordinal selbri; x1 is sixth among x2 ordered by rule x3
- panomoi   MOI*     is tenth among                            selbri cuantificado: convert 10 to ordinal selbri; x1 is tenth among x2 ordered by rule x3
- pirosi'e  MOI*     is the whole of                           selbri cuantificado: converts all-of to portion selbri; x1 is the whole portion of mass x2
- cimoi     MOI*     is third among                            selbri cuantificado: convert 3 to ordinal selbri; x1 is third among x2 ordered by rule x3
- du'emei   MOI*     is too many                               selbri cuantificado: convert too many to cardinal selbri; x1 is a set con too many members x2
- mo'e      MOhE     sumti to operand                          convert sumti to mex operand; sample use in story arithmetic: [3 apples] + [3 apples] = what
- mo'i      MOhI     space motion                              mark motions in space-time
- ja'a      NA       bridi affirmer                            bridi logical affirmer; scope is an entire bridi
- na        NA       bridi negator                             bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds
+ ru        KOhA5    sumti anterior                            pro-sumti: un sumti anterior a todos los usados contando hacia atrás
+ ri        KOhA5    sumti último                              pro-sumti: el último sumti, según las reglas de cuenta hacia atrás
+ ra        KOhA5    sumti reciente                            pro-sumti: un sumti reciente, anterior al último según las reglas de cuenta hacia atrás
+ ta        KOhA6    ése                                       pro-sumti: ése/ésa/eso; demostrativo cercano; indica algo cercano a quien escucha
+ tu        KOhA6    aquél                                     pro-sumti: aquél/aquélla/aquello; demostrativo distante; indica algo alejado de quien habla y quien escucha
+ ti        KOhA6    éste                                      pro-sumti: éste/ésta/esto; demostrativo inmediato; indica algo cercano a quien habla
+ zi'o      KOhA7    elimina argumento                         pro-sumti: ocupa una posición de sumti, eliminándola de la estructura del selbri; cambia el significado del selbri
+ ke'a      KOhA7    pro-sumti relativo                        pro-sumti: sumti relativizado (objeto de cláusula relativa)
+ ma        KOhA7    sumti ?                                   pro-sumti: pregunta de sumti (qué/quién/cómo/por qué/dónde/etc.); llenar apropiadamente el espacio de sumti
+ zu'i      KOhA7    el típico                                 pro-sumti: el valor típico de sumti en esta posición
+ zo'e      KOhA7    sumti no especificado                     pro-sumti: un valor elíptico/no especificado; valor dado por el contexto 
+ ce'u      KOhA8    relativo de abstracción                   indica la posición del poseedor de una propiedad
+ ku        KU       fin de sumti                              terminador elisible: fin de descripción, modal, o sumti de negación; a menudo elisible
+ ku'e      KUhE     fin de mex premeditada                    terminador elisible: fin de expresión matemática premeditada (notación polaca); a menudo elisible
+ ku'o      KUhO     fin de cláusula relativa                  terminador elisible: fin de cláusula relativa NOI; siempre elisible, pero preferible en cláusulas complejas
+ la        LA       el llamado                                descriptor de nombre: el/cada uno de los llamado(s) ... ; acepta nombre o descripción de selbri
+ lai       LA       los llamados                              descriptor de nombre: el grupo de los llamados ... ; acepta nombre o descripción de selbri
+ la'i      LA       el conjunto de los llamados               descriptor de nombre: el conjunto de los llamados ... ; acepta nombre o descripción de selbri
+ ce'a      LAU      cambio de tipo de letra                   cambio de letra: sigue indicador de un nuevo tipo de letra (ej. itálica, manuscrita)
+ lau       LAU      signo de puntuación                       cambio de letra: sigue signo de puntuación o especial
+ zai       LAU      selección de alfabeto                     cambio de letra: sigue selector de alfabeto alternativo
+ tau       LAU      cambia letra siguiente                    cambio de letra: cambia letra siguiente a mayúscula/minúscula
+ tu'a      LAhE     el bridi implied by                       extracts a concrete sumti from an unspecified abstracción; equivalent to le nu/su'u [sumti] co'e
+ lu'a      LAhE     algún miembro de                          the members of the set/components of the mass; convierte another descripción type to individuals
+ lu'o      LAhE     el grupo compuesto por                    the mass composed of; convierte another descripción type to a mass composed of the members
+ la'e      LAhE     el referente de                           the referent of (indirect pointer); uses the referent of a sumti as the desired sumti
+ vu'i      LAhE     la secuencia de                           sumti qualifier: the sequence made from set or composed of elements/components; order is vague
+ lu'i      LAhE     el conjunto compuesto por                 the set con members; convierte another descripción type to a set of the members
+ lu'e      LAhE     el símbolo de                             the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti
+ le        LE       el descripto                              descriptor no verídico: el/cada uno de los descriptos como ...
+ lei       LE       el grupo descripto                        descriptor no verídico: el grupo de los descriptos como ...
+ loi       LE       un grupo de los que realmente son         descriptor verídico: un grupo de los que realmente son ...
+ lo        LE       uno(s) que realmente es/son               descriptor verídico: uno(s) que realmente es/son ...
+ le'i      LE       el conjunto de los descriptos             descriptor no verídico: el conjunto de los descriptos como ... 
+ lo'i      LE       el conjunto de los que realmente son      descriptor verídico: el conjunto de los que realmente son ...
+ le'e      LE       el estereotípico                          descriptor no verídico: el estereotipo de los descriptos como ...
+ lo'e      LE       el típico                                 descriptor verídico: el/los típico(s) que realmente es/son ...
+ leko'a    LE*      su                                        descriptor posesivo/asociativo: el descripto como ..., de ello-1
+ lemi      LE*      mi                                        descriptor posesivo/asociativo: el descripto como ..., mío
+ leta      LE*      el ... de ése                             descriptor posesivo/asociativo: posesivo demostrativo cercano; no usar por 'ESE ...'
+ leva      LE*      ese                                       descriptor locativo: ese ... de allí, descriptivo (no demostrativo)
+ levu      LE*      aquel                                     descriptor locativo: aquel ... de allá, descriptivo (no demostrativo)
+ letu      LE*      el ... de aquél                           descriptor posesivo/asociativo: posesivo demostrativo distante
+ levi      LE*      este                                      descriptor locativo: este ... de aquí, descriptivo (no demostrativo)
+ leti      LE*      el ... de éste                            descriptor posesivo/asociativo: posesivo demostrativo inmediato; no usar por 'ESTE ...'
+ ledo      LE*      tu                                        descriptor posesivo/asociativo: el descripto como ..., tuyo/de ustedes
+ le'u      LEhU     fin de cita de error                      fin de cita de texto cuestionable o fuera de contexto; not elisible
+ me'o      LI       la expresión matemática                   la expresión matemática (no evaluada); convierte expresión matemática no evaluada en sumti
+ li        LI       el número                                 el número/expresión evaluada; convierte número/operando/expresión evaluada en sumti
+ li'u      LIhU     fin de cita                               terminador elisible: fin de cita; raramente elisible excepto al final del texto
+ lo'o      LOhO     fin de sumti de expr. matem.              terminador elisible: fin de sumti de expresión matemática; fin de conversión mex-a-sumti; generalmente elisible
+ lo'u      LOhU     cita de error                             comienzo de cita de texto cuestionable o fuera de contexto; el texto debe consistir de palabras en lojban, pero no necesariamente gramaticalmente correcto
+ lu        LU       quote                                     comienzo de cita; el texto citado debe ser gramáticalmente correcto
+ lu'u      LUhU     fin de calificadores de sumti             terminador elisible: fin de calificadores de sumti; generalmente elisible excepto antes de un sumti
+ mo'o      MAI      ordinal de sección                        sufijo ordinal de expresión de orden superior; convierte número en ordinal, generalmente para una sección/capítulo
+ mai       MAI      ordinal de oración                        sufijo ordinal de expresión; convierte número en ordinal, como un número de ítem o párrafo
+ pamai     MAI*     en primer lugar                           discursivo: primera expresión
+ romai     MAI*     finalmente                                discursivo: finalmente; última expresión
+ remai     MAI*     en segundo lugar                          discursivo: segunda expresión
+ nomo'o    MAI*     sección 0                                 discursivo: ceroésima sección/capítulo; prólogo
+ pamo'o    MAI*     sección 1                                 discursivo: primera sección/capítulo
+ ma'o      MAhO     operando a operador                       convierte operando de cadena de letras u otra expresión matemática en operador
+ me        ME       sumti a selbri                            convierte sumti en selbri/elemento de tanru; x1 es uno de los referentes de [sumti]; x1 es una instancia de [sumti]
+ me'u      MEhU     fin de sumti a selbri                     terminador elisible: fin de sumti convertido en selbri; generalmente elisible
+ mei       MOI      selbri cardinal                           convierte número en selbri cardinal; x1 es un grupo de (n) miembros de x2, uno de los cuales es x3
+ moi       MOI      selbri ordinal                            convierte número en selbri ordinal; x1 es el (n)-ésimo miembro de x2 ordenado según regla x3
+ si'e      MOI      selbri fraccional                         convierte número en selbri fraccional; x1 es una fracción (n) de la totalidad x2; (cf. gunma)
+ cu'o      MOI      selbri de probabilidad                    convierte número en selbri de probabilidad; evento x1 tiene probabilidad (n) de ocurrir bajo condiciones x2
+ raumei    MOI*     son suficientes                           selbri cuantificado: convierte suficiente en selbri cardinal; x1 son suficientes x2 
+ pimucu'o  MOI*     has even odds                             selbri cuantificado: convierte .5 en selbri de probabilidad; evento x1 tiene una probabilidad del 50% bajo condiciones x2
+ so'imei   MOI*     es un montón                              selbri cuantificado: convierte muchos en cardinal; x1 son muchos x2
+ panonomei MOI*     es un centenar                            selbri cuantificado: convierte 100 en selbri cardinal; x1 es un centenar de x2
+ panomei   MOI*     es una decena                             selbri cuantificado: convierte 10 en selbri cardinal; x1 es una decena de x2
+ paremei   MOI*     es una docena                             selbri cuantificado: convierte 12 en selbri cardinal; x1 es una docena de x2
+ piresi'e  MOI*     es una quinta parte                       selbri cuantificado: convierte .2 = 1/5 en selbri fraccional; x1 es 1/5 de totalidad x2
+ bimei     MOI*     es un octeto                              selbri cuantificado: convierte 8 en selbri cardinal; x1 es un octeto de x2
+ remei     MOI*     es un par                                 selbri cuantificado: convierte 2 en selbri cardinal; x1 es un par de x2
+ mumei     MOI*     es un quinteto                            selbri cuantificado: convierte 5 en selbri cardinal; x1 es un quinteto de x2
+ renomei   MOI*     es una veintena                           selbri cuantificado: convierte 20 en selbri cardinal; x1 es una veintena de x2
+ cimei     MOI*     es un trío                                selbri cuantificado: convierte 3 en selbri cardinal; x1 es un trío de x2
+ da'aremoi MOI*     es antepenultimo                          selbri cuantificado: convierte todos-menos-2 en selbri ordinal; x1 es antepenúltimo entre x2 según regla x3
+ su'oremoi MOI*     es por lo menos segundo                   selbri cuantificado: convierte al menos 2 en selbri ordinal; x1 es al menos segundo entre x2 según regla x3
+ bimoi     MOI*     es octavo entre                           selbri cuantificado: convierte 8 en selbri ordinal; x1 es octavo entre x2 ordenado según regla x3
+ raumoi    MOI*     es suficientésimo entre                   selbri cuantificado: convierte suficiente en selbri ordinal; x1 es suficientésimo entre x2 según regla x3
+ mumoi     MOI*     es quinto entre                           selbri cuantificado: convierte 5 en selbri ordinal; x1 es quinto entre x2 ordenado según regla x3
+ pamoi     MOI*     es primero entre                          selbri cuantificado: convierte 1 en selbri ordinal; x1 es primero entre x2 ordenado según regla x3
+ vomoi     MOI*     es cuarto entre                           selbri cuantificado: convierte 4 en selbri ordinal; x1 es cuarto entre x2 ordenado según regla x3
+ romoi     MOI*     es último entre                           selbri cuantificado: convierte todos en selbri ordinal; x1 es último entre x2 según regla x3
+ somoi     MOI*     es noveno entre                           selbri cuantificado: convierte 9 en selbri ordinal; x1 es noveno entre x2 ordenado según regla x3
+ da'amoi   MOI*     es anteúltimo entre                       selbri cuantificado: convierte todos-menos-1 en selbri ordinal; x1 es penúltimo entre x2 según regla x3
+ su'oremei MOI*     es plural                                 selbri cuantificado: convierte al menos 2 en selbri cardinal; x1 son más de un x2
+ remoi     MOI*     es segundo entre                          selbri cuantificado: convierte 2 en selbri ordinal; x1 es segundo entre x2 ordenado según regla x3
+ zemoi     MOI*     es séptimo entre                          selbri cuantificado: convierte 7 en selbri ordinal; x1 es séptimo entre x2 ordenado según regla x3
+ pamei     MOI*     es singular                               selbri cuantificado: convierte 1 en selbri cardinal; x1 es un solo/único x2
+ xamoi     MOI*     es sexto entre                            selbri cuantificado: convierte 6 en selbri ordinal; x1 es sexto entre x2 ordenado según regla x3
+ panomoi   MOI*     es décimo entre                           selbri cuantificado: convierte 10 en selbri ordinal; x1 es décimo entre x2 ordenado según regla x3
+ pirosi'e  MOI*     es el total de                            selbri cuantificado: convierte todo en selbri fraccional; x1 es el total de x2
+ cimoi     MOI*     es tercero entre                          selbri cuantificado: convierte 3 en selbri ordinal; x1 es tercero entre x2 ordenado según regla x3
+ du'emei   MOI*     son demasiados                            selbri cuantificado: convierte demasiados en selbri cardinal; x1 son demasiados x2
+ mo'e      MOhE     sumti en operando                         convierte sumti to mex operand; sample use in story arithmetic: [3 apples] + [3 apples] = what
+ mo'i      MOhI     movimiento espacial                       mark motions in space-time
+ ja'a      NA       afirmador de bridi                        bridi logical affirmer; scope is an entire bridi
+ na        NA       negador de bridi                          bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds
  nai       NAI      negate last word                          attached to cmavo to negate them; various negation-related meanings
  to'e      NAhE     polar opposite                            polar opposite scalar negator
  je'a      NAhE     scalar affirmer                           scalar affirmer; denies scalar negation: Indeed!
  na'e      NAhE     scalar contrary                           contrary scalar negator: other than ...; not ...; a scale or set is implied
  no'e      NAhE     scalar midpoint not                       midpoint scalar negator: neutral point between je'a and to'e; "not really"
- na'u      NAhU     selbri to operator                        convert selbri to mex operator; used to create less-used operators using le'avla, lujvo, etc.
- ni'e      NIhE     selbri to operand                         convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen
+ na'u      NAhU     selbri to operator                        convierte selbri to mex operator; used to create less-used operators using le'avla, lujvo, etc.
+ ni'e      NIhE     selbri to operand                         convierte selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen
  ni'o      NIhO     new topic                                 discursivo: paragraph break; introduce new topic
  no'i      NIhO     old topic                                 discursivo: paragraph break; resume previous topic
  voi       NOI      cláusula descriptiva                      non-veridical restrictive clause used to form complicated le-like descripciones using "ke'a"
  noi       NOI      cláusula incidental                       non-restrictive relative clause; attaches subordinate bridi con incidental information
  poi       NOI      cláusula restrictiva                      restrictive relative clause; attaches subordinate bridi con identifying information to a sumti
- ni        NU       cantidad                                  abstractor: quantity/amount abstractor; x1 is quantity/amount of [bridi] measured on scale x2
- du'u      NU       bridi                                     abstractor: predication/bridi abstractor; x1 is predication [bridi] expressed in sentence x2
- si'o      NU       concepto                                  abstractor: idea/concept abstractor; x1 is x2's concept of [bridi]
- nu        NU       evento                                    abstractor: generalized event abstractor; x1 is state/process/achievement/activity of [bridi]
- li'i      NU       experiencia                               abstractor: experience abstractor; x1 is x2's experience of [bridi] (participant or observer)
- ka        NU       propiedad                                 abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by [bridi]
- jei       NU       valor de verdad                           abstractor: truth-value abstractor; x1 is truth value of [bridi] under epistemology x2
- su'u      NU       abstracción no específica                 abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstracción of type x2
- sedu'u    NU*      sentence abstract                         compound abstractor: sentence/equation abstract; x1 is text expressing [bridi] which is x2
- zu'o      NU1      actividad                                 abstractor: activity (event) abstractor; x1 is abstract activity of [bridi] composed of x2
- mu'e      NU1      evento puntual                            abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of [bridi]
- pu'u      NU1      proceso                                   abstractor: process (event) abstractor; x1 is process of [bridi] proceeding in stages x2
- za'i      NU1      estado                                    abstractor: state (event) abstractor; x1 is continuous state of [bridi] being true
- nu'a      NUhA     operador a selbri                         convert mathematical expression (mex) operator to a selbri/tanru component
+ ni        NU       cantidad                                  abstractor: quantity/amount abstractor; x1 es quantity/amount of [bridi] measured on scale x2
+ du'u      NU       bridi                                     abstractor: predication/bridi abstractor; x1 es predication [bridi] expressed in sentence x2
+ si'o      NU       concepto                                  abstractor: idea/concept abstractor; x1 es x2's concept of [bridi]
+ nu        NU       evento                                    abstractor: generalized event abstractor; x1 es state/process/achievement/activity of [bridi]
+ li'i      NU       experiencia                               abstractor: experience abstractor; x1 es x2's experience of [bridi] (participant or observer)
+ ka        NU       propiedad                                 abstractor: property/quality abstractor (-ness); x1 es quality/property exhibited by [bridi]
+ jei       NU       valor de verdad                           abstractor: truth-value abstractor; x1 es truth value of [bridi] under epistemology x2
+ su'u      NU       abstracción no específica                 abstractor: generalized abstractor (how); x1 es [bridi] as a non-specific abstracción of type x2
+ sedu'u    NU*      sentence abstract                         compound abstractor: sentence/equation abstract; x1 es text expressing [bridi] which is x2
+ zu'o      NU1      actividad                                 abstractor: activity (event) abstractor; x1 es abstract activity of [bridi] composed of x2
+ mu'e      NU1      evento puntual                            abstractor: achievement (event) abstractor; x1 es the event-as-a-point/achievement of [bridi]
+ pu'u      NU1      proceso                                   abstractor: process (event) abstractor; x1 es process of [bridi] proceeding in stages x2
+ za'i      NU1      estado                                    abstractor: state (event) abstractor; x1 es continuous state of [bridi] being true
+ nu'a      NUhA     operador a selbri                         convierte mathematical expression (mex) operator to a selbri/tanru component
  nu'i      NUhI     start fore termset                        start forethought termset construct; marks start of place structure set con logical connection
  nu'u      NUhU     end fore termset                          terminador elisible: end forethought termset; usually elisible except con following sumti
  paki'o    PA*      1,000                                     número/cantidad: 1,000 
@@ -731,8 +731,8 @@
  baba      PU*      will be going to                          tiempo verbal: will be going to; (tense/modal)
  bapu      PU*      will have been                            tiempo verbal: will have been; (tense/modal)
  ra'o      RAhO     pro-assign update                         flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi
- re'u      ROI      ordinal tense                             converts número to an objectively quantified ordinal modificador de intervalo; defaults to time
- roi       ROI      quantified tense                          converts número to an objectively quantified modificador de intervalo; defaults to tiempo verbal
+ re'u      ROI      ordinal tense                             convierte número to an objectively quantified ordinal modificador de intervalo; defaults to time
+ roi       ROI      quantified tense                          convierte número to an objectively quantified modificador de intervalo; defaults to tiempo verbal
  so'uroi   ROI*     unas pocas veces                          modificador de intervalo: unas pocas veces 
  roroi     ROI*     siempre                                   modificador de intervalo: siempre, cada vez 
  fe'eroroi ROI*     en todos lados                            modificador de intervalo espacial: en todos lados, en cada lugar
@@ -754,8 +754,8 @@
  ve        SE       4ta conversión                            4ta conversión; intercambia 1er/4to argumentos
  xe        SE       5ta conversión                            5ta conversión; intercambia 1er/5to argumentos
  jaigau    SE*      agent conversión                          makes x1 the agent of a bridi; old 1er argumento moves to extra place (fai)
- jaivi     SE*      location conversión                       convert location tense (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
- jaica     SE*      time conversión                           convert tiempo verbal (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
+ jaivi     SE*      location conversión                       convierte location tense (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
+ jaica     SE*      time conversión                           convierte tiempo verbal (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
  sei       SEI      bridi discursivo                          start discursivo (metalinguistic) bridi
  ti'o      SEI      mex precedence                            mathematical expression (mex) operator precedence (discursivo)
  se'u      SEhU     fin discursivo                            terminador elisible: end discursivo bridi or mathematical precedence;usually elisible
@@ -771,7 +771,7 @@
  ta'enai   TAhE*    no habitualmente                          modificador de intervalo: no habitualmente 
  ru'inai   TAhE*    ocasionalmente                            modificador de intervalo: ocasional/intermitente/discontinuamente 
  tei       TEI      lerfu compuesto                           composite letra follows; used for muti-character letras
- te'u      TEhU     end mex converters                        terminador elisible: end conversión between non-mex and mex; usually elisible
+ te'u      TEhU     end mex convierteers                        terminador elisible: end conversión between non-mex and mex; usually elisible
  to'i      TO       editorial unquote                         open editorial unquote (within a quote); contains grammatical text; mark con editorial insert
  to        TO       abre paréntesis                           left parenthesis; start of parenthetical note which must be grammatical Lojban text
  toi       TOI      cierra paréntesis                         terminador elisible: right parenthesis/end unquote; seldom elisible except at end of text
