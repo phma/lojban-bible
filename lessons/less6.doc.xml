@@ -1,1105 +1,1 @@
-<chapter id="less6"><title>Time and Space &mdash; basic Lojban <quote
-role="socalled">tenses</quote></title>
-
-<para>By this time, you may have been wondering what had happened to all
-the tenses. After all, a large part of learning a language is learning
-tenses, and figuring out which one you ought to be using. English, for
-example, has about a dozen tenses (depending on what you count as a tense)
-and some languages have more. Use the wrong one and you're, well, wrong. In
-addition, there are a load of words and phrases like
-<wordasword>before</wordasword>, <wordasword>in a while</wordasword>,
-<wordasword>some time ago</wordasword> and so on.
-
-
-</para> <para>Lojban deals with time quite differently. Like some other
-languages (e.g. Chinese), tense is not compulsory. All the <foreignphrase
-lang="loj">bridi</foreignphrase> we've looked at so far have had no
-particular time attatched to them, and this is perfectly acceptable, in
-fact it is <emphasis>normal</emphasis>. Saying <foreignphrase lang="loj">mi
-klama ti de'i la redjed.</foreignphrase> is good Lojban, even if out of
-context we don't know if it means I'm coming here next Monday, or I came
-here last Monday. In most cases, sentences don't happen out of context, and
-the context is usually enough to tell us if we're talking about the past,
-present or future. Putting a past tense in just because the same sentence
-in English would be in the past tense can be rather <foreignphrase
-lang="loj">malglico</foreignphrase>.
-
-
-</para>
-
-
-<sect1 id="less6sumtitime"><title>Time with <foreignphrase 
-lang="loj">sumti</foreignphrase></title>
-
-<para>There are times, though, when you want to say things about time, and
-Lojban has more than enough <foreignphrase lang="loj">cmavo</foreignphrase>
-for this. Let's say that Zhang left the bar at 10 o'clock and Susan arrived
-at 11 (thus missing her date). The most precise way is to use times, as in
-the last lesson:
-
-<informalexample><para><foreignphrase lang="loj">la jang. cliva le barja
-ti'u la jaucac. .i la la suzyn. klama le barja ti'u la
-feicac.</foreignphrase></para></informalexample>
-
-However, if the actual times are not important, we can say:
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">ba lenu la jang. cliva kei la suzyn. klama le barja</foreignphrase>
-After Zhang left, Susan came into the bar.
-</literallayout>
-</informalexample>
-or
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">pu lenu la suzyn. klama le barja kei la jang. cliva</foreignphrase>
-Before Susan came into the bar, Zhang left.
-</literallayout>
-</informalexample>
-
-or more naturally,
-
-<informalexample><para>When Susan came into the bar, Zhang had already
-left.</para></informalexample>
-
-(This, by the way, is another case of context meaning you don't have to put
-everything in &mdash; we haven't said that the place Zhang leaves is the
-bar, we just understand it from the context.)
-
-
-</para> <para> What are these <foreignphrase
-lang="loj">ba</foreignphrase>'s, <foreignphrase
-lang="loj">pu</foreignphrase>'s and <foreignphrase
-lang="loj">kei</foreignphrase>'s? Well, the <foreignphrase
-lang="loj">kei</foreignphrase>'s you hopefully remember from the previous
-lesson: they close off the phrase opened by the <foreignphrase
-lang="loj">nu</foreignphrase>. As you probably guessed, <foreignphrase
-lang="loj">ba</foreignphrase> is <quote role="gloss">after</quote> (from
-the <foreignphrase lang="loj">gismu</foreignphrase> for <quote
-role="gloss">future</quote> or <quote role="gloss">later</quote>,
-<foreignphrase lang="loj">balvi</foreignphrase>) and <foreignphrase
-lang="loj">pu</foreignphrase> is <quote role="gloss">before</quote> (from
-the <foreignphrase lang="loj">gismu</foreignphrase> for <quote
-role="gloss">past</quote> or <quote role="gloss">earlier</quote>,
-<foreignphrase lang="loj">purci</foreignphrase>).
-
-</para>
-
-<para>If we only want to say that Susan came to the bar later, and Zhang's
-leaving is unimportant or understood, we can then say:
-
-
-<informalexample><para><foreignphrase lang="loj">baku la suzyn. klama le
-barja</foreignphrase> </para></informalexample>
-
-
-<foreignphrase lang="loj">baku</foreignphrase> here is not a city in
-Azerbaijan; it means <quote role="gloss">afterwards</quote> or <quote
-role="gloss">later</quote>. The <foreignphrase
-lang="loj">ku</foreignphrase> is necessary to separate the <foreignphrase
-lang="loj">ba</foreignphrase> from <foreignphrase lang="loj">la
-suzyn.</foreignphrase> (you can also say it as two separate words,
-<foreignphrase lang="loj">ba ku</foreignphrase> &mdash; it makes no
-difference). Similarly, <quote>Zhang left earlier</quote> or <quote>Zhang
-had left</quote> would be:
-
-
-<informalexample><para><foreignphrase lang="loj">puku la jang.
-cliva</foreignphrase></para> </informalexample>
-
-</para>
-
-<note><para>What's actually going on is that <foreignphrase
-lang="loj">ba</foreignphrase> starts a <foreignphrase
-lang="loj">sumti</foreignphrase>, and <foreignphrase
-lang="loj">ku</foreignphrase> ends the <foreignphrase
-lang="loj">sumti</foreignphrase> &mdash; but the <foreignphrase
-lang="loj">sumti</foreignphrase> itself has been left out. So
-<foreignphrase lang="loj">ba ku</foreignphrase> means <foreignphrase
-lang="loj">ba ... ku</foreignphrase>: <quote role="gloss">after
-[something].</quote> This is just the same as saying <foreignphrase
-lang="loj">ba zo'e</foreignphrase>. (Remember that <foreignphrase
-lang="loj">zo'e</foreignphrase> is the placeholder you use when you don't
-care what a <foreignphrase lang="loj">sumti</foreignphrase> is.)</para>
-
-<para>If we didn't have the <foreignphrase lang="loj">ku</foreignphrase> in
-place, the <foreignphrase lang="loj">ba</foreignphrase> would swallow up
-any <foreignphrase lang="loj">sumti</foreignphrase> following it. So
-<foreignphrase lang="loj">ba la jang. cliva</foreignphrase> means not
-<quote>afterwards Zhang left</quote>, but <quote>after Zhang, (she)
-left.</quote> What the left-out <foreignphrase
-lang="loj">sumti</foreignphrase> in <foreignphrase
-lang="loj">baku</foreignphrase> means depends on the context &mdash; just
-as what <wordasword>afterwards</wordasword> is actually after. </para>
-</note>
-
-<para>
-Let's imagine that Susan is not so unlucky, and arrives just as Zhang is
-leaving.  We can then say:
-
-<informalexample><literallayout>
-<foreignphrase lang="loj">caku la suzyn. klama le barja</foreignphrase>
-At that moment, Susan came.</literallayout>
-</informalexample>
-
-which is an easier way to say
-
-<informalexample><para><foreignphrase lang="loj">ca lenu la jang. cliva le
-barja kei la suzyn. klama le barja</foreignphrase></para></informalexample>
-
-</para>
-
-<note><para>There is a difference between <foreignphrase
-lang="loj">ku</foreignphrase> and <foreignphrase
-lang="loj">kei</foreignphrase> here: <foreignphrase
-lang="loj">ku</foreignphrase> separates the <foreignphrase
-lang="loj">ca</foreignphrase> from the rest of the sentence, while
-<foreignphrase lang="loj">kei</foreignphrase> terminates an event. We could
-have said <foreignphrase lang="loj">le barja ku kei ku</foreignphrase>: the
-first <foreignphrase lang="loj">ku</foreignphrase> matches <foreignphrase
-lang="loj"><emphasis>le</emphasis> barja</foreignphrase>, the
-<foreignphrase lang="loj">kei</foreignphrase> matches <foreignphrase
-lang="loj"><emphasis>nu</emphasis> la jang. cliva le barja</foreignphrase>,
-and the second <foreignphrase lang="loj">ku</foreignphrase> matches
-<foreignphrase lang="loj"><emphasis>le</emphasis>nu la jang. cliva le
-barja</foreignphrase>. Because the syntax is unambiguous, we could even
-have said <foreignphrase lang="loj">lenu la jang. cliva le barja ku
-ku</foreignphrase> &mdash; though we might be thought slightly cuckoo to
-say it like that.)
-
-</para></note>
-
-<para>
-<foreignphrase lang="loj">ca</foreignphrase> also comes from a
-<foreignphrase lang="loj">gismu</foreignphrase>, in this case
-<foreignphrase lang="loj">cabna</foreignphrase>, which means
-<quote role="gloss">now</quote> or <quote role="gloss">simultaneous with</quote>, so another way to
-say the same thing would be
-
-
-<informalexample><literallayout>
-<foreignphrase lang="loj">lenu la jang. cliva le barja cu cabna lenu la suzyn. klama le barja</foreignphrase>
-The event of Zhang leaving the bar is simultaneous with the event of Susan coming to the bar.</literallayout>
-</informalexample>
-
-</para>
-
-<para>We now have three <quote role="socalled">time words</quote>:
-<foreignphrase lang="loj">pu</foreignphrase> (before), <foreignphrase
-lang="loj">ca</foreignphrase> (at, while) and <foreignphrase
-lang="loj">ba</foreignphrase> (after). We can modify these with another
-three, <foreignphrase lang="loj">zi</foreignphrase>, <foreignphrase
-lang="loj">za</foreignphrase> and <foreignphrase
-lang="loj">zu</foreignphrase> (series of <foreignphrase
-lang="loj">cmavo</foreignphrase> often take an <foreignphrase
-lang="loj">-i, -a, -u</foreignphrase> pattern, if they don't follow the
-<foreignphrase lang="loj">AEIOU</foreignphrase> sequence). These mean a
-short, medium and long time distance. So <foreignphrase
-lang="loj">puzi</foreignphrase> is <quote role="gloss">a short time
-ago,</quote> <foreignphrase lang="loj">puza</foreignphrase> is <quote
-role="gloss">a while ago</quote> and <foreignphrase
-lang="loj">puzu</foreignphrase> is <quote role="gloss">a long time
-ago</quote>. How long <quote role="gloss">long</quote> is depends on what
-we're talking about &mdash; if the subject is archeology, <foreignphrase
-lang="loj">puzu</foreignphrase> could be thousands of years; if you've
-missed your train it could be a matter of minutes.
-</para> 
-
-<para>
-Let's say this time the unlucky Susan missed Zhang by only a few minutes. 
-We could then say:
-
-
-<informalexample><para>
-<foreignphrase lang="loj">bazi lenu la jang. cliva kei la suzyn. klama le
-barja</foreignphrase></para></informalexample>
-
-
-or as two <foreignphrase lang="loj">bridi</foreignphrase>,
-
-
-<informalexample><para><foreignphrase lang="loj">la jang. cliva le barja
-.i caziku la suzyn. klama</foreignphrase></para></informalexample></para>
-
-<simplesect role="vocab"><title>Vocabulary</title>
-<variablelist>
-
-<varlistentry><term><foreignphrase
-lang="loj">badri</foreignphrase></term><listitem><para>x1 is
-sad/depressed/dejected/[unhappy/feels sorrow/grief] about x2
-(abstraction)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">gleki</foreignphrase></term><listitem><para>x1 is
-happy/gay/merry/glad/gleeful about x2
-(event/state)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">ku'i</foreignphrase></term><listitem><para>but, however (This is
-an attitudinal, just like <foreignphrase lang="loj">.uu</foreignphrase> and
-<foreignphrase
-lang="loj">.ei</foreignphrase>)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">kumfa</foreignphrase></term><listitem><para>x1 is a room of/in
-structure x2 surrounded by partitions/walls/ceiling/floor x3
-(mass/jo'u)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">tcidu</foreignphrase></term><listitem><para>x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader</para></listitem></varlistentry>
-
-
-</variablelist>
-
-</simplesect>
-
-
-<simplesect role="exercise"><title>Exercise 1</title>
-
-<para>Translate the following. Don't forget your <foreignphrase
-lang="loj">nu</foreignphrase>'s and <foreignphrase
-lang="loj">kei</foreignphrase>'s!
-
-
-<orderedlist>
-
-
-<listitem><para>Juliette went to Paris a while ago.</para></listitem>
-
-
-<listitem><para>A long time ago, I read <citetitle>Camille.</citetitle></para></listitem>
-
-
-<listitem><para>Ivan just left.</para></listitem>
-
-
-<listitem><para>Yoshiko kissed Jorge just after Pierre came into the room.</para></listitem>
-
-
-<listitem><para>Tracy was sad just a minute ago.  But Mike is happy now.</para></listitem>
-
-
-</orderedlist>
-</para>
-</simplesect>
-
-
-</sect1>
-
-
-<sect1 id="less6selbritime"><title>Time and <foreignphrase 
-lang="loj">selbri</foreignphrase></title>
-
-<para>What we've looked at so far is similar to (but not quite the same as)
-English words like <wordasword>before</wordasword>,
-<wordasword>after</wordasword> and so on. However, we can use exactly the
-same <foreignphrase lang="loj">cmavo</foreignphrase> with <foreignphrase
-lang="loj">selbri</foreignphrase> to give effects which are similar (but
-not identical) to English tenses. Actually this is easier, but I left it
-till later to avoid the danger of <foreignphrase
-lang="loj">malglico</foreignphrase>!
-
-
-</para> <para> Basically, any time <foreignphrase
-lang="loj">cmavo</foreignphrase> can go before a <foreignphrase
-lang="loj">selbri</foreignphrase> and put the whole <foreignphrase
-lang="loj">bridi</foreignphrase> into that time. So
-
-
-<informalexample><para> <foreignphrase lang="loj">la jang. pu cliva le
-barja</foreignphrase></para></informalexample>
-
-
-means <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left the
-bar.</quote> We can do the same thing with <foreignphrase
-lang="loj">zi/za/zu</foreignphrase>, so <foreignphrase lang="loj">la jang.
-puza cliva le barja</foreignphrase> means <quote>Zhang left the bar a while
-ago.</quote>
-
-
-</para> 
-
-<para>Another group of <foreignphrase
-lang="loj">cmavo</foreignphrase> which can be used here is <foreignphrase
-lang="loj">ze'i/ze'a/ze'u</foreignphrase>. Just as <foreignphrase
-lang="loj">zi/ze/zu</foreignphrase> indicate a short, medium or long time
-from the present (or whatever other time we happen to be talking about),
-these <foreignphrase lang="loj">cmavo</foreignphrase> indicate short,
-medium or long durations for the action or state we are talking about. So
-<foreignphrase lang="loj">mi ze'u bajra</foreignphrase> means <quote>I run
-for a long time.</quote> Again, we can put these together, so
-<foreignphrase lang="loj">mi puzaze'u bajra</foreignphrase> means <quote>A
-while ago, I ran for a long time.</quote> A few more examples ...
-
-
-<itemizedlist>
-
-<listitem> <para>
-<literallayout>
-<foreignphrase lang="loj">oi.uinai le mi zdani puzi se darxi lo lindi</foreignphrase>
-Oh no! My house has just been struck by lightning! (Every language course has to have a few of these ridiculously artificial examples!) </literallayout>
-
-Note that if you have a tense before the <foreignphrase
-lang="loj">selbri</foreignphrase> you don't need <foreignphrase
-lang="loj">cu</foreignphrase> &mdash; <foreignphrase lang="loj">le
-zdani</foreignphrase> cannot run into <foreignphrase
-lang="loj">puzi</foreignphrase> to form a single <foreignphrase
-lang="loj">sumti</foreignphrase>.
-
-</para>
-</listitem>
-
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="loj">la bil. ze'u pinxe loi birje</foreignphrase>
-Bill drinks beer for a long time.
-</literallayout>
-Remember: you don't drink something which is <emphasis>a</emphasis> beer, but 
-rather something which is <emphasis>some</emphasis> beer. As discussed way 
-back in <link linkend="less4">Lesson 4</link>, that means a mass rather than an individual.
-</para></listitem>
-
-<listitem>
-<para>
-<literallayout>
-<foreignphrase lang="loj">mi bazize'a xabju la djakartas.</foreignphrase>
-Pretty soon I'm going to live in Jakarta for a while.
-</literallayout>
-
-</para></listitem>
-
-<listitem>
-<para>
-
-<literallayout>
-<foreignphrase lang="loj">lo la natos. vinji baze'u gunta la BE,ograd.</foreignphrase>
-NATO aircraft will attack Belgrade for a long time.</literallayout>
-</para>
-</listitem>
-
-</itemizedlist>
-
-
-</para> 
-
-<para>Note that this does not mean that NATO is not attacking Belgrade now
-(it is at the time I'm writing this). In Lojban, if we say that something
-is true at a particular time, it <emphasis>doesn't</emphasis> mean that it
-is <emphasis>not</emphasis> true at any other time. There are ways to say
-that NATO will <emphasis>continue</emphasis> to attack, but that comes
-later. (Sorry, I know I keep saying that things will come later, but you
-wouldn't really want to have to learn everything at once &mdash; it would
-be like an English course teaching <wordasword>will go</wordasword> and
-<wordasword>will have been going</wordasword> in the same lesson). A
-complete explation of time <foreignphrase lang="loj">cmavo</foreignphrase>
-can be found in Chapter 10 of <citetitle>The Complete Lojban
-Language</citetitle>.
-
-</para>
-</sect1>
-
-
-
-<sect1 id="less6space"><title>Space</title>
-
-<para>This is where things start getting strange. In Lojban, space can be a
-<quote role="socalled">tense</quote> just as much as time. This is because
-there is no difference between what traditional grammar calls <quote
-role="socalled">prepositions</quote> and tenses. As we've seen, English,
-like many languages, treats a word like <wordasword>earlier</wordasword>
-and the past tense ending <wordasword>-ed</wordasword> as two totally
-separate things, while in Lojban they're the same: they both locate an
-event in time. Space words like <wordasword>in</wordasword> or
-<wordasword>near</wordasword> are prepositions in English, and can never be
-tenses, but in Lojban we treat them just like time words: they locate
-events in space (or if you prefer, you can say that Lojban treats time as a
-dimension, as in Einstein's physics).
-
-
-</para>
-
-<para>Remember the word <foreignphrase lang="loj">ti</foreignphrase>? This
-is part of a series <foreignphrase lang="loj">ti, ta, tu</foreignphrase>,
-meaning roughly <quote role="gloss">this</quote>, <quote
-role="gloss">that</quote> and <quote role="gloss">that over there.</quote>
-If we're talking about places rather than things, we say <foreignphrase
-lang="loj">vi, va, vu</foreignphrase>, meaning roughly <quote
-role="gloss">here</quote>, <quote role="gloss">there</quote> and <quote
-role="gloss">yonder</quote> or <quote role="gloss">way over there</quote>.
-Again, this is determined by the thing you're talking about. If you're
-telling a doctor where you feel pain, <foreignphrase
-lang="loj">ti</foreignphrase> might be the end of your toe, while if you're
-talking about astronomy, <foreignphrase lang="loj">ti</foreignphrase> could
-be the solar system. We can therefore say
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">viku mi gunka</foreignphrase>
-Here, I work.</literallayout>
-</informalexample>
-
-or, more naturally, <quote>I work here.</quote>
-
-
-</para>
-
-<para>We've seen that <foreignphrase lang="loj">puku</foreignphrase> means
-<quote role="gloss">before something</quote> (as in <foreignphrase
-lang="loj">pu lenu la jang. cliva kei</foreignphrase>). Similarly,
-<foreignphrase lang="loj">vi ku</foreignphrase> means <quote
-role="gloss">at the location of something</quote>, and we can expand it in
-the same way to say what the <quote role="gloss">something</quote> is, e.g.
-
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">vi la paris. mi gunka</foreignphrase>
-In Paris, I work.</literallayout>
-</informalexample>
-
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">vu le mi zdani mi gunka</foreignphrase>
-A long way from my home, I work</literallayout>
-</informalexample>
-
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">va lenu la KEnedis. se catra kei mi gunka</foreignphrase>
-A medium distance from where Kennedy was killed, I work</literallayout>
-</informalexample>
-
-
-</para>
-
-<para>Note the <foreignphrase lang="loj">kei</foreignphrase> &mdash; if it
-wasn't there, <foreignphrase lang="loj">catra</foreignphrase> would run
-into <foreignphrase lang="loj">mi</foreignphrase>, so the listener might
-start interpreting the sentence as <quote>A medium distance from where
-Kennedy was killed by me ...</quote>
-
-
-</para> 
-
-<para>Just like the time <foreignphrase lang="loj">cmavo</foreignphrase>,
-place <foreignphrase lang="loj">cmavo</foreignphrase> can be attatched to
-<foreignphrase lang="loj">selbri</foreignphrase>. For example, instead of
-saying <foreignphrase lang="loj">viku mi gunka</foreignphrase>, you can say
-<foreignphrase lang="loj">mi vi gunka</foreignphrase> &mdash; <quote>I
-here-work.</quote> Again, this sounds odd in English, but one of the
-purposes of Lojban is to encourage you to say things in different ways,
-which may lead to being able to say different things. Lojban expands the
-mind (warning: unproven Lojban propaganda!).
-
-
-</para> 
-
-<para>If we combine place <foreignphrase lang="loj">vi</foreignphrase> etc.
-with <foreignphrase lang="loj">fa'a</foreignphrase>, they become more
-productive. <foreignphrase lang="loj">fa'a</foreignphrase> is a place
-<foreignphrase lang="loj">cmavo</foreignphrase> meaning <quote
-role="gloss">towards</quote>, so <foreignphrase
-lang="loj">fa'avi</foreignphrase> is <quote role="gloss">here</quote> as
-direction, as in <quote>come here</quote>. For example:
-
-<informalexample>
-<literallayout>
-<foreignphrase lang="loj">la bil. fa'avi bajra</foreignphrase>
-Bill towards-this-place runs
-Bill runs here.</literallayout>
-</informalexample>
-
-</para>
-
-<para>Note that the more natural translation is ambiguous, since it could
-also translate <foreignphrase lang="loj">la bil. vi bajra</foreignphrase>,
-meaning that this is where Bill runs, not where he runs
-<emphasis>to</emphasis>. This may pass unnoticed by native English
-speakers, but speakers of languages which are more precise about direction
-find it extremely vague (Turkish, for example, has at least three words to
-translate <quote role="gloss">here</quote>). There is a whole class of
-<foreignphrase lang="loj">cmavo</foreignphrase> that work like
-<foreignphrase lang="loj">fa'a</foreignphrase>, and they are called FAhA
-type <foreignphrase lang="loj">cmavo</foreignphrase>, unsurprisingly. These
-include <foreignphrase lang="loj">to'o</foreignphrase> (away from),
-<foreignphrase lang="loj">zu'a</foreignphrase> (to the left of),
-<foreignphrase lang="loj">ri'u</foreignphrase> (to the right of),
-<foreignphrase lang="loj">ne'i</foreignphrase> (within) and so on. (Again,
-all the space <foreignphrase lang="loj">cmavo</foreignphrase> are explained
-in Chapter 10 of <citetitle>The Complete Lojban Language</citetitle>).
-
-
-</para> 
-
-<para>We can also combine time and space. For example, <foreignphrase
-lang="loj">mi vipuzu gunka</foreignphrase> means <quote>I
-here-past-long-time-distance work</quote>, or <quote>I used to work here a
-long time ago.</quote> A common expression with <foreignphrase
-lang="loj">ku</foreignphrase> is <foreignphrase
-lang="loj">puzuvuku</foreignphrase>, meaning <quote role="gloss">long ago
-and far away</quote> &mdash; a standard way to begin a fairy story or
-legend!
-
-
-</para> 
-
-<para>Getting back to daily speech, these time and space <foreignphrase
-lang="loj">cmavo</foreignphrase> are very useful for questions.
-<foreignphrase lang="loj">ca ma</foreignphrase> is <quote
-role="gloss">simultaneous with what?</quote>, or in other words, <quote
-role="gloss">when?</quote> (a simpler alternative to <foreignphrase
-lang="loj">ti'u</foreignphrase> or <foreignphrase
-lang="loj">di'e</foreignphrase>). Similarly, <foreignphrase lang="loj">vi
-ma</foreignphrase> means <quote role="gloss">at the location of
-what?</quote>, or <quote role="gloss">where?</quote>
-
-
-</para> 
-
-<simplesect role="vocab"><title>Vocabulary</title>
-<variablelist>
-
-<varlistentry><term><foreignphrase
-lang="loj">cadzu</foreignphrase></term><listitem><para>x1
-walks/strides/paces on surface x2 using limbs
-x3</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">xabju</foreignphrase></term><listitem><para>x1
-dwells/lives/resides/abides at/inhabits/is a resident of
-location/habitat/nest/home/abode x2</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">zutse</foreignphrase></term><listitem><para>x1 sits [assumes
-sitting position] on surface x2</para></listitem></varlistentry>
-
-
-</variablelist>
-
-</simplesect>
-
-
-
-<simplesect role="exercise"><title>Exercise 2</title>
-
-<para>
-Translate the following.
-
-
-<orderedlist>
-
-
-<listitem><para><foreignphrase lang="loj">zdani do vi ma</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">la bil. puzavi zutse</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">le cipni puzifa'ava vofli</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">la tcarlz.daruin. puva xabju</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">mi bafa'avu cadzu</foreignphrase></para></listitem>
-
-</orderedlist>
-</para>
-</simplesect>
-</sect1>
-
-<sect1 id="less6neg"><title>More negativity</title>
-
-<para>We have already seen <foreignphrase lang="loj">na</foreignphrase>
-used to turn <foreignphrase lang="loj">bridi</foreignphrase> into negative
-statements, of the type <quote>it is not true that.</quote> And we saw that
-this sometimes leads to slightly unexpected effects compared to English
-<wordasword>not</wordasword>. For instance, in <link linkend="less4">Lesson
-4</link> we saw that <foreignphrase lang="loj">mi na nelci ro
-gerku</foreignphrase> means <quote>it is not true that I like all
-dogs</quote> (or <quote>I don't like <emphasis>all</emphasis>
-dogs</quote>). It does not mean <quote>I don't like any
-dogs.</quote></para>
-
-<para><foreignphrase lang="loj">na</foreignphrase> says not only that the
-<foreignphrase lang="loj">sumti</foreignphrase> aren't connected by that
-particular <foreignphrase lang="loj">selbri</foreignphrase>, but that they
-aren't necessarily connected by any selbri at all. So <foreignphrase
-lang="loj">mi na tavla la suzyn.</foreignphrase> is just as valid a thing
-to say if Susan is a rock formation in the Pamir Mountains, as it is if she
-is a human being I know. Often, however, we need our negation to be a
-little less powerful. In particular, it is useful to be able to say, not
-that the whole <foreignphrase lang="loj">bridi</foreignphrase> is false,
-but only the <foreignphrase lang="loj">selbri</foreignphrase>. This means
-that there <emphasis>is</emphasis> some relationship between the
-<foreignphrase lang="loj">sumti</foreignphrase> &mdash; but this
-<foreignphrase lang="loj">selbri</foreignphrase> isn't it.</para>
-
-<para>The word used to negate just the <foreignphrase
-lang="loj">selbri</foreignphrase>, and not the entire <foreignphrase
-lang="loj">bridi</foreignphrase>, is <foreignphrase
-lang="loj">na'e</foreignphrase>. So if we say <foreignphrase lang="loj">mi
-na nelci ro gerku</foreignphrase>, that could be true even if I have no
-feelings at all about the canine species. With <foreignphrase lang="loj">mi
-<emphasis>na'e</emphasis> nelci ro gerku</foreignphrase>, on the other
-hand, there is something that can be said about me and all dogs; but it's
-not that I like them. It isn't necessarily that I hate them: I might write
-poems about them, or prescribe medicine for them, or imitate them in polite
-company. But like them, I don't.</para>
-
-<para>If you do want to say you feel the opposite of <quote
-role="gloss">like</quote> for all dogs, you can say <foreignphrase
-lang="loj">mi to'e nelci ro gerku</foreignphrase>. <foreignphrase
-lang="loj">to'e</foreignphrase> turns a selbri into its opposite:
-<foreignphrase lang="loj">to'e nelci</foreignphrase> is not a million miles
-away from <foreignphrase lang="loj">xebni</foreignphrase> <quote
-role="gloss">hate</quote>. And if you're indifferent, you can say
-<foreignphrase lang="loj">no'e nelci</foreignphrase> &mdash; <foreignphrase
-lang="loj">no'e</foreignphrase> indicating that you're neutral on the scale
-the <foreignphrase lang="loj">selbri</foreignphrase> indicates.</para>
-
-<para>Like time and space, Lojban places negation on a kind of scale, from
-lesser to greater extent. This <quote role="socalled">shades of
-grey</quote> approach pervades the language; you will see it time and again
-in the grammar. It makes for an interesting contrast with the theoretical
-basis for the language, classical logic &mdash; which is very much a <quote
-role="socalled">black and white</quote> domain. </para>
-
-<simplesect role="exercise"><title>Exercise 3</title>
-
-<para>Now that you have three new negative words, let's see if you can use 
-them. Give Lojban equivalents for the following English words, given their 
-Lojban <quote role="socalled">opposites</quote> and the <foreignphrase 
-lang="loj">cmavo</foreignphrase> we've just learned.
-
-
-<orderedlist>
-
-<listitem><para>disinterested (<foreignphrase 
-lang="loj">cinri</foreignphrase>: interested)</para></listitem>
-
-<listitem><para>uninterested (<foreignphrase 
-lang="loj">cinri</foreignphrase>: interested)</para></listitem>
-
-<listitem><para>bored (<foreignphrase 
-lang="loj">cinri</foreignphrase>: interested)</para></listitem>
-
-<listitem><para>unborn (<foreignphrase 
-lang="loj">jbena</foreignphrase>: born)</para></listitem>
-
-<listitem><para>uncover (<foreignphrase 
-lang="loj">gairgau</foreignphrase>: cover)</para></listitem>
-
-<listitem><para>undead (<foreignphrase 
-lang="loj">morsi</foreignphrase>: dead)</para></listitem>
-
-<listitem><para>non-Lojban (<foreignphrase 
-lang="loj">lojbo</foreignphrase>: Lojban(ic))</para></listitem>
-
-<listitem><para>un-Lojbanic (<foreignphrase 
-lang="loj">lojbo</foreignphrase>: Lojban(ic))</para></listitem>
-
-<listitem><para>plain (<foreignphrase 
-lang="loj">melbi</foreignphrase>: beautiful)</para></listitem>
-
-<listitem><para>imaginary (<foreignphrase 
-lang="loj">facti</foreignphrase>: factual, real)</para></listitem>
-
-</orderedlist>
-</para>
-</simplesect>
-
-
-</sect1>
-
-<sect1 id="less6summary"><title>Summary</title>
-
-<para>
-In this lesson we have covered the following:
-
-
-<orderedlist>
-
-
-<listitem><para>Time <foreignphrase lang="loj">cmavo</foreignphrase>: <foreignphrase lang="loj">pu,
-ca,</foreignphrase> and <foreignphrase
-lang="loj">ba</foreignphrase>.</para></listitem>
-
-
-<listitem><para>Time intervals: <foreignphrase lang="loj">zi,
-za</foreignphrase> and <foreignphrase lang="loj">zu</foreignphrase>.</para></listitem>
-
-
-<listitem><para>Duration: <foreignphrase lang="loj">ze'i,
-ze'a</foreignphrase> and <foreignphrase
-lang="loj">ze'u</foreignphrase>.</para></listitem>
-
-
-<listitem><para>Location: <foreignphrase lang="loj">vi, va</foreignphrase>
-and <foreignphrase lang="loj">vu</foreignphrase>.</para></listitem>
-
-<listitem><para>Negation: <foreignphrase lang="loj">na'e, no'e</foreignphrase>
-and <foreignphrase lang="loj">to'e</foreignphrase>.</para></listitem>
-
-
-</orderedlist>
-
-
-There are many more <foreignphrase lang="loj">cmavo</foreignphrase> to
-describe time and space (and a couple more for negation, for that matter),
-but they are only there if you need them. In fact, unless you want to be
-specific about time or space, you don't even need the ones in this lesson.
-Remember the golden rule of Lojban grammar: <emphasis>If you don't need it,
-don't use it!</emphasis> Lojban grammar is your servant, not your master.
-</para>
-
-<simplesect role="vocab"><title>Vocabulary</title>
-<variablelist>
-
-<varlistentry><term><foreignphrase
-lang="loj">culno</foreignphrase></term><listitem><para>x1 is
-full/completely filled with x2</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">kunti</foreignphrase></term><listitem><para>x1 [container] is
-empty/vacant of x2 [material]; x1 is
-hollow</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">lebna</foreignphrase></term><listitem><para>x1
-takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from x3
-(possessor) </para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">pendo</foreignphrase></term><listitem><para>x1 is/acts as a
-friend of/to x2 (experiencer); x2 befriends
-x1</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="loj">sabji</foreignphrase></term><listitem><para>x1 [source]
-provides/supplies/furnishes x2 [supply/commodity] to x3
-[recipient]</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase lang=
-"loj">vanju</foreignphrase></term><listitem><para>x1 is made of/contains/is a quantity of wine from fruit/grapes x2</para></listitem></varlistentry>
-
-</variablelist>
-
-</simplesect>
-
-<simplesect role="exercise"><title>Exercise 4</title>
-
-<para>Translation exercises are not your master, either, but they are your business! Translate from 
-Lojban:
-
-
-<orderedlist>
-
-
-<listitem><para><foreignphrase lang="loj">.i baza lenu la jang. cliva kei la
-suzyn. cadzu fa'a ne'i vi le barja </foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">.i caziku la suzyn. denpa lenu baziku
-la jang. viska la suzyn.</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">.i la suzyn. viska re lo kabri</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">.i go'i pa lo pu
-culno .i go'i pa lo ca culno</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">.i le puzi culno ca kunti ba lenu la
-jang. pinxe loi birje pe ri</foreignphrase></para></listitem>
-
-<listitem><para><foreignphrase lang="loj">.i la suzyn. ze'i tavla le sabji </foreignphrase></para></listitem>
-
-
-<listitem><para><quote><foreignphrase lang="loj">.i ko lebna ta .i
-ko dunda lo cnino vanju botpi mi</foreignphrase></quote></para></listitem>
-
-
-<listitem><para><quote><foreignphrase lang="loj">.i .ei na dotco</foreignphrase></quote></para></listitem>
-
-
-</orderedlist>
-</para>
-</simplesect>
-
-<simplesect role="exercise"><title>Exercise 5</title>
-
-<para>
-Translate into Lojban these (hopefully much less brain-squelching than the 
-previous lesson's) sentences:
-
-
-<orderedlist>
-
-
-<listitem><para>A long time ago, Susan briefly lived at
-Zhang's.</para></listitem>
-
-
-<listitem><para>Now Susan lives some way away from Zhang.</para></listitem>
-
-
-<listitem><para>When Susan go to
-the house, she goes a little to the left of the bar.</para></listitem>
-
-
-<listitem><para>Every Thursday Susan
-goes to the bar, not far from the office.</para></listitem>
-
-
-<listitem><para>At the bar Susan meets Susan's
-long-time friends.</para></listitem>
-
-<listitem><para>Susan sits away from the German beer.</para></listitem>
-
-
-</orderedlist>
-</para>
-</simplesect>
-
-
-</sect1>
-
-
-
-<sect1 id="less6answers"><title>Answers to exercises</title>
-
-
-<simplesect role="excanswer"><title>Exercise 1</title>
-
-<para>
-<orderedlist>
-
-
-<listitem><para><foreignphrase lang="loj">puzaku la juLIET. cliva la paris.</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">puzuku mi tcidu la kaMIL.</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">puziku la iVAN. cliva le kumfa</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">bazi lenu la pi,ER. klama le kumfa 
-kei la .iocikos. cinba la xorxes.</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">puziku la treisis. badri .i ku'i caku la maik. gleki</foreignphrase></para></listitem>
-
-
-</orderedlist></para>
-</simplesect>
-
-<simplesect role="excanswer"><title>Exercise 2</title>
-<para>
-<orderedlist>
-
-
-<listitem><para>Where is your house? (Literally <quote>[something] is the house 
-of you at what?</quote>)</para></listitem>
-
-
-<listitem><para>Bill was sitting here a while ago.</para></listitem>
-
-
-<listitem><para>The bird just flew away.  (Literally <quote>the bird flew a short time ago to
-a medium distance from here.</quote>)</para></listitem>
-
-
-<listitem><para>Charles Darwin lived near here. (Note that we don't need
-<foreignphrase lang="loj">zu</foreignphrase> to specify that he lived near
-here a long time ago: we assume that the person we're talking to knows who
-Darwin was, and therfore knows that he lived over a century ago. In fact,
-you could even miss out the <foreignphrase lang="loj">pu</foreignphrase>,
-but I left it in to avoid confusion &mdash; maybe my friend thinks I'm
-talking about a different person with the same name, or that I'm somehow
-speaking metaphorically about the spirit of Darwin.)</para></listitem>
-
-
-<listitem><para>I will walk far away. (Again note the English has two meanings, since
-it could also mean that I will walk in some distant place.)</para></listitem>
-
-
-</orderedlist>
-</para>
-</simplesect>
-
-<simplesect role="excanswer"><title>Exercise 3</title>
-
-<para>
-<orderedlist>
-<listitem><para>disinterested: <foreignphrase 
-lang="loj">no'e cinri</foreignphrase></para></listitem>
-
-<listitem><para>uninterested: <foreignphrase 
-lang="loj">na'e cinri</foreignphrase> (The difference between 
-<wordasword>disinterested</wordasword> and <wordasword>uninterested</wordasword> 
-in English in slowly dying out &mdash; which makes the word a pedant's 
-delight!</para></listitem>
-
-<listitem><para>bored: <foreignphrase 
-lang="loj">to'e cinri</foreignphrase></para></listitem>
-
-<listitem><para>unborn: <foreignphrase lang="loj">na'e
-jbena</foreignphrase> (<foreignphrase lang="loj">no'e jbena</foreignphrase>
-would be someone in a twilight-zone between being born and not being born
-&mdash; perhaps the baby at the moment it emerges from the womb.
-<foreignphrase lang="loj">to'e jbena</foreignphrase> is the opposite of
-being born; what that may mean, up to and including crawling back into the
-womb, and dying, is pretty much up to you. The English expression is
-actually more like <quote role="gloss">not yet born</quote>, and we will
-find out how to say this in a few lessons' time.)</para></listitem>
-
-<listitem><para>uncover: <foreignphrase 
-lang="loj">to'e gairgau</foreignphrase> (<foreignphrase 
-lang="loj">na'e gairgau</foreignphrase> means simply <quote 
-role="gloss">not to cover</quote>, and <foreignphrase 
-lang="loj">no'e gairgau</foreignphrase> <quote 
-role="gloss">to leave ajar</quote>.)</para></listitem>
-
-<listitem><para>undead: <foreignphrase 
-lang="loj">no'e morsi</foreignphrase> (<foreignphrase 
-lang="loj">na'e morsi</foreignphrase> is someone alive, not a zombie. But 
-don't worry too much about the phenomenology of the occult; just be 
-comfortable in the knowledge that Lojban allows you to make these 
-distinctions, if you want to.)</para></listitem>
-
-<listitem><para>non-Lojban: <foreignphrase 
-lang="loj">na'e lojbo</foreignphrase> (<foreignphrase 
-lang="loj">na'e</foreignphrase> is frequently glossed as <quote 
-role="gloss">other than</quote>; this example may show you why.)</para></listitem>
-
-<listitem><para>un-Lojbanic: <foreignphrase 
-lang="loj">to'e lojbo</foreignphrase> (There is often something 
-subjective about how things are opposites to each other; using an 
-expression like this, you may well be asked to explain how something can 
-be the opposite of Lojban.)</para></listitem>
-
-<listitem><para>plain: <foreignphrase 
-lang="loj">no'e melbi</foreignphrase> (<foreignphrase 
-lang="loj">to'e melbi</foreignphrase> would be <quote 
-role="gloss">ugly</quote>, of course.)</para></listitem>
-
-<listitem><para>imaginary: <foreignphrase lang="loj">na'e
-facti</foreignphrase> (You can quibble about whether it's not more like
-<foreignphrase lang="loj">to'e facti</foreignphrase> or <foreignphrase
-lang="loj">no'e facti</foreignphrase>. That's why it's just as well <quote
-role="gloss">imaginary</quote> has its own <foreignphrase
-lang="loj">gismu</foreignphrase>: <foreignphrase
-lang="loj">xanri</foreignphrase>.)</para></listitem>
-
-</orderedlist>
-</para>
-</simplesect>
-
-
-<simplesect role="excanswer"><title>Exercise 4</title>
-
-<para><orderedlist>
-
-
-<listitem><para>A while after Zhang left, Susan walked into the bar.
-</para></listitem>
-
-
-<listitem><para>At that time, Susan expected that Zhang would soon 
-afterwards see Susan.</para></listitem>
-
-
-<listitem><para>Susan sees two cups.</para></listitem>
-
-
-<listitem><para>[She sees] one previously full one. [She sees] one
-currently full one.</para> <para>(It's amazing what can be tucked away in
-exercises. Yes, <foreignphrase lang="loj">sumti</foreignphrase> can have
-tenses in Lojban. There's no reason they can't: though there's an article
-in front of the <foreignphrase lang="loj">gismu</foreignphrase>, that
-<foreignphrase lang="loj">gismu</foreignphrase> is stil a <foreignphrase
-lang="loj">selbri</foreignphrase>, and so it still expresses a
-relationship. This means that <foreignphrase
-lang="loj">sumti</foreignphrase> have all the characteristics of
-<foreignphrase lang="loj">selbri</foreignphrase>: they have <foreignphrase
-lang="loj">sumti</foreignphrase> of their own &mdash; as we'll see later
-on; durations; locations; and tenses. This is an important way Lojban is
-different from many (though not all) natural languages: it has no essential
-grammatical difference between its <quote role="socalled">nouns</quote> and
-<quote role="socalled">verbs</quote>.)</para></listitem>
-
-
-<listitem><para>The one full just a little time ago is now empty after 
-Zhang drank its beer. (After <foreignphrase 
-lang="loj">pe</foreignphrase>, the <foreignphrase 
-lang="loj">sumti</foreignphrase> is still considered incomplete, so <foreignphrase 
-lang="loj">ri</foreignphrase> refers back to the preceding complete <foreignphrase 
-lang="loj">sumti</foreignphrase>.)</para></listitem>
-
-<listitem><para>Susan briefly talks to the supplier. (See? A better word for 
-<wordasword>barman</wordasword> already. Notice, too, that you can specify 
-a duration without specifying a tense.)</para></listitem>
-
-
-<listitem><para><quote>Take that away. Give me a new wine bottle.</quote></para></listitem>
-
-
-<listitem><para><quote>It should not be German.</quote></para></listitem>
-
-
-</orderedlist>
-</para>
-</simplesect>
-
-<simplesect role="excanswer"><title>Exercise 5</title>
-
-<para>
-<orderedlist>
-
-
-<listitem><para><foreignphrase lang="loj">.i puzuku la suzyn. ze'i xabju le
-la jang. zdani</foreignphrase> (You can't just say <foreignphrase
-lang="loj">xabju la jang.</foreignphrase> &mdash; you have to fill in the
-blank of Zhang's X.)</para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">.i la suzyn. ca xabju va la jang.</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">ca lenu la suzyn. klama le zdani
-kei la suzyn. klama zu'a vizi le barja</foreignphrase> (We don't really
-have a way for saying <wordasword>she</wordasword> &mdash; as you're
-probably painfully aware of by now. Take heart &mdash; relief is coming in
-the next lesson! Also, <foreignphrase lang="loj">fa'a</foreignphrase> isn't
-really necessary here; Susan's route is away from the bar, but not
-explicitly moving to or from it.)</para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">.i ca ro la vodjed. la suzyn. 
-klama le barja va le briju</foreignphrase></para></listitem>
-
-
-<listitem><para><foreignphrase lang="loj">vi le barja la suzyn. penmi le 
-la suzyn. ze'u pendo</foreignphrase> (Remember, <foreignphrase 
-lang="loj">sumti</foreignphrase> take tenses and durations, too.)</para></listitem>
-
-<listitem><para><foreignphrase lang="loj">.i la suzyn. zutse to'o le dotco 
-birje</foreignphrase></para></listitem>
-
-
-</orderedlist>
-</para>
-</simplesect>
-
-
-
-</sect1>
-</chapter>
-
+<chapter id="less6"><title>Time and Space &mdash; basic Lojban <quoterole="socalled">tenses</quote></title><para>By this time, you may have been wondering what had happened to allthe tenses. After all, a large part of learning a language is learningtenses, and figuring out which one you ought to be using. English, forexample, has about a dozen tenses (depending on what you count as a tense)and some languages have more. Use the wrong one and you're, well, wrong. Inaddition, there are a load of words and phrases like<wordasword>before</wordasword>, <wordasword>in a while</wordasword>,<wordasword>some time ago</wordasword> and so on.</para> <para>Lojban deals with time quite differently. Like some otherlanguages (e.g. Chinese), tense is not compulsory. All the <foreignphraselang="loj">bridi</foreignphrase> we've looked at so far have had noparticular time attatched to them, and this is perfectly acceptable, infact it is <emphasis>normal</emphasis>. Saying <foreignphrase lang="loj">miklama ti de'i la redjed.</foreignphrase> is good Lojban, even if out ofcontext we don't know if it means I'm coming here next Monday, or I camehere last Monday. In most cases, sentences don't happen out of context, andthe context is usually enough to tell us if we're talking about the past,present or future. Putting a past tense in just because the same sentencein English would be in the past tense can be rather <foreignphraselang="loj">malglico</foreignphrase>.</para><sect1 id="less6sumtitime"><title>Time with <foreignphrase lang="loj">sumti</foreignphrase></title><para>There are times, though, when you want to say things about time, andLojban has more than enough <foreignphrase lang="loj">cmavo</foreignphrase>for this. Let's say that Zhang left the bar at 10 o'clock and Susan arrivedat 11 (thus missing her date). The most precise way is to use times, as inthe last lesson:<informalexample><para><foreignphrase lang="loj">la jang. cliva le barjati'u la jaucac. .i la la suzyn. klama le barja ti'u lafeicac.</foreignphrase></para></informalexample>However, if the actual times are not important, we can say:<informalexample><literallayout><foreignphrase lang="loj">ba lenu la jang. cliva kei la suzyn. klama le barja</foreignphrase>After Zhang left, Susan came into the bar.</literallayout></informalexample>or<informalexample><literallayout><foreignphrase lang="loj">pu lenu la suzyn. klama le barja kei la jang. cliva</foreignphrase>Before Susan came into the bar, Zhang left.</literallayout></informalexample>or more naturally,<informalexample><para>When Susan came into the bar, Zhang had alreadyleft.</para></informalexample>(This, by the way, is another case of context meaning you don't have to puteverything in &mdash; we haven't said that the place Zhang leaves is thebar, we just understand it from the context.)</para> <para> What are these <foreignphraselang="loj">ba</foreignphrase>'s, <foreignphraselang="loj">pu</foreignphrase>'s and <foreignphraselang="loj">kei</foreignphrase>'s? Well, the <foreignphraselang="loj">kei</foreignphrase>'s you hopefully remember from the previouslesson: they close off the phrase opened by the <foreignphraselang="loj">nu</foreignphrase>. As you probably guessed, <foreignphraselang="loj">ba</foreignphrase> is <quote role="gloss">after</quote> (fromthe <foreignphrase lang="loj">gismu</foreignphrase> for <quoterole="gloss">future</quote> or <quote role="gloss">later</quote>,<foreignphrase lang="loj">balvi</foreignphrase>) and <foreignphraselang="loj">pu</foreignphrase> is <quote role="gloss">before</quote> (fromthe <foreignphrase lang="loj">gismu</foreignphrase> for <quoterole="gloss">past</quote> or <quote role="gloss">earlier</quote>,<foreignphrase lang="loj">purci</foreignphrase>).</para><para>If we only want to say that Susan came to the bar later, and Zhang'sleaving is unimportant or understood, we can then say:<informalexample><para><foreignphrase lang="loj">baku la suzyn. klama lebarja</foreignphrase> </para></informalexample><foreignphrase lang="loj">baku</foreignphrase> here is not a city inAzerbaijan; it means <quote role="gloss">afterwards</quote> or <quoterole="gloss">later</quote>. The <foreignphraselang="loj">ku</foreignphrase> is necessary to separate the <foreignphraselang="loj">ba</foreignphrase> from <foreignphrase lang="loj">lasuzyn.</foreignphrase> (you can also say it as two separate words,<foreignphrase lang="loj">ba ku</foreignphrase> &mdash; it makes nodifference). Similarly, <quote>Zhang left earlier</quote> or <quote>Zhanghad left</quote> would be:<informalexample><para><foreignphrase lang="loj">puku la jang.cliva</foreignphrase></para> </informalexample></para><note><para>What's actually going on is that <foreignphraselang="loj">ba</foreignphrase> starts a <foreignphraselang="loj">sumti</foreignphrase>, and <foreignphraselang="loj">ku</foreignphrase> ends the <foreignphraselang="loj">sumti</foreignphrase> &mdash; but the <foreignphraselang="loj">sumti</foreignphrase> itself has been left out. So<foreignphrase lang="loj">ba ku</foreignphrase> means <foreignphraselang="loj">ba ... ku</foreignphrase>: <quote role="gloss">after[something].</quote> This is just the same as saying <foreignphraselang="loj">ba zo'e</foreignphrase>. (Remember that <foreignphraselang="loj">zo'e</foreignphrase> is the placeholder you use when you don'tcare what a <foreignphrase lang="loj">sumti</foreignphrase> is.)</para><para>If we didn't have the <foreignphrase lang="loj">ku</foreignphrase> inplace, the <foreignphrase lang="loj">ba</foreignphrase> would swallow upany <foreignphrase lang="loj">sumti</foreignphrase> following it. So<foreignphrase lang="loj">ba la jang. cliva</foreignphrase> means not<quote>afterwards Zhang left</quote>, but <quote>after Zhang, (she)left.</quote> What the left-out <foreignphraselang="loj">sumti</foreignphrase> in <foreignphraselang="loj">baku</foreignphrase> means depends on the context &mdash; justas what <wordasword>afterwards</wordasword> is actually after. </para></note><para>Let's imagine that Susan is not so unlucky, and arrives just as Zhang isleaving.  We can then say:<informalexample><literallayout><foreignphrase lang="loj">caku la suzyn. klama le barja</foreignphrase>At that moment, Susan came.</literallayout></informalexample>which is an easier way to say<informalexample><para><foreignphrase lang="loj">ca lenu la jang. cliva lebarja kei la suzyn. klama le barja</foreignphrase></para></informalexample></para><note><para>There is a difference between <foreignphraselang="loj">ku</foreignphrase> and <foreignphraselang="loj">kei</foreignphrase> here: <foreignphraselang="loj">ku</foreignphrase> separates the <foreignphraselang="loj">ca</foreignphrase> from the rest of the sentence, while<foreignphrase lang="loj">kei</foreignphrase> terminates an event. We couldhave said <foreignphrase lang="loj">le barja ku kei ku</foreignphrase>: thefirst <foreignphrase lang="loj">ku</foreignphrase> matches <foreignphraselang="loj"><emphasis>le</emphasis> barja</foreignphrase>, the<foreignphrase lang="loj">kei</foreignphrase> matches <foreignphraselang="loj"><emphasis>nu</emphasis> la jang. cliva le barja</foreignphrase>,and the second <foreignphrase lang="loj">ku</foreignphrase> matches<foreignphrase lang="loj"><emphasis>le</emphasis>nu la jang. cliva lebarja</foreignphrase>. Because the syntax is unambiguous, we could evenhave said <foreignphrase lang="loj">lenu la jang. cliva le barja kuku</foreignphrase> &mdash; though we might be thought slightly cuckoo tosay it like that.)</para></note><para><foreignphrase lang="loj">ca</foreignphrase> also comes from a<foreignphrase lang="loj">gismu</foreignphrase>, in this case<foreignphrase lang="loj">cabna</foreignphrase>, which means<quote role="gloss">now</quote> or <quote role="gloss">simultaneous with</quote>, so another way tosay the same thing would be<informalexample><literallayout><foreignphrase lang="loj">lenu la jang. cliva le barja cu cabna lenu la suzyn. klama le barja</foreignphrase>The event of Zhang leaving the bar is simultaneous with the event of Susan coming to the bar.</literallayout></informalexample></para><para>We now have three <quote role="socalled">time words</quote>:<foreignphrase lang="loj">pu</foreignphrase> (before), <foreignphraselang="loj">ca</foreignphrase> (at, while) and <foreignphraselang="loj">ba</foreignphrase> (after). We can modify these with anotherthree, <foreignphrase lang="loj">zi</foreignphrase>, <foreignphraselang="loj">za</foreignphrase> and <foreignphraselang="loj">zu</foreignphrase> (series of <foreignphraselang="loj">cmavo</foreignphrase> often take an <foreignphraselang="loj">-i, -a, -u</foreignphrase> pattern, if they don't follow the<foreignphrase lang="loj">AEIOU</foreignphrase> sequence). These mean ashort, medium and long time distance. So <foreignphraselang="loj">puzi</foreignphrase> is <quote role="gloss">a short timeago,</quote> <foreignphrase lang="loj">puza</foreignphrase> is <quoterole="gloss">a while ago</quote> and <foreignphraselang="loj">puzu</foreignphrase> is <quote role="gloss">a long timeago</quote>. How long <quote role="gloss">long</quote> is depends on whatwe're talking about &mdash; if the subject is archeology, <foreignphraselang="loj">puzu</foreignphrase> could be thousands of years; if you'vemissed your train it could be a matter of minutes.</para> <para>Let's say this time the unlucky Susan missed Zhang by only a few minutes. We could then say:<informalexample><para><foreignphrase lang="loj">bazi lenu la jang. cliva kei la suzyn. klama lebarja</foreignphrase></para></informalexample>or as two <foreignphrase lang="loj">bridi</foreignphrase>,<informalexample><para><foreignphrase lang="loj">la jang. cliva le barja.i caziku la suzyn. klama</foreignphrase></para></informalexample></para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="loj">badri</foreignphrase></term><listitem><para>x1 issad/depressed/dejected/[unhappy/feels sorrow/grief] about x2(abstraction)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">gleki</foreignphrase></term><listitem><para>x1 ishappy/gay/merry/glad/gleeful about x2(event/state)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">ku'i</foreignphrase></term><listitem><para>but, however (This isan attitudinal, just like <foreignphrase lang="loj">.uu</foreignphrase> and<foreignphraselang="loj">.ei</foreignphrase>)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">kumfa</foreignphrase></term><listitem><para>x1 is a room of/instructure x2 surrounded by partitions/walls/ceiling/floor x3(mass/jo'u)</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">tcidu</foreignphrase></term><listitem><para>x1 [agent] reads x2 [text] from surface/document/reading material x3; x1 is a reader</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 1</title><para>Translate the following. Don't forget your <foreignphraselang="loj">nu</foreignphrase>'s and <foreignphraselang="loj">kei</foreignphrase>'s!<orderedlist><listitem><para>Juliette went to Paris a while ago.</para></listitem><listitem><para>A long time ago, I read <citetitle>Camille.</citetitle></para></listitem><listitem><para>Ivan just left.</para></listitem><listitem><para>Yoshiko kissed Jorge just after Pierre came into the room.</para></listitem><listitem><para>Tracy was sad just a minute ago.  But Mike is happy now.</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less6selbritime"><title>Time and <foreignphrase lang="loj">selbri</foreignphrase></title><para>What we've looked at so far is similar to (but not quite the same as)English words like <wordasword>before</wordasword>,<wordasword>after</wordasword> and so on. However, we can use exactly thesame <foreignphrase lang="loj">cmavo</foreignphrase> with <foreignphraselang="loj">selbri</foreignphrase> to give effects which are similar (butnot identical) to English tenses. Actually this is easier, but I left ittill later to avoid the danger of <foreignphraselang="loj">malglico</foreignphrase>!</para> <para> Basically, any time <foreignphraselang="loj">cmavo</foreignphrase> can go before a <foreignphraselang="loj">selbri</foreignphrase> and put the whole <foreignphraselang="loj">bridi</foreignphrase> into that time. So<informalexample><para> <foreignphrase lang="loj">la jang. pu cliva lebarja</foreignphrase></para></informalexample>means <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left thebar.</quote> We can do the same thing with <foreignphraselang="loj">zi/za/zu</foreignphrase>, so <foreignphrase lang="loj">la jang.puza cliva le barja</foreignphrase> means <quote>Zhang left the bar a whileago.</quote></para> <para>Another group of <foreignphraselang="loj">cmavo</foreignphrase> which can be used here is <foreignphraselang="loj">ze'i/ze'a/ze'u</foreignphrase>. Just as <foreignphraselang="loj">zi/ze/zu</foreignphrase> indicate a short, medium or long timefrom the present (or whatever other time we happen to be talking about),these <foreignphrase lang="loj">cmavo</foreignphrase> indicate short,medium or long durations for the action or state we are talking about. So<foreignphrase lang="loj">mi ze'u bajra</foreignphrase> means <quote>I runfor a long time.</quote> Again, we can put these together, so<foreignphrase lang="loj">mi puzaze'u bajra</foreignphrase> means <quote>Awhile ago, I ran for a long time.</quote> A few more examples ...<itemizedlist><listitem> <para><literallayout><foreignphrase lang="loj">oi.uinai le mi zdani puzi se darxi lo lindi</foreignphrase>Oh no! My house has just been struck by lightning! (Every language course has to have a few of these ridiculously artificial examples!) </literallayout>Note that if you have a tense before the <foreignphraselang="loj">selbri</foreignphrase> you don't need <foreignphraselang="loj">cu</foreignphrase> &mdash; <foreignphrase lang="loj">lezdani</foreignphrase> cannot run into <foreignphraselang="loj">puzi</foreignphrase> to form a single <foreignphraselang="loj">sumti</foreignphrase>.</para></listitem><listitem><para><literallayout><foreignphrase lang="loj">la bil. ze'u pinxe loi birje</foreignphrase>Bill drinks beer for a long time.</literallayout>Remember: you don't drink something which is <emphasis>a</emphasis> beer, but rather something which is <emphasis>some</emphasis> beer. As discussed way back in <link linkend="less4">Lesson 4</link>, that means a mass rather than an individual.</para></listitem><listitem><para><literallayout><foreignphrase lang="loj">mi bazize'a xabju la djakartas.</foreignphrase>Pretty soon I'm going to live in Jakarta for a while.</literallayout></para></listitem><listitem><para><literallayout><foreignphrase lang="loj">lo la natos. vinji baze'u gunta la BE,ograd.</foreignphrase>NATO aircraft will attack Belgrade for a long time.</literallayout></para></listitem></itemizedlist></para> <para>Note that this does not mean that NATO is not attacking Belgrade now(it is at the time I'm writing this). In Lojban, if we say that somethingis true at a particular time, it <emphasis>doesn't</emphasis> mean that itis <emphasis>not</emphasis> true at any other time. There are ways to saythat NATO will <emphasis>continue</emphasis> to attack, but that comeslater. (Sorry, I know I keep saying that things will come later, but youwouldn't really want to have to learn everything at once &mdash; it wouldbe like an English course teaching <wordasword>will go</wordasword> and<wordasword>will have been going</wordasword> in the same lesson). Acomplete explation of time <foreignphrase lang="loj">cmavo</foreignphrase>can be found in Chapter 10 of <citetitle>The Complete LojbanLanguage</citetitle>.</para></sect1><sect1 id="less6space"><title>Space</title><para>This is where things start getting strange. In Lojban, space can be a<quote role="socalled">tense</quote> just as much as time. This is becausethere is no difference between what traditional grammar calls <quoterole="socalled">prepositions</quote> and tenses. As we've seen, English,like many languages, treats a word like <wordasword>earlier</wordasword>and the past tense ending <wordasword>-ed</wordasword> as two totallyseparate things, while in Lojban they're the same: they both locate anevent in time. Space words like <wordasword>in</wordasword> or<wordasword>near</wordasword> are prepositions in English, and can never betenses, but in Lojban we treat them just like time words: they locateevents in space (or if you prefer, you can say that Lojban treats time as adimension, as in Einstein's physics).</para><para>Remember the word <foreignphrase lang="loj">ti</foreignphrase>? Thisis part of a series <foreignphrase lang="loj">ti, ta, tu</foreignphrase>,meaning roughly <quote role="gloss">this</quote>, <quoterole="gloss">that</quote> and <quote role="gloss">that over there.</quote>If we're talking about places rather than things, we say <foreignphraselang="loj">vi, va, vu</foreignphrase>, meaning roughly <quoterole="gloss">here</quote>, <quote role="gloss">there</quote> and <quoterole="gloss">yonder</quote> or <quote role="gloss">way over there</quote>.Again, this is determined by the thing you're talking about. If you'retelling a doctor where you feel pain, <foreignphraselang="loj">ti</foreignphrase> might be the end of your toe, while if you'retalking about astronomy, <foreignphrase lang="loj">ti</foreignphrase> couldbe the solar system. We can therefore say<informalexample><literallayout><foreignphrase lang="loj">viku mi gunka</foreignphrase>Here, I work.</literallayout></informalexample>or, more naturally, <quote>I work here.</quote></para><para>We've seen that <foreignphrase lang="loj">puku</foreignphrase> means<quote role="gloss">before something</quote> (as in <foreignphraselang="loj">pu lenu la jang. cliva kei</foreignphrase>). Similarly,<foreignphrase lang="loj">vi ku</foreignphrase> means <quoterole="gloss">at the location of something</quote>, and we can expand it inthe same way to say what the <quote role="gloss">something</quote> is, e.g.<informalexample><literallayout><foreignphrase lang="loj">vi la paris. mi gunka</foreignphrase>In Paris, I work.</literallayout></informalexample><informalexample><literallayout><foreignphrase lang="loj">vu le mi zdani mi gunka</foreignphrase>A long way from my home, I work</literallayout></informalexample><informalexample><literallayout><foreignphrase lang="loj">va lenu la KEnedis. se catra kei mi gunka</foreignphrase>A medium distance from where Kennedy was killed, I work</literallayout></informalexample></para><para>Note the <foreignphrase lang="loj">kei</foreignphrase> &mdash; if itwasn't there, <foreignphrase lang="loj">catra</foreignphrase> would runinto <foreignphrase lang="loj">mi</foreignphrase>, so the listener mightstart interpreting the sentence as <quote>A medium distance from whereKennedy was killed by me ...</quote></para> <para>Just like the time <foreignphrase lang="loj">cmavo</foreignphrase>,place <foreignphrase lang="loj">cmavo</foreignphrase> can be attatched to<foreignphrase lang="loj">selbri</foreignphrase>. For example, instead ofsaying <foreignphrase lang="loj">viku mi gunka</foreignphrase>, you can say<foreignphrase lang="loj">mi vi gunka</foreignphrase> &mdash; <quote>Ihere-work.</quote> Again, this sounds odd in English, but one of thepurposes of Lojban is to encourage you to say things in different ways,which may lead to being able to say different things. Lojban expands themind (warning: unproven Lojban propaganda!).</para> <para>If we combine place <foreignphrase lang="loj">vi</foreignphrase> etc.with <foreignphrase lang="loj">fa'a</foreignphrase>, they become moreproductive. <foreignphrase lang="loj">fa'a</foreignphrase> is a place<foreignphrase lang="loj">cmavo</foreignphrase> meaning <quoterole="gloss">towards</quote>, so <foreignphraselang="loj">fa'avi</foreignphrase> is <quote role="gloss">here</quote> asdirection, as in <quote>come here</quote>. For example:<informalexample><literallayout><foreignphrase lang="loj">la bil. fa'avi bajra</foreignphrase>Bill towards-this-place runsBill runs here.</literallayout></informalexample></para><para>Note that the more natural translation is ambiguous, since it couldalso translate <foreignphrase lang="loj">la bil. vi bajra</foreignphrase>,meaning that this is where Bill runs, not where he runs<emphasis>to</emphasis>. This may pass unnoticed by native Englishspeakers, but speakers of languages which are more precise about directionfind it extremely vague (Turkish, for example, has at least three words totranslate <quote role="gloss">here</quote>). There is a whole class of<foreignphrase lang="loj">cmavo</foreignphrase> that work like<foreignphrase lang="loj">fa'a</foreignphrase>, and they are called FAhAtype <foreignphrase lang="loj">cmavo</foreignphrase>, unsurprisingly. Theseinclude <foreignphrase lang="loj">to'o</foreignphrase> (away from),<foreignphrase lang="loj">zu'a</foreignphrase> (to the left of),<foreignphrase lang="loj">ri'u</foreignphrase> (to the right of),<foreignphrase lang="loj">ne'i</foreignphrase> (within) and so on. (Again,all the space <foreignphrase lang="loj">cmavo</foreignphrase> are explainedin Chapter 10 of <citetitle>The Complete Lojban Language</citetitle>).</para> <para>We can also combine time and space. For example, <foreignphraselang="loj">mi vipuzu gunka</foreignphrase> means <quote>Ihere-past-long-time-distance work</quote>, or <quote>I used to work here along time ago.</quote> A common expression with <foreignphraselang="loj">ku</foreignphrase> is <foreignphraselang="loj">puzuvuku</foreignphrase>, meaning <quote role="gloss">long agoand far away</quote> &mdash; a standard way to begin a fairy story orlegend!</para> <para>Getting back to daily speech, these time and space <foreignphraselang="loj">cmavo</foreignphrase> are very useful for questions.<foreignphrase lang="loj">ca ma</foreignphrase> is <quoterole="gloss">simultaneous with what?</quote>, or in other words, <quoterole="gloss">when?</quote> (a simpler alternative to <foreignphraselang="loj">ti'u</foreignphrase> or <foreignphraselang="loj">di'e</foreignphrase>). Similarly, <foreignphrase lang="loj">vima</foreignphrase> means <quote role="gloss">at the location ofwhat?</quote>, or <quote role="gloss">where?</quote></para> <simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="loj">cadzu</foreignphrase></term><listitem><para>x1walks/strides/paces on surface x2 using limbsx3</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">xabju</foreignphrase></term><listitem><para>x1dwells/lives/resides/abides at/inhabits/is a resident oflocation/habitat/nest/home/abode x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">zutse</foreignphrase></term><listitem><para>x1 sits [assumessitting position] on surface x2</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 2</title><para>Translate the following.<orderedlist><listitem><para><foreignphrase lang="loj">zdani do vi ma</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">la bil. puzavi zutse</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">le cipni puzifa'ava vofli</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">la tcarlz.daruin. puva xabju</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">mi bafa'avu cadzu</foreignphrase></para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less6neg"><title>More negativity</title><para>We have already seen <foreignphrase lang="loj">na</foreignphrase>used to turn <foreignphrase lang="loj">bridi</foreignphrase> into negativestatements, of the type <quote>it is not true that.</quote> And we saw thatthis sometimes leads to slightly unexpected effects compared to English<wordasword>not</wordasword>. For instance, in <link linkend="less4">Lesson4</link> we saw that <foreignphrase lang="loj">mi na nelci rogerku</foreignphrase> means <quote>it is not true that I like alldogs</quote> (or <quote>I don't like <emphasis>all</emphasis>dogs</quote>). It does not mean <quote>I don't like anydogs.</quote></para><para><foreignphrase lang="loj">na</foreignphrase> says not only that the<foreignphrase lang="loj">sumti</foreignphrase> aren't connected by thatparticular <foreignphrase lang="loj">selbri</foreignphrase>, but that theyaren't necessarily connected by any selbri at all. So <foreignphraselang="loj">mi na tavla la suzyn.</foreignphrase> is just as valid a thingto say if Susan is a rock formation in the Pamir Mountains, as it is if sheis a human being I know. Often, however, we need our negation to be alittle less powerful. In particular, it is useful to be able to say, notthat the whole <foreignphrase lang="loj">bridi</foreignphrase> is false,but only the <foreignphrase lang="loj">selbri</foreignphrase>. This meansthat there <emphasis>is</emphasis> some relationship between the<foreignphrase lang="loj">sumti</foreignphrase> &mdash; but this<foreignphrase lang="loj">selbri</foreignphrase> isn't it.</para><para>The word used to negate just the <foreignphraselang="loj">selbri</foreignphrase>, and not the entire <foreignphraselang="loj">bridi</foreignphrase>, is <foreignphraselang="loj">na'e</foreignphrase>. So if we say <foreignphrase lang="loj">mina nelci ro gerku</foreignphrase>, that could be true even if I have nofeelings at all about the canine species. With <foreignphrase lang="loj">mi<emphasis>na'e</emphasis> nelci ro gerku</foreignphrase>, on the otherhand, there is something that can be said about me and all dogs; but it'snot that I like them. It isn't necessarily that I hate them: I might writepoems about them, or prescribe medicine for them, or imitate them in politecompany. But like them, I don't.</para><para>If you do want to say you feel the opposite of <quoterole="gloss">like</quote> for all dogs, you can say <foreignphraselang="loj">mi to'e nelci ro gerku</foreignphrase>. <foreignphraselang="loj">to'e</foreignphrase> turns a selbri into its opposite:<foreignphrase lang="loj">to'e nelci</foreignphrase> is not a million milesaway from <foreignphrase lang="loj">xebni</foreignphrase> <quoterole="gloss">hate</quote>. And if you're indifferent, you can say<foreignphrase lang="loj">no'e nelci</foreignphrase> &mdash; <foreignphraselang="loj">no'e</foreignphrase> indicating that you're neutral on the scalethe <foreignphrase lang="loj">selbri</foreignphrase> indicates.</para><para>Like time and space, Lojban places negation on a kind of scale, fromlesser to greater extent. This <quote role="socalled">shades ofgrey</quote> approach pervades the language; you will see it time and againin the grammar. It makes for an interesting contrast with the theoreticalbasis for the language, classical logic &mdash; which is very much a <quoterole="socalled">black and white</quote> domain. </para><simplesect role="exercise"><title>Exercise 3</title><para>Now that you have three new negative words, let's see if you can use them. Give Lojban equivalents for the following English words, given their Lojban <quote role="socalled">opposites</quote> and the <foreignphrase lang="loj">cmavo</foreignphrase> we've just learned.<orderedlist><listitem><para>disinterested (<foreignphrase lang="loj">cinri</foreignphrase>: interested)</para></listitem><listitem><para>uninterested (<foreignphrase lang="loj">cinri</foreignphrase>: interested)</para></listitem><listitem><para>bored (<foreignphrase lang="loj">cinri</foreignphrase>: interested)</para></listitem><listitem><para>unborn (<foreignphrase lang="loj">jbena</foreignphrase>: born)</para></listitem><listitem><para>uncover (<foreignphrase lang="loj">gairgau</foreignphrase>: cover)</para></listitem><listitem><para>undead (<foreignphrase lang="loj">morsi</foreignphrase>: dead)</para></listitem><listitem><para>non-Lojban (<foreignphrase lang="loj">lojbo</foreignphrase>: Lojban(ic))</para></listitem><listitem><para>un-Lojbanic (<foreignphrase lang="loj">lojbo</foreignphrase>: Lojban(ic))</para></listitem><listitem><para>plain (<foreignphrase lang="loj">melbi</foreignphrase>: beautiful)</para></listitem><listitem><para>imaginary (<foreignphrase lang="loj">tatci</foreignphrase>: factual, real)</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less6summary"><title>Summary</title><para>In this lesson we have covered the following:<orderedlist><listitem><para>Time <foreignphrase lang="loj">cmavo</foreignphrase>: <foreignphrase lang="loj">pu,ca,</foreignphrase> and <foreignphraselang="loj">ba</foreignphrase>.</para></listitem><listitem><para>Time intervals: <foreignphrase lang="loj">zi,za</foreignphrase> and <foreignphrase lang="loj">zu</foreignphrase>.</para></listitem><listitem><para>Duration: <foreignphrase lang="loj">ze'i,ze'a</foreignphrase> and <foreignphraselang="loj">ze'u</foreignphrase>.</para></listitem><listitem><para>Location: <foreignphrase lang="loj">vi, va</foreignphrase>and <foreignphrase lang="loj">vu</foreignphrase>.</para></listitem><listitem><para>Negation: <foreignphrase lang="loj">na'e, no'e</foreignphrase>and <foreignphrase lang="loj">to'e</foreignphrase>.</para></listitem></orderedlist>There are many more <foreignphrase lang="loj">cmavo</foreignphrase> todescribe time and space (and a couple more for negation, for that matter),but they are only there if you need them. In fact, unless you want to bespecific about time or space, you don't even need the ones in this lesson.Remember the golden rule of Lojban grammar: <emphasis>If you don't need it,don't use it!</emphasis> Lojban grammar is your servant, not your master.</para><simplesect role="vocab"><title>Vocabulary</title><variablelist><varlistentry><term><foreignphraselang="loj">culno</foreignphrase></term><listitem><para>x1 isfull/completely filled with x2</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">kunti</foreignphrase></term><listitem><para>x1 [container] isempty/vacant of x2 [material]; x1 ishollow</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">lebna</foreignphrase></term><listitem><para>x1takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from x3(possessor) </para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">pendo</foreignphrase></term><listitem><para>x1 is/acts as afriend of/to x2 (experiencer); x2 befriendsx1</para></listitem></varlistentry><varlistentry><term><foreignphraselang="loj">sabji</foreignphrase></term><listitem><para>x1 [source]provides/supplies/furnishes x2 [supply/commodity] to x3[recipient]</para></listitem></varlistentry><varlistentry><term><foreignphrase lang="loj">vanju</foreignphrase></term><listitem><para>x1 is made of/contains/is a quantity of wine from fruit/grapes x2</para></listitem></varlistentry></variablelist></simplesect><simplesect role="exercise"><title>Exercise 4</title><para>Translation exercises are not your master, either, but they are your business! Translate from Lojban:<orderedlist><listitem><para><foreignphrase lang="loj">.i baza lenu la jang. cliva kei lasuzyn. cadzu fa'a ne'i vi le barja </foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">.i caziku la suzyn. denpa lenu bazikula jang. viska la suzyn.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">.i la suzyn. viska re lo kabri</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">.i go'i pa lo puculno .i go'i pa lo ca culno</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">.i le puzi culno ca kunti ba lenu lajang. pinxe loi birje pe ri</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">.i la suzyn. ze'i tavla le sabji </foreignphrase></para></listitem><listitem><para><quote><foreignphrase lang="loj">.i ko lebna ta .iko dunda lo cnino vanju botpi mi</foreignphrase></quote></para></listitem><listitem><para><quote><foreignphrase lang="loj">.i .ei na dotco</foreignphrase></quote></para></listitem></orderedlist></para></simplesect><simplesect role="exercise"><title>Exercise 5</title><para>Translate into Lojban these (hopefully much less brain-squelching than the previous lesson's) sentences:<orderedlist><listitem><para>A long time ago, Susan briefly lived atZhang's.</para></listitem><listitem><para>Now Susan lives some way away from Zhang.</para></listitem><listitem><para>When Susan go tothe house, she goes a little to the left of the bar.</para></listitem><listitem><para>Every Thursday Susangoes to the bar, not far from the office.</para></listitem><listitem><para>At the bar Susan meets Susan'slong-time friends.</para></listitem><listitem><para>Susan sits away from the German beer.</para></listitem></orderedlist></para></simplesect></sect1><sect1 id="less6answers"><title>Answers to exercises</title><simplesect role="excanswer"><title>Exercise 1</title><para><orderedlist><listitem><para><foreignphrase lang="loj">puzaku la juLIET. cliva la paris.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">puzuku mi tcidu la kaMIL.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">puziku la iVAN. cliva le kumfa</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">bazi lenu la pi,ER. klama le kumfa kei la .iocikos. cinba la xorxes.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">puziku la treisis. badri .i ku'i caku la maik. gleki</foreignphrase></para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 2</title><para><orderedlist><listitem><para>Where is your house? (Literally <quote>[something] is the house of you at what?</quote>)</para></listitem><listitem><para>Bill was sitting here a while ago.</para></listitem><listitem><para>The bird just flew away.  (Literally <quote>the bird flew a short time ago toa medium distance from here.</quote>)</para></listitem><listitem><para>Charles Darwin lived near here. (Note that we don't need<foreignphrase lang="loj">zu</foreignphrase> to specify that he lived nearhere a long time ago: we assume that the person we're talking to knows whoDarwin was, and therfore knows that he lived over a century ago. In fact,you could even miss out the <foreignphrase lang="loj">pu</foreignphrase>,but I left it in to avoid confusion &mdash; maybe my friend thinks I'mtalking about a different person with the same name, or that I'm somehowspeaking metaphorically about the spirit of Darwin.)</para></listitem><listitem><para>I will walk far away. (Again note the English has two meanings, sinceit could also mean that I will walk in some distant place.)</para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 3</title><para><orderedlist><listitem><para>disinterested: <foreignphrase lang="loj">no'e cinri</foreignphrase></para></listitem><listitem><para>uninterested: <foreignphrase lang="loj">na'e cinri</foreignphrase> (The difference between <wordasword>disinterested</wordasword> and <wordasword>uninterested</wordasword> in English in slowly dying out &mdash; which makes the word a pedant's delight!</para></listitem><listitem><para>bored: <foreignphrase lang="loj">to'e cinri</foreignphrase></para></listitem><listitem><para>unborn: <foreignphrase lang="loj">na'ejbena</foreignphrase> (<foreignphrase lang="loj">no'e jbena</foreignphrase>would be someone in a twilight-zone between being born and not being born&mdash; perhaps the baby at the moment it emerges from the womb.<foreignphrase lang="loj">to'e jbena</foreignphrase> is the opposite ofbeing born; what that may mean, up to and including crawling back into thewomb, and dying, is pretty much up to you. The English expression isactually more like <quote role="gloss">not yet born</quote>, and we willfind out how to say this in a few lessons' time.)</para></listitem><listitem><para>uncover: <foreignphrase lang="loj">to'e gairgau</foreignphrase> (<foreignphrase lang="loj">na'e gairgau</foreignphrase> means simply <quote role="gloss">not to cover</quote>, and <foreignphrase lang="loj">no'e gairgau</foreignphrase> <quote role="gloss">to leave ajar</quote>.)</para></listitem><listitem><para>undead: <foreignphrase lang="loj">no'e morsi</foreignphrase> (<foreignphrase lang="loj">na'e morsi</foreignphrase> is someone alive, not a zombie. But don't worry too much about the phenomenology of the occult; just be comfortable in the knowledge that Lojban allows you to make these distinctions, if you want to.)</para></listitem><listitem><para>non-Lojban: <foreignphrase lang="loj">na'e lojbo</foreignphrase> (<foreignphrase lang="loj">na'e</foreignphrase> is frequently glossed as <quote role="gloss">other than</quote>; this example may show you why.)</para></listitem><listitem><para>un-Lojbanic: <foreignphrase lang="loj">to'e lojbo</foreignphrase> (There is often something subjective about how things are opposites to each other; using an expression like this, you may well be asked to explain how something can be the opposite of Lojban.)</para></listitem><listitem><para>plain: <foreignphrase lang="loj">no'e melbi</foreignphrase> (<foreignphrase lang="loj">to'e melbi</foreignphrase> would be <quote role="gloss">ugly</quote>, of course.)</para></listitem><listitem><para>imaginary: <foreignphrase lang="loj">na'efacti</foreignphrase> (You can quibble about whether it's not more like<foreignphrase lang="loj">to'e facti</foreignphrase> or <foreignphraselang="loj">no'e facti</foreignphrase>. That's why it's just as well <quoterole="gloss">imaginary</quote> has its own <foreignphraselang="loj">gismu</foreignphrase>: <foreignphraselang="loj">xanri</foreignphrase>.)</para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 4</title><para><orderedlist><listitem><para>A while after Zhang left, Susan walked into the bar.</para></listitem><listitem><para>At that time, Susan expected that Zhang would soon afterwards see Susan.</para></listitem><listitem><para>Susan sees two cups.</para></listitem><listitem><para>[She sees] one previously full one. [She sees] onecurrently full one.</para> <para>(It's amazing what can be tucked away inexercises. Yes, <foreignphrase lang="loj">sumti</foreignphrase> can havetenses in Lojban. There's no reason they can't: though there's an articlein front of the <foreignphrase lang="loj">gismu</foreignphrase>, that<foreignphrase lang="loj">gismu</foreignphrase> is stil a <foreignphraselang="loj">selbri</foreignphrase>, and so it still expresses arelationship. This means that <foreignphraselang="loj">sumti</foreignphrase> have all the characteristics of<foreignphrase lang="loj">selbri</foreignphrase>: they have <foreignphraselang="loj">sumti</foreignphrase> of their own &mdash; as we'll see lateron; durations; locations; and tenses. This is an important way Lojban isdifferent from many (though not all) natural languages: it has no essentialgrammatical difference between its <quote role="socalled">nouns</quote> and<quote role="socalled">verbs</quote>.)</para></listitem><listitem><para>The one full just a little time ago is now empty after Zhang drank its beer. (After <foreignphrase lang="loj">pe</foreignphrase>, the <foreignphrase lang="loj">sumti</foreignphrase> is still considered incomplete, so <foreignphrase lang="loj">ri</foreignphrase> refers back to the preceding complete <foreignphrase lang="loj">sumti</foreignphrase>.)</para></listitem><listitem><para>Susan briefly talks to the supplier. (See? A better word for <wordasword>barman</wordasword> already. Notice, too, that you can specify a duration without specifying a tense.)</para></listitem><listitem><para><quote>Take that away. Give me a new wine bottle.</quote></para></listitem><listitem><para><quote>It should not be German.</quote></para></listitem></orderedlist></para></simplesect><simplesect role="excanswer"><title>Exercise 5</title><para><orderedlist><listitem><para><foreignphrase lang="loj">.i puzuku la suzyn. ze'i xabju lela jang. zdani</foreignphrase> (You can't just say <foreignphraselang="loj">xabju la jang.</foreignphrase> &mdash; you have to fill in theblank of Zhang's X.)</para></listitem><listitem><para><foreignphrase lang="loj">.i la suzyn. ca xabju va la jang.</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">ca lenu la suzyn. klama le zdanikei la suzyn. klama zu'a vizi le barja</foreignphrase> (We don't reallyhave a way for saying <wordasword>she</wordasword> &mdash; as you'reprobably painfully aware of by now. Take heart &mdash; relief is coming inthe next lesson! Also, <foreignphrase lang="loj">fa'a</foreignphrase> isn'treally necessary here; Susan's route is away from the bar, but notexplicitly moving to or from it.)</para></listitem><listitem><para><foreignphrase lang="loj">.i ca ro la vodjed. la suzyn. klama le barja va le briju</foreignphrase></para></listitem><listitem><para><foreignphrase lang="loj">vi le barja la suzyn. penmi le la suzyn. ze'u pendo</foreignphrase> (Remember, <foreignphrase lang="loj">sumti</foreignphrase> take tenses and durations, too.)</para></listitem><listitem><para><foreignphrase lang="loj">.i la suzyn. zutse to'o le dotco birje</foreignphrase></para></listitem></orderedlist></para></simplesect></sect1></chapter>ÿ
