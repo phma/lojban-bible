@@ -155,8 +155,8 @@ le jitfa cakyrespa cu masno je badri mutce sanga lu
 
     e'o sutra doi cakcurnu i ko ti'a zgana ua pa
     xajyfi'e noi jbitrixe gi'e me mi rebla stapa
-    i xasyjukni i cakyrespa i ro crakla ca se ganse
-    i denpa mi'o le va canre i pei do ba kansa dansu 
+    i ui a'a ro le jukni e le respa ca se ganse
+    gi'e denpa mi le canre i pei do ba kansa dansu 
        i aipei naipei aipei naipei aipei do ba dansu
        i aipei naipei aipei naipei naipei do ba dansu 
 @end format
@@ -300,6 +300,10 @@ i lu mi la'e di'u noroi pensi sei la alis cusku i ma krinu li'u
 @c    still running on the song, `I'd have said to the porpoise, "Keep
 @c    back, please:  we don't want YOU with us!"'
 
+i lu va'o le nu da'i mi du le merlanu sei la alis noi za'o pensi le
+selsanga cu cusku mi cusku da'i fi le xajyfi'e fe lu fi'inai do'u e'o
+darsta i mi'a na djica le nu do mi'a kansa li'u li'u
+
 @c      `They were obliged to have him with them,' the Mock Turtle
 @c    said:  `no wise fish would go anywhere without a porpoise.'
 
@@ -315,14 +319,27 @@ i lu mi la'e di'u noroi pensi sei la alis cusku i ma krinu li'u
 @c    tone.  And the Gryphon added `Come, let's hear some of YOUR
 @c    adventures.'
 
+i lu mi skudji le se cusku be mi sei le jitfa cakyrespa cu jgicro 
+tonga spuda li'u i le cpicinfo cu minsku lu e'e do mi'a tavla su'o
+le do selfri li'u
+
 @c      `I could tell you my adventures--beginning from this morning,'
 @c    said Alice a little timidly:  `but it's no use going back to
 @c    yesterday, because I was a different person then.'
 
+i lu mi do ka'e tavla le mi selfri pe co'a le zi cerni sei la alis
+toldarsi milxe cusku i ku'i na prali fi le nu peixru le purlamdei kei
+i ki'ubo mi drata prenu ca py li'u  
+
 @c      `Explain all that,' said the Mock Turtle.
+
+i lu ko ciksi piro la'e di'u sei le jitfa cakyrespa cu cusku li'u
 
 @c      `No, no!  The adventures first,' said the Gryphon in an
 @c    impatient tone:  `explanations take such a dreadful time.'
+
+i lu o'onai na go'i i pamai lei selfri sei le cpicinfo cu sutydji
+tonga cusku i lei velcki cu ze'u oi co'e li'u
 
 @c      So Alice began telling them her adventures from the time when
 @c    she first saw the White Rabbit.  She was a little nervous about
@@ -334,21 +351,46 @@ i lu mi la'e di'u noroi pensi sei la alis cusku i ma krinu li'u
 @c    different, and then the Mock Turtle drew a long breath, and said
 @c    `That's very curious.'
 
+i la alis co'a tavla fi lei abu selfri pe co'a le nu pare'u viska 
+le blabi ractu i abu milxe le ka xanka la'e di'u kei ca le cfari
+i le re danlu abu mutce jibni gi'e mlana i dy ganra mutce kargau lei 
+kanla e le moklu i ku'i abu zenba le ka darsi ca le nu ca'o co'e i
+lei se tirna cu prane smaji co'u le nu abu pencu le pagbu pe sera'a 
+le nu abu sitsku lu do tolcitno doi paf uiliam li'u le ciftoldi kei
+e le nu lei valsi cu fricybi'o icaku le jitfa cakyrespa cu ze 'u
+sakyvasxu gi'e cusku lu la'e di'u mutce le ka cizra li'u   
+
 @c      `It's all about as curious as it can be,' said the Gryphon.
+
+i lu traji le ka cizra fo lei cizra sei le cpicinfo cu cusku li'u
 
 @c      `It all came different!' the Mock Turtle repeated
 @c    thoughtfully.  `I should like to hear her try and repeat
 @c    something now.  Tell her to begin.'  He looked at the Gryphon as
 @c    if he thought it had some kind of authority over Alice.
 
+i lu roda fricybi'o sei le jitfa cakyrespa rere'u pensi cusku i mi 
+djica le nu tirna le nu ta ca troci le nu sitsku da i ko ta skumi'e
+le nu co'a co'e li'u i jycy catlu le cpicinfo tai le nu jinvi le du'u
+cy catni la alis
+
 @c      `Stand up and repeat "'TIS THE VOICE OF THE SLUGGARD,"' said
 @c    the Gryphon.
+
+i lu ko sa'irbi'o gi'e sitsku lu me le voksa be le lazni li'u sei
+le cpicinfo cu cusku li'u
 
 @c      `How the creatures order one about, and make one repeat
 @c    lessons!' thought Alice; `I might as well be at school at once.'
 @c    However, she got up, and began to repeat it, but her head was so
 @c    full of the Lobster Quadrille, that she hardly knew what she was
 @c    saying, and the words came very queer indeed:--
+
+i lu ue lei danlu cu mutce minde gi'e gasnu le nu sitsku loi selcli 
+sei la alis pensi i mi du'i ve ckule li'u i ku'i abu sa'irbi'o gi'e
+co'a sitsku i ku'i le abu menli cu culno le xasyjukni vonseldansu
+ja'e le nu abu ja'aru'e djuno le du'u abu cusku makau i lei valsi 
+ca'a cizra mutce barkla i lu
 
 @c        `'Tis the voice of the Lobster; I heard him declare,
 @c        "You have baked me too brown, I must sugar my hair."
