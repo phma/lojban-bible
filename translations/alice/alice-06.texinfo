@@ -19,16 +19,15 @@
 @c    heads.  She felt very curious to know what it was all about, and
 @c    crept a little way out of the wood to listen.
 
-i ze'a lo mentu abu cu sanli gi'e catlu le zdani gi'e pensi le du'u
-eikau bavlamymoi gasnu makau icabo lo selfu poi dasni le manfyta'u
-cu bajli'a le ricmei to'i abu jinvi le du'u selfu fo le nu dasni
-le manfyta'u i va'o le nu na go'i kei ca le nu viska le flira po'o
-abu cu te cmene sy zo finpe toi gi'e cladu darxi le vorme se pi'o
-le degycidni i vy karbi'o gau lo drata manfyta'u dasni selfu noi
-seke cukla flira gi'e seke barda kanla tai le me lo'e banfi moi ije
-rero le selfu zo'u sei la alis sanji cu seke pumvau kerfa co se cuktai
-vi piro le stedu i abu mutce co kucli le du'u srana makau kei gi'e
-parkla lo milxe co bartu be le ricmei ki'u le nu tinju'i
+i ze'a lo mentu abu sanli gi'e catlu le zdani gi'e pensi le du'u ei bazi 
+zukte makau icabo lo selfu poi dasni le manfyta'u cu bajra cliva le ricmei 
+to'i abu jinvi le du'u sy selfu kei fo le nu sy dasni le manfyta'u i va'o 
+da'i na'e bo la'e di'u ca le nu viska le flira kei po'o abu te cmene sy zo 
+finpe toi gi'e cladu darxi le vorme le degycidni i vy karbi'o gau lo drata 
+manfyta'u dasni selfu noi se flira lo cukla gi'e se kanla lo barda tai 
+tu'a lo'e banfi ije le re selfu sei la alis sanji zo'u le kerfa cu pumvau 
+gi'e cukla gacri piro le stedu i abu mutce co kucli le du'u srana makau kei 
+gi'e parkla lo milxe co bartu be le ricmei ki'u le nu tinju'i
 
 @c      The Fish-Footman began by producing from under his arm a great
 @c    letter, nearly as large as himself, and this he handed over to
@@ -41,9 +40,10 @@ parkla lo milxe co bartu be le ricmei ki'u le nu tinju'i
 i pamai le finpe selfu cu tolsa'e le cnita be le sy birka lo barda
 xatra noi jibni dunli sy le ka barda i sy dunda xy le drata gi'e
 junri tonga cusku lu fi le noltroni'u cu fityti'i fa le noltruni'u
-fe le nu kelcrkroke li'u i le plipybanfi cu mintu fi le ka junri tonga
-kei gi'e milxe stika le valsi porsi gi'e refsku lu fa le nolruni'u
+fe le nu kelcrkroke li'u i le banfi selfu cu mintu fi le ka junri tonga
+kei gi'e milxe stika le valsi porsi gi'e refsku lu fa le noltruni'u
 cu fityti'i fi le noltroni'u fe le nu kelcrkroke li'u
+
 @c plipyrespa ki'u? .i plipybanfi jo'a mi'e pier. --ok
 
 @c      Then they both bowed low, and their curls got entangled
@@ -58,9 +58,9 @@ xrebi'o
 @c    ground near the door, staring stupidly up into the sky.
 
 i la alis tai cmila mu'i la'e di'u ja'e le nu bilga le nu bajra xruti
-le ricmei ki'u le nu terpa le nu ry tirna abu i ca le nu abu za'ure'u
-mipri catlu kei ge le finpe selfu ba'o cliva gi le drata cu zutse le
-loldi ne'a le vorme gi'e bebna catlu fa'a le tsani
+le ricmei ki'u le nu abu terpa le nu ry tirna abu i ca le nu abu 
+za'ure'u mipri catlu kei ge le finpe selfu ba'o cliva gi le drata cu 
+zutse le loldi ne'a le vorme gi'e bebna catlu fa'a le tsani
 
 @c      Alice went timidly up to the door, and knocked.
 
@@ -76,9 +76,9 @@ i la alis toldarsi klama le vorme gi'e darxi
 
 i lu noda do prali le nu darxi sei le selfu cu cusku i go'i ki'u reda
 i pamai mi do dunli le ka zvati le mokau mlana be le vorme i remai ne'i
-cupra lo tai savru ja'e le nu noda do ka'e tirna li'u i ju'o lo tolfadni
-savru ca'o nenri i ru'i cmoni je senci i ru'inai barda sance tai le nu
-lo palta a lo patxu cu porpi
+cupra lo tai savru ja'e le nu noda kakne le nu tirna do li'u i ju'o lo 
+tolfadni savru ca'o nenri i ru'i cmoni je senci i ru'inai barda sance 
+tai lo'e nu lo palta a lo patxu cu porpi
 
 @c      `Please, then,' said Alice, `how am I to get in?'
 
@@ -94,13 +94,13 @@ i lu pe'udo'u sei la alis cusku mi nerkla ta'i ma li'u
 @c    answer questions.--How am I to get in?' she repeated, aloud.
 
 i lu le nu do darxi cu racli sei le selfu secau le nu jundi abu kei
-di'a co'e va'o le nu da'i le vorme cu jbini mi'o i mu'a va'o le nu
-da'i do nenri kei ge do ka'e darxi gi mi ka'e curmi le nu do barkla
-li'u i sy catlu le tsani ze'a le nu tavla i la alis jinvi le du'u
-ju'osai sy tolclite la'e di'u i lu ku'i ju'ocu'i ta ka'enai rivbi
-la'e di'u sei abu sezysku i lei ta kanla tai jibni le gapru be le
-stedu iseju ei ta spuda lo'e preti i mi nerkla ta'i ma sei abu
-cladu ke krefu cusku li'u
+di'a co'e va'o le nu da'i mi do sepli le vorme i mu'a va'o le nu
+da'i do nenri kei ge do darxi gi mi curmi le nu do barkla li'u i sy 
+catlu le tsani ze'a le nu tavla i la alis jinvi le du'u ju'osai sy 
+tolclite la'e di'u i lu ku'i ju'ocu'i ta na kakne co rivbi la'e 
+di'u sei abu sezysku i lei ta kanla tai jibni le gapru be le stedu 
+iseju ei ta spuda lo'e preti i mi nerkla ta'i ma sei abu cladu ke 
+krefu cusku li'u
 
 @c      `I shall sit here,' the Footman remarked, `till tomorrow--'
 
@@ -118,7 +118,7 @@ gi'e porpi janli lo tricu poi trixe sy
 @c      `--or next day, maybe,' the Footman continued in the same tone,
 @c    exactly as if nothing had happened.
 
-i lu a le remoi bavlamji djedi li'u di'a se cusku le selfu sepi'o le
+i lu a le bavlamji remoi djedi li'u di'a se cusku le selfu sepi'o le
 mintu tonga tai le nu da'i noda fasnu
 
 @c      `How am I to get in?' asked Alice again, in a louder tone.
@@ -129,7 +129,7 @@ retsku li'u
 @c      `ARE you to get in at all?' said the Footman.  `That's the
 @c    first question, you know.'
 
-i lu xu do nerkla ta'i ba'e da sei le selfu cu cusku i di'u pamoi
+i lu xu do ba'e ja'a nerkla sei le selfu cu cusku i di'u pamoi
 loi preti li'u
 
 @c      It was, no doubt:  only Alice did not like to be told so.
@@ -158,8 +158,8 @@ i lu lo se djica be do sei le selfu cu cusku li'u i sy co'a siclu
 @c      `Oh, there's no use in talking to him,' said Alice desperately:
 @c    `he's perfectly idiotic!'  And she opened the door and went in.
 
-i lu oi na prali mi le nu tavla ta sei la alis tolpacna cusku i ta prane
-bebna li'u i abu kargau le vorme gi'e nerkla
+i lu oi noda mi prali le nu tavla ta sei la alis tolpacna cusku i ta 
+prane bebna li'u i abu kargau le vorme gi'e nerkla
 
 @c      The door led right into a large kitchen, which was full of
 @c    smoke from one end to the other:  the Duchess was sitting on a
@@ -177,6 +177,7 @@ do'e lo barda patxu noi simlu le ka culno lo stasu
 
 i lu ju'o pidu'e tsaprpiperi cu nenri le va stasu li'u se sezysku
 la alis noi ru'i senci
+
 @c tsaprpaprika noi kapsiku ku'o ji tsaprpiperi? --ok
 
 @c      There was certainly too much of it in the air.  Even the
@@ -186,8 +187,8 @@ la alis noi ru'i senci
 @c    and a large cat which was sitting on the hearth and grinning from
 @c    ear to ear.
 
-i pidu'e ty nenri ju'o le vacri i ji'acai le noltroni'u cu ru'inai senci
-ije le cifnu zo'u cy ru'i desfau senci joi kakcmoni i ro zvati le jupku'a 
+i pidu'e ty nenri ju'o le vacri i le noltroni'u ji'acai cu ru'inai senci
+ije le cifnu zo'u cy ru'i desfau senci joi kakcmoni i ro jupku'a zvati 
 poi na senci cu du le jukpa a lo barda mlatu poi zutse le fagystizu gi'e 
 relkerlo ganra cisma
 
@@ -195,9 +196,9 @@ relkerlo ganra cisma
 @c    she was not quite sure whether it was good manners for her to
 @c    speak first, `why your cat grins like that?'
 
-i lu pe'u do ko cusku le sedu'u sei la alis milxe terpa be ri'a
-le nu na djuno le du'u xukau le nu pamoi tavla cu clite be'o cusku 
-le do mlatu tai cisma mu'i ma li'u
+i lu e'o ko mi jungau sei la alis noi milxe terpa ri'a le nu na birti
+le du'u xukau le nu pamoi tavla cu clite cu cusku le du'u le do mlatu 
+tai cisma mu'i ma li'u
 
 @c      `It's a Cheshire cat,' said the Duchess, `and that's why.  Pig!'
 
@@ -209,30 +210,31 @@ xarju li'u
 @c    to the baby, and not to her, so she took courage, and went on
 @c    again:--
 
-i lenu ny tcevlile bacru le selyli'erai valsi cu mukti lenu la alis suksa
-plipe iku'i abu bazi jimpe ledu'u tavla fi le cifnu enai abu isemu'ibo
+i lenu ny tcevlile bacru le romoi valsi cu mukti lenu la alis suksa
+plipe iku'i abu bazi jimpe ledu'u tavla le cifnu enai abu isemu'ibo
 virnu lenu di'a cusku
 
 @c      `I didn't know that Cheshire cats always grinned; in fact, I
 @c    didn't know that cats COULD grin.'
 
-lu mi na djuno le du'u le'e tcicymlatu cu piroroi gancisma i ju'o mi
-na djuno le du'u lo mlatu ba'e ka'e gancisma li'u
+lu mi na djuno le du'u le'e tcicymlatu cu roroi gancisma i ju'o mi
+na djuno le du'u lo'e mlatu ba'e kakne lo'e nu gancisma li'u
 
 @c      `They all can,' said the Duchess; `and most of 'em do.'
 
-i lu roboi my ka'e co'e sei le noltroni'u cu cusku ije so'eboi my
+i lu roboi my kakne sei le noltroni'u cu cusku ije so'eboi my
 ca'a co'e li'u
 
 @c      `I don't know of any that do,' Alice said very politely,
 @c    feeling quite pleased to have got into a conversation.
 
-i lu mi na djuno fi su'o my poi ca'a co'e sei la alis tceclite cusku
-lu i abu mutce se pluka le nu jorne fi le nunsimtavla
+i lu mi na djuno fi so'u my poi ca'a co'e sei la alis tceclite cusku
+li'u i abu mutce se pluka le nu jorne fi le nunsimtavla
 
 @c      `You don't know much,' said the Duchess; `and that's a fact.'
 
-i lu do na djuno so'i da sei le noltroni'u cu cusku ije di'u fatci li'u
+i lu do na djuno so'i da sei le noltroni'u cu cusku ije la'e 
+di'u fatci li'u
 
 @c      Alice did not at all like the tone of this remark, and thought
 @c    it would be as well to introduce some other subject of
@@ -245,13 +247,13 @@ i lu do na djuno so'i da sei le noltroni'u cu cusku ije di'u fatci li'u
 @c    was quite impossible to say whether the blows hurt it or not.
 
 i la alis nasai nelci le tonga pe le pinka gi'e jinvi le du'u xamgu
-fa le nu cfagau lo drata selcasnu i ca le nu abu troci le nu cuxna
-pa dysy kei le jukpa cu lebna le patxu be lo'e stasu le fagri gi'e
-co'a zukte le nu renro ro se kuspe be jy le noltroni'u ku joi le cifnu
+fa le nu cfagau lo drata selcasnu i ca le nu abu troci co cuxna
+pa sy kei le jukpa cu lebna le patxu be lo stasu le fagri gi'e co'a 
+zukte le nu renro ro se kuspe be jy le noltroni'u ku joi le cifnu
 i lei fagri tirse cu pamoi ibabo jersi fa lo tansi joi palta joi palne
 carvi i le noltroni'u na'e jundi caji'asai le nu darxi ny i le cifnu
-pu tai mutce krixa ja'e le nu nalcumki fa le nu djuno le du'u xukau
-lei nundarxi cu crogau
+pu ca'o tai mutce krixa ja'e le nu nalcumki fa le nu djuno le du'u 
+xukau lei nundarxi cu crogau
 
 @c      `Oh, PLEASE mind what you're doing!' cried Alice, jumping up
 @c    and down in an agony of terror.  `Oh, there goes his PRECIOUS
@@ -260,7 +262,7 @@ lei nundarxi cu crogau
 
 i lu oi e'osai ko kurji le do se tarti sei la alis terpa dunku plipe
 krixa i oi uu le ta melbi nazbi li'u ca le nu lo nalfadni barda tansi
-cu vofli ne'a ny gi'e naru'e beivi'u ny
+cu vofli zo'a ny gi'e naru'e beirvi'u ny
 
 @c      `If everybody minded their own business,' the Duchess said in a
 @c    hoarse growl, `the world would go round a deal faster than it
@@ -285,7 +287,7 @@ le terdi cu carna le jendu kei li revo cacra li'u
 
 @c      `Talking of axes,' said the Duchess, `chop off her head!'
 
-i le noltroni'u cu cusku lu le catra zo'u ko vimcu le stedu ti li'u
+i lu lo'e catra zo'u sei le noltroni'u cu cusku ko vimcu le stedu ti li'u
 
 @c      Alice glanced rather anxiously at the cook, to see if she meant
 @c    to take the hint; but the cook was busily stirring the soup, and
@@ -304,7 +306,7 @@ li pare pei i li'u
 
 i lu oi ko mi na fanza sei le noltroni'u cu cusku i mi ka'enai renvi
 lo'e namcu li'u icabo ny co'a za'ure'u kurji le cifnu gi'e sanga lo
-sipygau simsa cy gi'e vlile desygau cy ca le fanmo be lo vlali'i
+sipygau simsa cy gi'e vlile desygau cy ca le fanmo be ro vlali'i
 
 @c            `Speak roughly to your little boy,
 @c              And beat him when he sneezes:
@@ -367,7 +369,7 @@ tai krixa ja'e le nu la alis cu ja'aru'e tirna lei valsi
 @c    the room.  The cook threw a frying-pan after her as she went out,
 @c    but it just missed her.
 
-i lu ju'ido'u e'a do kurji ti sei le noltroni'u ca le nu renro le cifnu 
+i lu ju'ido'u e'a do ti kurji sei le noltroni'u ca le nu renro le cifnu 
 la alis cu cusku i ei mi mi bredygau le nu kansa le noltruni'u le nu 
 kelcrkroke li'u i ny sutra cliva le kumfa i le jukpa cu renro lo tansi
 ny ca le nu ny barkla i ku'i ja'aru'e fliba le nu darxi 
@@ -380,11 +382,11 @@ ny ca le nu ny barkla i ku'i ja'aru'e fliba le nu darxi
 @c    so that altogether, for the first minute or two, it was as much
 @c    as she could do to hold it.
 
-.i la .alis cu milxe nandu kavbu le cifnu ki'u lenu cizra seltai ke
-cmalu danlu gi'e tengau le birka .e le jamfu fo roda .i lu setai lo'e
-mumbircurnu li'u se pensku la .alis .i le cmalu .uu cu vruva'u setai
-lo'e jacfebmatra ca lenu .abu kavbu kei .iseki'ubo ca'o lo mentu be li
-pabi'ire .abu na kakne lo zmadu be lenu jgari
+i la alis cu milxe nandu kavbu le cifnu ki'u lenu cizra seltai ke
+cmalu danlu gi'e tengau le birka e le jamfu fo roda i lu setai lo'e
+mumbircurnu sei la alis pensku li'u i le cmalu uu cu vruva'u setai
+lo'e jacfebmatra ca lenu abu kavbu iseki'ubo ze'a lo mentu be li
+paji'ireboi abu na kakne lo zmadu be lenu jgari
 
 @c      As soon as she had made out the proper way of nursing it,
 @c    (which was to twist it up into a sort of knot, and then keep
@@ -397,13 +399,13 @@ pabi'ire .abu na kakne lo zmadu be lenu jgari
 @c    grunt,' said Alice; `that's not at all a proper way of expressing
 @c    yourself.'
 
-i zi ba le nu abu facki le du'u makau drani tadji le nu kurji cy keikei
-(to no'u le nu tongau cy ja'e lo jgena gi'e tagji jgari le cy pritu 
+i abu zi ba le nu facki le du'u makau drani tadji le nu kurji cy keikei
+to no'u le nu tongau cy ja'e lo jgena gi'e tagji jgari le cy pritu 
 kerlo ku joi le cy zunle jamfu ja'e le nu rivbi le nu cy sezytolplo toi
-abu bevri cy le bartu vacri i lu romu'ei le nu mi na lebna le vi cifnu
+cu bevri cy le bartu vacri i lu romu'ei le nu mi na lebna le vi cifnu
 kei sei la alis pensi lei du ba catra cy za lo djedi be li paji'ire
 i xu na zekri fa le nu cliva cy li'u i abu cladu cusku lei romoi valsi
-i le cmalu cu spuda cmoni (to cy ca ba'o senci toi) i lu ko na cmoni
+i le cmalu cu spuda cmoni to cy ca ba'o senci toi i lu ko na cmoni
 sei la alis cusku i nasai drani tadji le nu cusku li'u 
 
 @c      The baby grunted again, and Alice looked very anxiously into
@@ -414,7 +416,7 @@ sei la alis cusku i nasai drani tadji le nu cusku li'u
 @c    all.  `But perhaps it was only sobbing,' she thought, and looked
 @c    into its eyes again, to see if there were any tears.
 
-i le cifnu cu za'ure'u cmoni i la alis cu xanka mutce catlu le flira
+i le cifnu cu za'ure'u cmoni i la alis xanka mutce catlu le flira
 be cy tezu'e le nu facki le du'u cy mokau i ju'o cy se nazbi lo gapfa'a
 noi lo'e xajyzbi cu zmadu lo'e re'azbi le ka ke'a simsa ce'u iji'a lei
 kanla be cy ca'o binxo lo mutce cmalu fi lo'e cifnu kanla i to'u la alis
@@ -455,13 +457,13 @@ abu ko'a ca'o bevri cu fenki mutce
 @c    way to change them--' when she was a little startled by seeing
 @c    the Cheshire Cat sitting on a bough of a tree a few yards off.
 
-iseki'ubo abu punji le danlu le loldi gi'e mutce tolxankybi'o le nu
+iseki'ubo abu punji le danlu le loldi gi'e co'a mutce tolxanka le nu
 viska le nu dy smaji bajra fa'ane'i le ricmei i lu romu'ei le du'u
 le cifnu cu banro kei sei abu sezysku cy tolmelbi mutce verba i ku'i 
 pe'i ta ca'a melbi xarju li'u i abu co'a pensi lo drata verba noi 
-ke'a slabu abu gi'e da'i se xamgu le nu da'i xarju i abu sezysku lu
+ke'a slabu abu gi'e da'i se xamgu le nu ke'a xarju i abu sezysku lu
 au djuno le du'u makau drani tadji le nu galfi vy li'u ca le nu abu
-milxe se spaji le nu viska le tcica mlatu noi zutse lo jimca be lo 
+milxe se spaji le nu viska le tcicymlatu noi zutse lo jimca be lo 
 tricu za lo mitre be li su'o     
 
 @c      The Cat only grinned when it saw Alice.  It looked good-
@@ -470,7 +472,7 @@ tricu za lo mitre be li su'o
 
 i le mlatu cu cisma po'o ca le nu my viska la alis i my simlu le ka
 xendo sei abu pensi i ku'i my se jgalu loi clani mutce gi'e se denci
-lo so'isaimei iseki'ubo abu jinvi le du'u ei my se sinma
+lo so'isaimei iseki'ubo abu jinvi le du'u ei sinma my 
 
 @c      `Cheshire Puss,' she began, rather timidly, as she did not at
 @c    all know whether it would like the name:  however, it only
@@ -480,8 +482,8 @@ lo so'isaimei iseki'ubo abu jinvi le du'u ei my se sinma
 
 i lu doi tcicymlatu li'u i abu toldarsi cfasku ki'u le nu nasai djuno
 le du'u xukau my nelci le cmene i ku'i my ganze'a cisma po'o i lu ua
-ta se pluka caku sei la alis pensi li'u i abo di'a co'e lu pe'udo'u
-ko mi jungau le du'u ei mi klama zo'e ti makau li'u
+ta se pluka caku sei la alis pensi li'u i abo di'a co'e lu e'o ko mi 
+jungau le du'u ei mi klama zo'e ti makau li'u
 
 @c      `That depends a good deal on where you want to get to,' said
 @c    the Cat.
@@ -520,21 +522,21 @@ tu'a lo drata preti i lu loi mo prenu cu xabju le vi sruri li'u
 
 i lu vufa'a tu sei le mlatu cu pritu xance desku cusku cu xabju lo 
 mapypre i vufa'a tu sei drata xance desku cu xabju lo cibmasti 
-cicyractu i ko vitke le do se nelci i le reda cu fenki li'u
+cicyractu i ko vitke le do se nelci i le reda cu jai fenki li'u
 
 @c      `But I don't want to go among mad people,' Alice remarked.
 
-i lu ku'i mi na djica le nu jbini loi fenki sei la alis te pinka li'u
+i lu ku'i mi na djica le nu jbini loi jai fenki sei la alis te pinka li'u
 
 @c      `Oh, you can't help that,' said the Cat:  `we're all mad here.
 @c    I'm mad.  You're mad.'
 
-i lu o'o do ka'enai rivbi sei le mlatu cu cusku i ro ma'a vi fenki
-i mi fenki i do fenki li'u
+i lu o'o do ka'enai rivbi sei le mlatu cu cusku i ro ma'a vi jai fenki
+i mi jai fenki i do jai fenki li'u
 
 @c      `How do you know I'm mad?' said Alice.
 
-i lu do jinvi le du'u mi fenki kei fo ma li'u
+i lu do jinvi le du'u mi jai fenki kei fo ma li'u
 
 @c      `You must be,' said the Cat, `or you wouldn't have come here.'
 
@@ -544,7 +546,7 @@ i lu ju'o do co'e sei le mlatu cu cusku ija do na ba'o klama ti li'u
 @c    `And how do you know that you're mad?'
 
 i la alis nasai jinvi le du'u la'e di'u cu je'urja'o i ku'i di'a co'e
-lu do jinvi le du'u do fenki kei fo ma li'u
+lu do jinvi le du'u do jai fenki kei fo ma li'u
 
 @c      `To begin with,' said the Cat, `a dog's not mad.  You grant
 @c    that?'
@@ -559,9 +561,9 @@ i lu ieru'e sei la alis cusku li'u
 @c    angry, and wags its tail when it's pleased.  Now I growl when I'm
 @c    pleased, and wag my tail when I'm angry.  Therefore I'm mad.'
 
-i lu ka'u le mlatu cu di'a co'e lo'e gerku cu cmoni ca le nu fengu kei 
-gi'e rebla deskygau ca le nu gleki i zu'unai mi cmoni ca le nu gleki kei 
-gi'e rebla deskygau ca le nu fengu iseni'ibo mi fenki li'u
+i lu ka'u sei le mlatu cu di'a co'e lo'e gerku cu cmoni ca lo'e nu fengu 
+kei gi'e rebla deskygau ca le nu gleki i zu'unai mi cmoni ca le nu gleki 
+kei gi'e rebla deskygau ca le nu fengu iseni'ibo mi jai fenki li'u
 
 @c      `I call it purring, not growling,' said Alice.
 
@@ -588,20 +590,20 @@ i lu do mi ba bu'u viska sei le mlatu cu cusku li'u i my canci
 @c    where it had been, it suddenly appeared again.
 
 i la alis na mutce se spaji la'e di'u ki'u le nu abu ca'o co'a se tcaci 
-le nu loi cizra cu fasnu i ca le nu abu catlu le stuzi be le nu my pu
-zvati kei my za'ure'u tolcanci
+le nu loi cizra cu fasnu i ca le nu abu catlu le pu se zvati be my kei
+my za'ure'u tolcanci
 
 @c      `By-the-bye, what became of the baby?' said the Cat.  `I'd
 @c    nearly forgotten to ask.'
 
-i lu ta'o le cifnu cu mo sei le mlatu cu cusku i mi jibni tolmo'i
-lenu terpreti li'u
+i lu ta'o le cifnu cu mo sei le mlatu cu cusku i mi jibni tolmo'izu'e
+le nu te preti li'u
 
 @c      `It turned into a pig,' Alice quietly said, just as if it had
 @c    come back in a natural way.
 
-i lu binxo lo xarju li'u smaji se cusku la alis tai lenu my fadni
-xruti
+i lu ba'o binxo lo xarju li'u smaji se cusku la alis tai da'i lenu my 
+fadni xruti
 
 @c      `I thought it would,' said the Cat, and vanished again.
 
@@ -622,14 +624,15 @@ i ku'i my na tolcanci i baku za lo mentu be paji'ire abu di'a cadzu
 fa'a le se cusku se xabju be le cibmasti cicyractu i lu mi pu viska
 lo'e mapypre sei abu sezysku i le cibmasti cicyractu cu mutce zmadu
 fi le ka cinri i la'acu'i ki'u le du'u ca mumymasti kei cycy na traji
-fenki i na tai fenki du'i le nu no'a ca le cibmasti li'u i
-ca le nu abu cusku di'u kei abu fa'aga'u catlu i le mlatu cu za'ure'u
-zvati gi'e zutse lo jimca be lo tricu
+fenki i na tai fenki du'i lo'e nu no'a ca le cibmasti li'u i ca le nu 
+abu cusku di'u kei abu fa'aga'u catlu i le mlatu cu za'ure'u zvati 
+gi'e zutse lo jimca be lo tricu
+
 @c mumymasti
 
 @c      `Did you say pig, or fig?' said the Cat.
 
-i lu do cusku zo xarju ji zo narju sei le maltu cu cusku li'u
+i lu do cusku zo xarju ji zo narju sei le mlatu cu cusku li'u
 
 @c      `I said pig,' replied Alice; `and I wish you wouldn't keep
 @c    appearing and vanishing so suddenly:  you make one quite giddy.'
@@ -644,6 +647,7 @@ canci je tolcanci i do gasnu le nu mutce le ka se cfipu li'u
 i lu je'e sei le mlatu cu cusku li'u i caku my masno mutce canci
 co'a le fanmo be le rebla co'u le nu cisma noi ze'a renvi ba le nu
 le drata pagbu ba'o canci
+
 @c klama ma .i zo canci cu xagmau pe'i --ok
 
 @c      `Well!  I've often seen a cat without a grin,' thought Alice;
@@ -664,11 +668,11 @@ lei se viska be mi bei ze'e le nu mi jmive li'u
 @c    `Suppose it should be raving mad after all!  I almost wish I'd
 @c    gone to see the Hatter instead!'
 
-abu na ze'u klama pu le nu viska le zdani be le cibmasti cicyractu i
+i abu ze'unai klama pu le nu viska le zdani be le cibmasti cicyractu i
 abu jinvi le du'u drani zdani kei ki'u le nu le damtu'u cu tarmi lo'e
 kerlo kei e le nu le drudi cu se gacri lo'e skapi i le zdani cu tai
 barda ja'e le nu abu na nelci le nu jbikla pu le nu citka piso'u le
-zunle spisa be le mledi kei e le nu gasnu le nu abu banro lo gutci be
-li ji'ire iseva'oji'asaibo abu toldarsi milxe cadzu fa'a zy gi'e sezysku
-lu ru'a cycy ca'a traji fenki i aunairu'e mi seba'i pu klama le nu
-viska le mapypre li'u
+zunle spisa be le mledi kei e le nu gasnu le nu abu banro lo mitre be
+li ji'ipimu iseva'oji'asaibo abu toldarsi milxe cadzu fa'a zy gi'e 
+sezysku lu ru'a cycy ca'a traji fenki i aunairu'e mi seba'i pu klama 
+le nu viska le mapypre li'u
