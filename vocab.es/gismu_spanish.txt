@@ -1,6 +1,4 @@
 Lista de gismu con definiciones en español.		rev. 26/07/2002
-Traducida del inglés por Jorge Llambías <jjllambias@hotmail.com>, (revisada por Jose Gallo <gallo%galileo.fie@cs.us.es> en 1994).
-
 bacru         ba'u  pronunciar      x1 pronuncia/dice/verbaliza/vocaliza/hace sonido x2; (krixa, cusku)
 badna               banana          x1 es una banana/plátano (fruta) de especie/variedad x2;
 badri     dri       triste          x1 está triste/deprimido/melancólico por x2 (evento); (gleki)
