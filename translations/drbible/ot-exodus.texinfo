@@ -2160,7 +2160,7 @@
 
 @c    20:2. I am the Lord thy God, who brought thee out of the land of Egypt,
 @c    out of the house of bondage.
-20:2. .i mi'e .iaves noi cevni do mi livgau do le misro gugde noi bairgu'a zdani
+20:2. .i mi'e .iaves noi cevni do mi livgau do le misro gugde noi selbairgu'a zdani
 
 @c    20:3. Thou shalt not have strange gods before me.
 20:3. .i lo drata be mi be'o na cevni ko
