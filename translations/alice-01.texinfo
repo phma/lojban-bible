@@ -1,5 +1,5 @@
 @node    pamo'o, remo'o, le fukpi, Top
-@chapter pamo'o [Down The Rabbit-Hole]
+@chapter pamo'o mo'ini'a le ractu kevna
 
 @c                                CHAPTER I
 

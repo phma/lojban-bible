@@ -64,8 +64,8 @@ This work, in all forms, is explicitely placed in the public domain.
 
 @menu
 * le fukpi::	le nu fukpi gau do cu se curmi fi da
-* pamo'o::	ne'i le ractu kevna
-* remo'o::	The Pool of Tears
+* pamo'o::	pamo'o mo'ini'a le ractu kevna
+* remo'o::	[The Pool of Tears]
 * cimo'o::	[A Caucus-Race and a Long Tale]
 * vomo'o::	[The Rabbit Sends in a Little Bill]
 * mumo'o::	[Advice from a Caterpillar]
