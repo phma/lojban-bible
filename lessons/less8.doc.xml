@@ -45,8 +45,7 @@ without being missed. In fact place conversion is often used when we want
 to get rid of places like this.
 
 <itemizedlist>
-<listitem><informalexample>
-<literallayout><foreignphrase lang="art-lojban">mi'a tugni do zo'e le dinske</foreignphrase>
+<listitem><informalexample><literallayout><foreignphrase lang="art-lojban">mi'a tugni do zo'e le dinske</foreignphrase>
 <foreignphrase lang="art-lojban">mi'a tugni do fo le dinske</foreignphrase>
 We agree with you [that something is true] about economics.</literallayout>
 </informalexample><informalexample>
@@ -54,8 +53,7 @@ We agree with you [that something is true] about economics.</literallayout>
 As regards economics [we] agree [with you].</literallayout>
 </informalexample></listitem>
 
-<listitem><informalexample>
-<literallayout><foreignphrase lang="art-lojban">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>
+<listitem><informalexample><literallayout><foreignphrase lang="art-lojban">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>
 <foreignphrase lang="art-lojban">le prenu cu klama fu lo trene</foreignphrase>
 The person goes somewhere, from somewhere, via somewhere, by train.</literallayout>
 </informalexample><informalexample>
@@ -183,7 +181,9 @@ make a really obvious sentence, we can say
 <informalexample><literallayout><foreignphrase lang="art-lojban">le dunda cu dunda le se dunda le te dunda</foreignphrase>
 The giver gives the given-thing to the person-to-whom-it-is-given
 The donor gives the gift to the recipient.</literallayout>
-</informalexample></para>
+</informalexample><note><para><quote role="gloss">gift</quote> here is anything given without
+payment or exchange &mdash; it doesn't need to have the <quote
+role="socalled">special present</quote> associations of the English word.)</para></note></para>
 
 <para>These conversions apply not only to <foreignphrase
 lang="art-lojban">gismu</foreignphrase>, but to any word acting as a
@@ -287,9 +287,7 @@ own place-structure &mdash; which is, of course, the same as that of <foreignphr
 lang="art-lojban">se dunda</foreignphrase>:
 
 <informalexample><para>x<subscript>1</subscript> is a gift from x<subscript>2</subscript> to x<subscript>3</subscript>
-</para></informalexample><note><para><quote role="gloss">gift</quote> here is anything given without
-payment or exchange &mdash; it doesn't need to have the <quote
-role="socalled">special present</quote> associations of the English word.)</para></note></para>
+</para></informalexample></para>
 
 <para>If we want to say <quote role="gloss">the gift</quote>,
 <foreignphrase lang="art-lojban">le seldunda</foreignphrase> is not really an
@@ -423,8 +421,7 @@ to</quote>)</para></listitem> </varlistentry>
 
 </variablelist></para>
 
-<warning><para>For reasons which aren't important here, this method will
-always give you an acceptable <foreignphrase
+<warning><para>This method will always give you an acceptable <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> &mdash; except in one case.  Lojban does
 not allow double consonants, because they are difficult to pronounce, and
 can be heard incorrectly as one consonant.  This means that we can't have
@@ -594,7 +591,7 @@ some background knowledge:
 <itemizedlist>
 
 <listitem><para>how to make sure <foreignphrase
-lang="art-lojban">rafsi</foreignphrase> stick together in a word
+lang="art-lojban">rafsi</foreignphrase> in a word stick together
 unambiguously in Lojban grammar 
 (<citetitle>The Complete Lojban Language</citetitle>, Chapter 4.5&ndash;4.6, 
 4.10&ndash;4.12.)</para></listitem>
@@ -609,7 +606,7 @@ lang="art-lojban">lujvo</foreignphrase> from the place structures of the <foreig
 lang="art-lojban">gismu</foreignphrase> that make it up
 (<citetitle>The Complete Lojban Language</citetitle>, Chapter 12.)</para></listitem>
 
-</itemizedlist>It's worth your while to look into these issues if you'll be working with 
+</itemizedlist>It's worth your while to look into these issues if you'll be using 
 the language seriously, and especially if you'll be writing in it. (<foreignphrase
 lang="art-lojban">lujvo</foreignphrase> are easier to deal with while 
 writing than while speaking, because you have the time to reflect on how 
@@ -871,8 +868,8 @@ klama pe le gusta na te djuno fi do li'u</foreignphrase></para></listitem>
 fengu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la jan. te xatra [mi
-ti]</foreignphrase> (Whether you include the <foreignphrase
-lang="art-lojban">mi</foreignphrase> or <foreignphrase
+ti]</foreignphrase> (Whether or not you include the <foreignphrase
+lang="art-lojban">mi</foreignphrase> and <foreignphrase
 lang="art-lojban">ti</foreignphrase> depends on whether they are important in this
 context &mdash; probably they are obvious and can be missed
 out.)</para></listitem>
@@ -883,7 +880,7 @@ emigrate.</quote>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la lojban. ve
 tavla fo lo prenu</foreignphrase> (<quote>There is a conversation in Lojban.</quote> We
-don't need <foreignphrase lang="art-lojban">lo prenu</foreignphrase> since we can
+don't need <foreignphrase lang="art-lojban">lo prenu</foreignphrase>, though, since we can
 assume that it is people chatting in Lojban and not, say,
 chimpanzees.)</para></listitem>
 
@@ -936,7 +933,7 @@ version of <quote>looks at herself in the mirror.</quote> There are other
 ways to say this, but we haven't covered the requisite grammar yet.)</para></listitem>
 
 <listitem><para>She puts on more lipstick. (Literally, <quote>She 
-adds to her lip paint.</quote></para></listitem>
+adds to her lip paint.)</quote></para></listitem>
 
 <listitem><para>When this is happening, Susan and Ranjeet see each other's 
 reflection.</para></listitem>

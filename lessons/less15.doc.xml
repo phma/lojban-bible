@@ -60,7 +60,7 @@ learning Lojban.</quote> In a construction like that in English, you are
 not asking a real question; that's why this is called an <firstterm>indirect 
 question</firstterm>. Instead, you 
 are saying that you already <emphasis>know</emphasis> the answer to the 
-question. You can tell the word <wordasword>who</wordasword> in that statement is 
+question. You can tell that the word <wordasword>who</wordasword> in that statement is 
 not a request for information, because it is not at the start of the 
 sentence, there's no question mark (or questioning intonation), and the 
 question word is not being emphasised.</para>
@@ -150,7 +150,7 @@ knows whether they want to eat lamb or beef; in Lojban,
 
 <informalexample><para><foreignphrase
 lang="art-lojban">ba'o lenu la djiotis. .e la suzyn. spuda kei le bevri cu
-djuno ledu'u ra djica lenu citka loi lanme <emphasis>je'i kau</emphasis>
+djuno ledu'u  re ra djica lenu citka loi lanme <emphasis>je'i kau</emphasis>
 bakni</foreignphrase></para></informalexample></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -239,7 +239,7 @@ lang="art-lojban">selbri</foreignphrase>. For example, kindness is not just <for
 lang="art-lojban">le ka xendo</foreignphrase>, but the property of someone displaying 
 kindness &mdash; as a characteristic of that someone. In other words, not just
 <foreignphrase
-lang="art-lojban">le ka xendo</foreignphrase><foreignphrase
+lang="art-lojban">le ka xendo</foreignphrase>, but <foreignphrase
 lang="art-lojban">le ka ___ xendo</foreignphrase>, where <foreignphrase
 lang="art-lojban">___</foreignphrase> stands in for that <quote 
 role="socalled">someone</quote>.</para>
@@ -258,7 +258,7 @@ susceptibility is... <foreignphrase lang="art-lojban">le ka
 xlura</foreignphrase>? Strictly speaking, yes: both properties involve the
 same <foreignphrase
 lang="art-lojban">bridi</foreignphrase>, <foreignphrase
-lang="art-lojban">xlura</foreignphrase></para>
+lang="art-lojban">xlura</foreignphrase>.</para>
 
 <para>But obviously, we can't have the same expression for both influence and
 susceptibility; we have to have a way of highlighting the place in the <foreignphrase 
@@ -283,9 +283,7 @@ slot
 <informalexample><para><foreignphrase lang="art-lojban">leka ___ terdi bartu
 pensi</foreignphrase></para>
 
-</informalexample>
- 
-By the same token, influence is a property of things
+</informalexample>By the same token, influence is a property of things
 that fit into the x<subscript>1</subscript> place of <foreignphrase
 lang="art-lojban">xlura</foreignphrase>; so you can think of influence as
 <foreignphrase lang="art-lojban">leka ___ xlura</foreignphrase>. If we
@@ -338,7 +336,7 @@ lang="art-lojban">bridi</foreignphrase> is true:
 
 <informalexample><para><foreignphrase
 lang="art-lojban">le ka <emphasis>lo fange pe la vulkan.</emphasis> cu terdi
-bartu pensi</foreignphrase>.)</para></informalexample></para></listitem></itemizedlist></para>
+bartu pensi</foreignphrase></para></informalexample></para></listitem></itemizedlist></para>
 
 <note><title>Lambda Note, Part 1</title><para>If you:
 
@@ -449,7 +447,7 @@ no longer have a property. You've gone back to <foreignphrase
 lang="art-lojban">du'u</foreignphrase>. If <foreignphrase lang="art-lojban">mi mansa do
 leka ce'u pensi</foreignphrase>, that's the same as saying <foreignphrase 
 lang="art-lojban">do djuno ledu'u mi pensi</foreignphrase>. A property applying to
-a known entity is no longer a property at all in Lojban, but a fact.</para>
+a known entity is no longer a property at all in Lojban, but a fact &mdash; or (if you no longer have to reify it) an event.</para>
 
 <para>Be careful here:
 what English (and in fact, most traditional usage) calls properties are
@@ -470,6 +468,8 @@ instead. Much of the time, in fact, that is precisely what you should be saying.
 As a rule of thumb: if you wouldn't say <foreignphrase lang="art-lojban">ka 
 bajra</foreignphrase> in a sentence, don't say <foreignphrase 
 lang="art-lojban">ka gleki</foreignphrase> either.</para>
+
+<note><para>For instance, is <wordasword>illness</wordasword> a quality in the sentence <quote>Fred's illness is more debilitating than George's</quote>? Let's use <wordasword>running</wordasword> instead. If we translated <wordasword>more debilitating</wordasword> as a single <foreignphrase lang="art-lojban">lujvo</foreignphrase>, <foreignphrase lang="art-lojban">rubri'amau</foreignphrase>, would we say <foreignphrase lang="art-lojban">leka la fred. bajra cu rubri'amau leka la djordj. bajra</foreignphrase>? No; we'd likely say <foreignphrase lang="art-lojban">lenu la fred. bajra cu rubri'amau lenu la djordj. bajra</foreignphrase>. In fact, there <emphasis>is</emphasis> a quality involved in the sentence, if you expand it out fully &mdash; but it's not the illness, but the debilitatingness: <foreignphrase lang="art-lojban">lenu la fred. bilma cu zmadu lenu la djordj. bilma kei leka ce'u rinka lenu zo'e ruble</foreignphrase> <quote>The event of Fred being ill exceeds the event of George being ill in the quality of causing someone to be weak.</quote></para></note>
 
 <tip><para>In older Lojban, you'll often see phrases like <foreignphrase 
 lang="art-lojban">leka mi gleki</foreignphrase> for
@@ -500,7 +500,7 @@ and to whom:
 lang="art-lojban">le pulji cu djica lenu djuno ledu'u makau tavla makau le nu
 jemna zercpa</foreignphrase>.
                    
-</para></informalexample>In that case, he's looking for x<subscript>1</subscript>s
+</para></informalexample>In that case, he's looking for <emphasis>both</emphasis> x<subscript>1</subscript>s
 <emphasis>and</emphasis> x<subscript>2</subscript>s to fill in his
 <foreignphrase 
 lang="art-lojban">ka</foreignphrase>-property:
@@ -508,9 +508,11 @@ lang="art-lojban">ka</foreignphrase>-property:
 <informalexample><para><foreignphrase 
 lang="art-lojban">le pulji cu sisku leka ce'u tavla ce'u lenu jemna zerle'a</foreignphrase>
                    
-</para></informalexample></para>
+To put it more formally, he is seeking pairs {<foreignphrase 
+lang="art-lojban">.abu, by.</foreignphrase>} such that the proposition <foreignphrase 
+lang="art-lojban">.abu tavla by.</foreignphrase> is true.</para></informalexample></para>
 
-<tip><para>By default, two different instances <foreignphrase 
+<tip><para>By default, two different instances of <foreignphrase 
 lang="art-lojban">ce'u</foreignphrase> are two distinct entities. So the example given is not saying
 that the police are looking to someone who talked to themselves about the heist!</para></tip>
 
@@ -518,7 +520,7 @@ that the police are looking to someone who talked to themselves about the heist!
 lang="art-lojban">ce'u</foreignphrase> is our old friend <foreignphrase 
 lang="art-lojban">simxu</foreignphrase>: if we want to speak
 about reciprocality, we are very much interested in which two places are
-related in that reciprocality:
+related through that reciprocality:
 
 <informalexample><para><foreignphrase 
 lang="art-lojban">mi ce do simxu leka ce'u tavla ce'u lenu
@@ -588,7 +590,7 @@ lang="art-lojban">sumti</foreignphrase> to abstraction: <foreignphrase
 lang="art-lojban">tu'a</foreignphrase></title>
 
 <para>When looking up words in a <foreignphrase
-lang="art-lojban">gismu</foreignphrase> list, you will have already noticed
+lang="art-lojban">gismu</foreignphrase> list, you may have already noticed
 that, where languages like English have people or things as subjects and
 objects, Lojban often uses abstractions instead as <foreignphrase
 lang="art-lojban">gismu</foreignphrase> places. For example, in
@@ -657,8 +659,8 @@ lang="art-lojban">selbri</foreignphrase> each time.</para>
 empty all the time. Remember <foreignphrase
 lang="art-lojban">zo'e</foreignphrase>? <foreignphrase
 lang="art-lojban">zo'e</foreignphrase> is the <quote role="socalled">don't
-care</quote> value we leave implied in the places of <foreignphrase
-lang="art-lojban">bridi</foreignphrase> we leave empty. For example, when I
+care</quote> value we leave implied in the unspecified places of <foreignphrase
+lang="art-lojban">bridi</foreignphrase>. For example, when I
 say <foreignphrase lang="art-lojban">mi klama le barja</foreignphrase>, I'm
 not bothering to specify my point of origin, route, or vehicle. They are
 all implied to be <foreignphrase lang="art-lojban">zo'e</foreignphrase>:
@@ -738,7 +740,7 @@ lang="art-lojban">su'u</foreignphrase>, you may recall, is the generic
 abstractor); so you can translate
 <foreignphrase lang="art-lojban">tu'a</foreignphrase> as <quote>some
 abstraction associated with...</quote>, or more colloquially, <quote>some
-stuff about...</quote> <foreignphrase
+stuff about...</quote>. <foreignphrase
 lang="art-lojban">tu'a</foreignphrase> is easily the most popular way of
 dealing with abstractions you wish weren't there in Lojban; Lojban
 sentences using it come out fairly similar to the natural language
@@ -851,8 +853,8 @@ lang="art-lojban">sumti</foreignphrase> of
 subject. But logically it isn't: what we're describing as difficult is not
 <wordasword>me</wordasword>. We can't say:
 
-<informalexample><itemizedlist><listitem><para>Who is difficult?</para></listitem>
-<listitem><para>Me (to annoy)</para></listitem></itemizedlist>
+<informalexample><itemizedlist><listitem><para><quote>Who is difficult?</quote></para></listitem>
+<listitem><para><quote>Me (to annoy).</quote></para></listitem></itemizedlist>
 
 </informalexample>What's actually going on is that,
 underlyingly, what is difficult is <wordasword>to annoy me</wordasword>:
@@ -899,7 +901,7 @@ For example, the place structure of <foreignphrase
 lang="art-lojban">fenki</foreignphrase> used to be 
 
 <informalexample><para>x<subscript>1</subscript> is crazy
-in behaviour x<subscript>2</subscript> (abstraction) by standard x<subscript>3</subscript>.</para> 
+in behaviour x<subscript>2</subscript> (abstraction) by standard x<subscript>3</subscript></para> 
 
 </informalexample>But
 <emphasis>any</emphasis> abstraction that would go into x<subscript>2</subscript> would contain
@@ -920,9 +922,9 @@ lang="art-lojban">la jan. fenki lenu la jan. tavla bau la
 lojban.</foreignphrase></para></listitem>
 
 </itemizedlist>The question then became: does the x<subscript>1</subscript> tell us
-anything the x<subscript>2</subscript> wasn't already telling us? We'd know who was involved in
+anything the x<subscript>2</subscript> wasn't already telling us? We know who was involved in
 the crazy behaviour, because that person would be a <foreignphrase
-lang="art-lojban">sumti</foreignphrase> inside x<subscript>2</subscript>. Was there any reason to 
+lang="art-lojban">sumti</foreignphrase> inside x<subscript>2</subscript>. (More specifically, he or she would be the active party: someone hitting random strangers is crazy; someone being hit by random strangers isn't &mdash; although arguably someone <emphasis>allowing</emphasis> themselves to keep being hit by random strangers is.) Was there any reason, then, to 
 grant the person an extra place in the overall <foreignphrase
 lang="art-lojban">bridi</foreignphrase>? The decision was, no: behaviour is what 
 is crazy, so you can work out that the person acting out the behaviour is 
@@ -992,8 +994,10 @@ lang="art-lojban">tcica</foreignphrase>, has the place structure
 misleads/deceives/dupes/fools/cheats/tricks x<subscript>2</subscript> into x<subscript>3</subscript>
 (event/state)</para>
 
-</informalexample>This means that, while in English we say that <quote>x<subscript>1</subscript> deceives x<subscript>2</subscript> into
-doing x<subscript>3</subscript>, by doing x<subscript>4</subscript></quote>, in Lojban the person and the action are merged into
+</informalexample>This means that, while in English we say that 
+<quote>x<subscript>1</subscript> (person) deceives x<subscript>2</subscript> into
+doing x<subscript>3</subscript>, by doing x<subscript>4</subscript></quote>, 
+in Lojban the person and the action are merged into
 the one place. That makes <foreignphrase lang="art-lojban">lo tcica</foreignphrase>
 a trick, not a trickster; a deception, and not a deceiver.
 To say that someone is a trickster or a deceiver,
@@ -1006,7 +1010,7 @@ lang="art-lojban">selbri</foreignphrase>, in order to get their own
 <foreignphrase lang="art-lojban">sumti</foreignphrase>.</para>
 
 <para>The solution to this is to force Lojban to have raising after all,
-changing its place structure by modifying the <foreignphrase
+changing the place structure of the <foreignphrase
 lang="art-lojban">selbri</foreignphrase> involved. This works just like
 <foreignphrase lang="art-lojban">se</foreignphrase> changing the place
 structure of its <foreignphrase lang="art-lojban">selbri</foreignphrase>,
@@ -1017,13 +1021,7 @@ abstraction, to any <foreignphrase lang="art-lojban">sumti</foreignphrase>
 contained <emphasis>within</emphasis> the abstraction. Let's try this with 
 a few sentences:
 
-<informalexample>
-
-<itemizedlist>
-
-<listitem>
-
-<itemizedlist>
+<informalexample><itemizedlist>
 
 <listitem> 
 <para><foreignphrase lang="art-lojban"><emphasis>lenu la jan.
@@ -1035,13 +1033,9 @@ dasni loi zirpu</emphasis> cu fenki</foreignphrase> </para> </listitem>
 </para>
 </listitem>
 
-</itemizedlist>
+</itemizedlist></informalexample>
 
-</listitem>
-
-<listitem>
-
-<itemizedlist>
+<informalexample><itemizedlist>
 
 <listitem>
 <para><foreignphrase lang="art-lojban"><emphasis>lenu la djiotis. cu 
@@ -1055,12 +1049,9 @@ cinri</foreignphrase>
 </para>
 </listitem>
 
-</itemizedlist>
-</listitem>
+</itemizedlist></informalexample>
 
-<listitem>
-
-<itemizedlist>
+<informalexample><itemizedlist>
 
 <listitem>
 <para><foreignphrase lang="art-lojban"><emphasis>tu'a la 
@@ -1074,13 +1065,9 @@ tcica la suzyn.</foreignphrase>
 </para>
 </listitem>
 
-</itemizedlist>
+</itemizedlist></informalexample>
 
-</listitem>
-
-<listitem>
-
-<itemizedlist>
+<informalexample><itemizedlist>
 
 <listitem>
 <para><foreignphrase lang="art-lojban"><emphasis>lenu fanza mi</emphasis> 
@@ -1093,12 +1080,12 @@ cu nandu</foreignphrase>
 </para>
 </listitem>
 
-</itemizedlist></listitem></itemizedlist></informalexample></para>
+</itemizedlist></informalexample></para>
 
 <para>You'll notice that, with these new place structures, the Lojban
 phrases sound pretty much like their English equivalents. For example,
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. cu jai cinri</foreignphrase> 
+<informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. jai cinri</foreignphrase> 
 Jyoti is interesting</literallayout>
 
 </informalexample><informalexample><literallayout><foreignphrase lang="art-lojban">la ranjit. jai tcica la suzyn.</foreignphrase>
@@ -1109,7 +1096,7 @@ lang="art-lojban">jai</foreignphrase> those things we couldn't before. The
 Lojban for <quote>Jyoti is interesting and beautiful</quote>, for example,
 is 
 
-<informalexample><para><foreignphrase lang="art-lojban">la djiotis. cu jai cinri gi'e
+<informalexample><para><foreignphrase lang="art-lojban">la djiotis. jai cinri gi'e
 melbi</foreignphrase></para>
 
 </informalexample>That's because Jyoti goes in the x<subscript>1</subscript> place of
@@ -1136,8 +1123,7 @@ that means <quote role="gloss">to annoy</quote>. But not to worry: Lojban
 allows you to keep the original abstraction in the <foreignphrase
 lang="art-lojban">bridi</foreignphrase> by preceding it with <foreignphrase
 lang="art-lojban">fai</foreignphrase>. <foreignphrase
-lang="art-lojban">fai</foreignphrase> is a <foreignphrase
-lang="art-lojban">cmavo</foreignphrase> like <foreignphrase
+lang="art-lojban">fai</foreignphrase> is a place tag like <foreignphrase
 lang="art-lojban">fa</foreignphrase> and <foreignphrase
 lang="art-lojban">fe</foreignphrase>; it effectively adds a new place to
 the <foreignphrase lang="art-lojban">bridi</foreignphrase>. So <wordasword>I am
@@ -1182,7 +1168,7 @@ use <foreignphrase lang="art-lojban">jai</foreignphrase> (and
 lang="art-lojban">.i tu'a mi nabmi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i leka mi xebni loi kensa fange cu nabmi</foreignphrase></para></listitem>
+lang="art-lojban">.i ledu'u mi xebni loi kensa fange cu nabmi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i mi djuno tu'a la lojban.</foreignphrase></para></listitem>
@@ -1199,7 +1185,7 @@ lang="art-lojban">.i lenu lenu la jan. xalfekfri cu nabmi cu cizra</foreignphras
 level of abstraction.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i da poi lenu fanza da cu nandu cu zvati</foreignphrase> (Reduce this, then see 
+lang="art-lojban">.i da poi lenu fanza ke'a cu nandu cu zvati</foreignphrase> (Reduce this, then see 
 if you can't reduce it a little more...)</para></listitem>
 
 
@@ -1334,12 +1320,12 @@ lang="art-lojban">.i le vo pendo na djuno le du'u ri zvati ma kau mu'i ma
 kau</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jan. cusku lu .i mi cazi ckire da'i tu'a loi glare cnino bo se 
+lang="art-lojban">.i la jan. cusku lu .i mi cazi ckire da'i tu'a loi glare ke cnino se 
 zbasu ckafi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. se cinri leka ce'u cizra pe le kumfa poi 
-ri nenri</foreignphrase></para></listitem>
+dy. nenri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
 .ue le vi canko noi jarco tu'a loi tarci cu pe'i jai se xanka
@@ -1352,7 +1338,7 @@ jarco leka le mebri po'e ce'u cu rufsu li'u</foreignphrase></para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">.i pa fange poi simsa lo sonci cu jai cfari fai lenu 
 lanli le terdi pendo kei gi'e cusku lo'u .uxrup .ua. doglau. latl.
-tcak val. tca. le'u</foreignphrase></para></listitem>
+tcak. val. tca. le'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. kucli ledu'u le fange cu tavla bau ma kau</foreignphrase></para></listitem>
@@ -1461,9 +1447,9 @@ kind of a trick question...</para></listitem>
 
 <para><orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">ka ce'u ckire</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ka ce'u ckire</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la arnold.
+<listitem><para><foreignphrase lang="art-lojban">le ka ce'u simsa la arnold.
 cfartseneger.</foreignphrase> (or <foreignphrase lang="art-lojban">la'o gy.
 Arnold Schwarzenegger gy.</foreignphrase>, if you prefer. The Lojban sound
 system (phonology) doesn't allow <foreignphrase
@@ -1471,18 +1457,18 @@ lang="art-lojban">cv</foreignphrase> in sequence; this is something you
 can worry about more in your further Lojban studies. See 
 <citetitle>The Complete Lojban Language</citetitle>, p. 36)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka ce'u mamta</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ka ce'u mamta</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka mamta ce'u</foreignphrase> or <foreignphrase lang="art-lojban">ka 
+<listitem><para><foreignphrase lang="art-lojban">le ka mamta ce'u</foreignphrase> or <foreignphrase lang="art-lojban">le ka 
 ce'u se mamta</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka ce'u simsa la
+<listitem><para><foreignphrase lang="art-lojban">le ka ce'u simsa la
 arnold. cfartseneger. kei poi ckaji mi</foreignphrase> (or, of course,
-<foreignphrase lang="art-lojban">du'u mi simsa la
+<foreignphrase lang="art-lojban">le du'u mi simsa la
 arnold. cfartseneger.</foreignphrase>, which actually means the same 
 thing.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ka xanka vi 
+<listitem><para><foreignphrase lang="art-lojban">le ka xanka vi 
 ce'u</foreignphrase>. A little contrived, we admit.</para></listitem>
 
 
@@ -1494,17 +1480,17 @@ ce'u</foreignphrase>. A little contrived, we admit.</para></listitem>
 <para><orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">mi troci tu'a le cidjrkari</foreignphrase> (What you 
+lang="art-lojban">.i mi troci tu'a le cidjrkari</foreignphrase> (What you 
 actually try is to eat it &mdash; or, on occasion, to keep it down.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">mi djica tu'a le cidjrkari</foreignphrase>
+lang="art-lojban">.i mi djica tu'a le cidjrkari</foreignphrase>
 (This usually comes as a shock to people learning Lojban, but you can't actually want 
 objects, only events. The event you usually want is to be in possession of 
 the object, in some way or other.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">mi nelci le cidjrkari</foreignphrase>
+lang="art-lojban">.i mi nelci le cidjrkari</foreignphrase>
 (The <foreignphrase
 lang="art-lojban">gismu</foreignphrase> list explicitly allows <foreignphrase
 lang="art-lojban">nelci</foreignphrase> to involve both objects and 
@@ -1514,19 +1500,19 @@ lang="art-lojban">nelci</foreignphrase> quite different to <foreignphrase
 lang="art-lojban">djica</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">lenu mi cliva cu snuti</foreignphrase> (No surprise 
+lang="art-lojban">.i lenu mi cliva cu snuti</foreignphrase> (No surprise 
 there; <quote role="gloss">leaving</quote> corresponds to an abstraction.)
 </para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">leka ckire cu fanza mi</foreignphrase></para></listitem>
+lang="art-lojban">.i leka ckire cu fanza mi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">tu'a le cidjrkari cu fanza mi</foreignphrase> (Unlike 
+lang="art-lojban">.i tu'a le cidjrkari cu fanza mi</foreignphrase> (Unlike 
 gratitude, curry is certainly not an abstraction.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">le fanza cu cfari</foreignphrase>
+lang="art-lojban">.i le fanza cu cfari</foreignphrase>
 (Yes, you read correctly. To fit the x<subscript>1</subscript> of <foreignphrase
 lang="art-lojban">cfari</foreignphrase>, a <foreignphrase
 lang="art-lojban">sumti</foreignphrase> doesn't actually have to 
@@ -1553,8 +1539,8 @@ lang="art-lojban">tu'a</foreignphrase>.)</para></listitem>
 lang="art-lojban">.i mi jai nabmi</foreignphrase> <quote>I am a problem.</quote></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i mi jai nabmi fai leka mi xebni loi kensa fange</foreignphrase> 
-<quote>I am a problem in that I hate space aliens.</quote></para></listitem>
+lang="art-lojban">.i mi jai nabmi fai ledu'u mi xebni loi kensa fange</foreignphrase> 
+<quote>I am a problem in [the fact] that I hate space aliens.</quote></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la lojban. jai se djuno mi</foreignphrase> <quote>Lojban is known to me.</quote>
@@ -1572,9 +1558,9 @@ Since you have wide liberty in stating what you know about a subject, however, t
 I know about chemistry that hydrogen and oxygen makes water</literallayout></informalexample></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i mi/da cu nibli lenu mi se xamgu tu'a da kei fai lenu mi ckire da</foreignphrase>, <emphasis>or</emphasis> <foreignphrase
+lang="art-lojban">.i mi/da cu jai nibli lenu mi se xamgu tu'a da kei fai lenu mi ckire da</foreignphrase>, <emphasis>or</emphasis> <foreignphrase
 lang="art-lojban">.i mi/tu'a da jai se nibli lenu mi ckire da kei fai lenu mi se xamgu 
-da</foreignphrase> No real English equivalent; the original sentence is 
+tu'a da</foreignphrase> No real English equivalent; the original sentence is 
 <quote>Me being grateful to <wordasword>x</wordasword> necessitates that I have been
 benefitted by <wordasword>x</wordasword>.</quote></para></listitem>
 
@@ -1589,7 +1575,7 @@ lang="art-lojban">.i lenu la jan. jai nabmi fai lenu xalfekfri cu cizra</foreign
 lang="art-lojban">jai</foreignphrase> twice:
 
 <informalexample><para><foreignphrase
-lang="art-lojban">.i la jan. jai jai cizra fai xi pa lenu xalfekfri fai xi re lenu nabmi</foreignphrase></para>
+lang="art-lojban">.i la jan. jai jai cizra fai xi pa lenu xalfekfri kei fai xi re lenu nabmi</foreignphrase></para>
 
 </informalexample>Messily, we now have two <foreignphrase
 lang="art-lojban">fai</foreignphrase> places: the Lojban subscript phrases <foreignphrase
@@ -1600,13 +1586,18 @@ lang="art-lojban">jai</foreignphrase> was intended to make Lojban more natural &
 wacky!</para></note></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">da poi da jai nandu fai lenu fanza cu zvati</foreignphrase> 
+lang="art-lojban">da poi ke'a jai nandu fai lenu fanza da cu zvati</foreignphrase> 
 <quote><wordasword>x</wordasword> such that <wordasword>x</wordasword> is difficult to
-annoy is here.</quote></para>
+annoy is here.</quote> You do need to indicate somehow who is being annoyed in the <foreignphrase
+lang="art-lojban">fai</foreignphrase>-clause. One way of doing so is to leave the raised <foreignphrase
+lang="art-lojban">sumti</foreignphrase> in, as we've just done: <foreignphrase
+lang="art-lojban">fai lenu fanza da cu zvati</foreignphrase>. Another is to make the raised place of the <foreignphrase
+lang="art-lojban">fai</foreignphrase>-clause its x<subscript>1</subscript>, conventionally its most important place: <foreignphrase
+lang="art-lojban">da poi ke'a jai nandu fai lenu se fanza cu zvati</foreignphrase>.</para>
 
 <para>Since what you're describing is
 a thing or person (a person, in this case), that means that <foreignphrase
-lang="art-lojban">da poi da jai nandu fai lenu fanza</foreignphrase> should be a <foreignphrase
+lang="art-lojban">da poi ke'a jai nandu fai lenu fanza</foreignphrase> should be a <foreignphrase
 lang="art-lojban">sumti</foreignphrase>, with <foreignphrase
 lang="art-lojban">nandu</foreignphrase> as its <foreignphrase
 lang="art-lojban">selbri</foreignphrase>. This gives 
@@ -1634,17 +1625,12 @@ direct or indirect.)</para></listitem>
 freshly-brewed coffee.</quote> (You are grateful in Lojban for events 
 rather than objects, so fully expanded, <foreignphrase
 lang="art-lojban">.i la jan. ckire da'i <emphasis>lenu kakne lenu 
-pinxe</emphasis> loi glare cnino bo se 
+pinxe</emphasis> loi glare ke cnino se 
 zbasu ckafi</foreignphrase>.)</para></listitem>
 
 <listitem><para>Jyoti is interested in the weirdness of the room she is in.
 (<foreignphrase lang="art-lojban">pe</foreignphrase> is another way of 
-associating abstractions with specific objects. Note that <foreignphrase
-lang="art-lojban">pe</foreignphrase> follows a <foreignphrase
-lang="art-lojban">sumti</foreignphrase>, so the current <foreignphrase
-lang="art-lojban">sumti</foreignphrase>, <foreignphrase
-lang="art-lojban">leka ce'u cizra</foreignphrase>, is assumed to have been 
-terminated. A fate we hope will not befall our intrepid heroes...)</para></listitem>
+associating abstractions with specific objects.)</para></listitem>
 
 <listitem><para>Susan says <quote>Wow! This window, which shows the stars, 
 is in my opinion something to be anxious about.</quote> (<foreignphrase
@@ -1686,7 +1672,7 @@ their sense of direction.)</para></listitem>
 <para><orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. cusku lu ta'a do'u pe'i do na birti ledu'u 
+lang="art-lojban">.i la suzyn. cusku lu .i ta'a do'u pe'i do na birti ledu'u 
 do zvati ma kau po'u la terdi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i
@@ -1733,8 +1719,8 @@ a person saying something correct is not eligible to be the x<subscript>1</subsc
 that they say <emphasis>is</emphasis> eligible: <foreignphrase lang="art-lojban">drani</foreignphrase> is
 not by definition restricted to abstractions.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le fange cu furmu gi'e
-cusku lu do jai se curmi fai lenu cliva li'u gi'e to'e vimcu le pendo le
+<listitem><para><foreignphrase lang="art-lojban">.i le fange cu frumu gi'e
+cusku lu .i do jai se curmi fai lenu cliva li'u gi'e to'e vimcu le pendo le
 dansydi'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i le fange cu cusku zoi

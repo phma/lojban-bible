@@ -148,7 +148,9 @@ lang="art-lojban">be</foreignphrase> again, the new <foreignphrase
 lang="art-lojban">sumti</foreignphrase> would be considered a <foreignphrase
 lang="art-lojban">sumti</foreignphrase> of the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> you just added, rather than the original
-<foreignphrase lang="art-lojban">sumti</foreignphrase>! OK, that wasn't terribly
+<foreignphrase lang="art-lojban">sumti</foreignphrase>!</para>
+
+<para>OK, that wasn't terribly
 clear. Let me illustrate:
 
 <informalexample>
@@ -188,7 +190,7 @@ The one who mails {Susan's letter to Zhang about Ranjeet}</literallayout>
 </informalexample></para>
 
 <tip><para>Just because you can inflict such untold misery on the world as
-the example above, doesn't mean
+the examples above, doesn't mean
 you have to, of course. In fact, like <foreignphrase
 lang="art-lojban">ku</foreignphrase> and <foreignphrase
 lang="art-lojban">vau</foreignphrase> (and unlike <foreignphrase
@@ -286,7 +288,7 @@ linkend="less5">Lesson
 <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> and tense
 <foreignphrase lang="art-lojban">cmavo</foreignphrase> can be used to add new
 <foreignphrase lang="art-lojban">sumti</foreignphrase> to a <foreignphrase
-lang="art-lojban">selbri</foreignphrase>. You can add this kind of places as
+lang="art-lojban">selbri</foreignphrase>. You can add these kinds of places as
 internal <foreignphrase lang="art-lojban">sumti</foreignphrase>, as well. This 
 can often be useful. For example, if I wanted to say
 
@@ -295,7 +297,7 @@ can often be useful. For example, if I wanted to say
 
 </informalexample>I could try 
 
-<informalexample><para><foreignphrase lang="art-lojban">le vi xatra de'i li pa cu 
+<informalexample><para><foreignphrase lang="art-lojban">le vi xatra de'i li vo cu 
 se mrilu de'i li ze</foreignphrase></para>
 
 </informalexample>But this would not work at all. A date tagged with <foreignphrase
@@ -311,7 +313,7 @@ lang="art-lojban">le xatra</foreignphrase>, and not to the entire
 <foreignphrase lang="art-lojban">bridi</foreignphrase>. So it is an internal
 <foreignphrase lang="art-lojban">sumti</foreignphrase>:
 
-<informalexample><para><foreignphrase lang="art-lojban">le vi xatra <emphasis>be</emphasis> de'i li pa cu 
+<informalexample><para><foreignphrase lang="art-lojban">le vi xatra <emphasis>be</emphasis> de'i li vo cu 
 se mrilu de'i li ze</foreignphrase></para>
 
 </informalexample>Much better. <!--A pity you won't often see <foreignphrase 
@@ -503,7 +505,7 @@ lang="art-lojban">poi</foreignphrase>. And just as with <foreignphrase
 lang="art-lojban">nu</foreignphrase> and its relatives (those other words
 which nest <foreignphrase lang="art-lojban">bridi</foreignphrase> inside
 <foreignphrase lang="art-lojban">bridi</foreignphrase> in Lojban), you want
-a terminator to say <quote>All right, the relative clause is over, the rest of
+a terminator to say <quote>the relative clause is over, the rest of
 these words belong to the main <foreignphrase
 lang="art-lojban">bridi</foreignphrase> now.</quote> That terminator is
 <foreignphrase lang="art-lojban">ku'o</foreignphrase>.</para>
@@ -518,7 +520,7 @@ it by steps:
 You talked to my sister about economics
 <foreignphrase lang="art-lojban">le mi mensi na nelci la rikis.martin.</foreignphrase>
 My sister does not like Ricky Martin
-<foreignphrase lang="art-lojban">do pu tavla le mi mensi {poi <emphasis>ri</emphasis> na nelci la rikis.martin. ku'o} loi dinske</foreignphrase>
+<foreignphrase lang="art-lojban">do pu tavla le mi mensi {poi <emphasis>le mi mensi</emphasis> na nelci la rikis.martin. ku'o} loi dinske</foreignphrase>
 You talked to my sister who doesn't like Ricky Martin about economics</literallayout>
 </informalexample>Notice that you needed the <foreignphrase lang="art-lojban">ku'o</foreignphrase>
 there, to keep the relative clause out of the hair of the main
@@ -528,9 +530,9 @@ lang="art-lojban">sumti</foreignphrase> of <foreignphrase
 lang="art-lojban">nelci</foreignphrase> and not <foreignphrase
 lang="art-lojban">tavla</foreignphrase> &mdash; which is not really what you want.
 Just as with <foreignphrase lang="art-lojban">nu</foreignphrase> and
-<foreignphrase lang="art-lojban">kei</foreignphrase>, of course, Lojbanists will
+<foreignphrase lang="art-lojban">kei</foreignphrase>, though, Lojbanists will
 normally make sure they don't have to use <foreignphrase
-lang="art-lojban">ku'o</foreignphrase>, though, by little tricks like making sure the
+lang="art-lojban">ku'o</foreignphrase>, by little tricks like making sure the
 relative clause comes just before <foreignphrase
 lang="art-lojban">cu</foreignphrase> &mdash; which shuts every open clause down.
 </para>
@@ -550,15 +552,16 @@ I go to the Pakistani restaurant which is north of town</literallayout>
 <sect1 id="less9keha"><title><foreignphrase
 lang="art-lojban">ke'a</foreignphrase></title> 
 
-<para>We're almost there;
-but we've had to use <foreignphrase lang="art-lojban">ri</foreignphrase> to
-refer back to <foreignphrase lang="art-lojban">le mi mensi</foreignphrase>.
-You'll remember from the exercises to <link linkend="less7">Lesson 7</link>
+<para>We're almost there; but you'll notice
+we've repeated <foreignphrase lang="art-lojban">le mi mensi</foreignphrase> twice.
+We might have tried using <foreignphrase lang="art-lojban">ri</foreignphrase>
+to refer back to <foreignphrase lang="art-lojban">le mi mensi</foreignphrase>.
+But you'll remember from the exercises to <link linkend="less7">Lesson 7</link>
 the acute pain associated with using <foreignphrase
 lang="art-lojban">ri</foreignphrase>: we should be avoiding it where
 possible. (In this instance, in fact, we can't use it properly anyway,
 because a <foreignphrase lang="art-lojban">sumti</foreignphrase> includes
-its relative clause, so <foreignphrase lang="art-lojban">ri</foreignphrase>
+its relative clause; so <foreignphrase lang="art-lojban">ri</foreignphrase>
 would not be referring back to a completed <foreignphrase
 lang="art-lojban">sumti</foreignphrase>, like it's supposed to: the risk of insane
 recursion is just too great.) A similar
@@ -626,7 +629,7 @@ lang="art-lojban">poi</foreignphrase>.) So our example phrases become:</para>
 <para>The last sentence hasn't changed: the convention does not apply to
 non-default places (like <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> and spatial <quote role="socalled">tense</quote>
-places), as they don't follow a predictable order.
+places), since they don't follow a predictable order.
 
 <note><para>This means that (as you'll have already seen several times by now) 
 Lojban, like <quote role="socalled">normal</quote> languages, has usage and
@@ -638,7 +641,8 @@ lang="art-lojban">le mensi poi tavla <emphasis>ke'a</emphasis></foreignphrase> <
 who is talked to</quote> instead
 of <foreignphrase
 lang="art-lojban">le mensi poi <emphasis>ke'a</emphasis> tavla</foreignphrase> <quote>my sister
-who talks</quote>: This is merely an omitted place, after all. And Lojban is
+who talks</quote>: This is merely an omitted place, after all, and the value that
+fits the omitted place is theoretically open. And Lojban is
 by its nature a stickler for the <quote role="socalled">Letter of the Law</quote>. Yet you will still find that,
 like any language actually used by a community, there are more and less usual
 ways of saying things in Lojban.</para>
@@ -1045,7 +1049,7 @@ partner</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">le kansa be le ctuca be la
 ranjit. <emphasis>be'o</emphasis> bei lenu pinxe loi birje</foreignphrase>:
-Ranjeet's teacher's partner in drinking beer.
+Ranjeet's teacher's partner in drinking beer.</para>
 
 <note><para>You absolutely must have
 that <foreignphrase lang="art-lojban">be'o</foreignphrase> there; otherwise,
@@ -1062,7 +1066,7 @@ ranjit. bei le <emphasis>nu</emphasis> pinxe loi birje</foreignphrase>,
 because you've noticed that the x<subscript>3</subscript> of <foreignphrase lang="art-lojban">ctuca</foreignphrase> 
 is a fact (<foreignphrase lang="art-lojban">du'u</foreignphrase>) and not an 
 event (<foreignphrase lang="art-lojban">nu</foreignphrase>) &mdash; and you would 
-<emphasis>never</emphasis> get the two confused. Right?</para></note></para></listitem>
+<emphasis>never</emphasis> get the two confused. Right?</para></note></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1100,7 +1104,7 @@ name.</para>
 
 <para>To illustrate this, consider the old parlor trick of calling someone <wordasword>Nobody</wordasword>. 
 This is a device as old as Homer, and is used to work in jokes like <quote><wordasword>Nobody</wordasword> hurt 
-me!</quote> Lojban disallows this kind of ambiguity (think about why), so this kind of joke is impossible
+me!</quote> Lojban disallows this kind of ambiguity (consider why), so this kind of joke is impossible
 in the language. (The notorious <citetitle>Who's on First?</citetitle> sketch by Abbott &amp;
 Costello is un-Lojbanisable for the same reason.) 
 But you'll still want to talk about people called <wordasword>Nobody</wordasword>.</para>
@@ -1274,7 +1278,8 @@ but rather says that <wordasword>x</wordasword> measures
 two hours</quote> would be in Lojban <foreignphrase lang="art-lojban">lenu mi
 tcidu le vi ve cilre cu cacra li re</foreignphrase>.</para>
 
-<para>We've also specified a distance after the half an hour. Logically,
+<para>We've also specified a distance after the half an hour,
+through <foreignphrase lang="art-lojban">zi</foreignphrase>. Logically,
 <foreignphrase lang="art-lojban">ba lo cacra be li
 pimu</foreignphrase> will be true if I show up after half an hour, or after 
 three hours: in both cases, you've shown up <quote role="socalled">after</quote> half an 

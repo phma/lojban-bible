@@ -224,7 +224,7 @@ the-event Fluffy is-a-rabbit implies the-event he dies</literallayout>
 but it will do for practical purposes. If you want a textbook logic
 example, you can say
 
-<informalexample><para><foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. seni'i na ze'u jmive
+<informalexample><para><foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. ni'i na ze'u jmive
 </foreignphrase></para>
 
 </informalexample>This expresses the following:
@@ -248,55 +248,70 @@ role="gloss">therefore</quote>. We'll deal with the second part first, because
 there's a few issues about connecting sentences we want to leave till the
 next section. So for now, don't worry about <foreignphrase lang="art-lojban">.ije</foreignphrase>.
 Do worry, however, about <foreignphrase
-lang="art-lojban">seni'i</foreignphrase>.</para>
+lang="art-lojban">ni'i</foreignphrase>.</para>
 
 <para>What we have here is a <firstterm>proposition</firstterm> (Fluffy is a rabbit,
 and rabbits don't live long), and a <firstterm>conclusion</firstterm> (Fluffy doesn't live
 long.) So what is <foreignphrase
-lang="art-lojban">seni'i</foreignphrase> doing in front of the final <foreignphrase
+lang="art-lojban">ni'i</foreignphrase> doing in front of the final <foreignphrase
 lang="art-lojban">selbri</foreignphrase>? Lojban treats <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase> the same as tenses; so <foreignphrase
-lang="art-lojban">seni'i</foreignphrase> can go in front of the <foreignphrase
+lang="art-lojban">ni'i</foreignphrase> can go in front of the <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, as if it was a tense. This 
 corresponds to an adverb like <wordasword>therefore</wordasword> in 
-English. And since <wordasword>therefore</wordasword> introduces conclusions
-in English, and the last sentence in the Lojban is a conclusion, you won't be
-surprised to hear that <foreignphrase
-lang="art-lojban">seni'i</foreignphrase> does in fact correspond to <wordasword>therefore</wordasword>.</para>
+English; in terms of Lojban, however, it means the same as if you'd said <foreignphrase
+lang="art-lojban">ni'i zo'e</foreignphrase> <quote role="gloss">because of something obvious</quote> (in this case, the preceding two sentences). So in this construction, <foreignphrase
+lang="art-lojban">ni'i</foreignphrase>, used as a tense (or <foreignphrase
+lang="art-lojban">ni'i zo'e</foreignphrase>, using an ellipsed <foreignphrase
+lang="art-lojban">sumti</foreignphrase>) correspond to <wordasword>therefore</wordasword>.</para>
 
-<para>What we're left with is a <foreignphrase lang="art-lojban">sumti
-tcita</foreignphrase>, <foreignphrase
-lang="art-lojban">seni'i</foreignphrase>, which means <quote role="gloss">therefore</quote> &mdash;
-but we haven't quite explained how. 
-Actually, though, you've seen enough to work this out from <link
-linkend="less9">Lesson 9</link>. As you saw there, <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase> can be modified with
-<foreignphrase lang="art-lojban">se, te, ve, xe</foreignphrase>, just like
-their underlying <foreignphrase lang="art-lojban">gismu</foreignphrase>.
-You'll have guessed by now that <foreignphrase
+<para>But in the following sentence, where <foreignphrase
 lang="art-lojban">ni'i</foreignphrase> is a <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase> meaning <quote
-role="gloss">logically because of</quote>. In other words, the
-<foreignphrase lang="art-lojban">sumti</foreignphrase> introduced by
-<foreignphrase lang="art-lojban">ni'i</foreignphrase> is <foreignphrase
-lang="art-lojban">le nibli</foreignphrase> <quote role="gloss">that which
-logically necessitates.</quote> This means that <foreignphrase
-lang="art-lojban">se ni'i</foreignphrase> is a <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase> introducing <foreignphrase
-lang="art-lojban">le se nibli</foreignphrase> &mdash; <quote
-role="gloss">that which is logically necessitated; the logical
-result.</quote> And so
+lang="art-lojban">sumti tcita</foreignphrase> introducing a distinct <foreignphrase
+lang="art-lojban">sumti</foreignphrase> and not a <quote role="socalled">tense</quote>, <foreignphrase
+lang="art-lojban">ni'i</foreignphrase> does not mean <quote role="gloss">therefore</quote>. As we'd expect, <foreignphrase lang="art-lojban">ni'i</foreignphrase> relates a
+<foreignphrase lang="art-lojban">sumti</foreignphrase> to its <foreignphrase
+lang="art-lojban">bridi</foreignphrase> through the <foreignphrase
+lang="art-lojban">gismu</foreignphrase> underlying <foreignphrase lang="art-lojban">ni'i</foreignphrase>, namely <foreignphrase
+lang="art-lojban">nibli</foreignphrase> <quote role="gloss">logically necessitates.</quote>. So <foreignphrase lang="art-lojban">ni'i</foreignphrase> means <quote role="gloss">logically because</quote>:
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">la flufis. mrobi'o ni'i lenu ro ractu na'e ze'u jmive</foreignphrase>
 Fluffy past die with-logical-necessity the-event all rabbits other-than long-time-period live
 Fluffy died because rabbits don't live long.</literallayout>
-</informalexample>is the same as
+</informalexample></para>
+
+<para>But what is the <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> for <quote role="gloss">therefore</quote>? How do we say the reverse &mdash; <quote>Rabbits don't live long; therefore Fluffy died</quote> &mdash; in a single sentence? As it turns out, we say it like this:
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">ro ractu na'e ze'u jmive seni'i lenu la flufis. mrobi'o</foreignphrase>
 Rabbits don't live long, with the logical consequence that Fluffy died.</literallayout>
-</informalexample></para>
+</informalexample>We have here a <foreignphrase lang="art-lojban">sumti
+tcita</foreignphrase>, <foreignphrase
+lang="art-lojban">seni'i</foreignphrase>, which means <quote role="gloss">with the logical consequence that</quote>, i.e. <quote role="gloss">therefore</quote>. And this <foreignphrase
+lang="art-lojban">seni'i</foreignphrase> looks a lot like <foreignphrase
+lang="art-lojban">ni'i</foreignphrase>, the <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> meaning <quote role="gloss">logically because</quote>.</para>
+
+<para>Actually, you should have seen enough to work out the relation between the two from <link
+linkend="less9">Lesson 9</link>. As you saw there, <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> can be modified with
+<foreignphrase lang="art-lojban">se, te, ve, xe</foreignphrase>, just like
+their underlying <foreignphrase lang="art-lojban">gismu</foreignphrase>.
+You know by now that the
+<foreignphrase lang="art-lojban">sumti</foreignphrase> introduced by
+<foreignphrase lang="art-lojban">ni'i</foreignphrase> is <foreignphrase
+lang="art-lojban">le nibli</foreignphrase> <quote role="gloss">that which
+logically necessitates, the logical cause.</quote> This means that <foreignphrase
+lang="art-lojban">se ni'i</foreignphrase> is a <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> introducing <foreignphrase
+lang="art-lojban">le se nibli</foreignphrase> &mdash; <quote
+role="gloss">that which is logically necessitated; the logical
+result.</quote> So we have a pair: <foreignphrase
+lang="art-lojban">ni'i</foreignphrase> <quote
+role="gloss">the logically necessitator, logically because</quote>, and <foreignphrase
+lang="art-lojban">seni'i</foreignphrase> <quote
+role="gloss">the logically necessitated, logically therefore</quote>.</para>
 
 <para>We can apply this principle to the other <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase> we've looked at. Here are some examples:
@@ -354,7 +369,7 @@ got an exciting story-line.</para></listitem>
 
 <para>Let's revisit that piece of logic we were ruminating on earlier:
 
-<informalexample><para><foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. seni'i na ze'u jmive
+<informalexample><para><foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. ni'i na ze'u jmive
 </foreignphrase></para>
 
 </informalexample>We've seen how <foreignphrase
@@ -371,7 +386,7 @@ the first two sentences together, so that when the <quote
 role="socalled">conclusion</quote> sentence comes, it <quote
 role="socalled">therefores</quote> both of them, not just the second. (This
 is called <quote role="socalled">left-grouping</quote> and there are ways
-to over-ride it, but that's not important for now.) </para>
+to override it, which we'll come back to.) </para>
 
 <note><para>Again, this sentence misses out a number of logical steps, including
 the fact that Fluffy is a rabbit and that he had lived out his rabbit life
@@ -386,11 +401,15 @@ these sentences as separate sentences, still using <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase> to connect them:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">la flufis. mrobi'o .i ni'ibo ro ractu na'e ze'u jmive</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">la flufis. mrobi'o ni'i lenu ro ractu na'e ze'u jmive</foreignphrase>
+Fluffy died because rabbits don't live long.
+<foreignphrase lang="art-lojban">la flufis. mrobi'o .i ni'ibo ro ractu na'e ze'u jmive</foreignphrase>
 Fluffy died. That's because rabbits don't live long.</literallayout>
 </informalexample><informalexample>
-<literallayout><foreignphrase lang="art-lojban">ro ractu na'e ze'u jmive .iseni'ibo la flufis. mrobi'o</foreignphrase>
-Rabbits don't live long, with the logical consequence that Fluffy died.</literallayout>
+<literallayout><foreignphrase lang="art-lojban">ro ractu na'e ze'u jmive seni'i lenu la flufis. mrobi'o</foreignphrase>
+Rabbits don't live long, with the logical consequence that Fluffy died.
+<foreignphrase lang="art-lojban">ro ractu na'e ze'u jmive .iseni'ibo la flufis. mrobi'o</foreignphrase>
+Rabbits don't live long. Therefore, Fluffy died.</literallayout>
 </informalexample></para>
 
 <para>There's a new <foreignphrase
@@ -422,7 +441,7 @@ lang="art-lojban">sumti tcita</foreignphrase>, by the way, like
 tense words. For example, <foreignphrase lang="art-lojban">.i ba
 bo</foreignphrase> means <quote role="gloss">afterwards, then</quote>: the
 sentence after <foreignphrase lang="art-lojban">.i ba
-bo</foreignphrase> refers to something that took place after what took place
+bo</foreignphrase> refers to something that took place later than what took place
 in the sentence before <foreignphrase lang="art-lojban">.i ba
 bo</foreignphrase>. </para></tip>
 
@@ -503,13 +522,13 @@ beginning of the lesson translate as follows:
 
 <itemizedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">carvi ri'a ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i carvi ri'a ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">la salis. darxi mi mu'i ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i la salis. darxi mi mu'i ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">la salis. te dunda lo tartcita le ctuca ki'u ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i la salis. te dunda lo tartcita le ctuca ki'u ma</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">la flufis. pu mrobi'o ni'i ma</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i la flufis. pu mrobi'o ni'i ma</foreignphrase></para></listitem>
 
 </itemizedlist></para>
 
@@ -739,8 +758,9 @@ we don't want to distort a name too much by
 <quote role="socalled">Lojbanising</quote> it, or because we're actually
 inserting a phrase from another language into the text. In both cases,
 we have to give an unambiguous signal where the non-Lojban text finishes,
-and the Lojban resumes.
-To do this, the non-Lojban is surrounded on either side by a Lojban word
+and the Lojban resumes.</para>
+
+<para>To do this, the non-Lojban is surrounded on either side by a Lojban word
 &mdash; any word, as long as it doesn't occur inside the non-Lojban text.
 The most popular choice is <foreignphrase lang="art-lojban">gy.</foreignphrase>,
 standing for <foreignphrase lang="art-lojban">glico</foreignphrase> <quote
@@ -782,7 +802,7 @@ lang="art-lojban">.i la suzyn. cusku lu .i la ranjit. pu cusku lo xajmi pe la'o
 gy. Sch&ouml;nberg gy. .e. la'o gy. Stravinsky gy. li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. semu'i cmoni cusku zoi gy. chootio! gy.</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. mu'i cmoni cusku zoi gy. chootio! gy.</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -856,7 +876,7 @@ government.</para>
 hand</quote> phenomena so beloved of economists: the result is not an <emphasis>intended</emphasis>
 result of human activities, but comes about as a side-effect of them. The best
 <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> for this is actually one we
-happened not to have covered here: <foreignphrase lang="art-lojban">seja'e</foreignphrase>
+happen not to have covered here: <foreignphrase lang="art-lojban">seja'e</foreignphrase>
 <quote role="gloss">as a result of</quote> (from <foreignphrase lang="art-lojban">jalge</foreignphrase> <quote 
 role="gloss">result</quote>.)</para></note></listitem>
 
@@ -902,7 +922,7 @@ lang="art-lojban">ki'u</foreignphrase> their being Macs, and not <foreignphrase
 lang="art-lojban">ni'i</foreignphrase>: they aren't inherently more
 secure than PCs, they just haven't been paid as much attention by crackers. This would
 of course be getting into geek wars; but we have a sneaking suspicion many of you will
-indeed be geeks...)</para></note></listitem>
+indeed be geeks...</para></note></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">seki'u</foreignphrase>, whether
 or not you actually believe in Hell or the criteria for entering it. Note
@@ -943,7 +963,7 @@ time I saw you. With the second pair, you definitely saw me only after I saw you
 <listitem><para><foreignphrase lang="art-lojban">je</foreignphrase>; nothing. This is a syllogism like the Fluffy 
 syllogism above; it follows from the <emphasis>two</emphasis> facts &mdash; you greeting me and you being in front 
 of me &mdash; that you have seen me. (Well, it doesn't <emphasis>really</emphasis> follow, but this is a lesson
-on Lojban, not logic.) So you near to join the two facts together with AND.</para>
+on Lojban, not logic.) So you need to join the two facts together with AND.</para>
 
 <para>On the other hand, the
 <quote role="gloss">therefore</quote> is already there, as the <quote role="socalled">adverbial</quote> 
@@ -1064,7 +1084,7 @@ lang="art-lojban">.i la djiotis. tavla semu'i lenu ri simsa la ranjit. le ka plu
 </para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i dy./le go'i/la djiotis./ra cusku lu mi lanli le vozemoi se 
+lang="art-lojban">.i dy./le go'i/la djiotis./ra cusku lu .i mi lanli le vozemoi se 
 finti be la'o gy. Jimmy Bob Bach gy. se pi'o le vi minra mu'i lenu mi kakne li'u</foreignphrase>
 (<emphasis>or</emphasis> <foreignphrase
 lang="art-lojban">la djimis.bab.bax.</foreignphrase>. You could say <foreignphrase
@@ -1089,7 +1109,7 @@ lang="art-lojban">loi nu bebna</foreignphrase> or <foreignphrase
 lang="art-lojban">loi ka bebna</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">lenu ry./le se go'i/la ranjit./ra cu se kanla lo ba'e se manci</foreignphrase>
+lang="art-lojban">.i lu .i lenu ry./le se go'i/la ranjit./ra cu se kanla lo ba'e se manci li'u</foreignphrase>
 (This is an extra-idiomatic way of saying things; kudos if you got it, 
 don't be too worried if you didn't.)</para></listitem>
 

@@ -44,8 +44,8 @@ example,
 of the <link linkend="less2">previous lesson</link>, we
 can put the <foreignphrase lang="art-lojban">selbri</foreignphrase>
 anywhere other than the beginning of the sentence. (We can't just put the
-<foreignphrase lang="art-lojban">selbri</foreignphrase> at the beginning of the
-sentence), without
+<foreignphrase lang="art-lojban">selbri</foreignphrase> at the very beginning of the
+sentence, without
 <foreignphrase lang="art-lojban">fa</foreignphrase> before the 
 x<subscript>1</subscript> <foreignphrase lang="art-lojban">sumti</foreignphrase>, 
 because this would
@@ -142,7 +142,7 @@ so it is better in such cases to be safe than sorry.)
 words (e.g. <wordasword>You are ...</wordasword> &rArr; <wordasword>Are you ...</wordasword>)
 or putting some form of <wordasword>do</wordasword> at the beginning
 (e.g. <wordasword>Does she smoke?</wordasword>). This seems perfectly natural to
-someone whose native language is English (or German, or whatever), but is
+someone whose native language is English (or German), but is
 actually unnecessarily complicated (as any speaker of Chinese or Turkish
 will tell you). In Lojban we can turn any proposition into a yes/no
 question by simply putting <foreignphrase
@@ -248,9 +248,7 @@ instruction to fill in the missing place. For example:
 </listitem>
 
 </itemizedlist>
-</informalexample>
-
-<informalexample>
+</informalexample><informalexample>
 <itemizedlist>
 
 
@@ -272,9 +270,7 @@ instruction to fill in the missing place. For example:
 </listitem>
 </itemizedlist>
 
-</informalexample>
-
-<informalexample>
+</informalexample><informalexample>
 <itemizedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">mi dunda ma do</foreignphrase>
@@ -409,7 +405,9 @@ in describing things. They don't do as good a job in narrowing things down.
 For example, you may be fortunate enough to know two people who own
 Porsches. Your friends will (normally) have different names, which you can
 use to tell them apart. But if you're discussing their cars, how do you
-tell <emphasis>them</emphasis> apart? Or take the following sentence:
+tell <emphasis>them</emphasis> apart?</para>
+
+<para>Or take the following sentence:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">mi nelci le tamne</foreignphrase>
 I like the cousin</literallayout>
@@ -506,7 +504,7 @@ Your book</literallayout></listitem>
 
 </itemizedlist></para>
 
-<note><para>You can't say <foreignphrase lang="art-lojban">la la meiris.
+<tip><para>You can't say <foreignphrase lang="art-lojban">la la meiris.
 porc.</foreignphrase>: strictly speaking, you can't tell when one name
 starts and another ends, since names can contain multiple pauses. If I said
 <foreignphrase lang="art-lojban">la la meiris. mersedez.
@@ -539,7 +537,7 @@ just as easily be <quote role="gloss">the woman's travelling
 cousin.</quote> A situation best avoided, in other
 words. There <emphasis>is</emphasis> a way you can make this
 work, though &mdash; which we'll cover in <link linkend="less5">a couple of
-lessons</link>. </para></note>
+lessons</link>. </para></tip>
 
 <simplesect role="exercise"><title>Exercise 3</title>
 
@@ -754,14 +752,14 @@ inalienable possession.</para></listitem>
 <listitem><para>Give me the book.
 </para></listitem>
 
-<listitem><para>Act so that Isabel likes you (or <quote>Butter up Isabel</quote> perhaps)
+<listitem><para>Act so that Isabel likes you. (or <quote>Butter up Isabel</quote> perhaps.)
 </para></listitem>
 
 <listitem><para>Be fast (<quote>Hurry up!</quote>)
 </para></listitem>
 
 <listitem><para>Like yourself. (Note that changing the word order doesn't change 
-the meaning here)</para></listitem>
+the meaning here.)</para></listitem>
 </orderedlist></para>
 </simplesect>
 
@@ -789,7 +787,7 @@ lang="art-lojban">la porc.</foreignphrase> means just what I say it means,
 but as a name it is not used in general to refer to all Porsches, or to the typical 
 Porsche. (Lojban has other ways of doing that.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">la KEnydis.</foreignphrase>
+<listitem><para><foreignphrase lang="art-lojban">la KEnedis.</foreignphrase>
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">ninmu</foreignphrase> or

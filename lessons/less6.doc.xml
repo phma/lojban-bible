@@ -44,7 +44,7 @@ Houston.</wordasword> With that comma, you can only read that as
 major <quote role="socalled">selling points</quote>. Lojban uses words
 called <firstterm>terminators</firstterm>. No, they aren't killer androids
 with difficult-to-spell surnames, but little words used to indicate when
-groups of words, like phrases, end. You can think of them like the brackets
+groups of words, such as phrases, end. You can think of them like the brackets
 used in mathematics, and they serve pretty much the same purpose. So in
 Lojban, whenever a structure begins whose length is not known in advance, a
 terminator goes at the end of the structure. This is what makes Lojban
@@ -55,13 +55,7 @@ syntactically unambiguous:
 <listitem><para>Every time an article like <foreignphrase
 lang="art-lojban">le</foreignphrase> or <foreignphrase
 lang="art-lojban">loi</foreignphrase> starts a sumti,
-<foreignphrase lang="art-lojban">ku</foreignphrase> ends it.</para>
-
-<tip><para>This includes 
-<foreignphrase lang="art-lojban">na</foreignphrase>, by the way, when it is
-being used as a self-standing
-<foreignphrase lang="art-lojban">sumti</foreignphrase>. You got a sneak preview
-of this in the exercises to <link linkend="less4">Lesson 4</link>.</para></tip></listitem>
+<foreignphrase lang="art-lojban">ku</foreignphrase> ends it.</para></listitem>
 
 <listitem><para>Every time a
 string of numbers starts, <foreignphrase
@@ -84,8 +78,8 @@ this (putting in some braces to make things clearer, and sneaking in the termina
 <foreignphrase lang="art-lojban">lo'o</foreignphrase> corresponding to <foreignphrase 
 lang="art-lojban">li</foreignphrase>): </para>
 
-<para><informalexample><para><foreignphrase lang="art-lojban">{li [repa pi'e ze pi'e pasoxaso boi] lo'o} cu detri [le{nu [lo remna ku] cu klama
-[le lunra ku] vau kei} ku] la xustyn. vau</foreignphrase></para></informalexample></para>
+<para><informalexample><para><foreignphrase lang="art-lojban">[{li [repa pi'e ze pi'e pasoxaso boi] lo'o} cu detri [le{nu [{lo remna ku} cu klama
+{le lunra ku} vau] kei} ku] la xustyn. vau]</foreignphrase></para></informalexample></para>
 
 <para>The <foreignphrase lang="art-lojban">kei</foreignphrase> goes before
 <foreignphrase lang="art-lojban">la xustyn.</foreignphrase> . This means
@@ -133,9 +127,8 @@ lunra kei} <emphasis>la xustyn.</emphasis>
 </foreignphrase> (date for going to the moon <emphasis>according 
 to</emphasis> Houston)</para></informalexample></para>
 
-<note><para>Remember those pesky possessive constructions from a <link 
-linkend="less3">while 
-back</link>, when you couldn't flip <foreignphrase lang="art-lojban">le tamne pe le ninmu 
+<note><para>Remember those pesky possessive constructions from <link 
+linkend="less3">Lesson 3</link>, when you couldn't flip <foreignphrase lang="art-lojban">le tamne pe le ninmu 
 klama</foreignphrase> the other way around, because it was ambiguous? All 
 you need is <foreignphrase lang="art-lojban">ku</foreignphrase> to resolve that 
 ambiguity: <foreignphrase lang="art-lojban">le le ninmu 
@@ -209,7 +202,7 @@ klaudias.</foreignphrase></para></listitem>
 
 <sect1 id="less6tenses"><title>Tenses</title>
 
-<para>By this time, you may have been wondering what has happened to all
+<para>By this time, you may be wondering what has happened to all
 the tenses. After all, a large part of learning a language is learning
 tenses, and figuring out which one you ought to be using. English, for
 example, has about a dozen tenses (depending on what you count as a tense)
@@ -391,7 +384,7 @@ role="gloss">now</quote>:
 Now, Susan goes to the bar.</literallayout>
 </informalexample></para>
 
-<note><para>By the way, <foreignphrase lang="art-lojban">caku ma tcika</foreignphrase> would be a more usual way to say <quote>What time is it?</quote></para></note>
+<tip><para>By the way, <foreignphrase lang="art-lojban">caku ma tcika</foreignphrase> would be a more usual way to say <quote>What time is it?</quote></para></tip>
 
 <para>We now have three <quote role="socalled">time words</quote>:
 <foreignphrase lang="art-lojban">pu</foreignphrase> (before), <foreignphrase
@@ -534,9 +527,9 @@ lang="art-lojban">la jan. puza cliva le barja</foreignphrase>, just like
 barja</foreignphrase>, means <quote>Zhang left the bar a while ago.</quote>
 </para> 
 
-<note><para>By the way, <foreignphrase
+<tip><para>By the way, <foreignphrase
 lang="art-lojban">ma ca tcika</foreignphrase> would be an even more usual way to say
-<quote>What time is it?</quote></para></note>
+<quote>What time is it?</quote></para></tip>
 
 <para>Another group of <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> which can be used here is <foreignphrase
@@ -566,13 +559,13 @@ lang="art-lojban">sumti</foreignphrase>.</para></note>
 
 <listitem>
 <literallayout><foreignphrase lang="art-lojban">la bil. ze'u pinxe loi birje</foreignphrase>
-Bill drinks beer for a long time. </literallayout><note><para>Remember: you don't drink something which is <emphasis>a</emphasis> beer, but 
+Bill drinks beer for a long time. </literallayout><tip><para>Remember: you don't drink something which is <emphasis>a</emphasis> beer, but 
 rather something which is <emphasis>some</emphasis> beer. As discussed way 
 back in <link linkend="less4">Lesson 4</link>, that means a mass rather than an 
 individual &mdash; though as it happens <foreignphrase lang="art-lojban">lo 
 birje</foreignphrase> also makes sense, as <quote role="gloss">a (fixed) 
 quantity of beer</quote>.
-</para></note></listitem>
+</para></tip></listitem>
 
 <listitem>
 <literallayout><foreignphrase lang="art-lojban">mi bazize'a xabju la djakartas.</foreignphrase>
@@ -633,7 +626,7 @@ Language</citetitle>.</para>
 
 <para>This is where things start getting strange. In Lojban, space can be a
 <quote role="socalled">tense</quote> just as much as time. This is because
-there is no difference between what traditional grammar calls <quote
+there is no difference in Lojban between what traditional grammar calls <quote
 role="socalled">prepositions</quote> and tenses. As we've seen, English,
 like many languages, treats a word like <wordasword>earlier</wordasword>
 and the past tense ending <wordasword>-ed</wordasword> as two totally
@@ -667,12 +660,12 @@ Here, I work.</literallayout>
 
 <para>We've seen that <foreignphrase lang="art-lojban">puku</foreignphrase> means
 <quote role="gloss">before the here-and-now</quote>. Similarly,
-<foreignphrase lang="art-lojban">vi ku</foreignphrase> means <quote
+<foreignphrase lang="art-lojban">viku</foreignphrase> means <quote
 role="gloss">in the immediate vicinity of the here-and-now</quote>, i.e. 
 <quote role="gloss">here</quote>. If we don't want to make the location 
 relative to the speaker, but relative to something else, we can fill in the 
 empty <foreignphrase lang="art-lojban">sumti</foreignphrase> value, in
-the same way, to say what an event is in the immediate vicinity of. This, 
+the same way, to say what the event is in the immediate vicinity of. This, 
 of course, makes <foreignphrase
 lang="art-lojban">vi, va, vu</foreignphrase> acts as <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase>, just like <foreignphrase
@@ -700,7 +693,7 @@ Kennedy was killed by me ...</quote>
 </para></note>
 
 <para>If we want to emphasise that something is at exactly the same 
-location with something else (something which holds true not as often as 
+location as something else (something which holds true not as often as 
 you might think), you would use <foreignphrase 
 lang="art-lojban">bu'u</foreignphrase> <quote role="gloss">coinciding 
 with</quote>:
@@ -765,7 +758,7 @@ here-past-long-time-distance work</quote>, or <quote>I used to work here a
 long time ago.</quote> A common expression with <foreignphrase
 lang="art-lojban">ku</foreignphrase> is <foreignphrase
 lang="art-lojban">puzuvuku</foreignphrase>, meaning <quote role="gloss">long ago
-and far away</quote> &mdash; a standard way to begin a fairy story or
+and far away</quote> &mdash; a standard way to begin a fairy tale or
 legend!
 
 
@@ -1217,7 +1210,7 @@ lang="art-lojban">no'e cinri</foreignphrase></para></listitem>
 lang="art-lojban">na'e cinri</foreignphrase> (The distinction between 
 <wordasword>disinterested</wordasword> and <wordasword>uninterested</wordasword> 
 in English in slowly dying out &mdash; which makes the word a pedant's 
-delight!</para></listitem>
+delight!)</para></listitem>
 
 <listitem><para>bored: <foreignphrase 
 lang="art-lojban">to'e cinri</foreignphrase></para></listitem>
@@ -1375,7 +1368,9 @@ blank of <quote>Zhang's ___.</quote>)</para></listitem>
 kei la suzyn. klama zu'a vizi le barja</foreignphrase> (We don't really
 have a way for saying <wordasword>she</wordasword> &mdash; as you're
 probably painfully aware of by now. Take heart &mdash; relief is coming in
-the next lesson! Note that Susan's route is away from the bar, but not
+the next lesson!</para>
+
+<para>Note that Susan's route is away from the bar, but not
 explicitly moving to or from it; so we don't have to indicate motion along 
 with direction. Not that we can right now, anyway.)</para></listitem>
 

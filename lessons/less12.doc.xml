@@ -236,7 +236,7 @@ lang="art-lojban">.i la jan. ca'o stali le barja.</foreignphrase></para></listit
 <sect1 id="less12voc"><title>Vocatives</title>
 
 <para>When you address people by name, you usually do so to make it clear
-whom out of a group you are talking to. We've already seen how to do that
+who out of a group you are talking to. We've already seen how to do that
 in Lojban: <foreignphrase lang="art-lojban">doi</foreignphrase>, followed
 by the name (without the name article, <foreignphrase
 lang="art-lojban">la</foreignphrase>.) So <quote>Houston, we have a
@@ -255,7 +255,8 @@ context cues and all-purpose words. When you think about it, for example,
 
 <para>As we know, Lojban tends to be precise rather than vague. So when it 
 comes to signalling what you want done with a conversation, Lojban doesn't 
-play along with the usual natural language tricks of leaving it up to 
+play along with the usual natural language tricks of leaving it up to
+the principles of 
 politeness and social convention to work out what's going on. Instead, it 
 has explicit words for managing turns in a conversation, which can optionally be followed 
 by the name of whoever you're bringing it to the attention of. Since all 
@@ -311,7 +312,7 @@ the end of your email in English as a signature, and translates as
 lang="art-lojban">ju'i</foreignphrase> <quote role="gloss">Hey!</quote>,
 with which you draw someone's attention, and <foreignphrase
 lang="art-lojban">fi'i</foreignphrase> <quote
-role="gloss">Welcome!</quote>, with which you offer hospitality. (It's what
+role="gloss">Welcome! At your service!</quote>, with which you offer hospitality or a service. (It's what
 you say to a visitor; you wouldn't say it over the phone, for instance,
 unless your addressee is calling from the airport and is on their way over.)</para></listitem>
 
@@ -447,7 +448,7 @@ preferred.</para>
 
 <para>There are some cases, though, when you do have to borrow a word from
 another language, creating a loan word 
-(<foreignphrase lang="art-lojban">fu'ivla</foreignphrase>). This can be because the thing you're talking about is
+(called in Lojban a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>). This can be because the thing you're talking about is
 very concrete or particular, and/or because the reference is quite
 culture-specific. In either case, it would be really cumbersome to describe
 it with a combination of <foreignphrase
@@ -482,14 +483,14 @@ an <foreignphrase lang="art-lojban">n</foreignphrase>) between the
 <foreignphrase lang="art-lojban">gismu</foreignphrase> and the word. The
 <foreignphrase lang="art-lojban">gismu</foreignphrase> helps the
 reader or listener, who has likely never seen this word before,
-guess what the word might be. (This is particularly handy if the source
-word might be ambiguous between two different meanings.) And the
+guess what the word might be. This is particularly handy if the source
+word might be ambiguous between two different meanings. And the
 combination of <foreignphrase lang="art-lojban">gismu</foreignphrase> minus
 final vowel, source word (which should start with a consonant, and end with
 a vowel), and <foreignphrase lang="art-lojban">r</foreignphrase> or
 <foreignphrase lang="art-lojban">n</foreignphrase> will hopefully produce a
 cluster of consonants crunchy enough that it cannot be mistaken for another
-Lojban word or phrase.)</para>
+Lojban word or phrase.</para>
 
 <tip><para>There is no standard consonant to put in front of the word to become a
 <foreignphrase lang="art-lojban">fu'ivla</foreignphrase> if it starts with a vowel.
@@ -497,7 +498,7 @@ Two popular choices are <foreignphrase lang="art-lojban">x</foreignphrase> and
 <foreignphrase lang="art-lojban">n</foreignphrase>. Similarly, there is no set convention
 on where to get the vowel from, if your word ends in a consonant. In these lessons,
 we'll just repeat the preceding vowel; e.g. <wordasword>England</wordasword> &rArr;
-<foreignphrase lang="art-lojban">gugdr<emphasis>n</emphasis>ingland<emphasis>a</emphasis></foreignphrase>
+<foreignphrase lang="art-lojban">gugdr<emphasis>n</emphasis>ingl<emphasis>a</emphasis>nd<emphasis>a</emphasis></foreignphrase>
 (from <foreignphrase lang="art-lojban">gugde</foreignphrase> <quote role="gloss">country</quote>.)</para></tip>
 
 <para>So what does all this look like in practice? Well, we've already seen
@@ -530,7 +531,7 @@ made can cause problems of their own. The most international solution for
 plant and animal names, for example, is Latin, and in particular the Latin
 of the Linnaean system of classification. But this means that, to come up
 with a word for <quote role="gloss">catnip</quote>, say, you have to know
-Latin and your Linnaean taxonomy (Or, like I did, look it up on the
+Latin and your Linnaean taxonomy. (Or, like I did, look it up on the
 Internet &mdash; but you can't normally do that while you're having a
 conversation.) So <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>
 are still largely unexplored terrain in Lojban.</para>
@@ -908,7 +909,7 @@ me la'o gy. Eurythmics gy. selsanga ne mau lemi voksa li'u</foreignphrase></para
 lang="art-lojban">.i la suzyn. cusku lu .i mi pu'o cusku la'edi'u li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. cusku lu ke'onai .suzyn. li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. cusku lu .i ke'onai .suzyn. li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -994,7 +995,7 @@ in brackets afterwards.&IPAASCIIdisclaimer;</para>
 
 <para><orderedlist>
 
-<listitem><para>Moscow (St. Petersburg [<emphasis role="ipa">sankt&stress;p&ekl;t&ekl;rsburg</emphasis>], Moscow [<emphasis role="ipa">m&schwa;s&stress;kva</emphasis>])</para></listitem>
+<listitem><para>Moscow (St. Petersburg [<emphasis role="ipa">sankt&stress;p&ekl;t&ekl;rspurg</emphasis>], Moscow [<emphasis role="ipa">m&schwa;s&stress;kfa</emphasis>])</para></listitem>
 
 <listitem><para>Munich (Munich [<emphasis role="ipa">&stress;m&yipa;n&ccedilipa;&ekl;n</emphasis>], Cologne [<emphasis role="ipa">&stress;k&oeligipa;ln</emphasis>])</para></listitem>
 
@@ -1043,7 +1044,7 @@ literally meant!)</para></listitem>
 what I'll do!</quote>; but <foreignphrase
 lang="art-lojban">vi'o</foreignphrase> is a response to an explicit 
 request, and <foreignphrase lang="art-lojban">fi'i</foreignphrase> isn't 
-really a request. It also makes sense to respond with <foreignphrase
+really a request. It would also make sense to respond with <foreignphrase
 lang="art-lojban">ki'e</foreignphrase>.)</para></listitem>
 
 </orderedlist></para></listitem>
@@ -1074,9 +1075,8 @@ lang="art-lojban">be'e</foreignphrase>, or even <foreignphrase
 lang="art-lojban">coi</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase 
-lang="art-lojban">vi'o</foreignphrase> (<emphasis>Not</emphasis> <foreignphrase 
-lang="art-lojban">fi'i</foreignphrase>, despite the English wording: you're 
-not offering hospitality, just a chair.)</para></listitem>
+lang="art-lojban">fi'i</foreignphrase>, because you're offering a service, although <foreignphrase 
+lang="art-lojban">vi'o</foreignphrase> is just as good, because you're carrying out a request.</para></listitem>
 
 </orderedlist></para></listitem>
 
@@ -1108,7 +1108,7 @@ Greek (and thus presumably more recognisable to at least some non-English speake
 
 <listitem><para><foreignphrase lang="art-lojban">cidrndeuteriumu</foreignphrase> (or
 <foreignphrase lang="art-lojban">cidrndeuterio</foreignphrase>, if you know about those ablatives
-I'm not going to explain here...)</para></listitem>
+I'm not going to explain here...) Of course, you can't use <foreignphrase lang="art-lojban">r</foreignphrase> as the joining consonant, since <foreignphrase lang="art-lojban">cidr-</foreignphrase> already ends in <foreignphrase lang="art-lojban">r</foreignphrase>.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">jemnrnametisti</foreignphrase> or 
 <foreignphrase lang="art-lojban">jemnrxametisti</foreignphrase>. (As it turns out, <foreignphrase lang="art-lojban">jemnrametisti</foreignphrase> would have
@@ -1143,7 +1143,7 @@ other two alternatives, even if we tucked away the
 lang="art-lojban">po'u</foreignphrase> or <foreignphrase
 lang="art-lojban">no'u</foreignphrase>, we would be left
 with no <foreignphrase lang="art-lojban">selbri</foreignphrase> at
-all.</para></listitem>
+all. So we can't get away with them.</para></listitem>
 
 </orderedlist></para></listitem>
 

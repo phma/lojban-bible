@@ -153,7 +153,8 @@ lang="art-lojban">lerci</foreignphrase>). So <foreignphrase
 lang="art-lojban">la mucac. lir.</foreignphrase> is five in the morning.
 </para>
 
-<para>As you can see, things start to get a little messy (what about 9:22 AM?), 
+<para>As you can see, things start to get a little messy with the 12-hour system
+(how do you say 9:22 AM?), 
 so the 24-hour system is preferred by popular acclamation.</para>
 
 <simplesect role="exercise"><title>Exercise 1</title>
@@ -197,7 +198,7 @@ so the 24-hour system is preferred by popular acclamation.</para>
 </simplesect>
 </sect1>
 
-<sect1 id="less5events"><title>Times and events</title>
+<sect1 id="less5events"><title>Times and Events</title>
 
 <para>If we want to give the time of an event, rather than just tell the
 time, we need to fill in some more places. The second place of
@@ -295,7 +296,8 @@ lang="art-lojban">bridi</foreignphrase>.
 <informalexample><literallayout><foreignphrase lang="art-lojban">le nu mi klama cu <emphasis>se</emphasis> tcika la daucac.</foreignphrase></literallayout></informalexample>means exactly the same thing as <foreignphrase lang="art-lojban">la daucac. tcika lenu mi klama</foreignphrase>. <foreignphrase
 lang="art-lojban">se</foreignphrase> coincidentally is pretty much the
 same as Spanish <wordasword>se</wordasword>, but is actually part of a
-series along with <foreignphrase lang="art-lojban">te, ve</foreignphrase>
+series along with <foreignphrase lang="art-lojban">te</foreignphrase>, 
+<foreignphrase lang="art-lojban">ve</foreignphrase>
 and <foreignphrase lang="art-lojban">xe</foreignphrase>, which switch
 around the first and third, first and fourth, and first and fifth places of
 a <foreignphrase lang="art-lojban">selbri</foreignphrase>.
@@ -404,7 +406,8 @@ be really nice if <foreignphrase lang="art-lojban">klama</foreignphrase>
 had a place for the time of going/coming, but it doesn't. (After all, you
 wouldn't really want to have to learn a <emphasis>six</emphasis>-place <foreignphrase
 lang="art-lojban">selbri</foreignphrase>!) To get round this problem of
-missing places, Lojban has a series of <foreignphrase
+missing places in <foreignphrase
+lang="art-lojban">selbri</foreignphrase>, Lojban has a series of <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> (structure words) which add extra places to the
 <foreignphrase lang="art-lojban">selbri</foreignphrase>. The one we want here is
 <foreignphrase lang="art-lojban">ti'u</foreignphrase>, meaning <quote
@@ -432,7 +435,7 @@ all articles (apart from those specific to <foreignphrase
 lang="art-lojban">cmene</foreignphrase>, like <foreignphrase
 lang="art-lojban">la</foreignphrase>) belong to the same class, and all
 of them can appear in the same place in a sentence. This <foreignphrase
-lang="art-lojban">se cmavo</foreignphrase> is called LE, after the most
+lang="art-lojban">selma'o</foreignphrase> is called LE, after the most
 widely used <foreignphrase lang="art-lojban">cmavo</foreignphrase> in the
 class, <foreignphrase lang="art-lojban">le</foreignphrase>. Likewise, the
 <foreignphrase lang="art-lojban">cmavo</foreignphrase> that introduce new
@@ -453,7 +456,8 @@ in the lessons ahead.</para></note>
 
 <sect1 id="less5days"><title>Days and Months</title>
 
-<para>The days of the week are also names built from numbers, this time adding
+<para>The days of the week are also <foreignphrase
+lang="art-lojban">cmene</foreignphrase> built from numbers, this time adding
 <foreignphrase lang="art-lojban">djed.</foreignphrase>, from <foreignphrase
 lang="art-lojban">djedi</foreignphrase>, meaning <quote
 role="gloss">day</quote>. There is at present some disagreement about which
@@ -472,7 +476,7 @@ Judaeo-Christian convention of taking Sunday as the first day, giving
 <listitem><para><foreignphrase lang="art-lojban">la <emphasis>ci</emphasis>djed.</foreignphrase></para></listitem></varlistentry>
 
 </variablelist>... and so on. (Conveniently for one of your authors, this matches Greek
-for Monday through to Thursday.) However, in a meeting in 1992 it was
+for Monday through to Thursday.) However, in a Logical Language Group meeting in 1992 it was
 agreed that Monday be day 1, and Sunday be either 7 (<foreignphrase
 lang="art-lojban">la zedjed.</foreignphrase>) or zero (<foreignphrase
 lang="art-lojban">la nodjed.</foreignphrase>) according to taste (much 
@@ -734,7 +738,7 @@ landing.</para></listitem>
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu klama le lunra</foreignphrase>
-21/7/1969 is-the-date-of the-event a human go (to) the moon</literallayout>
+21/7/1969 is-the-date-of the-event a human goes (to) the moon</literallayout>
 </informalexample></para>
 
 <para>Now, just as with <foreignphrase lang="art-lojban">tcika</foreignphrase>, we often want
@@ -746,7 +750,7 @@ birthday.</quote> We can manage this change by using place tags, e.g.
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">fe lenu mi jbena [kei] cu detri fa li pamu pi'e bi </foreignphrase>
 the-event I am-born is-dated 15/8</literallayout>
-</informalexample>but it is easier to use <foreignphrase lang="art-lojban">se</foreignphrase> like this:
+</informalexample>but it is easier to use <foreignphrase lang="art-lojban">se</foreignphrase>, like this:
 
 
 <informalexample>
@@ -761,7 +765,7 @@ lang="art-lojban">cu</foreignphrase> is powerful enough to close off any
 structure in front of it, including <foreignphrase lang="art-lojban">lenu mi jbena</foreignphrase>.
 </para>
 
-<para>As you probably guessed, there is also a <foreignphrase lang="art-lojban">sumti
+<para>As you have probably guessed, there is also a <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> for <quote role="gloss">dated</quote>: <foreignphrase
 lang="art-lojban">de'i</foreignphrase>, which works like <foreignphrase
 lang="art-lojban">ti'u</foreignphrase> (notice how <foreignphrase lang="art-lojban">sumti
@@ -799,6 +803,10 @@ renonopananc.</foreignphrase>.)
 <tip><para>You will also see year names ending in <foreignphrase 
 lang="art-lojban">nan</foreignphrase>: <foreignphrase lang="art-lojban">la
 renonopanan.</foreignphrase></para></tip>
+
+<tip><para>More recently there has been a proposal to make single numbers
+refer by default to year rather than day; the controversy on this has not 
+settled down yet.</para></tip>
 
 <simplesect role="vocab"><title>Vocabulary</title> 
 <variablelist termlength="12">
@@ -1179,8 +1187,7 @@ any more to introduce the x<subscript>3</subscript> place.)</para></listitem>
 (<quote>The broadcasting of <citetitle>Sesame Street</citetitle> is at the time 
 7:00.</quote> The <foreignphrase lang="art-lojban">cu</foreignphrase> is actually 
 necessary, here, even though it follows a <foreignphrase 
-lang="art-lojban">cmene</foreignphrase>; but to explain why would take us
-too far afield.)</para></listitem>
+lang="art-lojban">cmene</foreignphrase>; can you work out why?)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">lenu loi kabri cu se vecnu zo'e la .iulias. cu se nelci la klaudias. 
 </foreignphrase> (<quote>That cups are sold by someone to Julia is liked by Claudia; cups being sold to Julia is something Claudia 
@@ -1282,8 +1289,8 @@ where in the sentence you place it. So <foreignphrase
 lang="art-lojban">.i la suzyn. ti'u li rere klama le barja le 
 briju</foreignphrase> means exactly the same thing.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. sruma lenu la
-jan. djuno lenu lerci fa lenu la suzyn. klama </foreignphrase> (Lojban
+<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. sruma {lenu la
+jan. djuno {lenu lerci fa {lenu la suzyn. klama}}}</foreignphrase> (Lojban
 insists on distinguishing between events and entities; you can't say that
 someone is late in Lojban, but only that someone's
 <emphasis>action</emphasis> is late. There are ways in Lojban for working
@@ -1292,19 +1299,19 @@ Lojban</quote> (see <link linkend="less15">Lesson 15</link>.)</para>
 <para>And yes,
 that's a rather deeply nested sentence. Lojban tends, for better or worse,
 to make things more explicit, and thus more complex, than is usual for
-natural languages. The normal word order version is even worse: <foreignphrase lang="art-lojban">.i la suzyn. sruma lenu la
-jan. djuno lenu lenu la suzyn. klama cu lerci</foreignphrase>.)</para></listitem>
+natural languages. The normal word order version is even worse: <foreignphrase lang="art-lojban">.i la suzyn. sruma {lenu la
+jan. djuno {lenu {lenu la suzyn. klama} cu lerci}}</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">.i la suzyn. viska pa le re botpi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase 
-lang="art-lojban">.i lenu jimpe lenu la jan. cliva [kei kei] na nandu la suzyn.
+lang="art-lojban">.i {lenu jimpe {lenu la jan. cliva}} na nandu la suzyn.
 </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">ti'u li rere pi'e pamu la suzyn. djica 
-lenu penmi la djiotis. ti'u li rere pi'e vomu
+{lenu penmi la djiotis. ti'u li rere pi'e vomu}
 </foreignphrase> (Extra credit if you worked through that one!)</para>
 
 <note><para>As noted in the <link linkend="intro">Introduction</link>, those

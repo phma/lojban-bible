@@ -33,7 +33,9 @@ terms of attitude, however, they are different:
 principle of keeping content and attitude separate as far as possible (e.g.
 <foreignphrase lang="art-lojban">.ui la djiotis. klama ti</foreignphrase>
 has a content element &mdash; the information that Jyoti is coming here,
-and an attitude element &mdash; happiness.) In this lesson we will only
+and an attitude element &mdash; happiness.)</para>
+
+<para>In this lesson we will only
 look at logical connectives; non-logical connectives (with one exception)
 will be dealt with later, along with some other attitudinals. </para>
 
@@ -165,7 +167,11 @@ terribly obvious. Another is that IFF is often what is meant, rather than
 IF. Yet another is that natural language <wordasword>if</wordasword> is strongly tied up
 with notions of causality, precondition, or deduction &mdash; none of
 which is particularly emphasised by IF as a strictly logical connective.
-For that reason, you will see many Lojbanists avoiding IF, and instead
+For example, logical IF will give a poor rendering of <quote>It's not true that,
+if I'm rich, I'm happy</quote> &mdash; which is decidedly not the same thing as
+<quote>It's not true that I'm either not rich or happy</quote>!</para>
+
+<para>For that reason, you will see many Lojbanists avoiding IF, and instead
 using <foreignphrase lang="art-lojban">sumti tcita</foreignphrase> like
 <foreignphrase lang="art-lojban">va'o</foreignphrase> <quote
 role="gloss">under conditions...</quote>, <foreignphrase
@@ -241,8 +247,8 @@ role="gloss">in a mass with</quote>. So what you have is
 I past visit Ranjeet in-a-mass-with Jyoti
 I visited Ranjeet and Jyoti (together).</literallayout>
 
-</informalexample>You've seen <foreignphrase lang="art-lojban">joi</foreignphrase> before, of
-course: in <link linkend="less5">Lesson 5</link>, where Marx and Engels
+</informalexample>You've seen <foreignphrase lang="art-lojban">joi</foreignphrase> before, 
+too: in <link linkend="less5">Lesson 5</link>, where Marx and Engels
 wrote <citetitle>The Communist Manifesto</citetitle> as a joint project,
 rather than individually (<foreignphrase lang="art-lojban">la marks. joi la
 .engels. finti le guntrusi'o selpeicku</foreignphrase>.) This is just like
@@ -437,7 +443,7 @@ not mean this; it means <quote>the {(big type-of red) type-of book}</quote>
 and it is hard to imagine what <quote>big type of red</quote> would mean.</para>
 
 <para>There are various ways to get out of the left-grouping rule when you need
-to (we'll see some in <link linkend="less14">Lesson 14</link>, but the simplest one here is to use a logical connective and say
+to; we'll see some in <link linkend="less14">Lesson 14</link>, but the simplest one here is to use a logical connective and say
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">le barda je xunre cukta</foreignphrase>
 the {(big AND red) book}
@@ -719,7 +725,7 @@ lang="art-lojban">vlipa</foreignphrase></term><listitem><para>x<subscript>1</sub
 
 <para>Combine the following pairs of Lojban sentences into a single sentence. Get as many
 common <foreignphrase lang="art-lojban">sumti</foreignphrase> as possible into the
-<foreignphrase lang="art-lojban">bridi</foreignphrase>-head.
+<foreignphrase lang="art-lojban">bridi</foreignphrase>-head. Use conversion liberally.
 
 <orderedlist>
 
@@ -783,7 +789,7 @@ doesn't give me much to go on.
 
 <para>As far as strict logic is concerned, though, <quote>Yes</quote> is
 the only proper answer, as computer programmers (and logicians, and
-Lojbanists) discover much to their amusement, and to the irritation of the rest
+Lojbanists) discover much to their amusement &mdash; and to the irritation of the rest
 of the world. That is because the question is phrased as a yes/no question;
 and OR, in the question, does not behave any differently as a logical
 connective than AND. (<quote>Yes</quote> <emphasis>is</emphasis> an
@@ -822,7 +828,9 @@ lang="art-lojban">na</foreignphrase> in front of it.) So if you answer
 <foreignphrase lang="art-lojban">na.e</foreignphrase>, you are saying <quote>I
 want <emphasis>not</emphasis> milk, <emphasis>and</emphasis> sugar</quote> (or, as is more usual in English, 
 <quote>not milk, but sugar</quote>) &mdash; which means that you are picking only
-sugar. You can still be unhelpful with your response: <foreignphrase
+sugar. If you want neither, you can negate both sides: 
+<foreignphrase lang="art-lojban">na.enai</foreignphrase>.
+You can still be unhelpful with your response: <foreignphrase
 lang="art-lojban">.a</foreignphrase> would leave us right where we started, for
 instance. But at least this way you have a logically consistent way of 
 picking alternatives presented to you. 
@@ -868,20 +876,20 @@ a student of x<subscript>2</subscript>; x<subscript>1</subscript> is a scholar; 
 
 <orderedlist>
 
-<listitem><para><foreignphrase lang="art-lojban">la ranjit. penmi la suzyn. vi le
+<listitem><para><foreignphrase lang="art-lojban">.i la ranjit. penmi la suzyn. vi le
 barja ji le spita</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">la djiotis. stali le barja gi'i klama le gusta</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. stali le barja gi'i klama le gusta</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">la jan. tadni loi xumske gi'i nelci loi dotco birje</foreignphrase></para></listitem>
+lang="art-lojban">.i la jan. tadni loi xumske gi'i nelci loi dotco birje</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">la djiotis. pendo la lis.xarvis.azuald. ji la ranjit.</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. pendo la lis.xarvis.azuald. ji la ranjit.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">la suzyn. nelci loi dotco je'i fraso birje</foreignphrase> 
+lang="art-lojban">.i la suzyn. nelci loi dotco je'i fraso birje</foreignphrase> 
 (Hint: Just as you thought: you have no idea whether Susan likes French 
 beer or not. You should still be able to come up with a connective that 
 reflects that.)</para></listitem>
@@ -1076,7 +1084,7 @@ a hangover, so this doesn't follow.</para></listitem>
 <listitem><para>The reputable members of the business community who say this kind of thing will hardly begrudge 
 you a quote if you've already called for a consultation; so this is OR.</para></listitem>
 
-<listitem><para>XOR: You may be being imprecise, but you're not being nonsensical &mdash; the number of reasons 
+<listitem><para>EOR: You may be being imprecise, but you're not being nonsensical &mdash; the number of reasons 
 you can come up with can't be both six and seven.</para></listitem>
 
 <listitem><para>OR: As it turns out, it's next to both. (Nick met some people from Liechtenstein once,
@@ -1168,8 +1176,8 @@ lang="art-lojban">.aunai</foreignphrase>)
 <listitem><para><citetitle>Natraj</citetitle> is a bar and restaurant
 (i.e. a bistro, or a licensed restaurant.)</para></listitem>
 
-<listitem><para><wordasword>x</wordasword> is a response to the question,
-whether or not it is an answer to it.</para></listitem>
+<listitem><para><wordasword>x</wordasword> is a response,
+whether or not it is an answer to the question.</para></listitem>
 
 <listitem><para>Zhang goes up to, meets, and talks to Susan.
 </para>
@@ -1346,7 +1354,8 @@ lang="art-lojban">.i le bevri cu carna fi la suzyn. gi'e cisma gi'e cusku lu
 je'i bakni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. tirna le bevri gi'onai jundi le bevri</foreignphrase></para></listitem>
+lang="art-lojban">.i la suzyn. tirna le bevri gi'onai jundi le bevri</foreignphrase> (or: <foreignphrase
+lang="art-lojban">.i la suzyn. tirna le bevri gi'onai jundi ri</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis pencu la suzyn. le janco gi'e cusku lu .i ju'i .suzyn. li'u</foreignphrase></para></listitem>

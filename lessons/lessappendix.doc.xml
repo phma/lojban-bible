@@ -1,10 +1,10 @@
 <appendix id="lessappendix"> <title>Unsettled Business</title>
 
 <para>Lojban is a young language, but a language which prides itself on being fully and 
-explicitly documented... but not always. In a couple of instances, topics alluded to in 
+explicitly documented... almost always. In a couple of instances, topics alluded to in 
 these lessons are still somewhat up in the air. Though what the lessons themselves
 say about Lojban grammar you can rely on, there are some side issues on which the 
-dust has not yet settled. This appendix covers two issues in particular; you do not
+dust has not yet settled as of this writing. This appendix covers two issues in particular; you do not
 need to go through this on your first reading of the lessons, but once you start
 reading, writing, and speaking Lojban, this appendix tries to explain some things you 
 may bump into, and which might strike you as odd.</para>
@@ -92,12 +92,12 @@ lang="art-lojban">vo'a</foreignphrase> serve as an unambiguous way of doing just
 <para>So whether because it was what they got used to in 1991 (and they didn't want to 
 relearn the language in 1997), or because they thought <foreignphrase
 lang="art-lojban">vo'a</foreignphrase> would be more useful that way, Lojbanists interpret <foreignphrase
-lang="art-lojban">la kris. djuno ledu'u la pat. prami la djun. soivo'a</foreignphrase> 
+lang="art-lojban">la kris. djuno ledu'u la pat. prami vo'a</foreignphrase> 
 as saying that Chris knows that Pat loves <emphasis>her</emphasis>, not herself. So 
 Lojbanists use <foreignphrase
-lang="art-lojban">vo'a</foreignphrase> long-distance.</para>
+lang="art-lojban">vo'a</foreignphrase> as a long-distance reflexive.</para>
 
-<para>... almost always. There are two occasions when they sometimes use short-distance 
+<para>... almost always. There are two occasions when you will occasionally see short-distance 
 interpretations instead. The first is when the long-distance interpretation doesn't 
 make sense for some reason. For example, the x<subscript>1</subscript> place of the main <foreignphrase
 lang="art-lojban">bridi</foreignphrase> contains the embedded <foreignphrase
@@ -194,9 +194,9 @@ something in which kindness is shown</quote> (although that action
 <wordasword>kindness</wordasword>.)</para>
 
 <para>A more contentious issue is, whether this should hold for all <foreignphrase 
-lang="art-lojban">ka</foreignphrase>-abstraction, wherever they may occur. For
-example, does <foreignphrase lang="art-lojban">mi tavla leka xendo</foreignphrase>
-mean the same thing as <foreignphrase lang="art-lojban">mi tavla leka ce'u xendo zo'e 
+lang="art-lojban">ka</foreignphrase>-abstractions, wherever they may occur. For
+example, does <foreignphrase lang="art-lojban">mi tavla fi leka xendo</foreignphrase>
+mean the same thing as <foreignphrase lang="art-lojban">mi tavla fi leka ce'u xendo zo'e 
 zo'e</foreignphrase>? Are you saying you are talking about kindness, as a property 
 specifically applied to the person showing the kindness?</para>
 

@@ -104,7 +104,7 @@ we've looked at three articles: <foreignphrase
 lang="art-lojban">la</foreignphrase>, for <foreignphrase
 lang="art-lojban">cmene</foreignphrase>, <foreignphrase
 lang="art-lojban">le</foreignphrase>, for <foreignphrase
-lang="art-lojban">sumti</foreignphrase> and <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, and <foreignphrase
 lang="art-lojban">li</foreignphrase> for numbers. So <foreignphrase
 lang="art-lojban">li bi</foreignphrase> is <quote role="gloss">the number
 eight.</quote> Actually, outside mathematics, <foreignphrase
@@ -133,12 +133,12 @@ lang="art-lojban">lo</foreignphrase>. The logic of <foreignphrase
 lang="art-lojban">lo</foreignphrase> is pretty complicated, but it
 basically means <quote role="gloss">something which really is,</quote>
 which nine times out of ten is the same as English
-<wordasword>a</wordasword> or <wordasword>some</wordasword> (translating
-Lojban grammar into English like this is a mortal sin (damned under the name of
+<wordasword>a</wordasword> or <wordasword>some</wordasword>. (Translating
+Lojban grammar into English like this is a mortal sin &mdash; damned under the name of
 <foreignphrase
-lang="art-lojban">malglico</foreignphrase>), but even so, this is
+lang="art-lojban">malglico</foreignphrase>; but even so, this is
 the best thing to do with <foreignphrase
-lang="art-lojban">lo</foreignphrase> at this stage!). </para>
+lang="art-lojban">lo</foreignphrase> at this stage!)</para>
 
 <note><title>Note for logicians</title><para><foreignphrase lang="art-lojban">lo
 prenu cu klama</foreignphrase> expresses the proposition <quote>There exists at
@@ -168,7 +168,7 @@ to say. (Mathematicians and logicians can look up the relevant parts of
 <wordasword>The Complete Lojban Language</wordasword> if they want
 clarification on this issue &mdash; or for that matter on the differences
 between <foreignphrase lang="art-lojban">lo</foreignphrase> and
-<foreignphrase lang="art-lojban">le</foreignphrase>). </para>
+<foreignphrase lang="art-lojban">le</foreignphrase>.)</para>
 
 <para>Now consider the English sentence <wordasword>Three men carried a 
 piano</wordasword>. This sentence has two potential meanings, as does any 
@@ -207,10 +207,10 @@ have anything to do with each other.</para>
 <para>But if you want those dogs, or those men, to be considered as a unit,
 you'd say 
 
-<informalexample><para><foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> ci lo
-nanmu cu bevri le pipno</foreignphrase></para><para><foreignphrase
-lang="art-lojban"><emphasis>lu'o</emphasis> ci lo gerku cu batci
-mi</foreignphrase></para>
+<informalexample><literallayout><foreignphrase 
+lang="art-lojban"><emphasis>lu'o</emphasis> ci lo nanmu cu bevri le pipno</foreignphrase>
+<foreignphrase
+lang="art-lojban"><emphasis>lu'o</emphasis> ci lo gerku cu batci mi</foreignphrase></literallayout>
 
 </informalexample><foreignphrase lang="art-lojban">lu'o</foreignphrase>
 means <quote role="gloss">the mass composed of</quote>, and in effect
@@ -272,7 +272,7 @@ that exist in the universe. You cannot say <foreignphrase
 lang="art-lojban">ci loi nanmu cu bevri le pipno</foreignphrase>, because 
 the three men act as one mass, and not as three masses. As it turns out (by extension 
 of a little-known mechanism documented in <citetitle>The Complete Lojban 
-Language</citetitle>, p. 132&ndash;133), the way to do it is <foreignphrase 
+Language</citetitle>, pp. 132&ndash;133), the way to do it is <foreignphrase 
 lang="art-lojban">loi ci lo nanmu cu bevri le pipno</foreignphrase>: 
 <quote>The mass of three out of [all] men carries the piano.</quote></para></tip>
 
@@ -350,7 +350,7 @@ suffer from that particular affliction. Which obviously is not terribly
 practical. (The real counts, I mean, not the affliction. Though on second
 thought...)</para>
 
-<para>One way out of this is to use <foreignphrase
+<para>One way out of this problem is to use <foreignphrase
 lang="art-lojban">fi'u</foreignphrase>, which is like the Lojban slash sign.  So
 <quote>two out of every three people</quote> is really <quote>2/3 of 
 people</quote>, or
@@ -408,9 +408,7 @@ this as <quote role="gloss">zero</quote>)</para></listitem></varlistentry>
 lang="art-lojban">ro</foreignphrase></term><listitem><para>each / 
 all</para></listitem></varlistentry>
 
-</variablelist>
-
-<variablelist>
+</variablelist><variablelist>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">du'e</foreignphrase></term><listitem><para>too
@@ -432,9 +430,7 @@ lang="art-lojban">so'o</foreignphrase></term><listitem><para>several</para></lis
 
 <varlistentry><term><foreignphrase lang="art-lojban">so'u</foreignphrase></term><listitem><para>few</para></listitem></varlistentry>
 
-</variablelist>
-
-<variablelist>
+</variablelist><variablelist>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">su'e</foreignphrase></term><listitem><para>at
@@ -476,7 +472,10 @@ belt yet.) </para>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
 Many Americans like Nirvana</literallayout><para>(The group, not the mystical state. Although 
-on second thought...</para><para>Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)</para></listitem>
+on second thought...)</para>
+
+<note><para>Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style:
+they mean what the <emphasis>speaker</emphasis> means.</para></note></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
 Few Chinese people like Nirvana.</literallayout></listitem>
@@ -487,7 +486,7 @@ No more than five out of the fifty people laugh(ed)</literallayout><para>(Let's 
 <listitem><literallayout><foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
 At least one person loves you.</literallayout></listitem>
 
-</itemizedlist></informalexample>This last one is logically the same as <foreignphrase lang="art-lojban">lo
+</itemizedlist></informalexample>This last sentence is logically the same as <foreignphrase lang="art-lojban">lo
 prenu cu prami do</foreignphrase>, which means <quote>there exists at least
 one person such that that person loves you,</quote> but it makes the
 meaning clearer and more emphatic. In fact, all articles in Lojban have
@@ -596,10 +595,10 @@ question?
 <foreignphrase lang="art-lojban">xo</foreignphrase>, as we'll see in the next
 lesson).</para>
 
-<note><para><foreignphrase lang="art-lojban">xo</foreignphrase> is also used in mathematics, as in
+<tip><para><foreignphrase lang="art-lojban">xo</foreignphrase> is also used in mathematics, as in
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">li ci su'i vo du li xo</foreignphrase>
-3 + 4 = ? </literallayout></informalexample></para></note>
+3 + 4 = ? </literallayout></informalexample></para></tip>
 
 <para>A few more examples:
 
@@ -707,8 +706,7 @@ described</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">loi</foreignphrase></term><listitem><para>the mass which really
-is</para></listitem></varlistentry>
-</variablelist></para>
+is</para></listitem></varlistentry></variablelist></para>
 <!--</listitem>
 
 <listitem>-->
@@ -828,7 +826,9 @@ likers first, and as talkers second.</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">ro lo cifnu cu melbi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">lei ci mlatu cu batci le
-gerku</foreignphrase></para></listitem>
+gerku</foreignphrase> (or: <foreignphrase lang="art-lojban">lu'o ci le mlatu cu batci le
+gerku</foreignphrase>. If you have <foreignphrase lang="art-lojban">lu'o le ci mlatu cu batci le
+gerku</foreignphrase>, you're implying that the three cats are the only three cats you have in mind, whereas <foreignphrase lang="art-lojban">lu'o ci le mlatu</foreignphrase> leaves it open that there are other cats around.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.ue la meilis.  prami re lo
 nanmu</foreignphrase></para></listitem>
@@ -860,12 +860,14 @@ prenu</foreignphrase> (or: <foreignphrase lang="art-lojban">le cifnu pe la
 ROZmeris. ...</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">pafi'uci loi ninmu cu nelci la
-deivyd.bo,is.</foreignphrase></para></listitem>
+deivyd.bo,is.</foreignphrase> (or: <foreignphrase lang="art-lojban">pafi'uci lu'o lo ninmu cu nelci la
+deivyd.bo,is.</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">su'e pipamu loi budjo cu citka lo
-rectu</foreignphrase></para></listitem>
+rectu</foreignphrase> (or: <foreignphrase lang="art-lojban">su'e pipamu lu'o lo budjo cu citka lo
+rectu</foreignphrase>)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">sofi'upano loi mlatu cu nelci la .uiskas.</foreignphrase> (a Commonwealth slogan for a brand of cat food.)</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">sofi'upano loi mlatu cu nelci la .uiskas.</foreignphrase> (a Commonwealth slogan for a brand of cat food) (or: <foreignphrase lang="art-lojban">sofi'upano lu'o lo mlatu cu nelci la .uiskas.</foreignphrase>)</para></listitem>
 
 </orderedlist></para>
 </simplesect>

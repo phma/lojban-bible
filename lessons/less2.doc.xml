@@ -25,11 +25,11 @@ is coming from. The rest of you, er, carry on.</para></note>
 relationship are said to act as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>. A <foreignphrase
 lang="art-lojban">selbri</foreignphrase> is not a <emphasis>type</emphasis>
-of word (like a <quote role="socalled">verb</quote> in English), it is
+of word (like a <quote role="socalled">verb</quote> in English); it is
 something that some types of words can <emphasis>do</emphasis>. Various
 types of word can act as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, but <foreignphrase
-lang="art-lojban">cmene</foreignphrase>, as we've seen, can't. </para>
+lang="art-lojban">cmene</foreignphrase>, as we've seen, cannot. </para>
 
 <para>The main type of word used as a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> is a <foreignphrase
@@ -99,7 +99,8 @@ English</quote>), transferring features of English into Lojban which don't
 work.)</para></note>-->
 
 <note><para>The <foreignphrase
-lang="art-lojban">la</foreignphrase> you see in front of each name is an article, 
+lang="art-lojban">la</foreignphrase> you see in front of each <foreignphrase
+lang="art-lojban">cmene</foreignphrase> is an article, 
 like <wordasword>a</wordasword> and <wordasword>the</wordasword> in English. 
 Its job is to signal to the listener that the word coming up is a name, and 
 not some other kind of word.</para></note>
@@ -163,7 +164,8 @@ adult)</para>
 on the alert for. It is enough of a community obsession that the Lojban word for it &mdash;
 <foreignphrase lang="art-lojban">malglico</foreignphrase> <quote role="gloss">damned
 English</quote> &mdash; routinely turns up in the English of Lojbanists, even when they're
-not talking about Lojban.</para></note>
+not talking about Lojban. In this instance, it is <foreignphrase lang="art-lojban">malglico</foreignphrase>
+to asume that <foreignphrase lang="art-lojban">ninmu</foreignphrase> refers to an adult.</para></note>
 
 </listitem></varlistentry>
 
@@ -208,7 +210,7 @@ x<subscript>3</subscript></para><para>[This is <emphasis>very</emphasis> Lojbani
 <wordasword>good</wordasword> on its own is so vague as to be almost
 meaningless.  It is also slightly <foreignphrase
 lang="art-lojban">malglico</foreignphrase> to put a person in the x<subscript>1</subscript> place, which
-is normally filled by an object, state or event. For morally good you
+is normally filled by an object, state or event. For <quote role="socalled">morally good</quote> you
 would usually use <foreignphrase lang="art-lojban">vrude</foreignphrase>
 <quote role="gloss">virtuous</quote>] </para></listitem></varlistentry>
 
@@ -295,7 +297,7 @@ and a few rules of thumb. </para>
 role="socalled">doing</quote> and <quote role="socalled">being</quote>).
 </para></listitem>
 
-<listitem><para>If there is someone or something that has something done to them,
+<listitem><para>If someone or something has something done to them,
 he/she/it is usually in the second place.  </para></listitem>
 
 <listitem><para><wordasword>to</wordasword> places (destinations) nearly always come before 
@@ -412,7 +414,7 @@ traveller). What we say instead, to avoid this, is
 <emphasis>not</emphasis> mean
 <quote role="gloss">is</quote> (as in <quote>The woman is going</quote>).
 In fact it doesn't mean anything &mdash; it's just there to indicate that
-there's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming.</para></warning>
+there's a <foreignphrase lang="art-lojban">selbri</foreignphrase> coming up.</para></warning>
 
 <simplesect role="exercise"><title>Exercise 3</title> <para>Add
 <foreignphrase lang="art-lojban">cu</foreignphrase> to the following Lojban
@@ -630,7 +632,7 @@ and so on.  </para>
 <listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">praxas.</foreignphrase></term> <listitem><para><foreignphrase lang="art-lojban">cmene</foreignphrase> (Prague &mdash; <foreignphrase lang="cze">Praha</foreignphrase> in Czech &mdash; the capital of
 the Czech Republic)</para></listitem></varlistentry></variablelist></listitem>
 
-<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">mi</foreignphrase></term> <listitem><para>Neither,
+<listitem><variablelist><varlistentry><term><foreignphrase lang="art-lojban">mi</foreignphrase></term> <listitem><para>Neither:
 it's a type of <foreignphrase lang="art-lojban">cmavo</foreignphrase> (structure word) called a <quote role="socalled">pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></quote>, a word that
 stands in for a <foreignphrase lang="art-lojban">sumti</foreignphrase>, like an English pronoun stands in for a
 noun</para></listitem></varlistentry></variablelist></listitem>
@@ -783,12 +785,12 @@ In the last two sentences, <foreignphrase lang="art-lojban">cu</foreignphrase> i
 impossible, since it has to separate the <foreignphrase
 lang="art-lojban">selbri</foreignphrase> from the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> that comes before it, and there are no
-<foreignphrase lang="art-lojban">sumti</foreignphrase> here. Those last two
+<foreignphrase lang="art-lojban">sumti</foreignphrase> here to separate. Those last two
 sentences are observatives, as discussed in <citetitle>Changing Places</citetitle>. </para>
 
 <para>Note that I have translated these sentences in the present tense
 (since in English you have to choose a tense) but they could be in any
-tense, so <foreignphrase lang="art-lojban">le cipni cu vofli</foreignphrase> could
+tense; so <foreignphrase lang="art-lojban">le cipni cu vofli</foreignphrase> could
 also mean <quote>The bird flew</quote>, for example. We'll look at how
 Lojban expresses tense in <link linkend="less6">later lessons</link>; just remember that you don't
 actually <emphasis>need</emphasis> it &mdash; normally it's obvious whether

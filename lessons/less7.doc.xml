@@ -3,7 +3,7 @@ lang="art-lojban">sumti</foreignphrase> and more abstractions</title><titleabbre
 <sect1 id="less7refer"><title>Referring back</title>
 
 <para>So far we've been referring to everybody by name, which can get very
-repetitive if you want to tell a story, or just string two sentences
+repetitive if you want to tell a story, or even string two sentences
 together (as you will have seen in the last few exercises.) Consider the
 following:
 
@@ -254,7 +254,7 @@ ko'e</foreignphrase></para>
 </informalexample>Now every time we use <foreignphrase lang="art-lojban">ko'e</foreignphrase>, it
 means that particular man, so the full story so far reads:
 
-<informalexample><para><foreignphrase lang="art-lojban">la suzyn.  goi ko'a klama
+<informalexample><para><foreignphrase lang="art-lojban">la suzyn. goi ko'a klama
 le barja .i ko'a ze'a pinxe loi vanju .i ko'a zgana lo nanmu goi ko'e .i
 ko'e melbi .i caku ko'e zgana ko'a</foreignphrase></para>
 
@@ -279,7 +279,7 @@ languages</quote>: lots of languages have definite articles, and Lojban
 <foreignphrase lang="art-lojban">le</foreignphrase> is no definite article.)
 </para>
 
-<note><para>If you combine <foreignphrase
+<tip><para>If you combine <foreignphrase
 lang="art-lojban">ko'a/e/i/o/u</foreignphrase> with <foreignphrase
 lang="art-lojban">ri/ra/ru</foreignphrase>, <emphasis>don't</emphasis> count
 <foreignphrase lang="art-lojban">ko'a</foreignphrase>-type pro-<foreignphrase
@@ -298,14 +298,14 @@ the x<subscript>1</subscript> of <foreignphrase lang="art-lojban">cisma</foreign
 <foreignphrase lang="art-lojban">.i ko'e cisma</foreignphrase>, not <foreignphrase
 lang="art-lojban">.i ri cisma</foreignphrase>. It works out simpler to keep
 <foreignphrase lang="art-lojban">ri/ra/ru</foreignphrase> in reserve for more
-important things. </para></note>
+important things. </para></tip>
 
 <para>Let's continue by introducing Susan's friend Jyoti (if people are
 wondering where I get all these unusual names from, Jyoti is an old
 Gujarati friend of mine). We continue ....
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. goi ko'i mo'ine'i klama .i ko'i rinsa ko'e</foreignphrase>
-Jyoti (henceforth #3), into. #3 greets #2.
+Jyoti (henceforth #3), goes into. #3 greets #2.
 Jyoti comes in and says hello to the guy.</literallayout>
 </informalexample><foreignphrase lang="art-lojban">mo'ine'i</foreignphrase> is another space <quote
 role="socalled">tense</quote>. <foreignphrase
@@ -315,7 +315,8 @@ lang="art-lojban">gismu</foreignphrase>, <foreignphrase
 lang="art-lojban">nenri</foreignphrase>). So <foreignphrase
 lang="art-lojban">mo'ine'i</foreignphrase> corresponds to the English preposition
 <wordasword>into</wordasword> (while <foreignphrase
-lang="art-lojban">ne'i</foreignphrase> on its own corresponds to <wordasword>inside</wordasword> or <wordasword>into</wordasword>.) The way Lojban grammar works, <foreignphrase
+lang="art-lojban">ne'i</foreignphrase> on its own corresponds to 
+<wordasword>inside</wordasword> or <wordasword>in</wordasword>.) The way Lojban grammar works, <foreignphrase
 lang="art-lojban">mo'ine'i</foreignphrase> on its own is treated as <foreignphrase
 lang="art-lojban">mo'ine'i ku</foreignphrase>: a <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase> with an omitted <foreignphrase
@@ -323,7 +324,7 @@ lang="art-lojban">sumti</foreignphrase>. (Remember <foreignphrase
 lang="art-lojban">caku</foreignphrase>, which is exactly the same. Just as
 <foreignphrase lang="art-lojban">baku</foreignphrase> means <quote
 role="gloss">afterwards</quote> (relative to the here-and-now), <foreignphrase lang="art-lojban">mo'ine'i
-(ku)</foreignphrase> means something like <quote
+[ku]</foreignphrase> means something like <quote
 role="gloss">in(to)wards</quote> &mdash; but is nowhere near as weird in
 Lojban as it is in English.)</para>
 
@@ -492,10 +493,18 @@ lang="art-lojban">ro le mi pendo cu klama</foreignphrase> makes sense in Lojban 
 lang="art-lojban">lu</foreignphrase>... <foreignphrase
 lang="art-lojban">li'u</foreignphrase>. But if you want to say what goes before <foreignphrase
 lang="art-lojban">pendo</foreignphrase> in the sentence, <foreignphrase
-lang="art-lojban">ro le mi</foreignphrase> does not necessarily make that much sense on its own. So you would quote that
+lang="art-lojban">ro le mi</foreignphrase> does not make that much sense on its own. So you would quote that
 sentence fragment, not as <foreignphrase
 lang="art-lojban">lu ro le mi li'u</foreignphrase>, but as <foreignphrase
 lang="art-lojban">lo'u ro le mi le'u</foreignphrase>.</para></tip>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">fengu</foreignphrase></term><listitem><para> x<subscript>1</subscript> is angry/mad at x<subscript>2</subscript> for x<subscript>3</subscript> (action/state/property)</para></listitem></varlistentry>
+</variablelist>
+</simplesect>
 
 <simplesect role="exercise"><title>Exercise 3</title>
 
@@ -615,7 +624,7 @@ depending on what sort of thing is meant.
 <listitem><para>If <wordasword>that</wordasword>
 introduces something that happened, use <foreignphrase
 lang="art-lojban">nu</foreignphrase>. (Events can be subdivided more finely yet,
-but let's not complicate matters even more than necessary.)</para></listitem> 
+but for now let's not complicate matters even more than necessary.)</para></listitem> 
 
 <listitem><para>If
 <wordasword>that</wordasword> introduces something that you think, use
@@ -716,19 +725,20 @@ You can also use specific numbers: <foreignphrase
 lang="art-lojban">redo</foreignphrase> would mean <quote role="gloss">two
 of you</quote> or <quote role="gloss">you two</quote> (for example, I start
 e-mails to my parents with <foreignphrase lang="art-lojban">coi
-redo</foreignphrase>.)<note id="less7fn1"><para>To say
+redo</foreignphrase>.)<tip id="less7fn1"><para>To say
 <quote><emphasis>the</emphasis> two of you</quote>, Lojban does actually
 let you say <foreignphrase lang="art-lojban">le re do</foreignphrase>. But
 you need the numeral to be there already, in order to put an article in
 front of a pro-<foreignphrase
-lang="art-lojban">sumti</foreignphrase>.</para></note>You can also use
+lang="art-lojban">sumti</foreignphrase>: you can't say <foreignphrase lang="art-lojban">le
+do</foreignphrase> to mean <quote role="gloss">you</quote>.</para></tip>You can also use
 numbers with <foreignphrase lang="art-lojban">ko</foreignphrase>, e.g.
 <foreignphrase lang="art-lojban">ro ko klama ti</foreignphrase> <quote>All of you,
 get over here.</quote> </para>
 
 <para>Case (3) is expressed by <foreignphrase
 lang="art-lojban">do'o</foreignphrase> <quote role="gloss">you and someone
-else</quote>, and (4) is completely different. It's normally expressed by
+else</quote>. Case (4) is completely different: it's normally expressed by
 <foreignphrase lang="art-lojban">roda</foreignphrase> <quote role="gloss">all
 <wordasword>x</wordasword></quote> or, more specifically <foreignphrase
 lang="art-lojban">ro le prenu</foreignphrase> <quote role="gloss">all
@@ -737,7 +747,7 @@ persons</quote>, but often you can just miss it out altogether. </para>
 <para>English <wordasword>we</wordasword> is almost as confusing, as it can
 mean the speaker and the listener(s), the speaker and some other people, or
 the speaker and the listener and some other people. Not surprisingly, Lojban
-has four pro-<foreignphrase lang="art-lojban">sumti</foreignphrase> for
+has four distinct pro-<foreignphrase lang="art-lojban">sumti</foreignphrase> for
 <wordasword>we</wordasword>:
 
 <variablelist>
@@ -754,7 +764,8 @@ lang="art-lojban">mi'a</foreignphrase></term><listitem><para>I and another/other
 lang="art-lojban">ma'a</foreignphrase></term><listitem><para>you and I and
 another/others</para></listitem></varlistentry>
 
-</variablelist>(Once again, Lojban follows the lead of languages other than English in differentiating between these different kinds of <wordasword>we</wordasword>.)</para>
+</variablelist>(Once again, Lojban follows the lead of languages other than English
+in differentiating between these different kinds of <wordasword>we</wordasword>.)</para>
 
 <para>The fourth pro-<foreignphrase lang="art-lojban">sumti</foreignphrase>? Oddly enough, it's 
 <foreignphrase lang="art-lojban">mi</foreignphrase>! Lojban makes no distinction bewteen singular and plural; 
@@ -821,24 +832,24 @@ lang="art-lojban">ko'a&ndash;ko'u, fo'a&ndash;fo'u</foreignphrase>), and using
 acronyms (Lojban letters).</para></listitem>
 
 <listitem><para>How to refer to existential <wordasword>x</wordasword> (<quote 
-role="gloss">something, someone</quote>) (<foreignphrase lang="art-lojban">da, de, di</foreignphrase>)</para></listitem>
+role="gloss">something, someone</quote>) (<foreignphrase lang="art-lojban">da, de, di</foreignphrase>).</para></listitem>
 
-<listitem><para> Referring to motion in Lojban (<foreignphrase
-lang="art-lojban">mo'i</foreignphrase>)</para></listitem>
+<listitem><para>Referring to motion in Lojban (<foreignphrase
+lang="art-lojban">mo'i</foreignphrase>).</para></listitem>
 
 <listitem><para>How to give direct quotations (<foreignphrase 
-lang="art-lojban">lu ... li'u</foreignphrase>)</para></listitem>
+lang="art-lojban">lu ... li'u</foreignphrase>).</para></listitem>
 
 <listitem><para>How to give indirect quotations (<foreignphrase 
-lang="art-lojban">se du'u</foreignphrase>)</para></listitem>
+lang="art-lojban">se du'u</foreignphrase>).</para></listitem>
 
 <listitem><para>How to refer to facts (<foreignphrase 
 lang="art-lojban">du'u</foreignphrase>) as distinct from events (<foreignphrase 
-lang="art-lojban">nu</foreignphrase>)</para></listitem>
+lang="art-lojban">nu</foreignphrase>).</para></listitem>
 
 <listitem><para>Lojban's complement of first and second person pro-<foreignphrase 
 lang="art-lojban">sumti</foreignphrase> (<foreignphrase 
-lang="art-lojban">do'o, mi'o, mi'a, ma'a</foreignphrase>)</para></listitem>
+lang="art-lojban">do'o, mi'o, mi'a, ma'a</foreignphrase>).</para></listitem>
 
 </itemizedlist></para>
 
@@ -1150,7 +1161,7 @@ lang="art-lojban">mo'i</foreignphrase>, this would mean <quote>He walks <emphasi
 female. Pro-<foreignphrase 
 lang="art-lojban">sumti</foreignphrase> like <foreignphrase 
 lang="art-lojban">ko'a</foreignphrase> aren't affected by what candidate referent has
-been mentioned most recently: they have a unique referent.)</para></listitem> 
+been mentioned most recently: they have a unique referent that stays constant.)</para></listitem> 
 
 </orderedlist></para>
 
@@ -1186,7 +1197,7 @@ lang="art-lojban">la suzyn. cu cmene le mi pendo</foreignphrase>, but <foreignph
 lang="art-lojban">lu suzyn. li'u</foreignphrase>, meaning <foreignphrase 
 lang="art-lojban">lu suzyn. li'u cu cmene le mi pendo</foreignphrase>. Since 
 we're putting everything Jyoti says inside our own quotes, this makes her 
-answer <foreignphrase 
+answer be <foreignphrase 
 lang="art-lojban">lu lu suzyn. 
 li'u li'u</foreignphrase>.)</para></listitem> 
 
@@ -1200,7 +1211,9 @@ friend</quote>, with an article in front of it, and <quote role="gloss">is a
 friend</quote>, as an independent <foreignphrase 
 lang="art-lojban">selbri</foreignphrase>.)</para></listitem> 
 
-<listitem><para>Jyoti says to herself angrily <quote>What does he want?</quote> (The question is Jyoti's, not the narrator's, obviously: this does not mean <quote>What was it that Jyoti said to herself he wanted?</quote>)</para></listitem> 
+<listitem><para>Jyoti says to herself angrily <quote>What does he want?</quote>
+(Because it is in direct quotation, the question is Jyoti's, not the narrator's,
+obviously: this does not mean <quote>What was it that Jyoti said to herself he wanted?</quote>)</para></listitem> 
 
 </orderedlist></para>
 
@@ -1291,7 +1304,7 @@ Not that Lojban isn't perfectly capable of such mischief!</para>
 <para>But we couldn't
 refer back to <foreignphrase lang="art-lojban">le la cardoNES. kabri</foreignphrase> with
 <foreignphrase lang="art-lojban">ri</foreignphrase>, either: the way
-<foreignphrase lang="art-lojban">sumti</foreignphrase> are counted, the
+<foreignphrase lang="art-lojban">sumti</foreignphrase> are counted by their beginnings, the
 immediately previous <foreignphrase lang="art-lojban">sumti</foreignphrase> is not
 <foreignphrase lang="art-lojban">le la cardoNES. kabri</foreignphrase> &mdash; it's the
 <foreignphrase lang="art-lojban">la cardoNES.</foreignphrase> <emphasis>inside</emphasis> the phrase
@@ -1310,7 +1323,7 @@ lang="art-lojban">le vanju</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">go'i</foreignphrase></term><listitem><para><foreignphrase 
 lang="art-lojban">la suzyn. ce la ranjit. puzi simxu ninpe'i</foreignphrase>. 
-Don't worry about how you said <quote>Susan and Ranjeet</quote> &mdash; 
+Don't worry about how you said <quote>Susan <emphasis>and</emphasis> Ranjeet</quote> &mdash; 
 it's not like we've covered <foreignphrase 
 lang="art-lojban">ce</foreignphrase> anyway! (For the record, it makes a set out 
 of Susan and Ranjeet, since a set is what <foreignphrase 
@@ -1321,7 +1334,7 @@ linkend="less14">Lesson 14</link>.)</para>
 lang="art-lojban">go'i</foreignphrase> here refers back not to
 the previous sentence in the story, but to the previous sentence <emphasis>in the
 conversation</emphasis>.  Obviously Ranjeet wouldn't be referring back to 
-sentences written by the narrator. He's not meant to realise she's fictional, after 
+sentences written by the narrator. He's not meant to realise he's fictional, after 
 all.</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase 
@@ -1373,8 +1386,8 @@ lang="art-lojban">sumti</foreignphrase> place.)</para>
 <note><para>Seasoned Lojbanists will have noticed that this sentence is not
 strictly correct, and that it would have been rather better as
 <foreignphrase lang="art-lojban">lu'i redo puzi ninpe'i simxu</foreignphrase>, or
-<foreignphrase lang="art-lojban">lu'i redo puzi simxu leka ce'uxipa ninpe'i 
-ce'uxire</foreignphrase>. Seasoned Lojbanists will also cut me some slack for 
+<foreignphrase lang="art-lojban">lu'i redo puzi simxu leka ce'u ninpe'i 
+ce'u</foreignphrase>. Seasoned Lojbanists will also cut me some slack for 
 not trying to introduce everything at once...</para></note>
 
 </listitem>

@@ -36,7 +36,7 @@ texts.</para></listitem></itemizedlist></para>
 <para>A language isn't really a language if it can't cope with things like
 these &mdash; although typically these kinds of things are not dealt with
 in traditional grammars, but are picked up in usage. If there's one thing
-you'll have noticed about Lojban, of course, it's that it's as explicitly
+you'll have noticed about Lojban, of course, it's that it is as explicitly
 specified as possible. Accordingly, Lojban has a special subsection of
 its grammar dealing with these issues, rather than leaving it up to
 usage. But, precisely because this isn't what logic was
@@ -274,7 +274,7 @@ leave</quote>: I can say this if I want you gone while you're making
 yourself comfortable &mdash; but not if you've remembered you've got to be 
 somewhere else, while I'd want nothing more than for you to stick around.</para>
 
-<note><para>The temptation to use attitudinals for others' reactions is
+<tip><para>The temptation to use attitudinals for others' reactions is
 strong enough, in fact, that there are a
 couple of ways of getting around it. If you add the UI5 <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> <foreignphrase
@@ -289,7 +289,7 @@ someone else's, and that you are empathising with them. If <foreignphrase
 lang="art-lojban">.a'u</foreignphrase> is <quote>That's
 interesting!</quote>, <foreignphrase
 lang="art-lojban">.a'udai</foreignphrase> is more like <quote>That must
-have been interesting for you!</quote></para></note>
+have been interesting for you!</quote></para></tip>
 
 <para>One final thing: if you want to know how someone feels about
 something, once again Lojban provides a fill-in-the-slot question word. The
@@ -315,8 +315,8 @@ You fell into the mud! Funny, eh?</literallayout>
 </informalexample>could well be <foreignphrase
 lang="art-lojban">ru'e</foreignphrase>: <quote>Kinda...</quote> Then again,
 it could also be <foreignphrase lang="art-lojban">naicai</foreignphrase>:
-<quote>Absolutely not, and I shall thank you never again to mention it in
-my presence.</quote> (Allowing for some latitude in translation...)</para>
+<quote>Absolutely not, and I shall thank you never to mention it in
+my presence again.</quote> (Allowing for some latitude in translation...)</para>
 
 </sect1>
 
@@ -414,7 +414,7 @@ your friend. <foreignphrase lang="art-lojban">ki'a</foreignphrase> is
 Lojban for <quote role="gloss">Huh?</quote> When you don't understand what 
 someone has just said &mdash; whether because you don't get what they were 
 referring to, or you don't know the word, or the grammar confused you &mdash; 
-you repeat the word or phrase you didn't get, and add <foreignphrase 
+you can repeat the word or phrase you didn't get, and add <foreignphrase 
 lang="art-lojban">ki'a</foreignphrase> as a plaintive request for 
 clarification (so it's even better than <wordasword>Huh?</wordasword>, 
 because you can point out exactly what made you say <wordasword>Huh?</wordasword>):
@@ -469,8 +469,8 @@ this scintillating little anecdote and translate in to Lojban. Like, totally.)
 <sect1 id="less13erase"><title>Erasure</title>
 
 <para>When you make a mistake while speaking, whether in your wording or
-your grammar, you don't normally bother to correct it (if you even realise
-you made a mistake in the first place.) That's because natural languages 
+your grammar, you don't normally bother to correct it &mdash; if you even realise
+you made a mistake in the first place. That's because natural languages 
 are fairly redundant (for this very reason!); and we normally rely a lot more 
 on context than on what we actually hear, anyway. If we do catch ourselves 
 making an error, we stumble out a correction that will do the trick, 
@@ -508,8 +508,7 @@ the correction above would be in Lojban
 is, you have to count words. This can get tedious, and you shouldn't have
 to keep a transcript of your words when you want to correct yourself. The
 other correction word Lojban offers is somewhat more helpful:
-<foreignphrase lang="art-lojban">sa</foreignphrase> erases a phrase, and
-doesn't have to be right next to the phrase it erases. It works by taking
+<foreignphrase lang="art-lojban">sa</foreignphrase> erases a phrase. It works by taking
 the word following it, which starts the phrase to serve as the correction.
 It then goes back in the sentence, looking for the last time you used a
 phrase starting with the same word. (Same <foreignphrase
@@ -546,14 +545,14 @@ Monday.</quote>
 </para>
 
 <tip><para>Of the Lojban erasure words, <foreignphrase 
-lang="art-lojban">sa</foreignphrase> is not as widely known as  <foreignphrase 
+lang="art-lojban">sa</foreignphrase> is not as widely known as <foreignphrase 
 lang="art-lojban">si</foreignphrase>, and another, unofficial solution has 
 arisen on IRC (Internet Relay Chat) to the problem of correcting a word in 
 the sentence after you've completed that sentence. (People on IRC tend to type
 faster than they should, so this kind of problem arises pretty frequently.)
 The solution is to repeat the error word, then erase it with  <foreignphrase 
 lang="art-lojban">si</foreignphrase>, then give the correction. Strictly speaking,
-that's not how  <foreignphrase lang="art-lojban">si</foreignphrase> is meant to 
+that's not how <foreignphrase lang="art-lojban">si</foreignphrase> is meant to 
 work &mdash; it only makes sense to a computer parser if the erasure is within 
 the current sentence; but you'll see this on IRC fairly often.</para></tip>
 
@@ -847,7 +846,7 @@ la nu sisku leka terdi bartu pensi toi</foreignphrase></para></listitem>
 ju'o lenu do tavla cu zdile li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la jan. lu .i 
-je'e .i'ese'i go'i li'u</foreignphrase></para></listitem>
+je'e do'u .i'ese'i go'i li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1133,9 +1132,9 @@ lang="art-lojban">la suzyn.</foreignphrase>, since that's who it applies
 to.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. lu .uecai do vi zvati gi'e ji'a dasni loi 
+lang="art-lojban">.i la suzyn. lu .i .uecai do vi zvati gi'e ji'a dasni loi 
 zirpu li'u</foreignphrase> <emphasis>or</emphasis> <foreignphrase
-lang="art-lojban">.i la suzyn. lu .uecai do vi zvati .i je ji'a do dasni loi 
+lang="art-lojban">.i la suzyn. lu .i .uecai do vi zvati .i je ji'a do dasni loi 
 zirpu li'u</foreignphrase> (You can 
 tone it down to <foreignphrase
 lang="art-lojban">.uesai</foreignphrase>, if you want.)</para></listitem>
