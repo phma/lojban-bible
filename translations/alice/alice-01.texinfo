@@ -22,10 +22,10 @@ fi lo cukta poi vasru no pixra ja nuncasnu li'u
 @c    of getting up and picking the daisies, when suddenly a White
 @c    Rabbit with pink eyes ran close by her.
 
-i abu ca'o jdice ga'a le abu menli to serai le kamza'a verai lei selka'e 
-va'o le nu le glare djedi cu rinka le nu abu lifri le nu sipseltri je 
+i abu ca'o menli jdice to sekai le xagrai selka'e pe
+va'o le nu le glare djedi cu rinka le nu abu lifri le nu sipydji je 
 bebna toi le du'u xukau le nu pluka fa le nu zbasu lo xrula linsi cu se 
-vamji le raktu po'u le nu sa'irbi'o gi'e crepu lei xrula icabo suksa fa 
+vamji le raktu poi nu sa'irbi'o gi'e crepu loi xrula icabo suksa fa 
 le nu lo blabi ractu poi xunblabi se kanla cu bajra zo'a abu
 
 @c      There was nothing so VERY remarkable in that; nor did Alice
@@ -89,7 +89,7 @@ le nu ka'e viska i remai abu catlu lei mlana be le jinto gi'e facki le
 du'u my culno loi kabri tanxe ku joi loi cukta kajna i abu viska loi
 cartu ku joi loi pixra vu'o noi dandu loi genxu i abu lebna lo botpi
 pa le kajna ca le nu lampagre i by se tcita lu najnimre tityjdu li'u
-gi'e ku'i u'anaidai kunti i abu na djica le nu falcru le botpi mu'i le
+gi'e ku'i u'anaidai kunti i abu na'e djica le nu falcru le botpi kei mu'i le
 nu terpa le nu catra da iseki'ubo abu suksa le nu punji by pa le kabri
 tanxe ca le nu abu ty farlu lampagre
 
@@ -148,7 +148,7 @@ i caku abuboi za'ure'u co'a co'e i lu mi kucli le du'u xukau mi ba farlu
 ba'e pagre le terdi i u'isai tolcanci le jbini be lei prenu poi cadzu
 fau le nu le stedu cu cnita i pe'i bu'u le smudukti tosa'a caku abu gleki 
 le nu noda tirna kei ki'u le nu le valsi nasai drani sance toi i ku'i
-ei mi te preti le cmene be le gugde le du'u mokau i lu pe'u doi ninmu
+ei mi te preti le gugde le du'u makau cmene i lu pe'u doi ninmu
 ti nuzlo gi'i sralo tosa'a abu troci le nu krorinsa kei ca le nu tavla
 i ko se xanri le nu krorinsa ca le nu farlu i pe'ipei do ka'e snada toi
 i ny ba jinvi le du'u mi toldjuno ke cmalu nixli kei fo le nu mi te preti
@@ -175,12 +175,12 @@ i ei mi na te preti i ju'ocu'i mi viska le nu ba'o ciska le cmene da li'u
 @c    bat?' when suddenly, thump! thump! down she came upon a heap of
 @c    sticks and dry leaves, and the fall was over.
 
-i mo'ini'a mo'ini'a mo'ini'a i no drata be la'e di'e ka'e se zukte
+i mo'ini'a mo'ini'a mo'ini'a i ka'e zukte no drata be la'e di'e
 iseki'ubo la alis za'ure'u co'a tavla i lu ju'o la dinas ba mutce le
 ka se claxu mi kei ca le cabnicte tosa'a la dinas cu mlatu toi i a'o
 da ba morji tu'a le dy ladru palna ca le sanmi tcika i doi dinas noi 
 dirba mi do'u au do mi kansa le cnita i u'u no smacu cu zvati le vacri
-i ku'i da'ibi'unai do ka'e kavbu lo volratcu noi ka'u mutce le ka simsa
+i ku'i do ka'e kavbu lo volratcu noi ka'u mutce le ka simsa
 lo'e smacu i ku'i a'u xu lo'e mlatu cu citka lo'e volratcu li'u i caku
 la alis co'a sipydji lifri gi'e di'a senva sezysku lu xu lo'e mlatu cu
 citka lo'e volratcu i xu lo'e mlatu cu citka lo'e volratcu li'u
@@ -263,13 +263,14 @@ abu barkla le manku kumfa gi'e cadzu jbini lei va zdani be loi carmi
 xrula be'o ku joi lei va lenku jinto i ku'i abu na ka'e gregau le
 ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre
 kei sei la alis uu pensi sy tolmutce le ka se pilno secau lei mi janco
-i au mi ka'e se polje tai tu'a le'e darvistci i pe'i mi ka'e go'i va'o
+i au mi ka'e se polje tai tu'a lo'e darvistci i pe'i mi ka'e go'i va'o
 le nu mi djuno le du'u mi co'a go'i ta'i makau li'u i lei puzi nalfadni
-fasnu tai so'imoi ja'e le nu la alis co'a jinvi le du'u so'usai da
+fasnu tai so'imei ja'e le nu la alis co'a jinvi le du'u so'usai da
 ca'a nalcumki
 
 @c le'e darvistci: this kind of contraction is typical of some kinds
 @c of telescopes, but by no means all. -phma
+@c But Alice doesn't know that. For her, telescopes are contractible.
 
 @c      There seemed to be no use in waiting by the little door, so she
 @c    went back to the table, half hoping she might find another key on
@@ -280,10 +281,10 @@ ca'a nalcumki
 @c    beautifully printed on it in large letters.
 
 i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
-le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy cpana 
+le jubme gi'e xadba pacna le nu facki le du'u lo drata ckiku jy cpana 
 kei a do'anai tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
-tai tu'a le'e darvistci i ca le ca krefu abu facki le du'u cpana jy fa lo
-cmalu botpi to lu noi ju'o na pu zvati ti sei la alis cusku li'u toi i
+tai tu'a lo'e darvistci i ca le ca krefu abu facki le du'u cpana jy fa lo
+cmalu botpi to lu noi ju'o pu na zvati ti sei la alis cusku li'u toi i
 sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe
 li'u cu melbi prina ke'a sepi'o loi barda lerfu
 
@@ -303,7 +304,7 @@ li'u cu melbi prina ke'a sepi'o loi barda lerfu
 @c    later.
 
 i xamgu fa le nu cusku lu ko mi pinxe li'u i ku'i la alis noi prije
-na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku
+cu na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku
 gi'e facki le du'u xukau da sinxa zo vindu li'u i abu pu tcidu so'o
 melbi ke cmalu lisri be loi verba poi jelca se xrani gi'e se citka
 loi cilce danlu gi'e lifri loi drata tolpluka ki'u le nu na morji
@@ -311,7 +312,7 @@ lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo'e xunre
 glare tunta cu jelca xrani lo'e za'o jgari be ty zi'e no'u mu'a le nu
 va'o lo'e nu condi mutce sraku le degji sepi'o lo dakfu kei dy ta'e
 ciblu cirko i abuboi noroi tolmorji le du'u le nu da dukse le ka pinxe
-lo se botpi be le se tcita be zo vindu bazi ja bazu fanza da
+lo se botpi be le se tcita be zo vindu cu bazi ja bazu fanza da
 
 @c {i abu noroi} does not parse; it means "A0 times", not "A never". --fixed
 
@@ -325,7 +326,7 @@ i ku'i le vi botpi na se tcita zo vindu iseki'ubo la alis darsi le nu
 vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
 mixre be lo rutrceraso tisna ku joi lo sovykruji ku joi lo grutrxananase 
 kujoi lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne 
-jelnanba
+jelnanba toi i abu zi mo'u pinxe
 
 @c lo rutrceraso na jbari --ok
 
@@ -347,7 +348,7 @@ jelnanba
 @c    like a telescope.'
 
 i lu ue cizra selga'e sei la alis cusku i ru'a ju'o mi se polje tai
-tu'a le'e darvistci li'u
+tu'a lo'e darvistci li'u
 
 @c      And so it was indeed:  she was now only ten inches high, and
 @c    her face brightened up at the thought that she was now the right
@@ -364,11 +365,11 @@ i ca'a co'e i caku abu cenmitre li so'u remu i le abu flira cu cambi'o
 seja'e le nu pensi le nu caku abu mapti le cmalu vorme le ka pagre
 fi le melbi purdi i ku'i pamai abu denpa le nu zgana le du'u xukau
 abu za'o brajdika i abu milxe le ka xanka la'e di'u i lu cumki fa le
-nu se fanmo sei la alis sezysku le nu mi mo'u canci tai tu'a lo
+nu se fanmo sei la alis sezysku le nu mi mo'u canci tai tu'a lo'e
 lakyga'a fagri i mi kucli le du'u mi makau simsa va'o da'i la'e di'u
-li'u i abu troci le nu se xanri le du'u lo lakyga'a fagri makau simsa
+li'u i abu troci le nu se xanri le du'u lo'e lakyga'a fagri makau simsa
 ba le nu le lakyga'a cu se gusydicra i abu ka'enai morji lo nu viska
-lo tai dacti
+lo'e tai dacti
 
 @c      After a while, finding that nothing more happened, she decided
 @c    on going into the garden at once; but, alas for poor Alice!
@@ -383,7 +384,7 @@ lo tai dacti
 i bazaku abu ca le nu facki le du'u no drata cu fasnu cu jdice le nu
 zi klama le purdi i ku'i la alis uu ca le nu tolcliva le vorme cu facki
 le du'u abu tolmorji tu'a le cmalu ke solji ckiku i ca le nu ba'o xruti
-le jubme tezu'e le nu cpacu cy cu facki le du'u le ni abu galtu na banzu 
+le jubme tezu'e le nu cpacu cy cu facki le du'u le ni abu galtu cu na banzu 
 le nu cpacu cy i abu traji troci le nu cpare pa le tuple be le jubme i
 ku'i ty dukse le ka se sakli i abu uu ca le nu tatpi le nu troci cu 
 zutse gi'e klaku
@@ -404,7 +405,7 @@ i lu e'e noda do prali le nu tai klaku sei la alis kinli sezysku i e'u
 ko cazi sisti li'u i abu ta'e sezystidi lo xamgu mutce to ku'i ta'enai
 mapti zukte toi gi'e su'oroi tai junri sezytolzarsku ja'e le nu gasnu le 
 nu le se klaku cu zvati le kanla i abu morji le nu paroi troci le nu darxi
-le abu kerlo kei mu'i le nu abu abu tcica ca lo nu abu abu fapro le nu
+le abu kerlo kei mu'i le nu abu tcica abu ca lo nu abu fapro abu le nu
 kelcrkroke i le vi cizra verba cu mutce le ka nelci le nu sruma le du'u
 du re prenu i lu ku'i noda mi ca prali sei la alis uu pensi le nu sruma
 le du'u mi du re prenu i oi le mi ve vimcu na banzu le nu marji fi ba'e
