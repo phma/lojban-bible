@@ -114,7 +114,7 @@
  ni'inai   BAI*     a pesar de (lógica)                       nibli modal, 1er argumento                            a pesar de lógica ...
  mu'inai   BAI*     a pesar de (motivo)                       mukti modal, 1er argumento                            a pesar de motivo ...
  ki'unai   BAI*     a pesar de (razón)                        krinu modal, 1er argumento                            a pesar de razón ...
- pa'aku    BAI*     en paralelo                               sumti: explicitly marks respective use as in "THEY read THEIR (respective) books"
+ pa'aku    BAI*     en paralelo                               sumti: marca explicitamente uso respectivo como en "ELLOS leen SUS (respectivos) libros"
  seci'o    BAI*     emoción                                   cinmo modal, 2do argumento (muestra actitud)          emocionalmente; con emoción ...
  teci'o    BAI*     emoción por                               cinmo modal, 3er argumento (actitud sobre)            emocionalmente; con emoción sobre ...
  seni'inai BAI*     sin embargo (lógica)                      nibli modal, 2do argumento                            implica sin embargo ...
@@ -210,54 +210,54 @@
  veci'e    BAI*     con sinergía en                           ciste modal, 4to argumento                            como sistema con sinergía en ...
  seci'e    BAI*     sistema con función ...                   ciste modal, 2do argumento                            con función sistémica ...
  secau     BAI*     sin                                       claxu modal, 2do argumento (careciendo)               sin ...
- ba'e      BAhE     énfasis (sobre lo que sigue)              forethought emphasis indicator; indicates next word is especially emphasized
- za'e      BAhE     palabra efímera sigue                     forethought nonce-word indicator; indicates next word is nonce-creation and may be nonstandard
- be        BE       acoplar sumti                             sumti link to attach sumti (default x2) to a selbri; used in descripcións
- bei       BEI      acoplar más sumti                         separates multiple linked sumti within a selbri; used in descripcións
- be'o      BEhO     fin de sumti acoplados                    terminador elisible: end linked sumti in specified descripción
- bi'e      BIhE     operador de alta prioridad                prefixed to a mex operator to indicate high priority
- mi'i      BIhI     centro-rango                              non-logical interval connective: ordered components: ... center, ... range surrounding center
- bi'o      BIhI     intervalo ordenado                        non-logical interval connective: ordered from ... to ...
- bi'i      BIhI     intervalo no ordenado                     non-logical interval connective: unordered between ... and ...
- bo        BO       acople corto                              short scope joiner; joins various constructs con shortest scope and right grouping
- boi       BOI      fin de número o lerfu                     terminador elisible: terminate numeral or letteral string
- bu        BU       palabra a lerfu                           convert any single word to BY
- joibu     BY*      &                                         letteral: ampersand character; especially used in standing for a mixed connective
-.abu       BY*      a                                         leteral a
-.ebu       BY*      e                                         leteral e
-.uibu      BY*                                                letteral: happiness symbol (letteral)
-.ibu       BY*      i                                         leteral i
-.obu       BY*      o                                         leteral o
- zo'obu    BY*                                                letteral: humor symbol, ":-)" and its related forms expressing humor (letteral)
-.ubu       BY*      u                                         leteral u
-.ybu       BY*      y                                         leteral y
- jo'o      BY1      cambio a arábigo                          shift letterals to Arabic alphabet
- ru'o      BY1      cambio a cirílico                         shift letterals to Cyrillic alphabet
- ge'o      BY1      cambio a griego                           shift letterals to Greek alphabet
- je'o      BY1      cambio a hebreo                           shift letterals to Hebrew alphabet
- lo'a      BY1      cambio a lojban                           shift letterals to Lojban (Roman) alphabet
- na'a      BY1      cancela cambios                           cancel all letteral shifts
- se'e      BY1      código de caracteres                      following dígitos code a character (in ASCII, Unicode, etc.)
- to'a      BY1      cambio a minúsculas                       lower-case letteral shift
- ga'e      BY1      cambio a mayúsculas                       upper-case letteral shift
-.y'y       BY2      '                                         leteral '
- by        BY2      b                                         leteral b
- cy        BY2      c                                         leteral c
- dy        BY2      d                                         leteral d
- fy        BY2      f                                         leteral f
- gy        BY2      g                                         leteral g
- jy        BY2      j                                         leteral j
- ky        BY2      k                                         leteral k
- ly        BY2      l                                         leteral l
- my        BY2      m                                         leteral m
- ny        BY2      n                                         leteral n
- py        BY2      p                                         leteral p
- ry        BY2      r                                         leteral r
- sy        BY2      s                                         leteral s
- ty        BY2      t                                         leteral t
- vy        BY2      v                                         leteral v
- xy        BY2      x                                         leteral x
- zy        BY2      z                                         leteral z
+ ba'e      BAhE     énfasis (sobre lo que sigue)              indicador de énfasis; indica que la siguiente palabra es especialmente enfatizada
+ za'e      BAhE     palabra efímera sigue                     indicador de palabra efímera; indica que la siguiente palabra es una creación del momento y puede no ser estándar
+ be        BE       acoplar sumti                             adhiere un sumti (default x2) a un selbri; usado en descripciones
+ bei       BEI      acoplar otros sumti                       separa varios sumti acoplados a un selbri; usado en descripciones
+ be'o      BEhO     fin de sumti acoplados                    terminador elisible: fin de sumti acoplados en una descripción específica
+ bi'e      BIhE     operador de alta prioridad                prefijado a un operador matemático para indicar alta prioridad
+ mi'i      BIhI     centro-rango                              conector de intervalos no lógico: componentes ordenados: ... centro, ... rango alrededor del centro
+ bi'o      BIhI     intervalo ordenado                        conector de intervalos no lógico: ordenado de ... a ...
+ bi'i      BIhI     intervalo no ordenado                     conector de intervalos no lógico: no ordenado entre ... y ...
+ bo        BO       acople corto                              acople de corto alcance; une varias construcciones con mínimo alcance y agrupamiento por derecha
+ boi       BOI      fin de número o lerfu                     terminador elisible: termina cadena de números o letras 
+ bu        BU       palabra a lerfu                           convierte una palabra cualquiera a BY
+ joibu     BY*      &                                         letra: ampersand character; especially used in standing for a mixed connective
+.abu       BY*      a                                         letra a
+.ebu       BY*      e                                         letra e
+.uibu      BY*                                                letra: símbolo de felicidad (letra)
+.ibu       BY*      i                                         letra i
+.obu       BY*      o                                         letra o
+ zo'obu    BY*                                                letra: símbolo de humor, ":-)" y formas relacionadas que expresan humor (letra)
+.ubu       BY*      u                                         letra u
+.ybu       BY*      y                                         letra y
+ jo'o      BY1      cambio a arábigo                          cambia letras a alfabeto arábigo
+ ru'o      BY1      cambio a cirílico                         cambia letras a alfabeto cirílico
+ ge'o      BY1      cambio a griego                           cambia letras a alfabeto griego
+ je'o      BY1      cambio a hebreo                           cambia letras a alfabeto hebreo
+ lo'a      BY1      cambio a lojban                           cambia letras a alfabeto lojbánico (romano)
+ na'a      BY1      cancela cambios de alfabeto               cancela todos los cambios de alfabeto
+ se'e      BY1      código de caracteres                      siguientes dígitos codifican un caracter (en ASCII, Unicode, etc.)
+ to'a      BY1      cambio a minúsculas                       cambia a minúsculas
+ ga'e      BY1      cambio a mayúsculas                       cambia a mayúsculas
+.y'y       BY2      '                                         letra '
+ by        BY2      b                                         letra b
+ cy        BY2      c                                         letra c
+ dy        BY2      d                                         letra d
+ fy        BY2      f                                         letra f
+ gy        BY2      g                                         letra g
+ jy        BY2      j                                         letra j
+ ky        BY2      k                                         letra k
+ ly        BY2      l                                         letra l
+ my        BY2      m                                         letra m
+ ny        BY2      n                                         letra n
+ py        BY2      p                                         letra p
+ ry        BY2      r                                         letra r
+ sy        BY2      s                                         letra s
+ ty        BY2      t                                         letra t
+ vy        BY2      v                                         letra v
+ xy        BY2      x                                         letra x
+ zy        BY2      z                                         letra z
  pei       CAI      emoción ?                                 actitudinal: pregunta actitudinal;
  cai       CAI      emoción intensa                           actitudinal: gran intensidad
  cu'i      CAI      emoción neutral                           actitudinal: neutral 
@@ -268,73 +268,73 @@
  nu'o      CAhA     potencial no actualizado                  aspecto modal: puede pero no ha sido; potencial no realizado
  ka'e      CAhA     potencial                                 aspecto modal: capacidad innata; posiblemente no realizada
  na'epu'i  CAhA*                                              aspecto modal: no ha sido y tal vez no pueda;
- cei       CEI      asigna pro-bridi                          selbri variable assignment; assigns broda series pro-bridi to a selbri
- ce'e      CEhE     afterthought termset                      links terms into an afterthought termset
- co        CO       inversión de tanru                        inversion de tanru; allows modifier trailing sumti without sumti links
- ju'i      COI      atención                                  vocativo: atención - at ease - ignore me
+ cei       CEI      asigna pro-bridi                          asignación de selbri variable; asigna pro-bridi de serie broda a un selbri
+ ce'e      CEhE     afterthought termset                      acopla términos en un grupo 
+ co        CO       inversión de tanru                        inversion de tanru; permite sumti pospuestos del modificador sin acople de sumti
+ ju'i      COI      atención                                  vocativo: atención - descanso - ignorame
  coi       COI      saludo                                    vocativo: saludo/hola
  fi'i      COI      hospitalidad                              vocativo: hospitalidad - inhospitalidad; bienvenido
  ta'a      COI      interrupción                              vocativo: interrupción
- mu'o      COI      cambio                                    vocativo: cambio - more to come
+ mu'o      COI      cambio                                    vocativo: cambio - sigue más
  fe'o      COI      cambio y fuera                            vocativo: cambio y fuera (fin de la discusión)
  co'o      COI      adios                                     vocativo: adios
  pe'u      COI      por favor                                 vocativo: por favor
  ke'o      COI      repita                                    vocativo: repita
- nu'e      COI      promesa                                   vocativo: promesa - relevo de promesa - un-promise
+ nu'e      COI      promesa                                   vocativo: promesa - relevo de promesa - despromesa
  re'i      COI      listo para recibir                        vocativo: listo para recibir - no preparado para recibir
- be'e      COI      pedido para enviar                        vocativo: pedido para enviar/speak
- je'e      COI      recibido                                  vocativo: roger (ack) - negative acknowledge; used to acknowledge offers and thanks
- mi'e      COI      autopresentación                          self vocativo: self-introduction - denial of identity; identifies speaker
- ki'e      COI      gracias                                   vocativo: gracias - no thanks to you
- vi'o      COI      procedo                                   vocativo: wilco (ack and will comply)
- ju'icu'i  COI*     descanse                                  vocativo: attention - at ease - ignore me
- coico'o   COI*     greetings in passing                      vocativo: greetings in passing
- ju'inai   COI*     ignoreme                                  vocativo: attention - at ease - ignore me
- fi'inai   COI*     inhospitalidad                            vocativo: hospitality - inhospitality
- mu'onai   COI*     sigue más                                 vocativo: over (response OK) - more to come
- je'enai   COI*     no recibido                               vocativo: roger (ack) - negative acknowledge; I didn't hear you
- ki'enai   COI*     no gracias a tí                           vocativo: thanks - no thanks to you
- mi'enai   COI*     no, no soy yo                             self vocativo: self-introduction - denial of identity; denies identity of speaker
- nu'enai   COI*     no-promesa                                vocativo: promise - promise release - un-promise
- re'inai   COI*     no listo para recibir                     vocativo: ready to receive - not ready to receive
- nu'ecu'i  COI*     relevo de promesa                         vocativo: promise - promise release - un-promise
- cu        CU       separador de selbri                       elidable marker: separates selbri from preceding sumti, allows preceding terminador elision
- cu'e      CUhE     modal ?                                   tense/modal question
- nau       CUhE     aquí y ahora                              tense: refers to current space/time reference absolutely
- da'o      DAhO     cancela asignaciones                      discursivo: cancel pro-sumti/pro-bridi assignments
- doi       DOI      indicador de vocativo                     generic vocativo marker; identifies intended listener; elidable after COI
- doido'u   DOI*     ¡Oh tú!                                   generic vocativo address to intended listener;
- do'u      DOhU     fin de vocativo                           terminador elisible: end vocativo (often elidable)
- fa        FA       indicador de 1er sumti                    sumti place tag: tag 1st sumti place
- fe        FA       indicador de 2do sumti                    sumti place tag: tag 2nd sumti place
- fi        FA       indicador de 3er sumti                    sumti place tag: tag 3rd sumti place
- fo        FA       indicador de 4to sumti                    sumti place tag: tag 4th sumti place
- fu        FA       indicador de 5to sumti                    sumti place tag: tag 5th sumti place
- fai       FA       indicador de sumti adicional              sumti place tag: tag a sumti moved out of númeroed place structure; used in modal conversións
- fi'a      FA       cuál sumti ?                              sumti place tag: place structure número/tag question
- mo'ire'o  FAhA*    along                                     movimiento espacial: along; along a path directional space motion
- mo'izo'i  FAhA*    approaching                               movimiento espacial: approaching directional space motion
- mo'ine'a  FAhA*    approximating                             movimiento espacial: approximating; moving around the neighborhood of ... space motion
- mo'ifa'a  FAhA*    arriving at                               movimiento espacial: arriving at; arriving at a point directional space motion
- mo'ini'a  FAhA*    downwardly                                movimiento espacial: downwardly; downwards directional space motion
- mo'idu'a  FAhA*    eastwardly                                movimiento espacial: eastwardly; to the east directional space motion
- mo'ica'u  FAhA*    forward                                   movimiento espacial: forward directional space motion
- mo'ine'i  FAhA*    into                                      movimiento espacial: moving into directional space motion
- mo'izu'a  FAhA*    leftwardsly                               movimiento espacial: leftwardsly; to the left directional space motion
- mo'ito'o  FAhA*    moving away from                          movimiento espacial: moving away from a point directional space motion
- mo'ite'e  FAhA*    moving the border                         movimiento espacial: moving along the border directional space motion
- mo'ibu'u  FAhA*    moving to coincide                        movimiento espacial: moving to coincide directional space motion
- mo'ibe'a  FAhA*    northwardly                               movimiento espacial: northwardly; to the north directional space motion
- na'efa'a  FAhA*    not towards point                         dirección espacial: not towards specified point, contrary negation; direction modal
- mo'iru'u  FAhA*    orbiting                                  movimiento espacial: orbiting; surrounding/annular directional space motion
- mo'ize'o  FAhA*    outwardsly                                movimiento espacial: outwardsly; outward directional space motion
- mo'izo'a  FAhA*    passing by                                movimiento espacial: passing by a site directional space motion
- mo'ipa'o  FAhA*    passing through                           movimiento espacial: passing through directional space motion
- mo'iti'a  FAhA*    rearwardsly                               movimiento espacial: rearwardsly; rearwards directional space motion
- mo'iri'u  FAhA*    rightwardly                               movimiento espacial: rightwardly; to the right directional space motion
- mo'ine'u  FAhA*    southwardly                               movimiento espacial: southwardly; to the south directional space motion
- mo'iga'u  FAhA*    upwardly                                  movimiento espacial: upwardly; upwards directional space motion
- mo'ivu'a  FAhA*    westwardly                                movimiento espacial: westwardly; to the west directional space motion
+ be'e      COI      pedido para enviar                        vocativo: pedido para enviar/hablar
+ je'e      COI      recibido                                  vocativo: recibido (reconocimiento) - reconocimiento negativo; usado para reconocer ofertas y agradecimientos
+ mi'e      COI      autopresentación                          autovocativo: autointroducción - negación de identidad; identifica a quien habla
+ ki'e      COI      gracias                                   vocativo: gracias - no gracias a tí
+ vi'o      COI      procedo                                   vocativo: procedo (recibido y procedo)
+ ju'icu'i  COI*     descanso                                  vocativo: atención - descanso - ignorame
+ coico'o   COI*     saludo al pasar                           vocativo: saludo al pasar
+ ju'inai   COI*     ignoreme                                  vocativo: atención - descanso - ignorame
+ fi'inai   COI*     inhospitalidad                            vocativo: hospitalidad - inhospitalidad
+ mu'onai   COI*     sigue más                                 vocativo: cambio - sigue más
+ je'enai   COI*     no recibido                               vocativo: recibido (reconocimiento) - reconocimiento negativo; No te escuché
+ ki'enai   COI*     no gracias a tí                           vocativo: gracias - no gracias a tí
+ mi'enai   COI*     no, no soy yo                             autovocativo: autointroducción - negación de identidad; niega la identidad de quien habla
+ nu'enai   COI*     no-promesa                                vocativo: promesa - relevo de promesa - despromesa
+ re'inai   COI*     no listo para recibir                     vocativo: listo para recibir - no preparado para recibir
+ nu'ecu'i  COI*     relevo de promesa                         vocativo: promesa - relevo de promesa - despromesa
+ cu        CU       separador de selbri                       marcador elisible: separa selbri del sumti precedente, permite la elisión de terminadores precedentes
+ cu'e      CUhE     modal ?                                   pregunta modal/tiempo verbal
+ nau       CUhE     aquí y ahora                              tiempo verbal: referencia absoluta al espaciotiempo actual
+ da'o      DAhO     cancela asignaciones                      discursivo: cancela asignaciones de pro-sumti/pro-bridi
+ doi       DOI      indicador de vocativo                     vocativo genérico; identifica al interlocutor de quien habla; elisible después de COI
+ doido'u   DOI*     ¡Oh tú!                                   vocativo genérico para dirigirse a alguien;
+ do'u      DOhU     fin de vocativo                           terminador elisible: fin de vocativo (a menudo elisible)
+ fa        FA       indicador de 1er sumti                    indicador de posición de sumti: indica 1ra posición de sumti
+ fe        FA       indicador de 2do sumti                    indicador de posición de sumti: indica 2da posición de sumti
+ fi        FA       indicador de 3er sumti                    indicador de posición de sumti: indica 3ra posición de sumti
+ fo        FA       indicador de 4to sumti                    indicador de posición de sumti: indica 4ta posición de sumti
+ fu        FA       indicador de 5to sumti                    indicador de posición de sumti: indica 5ta posición de sumti
+ fai       FA       indicador de sumti adicional              indicador de posición de sumti: indica un sumti fuera de la estructura numerada de posiciones; usado en conversiones modales
+ fi'a      FA       cuál sumti ?                              indicador de posición de sumti: pregunta por la posición de sumti
+ mo'ire'o  FAhA*    a lo largo                                movimiento espacial: a lo largo de ...
+ mo'izo'i  FAhA*    acercandose                               movimiento espacial: acercandose 
+ mo'ine'a  FAhA*    aproximandose                             movimiento espacial: aproximandose; movimiento por la vecindad de ...
+ mo'ifa'a  FAhA*    llegando a                                movimiento espacial: llegando a ...
+ mo'ini'a  FAhA*    hacia abajo                               movimiento espacial: hacia abajo
+ mo'idu'a  FAhA*    hacia el este                             movimiento espacial: hacia el este
+ mo'ica'u  FAhA*    hacia adelante                            movimiento espacial: hacia adelante
+ mo'ine'i  FAhA*    hacia adentro                             movimiento espacial: hacia adentro
+ mo'izu'a  FAhA*    hacia la izquierda                        movimiento espacial: hacia la izquierda
+ mo'ito'o  FAhA*    dejando                                   movimiento espacial: en dirección opuesta de ...; dejando
+ mo'ite'e  FAhA*    bordeando                                 movimiento espacial: a lo largo del borde
+ mo'ibu'u  FAhA*    hasta                                     movimiento espacial: hasta
+ mo'ibe'a  FAhA*    hacia el norte                            movimiento espacial: hacia el norte
+ na'efa'a  FAhA*    no hacia                                  dirección espacial: no hacia
+ mo'iru'u  FAhA*    orbitando                                 movimiento espacial: orbitando; rodeando
+ mo'ize'o  FAhA*    hacia afuera                              movimiento espacial: hacia afuera
+ mo'izo'a  FAhA*    pasando por                               movimiento espacial: pasando por
+ mo'ipa'o  FAhA*    atravesando                               movimiento espacial: atravesando
+ mo'iti'a  FAhA*    hacia atrás                               movimiento espacial: hacia atrás
+ mo'iri'u  FAhA*    hacia la derecha                          movimiento espacial: hacia la derecha
+ mo'ine'u  FAhA*    hacia el sur                              movimiento espacial: hacia el sur
+ mo'iga'u  FAhA*    hacia arriba                              movimiento espacial: hacia arriba
+ mo'ivu'a  FAhA*    hacia el oeste                            movimiento espacial: hacia el oeste
  du'a      FAhA1    al este de                                locación/dirección; al este de
  be'a      FAhA1    al norte de                               locación/dirección; al norte de
  ne'u      FAhA1    al sur de                                 locación/dirección; al sur de
@@ -352,35 +352,35 @@
  ne'a      FAhA3    junto a                                   locación/dirección; junto a
  pa'o      FAhA3    a través de                               locación/dirección; a través de
  ne'i      FAhA3    dentro de                                 locación/dirección; dentro de
- to'o      FAhA4    away from point                           locación/dirección; departing from/directly away from ...
- zo'i      FAhA4    inward                                    locación/dirección; nearer than .../inward/approaching from ...
- ze'o      FAhA4    outward                                   locación/dirección; beyond/outward/receding from ...
+ to'o      FAhA4    hacia fuera de                            locación/dirección; departing from/directly away from ...
+ zo'i      FAhA4    hacia adentro                             locación/dirección; mas cerca que ... /hacia adentro/acercandose desde ...
+ ze'o      FAhA4    hacia afuera                              locación/dirección; mas allá/pasando/dejando ...
  zo'a      FAhA4    tangente a                                locación/dirección; tangente a
  fa'a      FAhA4    hacia                                     locación/dirección; hacia/en dirección a
- fa'o      FAhO     fin de texto                              unconditional end of text; outside regular grammar; used for computer input
- fe'e      FEhE     aspectos espaciales                       mark space interval distributive aspects; labels interval tense modifiers as location-oriented
- fe'u      FEhU     fin modal de selbri                       terminador elisible: end nonce conversión of selbri to modal; usually elidable
- fi'o      FIhO     selbri a modal                            convert selbri to nonce modal/sumti tag
- foi       FOI      fin lerfu compuesto                       terminador: end composite lerfu; never elidable
- fu'a      FUhA     polaco inverso                            reverse Polish mathematical expression (mex) operator flag
- fu'e      FUhE     indicador de alcance                      begin indicator long scope
- fu'o      FUhO     fin de indicador de alcance               end indicator long scope; terminates scope of all active indicators
- ge        GA       pre y                                     conector lógico preposicionado: y (con gi)
- ge'i      GA       pre conn ?                                conector lógico preposicionado: pregunta (con gi)
- go        GA       pre sii                                   conector lógico preposicionado: bicondicional/sii/si y sólo si (con gi)
- ga        GA       pre o                                     conector lógico preposicionado: o (con gi)
- gu        GA       pre whether                               conector lógico preposicionado: sea o no que (con gi)
- ganai     GA*      pre sólo si                               conector lógico preposicionado: condicional/sólo si (con gi)
- gonai     GA*      pre o exclusivo                           conector lógico preposicionado: o exclusivo (con gi)
- ke'i      GAhO     intervalo abierto                         open interval bracket marker; modifies intervals in conector no lógicos; exclude boundaries
- ga'o      GAhO     intervalo cerrado                         closed interval bracket marker; mod. intervals in conector no lógicos; include boundaries
- ge'u      GEhU     fin de frase relativa                     terminador elisible: end relative/modal phrases; usually elidable in non-complex phrases
+ fa'o      FAhO     fin de texto                              fin de texto incondicional; fuera de la gramática regular
+ fe'e      FEhE     aspectos espaciales                       marca aspectos distributivos de intervalo espacial
+ fe'u      FEhU     fin de modal de selbri                    terminador elisible: fin conversión de selbri a modal; usualmente elisible
+ fi'o      FIhO     selbri a modal                            convierte selbri a modal
+ foi       FOI      fin de lerfu compuesto                    terminador: fin de lerfu compuesto; nunca elisible
+ fu'a      FUhA     polaco inverso                            expresión matemática en polaco inverso
+ fu'e      FUhE     alcance de indicador                      comienzo de indicador de largo alcance
+ fu'o      FUhO     fin de alcance de indicador               fin de indicador de largo alcance; termina alcance de indicadores
+ ge        GA       y preposicionado                          conector lógico preposicionado: y (con gi)
+ ge'i      GA       conector ? preposicionado                 conector lógico preposicionado: pregunta (con gi)
+ go        GA       sii preposicionado                        conector lógico preposicionado: bicondicional/sii/si y sólo si (con gi)
+ ga        GA       o preposicionado                          conector lógico preposicionado: o (con gi)
+ gu        GA       sea o no preposicionado                   conector lógico preposicionado: sea o no que (con gi)
+ ganai     GA*      sólo si preposicionado                    conector lógico preposicionado: condicional/sólo si (con gi)
+ gonai     GA*      o exclusivo preposicionado                conector lógico preposicionado: o exclusivo (con gi)
+ ke'i      GAhO     intervalo abierto                         marcador de intervalo abierto; modifica intervalos en conectores no lógicos; excluye límites
+ ga'o      GAhO     intervalo cerrado                         marcador de intervalo cerrado; modifica intervalos en conectores no lógicos; incluye límites
+ ge'u      GEhU     fin de frase relativa                     terminador elisible: fin de frases relativas; usualmente elisible en frases no complejas
  gi        GI       medial de conectivo                       conector lógico preposicionado: introduce el segundo término
  gi'e      GIhA     bridi y                                   conector lógico entre bridi-tail: y
- gi'i      GIhA     bridi conn ?                              conector lógico entre bridi-tail: pregunta
+ gi'i      GIhA     bridi conector ?                          conector lógico entre bridi-tail: pregunta
  gi'o      GIhA     bridi sii                                 conector lógico entre bridi-tail: bicondicional/sii/si y sólo si
  gi'a      GIhA     bridi o                                   conector lógico entre bridi-tail: o
- gi'u      GIhA     bridi whether                             conector lógico entre bridi-tail: sea o no que
+ gi'u      GIhA     bridi sea o no                            conector lógico entre bridi-tail: sea o no que
  gi'enai   GIhA*    bridi pero no                             conector lógico entre bridi-tail: x pero no y
  nagi'a    GIhA*    bridi sólo si                             conector lógico entre bridi-tail: condicional/sólo si
  gi'onai   GIhA*    bridi o exclusivo                         conector lógico entre bridi-tail: o exclusivo
@@ -443,8 +443,8 @@
  ju'e      JOI      conectivo vago                            conector vago no lógico: analogo a ".i"
  jo'i      JOhI     matriz                                    join mathematical expression (mex) operands into an array
  ke        KE       comienzo agrupación                       start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping
- kei       KEI      fin abstracción                           terminador elisible: end abstracción bridi (often elidable)
- ke'e      KEhE     fin agrupación                            terminador elisible: end of tanru left grouping override (usually elidable)
+ kei       KEI      fin abstracción                           terminador elisible: end abstracción bridi (often elisible)
+ ke'e      KEhE     fin agrupación                            terminador elisible: end of tanru left grouping override (usually elisible)
  ki        KI       tense default                             tense/modal: set/use tense default; establishes new open scope space/time/modal reference base
  roda      KOhA*    todos                                     logically quantified universal sumti: everything (unless restricted)
  la'edi'u  KOhA*    last expresión it                         pro-sumti: the referent of the last expresión; the state described: "IT was fun"
@@ -488,22 +488,22 @@
  ta        KOhA6    ése                                       pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener
  tu        KOhA6    aquél                                     pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker&listener
  ti        KOhA6    éste                                      pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker
- zi'o      KOhA7    elimina argumento                         pro-sumti: fills a sumti place, deleting it from selbri place structure;changes selbri semantics
+ zi'o      KOhA7    elimina argumento                         pro-sumti: fills a posición de sumti, deleting it from selbri place structure;changes selbri semantics
  ke'a      KOhA7    pro-sumti relativo                        pro-sumti: relativized sumti (object of relative clause)
  ma        KOhA7    sumti ?                                   pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank
  zu'i      KOhA7    el típico                                 pro-sumti: the typical sumti value for this place in this relationship; affects truth value
  zo'e      KOhA7    sumti no especificado                     pro-sumti: an elliptical/unspecified value; has some value which makes bridi true
  ce'u      KOhA8    relativo de abstracción                   pseudo-quantifier binding a variable within an abstracción that represents an open place
- ku        KU       fin de sumti                              terminador elisible: end descripción, modal, or negator sumti; often elidable
- ku'e      KUhE     end mex forethought                       terminador elisible: end mathematical (mex) forethought (Polish) expression; often elidable
- ku'o      KUhO     fin de cláusula relativa                  terminador elisible: end NOI relative clause; always elidable, but preferred in complex clauses
+ ku        KU       fin de sumti                              terminador elisible: end descripción, modal, or negator sumti; often elisible
+ ku'e      KUhE     end mex forethought                       terminador elisible: end mathematical (mex) forethought (Polish) expression; often elisible
+ ku'o      KUhO     fin de cláusula relativa                  terminador elisible: end NOI relative clause; always elisible, but preferred in complex clauses
  la        LA       that named                                name descriptor: the one(s) called ... ; takes name or selbri descripción
  lai       LA       the mass of named                         name descriptor: the mass of individual(s) named ... ; takes name or selbri descripción
  la'i      LA       the set of named                          name descriptor: the set of those named ... ; takes name or selbri descripción
- ce'a      LAU      font shift                                2-word letteral/shift: the word following indicates a new font (e.g. italics, manuscript)
- lau       LAU      punctuation mark                          2-word letteral/shift: punctuation mark or special symbol follows
- zai       LAU      select alphabet                           2-word letteral/shift: alternate alphabet selector follows
- tau       LAU      shift next lerfu                          2-word letteral/shift: change case for next letteral only
+ ce'a      LAU      font cambia                                2-word letra/cambia: the word following indicates a new font (e.g. italics, manuscript)
+ lau       LAU      punctuation mark                          2-word letra/cambia: punctuation mark or special symbol follows
+ zai       LAU      select alphabet                           2-word letra/cambia: alternate alphabet selector follows
+ tau       LAU      cambia next lerfu                          2-word letra/cambia: change case for next letra only
  tu'a      LAhE     the bridi implied by                      extracts a concrete sumti from an unspecified abstracción; equivalent to le nu/su'u [sumti] co'e
  lu'a      LAhE     the individuals of                        the members of the set/components of the mass; converts another descripción type to individuals
  lu'o      LAhE     the mass composed of                      the mass composed of; converts another descripción type to a mass composed of the members
@@ -528,14 +528,14 @@
  levi      LE*      this here                                 located descriptor: descriptive this-here (non-demonstrative)
  leti      LE*      this one's                                possessive/associative descriptor: immediate demonstrative possessive; cannot use for 'THIS ...'
  ledo      LE*      your described as                         possessive/associative descriptor: the one(s) described as, of yours
- le'u      LEhU     end error quote                           end quote of questionable or out-of-context text; not elidable
+ le'u      LEhU     end error quote                           end quote of questionable or out-of-context text; not elisible
  me'o      LI       the mex                                   the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti
  li        LI       the número                                the número/evaluated expression; convert número/operand/evaluated math expression to sumti
- li'u      LIhU     end quote                                 terminador elisible: end grammatical quotation; seldom elidable except at end of text
- lo'o      LOhO     end mex sumti                             terminador elisible: end math express.(mex) sumti; end mex-to-sumti conversión; usually elidable
+ li'u      LIhU     end quote                                 terminador elisible: end grammatical quotation; seldom elisible except at end of text
+ lo'o      LOhO     end mex sumti                             terminador elisible: end math express.(mex) sumti; end mex-to-sumti conversión; usually elisible
  lo'u      LOhU     error quote                               start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical
  lu        LU       quote                                     start grammatical quotation; quoted text should be grammatical on its own
- lu'u      LUhU     end sumti qualifiers                      terminador elisible: end of sumti qualifiers; usually elidable except before a sumti
+ lu'u      LUhU     end sumti qualifiers                      terminador elisible: end of sumti qualifiers; usually elisible except before a sumti
  mo'o      MAI      section ordinal                           higher-order expresión ordinal suffix; converts a número to ordinal, usually a section/chapter
  mai       MAI      sentence ordinal                          expresión ordinal suffix; converts a número to an ordinal, such as an item or paragraph número
  pamai     MAI*     firstly                                   discursivo: first expresión ordinal
@@ -543,9 +543,9 @@
  remai     MAI*     secondly                                  discursivo: second expresión ordinal
  nomo'o    MAI*     section 0                                 discursivo expresión ordinal: zeroth section/chapter ordinal; foreword
  pamo'o    MAI*     section 1                                 discursivo expresión ordinal: first section/chapter ordinal
- ma'o      MAhO     operand to operator                       convert letteral string or other mathematical expression (mex) operand to mex operator
+ ma'o      MAhO     operand to operator                       convert letra string or other mathematical expression (mex) operand to mex operator
  me        ME       sumti to selbri                           convert sumti to selbri/tanru element; x1 is specific to [sumti] in aspect x2
- me'u      MEhU     end sumti to selbri                       terminador elisible: end sumti that was converted to selbri; usually elidable
+ me'u      MEhU     end sumti to selbri                       terminador elisible: end sumti that was converted to selbri; usually elisible
  mei       MOI      cardinal selbri                           convert número to cardinality selbri; x1 is the mass formed from set x2 whose n member(s) are x3
  moi       MOI      ordinal selbri                            convert número to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3
  si'e      MOI      portion selbri                            convert número to portion selbri; x1 is an (n)th portion of mass/totality x2; (cf. gunma)
@@ -594,7 +594,7 @@
  ni'e      NIhE     selbri to operand                         convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen
  ni'o      NIhO     new topic                                 discursivo: paragraph break; introduce new topic
  no'i      NIhO     old topic                                 discursivo: paragraph break; resume previous topic
- voi       NOI      cláusula descriptiva                      non-veridical restrictive clause used to form complicated le-like descripcións using "ke'a"
+ voi       NOI      cláusula descriptiva                      non-veridical restrictive clause used to form complicated le-like descripciones using "ke'a"
  noi       NOI      cláusula incidental                       non-restrictive relative clause; attaches subordinate bridi con incidental information
  poi       NOI      cláusula restrictiva                      restrictive relative clause; attaches subordinate bridi con identifying information to a sumti
  ni        NU       cantidad                                  abstractor: quantity/amount abstractor; x1 is quantity/amount of [bridi] measured on scale x2
@@ -612,7 +612,7 @@
  za'i      NU1      estado                                    abstractor: state (event) abstractor; x1 is continuous state of [bridi] being true
  nu'a      NUhA     operador a selbri                         convert mathematical expression (mex) operator to a selbri/tanru component
  nu'i      NUhI     start fore termset                        start forethought termset construct; marks start of place structure set con logical connection
- nu'u      NUhU     end fore termset                          terminador elisible: end forethought termset; usually elidable except con following sumti
+ nu'u      NUhU     end fore termset                          terminador elisible: end forethought termset; usually elisible except con following sumti
  paki'o    PA*      1,000                                     número/cantidad: 1,000 
  pano      PA*      10                                        número/cantidad: 10 [diez]
  panono    PA*      100                                       número/cantidad: 100 [cien]
@@ -758,7 +758,7 @@
  jaica     SE*      time conversión                           convert tiempo verbal (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
  sei       SEI      bridi discursivo                          start discursivo (metalinguistic) bridi
  ti'o      SEI      mex precedence                            mathematical expression (mex) operator precedence (discursivo)
- se'u      SEhU     fin discursivo                            terminador elisible: end discursivo bridi or mathematical precedence;usually elidable
+ se'u      SEhU     fin discursivo                            terminador elisible: end discursivo bridi or mathematical precedence;usually elisible
  si        SI       erase word                                erase the last Lojban word, treating non-Lojban text as a single word
  soi       SOI      reciprocal sumti                          discursivo: reciprocal sumti marker; indicates a reciprocal relationship between sumti
  su        SU       erase discourse                           erase to start of discourse or text; drop subject or start over
@@ -770,13 +770,13 @@
  di'inai   TAhE*    irregularmente                            modificador de intervalo: irregular/aperiódicamente
  ta'enai   TAhE*    no habitualmente                          modificador de intervalo: no habitualmente 
  ru'inai   TAhE*    ocasionalmente                            modificador de intervalo: ocasional/intermitente/discontinuamente 
- tei       TEI      lerfu compuesto                           composite letteral follows; used for muti-character letterals
- te'u      TEhU     end mex converters                        terminador elisible: end conversión between non-mex and mex; usually elidable
+ tei       TEI      lerfu compuesto                           composite letra follows; used for muti-character letras
+ te'u      TEhU     end mex converters                        terminador elisible: end conversión between non-mex and mex; usually elisible
  to'i      TO       editorial unquote                         open editorial unquote (within a quote); contains grammatical text; mark con editorial insert
  to        TO       abre paréntesis                           left parenthesis; start of parenthetical note which must be grammatical Lojban text
- toi       TOI      cierra paréntesis                         terminador elisible: right parenthesis/end unquote; seldom elidable except at end of text
+ toi       TOI      cierra paréntesis                         terminador elisible: right parenthesis/end unquote; seldom elisible except at end of text
  tu'e      TUhE     start text scope                          start of multiple expresión scope; used for logical/non-logical/ordinal joining of sentences
- tu'u      TUhU     end text scope                            terminador elisible: end multiple expresión scope; seldom elidable
+ tu'u      TUhU     end text scope                            terminador elisible: end multiple expresión scope; seldom elisible
 .e'ucu'i   UI*1     abandon suggestion                        actitudinal: suggestion - abandon suggest - warning
 .o'onai    UI*1     anger                                     actitudinal: patience - mere tolerance - anger
 .oiro'i    UI*1     anxiety                                   actitudinal: emotional complaint
@@ -994,7 +994,7 @@
  vi        VA       aquí                                      distancia espacial: aquí, acá; a una distancia pequeña
  va        VA       allí                                      distancia espacial: allí, allá; a una distancia media
  vu        VA       acullá                                    distancia espacial: acullá; a una distancia larga
- vau       VAU      fin bridi simple                          elidable: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común
+ vau       VAU      fin bridi simple                          elisible: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común
  vei       VEI      abre paréntesis                           left mathematical bracket
  ve'u      VEhA     intervalo espacial grande                 intervalo espacial: región espacial grande
  ve'a      VEhA     intervalo espacial medio                  intervalo espacial: región espacial media
@@ -1028,7 +1028,7 @@
  pi'a      VUhU4    matríz de filas                           operador matemático n-ario: operandos son vectores a tratar como matrices fila
  si'i      VUhU4    sumatoria                                 operador matemático trinario: [sumatoria sigma de a con variable b sobre rango c]
  re'a      VUhU4    transpuesto                               operador matemático unitario: matríz transpuesta/dual; [A*]
- xi        XI       subíndice                                 subíndice; adhiere un número o cadena leteral como subíndice de estructuras gramaticales
+ xi        XI       subíndice                                 subíndice; adhiere un número o cadena letra como subíndice de estructuras gramaticales
 .y         Y        duda                                      hesitation noise; maintains the floor while speaker decides what to say next
  co'i      ZAhO     logrativo                                 aspecto verbal: acción puntual; logrativo;   >|<
  pu'o      ZAhO     incoativo                                 aspecto verbal: acción a punto de ocurrir; incoativo         ----|     |
@@ -1068,8 +1068,8 @@
  zoi       ZOI      non-Lojban quote                          delimited non-Lojban quotation; the result treated as a block of text
  la'o      ZOI      the non-Lojban named                      delimited non-Lojban name; the resulting quote sumti is treated as a name
  zo'u      ZOhU     fin prenex                                marks end of logical prenex quantifiers/topic identification and start of sentence bridi
- slaka bu  BY*      close-comma                               letteral: Lojban "," character
- denpa bu  BY*      pause symbol                              letteral: Lojban "." character
+ slaka bu  BY*      close-comma                               letra: Lojban "," character
+ denpa bu  BY*      pause symbol                              letra: Lojban "." character
  le go'i   KOhA*    the x1 del último bridi                   pro-sumti de descripción: el valor de x1 del bridi previo
  le jaica  LE*      the time of                               descripción: marks descripción extracting the tiempo verbal place of the descripción bridi
  le jaigau LE*      the agent in                              descripción: marks descripción extracting the agentive place of the descripción selbri
