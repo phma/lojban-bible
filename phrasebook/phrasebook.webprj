@@ -10,4 +10,4 @@ Host=
 Name=phrasebook
 Base URL=
 Files=detri.html,
-Open Files=/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/index.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,/home/phma/lojban/cvs/lojban/phrasebook/bacru.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,
+Open Files=/home/phma/lojban/cvs/lojban/phrasebook/index.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,/home/phma/lojban/cvs/lojban/phrasebook/bacru.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,
