@@ -88,3 +88,16 @@ dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
 
 @c ************
 @c The rest of the text is now is files named alice-??.texinfo.
+
+@include alice-01.texinfo
+@include alice-02.texinfo
+@include alice-03.texinfo
+@include alice-04.texinfo
+@include alice-05.texinfo
+@include alice-06.texinfo
+@include alice-07.texinfo
+@include alice-08.texinfo
+@include alice-09.texinfo
+@include alice-10.texinfo
+@include alice-11.texinfo
+@include alice-12.texinfo
