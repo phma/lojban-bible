@@ -12,9 +12,10 @@
 @c    mouth, and addressed her in a languid, sleepy voice.
 
 le ciftoldi ku ce la alis. ze'a simxu le za'i smaji catlu le
-drata cmima .i bazubo le ciftoldi mo'ize'o bevri le marna tubnu fo le
+drata cmima .i bazubo le ciftoldi mo'ize'o bevri le nargile fo le
 moklu gi'e .o'udai .a'inaidai cusku fi ko'a
 @c stidi zo jaurdamtci seba'i lu marna tubnu li'u
+@c Found the right word: nargile.
 @c "le drata cmima" seems superfluous as it is implied by "simxu" -phma
 
 @c      `Who are YOU?' said the Caterpillar.
@@ -79,7 +80,7 @@ cinmo le milxe se cizra .i xu do tugni li'u
 @c      `Well, perhaps your feelings may be different,' said Alice;
 @c    `all I know is, it would feel very queer to ME.'
 
-lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis. 
+lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis.
 @c      `You!' said the Caterpillar contemptuously.  `Who are YOU?'
 
 @c      Which brought them back again to the beginning of the
@@ -209,11 +210,23 @@ lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis.
 @c    remarking as it went, `One side will make you grow taller, and
 @c    the other side will make you grow shorter.'
 
+.i caku'i la .alis. denpa lenu cy di'a tavla .iba lo mentu be li pa
+bi'i re ku le ciftoldi cu vimcu le nargile le moklu gi'e pamoi ja remoi
+tengau le moklu gi'e desku .i cy cliva le gumri gi'e cpare le srasu le
+darno gi'ecabo pikcusku po'o lu pa mlana cu clazenri'a do .ije le drata
+mlana cu torzenri'a do li'u
+
 @c      `One side of WHAT?  The other side of WHAT?' thought Alice to
 @c    herself.
 
+.i lu pa mlana be ba'e ma .e le drata mlana be ba'e ma li'u se pensi
+la .alis.
+
 @c      `Of the mushroom,' said the Caterpillar, just as if she had
 @c    asked it aloud; and in another moment it was out of sight.
+
+.i lu le gumri li'u se cusku le ciftoldi fi'o selmlu lenu tirna le
+.abu selpensi .ibazibo canci
 
 @c      Alice remained looking thoughtfully at the mushroom for a
 @c    minute, trying to make out which were the two sides of it; and as
@@ -221,10 +234,19 @@ lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis.
 @c    However, at last she stretched her arms round it as far as they
 @c    would go, and broke off a bit of the edge with each hand.
 
+.i la .alis. pensi zgana le gumri ca'o lo mentu gi'e troci co facki
+le re mlana gy .i gy prane cukla .iseni'ibo le nabmi cu camnandu
+.iku'i .abu mo'uku tengau le birka ru'u le gumri ve'a le terku'e gi'e
+sepi'o rore xance cu popygau le korbi le cmalu
+
 @c      `And now which is which?' she said to herself, and nibbled a
 @c    little of the right-hand bit to try the effect:  the next moment
 @c    she felt a violent blow underneath her chin:  it had struck her
 @c    foot!
+
+.i lu .i ma fa'u ma mo fa'u mo li'u se cusku fi vo'e .i cmabatci le pritu
+cmalu tezu'e lenu troci le selri'a .ibazibo ganse le vlile nundarxi le
+xejni'a .i ri darxi le jamfu
 
 @c      She was a good deal frightened by this very sudden change, but
 @c    she felt that there was no time to be lost, as she was shrinking
@@ -233,6 +255,11 @@ lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis.
 @c    hardly room to open her mouth; but she did it at last, and
 @c    managed to swallow a morsel of the lefthand bit.
 
+.i .abu carmi terpa le suksa nunstika .iku'i cinmo lu .ei na fesygau
+le temci mu'i lenu mi sutra tolba'o li'u gi'e zukte lenu citka piso'u
+le drata cmalu .i le .abu xedja cu tagji te damre le jamfu .iseri'a
+carmi nandu fa lenu kargau le moklu .iku'i mo'uku kargau gi'e snada
+lenu tulcti lo pagbu be le zunle cmalu
 
 @c         *       *       *       *       *       *       *
 
