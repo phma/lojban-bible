@@ -29,6 +29,10 @@ go'i i mi ba mutce dukse le ka darno do kei le nu kurji do i ko renvi
 ta'i le do xagrai cumki i ku'i ei mi jy xendo sei la alis pensi i va'o
 na'ebo la'e di'u ju'ocu'i jy na cadzu veka'a le mi se djica i ua ai mi
 dunda ca ro cevjbetersla lo cnino cutci remei li'u
+@c curiouser: {bizra} does not sound like the kind of mistake a jbojbe
+@c would make. What she means to say, I think, is {cizyze'a}; perhaps
+@c she says {cizyzma} instead (for which the usual form of course is
+@c {cizmau} but she gets the two words mixfused). -phma
 
 @c      And she went on planning to herself how she would manage it.
 @c    `They must go by the carrier,' she thought; `and how funny it'll
@@ -37,7 +41,9 @@ dunda ca ro cevjbetersla lo cnino cutci remei li'u
 
 i abu ca'o platu le nu ta'i makau co'e i lu ei lei cutci cu se mrilu sei
 abu pensi i ba xajmi fa le nu benji loi seldu'a le vo'a jamfu i ua le
-judri ba simlu le ka cizra
+judri ba simlu le ka cizra .i
+@c without {i} this means "How strange the address will seem to Alice's
+@c honorable right foot..." -phma
 
 @c    @format
 @c                ALICE'S RIGHT FOOT, ESQ.
@@ -81,7 +87,7 @@ traji i abu zutse gi'e za'ure'u co'a klaku
 @c    all round her, about four inches deep and reaching half down the
 @c    hall.
 
-i lu ei do ckeji sei la alis cusku i do barda nixli to ju'o drani toi
+i lu ei do ckeji sei la alis cusku i do barda nixli to'i ju'o drani toi
 i i'enai ca'o tai klaku i le'o ko ca sisti li'u i ku'i abu za'o klaku
 loi litce be li so'i ja'e le nu abu se sruri lo barda lalxu noi centre
 li ji'ipano le ka condi gi'e preja le xadba be le kumfa
