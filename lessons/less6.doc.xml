@@ -55,7 +55,13 @@ syntactically unambiguous:
 <listitem><para>Every time an article like <foreignphrase
 lang="art-lojban">le</foreignphrase> or <foreignphrase
 lang="art-lojban">loi</foreignphrase> starts a sumti,
-<foreignphrase lang="art-lojban">ku</foreignphrase> ends it.</para></listitem>
+<foreignphrase lang="art-lojban">ku</foreignphrase> ends it.</para>
+
+<tip><para>This includes 
+<foreignphrase lang="art-lojban">na</foreignphrase>, by the way, when it is
+being used as a self-standing
+<foreignphrase lang="art-lojban">sumti</foreignphrase>. You got a sneak preview
+of this in the exercises to <link linkend="less4">Lesson 4</link>.</para></tip></listitem>
 
 <listitem><para>Every time a
 string of numbers starts, <foreignphrase
@@ -234,19 +240,19 @@ for this. Let's say that Zhang left the bar at 10 o'clock and Susan arrived
 at 11 (thus missing her date). The most precise way is to use times, as in
 the last lesson:
 
-<informalexample><para><foreignphrase lang="art-lojban">la jang. cliva le barja
+<informalexample><para><foreignphrase lang="art-lojban">la jan. cliva le barja
 ti'u la jaucac. .i la la suzyn. klama le barja ti'u la
 feicac.</foreignphrase></para>
 
 </informalexample>However, if the actual times are not important, we can say:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">ba lenu la jang. cliva kei la suzyn. klama le barja</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">ba lenu la jan. cliva kei la suzyn. klama le barja</foreignphrase>
 After Zhang left, Susan came into the bar.</literallayout>
 </informalexample>or:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">pu lenu la suzyn. klama le barja kei la jang. cliva</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">pu lenu la suzyn. klama le barja kei la jan. cliva</foreignphrase>
 Before Susan came into the bar, Zhang left.</literallayout>
 </informalexample>which translates more naturally as:
 
@@ -300,7 +306,7 @@ suzyn.</foreignphrase> (you can also say it as two separate words,
 difference). Similarly, <quote>Zhang left earlier (than now)</quote> would be:
 
 
-<informalexample><para><foreignphrase lang="art-lojban">puku la jang.
+<informalexample><para><foreignphrase lang="art-lojban">puku la jan.
 cliva</foreignphrase></para></informalexample></para>
 
 <note><para>What's actually going on is that <foreignphrase
@@ -315,7 +321,7 @@ lang="art-lojban">ba ... ku</foreignphrase>: <quote role="gloss">after
 [something].</quote> If we didn't have the <foreignphrase lang="art-lojban">ku</foreignphrase> in
 place, the <foreignphrase lang="art-lojban">ba</foreignphrase> would swallow up
 any <foreignphrase lang="art-lojban">sumti</foreignphrase> following it. So
-<foreignphrase lang="art-lojban">ba la jang. cliva</foreignphrase> means not
+<foreignphrase lang="art-lojban">ba la jan. cliva</foreignphrase> means not
 <quote>afterwards Zhang left</quote>, but <quote>after Zhang, (she)
 left.</quote></para>
 </note>
@@ -323,7 +329,7 @@ left.</quote></para>
 <para>Let's imagine that Susan is not so unlucky, and arrives just as Zhang is
 leaving.  We can then say:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">ca lenu la jang. cliva le barja kei la suzyn. klama le barja</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">ca lenu la jan. cliva le barja kei la suzyn. klama le barja</foreignphrase>
 At the moment when Zhang was leaving the bar, Susan came to the bar.</literallayout>
 
 </informalexample><foreignphrase lang="art-lojban">ca</foreignphrase> also comes from a
@@ -333,7 +339,7 @@ At the moment when Zhang was leaving the bar, Susan came to the bar.</literallay
 say the same thing would be
 
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">lenu la jang. cliva le barja cu cabna lenu la suzyn. klama le barja</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">lenu la jan. cliva le barja cu cabna lenu la suzyn. klama le barja</foreignphrase>
 The event of Zhang leaving the bar is simultaneous with the event of Susan coming to the bar.</literallayout>
 </informalexample></para>
 
@@ -344,16 +350,16 @@ lang="art-lojban">ku</foreignphrase> separates the <foreignphrase
 lang="art-lojban">ca</foreignphrase> from the rest of the sentence, while
 <foreignphrase lang="art-lojban">kei</foreignphrase> terminates an event.
 We could have said <foreignphrase lang="art-lojban">ca
-lenu la jang. cliva le barja ku kei ku</foreignphrase> instead: the first
+lenu la jan. cliva le barja ku kei ku</foreignphrase> instead: the first
 <foreignphrase lang="art-lojban">ku</foreignphrase> matches <foreignphrase
 lang="art-lojban"><emphasis>le</emphasis> barja</foreignphrase>, the
 <foreignphrase lang="art-lojban">kei</foreignphrase> matches <foreignphrase
-lang="art-lojban"><emphasis>nu</emphasis> la jang. cliva le
+lang="art-lojban"><emphasis>nu</emphasis> la jan. cliva le
 barja</foreignphrase>, and the second <foreignphrase
 lang="art-lojban">ku</foreignphrase> matches <foreignphrase
-lang="art-lojban"><emphasis>le</emphasis>nu la jang. cliva le
+lang="art-lojban"><emphasis>le</emphasis>nu la jan. cliva le
 barja</foreignphrase>. Because the syntax is unambiguous, we could even
-have said <foreignphrase lang="art-lojban">lenu la jang. cliva le barja ku
+have said <foreignphrase lang="art-lojban">lenu la jan. cliva le barja ku
 ku</foreignphrase> &mdash; though we might be thought slightly cuckoo to
 say it like that.)
 
@@ -400,14 +406,14 @@ missed your train it could be a matter of minutes.
 We could then say:
 
 
-<informalexample><para><foreignphrase lang="art-lojban">bazi lenu la jang. cliva kei la suzyn. klama le
+<informalexample><para><foreignphrase lang="art-lojban">bazi lenu la jan. cliva kei la suzyn. klama le
 barja</foreignphrase></para>
 
 </informalexample>And if you're in the unfortunate position of having to tell Susan that she's just 
 missed Zhang, you would say:
 
 
-<informalexample><para><foreignphrase lang="art-lojban">puziku la jang. cliva le barja</foreignphrase></para></informalexample></para>
+<informalexample><para><foreignphrase lang="art-lojban">puziku la jan. cliva le barja</foreignphrase></para></informalexample></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 <variablelist>
@@ -500,19 +506,19 @@ immediately by <foreignphrase lang="art-lojban">ku</foreignphrase>, with an
 empty <foreignphrase lang="art-lojban">sumti</foreignphrase> in between. So
 
 
-<informalexample><para><foreignphrase lang="art-lojban">la jang. pu cliva le
+<informalexample><para><foreignphrase lang="art-lojban">la jan. pu cliva le
 barja</foreignphrase></para>
 
 </informalexample>and 
 
-<informalexample><para><foreignphrase lang="art-lojban">puku la jang. cliva le
+<informalexample><para><foreignphrase lang="art-lojban">puku la jan. cliva le
 barja</foreignphrase></para>
 
 </informalexample>both mean <quote>Zhang before the here-and-now leaves the bar,</quote> or <quote>Zhang left
 the bar.</quote> We can do the same thing with <foreignphrase
 lang="art-lojban">zi/za/zu</foreignphrase>, so <foreignphrase
-lang="art-lojban">la jang. puza cliva le barja</foreignphrase>, just like
-<foreignphrase lang="art-lojban">puzaku la jang. cliva le
+lang="art-lojban">la jan. puza cliva le barja</foreignphrase>, just like
+<foreignphrase lang="art-lojban">puzaku la jan. cliva le
 barja</foreignphrase>, means <quote>Zhang left the bar a while ago.</quote>
 
 
@@ -988,12 +994,12 @@ Lojban; assume the story is happening in the here-and-now:
 <orderedlist>
 
 
-<listitem><para><foreignphrase lang="art-lojban">.i baza lenu la jang. cliva kei la
+<listitem><para><foreignphrase lang="art-lojban">.i baza lenu la jan. cliva kei la
 suzyn. sanli ne'i vi le barja </foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i caziku la suzyn. denpa lenu baziku
-la jang. viska la suzyn.</foreignphrase></para></listitem>
+la jan. viska la suzyn.</foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. viska re lo kabri</foreignphrase></para></listitem>
@@ -1004,7 +1010,7 @@ culno .i go'i pa lo ca culno</foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i le puzi culno ca kunti ba lenu la
-jang. pinxe loi birje kei .i'enai vau .ua</foreignphrase></para></listitem>
+jan. pinxe loi birje kei .i'enai vau .ua</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu pinxe loi dotco birje 
 kei ku na se nelci ro lo prenu</foreignphrase></para></listitem>
@@ -1307,13 +1313,13 @@ lang="art-lojban">.i'enai</foreignphrase> <quote role="gloss">disapproval; Pah!<
 follows <foreignphrase lang="art-lojban">kei</foreignphrase>, so it applies to the phrase closed off by 
 that <foreignphrase 
 lang="art-lojban">kei</foreignphrase>: that is, <foreignphrase 
-lang="art-lojban">lenu la jang. pinxe loi birje kei</foreignphrase>. But <foreignphrase 
+lang="art-lojban">lenu la jan. pinxe loi birje kei</foreignphrase>. But <foreignphrase 
 lang="art-lojban">.ua</foreignphrase> follows <foreignphrase 
 lang="art-lojban">vau</foreignphrase>, so it applies to the whole phrase closed off 
 by <foreignphrase lang="art-lojban">vau</foreignphrase>: namely, the entire <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>, <foreignphrase 
 lang="art-lojban">le puzi culno ca kunti ba lenu la
-jang. pinxe loi birje</foreignphrase>.
+jan. pinxe loi birje</foreignphrase>.
 </para></listitem>
 
 
@@ -1340,12 +1346,12 @@ a duration without specifying a tense.)</para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">.i puzuku la suzyn. ze'i xabju le
-la jang. zdani</foreignphrase> (You can't just say <foreignphrase
-lang="art-lojban">xabju la jang.</foreignphrase> &mdash; you have to fill in the
+la jan. zdani</foreignphrase> (You can't just say <foreignphrase
+lang="art-lojban">xabju la jan.</foreignphrase> &mdash; you have to fill in the
 blank of <quote>Zhang's ___.</quote>)</para></listitem>
 
 
-<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. ca xabju va la jang.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i la suzyn. ca xabju va la jan.</foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">ca lenu la suzyn. klama le zdani

@@ -228,7 +228,7 @@ like this:
 <varlistentry><term><foreignphrase lang="art-lojban">la robin. salci</foreignphrase></term> 
 <listitem><para>Robin celebrates</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase lang="art-lojban">la jbonunsalci 
+<varlistentry><term><foreignphrase lang="art-lojban">la jbonunsalci cu
 <emphasis>nu</emphasis> la robin. salci</foreignphrase></term> 
 <listitem><para>Logfest is an event such that Robin celebrates &mdash; 
 Logfest is Robin's celebration/celebrating</para></listitem></varlistentry>
@@ -343,7 +343,7 @@ Abyssinian is the breed of cat Spot is</literallayout>
 
 <listitem>
 
-<literallayout><foreignphrase lang="art-lojban">lenu mi cilre la lojban. cu xamgu mi</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">lenu mi cilre fi la lojban. cu xamgu mi</foreignphrase>
 My learning Lojban is good for me</literallayout>
 
 <literallayout><foreignphrase lang="art-lojban">mi se xamgu lenu mi cilre la lojban</foreignphrase>
@@ -822,32 +822,32 @@ role="gloss">thought-book</quote>)</para></listitem></varlistentry>
 <simplesect role="exercise"><title>Exercise 5 &mdash; history quiz</title>
 
 
-<para>Give the dates to answer these questions, using <foreignphrase lang="art-lojban">cmene</foreignphrase> for the years.
+<para>Give the dates to answer these questions, using 
+<foreignphrase lang="art-lojban">cmene</foreignphrase> for the years. If you
+don't happen to know them, that's OK &mdash; they're given at the bottom of the
+exercise.</para>
 
 
-<orderedlist>
+<para><orderedlist>
 
 
 <listitem><para><foreignphrase lang="art-lojban">lenu la kolombus. facki lo
 cnino gugde cu se detri ma</foreignphrase></para></listitem>
 
-
 <listitem><para><foreignphrase lang="art-lojban">la mexmet. dable'a la
 konstantinupolis. de'i ma</foreignphrase></para></listitem>
 
-
 <listitem><para><foreignphrase lang="art-lojban">lenu fraso jecyga'ibai cu se detri ma</foreignphrase></para></listitem>
-
 
 <listitem><para><foreignphrase lang="art-lojban">la marks. joi la .engels.
 finti le guntrusi'o selpeicku ku de'i ma</foreignphrase></para></listitem>
 
-
 <listitem><para><foreignphrase lang="art-lojban">la muxamed. klama la
 medinas. de'i ma</foreignphrase></para></listitem>
 
-
 </orderedlist></para>
+
+<para>(1492; 1453; 1789; 1848; 622)</para>
 </simplesect>
 
 
@@ -991,31 +991,34 @@ That is in fact the default for Lojban, which does not rely on punctuation or in
 <foreignphrase lang="art-lojban">.i</foreignphrase> is used consistently to separate one sentence in
 running text from the next.</para>
 
-</note><orderedlist><listitem><para><foreignphrase lang="art-lojban">.i la jang. cu zvati le
-barja</foreignphrase></para></listitem>
+</note><orderedlist><listitem><para><foreignphrase lang="art-lojban">.i la jan. cu zvati le
+barja</foreignphrase> (Though you might not be able to tell, this is in fact
+Zhang. Remember from <link linkend="less1">Lesson 1</link> that final
+<foreignphrase lang="art-lojban">ng</foreignphrase> in names is changed to
+<foreignphrase lang="art-lojban">n</foreignphrase>.)</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la jang. denpa lenu la suzyn. 
+<listitem><para><foreignphrase lang="art-lojban">.i la jan. denpa lenu la suzyn. 
 zvati le barja</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la jang. cpedu fi le dunda fe
+<listitem><para><foreignphrase lang="art-lojban">.i la jan. cpedu fi le dunda fe
 re birje</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lenu pinxe loi dotco birje cu
-se nelci la jang.</foreignphrase></para></listitem>
+se nelci la jan.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i .uu la suzyn. loi dotco birje
 cu xebni</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la jang. djica lenu li
+<listitem><para><foreignphrase lang="art-lojban">.i la jan. djica lenu li
 reno pi'e mu tcika lenu la suzyn. klama</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i li repa boi tcika lenu la
-jang. djuno lenu la suzyn. na klama</foreignphrase></para></listitem>
+jan. djuno lenu la suzyn. na klama</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i pinxe pici le pa
 birje</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i la jang. cliva le
+<listitem><para><foreignphrase lang="art-lojban">.i la jan. cliva le
 barja</foreignphrase></para></listitem>
 
 </orderedlist></para>
@@ -1253,7 +1256,7 @@ lang="art-lojban">.i la suzyn. ti'u li rere klama le barja le
 briju</foreignphrase> means exactly the same thing.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. sruma lenu la
-jang. djuno lenu lerci fa lenu la suzyn. klama </foreignphrase> (Lojban
+jan. djuno lenu lerci fa lenu la suzyn. klama </foreignphrase> (Lojban
 insists on distinguishing between events and entities; you can't say that
 someone is late in Lojban, but only that someone's
 <emphasis>action</emphasis> is late. There are ways in Lojban for working
@@ -1263,18 +1266,18 @@ Lojban</quote> (see <link linkend="less15">Lesson 15</link>.)</para>
 that's a rather deeply nested sentence. Lojban tends, for better or worse,
 to make things more explicit, and thus more complex, than is usual for
 natural languages. The normal word order version is even worse: <foreignphrase lang="art-lojban">.i la suzyn. sruma lenu la
-jang. djuno lenu lenu la suzyn. klama cu lerci</foreignphrase>.)</para></listitem>
+jan. djuno lenu lenu la suzyn. klama cu lerci</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">.i la suzyn. viska pa le re botpi</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase 
-lang="art-lojban">.i lenu jimpe lenu la jang. cliva [kei kei] na nandu la suzyn.
+lang="art-lojban">.i lenu jimpe lenu la jan. cliva [kei kei] na nandu la suzyn.
 </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase 
 lang="art-lojban">ti'u li rere pi pamu la suzyn. djica {lenu zvati le barja kei} 
-{lenu la suzyn. penmi la djiotis. te'i li rere pi vomu}
+{lenu la suzyn. penmi la djiotis. ti'u li rere pi vomu}
 </foreignphrase> (Extra credit if you worked through that one! You cannot 
 leave the <foreignphrase lang="art-lojban">kei</foreignphrase> out; 
 otherwise, <foreignphrase lang="art-lojban">lenu la suzyn. penmi la 

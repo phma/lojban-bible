@@ -220,7 +220,7 @@ imagine that ten women I have in mind kiss me on ten separate occasions.
 (Hey, I do get to write these lessons for my own amusement, after all...) I could then say
 <foreignphrase lang="art-lojban">le pano ninmu cu cinba mi</foreignphrase>,
 in which case I'd consider myself quite fortunate. However, if I say
-<foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> le pano pano
+<foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> le pano 
 ninmu cu cinba mi</foreignphrase>, I mean that the ten women kiss me
 <foreignphrase lang="fra">en masse</foreignphrase>, in which case I would
 consider myself either blessed or harrassed (maybe I'm a rock star or
@@ -820,8 +820,15 @@ give yourself a whole backrub!)</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.uinai</foreignphrase>
 [<emphasis>or</emphasis> <foreignphrase lang="art-lojban">.uu</foreignphrase>]
 <foreignphrase lang="art-lojban">no lo prenu cu prami la bil.</foreignphrase>
-<emphasis>or</emphasis> <foreignphrase lang="art-lojban">na su'o pa lo prenu cu
-prami la bil.</foreignphrase> (Not, as it turns out, <foreignphrase lang="art-lojban">su'o pa lo prenu cu na prami la bil.</foreignphrase>, which means <quote>at least one person doesn't like Bill</quote> rather than <quote>It is not true that one or more persons like Bill.</quote> But the interaction of negation and quantifiers is beyond the scope of these lessons; for more, see <citetitle>The Complete Lojban Language</citetitle>, Chapter 16.9.)</para></listitem>
+<emphasis>or</emphasis> <foreignphrase lang="art-lojban">na ku su'o pa lo prenu cu
+prami la bil.</foreignphrase> (Though you're meant to insert the 
+<foreignphrase lang="art-lojban">ku</foreignphrase>, you don't know what it is yet, so don't
+worry about it (yet). As it turns out, you <emphasis>cannot</emphasis> say 
+<foreignphrase lang="art-lojban">su'o pa lo prenu cu na prami la 
+bil.</foreignphrase>, which means <quote>at least one person doesn't like 
+Bill</quote> rather than <quote>It is not true that one or more persons like 
+Bill.</quote> But the interaction of negation and quantifiers is beyond the 
+scope of these lessons; for more, see <citetitle>The Complete Lojban Language</citetitle>, Chapter 16.9.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">le la ROZmeris. cinfu cu batci re lo
 prenu</foreignphrase> (or: <foreignphrase lang="art-lojban">le cinfu pe la 

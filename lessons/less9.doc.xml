@@ -146,15 +146,15 @@ lang="art-lojban">be'o</foreignphrase>. Armed with this little word, you
 can inflict on the world such untold misery as this:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">le xatra be la jang. bei la suzyn.</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">le xatra be la jan. bei la suzyn.</foreignphrase>
 The letter from Zhang to Susan
 <foreignphrase lang="art-lojban">la djiotis. mrilu ti la ranjit.</foreignphrase>
 Jyoti mails this to Ranjeet
-<foreignphrase lang="art-lojban">la djiotis. mrilu le xatra be la jang. bei la suzyn. la ranjit.</foreignphrase>
+<foreignphrase lang="art-lojban">la djiotis. mrilu le xatra be la jan. bei la suzyn. la ranjit.</foreignphrase>
 Jyoti mails {Zhang's letter to Susan} to Ranjeet
-<foreignphrase lang="art-lojban">le mrilu be le xatra be la jang. bei la suzyn. be'o bei la ranjit.</foreignphrase>
+<foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn. be'o bei la ranjit.</foreignphrase>
 The one who mails {Zhang's letter to Susan} to Ranjeet
-<foreignphrase lang="art-lojban">le mrilu be le xatra be la jang. bei la suzyn.      bei la ranjit.</foreignphrase>
+<foreignphrase lang="art-lojban">le mrilu be le xatra be la jan. bei la suzyn.      bei la ranjit.</foreignphrase>
 The one who mails {Zhang's letter to Susan about Ranjeet}</literallayout>
 </informalexample></para>
 
@@ -226,7 +226,7 @@ cidjrkari</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">ti se nitcu la ranjit. loinu 
 jukpa loi cidjrkari</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">ti preti lei xukske la jang. le 
+<listitem><para><foreignphrase lang="art-lojban">ti preti lei xukske la jan. le 
 ctuca</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">ti kansa le ctuca be la ranjit.
@@ -829,7 +829,7 @@ le kerfa be la ranjit. bei le ctebi be'o noi zo'e pe la lex.va,uensas. cu simsa<
 <listitem><para><foreignphrase lang="art-lojban">.i la djiotis. noi denpa vi le 
 bartu be le gusta cu sazri lo se bevri fonxa ne la nokias.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i cusku lu .i coi jang. mi'e 
+<listitem><para><foreignphrase lang="art-lojban">.i cusku lu .i coi jan. mi'e 
 djiotis.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ko penmi mi'a vi le dansydi'u 
@@ -858,7 +858,7 @@ is like Pakistani music in its complexity.</quote></para></listitem>
 <listitem><para>Jyoti says <quote>Susan, you think anything without a 
 guitar is complex.</quote></para></listitem>
 
-<listitem><para>Ranjeet says <quote>A violin is identical to a guitar one carries on the 
+<listitem><para>Ranjeet says <quote>The violin is identical to the guitar one carries on the 
 shoulder.</quote></para></listitem>
 
 <listitem><para>Jyoti says <quote>Ranjeet is identical to one unable to go 
@@ -905,7 +905,7 @@ lang="art-lojban">be</foreignphrase> need be worried about it.)</para></listitem
 jukpa loi cidjrkari</foreignphrase>: Ranjeet's requirements for cooking 
 curry</para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">le preti be lei xukske bei la jang. 
+<listitem><para><foreignphrase lang="art-lojban">le preti be lei xukske bei la jan. 
 bei le 
 ctuca</foreignphrase>: Zhang's question about chemistry to the teacher</para></listitem>
 
@@ -953,11 +953,25 @@ lang="art-lojban">bridi</foreignphrase> &mdash; so it cannot be <quote
 role="socalled">internal</quote>.)</para></listitem>
 
 <listitem><para><foreignphrase 
-lang="art-lojban">la xukske fanza pe me'e la suzyn. pinxe loi dotco 
+lang="art-lojban">la xukske fanza ku pe te me'e la suzyn. pinxe loi dotco 
 birje</foreignphrase> (Yes, trick question. Despite where 
 <wordasword>so named by Susan</wordasword> sits in the sentence, it applies 
 only to the studious person of Zhang, and not to his preferences in 
-alcohol.)</para></listitem>
+alcohol.)</para>
+
+<tip><para>The need for <foreignphrase lang="art-lojban">ku</foreignphrase> in the sentence
+above is <emphasis>very deep voodoo</emphasis>, so there's no need for you to be particularly
+concerned about it (yet). As <citetitle>The Complete Lojban Language</citetitle>, Chapter 8.6 points out,
+without the <foreignphrase lang="art-lojban">ku</foreignphrase> any qualifying phrase becomes part of the 
+name. So the two Frankfurts in Germany, Frankfurt-am-Main and Frankfurt-am-Oder, would go into Lojban as 
+<foreignphrase lang="art-lojban">la frankfurt. pe vi la main.</foreignphrase> and <foreignphrase 
+lang="art-lojban">la frankfurt. pe vi la oder.</foreignphrase> (The first one is the one you've heard 
+of; they are distinguished by the rivers they are on.) But if I just wanted to say <quote>Berlin, on the 
+[river] Spree</quote>, I would say <foreignphrase lang="art-lojban">la berlin. ku pe vi la 
+spres.</foreignphrase>, because the city's name is not Berlin-am-Spree.</para>
+
+<para>No, of course you weren't meant to know all that. But aren't you happy you know it 
+now?</para></tip></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">loi cmene pe se pa'u la lojban.
 [cu] se lidne lu la li'u</foreignphrase> (Hope you remembered to put
@@ -1158,7 +1172,7 @@ suzyn. do jinvi ledu'u ro da pe cau lo jgita cu pluja li'u</foreignphrase>
 things</quote>.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit cusku lu .i
-lo jgitrviolino cu mintu lo jgita poi zo'e bevri vi le janco
+le jgitrviolino cu mintu le jgita poi zo'e bevri vi le janco
 li'u</foreignphrase> </para> <note><para>Two things. First, Lojban doesn't
 encourage you to say that one <foreignphrase
 lang="art-lojban">sumti</foreignphrase> <quote role="socalled">is</quote>
@@ -1167,7 +1181,7 @@ word, <foreignphrase lang="art-lojban">du</foreignphrase>, that sort of
 does that, but you should think of it as being more like an equals sign
 (see <link linkend="less12">Lesson 12</link>.) If you want to say that a
 violin is a guitar, it is better to say either that they are identical
-(<foreignphrase lang="art-lojban">lo jgitrviolino cu mintu lo
+(<foreignphrase lang="art-lojban">le jgitrviolino cu mintu le
 jgita</foreignphrase>), or to turn one of the two <foreignphrase
 lang="art-lojban">sumti</foreignphrase> into a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> (<foreignphrase

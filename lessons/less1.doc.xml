@@ -159,7 +159,7 @@ lang="art-lojban">lerfu</foreignphrase>) turn out to be even more important than
 usual in Lojban, so we might as well go through their names quickly.
 </para>
 
-<para>Consonants are straight-forward: the name of a consonant letter is 
+<para>Consonants are straightforward: the name of a consonant letter is 
 that letter, plus <foreignphrase lang="art-lojban">y</foreignphrase>. So the 
 consonant letters of Lojban, <wordasword>b, c, d, f, g ...</wordasword>, 
 are called <foreignphrase lang="art-lojban">by., cy., dy., fy., gy....</foreignphrase> in Lojban (using the full stop as we've just described.)</para>
@@ -174,7 +174,7 @@ ybu</foreignphrase>. </para>
 
 <para>The
 apostrophe is regarded as a proper letter in Lojban, and is called
-<foreignphrase lang="art-lojban">.y'y</foreignphrase>.  This should sound like a
+<foreignphrase lang="art-lojban">.y'y.</foreignphrase>.  This should sound like a
 cough.</para>
 
 <para>Lojban has ways of refering to most letters you can think of; see
@@ -182,9 +182,9 @@ cough.</para>
 details. If you have the urge to spell out your name in Lojban and have an
 <wordasword>H</wordasword>, <wordasword>Q</wordasword>, or
 <wordasword>W</wordasword> to deal with, you can use <foreignphrase
-lang="art-lojban">.y'ybu</foreignphrase>, <foreignphrase
-lang="art-lojban">kybu</foreignphrase> and <foreignphrase
-lang="art-lojban">vybu</foreignphrase>. So
+lang="art-lojban">.y'y.bu</foreignphrase>, <foreignphrase
+lang="art-lojban">ky.bu</foreignphrase> and <foreignphrase
+lang="art-lojban">vy.bu</foreignphrase>. So
 <wordasword>Schwarzenegger</wordasword> is spelt in Lojban as:
 
 <informalexample><para><foreignphrase 
@@ -474,7 +474,9 @@ lang="art-lojban">julIET.binOC.</foreignphrase></para></listitem></varlistentry>
 lang="art-lojban">laudz.</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term>Mao Zedong</term> <listitem><para><foreignphrase
-lang="art-lojban">maus.dzeDYNG.</foreignphrase></para></listitem></varlistentry>
+lang="art-lojban">maudzyDYN.</foreignphrase> (Final <wordasword>ng</wordasword>
+is in Lojban conventionally turned into 
+<foreignphrase lang="art-lojban">ng</foreignphrase></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -492,8 +494,8 @@ lang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry
 
 <variablelist termlength="25"><title>German</title>
 
-<varlistentry><term>Ludwig Wittgenstein</term> <listitem><para><foreignphrase
-lang="art-lojban">ludvig.VITgynctain.</foreignphrase></para></listitem></varlistentry>
+<varlistentry><term>Friedrich Nietzsche</term> <listitem><para><foreignphrase
+lang="art-lojban">fridrix.nitces.</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term>Clara Schumann</term> <listitem><para><foreignphrase
 lang="art-lojban">klaras.cuman.</foreignphrase></para></listitem></varlistentry>

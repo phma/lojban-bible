@@ -201,7 +201,7 @@ lang="art-lojban">.i la djiotis. nelci ju citka loi cidjrkari</foreignphrase></p
 lang="art-lojban">.i la djiotis. nelci loi cidjrkari gi'e xebni loi zirpu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. .onai la suzyn. djuno ledu'u la jang. zvati 
+lang="art-lojban">.i la djiotis. .onai la suzyn. djuno ledu'u la jan. zvati 
 jonai tadni</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
@@ -209,8 +209,8 @@ lang="art-lojban">.i la djiotis. nelci loi cidjrkari .a loi
 nanba .e loi jisra</foreignphrase> (Remember: Lojban nests to the left!)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. .onai la suzyn. djuno ledu'u la jang. zvati 
-.inaja la jang. se denpa </foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. .onai la suzyn. djuno ledu'u la jan. zvati 
+.inaja la jan. se denpa </foreignphrase></para></listitem>
 
 </orderedlist></para>
 
@@ -291,14 +291,14 @@ lang="art-lojban">sumti</foreignphrase>.</para></listitem>
 carries the meaning of <wordasword>respectively</wordasword>: it relates pairs of
 <foreignphrase lang="art-lojban">sumti</foreignphrase> cross-wise. If I
 were to say <foreignphrase lang="art-lojban">la suzyn. .e la djiotis. tavla
-la jang. .e la ranjit.</foreignphrase>, that means that both Susan and
+la jan. .e la ranjit.</foreignphrase>, that means that both Susan and
 Jyoti talk to both Zhang and Ranjeet. If I want to say that Susan only
 talked to Zhang, and Jyoti only to Ranjeet (i.e. <quote>Susan and Jyoti
 talked to Zhang and Ranjeet, <emphasis>respectively</emphasis></quote>), a
 logical connective is not useful. Instead, I would use <foreignphrase
 lang="art-lojban">fa'u</foreignphrase> to connect both pairs of
 <foreignphrase lang="art-lojban">sumti</foreignphrase>: <foreignphrase
-lang="art-lojban">la suzyn. fa'u la djiotis. tavla la jang. fa'u la
+lang="art-lojban">la suzyn. fa'u la djiotis. tavla la jan. fa'u la
 ranjit.</foreignphrase> <quote>Susan, cross-wise with Jyoti, talks to 
 Zhang, cross-wise with Ranjeet.</quote></para></listitem>
 
@@ -640,33 +640,33 @@ x<subscript>4</subscript></para></listitem></varlistentry>
 <orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. traji leka zirpu kei fo la jang. ce la ranjit. 
+lang="art-lojban">.i la jan. traji leka zirpu kei fo la jan. ce la ranjit. 
 ce la djiotis. ce la suzyn.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i ji'a la jang. gonai zmadu la ranjit. leni certu lenu 
+lang="art-lojban">.i ji'a la jan. gonai zmadu la ranjit. leni certu lenu 
 dansu gi xalfekfri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. cu bevri la djiotis. fa'u la jang. fa'u gi 
+lang="art-lojban">.i la suzyn. cu bevri la djiotis. fa'u la jan. fa'u gi 
 loi birje gi loi sodva</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. gu'u sutra gu'i djica pinxe lei sodva</foreignphrase></para></listitem>
+lang="art-lojban">.i la jan. gu'u sutra gu'i djica pinxe lei sodva</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la
 ranjit. cusku lu .i pe'ipei do baza djica loi glare cnino bo se zbasu ckafi
 li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. cusku lu .i cnino skapi ki'a .i le ca 
+lang="art-lojban">.i la jan. cusku lu .i cnino skapi ki'a .i le ca 
 skapi be mi cu stedu bi'i jamfu melbi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la ranjit. krixa lu .i ckafi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. se cfipu catlu gi'ebabo ke cmila gi'e cusku 
+lang="art-lojban">.i la jan. se cfipu catlu gi'ebabo ke cmila gi'e cusku 
 lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
@@ -734,7 +734,7 @@ lang="art-lojban">.i la djiotis. gu'u nelci gi citka loi cidjrkari</foreignphras
 lang="art-lojban">.i la djiotis. ge nelci loi cidjrkari gi xebni loi zirpu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i gonai la djiotis. gi la suzyn. djuno ledu'u la jang. 
+lang="art-lojban">.i gonai la djiotis. gi la suzyn. djuno ledu'u la jan. 
 gu'onai zvati gi tadni</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
@@ -744,8 +744,8 @@ lang="art-lojban">loi cidjrkari .a loi nanba</foreignphrase> to <foreignphrase
 lang="art-lojban">loi jisra</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i ganai go la djiotis. ginai la suzyn. djuno ledu'u la jang. zvati 
-gi la jang. se denpa </foreignphrase></para></listitem>
+lang="art-lojban">.i ganai go la djiotis. ginai la suzyn. djuno ledu'u la jan. zvati 
+gi la jan. se denpa </foreignphrase></para></listitem>
 
 </orderedlist></para>
 
@@ -819,7 +819,7 @@ lang="art-lojban">lujvo</foreignphrase> &mdash; in this case <foreignphrase
 lang="art-lojban">ziryrai</foreignphrase> <quote 
 role="gloss">purplest</quote> &mdash; to cut the sentence down to a manageable 
 size: <foreignphrase
-lang="art-lojban">la jang. ziryrai la jang. ce la ranjit. ce la djiotis. 
+lang="art-lojban">la jan. ziryrai la jan. ce la ranjit. ce la djiotis. 
 ce la suzyn.</foreignphrase>.)</para></listitem>
 
 <listitem><para>Also, Zhang is either a better dancer than Ranjeet, or
@@ -827,7 +827,7 @@ drunk. (<emphasis>Or</emphasis>: when he's not drunk.) (Literally, again, the Lo
 detail: <quote>Zhang exceeds Ranjeet in the amount by which he is expert
 at dancing.</quote> And here, too, you can use a <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> to make the sentence somewhat
-simpler: <foreignphrase lang="art-lojban">.i la jang.
+simpler: <foreignphrase lang="art-lojban">.i la jan.
 <emphasis>cremau</emphasis> la ranjit. lenu dansu</foreignphrase>, from
 <foreignphrase lang="art-lojban">certu zmadu</foreignphrase> <quote
 role="gloss">more expert</quote>.)</para></listitem>
@@ -892,7 +892,7 @@ silly...</quote>}</quote></para>
 
 <para>As you may have guessed, we would have avoided having to use brackets 
 in forethought mode: <foreignphrase
-lang="art-lojban">.i ge la jang. se cfipu catlu gibabo ge cmila gi cusku 
+lang="art-lojban">.i ge la jan. se cfipu catlu gibabo ge cmila gi cusku 
 lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></note>
 </listitem>
 
@@ -911,27 +911,27 @@ tavla la suzyn.</foreignphrase></para></listitem>
 <itemizedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i lu lenu ge la jang. vi zvati gi do penmi ri ca le 
+lang="art-lojban">.i lu lenu ge la jan. vi zvati gi do penmi ri ca le 
 cabdei cu xamgu li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i lu ge lenu la jang. vi zvati gi lenu do penmi ri ca le 
+lang="art-lojban">.i lu ge lenu la jan. vi zvati gi lenu do penmi ri ca le 
 cabdei cu xamgu li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i lu xamgu fa lenu ge la jang. vi zvati gi do penmi ri ca le 
+lang="art-lojban">.i lu xamgu fa lenu ge la jan. vi zvati gi do penmi ri ca le 
 cabdei li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i lu xamgu fa ge lenu la jang. vi zvati gi lenu do penmi ri ca le 
+lang="art-lojban">.i lu xamgu fa ge lenu la jan. vi zvati gi lenu do penmi ri ca le 
 cabdei li'u</foreignphrase></para></listitem>
 
 </itemizedlist></para></listitem>
  
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
-ko tavla ge la ranjit. ginai la jang. mi</foreignphrase>
+ko tavla ge la ranjit. ginai la jan. mi</foreignphrase>
 <emphasis>or</emphasis> <foreignphrase lang="art-lojban">.i la suzyn. cusku
-lu .i ko tavla fi mi fe ge la ranjit. ginai la jang. li'u</foreignphrase>
+lu .i ko tavla fi mi fe ge la ranjit. ginai la jan. li'u</foreignphrase>
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i xu slabu ckule bo pendo
@@ -954,7 +954,7 @@ want to emphasise that they're dancing together) <emphasis>or</emphasis>
 suzyn. gi la ranjit. co'a dansu</foreignphrase> (if you don't.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la djiotis. ge catlu la
-jang. noi ge cisma gi zbasu le jipci loi nanbrpretsele gi
+jan. noi ge cisma gi zbasu le jipci loi nanbrpretsele gi
 furmu</foreignphrase> (<foreignphrase lang="art-lojban">le
 jipci</foreignphrase> <quote role="gloss">that which I describe as a
 chicken</quote> is the easiest way around the fact that Zhang's incipient

@@ -34,10 +34,10 @@ lang="art-lojban">ve</foreignphrase>, the first and fourth, and <foreignphrase
 lang="art-lojban">xe</foreignphrase>, the first and fifth.
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">ti bakfu lo tirse grana loi skori</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">ti bakfu loi tirse grana loi skori</foreignphrase>
 This is-a-bundle-of iron rods held together with string.</literallayout>
 </informalexample><informalexample>
-<literallayout><foreignphrase lang="art-lojban">loi skori cu te bakfu lo tirse grana ti</foreignphrase>
+<literallayout><foreignphrase lang="art-lojban">loi skori cu te bakfu loi tirse grana ti</foreignphrase>
 String holds the bundle of iron rods together (literally, <quote>with string are bundled iron rods.</quote>)</literallayout>
 </informalexample>Note the <foreignphrase lang="art-lojban">ti</foreignphrase> has now moved to a
 less conspicuous place in the sentence, and so can now be dropped out
@@ -110,7 +110,7 @@ lang="art-lojban">zo'e fengu <emphasis>lenu
 jamna</emphasis></foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">ti xatra mi <emphasis>la jang.</emphasis></foreignphrase></para></listitem>
+lang="art-lojban">ti xatra mi <emphasis>la jan.</emphasis></foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">zo'e xlura mi lenu cliva le gugde kei <emphasis>loi
@@ -221,8 +221,8 @@ lang="art-lojban">sumti</foreignphrase>: x<subscript>1</subscript>, the thought 
 words used to express it:
 
 <informalexample>
-<literallayout><foreignphrase lang="art-lojban">le la jang. se cusku cu {du'u ri nelci la suzyn. kei} lu do bebna li'u</foreignphrase>
-Zhang's thing-expressed (= what Zhang said) is {the thought that he likes Susan}, in the words <quote>You're a dolt.</quote></literallayout>
+<literallayout><foreignphrase lang="art-lojban">le la jan. se pensi cu {du'u ri nelci la suzyn. kei} lu do bebna li'u</foreignphrase>
+Zhang's thing-thought (= what Zhang thought) is {the thought that he likes Susan}, put into the words <quote>You're a dolt.</quote></literallayout>
 </informalexample>That's why <foreignphrase
 lang="art-lojban">le se du'u</foreignphrase> refers to words rather than thoughts.
 
@@ -604,11 +604,11 @@ lang="art-lojban">nal</foreignphrase> where necessary.
 plot-advancing example sentence from <link linkend="less7">Lesson 7</link>,
 involving Zhang and Susan:
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. na djuno fi vo'a fe le du'u la jang. cinynei sy.</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. na djuno fi vo'a fe le du'u la jan. cinynei sy.</foreignphrase>
 Susan doesn't know about herself that Zhang fancies (<quote role="gloss">sexually-likes</quote>) her.</literallayout>
 </informalexample>We have snuck into the sentence a new pro-<foreignphrase
 lang="art-lojban">sumti</foreignphrase>: <foreignphrase
-lang="art-lojban">vo'a</foreignphrase>.  This means <quote role="gloss">the first
+lang="art-lojban">vo'a</foreignphrase>. This means <quote role="gloss">the first
 <foreignphrase lang="art-lojban">sumti</foreignphrase> of this <foreignphrase
 lang="art-lojban">bridi</foreignphrase></quote>, and like the others, comes in a
 series &mdash; <foreignphrase lang="art-lojban">vo'e</foreignphrase> refers to the second <foreignphrase
@@ -616,32 +616,49 @@ lang="art-lojban">sumti</foreignphrase>, <foreignphrase
 lang="art-lojban">vo'i</foreignphrase> to the third and so on. In practice,
 <foreignphrase lang="art-lojban">vo'a</foreignphrase> is used quite a lot, while
 the others are rarer; but that could be because people still tend to think
-in terms of natural languages (where only the equivalent of <foreignphrase
-lang="art-lojban">vo'a</foreignphrase> is usual.) As people start thinking more in
+in terms of natural languages, where only the equivalent of <foreignphrase
+lang="art-lojban">vo'a</foreignphrase> is usual. Those equivalents are
+<firstterm>reflexives</firstterm> &mdash; words
+like <wordasword>herself</wordasword>, <wordasword>itself</wordasword>, and
+so on; and <foreignphrase
+lang="art-lojban">vo'a</foreignphrase> is very handy for expressing them.
+As people start thinking more in 
 Lojban, the others could get used more. </para>
 
-<note><para><quote>This <foreignphrase
-lang="art-lojban">bridi</foreignphrase></quote> means <quote>the <foreignphrase
-lang="art-lojban">bridi</foreignphrase> that <foreignphrase
+<para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is very useful for
+giving the sense of  (That <foreignphrase lang="art-lojban">vo'a</foreignphrase> cannot skip
+over an embedded <foreignphrase lang="art-lojban">bridi</foreignphrase>, as
+discussed just above, is also typical of most languages' reflexives &mdash;
+although not, for example, Norwegian.)</para>
+
+<tip><para>When we say <foreignphrase
+lang="art-lojban">vo'a</foreignphrase> means <quote role="gloss">the first
+<foreignphrase lang="art-lojban">sumti</foreignphrase> of this <foreignphrase
+lang="art-lojban">bridi</foreignphrase></quote>, <quote>this <foreignphrase
+lang="art-lojban">bridi</foreignphrase></quote> actually means <quote>the main <foreignphrase
+lang="art-lojban">bridi</foreignphrase> of the sentence that <foreignphrase
 lang="art-lojban">vo'a</foreignphrase> is a <foreignphrase
 lang="art-lojban">sumti</foreignphrase> of.</quote> So if we were 
 to say 
 
-<informalexample><para><foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jang. cinynei <emphasis>vo'a</emphasis></foreignphrase>
-</para></informalexample>we would not be saying that Susan doesn't know Zhang fancies her, but that
-Susan doesn't know Zhang fancies <emphasis>himself</emphasis>:
-<foreignphrase lang="art-lojban">vo'a</foreignphrase> looks no further than its
-closest <foreignphrase lang="art-lojban">selbri</foreignphrase> for its meaning.
+<informalexample><para><foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jan. cinynei 
+<emphasis>vo'a</emphasis></foreignphrase>
+</para></informalexample>we would be saying that Susan doesn't know that Zhang fancies 
+<emphasis>her</emphasis>, not that
+Susan doesn't know that Zhang fancies <emphasis>himself</emphasis>. This is not particularly
+typical of natural languages: you can't say in English <wordasword><emphasis>Susan</emphasis> doesn't know 
+that Zhang fancies <emphasis>herself</emphasis></wordasword>. However some languages have some reflexives 
+that <emphasis>do</emphasis>
+behave like that; for example, Icelandic and Norwegian. The main reason Lojban behaves like
+this is because abstractions share <foreignphrase lang="art-lojban">sumti</foreignphrase> with the main
+<foreignphrase lang="art-lojban">bridi</foreignphrase> containing them far more often than having two
+separate <foreignphrase lang="art-lojban">sumti</foreignphrase> the same. Given the problems in pinning
+down <foreignphrase lang="art-lojban">ri</foreignphrase> and <foreignphrase lang="art-lojban">ra</foreignphrase> we've already seen <link linkend="less7">last lesson</link>, it's
+more useful for Lojban to refer back to the main <foreignphrase lang="art-lojban">bridi</foreignphrase>
+like this.</para></tip>
 
-</para></note>
 
-<para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is very useful for
-giving the sense of <quote role="socalled">reflexives</quote> &mdash; words
-like <wordasword>herself</wordasword>, <wordasword>itself</wordasword>, and
-so on. (That <foreignphrase lang="art-lojban">vo'a</foreignphrase> cannot skip
-over an embedded <foreignphrase lang="art-lojban">bridi</foreignphrase>, as
-discussed just above, is also typical of most languages' reflexives &mdash;
-although not, for example, Norwegian.) Here are some more straightforward
+<para>Here are some more straightforward
 examples of its use:
 
 <informalexample>
@@ -806,8 +823,7 @@ suzyn.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. catlu le vo'a 
 ve minra</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.i le go'i cu nitcu lenu le le
-go'i ku ctebi cinta cu te jmina</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i le go'i cu nitcu lenu le vo'a ctebi cinta cu te jmina</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ca lenu go'i kei la suzyn. te
 minra la ranjit. soi vo'a</foreignphrase></para></listitem>
@@ -841,7 +857,7 @@ klama pe le gusta na te djuno do li'u</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lenu jamna cu se
 fengu</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">la jang. te xatra [mi
+<listitem><para><foreignphrase lang="art-lojban">la jan. te xatra [mi
 ti]</foreignphrase> (Whether you include the <foreignphrase
 lang="art-lojban">mi</foreignphrase> or <foreignphrase
 lang="art-lojban">ti</foreignphrase> depends on whether they are important in this
@@ -889,7 +905,14 @@ version of <quote>looks at herself in the mirror.</quote> There are other
 ways to say this, but we haven't covered the requisite grammar yet.)</para></listitem>
 
 <listitem><para>She needs to put on more lipstick. (Literally, <quote>She 
-needs that her lip paint be added to.</quote>)
+needs that her lip paint be added to.</quote> Of course, <foreignphrase 
+lang="art-lojban">vo'a</foreignphrase> here is <quote role="gloss">Susan</quote>,
+from the main <foreignphrase lang="art-lojban">bridi</foreignphrase>
+and not the horridly recursive local x<subscript>1</subscript>,
+<quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote> &mdash;
+where <wordasword>x</wordasword> is <quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote>,
+where <wordasword>x</wordasword> is <quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote>,
+where <wordasword>x</wordasword> is <quote role="gloss"><wordasword>x</wordasword>'s lipstick</quote>...)
 </para></listitem>
 
 <listitem><para>When this is happening, Susan and Ranjeet see each other's 

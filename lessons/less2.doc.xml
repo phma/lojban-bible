@@ -15,6 +15,12 @@ relationships between things (like <wordasword>loves</wordasword>,
 <wordasword>gives</wordasword> or <wordasword>is inside</wordasword>).
 </para>
 
+<note><para>Those of you already advanced in Lojban wisdom will point out that
+mass names don't name <quote role="socalled">one particular thing</quote>.
+True; but if you know that much Lojban, you also know what the real distinction
+between a predicate and a name is anyway, so you know where this simplification
+is coming from. The rest of you, er, carry on.</para></note>
+
 <para>Relationships are the key to Lojban, and words describing a
 relationship are said to act as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>. A <foreignphrase
@@ -533,9 +539,9 @@ necessary. For example: <foreignphrase lang="art-lojban">fi la .iulias. cu pritu
 <foreignphrase lang="art-lojban">le karce cu pritu zo'e la .iulias.</foreignphrase></para>
 
 <para><orderedlist>
-<listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe la 
-lojban. fi le prenu </foreignphrase></para></listitem>
-<listitem><para><foreignphrase lang="art-lojban">fe mi vecnu fa do fi le karce</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fo le cukta cu cusku fe le 
+glico fi le prenu </foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">fi mi vecnu fa do le karce</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">fu la .Odisis. cu fanva fi le 
 glico fa la fits.djerald.</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">mi vecnu fo le rupnu</foreignphrase></para></listitem>
@@ -755,15 +761,15 @@ an action takes place in the past, present or future.</para>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 4</title><para><orderedlist spacing="compact">
-<listitem><literallayout><foreignphrase lang="art-lojban">zo'e cusku la lojban. le prenu le cukta</foreignphrase>
-Someone expresses Lojban for the person(s) through a book
-The book is a medium for Lojban to people</literallayout></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">zo'e cusku le glico le prenu le cukta</foreignphrase>
+Someone expresses the English thing for the person(s) through a book
+The book is a medium for English to people</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">do vecnu mi le karce zo'e</foreignphrase>
 You sell me the car for some amount
-I am sold by you the car</literallayout></listitem>
+I am sold by you the car (Notice how <foreignphrase lang="art-lojban">le karce</foreignphrase> is assigned x<subscript>2</subscript>, since it follows an x<subscript>1</subscript> place immediately.)</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">la fitsdjerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>
+<listitem><literallayout><foreignphrase lang="art-lojban">la fits.djerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>
 Fitzgerald translates something into English from some language as <wordasword>The Odyssey</wordasword>
 <wordasword>The Odyssey</wordasword> is a translation into English by Fitzgerald</literallayout></listitem>
 

@@ -518,7 +518,7 @@ translation of <foreignphrase lang="art-lojban">fenki</foreignphrase>), I
 don't have to enumerate the various wacky stunts he has pulled over the
 years. I can simply say that <quote>some stuff about Zhang is
 crazy</quote>, which in Lojban comes out as <foreignphrase
-lang="art-lojban">lenu la jang. co'e cu fenki</foreignphrase>. The value of
+lang="art-lojban">lenu la jan. co'e cu fenki</foreignphrase>. The value of
 <foreignphrase lang="art-lojban">co'e</foreignphrase> could be
 <foreignphrase lang="art-lojban">dasni [loi zirpu]</foreignphrase>
 <quote>wears purple</quote>, <foreignphrase lang="art-lojban">dansu [la
@@ -548,7 +548,7 @@ So the usual Lojban for <quote>Jyoti is interesting</quote> is
 <foreignphrase lang="art-lojban"><emphasis>tu'a</emphasis> la djiotis.
 cinri</foreignphrase>, and the usual Lojban for <quote>Zhang is
 crazy</quote> is <foreignphrase lang="art-lojban"><emphasis>tu'a</emphasis>
-la jang. fenki</foreignphrase>.</para>
+la jan. fenki</foreignphrase>.</para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -687,10 +687,10 @@ in behaviour x<subscript>2</subscript> (abstraction) by standard x<subscript>3</
 <emphasis>any</emphasis> abstraction that would go into x<subscript>2</subscript> would contain
 the x<subscript>1</subscript> <foreignphrase lang="art-lojban">sumti</foreignphrase>: any crazy
 behaviour would automatically be the behaviour of the crazy person. For
-example, you'd get <foreignphrase lang="art-lojban">la jang. fenki lenu la
-jang. dasni loi zirpu</foreignphrase>; <foreignphrase lang="art-lojban">la
-jang. fenki lenu la jang. dansu la jipci</foreignphrase>; <foreignphrase
-lang="art-lojban">la jang. fenki lenu la jang tavla bau la
+example, you'd get <foreignphrase lang="art-lojban">la jan. fenki lenu la
+jan. dasni loi zirpu</foreignphrase>; <foreignphrase lang="art-lojban">la
+jan. fenki lenu la jan. dansu la jipci</foreignphrase>; <foreignphrase
+lang="art-lojban">la jan. fenki lenu la jan tavla bau la
 lojban.</foreignphrase> The question then became: does the x<subscript>1</subscript> tell us
 anything the x<subscript>2</subscript> wasn't already telling us? We'd know who was involved in
 the crazy behaviour, because that person would be a <foreignphrase
@@ -780,12 +780,12 @@ a few sentences:
 <itemizedlist>
 
 <listitem> 
-<para><foreignphrase lang="art-lojban"><emphasis>lenu la jang.
+<para><foreignphrase lang="art-lojban"><emphasis>lenu la jan.
 dasni loi zirpu</emphasis> cu fenki</foreignphrase> </para> </listitem>
 
 <listitem>
 <para>
-<foreignphrase lang="art-lojban"><emphasis>la jang.</emphasis> cu jai fenki</foreignphrase>
+<foreignphrase lang="art-lojban"><emphasis>la jan.</emphasis> cu jai fenki</foreignphrase>
 </para>
 </listitem>
 
@@ -1026,7 +1026,7 @@ lang="art-lojban">.i le vo pendo na djuno le du'u ri zvati ma kau mu'i ma
 kau</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. cusku lu .i mi cazi ckire da'i tu'a loi glare cnino bo se 
+lang="art-lojban">.i la jan. cusku lu .i mi cazi ckire da'i tu'a loi glare cnino bo se 
 zbasu ckafi li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
@@ -1055,7 +1055,7 @@ noi cusku zoi gy. Greetings people of the planet ... um... Saturn?
 gy.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la jang. cusku lu .i tu'a le fange na drani so'a da li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i la jan. cusku lu .i tu'a le fange na drani so'a da li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1242,7 +1242,7 @@ direct or indirect.)</para></listitem>
 <listitem><para>Zhang says <quote>Right now, I would be grateful for a hot, 
 freshly-brewed coffee.</quote> (You are grateful in Lojban for events 
 rather than objects, so fully expanded, <foreignphrase
-lang="art-lojban">.i la jang. ckire da'i <emphasis>lenu kakne lenu 
+lang="art-lojban">.i la jan. ckire da'i <emphasis>lenu kakne lenu 
 pinxe</emphasis> loi glare cnino bo se 
 zbasu ckafi</foreignphrase>.)</para></listitem>
 
