@@ -47,6 +47,9 @@
 @vskip 0pt plus 1filll
 
 This work, in all forms, is explicitely placed in the public domain.
+@c explicitely?
+
+dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
 
 @c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
 
@@ -65,16 +68,16 @@ This work, in all forms, is explicitely placed in the public domain.
 @menu
 * le fukpi::	le nu fukpi gau do cu se curmi fi da
 * pamo'o::	pamo'o mo'ini'a le ractu kevna
-* remo'o::	[The Pool of Tears]
+* remo'o::	le se klaku lalxu
 * cimo'o::	le me la kaukus nu bajra jivna e le clani lisri
 * vomo'o::	[The Rabbit Sends in a Little Bill]
 * mumo'o::	[Advice from a Caterpillar]
-* xamo'o::	[Pig And Pepper]
+* xamo'o::	le xarju .e lei tsaprpiperi
 * zemo'o::	fenki tcati te salci
-* bimo'o::	[The Queen's Croquet-Ground]
+* bimo'o::	noltruni'u kelcrkroke bo foldi
 * somo'o::	[The Mock Turtle's Story]
 * panomo'o::	[The Lobster Quadrille]
-* papamo'o::	ma zerle'a le djataurte
+* papamo'o::	ma zerle'a le rutytisna
 * paremo'o::	le sidydatni po'e la alis.
 @end menu
 

@@ -17,10 +17,10 @@
 
 i le jitfa cakyrespa cu condi vruvasxu gi'e mosra le trixe be pa le limna'i
 lei kanla gi'e catlu la alis gi'e troci le nu tavla i ku'i ze'a lo mentu be
-li paji'ire loi nu vruvasxu cu dicra le voksa i lu mintu le nu da'i lo bongu 
-cu zunti le galxe sei le cpicinfo li'u i cy co'a gunka le nu desygau gi'e
-darxi fo le trixe ibazabo le cakyrespa cu xruti le ka se voksa kei gi'e 
-di'a selklaku flira cusku  
+li paji'ire loi nu vruvasxu cu dicra le voksa i lu mintu le nu da'i lo bongu
+cu zunti le galxe li'u se cusku le cpicinfo i cy co'a gunka le nu desygau gi'e
+darxi fo le trixe ibazabo le cakyrespa cu xruti le ka se voksa kei gi'e
+di'a selklaku flira cusku
 
 @c      `You may not have lived much under the sea--' (`I haven't,' said Alice)--
 @c    `and perhaps you were never even introduced to a lobster--'
@@ -32,7 +32,7 @@ lu ju'ocu'i do na ze'u xabju le xamsi cnita to'i lu mi na go'i sei la alis
 cusku lu toi i ju'ocu'i do noroi penmi lo xasyjukni to'i la alis co'a cusku
 lu mi paroi vu'irga'e li'u gi'e ku'i sutra sezydicra gi'e cusku lu noroi go'i
 li'u toi iseki'ubo do na ka'e se xanri le nu lo xasyjukni vonseldansu cu
-mokau kukte li'u 
+mokau kukte li'u
 
 @c      `No, indeed,' said Alice.  `What sort of a dance is it?'
 
@@ -40,7 +40,7 @@ i lu ie na go'i sei la alis cusku i ri mo seldansu li'u
 
 @c      `Why,' said the Gryphon, `you first form into a line along the sea-shore--'
 
-i lu ta'a do'u sei le cpicinfo cu cusku pamai lei dansu pada se linji pa'a 
+i lu ta'a do'u sei le cpicinfo cu cusku pamai lei dansu pada se linji pa'a
 le xamsi korbi li'u
 
 @c      `Two lines!' cried the Mock Turtle.  `Seals, turtles, salmon, and so on;
@@ -60,7 +60,7 @@ i lu e'e reroi crakla li'u
 
 @c      `Each with a lobster as a partner!' cried the Gryphon.
 
-i lu roda kansa lo xasyjukni sei le cpicinfo cu krixa li'u 
+i lu roda kansa lo xasyjukni sei le cpicinfo cu krixa li'u
 
 @c      `Of course,' the Mock Turtle said:  `advance twice, set to
 @c    partners--'
@@ -106,7 +106,7 @@ krixa li'u
 @c    down again very sadly and quietly, and looked at Alice.
 
 i lu e'e xruti le tumla i mo'u pamoi morna sei le jitfa cakyrespa noi suksa
-jdikygau le voksa cu cusku li'u i le re danlu noi pu ru'u plipe tai lo nu 
+jdikygau le voksa cu cusku li'u i le re danlu noi pu ru'u plipe tai lo nu
 fenki kei ze'a la'e di'u cu badri je smaji tsebi'o gi'e catlu la alis
 
 @c      `It must be a very pretty dance,' said Alice timidly.
@@ -139,7 +139,7 @@ i lu i'e ba'e do go'i sei le cpicinfo cu cusku i mi tolmorji lei valsi li'u
 
 i co'a junri dansu ru'u la alis i ru'inai stapa lei abu jmadegji ca le nu
 dukse jbikla i sligau lei xance tezu'e le nu sinxa le rilti ize'abo
-le jitfa cakyrespa cu masno je badri mutce sanga lu 
+le jitfa cakyrespa cu masno je badri mutce sanga lu
 
 @c    `"Will you walk a little faster?" said a whiting to a snail.
 @c    "There's a porpoise close behind us, and he's treading on my
@@ -157,9 +157,9 @@ le jitfa cakyrespa cu masno je badri mutce sanga lu
     e'o sutra doi cakcurnu i ko ti'a zgana ua pa
     xajyfi'e noi jbitrixe gi'e me mi rebla stapa
     i ui a'a ro le jukni e le respa ca se ganse
-    gi'e denpa mi le canre i pei do ba kansa dansu 
+    gi'e denpa mi le canre i pei do ba kansa dansu
        i aipei naipei aipei naipei aipei do ba dansu
-       i aipei naipei aipei naipei naipei do ba dansu 
+       i aipei naipei aipei naipei naipei do ba dansu
 @end format
 
 @c    "You can really have no notion how delightful it will be
@@ -333,7 +333,7 @@ i lu ue je'upei sei la alis spaji mutce tonga cusku li'u
 @c    what porpoise?"'
 
 i lu li'a go'i sei le jitfa cakyrespa cu cusku i mu'a va'o le nu lo 
-finpe cu te preti fo mi kei mi cusku lu do ma friti le do xajyfi'e 
+finpe cu te preti fo mi kei mi cusku lu do ma friti le do xajyfi'e
 li'u li'u
 
 @c      `Don't you mean "purpose"?' said Alice.
@@ -612,9 +612,9 @@ voksa noi so'oroi dicra
 @c    just begun to repeat it, when a cry of `The trial's beginning!'
 @c    was heard in the distance.
 
-i lu e'e rapli sei le cpicinfo cu krixa li'u i le jitfa cakyrespa 
-puzi co'a rere'u sanga ca le nu lo selkrixa no'u lu le nunpai cu 
-cfari li'u darno se tirna 
+i lu e'e rapli sei le cpicinfo cu krixa li'u i le jitfa cakyrespa
+puzi co'a rere'u sanga ca le nu lo selkrixa no'u lu le nunpai cu
+cfari li'u darno se tirna
 
 @c      `Come on!' cried the Gryphon, and, taking Alice by the hand,
 @c    it hurried off, without waiting for the end of the song.

@@ -110,6 +110,7 @@ le nu ro le pairkamnycmi cu ciska lu ju'i bebna li'u le py tanbo kei
 gi'eji'asai ka'e tilvi'a le nu pa py na se slabu lei lerfu pe zo
 bebna gi'e nitcu le nu cpedu le nu jungau kei le lamji i lu ba melbi
 kalsa fa lei tanbo pu le nu le nunpai cu mulno sei la alis pensi li'u
+@c This doesn't parse for some reason.
 
 @c      One of the jurors had a pencil that squeaked.  This of course,
 @c    Alice could not stand, and she went round the court and got
@@ -124,7 +125,8 @@ i pa le pairkamnycmi cu pilno lo pinsi noi vrumli cupra i li'a la alis
 na ka'e renvi la'e di'u gi'e klama fo le sruri be le kumfa gi'e
 ti'erbi'o py gi'e bazi kakne le nu lebna le pinsi py i abu tai sutra
 ja'e le nu le selkecti ke cmalu pairkamnycmi no'u la bil po'u le
-rebyrespa ka'enai facki le du'u le pinsi makau binxo kei gi'e bilga
+rebyrespa na ka'e facki le du'u le pinsi makau binxo .isemu'ibo
+by. xa'o ve'u sisku tu'a py. gi'e bilga
 le nu ciska sepi'o lo degji ze'a le djedi velvi'u i la'e di'u tolmutce
 le ka prali kei ki'u le nu noda seja'e barna le tanbo
 

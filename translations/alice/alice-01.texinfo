@@ -23,10 +23,10 @@ se pensi ko'a
 @c    of getting up and picking the daisies, when suddenly a White
 @c    Rabbit with pink eyes ran close by her.
 
-i ko'a ca'o jdice ga'a le ko'a menli to rai le selka'e kamxau va'o le nu 
+i ko'a ca'o jdice ga'a le ko'a menli to rai le selka'e kamxau va'o le nu
 le glare djedi cu rinka le nu ko'a lifri le nu sipseltri je bebna toi
-le du'u xukau le nu pluka fa le nu zbasu lo xrula linsi cu se vamji 
-le raktu po'u le nu sa'irbi'o gi'e crepu lei xrula i suksa fa le nu 
+le du'u xukau le nu pluka fa le nu zbasu lo xrula linsi cu se vamji
+le raktu po'u le nu sa'irbi'o gi'e crepu lei xrula i suksa fa le nu
 lo blabi ractu poi xunblabi se kanla cu bajra pa'ore'o ko'a
 
 @c      There was nothing so VERY remarkable in that; nor did Alice
@@ -42,32 +42,32 @@ lo blabi ractu poi xunblabi se kanla cu bajra pa'ore'o ko'a
 @c    field after it, and fortunately was just in time to see it pop
 @c    down a large rabbit-hole under the hedge.
 
-i la'e di'u vasru no tai ba'e mutce be le ka ju'ixlu ijenaiji'a la alis 
+i la'e di'u vasru no tai ba'e mutce be le ka ju'ixlu ijenaiji'a la alis
 jinvi le du'u tai ba'e mutce le ka nalfadni kei fa le nu tirna le nu
-le ractu cu sezysku lu oiro'a oiro'a mi lerci li'u to baku ca le nu 
-abu pensi la'e di'u kei abu ri te sidbo le du'u eikau ri abu cizra  
-i ku'i caku piro ri simlu le ka rarna toi i ku'i ca le nu le ractu 
+le ractu cu sezysku lu oiro'a oiro'a mi lerci li'u to baku ca le nu
+abu pensi la'e di'u kei abu ri te sidbo le du'u eikau ri abu cizra
+i ku'i caku piro ri simlu le ka rarna toi i ku'i ca le nu le ractu
 ca'a lebna lo junla le kosta daski gi'e catlu jy gi'e di'a sutra kei
-la alis spaji sa'irbi'o ki'u le nu lindi pagre le abu menli fa le 
+la alis spaji sa'irbi'o ki'u le nu lindi pagre le abu menli fa le
 si'o abu pu noroi viska lo ractu poi ponse lo kosta daski a lo junla
-poi ka'e lebna ke'a ri i bai le nu kucli kei abu bajra pagre le foldi 
-gi'e jersi ry gi'e u'a viska le nu ry canci mo'ine'i lo barda ke ractu 
+poi ka'e lebna ke'a ri i bai le nu kucli kei abu bajra pagre le foldi
+gi'e jersi ry gi'e u'a viska le nu ry canci mo'ine'i lo barda ke ractu
 kevna noi cnita le spabi'u
 
 @c      In another moment down went Alice after it, never once
 @c    considering how in the world she was to get out again.
 
 i baziku la alis mo'ine'i jersi ry gi'e noroi pensi le du'u ta'i
-ba'e makau abu ba za'ure'u bartu  
+ba'e makau abu ba za'ure'u bartu
 
 @c      The rabbit-hole went straight on like a tunnel for some way,
 @c    and then dipped suddenly down, so suddenly that Alice had not a
 @c    moment to think about stopping herself before she found herself
 @c    falling down a very deep well.
 
-i le ractu kevna cu ve'a tubnu sirji gi'e suksa nitsalpo li sono i 
+i le ractu kevna cu ve'a tubnu sirji gi'e suksa nitsalpo li sono i
 tai suksa ja'e le nu la alis na zifre le nu ze'iji'asai pensi le nu
-sezydicra kei pu le nu abu ca'o farlu fo lo condi mutce jinto 
+sezydicra kei pu le nu abu ca'o farlu fo lo condi mutce jinto
 
 @c      Either the well was very deep, or she fell very slowly, for she
 @c    had plenty of time as she went down to look about her and to
@@ -88,9 +88,9 @@ gi'e kucli le du'u makau bazi fasnu i pamai abu troci le nu catlu le
 cnita gi'e facki le du'u abu makau klama i ku'i dukse le ka manku kei
 le nu ka'e viska i remai abu catlu lei mlana be le jinto gi'e facki le
 du'u my culno loi kabri tanxe ku joi loi cukta kajna i abu viska loi
-cartu ku joi loi pixra vu'o noi dandu loi genxu i abu lebna lo botpi 
-pa le kajna ca le nu lampagre i by se tcita lu najnimre tityjdu li'u 
-gi'e ku'i u'anaidai kunti i abu na djica le nu falcru le botpi mu'i le 
+cartu ku joi loi pixra vu'o noi dandu loi genxu i abu lebna lo botpi
+pa le kajna ca le nu lampagre i by se tcita lu najnimre tityjdu li'u
+gi'e ku'i u'anaidai kunti i abu na djica le nu falcru le botpi mu'i le
 nu terpa le nu catra da iseki'ubo abu suksa le nu punji by pa le kabri
 tanxe ca le nu abu ty farlu lampagre
 
@@ -103,7 +103,7 @@ tanxe ca le nu abu ty farlu lampagre
 i lu uo sei la alis pensi ba lo nu farlu tai ti kei mi na ba xanka le
 nu farlu fo le serti i ua virnu sei le lanzu tu'a mi ba jinvi i u'o mi
 noda cusku va'o ji'asai le nu mi farlu fi le drudi be le zdani tosa'a
-la'e di'u la'a jetnu toi li'u 
+la'e di'u la'a jetnu toi li'u
 
 @c      Down, down, down.  Would the fall NEVER come to an end!  `I
 @c    wonder how many miles I've fallen by this time?' she said aloud.
@@ -128,6 +128,7 @@ le se minli cu jibni drani i ku'i mi kucli le du'u makau ti
 stuzrlatitudi gi'e stuzrlongitudi li'u i to la alis nasai djuno le
 du'u makau smuni ga zo stuzrlatitudi gi zo stuzrlongitudi i ku'i abu
 jinvi le du'u melbi je banli valsi toi
+@c {mo'ini'a mo'ini'a mo'ini'a} doesn't parse. But then neither does the English.
 
 @c      Presently she began again.  `I wonder if I shall fall right
 @c    THROUGH the earth!  How funny it'll seem to come out among the
@@ -234,6 +235,8 @@ stela cu dukse la ka barda gi le ckiku cu dukse le ka cmalu iseju
 cy ka'e kargau no sy i ku'i ca le remoi abu penmi lo dizlo murta noi
 abu na pu sanji ke'a i my murta lo cmalu vorme noi mitre li pici i
 abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
+@c {cy ka'e kargau no sy} doesn't parse.
+@c 0.3 meter is about 1 foot - I'd say .4 meter.
 
 @c      Alice opened the door and found that it led into a small
 @c    passage, not much larger than a rat-hole:  she knelt down and
@@ -249,10 +252,10 @@ abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 @c    things indeed were really impossible.
 
 i la alis kargau le vrogai gi'e facki le du'u vy se jersi lo cmalu
-vorme noi na bramau lo ratcu kevna i abu cidni sanli gi'e catlu le se
+vorme noi na bramau lo ractu kevna i abu cidni sanli gi'e catlu le se
 vorme noi traji le ka melbi lei purdi poi ze'e se viska i a'osaidai
 abu barkla le manku kumfa gi'e cadzu jbini lei va zdani be loi carmi
-xrula be'o ku joi lei va lenku jinto i ku'i abu ka'enai gregau le
+xrula be'o ku joi lei va lenku jinto i ku'i abu na ka'e gregau le
 ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre
 kei sei la alis uu pensi sy tolmutce le ka se pilno secau lei mi janco
 i au mi ka'e se polje tai tu'a lo darvistci i pe'i mi ka'e go'i va'o
@@ -299,6 +302,7 @@ glare tunta cu jelca xrani lo za'o jgari be ty zi'e no'u mu'a le nu
 va'o le nu condi mutce sraku le degji sepi'o lo dakfu kei ty ta'e
 ciblu cirko i abu noroi tolmorji le du'u le nu da dukse le ka pinxe
 lo se botpi be le se tcita be zo vindu bazi ja bazu banza da
+@c {i abu noroi} does not parse; it means "A0 times", not "A never".
 
 @c      However, this bottle was NOT marked `poison,' so Alice ventured
 @c    to taste it, and finding it very nice, (it had, in fact, a sort
@@ -310,6 +314,7 @@ i ku'i le vi botpi na se tcita zo vindu iseki'ubo la alis darsi le nu
 vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
 mixre be lo jbatisna ku joi lo sovykruji ku joi lo grutrxananase kujoi
 lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba
+@c lo rutrceraso na jbari
 
 @c         *       *       *       *       *       *       *
 

@@ -65,7 +65,7 @@ sezysku i pe'i le fatne le se fatne cu dunli le ka prali le nunpai li'u
 @c    gazing up into the roof of the court.
 
 i ca le nu ge le pairkamni cu ba'oru'e xruti fi le jenca po'u le nu se
-dicra gi le tabno e le pinsi cu se tolcirko gi'e se dunda fi py kei py
+dicra gi le tanbo e le pinsi cu se tolcirko gi'e se dunda fi py kei py
 co'a tolylazni ciska lo lisri be le fasnu i go'i fa ropy po'u na'e bo
 le rebyrespa noi simlu le ka dukse le ka se sfasa kei le nu zukte lo
 drata be le nu kalri moklu zutse gi'e gapru catlu le drudi be le kumfa
@@ -94,7 +94,7 @@ i lu nosai da sei la alis cu cusku li'u
 @c    making faces at him as he spoke.
 
 i lu la'e di'u cu mutce le ka vajni sei le noltrunau fa'a le pairkamni
-cu cusku li'u i py co'a ciska di'u le tabno ca le nu le blabi ractu cu
+cu cusku li'u i py co'a ciska di'u le tanbo ca le nu le blabi ractu cu
 zunti i lu li'a zo tolvajni cu se skudji do doi nolba'i sei ry sinma
 mutce tonga cusku li'u i ku'i ry frumu gi'e flira snigau ca le nu tavla
 
@@ -113,7 +113,7 @@ tai le nu troci le nu le mo valsi cu xagmau fi le ka sance
 @c    thought to herself.
 
 i so'o le pairkamnycmi cu ciska zo vajni i so'o py zo tolvajni i la alis
-ka'e viska ki'u le nu jibni banzu le nu catlu lei py tabno i lu ku'i
+ka'e viska ki'u le nu jibni banzu le nu catlu lei py tanbo i lu ku'i
 nasai vajni sei abu pensi sezysku li'u
 
 @c      At this moment the King, who had been for some time busily
@@ -403,9 +403,10 @@ fi le noltruni'u cu cusku li'u
 
 i lu noroi sei le noltruni'u cu fengu mutce cusku li'u i ny renro lo
 xinmo vasru le rebyrespa ca le nu tavla i to la bil uu pu de'a ciska
-fi le tabno sepi'o lo degji mu'i le nu dy na mornygau i ku'i ry sutra
+fi le tanbo sepi'o lo degji mu'i le nu dy na mornygau i ku'i ry sutra
 di'a co'e sepi'o le xinmo noi carvi le ry flira ku'o ze'a le nu xy
 renvi toi
+@c mi basygau vo zo tanbo zo tabno mu'i lenu zo tabno na mapti mi'e pier.
 
 @c      `Then the words don't FIT you,' said the King, looking round
 @c    the court with a smile.  There was a dead silence.
