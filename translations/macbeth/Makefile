@@ -15,7 +15,7 @@ all: $(DOCPS) $(DOCPDF) $(DOCHTML)
 viewall: all
 	xdvi $(DOCDVI)
 	gv $(DOCPS)
-	gv $(DOCPDF)
+	xpdf $(DOCPDF)
 
 clean:
 	-rm -f $(DOCPS) $(DOCPDF) $(DOCDVI)
@@ -33,3 +33,5 @@ $(DOCHTML): $(DOCSRC)
 
 $(DOCDVI): $(DOCSRC)
 	latex $(DOCSRC)
+
+$(DOCSRC): act1.tex act2.tex act3.tex act4.tex act5.tex
