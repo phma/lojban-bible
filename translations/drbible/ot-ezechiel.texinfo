@@ -312,31 +312,48 @@
 
 @c    4:1. And thou, O son of man, take thee a tile, and lay it before thee:
 @c    and draw upon it the plan of the city of Jerusalem.
+4:1. ni'o doi remna ko lebna lo taktapla gi'e punji ty le crane be do
+gi'e pirci'a la .ierucala,im no'u le tcadu ty.
 
 @c    4:2. And lay siege against it, and build forts, and cast up a mount,
 @c    and set a camp against it, and place battering rams round about it.
+4.2: gi'e srugunta .ibu gi'e zbasu lo badydi'u gi'e lafti lo sa'orselzdu
+be seka'a .ibu gi'e punji lo ginka le jibni be .ibu gi'e srugau lo jipyda'iga'a
+.ibu
 
 @c    4:3. And take unto thee an iron pan, and set it for a wall of iron
 @c    between thee and the city:  and set thy face resolutely against it, and
 @c    it shall be besieged, and thou shalt lay siege against it:  it is a sign
 @c    to the house of Israel.
+4:3. gi'e lebna lo tirse tansi gi'e gasnu lenu tyty. tirse bitmu do le tcadu
+gi'e fargau le flira le tcadu .ije ty se srugunta .ije ko srugunta ty .i sinxa
+fi le lanzu be la .isra,EL.
 
 @c    4:4. And thou shalt sleep upon thy left side, and shalt lay the
 @c    iniquities of the house of Israel upon it, according to the number of
 @c    the days that thou shalt sleep upon it, and thou shalt take upon thee
 @c    their iniquity.
+4:4. .i ko vreta fi'o zbepi le zunle mlana gi'e punji le zazypalci be le
+lanzu be la .israEL. my .i ca'o le djedi be li xokau ku ko bevri le zazypalci
+gi'e vreta fi'o zbepi zy
 
 @c    4:5. And I have laid upon thee the years of their iniquity, according
 @c    to the number of the days three hundred and ninety days:  and thou shalt
 @c    bear the iniquity of the house of Israel.
+4:5. .i le se nanca be le zazypalci cu du le se djedi lenu do vreta kei
+li cisono .ije ko bevri le zazypalci be le lanzu be la .isra,EL
 
 @c    4:6. And when thou hast accomplished this, thou shalt sleep again upon
 @c    thy right side, and thou shalt take upon thee the iniquity of the house
 @c    of Juda forty days:  a day for a year, yea, a day for a year I have
 @c    appointed to thee.
+4:6. ni'o mo'ubo ko vreta fi'o zbepi le pritu mlana gi'e bevri le zazypalci
+be le lanzu be la .ie'uDAS ca'o le djedi be li vono .i mi gasnu lenu le
+se djedi cu dunli le se nanca
 
 @c    4:7. And thou shalt turn thy face to the siege of Jerusalem and thy arm
 @c    shall be stretched out:  and thou shalt prophesy against it.
+4:7. .i ko zgana lenu srugunta la .ierucala,im le flira be do .ije 
 
 @c    4:8. Behold I have encompassed thee with bands:  and thou shalt not turn
 @c    thyself from one side to the other, till thou hast ended the days of
@@ -346,6 +363,10 @@
 @c    millet, and fitches, and put them in one vessel, and make thee bread
 @c    thereof according to the number of the days that thou shalt lie upon
 @c    thy side:  three hundred and ninety days shalt thou eat thereof.
+4:9. ni'o ko lebna loi maxri .e loi bavmi .e loi dembi .e loi lendembi .e
+loi cunmi .e loi maxrnspelta gi'e punji rora pa vasru gi'e zbasu lo nanba
+rora .i ca'o lenu do vreta fi'o zbepi le mlana ku ko citka ca'o le djedi
+be li cisono
 
 @c    4:10. And thy meat that thou shalt eat, shall be in weight twenty
 @c    staters a day:  from time to time thou shalt eat it.
@@ -358,6 +379,8 @@
 @c    4:12. And thou shalt eat it as barley bread baked under the ashes:  and
 @c    thou shalt cover it, in their sight, with the dung that cometh out of a
 @c    man.
+4:12. .i ko citka ny setai lenu citka lo bavmi nanba .i ko tokyjukpa ny
+fi'o livla lo remna kalci ga'a fo'a
 
 @c    4:13. And the Lord said:  So shall the children of Israel eat their
 @c    bread all filthy among the nations whither I will cast them out.
@@ -369,6 +392,8 @@
 
 @c    4:15. And he said to me:  Behold I have given thee neat's dung for man's
 @c    dung, and thou shalt make thy bread therewith.
+4:15. .i ko'a cusku lu .e'a loi bakni kalci cu basti loi remna kalci lenu ko
+zbasu le nanba li'u mi
 
 @c    4:16. And he said to me:  Son of man:  Behold, I will break in pieces the
 @c    staff of bread in Jerusalem:  and they shall eat bread by weight, and

@@ -19,15 +19,22 @@
 
 @c    1:1. These are the names of the children of Israel, that went into
 @c    Egypt with Jacob:  they went in every man with his household:
+1:1. ni'oni'o di'e cmene le panzi be la .isra,EL poi kansa la .iaKOV lenu nerkla
+la misra,im zi'e noi roce'u cu se kansa le ce'u lanzu
 
 @c    1:2. Ruben, Simeon, Levi, Juda,
+1:2. .i zo ruVEN .e zo cim,ON .e zo .ie'uDAS
 
 @c    1:3. Issachar, Zabulon, and Benjamin,
+1:3 .e zo .isasxar .e zo zyvuLUN .e zo biniaMIN.
 
 @c    1:4. Dan, and Nephthali, Gad and Aser.
+1:4 .e zo dan .e zo naftaLIS. .e zo gad .e zo .aCER.
 
 @c    1:5. And all the souls that came out of Jacob's thigh, were seventy:
 @c    but Joseph was in Egypt.
+1:5. .i le'i ro prenu poi selkra le plibu be la .iaKOV cu se kancu fi li zeno
+.iku'i la .ioSEF pujeca zvati la misra,im
 
 @c    1:6. After he was dead, and all his brethren, and all that generation,
 
@@ -109,6 +116,9 @@
 @c    2:3. And when she could hide him no longer, she took a basket made of
 @c    bulrushes, and daubed it with slime and pitch:  and put the little babe
 @c    therein, and laid him in the sedges by the river's brink,
+2:3. .iba'o lenu ka'e mipri kei ko'e lebna le spatrskirpo lanku gi'e badgau
+lo tarla joi pesxu ly gi'e nerpu'i le cifnu ly gi'e punji ly le misryplespa
+ne'a la nil.
 
 @c    2:4. His sister standing afar off, and taking notice what would be
 @c    done.
