@@ -19,8 +19,8 @@
 @c    way I want to go!  Let me see:  I'll give them a new pair of
 @c    boots every Christmas.'
 
-i lu cizra je bizra sei la alis krixa to abu tai se spaji ja'e le nu
-ze'a tolmorji le nu ta'i makau tavla bau le drani lojbo toi i caku mi
+i lu cizyzyze'a je cizyze'a sei la alis krixa to abu tai se spaji ja'e le 
+nu ze'a tolmorji le nu ta'i makau tavla bau le drani lojbo toi i caku mi
 se tolplo tai tu'a le brarai darvistci i co'o jamfu to ca le nu abu
 catlu lei abu jamfu kei jy simlu le ka jibni le nu na ka'e se viska
 ki'u le nu ca'o binxo lo tai darno toi i uu doi cmalu jamfu ma do ba
@@ -33,6 +33,7 @@ dunda ca ro cevjbetersla lo cnino cutci remei li'u
 @c would make. What she means to say, I think, is {cizyze'a}; perhaps
 @c she says {cizyzma} instead (for which the usual form of course is
 @c {cizmau} but she gets the two words mixfused). -phma
+@c How about {cizyzyze'a je cizyze'a}? --xorxes
 
 @c      And she went on planning to herself how she would manage it.
 @c    `They must go by the carrier,' she thought; `and how funny it'll
@@ -41,9 +42,9 @@ dunda ca ro cevjbetersla lo cnino cutci remei li'u
 
 i abu ca'o platu le nu ta'i makau co'e i lu ei lei cutci cu se mrilu sei
 abu pensi i ba xajmi fa le nu benji loi seldu'a le vo'a jamfu i ua le
-judri ba simlu le ka cizra .i
+judri ba simlu le ka cizra i
 @c without {i} this means "How strange the address will seem to Alice's
-@c honorable right foot..." -phma
+@c honorable right foot..." -phma  --ok
 
 @c    @format
 @c                ALICE'S RIGHT FOOT, ESQ.
@@ -92,6 +93,7 @@ i i'enai ca'o tai klaku i le'o ko ca sisti li'u i ku'i abu za'o klaku
 loi litce be li so'i ja'e le nu abu se sruri lo barda lalxu noi centre
 li ji'ipano le ka condi gi'e preja le xadba be le kumfa
 @c {tai klaku} does not parse. Neither does {taiku klaku}.
+@c Parser bug? What's wrong with it? --xorxes
 
 @c      After a time she heard a little pattering of feet in the
 @c    distance, and she hastily dried her eyes to see what was coming.
@@ -113,11 +115,11 @@ remei ku fa'u lo barda bifpra le re xance i ry sutra bajra klama gi'e
 sezysku lu oi le noltroni'u zo'u ba'a ny ba cilce fengu va'o le nu mi
 gasnu le nu ny denpa li'u i la alis cu tai cinmo le nu tolpacna kei
 ja'e le nu bredi le nu cpedu le nunsidju roda iseki'ubo ca le nu le
-ractu abu jibni kei abu co'a co'e sepi'o lo dizlo je toldarsi voksa
+ractu abu jibni kei abu co'a co'e sepi'o lo lauble je toldarsi voksa
 lu pe'u doi ractu li'u i le ractu cu suksa se jenca gi'e falcru lei
 blabi ke kanba gluta e le bifpra gi'e bajra mo'ine'i le manku rai
 le ka sutra
-@c dizlo ki'a voksa?
+@c dizlo ki'a voksa? Changed to {lauble}.
 
 @c      Alice took up the fan and gloves, and, as the hall was very
 @c    hot, she kept fanning herself all the time she went on talking:
@@ -326,6 +328,7 @@ sy cusku noda
 @c the declension has to be in lo'u-le'u as it's words out of grammatical
 @c context. -phma
 
+
 @c      `Perhaps it doesn't understand English,' thought Alice; `I
 @c    daresay it's a French mouse, come over with William the
 @c    Conqueror.'  (For, with all her knowledge of history, Alice had
@@ -339,13 +342,13 @@ sy cusku noda
 i cumki fa le nu ta na se bangu le lojbo sei la alis pensi i ru'a ta
 fraso smacu gi'e kansa la uiliam no'u le jamji'a le ka klama ti li'u
 to abu djuno piso'ida lei purcedra gi'eku'i na mutce le ka jimpe le
-du'u py pu fasnu za makau toi i abu za'ure'u co'a co'e zoi fy Où est
+du'u py pu fasnu za makau toi i abuboi za'ure'u co'a co'e zoi fy Où est
 ma chatte? fy noi pamoi lei jufra pe le abu fraso ve cilre cukta i le
 smacu cu suksa plipe le bartu be le djacu gi'e simlu le ka desku le
 nu terpa i lu oise'i ko mi fraxu sei la alis noi xersmadi le du'u abu
 crogau le danlu le cnirango cu sutra krixa i mi mulno le ka tolmorji
 le nu do na nelci lo'e mlatu li'u
-@c {abu za'ure'u} is an error.
+@c {abu za'ure'u} is an error. -fixed
 
 @c      `Not like cats!' cried the Mouse, in a shrill, passionate
 @c    voice.  `Would YOU like cats if you were me?'
@@ -440,4 +443,6 @@ lo cipnrlori lo cipnrxakuila so'o drata noi vrici je cizra danlu i
 la alis lidne i piro le girzu cu limna seka'a le korbi
 @c lo datka lo cipnrdodo: This needs a conjunction, otherwise it means
 @c "The duck did the dodo..." with the verb unspecified. --phma
+@c The relationship, not the verb! The unspecified relationship is
+@c "x1 and x2 and x3 and x4 were there" (or "crowd the pool", or whatever.)
 
