@@ -4,6 +4,53 @@
 * papipamo'o::	[The Book Of Genesis]
 @end menu
 
+@include ot-genesis.texinfo
+@include ot-exodus.texinfo
+@include ot-leviticus.texinfo
+@include ot-numbers.texinfo
+@include ot-deuteronomy.texinfo
+@include ot-josue.texinfo
+@include ot-judges.texinfo
+@include ot-ruth.texinfo
+@include ot-1_kings.texinfo
+@include ot-2_kings.texinfo
+@include ot-3_kings.texinfo
+@include ot-4_kings.texinfo
+@include ot-1_paralipomenon.texinfo
+@include ot-2_paralipomenon.texinfo
+@include ot-1_esdras.texinfo
+@include ot-2_esdras.texinfo
+@include ot-tobias.texinfo
+@include ot-judith.texinfo
+@include ot-esther.texinfo
+@include ot-job.texinfo
+@include ot-psalms.texinfo
+@include ot-proverbs.texinfo
+@include ot-ecclesiastes.texinfo
+@include ot-canticle_of_canticles.texinfo
+@include ot-wisdom.texinfo
+@include ot-ecclesiasticus.texinfo
+@include ot-isaias.texinfo
+@include ot-jeremias.texinfo
+@include ot-lamentations.texinfo
+@include ot-baruch.texinfo
+@include ot-ezechiel.texinfo
+@include ot-daniel.texinfo
+@include ot-osee.texinfo
+@include ot-joel.texinfo
+@include ot-amos.texinfo
+@include ot-abdias.texinfo
+@include ot-jonas.texinfo
+@include ot-micheas.texinfo
+@include ot-nahum.texinfo
+@include ot-habacuc.texinfo
+@include ot-sophonias.texinfo
+@include ot-aggeus.texinfo
+@include ot-zacharias.texinfo
+@include ot-malachias.texinfo
+@include ot-1_machabees.texinfo
+@include ot-2_machabees.texinfo
+
 @c    
 @c    
 @c    The Old Testament

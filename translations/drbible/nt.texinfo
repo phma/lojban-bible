@@ -1,7 +1,38 @@
 @node remo'o, cimo'o, pamo'o, Top
 
+@menu
+@c * repipamo'o::	[Gospel According to St. Matthew]
+@end menu
+
 @c    THE NEW TESTAMENT OF OUR LORD AND SAVIOUR JESUS CHRIST
 
+@include nt-matthew.texinfo
+@include nt-mark.texinfo
+@include nt-luke.texinfo
+@include nt-john.texinfo
+@include nt-acts.texinfo
+@include nt-romans.texinfo
+@include nt-1_corinthians.texinfo
+@include nt-2_corinthians.texinfo
+@include nt-galatians.texinfo
+@include nt-ephesians.texinfo
+@include nt-philippians.texinfo
+@include nt-colossians.texinfo
+@include nt-1_thessalonians.texinfo
+@include nt-2_thessalonians.texinfo
+@include nt-1_timothy.texinfo
+@include nt-2_timothy.texinfo
+@include nt-titus.texinfo
+@include nt-philemon.texinfo
+@include nt-hebrews.texinfo
+@include nt-james.texinfo
+@include nt-1_peter.texinfo
+@include nt-2_peter.texinfo
+@include nt-1_john.texinfo
+@include nt-2_john.texinfo
+@include nt-3_john.texinfo
+@include nt-jude.texinfo
+@include nt-apocalypse.texinfo
 
 @c    The New Testament
 @c

@@ -1,3 +1,75 @@
+@node 	  papipamo'o, papipapipamo'o, pamo'o, pamo'o
+@chapter  papipamo'o krasi
+@comment  node-name, next,      previous,  up
+
+@menu
+* papipapipamo'o::	[Genesis Chapter 1]
+* papipapiremo'o::	[Genesis Chapter 2]
+* papipapicimo'o::	[Genesis Chapter 3]
+@c * papipapivomo'o::	[Genesis Chapter 4]
+@c * papipapimumo'o::	[Genesis Chapter 5]
+@c * papipapixamo'o::	[Genesis Chapter 6]
+@c * papipapizemo'o::	[Genesis Chapter 7]
+@c * papipapibimo'o::	[Genesis Chapter 8]
+@c * papipapisomo'o::	[Genesis Chapter 9]
+@c 
+@c * papipapipanomo'o::	[Genesis Chapter 10]
+@c * papipapipapamo'o::	[Genesis Chapter 11]
+@c * papipapiparemo'o::	[Genesis Chapter 12]
+@c * papipapipacimo'o::	[Genesis Chapter 13]
+@c * papipapipavomo'o::	[Genesis Chapter 14]
+@c * papipapipamumo'o::	[Genesis Chapter 15]
+@c * papipapipaxamo'o::	[Genesis Chapter 16]
+@c * papipapipazemo'o::	[Genesis Chapter 17]
+@c * papipapipabimo'o::	[Genesis Chapter 18]
+@c * papipapipasomo'o::	[Genesis Chapter 19]
+@c 
+@c * papipapirenomo'o::	[Genesis Chapter 20]
+@c * papipapirepamo'o::	[Genesis Chapter 21]
+@c * papipapireremo'o::	[Genesis Chapter 22]
+@c * papipapirecimo'o::	[Genesis Chapter 23]
+@c * papipapirevomo'o::	[Genesis Chapter 24]
+@c * papipapiremumo'o::	[Genesis Chapter 25]
+@c * papipapirexamo'o::	[Genesis Chapter 26]
+@c * papipapirezemo'o::	[Genesis Chapter 27]
+@c * papipapirebimo'o::	[Genesis Chapter 28]
+@c * papipapiresomo'o::	[Genesis Chapter 29]
+@c 
+@c * papipapicinomo'o::	[Genesis Chapter 30]
+@c * papipapicipamo'o::	[Genesis Chapter 31]
+@c * papipapiciremo'o::	[Genesis Chapter 32]
+@c * papipapicicimo'o::	[Genesis Chapter 33]
+@c * papipapicivomo'o::	[Genesis Chapter 34]
+@c * papipapicimumo'o::	[Genesis Chapter 35]
+@c * papipapicixamo'o::	[Genesis Chapter 36]
+@c * papipapicizemo'o::	[Genesis Chapter 37]
+@c * papipapicibimo'o::	[Genesis Chapter 38]
+@c * papipapicisomo'o::	[Genesis Chapter 39]
+@c 
+@c * papipapivonomo'o::	[Genesis Chapter 40]
+@c * papipapivopamo'o::	[Genesis Chapter 41]
+@c * papipapivoremo'o::	[Genesis Chapter 42]
+@c * papipapivocimo'o::	[Genesis Chapter 43]
+@c * papipapivovomo'o::	[Genesis Chapter 44]
+@c * papipapivomumo'o::	[Genesis Chapter 45]
+@c * papipapivoxamo'o::	[Genesis Chapter 46]
+@c * papipapivozemo'o::	[Genesis Chapter 47]
+@c * papipapivobimo'o::	[Genesis Chapter 48]
+@c * papipapivosomo'o::	[Genesis Chapter 49]
+@c 
+@c * papipapimunomo'o::	[Genesis Chapter 50]
+@c * papipapimupamo'o::	[Genesis Chapter 51]
+@c * papipapimuremo'o::	[Genesis Chapter 52]
+@c * papipapimucimo'o::	[Genesis Chapter 53]
+@c * papipapimuvomo'o::	[Genesis Chapter 54]
+@c * papipapimumumo'o::	[Genesis Chapter 55]
+@c * papipapimuxamo'o::	[Genesis Chapter 56]
+@c * papipapimuzemo'o::	[Genesis Chapter 57]
+@c * papipapimubimo'o::	[Genesis Chapter 58]
+@c * papipapimusomo'o::	[Genesis Chapter 59]
+@end menu
+
+
 @c    THE BOOK OF GENESIS
 KRASI
 
@@ -12,6 +84,9 @@ KRASI
 
 
 @c    Genesis Chapter 1
+@node 	  papipapipamo'o, papipapiremo'o, papipamo'o, papipamo'o
+@comment  node-name, next,      previous,  up
+@section  papipapipamo'o [Genesis Chapter 1]
 
 
 @c    God createth Heaven and Earth, and all things therein, in six days.
@@ -242,6 +317,9 @@ xamgu
 
 
 @c    Genesis Chapter 2
+@node     papipapiremo'o, papipapicimo'o, papipapipamo'o, papipamo'o
+@comment  node-name, next,      previous,  up
+@section  papipapiremo'o [Genesis Chapter 2]
 
 
 @c    God resteth on the seventh day and blesseth it.  The earthly paradise,
@@ -398,6 +476,9 @@ speni .ibo le remei cu binxo pa rectu toi
 
 
 @c    Genesis Chapter 3
+@node     papipapicimo'o,    , papipapiremo'o, papipamo'o
+@comment  node-name, next,      previous,  up
+@section  papipapicimo'o [Genesis Chapter 3]
 
 
 @c    The serpent's craft.  The fall of our first parents.  Their punishment.

@@ -85,3 +85,7 @@ translation here.
 @c ************
 @c The rest of the text is now in the other files in the directory where
 @c you found this one.
+
+@include ot.texinfo
+@include nt.texinfo
+@include appendices.texinfo
