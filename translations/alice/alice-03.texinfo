@@ -31,9 +31,9 @@ i le pamoi co preti cu li'a du'u ta'i makau rere'u sudga i casnu la'edi'u
 ijebabo zi lo mentu be li so'u simlu le ka rarna kei fa le nu la alis
 goi ko'a cu facki le du'u ko'a pendo tavla ra setaida'i le nu
 ko'a se slabu ra roroi le nu ko'a jmive i je'u ko'a pu je'aze'u daupro
-la loris noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
+la cipnrlori noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
 junmau li'u po'o ije la'edi'u zo'u la alis na curmi secau le nu
-djuno le du'u ly jai nanca makau ije ki'u le nu la loris cu je'a tolsarxe
+djuno le du'u ly jai nanca makau ije ki'u le nu la cipnrlori cu je'a tolsarxe
 le nu cusku le du'u makau se jai nanca ly na se sumji se cusku
 
 @c      At last the Mouse, who seemed to be a person of authority among
@@ -64,7 +64,7 @@ la nortumbrias li'u li'u
 
 @c      `Ugh!' said the Lory, with a shiver.
 
-i lu o'unai sei la loris cusku je desku li'u
+i lu o'unai sei la cipnrlori cusku je desku li'u
 
 @c      `I beg your pardon!' said the Mouse, frowning, but very
 @c    politely:  `Did you speak?'
@@ -74,7 +74,7 @@ i xu do cusku li'u
 
 @c      `Not I!' said the Lory hastily.
 
-i lu na'ebo mi sei la loris sutra co cusku li'u
+i lu na'ebo mi sei la cipnrlori sutra co cusku li'u
 
 @c      `I thought you did,' said the Mouse.  `--I proceed.  "Edwin and
 @c    Morcar, the earls of Mercia and Northumbria, declared for him:
