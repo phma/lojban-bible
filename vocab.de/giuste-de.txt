@@ -342,3 +342,26 @@
   falnu fan - -  /Segel/  x1 ist ein Segel zum Sammeln von Antriebsmaterial x2 auf Fahrzeug/Motor x3
   famti - - -  /Tante oder Onkel/  x1 ist eine Tante/ein Onkel von x2 mit/durch Beziehung x3; x1 ist ein Verwandter/zugehöriges Mitglied der Generation von x2s Eltern
   fancu - - -  /Funktion/  x1 ist eine Funktion/Abbildung von Definitionsbereich/Urbild x2 auf Bildbereich x3, definiert durch Ausdruck/Regel x4
+  fange - - -  /ausländisch/  x1 ist ausländisch/fremd/fremdartig/[[exotisch] für x2 in Eigenschaft x3 (ka)  
+  fanmo fam - fa'o  /Ende/  x1 ist ein Ende/Abschluss von Gegenstand/Prozess x2; [[bedingt nicht unbedingt Vollständigkeit]  
+  fanri - - -  /Fabrik/  x1 ist eine Fabrik/eine Gießerei/ein Werk/eine Mühle und stellt x2 aus Rohmaterial x2 her  
+  fanta - - -  /verhindern/  x1 verhindert, dass Ereignis x2 eintritt  
+  fanva - - -  /übersetzen/  x1 übersetzt Text/Ausdruck x2 in Sprache x3 aus Sprache x4 mit Übersetzungsergebnis x5  
+  fanza faz - -  /belästigen/  x1 (Ereignis) belästigt/ärgert/reizt x2  
+  fapro fap pro -  /entgegenstellen/  x1 stellt sich x2 entgegen/ist ein Gegengewicht für x2 (Person/Kraft/Masse) in Bezug auf x3 (Abstrakt)  
+  farlu fal - fa'u  /fallen/  x1 fällt/stürzt auf x2 von x3 in Schwerkraftfeld/Bezugssystem x4  
+  farna far - fa'a  /Richtung/  x1 ist die Richtung von x2 (Objekt/Ereignis) relativ zu Ausgangspunkt/in Bezugssystem x3  
+  farvi fav - -  /entwickeln/  x1 entwickelt/entfaltet sich zu x2 aus x3 durch Zwischenschritte/Stufen x4  
+  fasnu - - fau  /Ereignis/  x1 (Ereignis) ist ein Ereignis, welches eintritt/stattfindet/geschieht; x1 ist ein Vorfall/eine Begebenheit  
+  fatci fac - -  /Fakt/  x1 (du'u) ist ein Fakt/real/wahr/eine Tatsache (absolut gesehen)  
+  fatne fat - fa'e  /umgekehrt/  x1 [[Folge] ist in umgekehrter Reihenfolge vergleichen mit x2 [[Folge]; x1 (Objekt) ist umgekehrt in Bezug auf x2 (Objekt)  
+  fatri - - fai  /verteilen/  x1 wird verteilt/zugemessen/zugewiesen unter x2 mit Anteilen/Portionen/Teilen x3; (x2/x3 fa'u)  
+  febvi feb - -  /kochen/  x1 kocht/siedet/verdampft bei Temperatur x2 und Druck x3  
+  femti fem - -  /1E-15/  x1 ist 1x10**-15 von x2 in Dimension/Aspekt x3 (Default: Einheiten)  
+  fendi fed - -  /teilen/  x1 (Handelnder) teilt x2 in Teile/Abschnitte x3 mit Methode/Aufteilung x4  
+  fengu feg - fe'u  /ärgerlich/  x1 ist ärgerlich auf/verärgert über x2 wegen x3 (Aktion/Zustand/Eigenschaft)  
+  fenki fek - -  /verrückt/  x1 (Aktion/Ereignis) ist verrückt/wahnsinnig/geisteskrank/rasend gemäß Standard x2  
+  fenra fer - fe'a /Spalte/  x1 ist eine Spalte/ein Riss/ein Sprung/eine Kluft/ein Pass/eine Schlucht/[[ein Defekt/ein Makel] [[Form] in x2  
+  fenso fen - fe'o /nähen/  x1 näht/stickt Materialien x2 (einzeln/Menge) zusammen mit Werkzeug(en) x3 und Draht/Faden/Garn x4  
+  fepni fep - fei /Cent/  x1 wird gemessen in Kopeken/Cent/Pennies/Gelduntereinheiten als x2 [[Mengenangabe] in Geldsystem x3  
+  fepri - - - /Lunge/  x1 ist eine/die Lunge [[Körperteil] von x2; [[im übertragenen Sinne: Atmung/Blasebalg]  
