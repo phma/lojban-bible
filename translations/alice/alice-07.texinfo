@@ -406,7 +406,7 @@ i lu di'a sei la mapypre di'a cusku di'e
 
                   i do munje gapru vofli 
                   si'a tcatypalne trofli
-                             gu'irgu'i
+                          i gu'irgu'i
 
 
 @c    Here the Dormouse shook itself, and began singing in its sleep
@@ -422,105 +422,244 @@ nu tunta sy kei le nu stigau sy
 @c    `when the Queen jumped up and bawled out, "He's murdering the
 @c    time!  Off with his head!"'
 
+i lu no'i mi puziba'o mulgau le pamoi pempau sei la mapypre cu cusku
+ca le nu le noltruni'u cu zunti gi'e krixa lu my catra le temci i ko 
+le stedu my vimcu li'u
+ 
+
 @c      `How dreadfully savage!' exclaimed Alice.
+
+i lu oi selte'a cilce li'u se ki'asku la alis
+
 
 @c      `And ever since that,' the Hatter went on in a mournful tone,
 @c    `he won't do a thing I ask!  It's always six o'clock now.'
 
+i lu co'a la'e di'u sei la mapypre di'a tolgei cusku ty na zukte da
+poi mi cpedu i ca ru'i tcika fa li xa li'u
+
+
 @c      A bright idea came into Alice's head.  `Is that the reason so
 @c    many tea-things are put out here?' she asked.
+
+i lo carmi sidbo cu nerkla le stedu be la alis i lu ua xu la'e di'u
+krinu le nu so'i ua tcati dacti cu zvati li'u preti fi abu
+
 
 @c      `Yes, that's it,' said the Hatter with a sigh:  `it's always
 @c    tea-time, and we've no time to wash the things between whiles.'
 
+i lu ja'a go'i li'u se cusku la mapypre pa'a le nu va'urpante i lu 
+ru'i tcika le tcati sanmi i mi'a noroi ka'e lumci lei dacti ca le 
+jbini li'u
+
+
 @c      `Then you keep moving round, I suppose?' said Alice.
+
+i lu ja'o ru'a do za'o muvdu fo lo cukla li'u se cusku la alis
+
 
 @c      `Exactly so,' said the Hatter:  `as the things get used up.'
 
+i lu sa'e go'i sei la mapypre cusku roroi le nu so'o le dacti mo'u 
+se xaksu li'u 
+
+
 @c      `But what happens when you come to the beginning again?' Alice
 @c    ventured to ask.
+
+i lu ku'i ma fasnu ca le nu do za'ure'u tolcliva le cfari li'u zo'u
+la alis darsi le nu te preti
+ 
 
 @c      `Suppose we change the subject,' the March Hare interrupted,
 @c    yawning.  `I'm getting tired of this.  I vote the young lady
 @c    tells us a story.'
 
+i lu e'u ma'a galfi le se casnu li'u zo'u la cibmoimasti cicyractu 
+cu zunti ca le nu sipydji jarco i lu mi ti tatpi i mi sarji le nu
+da lisri zo'e le citno ninmu ma'a li'u  
+
+
 @c      `I'm afraid I don't know one,' said Alice, rather alarmed at
 @c    the proposal.
 
+i lu u'u noda mi slabu li'u se cusku la alis noi xanka le se stidi
+
+
 @c      `Then the Dormouse shall!' they both cried.  `Wake up,
 @c    Dormouse!'  And they pinched it on both sides at once.
+
+i lu va'o la'e di'u le sipsmacu ba co'e li'u le remei cu se krixa
+i lu ko cikybi'o doi sipsmuci li'u i ko'a sy tunta le re mlana
+ca le mintu
+
 
 @c      The Dormouse slowly opened his eyes.  `I wasn't asleep,' he
 @c    said in a hoarse, feeble voice:  `I heard every word you fellows
 @c    were saying.'
 
+i le sipsmacu cu masno kargau le kanla i lu mi na pu sipna li'u zo'u
+sy cusku sepi'o lo rufsu je ruble voksa i lu mi pu tirna ro valsi poi
+do doi cimei ca'o cusku li'u
+
+
 @c      `Tell us a story!' said the March Hare.
+
+i lu ko te lisri fo mi'a li'u se cusku cycy
+
 
 @c      `Yes, please do!' pleaded Alice.
 
+i lu e'o go'i pe'u li'u se cpesku la alis
+
+
 @c      `And be quick about it,' added the Hatter, `or you'll be asleep
 @c    again before it's done.'
+
+i lu ji'a ko sutra li'u se jmina la mapypre i lu iseva'onaibo 
+do ba sipna pu le nu mulno li'u
+
 
 @c      `Once upon a time there were three little sisters,' the
 @c    Dormouse began in a great hurry; `and their names were Elsie,
 @c    Lacie, and Tillie; and they lived at the bottom of a well--'
 
+i lu puzuvuku ci cmalu mensi zo'u sei le sipsmacu cu mutce sutra 
+tolsisti zo elsis fa'u zo leisis fa'u zo tilis my cmene i my xabju
+le loldi be lo jinto li'u
+
+
 @c      `What did they live on?' said Alice, who always took a great
 @c    interest in questions of eating and drinking.
+
+i lu ma my cidja li'u se cusku la alis noi roroi se cinri le nu
+citka je pinxe makau li'u
+
 
 @c      `They lived on treacle,' said the Dormouse, after thinking a
 @c    minute or two.
 
+i lu lo satyjisra my cidja li'u se cusku le sipsmacu ba le nu pensi
+ze'a lo mentu be li paji'ire
+
+
 @c      `They couldn't have done that, you know,' Alice gently
 @c    remarked; `they'd have been ill.'
 
+i lu ka'u ka'enai go'i li'u xendo pinka fi la alis i lu i va'oku 
+my bilma li'u 
+
+
 @c      `So they were,' said the Dormouse; `VERY ill.'
+
+i lu ja'a go'i li'u se cusku le sipsmacu i lu ba'e mutce le ka
+bilma li'u
+
 
 @c      Alice tried to fancy to herself what such an extraordinary ways
 @c    of living would be like, but it puzzled her too much, so she went
 @c    on:  `But why did they live at the bottom of a well?'
 
+i la alis troci le nu se xanri le nu le tolfadni ke jmive tadji cu 
+simsa makau i ku'i dukse le ka cfipu abu iseki'ubo abu di'a cusku
+lu i ku'i ki'u ma my xabju le loldi be lo jinto li'u
+
+
 @c      `Take some more tea,' the March Hare said to Alice, very
 @c    earnestly.
+
+i lu ko za'ure'u pinxe lo tcati li'u mutce junri se cusku cycy la alis 
+
 
 @c      `I've had nothing yet,' Alice replied in an offended tone, `so
 @c    I can't take more.'
 
+i lu mi noroi pu pinxe li'u la alis se cnixai se spuda i lu iseki'ubo 
+mi ka'enai za'ure'u go'i li'u
+
+
 @c      `You mean you can't take LESS,' said the Hatter:  `it's very
 @c    easy to take MORE than nothing.'
 
+i lu do skudji le du'u do ka'enai ba'e me'ire'u pinxe li'u se cusku la
+mapypre i frili fa le nu za'unore'u go'i li'u 
+
+
 @c      `Nobody asked YOUR opinion,' said Alice.
+
+i lu noda cpedu le ba'e do seljinvi li'u se cusku la alis
+
 
 @c      `Who's making personal remarks now?' the Hatter asked
 @c    triumphantly.
+
+i lu ma cusku loi prenu pinka caku li'u la mapypre cu jinga se reisku
+
 
 @c      Alice did not quite know what to say to this:  so she helped
 @c    herself to some tea and bread-and-butter, and then turned to the
 @c    Dormouse, and repeated her question.  `Why did they live at the
 @c    bottom of a well?'
 
+i la alis na kakne le nu spuda fi makau iseki'ubo abu sezyse'u le nu
+cpacu lo tcati e lo nanba joi matne kei gi'ebabo rere'u te preti fo
+le sipsmacu fi lu ki'u ma my xabju le loldi be lo jinto li'u
+  
+
 @c      The Dormouse again took a minute or two to think about it, and
 @c    then said, `It was a treacle-well.'
+
+i le sipsmacu za'ure'u pensi ze'a lo mentu be li paji'ire gi'e ba
+cusku lu jy satyjisra jinto li'u
+
 
 @c      `There's no such thing!'  Alice was beginning very angrily, but
 @c    the Hatter and the March Hare went `Sh! sh!' and the Dormouse
 @c    sulkily remarked, `If you can't be civil, you'd better finish the
 @c    story for yourself.'
 
+i lu o'onai no go'i cu zasti li'u co'a fengu se cusku la alis i ku'i
+la mapypre e cycy bacru zoi sance c c sance i le sipsmacu cu pante te 
+pinka fi lu va'o le nu do na ka'e clite kei e'e do se'a mulgau le lisri 
+li'u 
+
+
 @c      `No, please go on!' Alice said very humbly; `I won't interrupt
 @c    again.  I dare say there may be ONE.'
+
+i lu na go'i i e'o do ja'a di'a go'i li'u la alis mutce cumla se cusku
+i lu mi na ba za'ure'u zunti i i'a cumki fa le nu ba'e pa go'a cu zasti
+li'u
+
 
 @c      `One, indeed!' said the Dormouse indignantly.  However, he
 @c    consented to go on.  `And so these three little sisters--they
 @c    were learning to draw, you know--'
 
+i lu zasti ju'o li'u se si'arxai se cusku le sipsmacu i ku'i sy nalpro
+le nu depsti i lu i lei bi'unai ci cmalu mensi noi ta'o cilre le nu 
+te pixra li'u 
+ 
+
 @c      `What did they draw?' said Alice, quite forgetting her promise.
+
+i lu pixra ma my li'u se cusku la alis noi ca'o tolmorji le se nupre
+
 
 @c      `Treacle,' said the Dormouse, without considering at all this
 @c    time.
 
+
+i lu lo satyjisra li'u se cusku le sipsmacu caku secau le nu pensi 
+
+
 @c      `I want a clean cup,' interrupted the Hatter:  `let's all move
 @c    one place on.'
+
+i lu mi djica lo'e jinsa kabri li'u zo'u la mapypre cu zunti i lu
+e'u roma'a muvdu le lamji stuzi li'u 
+
 
 @c      He moved on as he spoke, and the Dormouse followed him:  the
 @c    March Hare moved into the Dormouse's place, and Alice rather
@@ -528,6 +667,13 @@ nu tunta sy kei le nu stigau sy
 @c    only one who got any advantage from the change:  and Alice was a
 @c    good deal worse off than before, as the March Hare had just upset
 @c    the milk-jug into his plate.
+
+i my muvdu ca le nu cusku i le sipsmacu my jersi i la cibmoimasti 
+cicyractu cu muvdu le se zvati be le sipsmacu i la alis noi banzu
+naldjica cu basti cycy le ka ce'u zvati makau i la mapypre po'o
+cu se prali da le nungalfi i la alis se tolprali lo mutce ki'u le nu 
+la cibmoimasti cicyractu puzi falcru le ladru botpi le cycy palta
+
 
 @c      Alice did not wish to offend the Dormouse again, so she began
 @c    very cautiously:  `But I don't understand.  Where did they draw
