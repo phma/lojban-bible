@@ -122,6 +122,7 @@
 <row><entry><foreignphrase lang="art-lojban">cifnu</foreignphrase></entry><entry>infant</entry><entry>x1 is an infant/baby [helpless through youth/incomplete development] of species x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cilre</foreignphrase></entry><entry>learn</entry><entry>x1 learns x2 (du'u) about subject x3 from source x4 (obj./event) by method x5 (event/process)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinba</foreignphrase></entry><entry>kiss</entry><entry>x1 (agent) kisses/busses x2 at locus x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cinmo</foreignphrase></entry><entry>emotion</entry><entry>x1 feels emotion x2 (ka) about x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinri</foreignphrase></entry><entry>interesting</entry><entry>x1 (abstraction) interests/is interesting to x2; x2 is interested in x1</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinta</foreignphrase></entry><entry>paint</entry><entry>x1 [material] is a paint of pigment/active substance x2, in a base of x3 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinynei</foreignphrase></entry><entry>fancy</entry><entry>x1 fancies x2 (<foreignphrase lang="art-lojban">cinse</foreignphrase> <quote role="gloss">sex</quote> + <foreignphrase lang="art-lojban">nelci</foreignphrase> <quote role="gloss">like</quote>)</entry></row>
@@ -665,6 +666,7 @@
 <row><entry><foreignphrase lang="art-lojban">ty</foreignphrase></entry><entry>t</entry><entry>letteral for t</entry></row>
 <row><entry><foreignphrase lang="art-lojban">va</foreignphrase></entry><entry>there at</entry><entry>location tense distance: near to ... ; there at ...; a medium/small distance from ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vai</foreignphrase></entry><entry>15</entry><entry>digit/number: hex digit F</entry></row>
+<row><entry><foreignphrase lang="art-lojban">vajni</foreignphrase></entry><entry>important</entry><entry>x1 (object/event) is important/significant to x2 (person/event) in aspect/for reason x3 (nu/ka)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">valsi</foreignphrase></entry><entry>word</entry><entry>x1 is a word meaning/causing x2 in language x3; (adjective: x1 is lexical/verbal)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vanbi</foreignphrase></entry><entry>environment</entry><entry>x1 (ind./mass) is part of an environment/surroundings/context/ambience of x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vanju</foreignphrase></entry><entry>wine</entry><entry>x1 is made of/contains/is a quantity of wine from fruit/grapes x2</entry></row>
@@ -690,6 +692,7 @@
 <row><entry><foreignphrase lang="art-lojban">voksa</foreignphrase></entry><entry>voice</entry><entry>x1 is a voice/speech sound of individual x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vo'o</foreignphrase></entry><entry>x4 it</entry><entry>pro-sumti: repeats 4th place of main bridi of this sentence</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vo'u</foreignphrase></entry><entry>x5 it</entry><entry>pro-sumti: repeats 5th place of main bridi of this sentence</entry></row>
+<row><entry><foreignphrase lang="art-lojban">vrude</foreignphrase></entry><entry>virtue</entry><entry>x1 is virtuous/saintly/[fine/moral/nice/holy/morally good] by standard x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vu</foreignphrase></entry><entry>yonder at</entry><entry>location tense distance: far from ... ; yonder at ... ; a long distance from ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vy</foreignphrase></entry><entry>v</entry><entry>letteral for v</entry></row>
 <row><entry><foreignphrase lang="art-lojban">vybu</foreignphrase></entry><entry>w</entry><entry>letteral for w</entry></row>

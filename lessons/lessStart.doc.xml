@@ -9,6 +9,7 @@
 <!ENTITY length "&#720;">
 <!ENTITY zhkl "&#658;">
 <!ENTITY ekl "&#603;">
+<!ENTITY lslash "&#x0142;">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">

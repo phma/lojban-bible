@@ -39,19 +39,21 @@ This is-a-bundle-of iron rods held together with string.</literallayout>
 </informalexample><informalexample>
 <literallayout><foreignphrase lang="art-lojban">loi skori cu te bakfu loi tirse grana ti</foreignphrase>
 String holds the bundle of iron rods together (literally, <quote>with string are bundled iron rods.</quote>)</literallayout>
-</informalexample>Note the <foreignphrase lang="art-lojban">ti</foreignphrase> has now moved to a
+</informalexample>The <foreignphrase lang="art-lojban">ti</foreignphrase> has now moved to a
 less conspicuous place in the sentence, and so can now be dropped out
-without being noticed. In fact place conversion is often used when we want
+without being missed. In fact place conversion is often used when we want
 to get rid of places like this.
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">mi'a tugni do zo'e le dinske</foreignphrase>
+<foreignphrase lang="art-lojban">mi'a tugni do fo le dinske</foreignphrase>
 We agree with you [that something is true] about economics.</literallayout>
 </informalexample><informalexample>
 <literallayout><foreignphrase lang="art-lojban">le dinske cu ve tugni</foreignphrase>
 As regards economics [we] agree [with you].</literallayout>
 </informalexample><informalexample>
 <literallayout><foreignphrase lang="art-lojban">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>
+<foreignphrase lang="art-lojban">le prenu cu klama fu lo trene</foreignphrase>
 The person goes somewhere, from somewhere, via somewhere, by train.</literallayout>
 </informalexample><informalexample>
 <literallayout><foreignphrase lang="art-lojban">lo trene cu xe klama</foreignphrase>
@@ -214,8 +216,8 @@ but that's an advanced topic.)
 
 <para>Even some abstraction <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> can be modified by <foreignphrase
-lang="art-lojban">se</foreignphrase>. <foreignphrase
-lang="art-lojban">du'u</foreignphrase>, for example, which can be used to form a
+lang="art-lojban">se</foreignphrase>. For example, <foreignphrase
+lang="art-lojban">du'u</foreignphrase>, which can be used to form a
 <foreignphrase lang="art-lojban">selbri</foreignphrase>, has two <foreignphrase
 lang="art-lojban">sumti</foreignphrase>: x<subscript>1</subscript>, the thought described, and x<subscript>2</subscript>, the
 words used to express it:
@@ -228,6 +230,34 @@ lang="art-lojban">le se du'u</foreignphrase> refers to words rather than thought
 
 </para>
 
+<simplesect role="exercise"><title>Exercise 2</title>
+
+<para>Come up with <foreignphrase lang="art-lojban">sumti</foreignphrase> for the following
+concepts, using the following <foreignphrase lang="art-lojban">gismu</foreignphrase>:
+<simplelist type="horiz">
+<member><foreignphrase lang="art-lojban">ciska</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">cmene</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">cpedu</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">fanva</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">klama</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">penmi</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">skicu</foreignphrase></member>
+<member><foreignphrase lang="art-lojban">spuda</foreignphrase></member>
+</simplelist>
+
+<orderedlist>
+<listitem><para>the destination</para></listitem>
+<listitem><para>the route</para></listitem>
+<listitem><para>the namer</para></listitem>
+<listitem><para>the translation</para></listitem>
+<listitem><para>the translator</para></listitem>
+<listitem><para>the request</para></listitem>
+<listitem><para>the meeting place</para></listitem>
+<listitem><para>the writing implement</para></listitem>
+<listitem><para>the description</para></listitem>
+<listitem><para>the response</para></listitem>
+</orderedlist></para>
+</simplesect>
 
 </sect1>
 
@@ -310,7 +340,12 @@ lang="art-lojban">stela</foreignphrase> <quote role="gloss">lock</quote> was
 really important enough to have wrested the <foreignphrase
 lang="art-lojban">rafsi</foreignphrase> <foreignphrase
 lang="art-lojban">tel-</foreignphrase> away from <foreignphrase
-lang="art-lojban">te</foreignphrase>. Probably not; but after the Great Rafsi
+lang="art-lojban">te</foreignphrase> &mdash; given that <foreignphrase
+lang="art-lojban">xel-</foreignphrase>, after all, was successfully
+wrested away from <foreignphrase
+lang="art-lojban">xelso</foreignphrase> <quote role="gloss">Greek</quote>.
+The answer is, probably not; but after the Great <foreignphrase
+lang="art-lojban">rafsi</foreignphrase>
 Reallocation of 1993, it's really too late to do anything about it now.
 Consider it an endearing quirk of the language...</para></note>
 
@@ -428,8 +463,9 @@ lang="art-lojban">na'e</foreignphrase> is more useful in creating new
 words:
 <foreignphrase lang="art-lojban">na'e</foreignphrase> in a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> still indicates an existing kind of relationship,
+which you would want to describe with a single <foreignphrase lang="art-lojban">lujvo</foreignphrase>;
 while <foreignphrase lang="art-lojban">na</foreignphrase> could mean anything,
-including non-existence &mdash; making too broad a concept for most
+including non-existence &mdash; making it too broad a concept for most
 uses.</para></note>
 
 <para>For example, <foreignphrase lang="art-lojban">jdice</foreignphrase>
@@ -553,7 +589,8 @@ some background knowledge:
 <itemizedlist>
 
 <listitem><para>how to make sure <foreignphrase
-lang="art-lojban">rafsi</foreignphrase> stick together in a word not ambiguous with another possible combination of words 
+lang="art-lojban">rafsi</foreignphrase> stick together in a word
+unambiguously in Lojban grammar 
 (<citetitle>The Complete Lojban Language</citetitle>, Chapter 4.5&ndash;4.6, 
 4.10&ndash;4.12.)</para></listitem>
 
@@ -576,7 +613,7 @@ go into all just that yet.
 
 </para>
 
-<simplesect role="exercise"><title>Exercise 2</title>
+<simplesect role="exercise"><title>Exercise 3</title>
 
 <para>If you have access to a <foreignphrase
 lang="art-lojban">gismu</foreignphrase> list, use it to look up <foreignphrase
@@ -624,12 +661,6 @@ so on; and <foreignphrase
 lang="art-lojban">vo'a</foreignphrase> is very handy for expressing them.
 As people start thinking more in 
 Lojban, the others could get used more. </para>
-
-<para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is very useful for
-giving the sense of  (That <foreignphrase lang="art-lojban">vo'a</foreignphrase> cannot skip
-over an embedded <foreignphrase lang="art-lojban">bridi</foreignphrase>, as
-discussed just above, is also typical of most languages' reflexives &mdash;
-although not, for example, Norwegian.)</para>
 
 <tip><para>When we say <foreignphrase
 lang="art-lojban">vo'a</foreignphrase> means <quote role="gloss">the first
@@ -697,13 +728,33 @@ ko'i soi vo'a</foreignphrase>. That is why you were able to use
 role="gloss">and vice versa</quote> in the previous lesson's exercises.
 </para>
 
+<note><para>What happens when you mix <foreignphrase lang="art-lojban">soi vo'a</foreignphrase>
+with abstractions? Well, <foreignphrase lang="art-lojban">vo'a</foreignphrase>
+still refers back to the main <foreignphrase lang="art-lojban">bridi</foreignphrase>,
+and that's what gets swapped with the <foreignphrase lang="art-lojban">sumti</foreignphrase>
+before it; so
+
+<informalexample><para><foreignphrase lang="art-lojban">la djiotis. djuno ledu'u
+la jan. cinynei la suzyn. soi vo'a</foreignphrase></para></informalexample>
+means <quote>Jyoti knows that Zhang fancies Susan, and Susan knows that Zhang fancies
+Jyoti</quote> &mdash; <emphasis>not</emphasis> <quote>Jyoti knows that Zhang and Susan
+fancy each other</quote>, as you'd expect. For that sense, try 
+
+<informalexample><para><foreignphrase lang="art-lojban">la djiotis. djuno ledu'u
+la jan. cinynei la suzyn. soi ri</foreignphrase></para></informalexample>You can get
+away with <foreignphrase lang="art-lojban">ri</foreignphrase>, because the phrase
+<foreignphrase lang="art-lojban">la suzyn. soi ri</foreignphrase> is considered all one 
+<foreignphrase lang="art-lojban">sumti</foreignphrase>, and that
+<foreignphrase lang="art-lojban">sumti</foreignphrase> is not considered over yet,
+so <foreignphrase lang="art-lojban">ri</foreignphrase> skips past it.</para></note>
+
 <note><para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is fixed in what
 it refers back to and, unlike <foreignphrase lang="art-lojban">ri</foreignphrase>,
 can point back to <foreignphrase lang="art-lojban">ko'a</foreignphrase> &mdash;
 though you can also repeat <foreignphrase lang="art-lojban">ko'a</foreignphrase>
 if you prefer.</para></note>
 
-<note><para>There is a <foreignphrase lang="art-lojban">gismu</foreignphrase> that
+<tip><para>There is a <foreignphrase lang="art-lojban">gismu</foreignphrase> that
 does the same job, <foreignphrase lang="art-lojban">simxu</foreignphrase>:
 <quote>x<subscript>1</subscript> (set) has members who mutually/reciprocally x<subscript>2</subscript>.</quote> You saw a sneak preview of this, too,
 in the previous lesson. It is mostly used in compound <foreignphrase
@@ -712,7 +763,7 @@ lang="art-lojban">tanru</foreignphrase>), and from there, in <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> (<foreignphrase
 lang="art-lojban">sim-, -si'u</foreignphrase>). We haven't covered enough grammar to use
 it properly yet, but you'll be seeing it again <link linkend="less14">towards the end of the
-lessons</link>.</para> </note>
+lessons</link>.</para> </tip>
 
 </sect1>
 
@@ -811,7 +862,7 @@ south/southern side of x<subscript>2</subscript> according to frame of reference
 
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 3</title>
+<simplesect role="exercise"><title>Exercise 4</title>
 
 <para>Translate from Lojban; some of the places used here are contorted into quite non-English
 forms, but try and be as idiomatic as possible. <orderedlist>
@@ -882,6 +933,24 @@ mi</foreignphrase> </para></listitem>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 2</title>
+
+<para><orderedlist>
+<listitem><para><foreignphrase lang="art-lojban">le se klama</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ve klama</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le te cmene</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le xe fanva</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le fanva</foreignphrase> (Hope you weren't fooled!)</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ve cpedu</foreignphrase> (<foreignphrase lang="art-lojban">le se cpedu</foreignphrase> is what you ask for, not your request)</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le te penmi</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ve ciska</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le ve skicu</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">le te spuda</foreignphrase></para></listitem>
+</orderedlist></para>
+</simplesect>
+
+
+
+<simplesect role="excanswer"><title>Exercise 3</title>
 <para><orderedlist>
 <listitem><para><foreignphrase lang="art-lojban">lo veltivni</foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lo terta'a</foreignphrase></para></listitem>
@@ -894,7 +963,7 @@ mi</foreignphrase> </para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 3</title>
+<simplesect role="excanswer"><title>Exercise 4</title>
 <para><orderedlist>
 
 <listitem><para>Jyoti's car is the means by which Jyoti, Ranjeet and Susan 
@@ -928,7 +997,7 @@ spicy.</quote></para></listitem>
 
 <listitem><para>Jyoti irritatedly says, <quote>We, Ranjeet, have been going
 from south to north and back</quote> (i.e. from south to north and from 
-north to south. This is one of the few times you'll probably
+north to south. This is probably one of the few times you'll
 see <foreignphrase lang="art-lojban">soi vo'e</foreignphrase> instead of
 <foreignphrase lang="art-lojban">soi vo'a</foreignphrase>.)</para></listitem>
 
