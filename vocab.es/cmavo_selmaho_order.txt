@@ -1,12 +1,13 @@
-.e         A        y (sumti)                                 conector lógico: sumti afterthought and
- ji        A        sumti conn ?                              conector lógico: sumti afterthought connective question
-.o         A        sii (sumti)                               conector lógico: sumti afterthought biconditional/iff/if-and-only-if
-.a         A        o (sumti)                                 conector lógico: sumti afterthought or
-.u         A        sumti whether                             conector lógico: sumti afterthought whether-or-not
-.enai      A*       sumti but not                             conector lógico: sumti afterthought x but not y
- na.a      A*       sumti only if                             conector lógico: sumti afterthought conditional/only if
-.onai      A*       o exclusivo (sumti)                       conector lógico: sumti afterthought exclusive or; Latin 'aut'
- du'o      BAI      sabido por                                djuno modal, 1er argumento (info source)            authoritatively; according to ...; known by ...
+01090 Lojban         LogFlash cmavo list 09/16/98        01090
+.e         A        y (sumti)                                 conector lógico entre sumti: y
+ ji        A        sumti conn ?                              conector lógico entre sumti: pregunta
+.o         A        sii (sumti)                               conector lógico entre sumti: bicondicional/sii/si y sólo si
+.a         A        o (sumti)                                 conector lógico entre sumti: o
+.u         A        sumti whether                             conector lógico entre sumti: sea o no que
+.enai      A*       sumti but not                             conector lógico entre sumti: x pero no y
+ na.a      A*       sumti only if                             conector lógico entre sumti: condicional/sólo si
+.onai      A*       o exclusivo (sumti)                       conector lógico entre sumti: o exclusivo
+ du'o      BAI      sabido por                                djuno modal, 1er argumento (info source)              authoritatively; according to ...; known by ...
  si'u      BAI      con ayuda de                              sidju modal, 1er argumento (aiding agent)             aided by ...
  zau       BAI      aprobado por                              zanru modal, 1er argumento                            approved by ...
  ki'i      BAI      en relación con                           ckini modal, 1er argumento (related to)               relatively; as a relation of ...
@@ -213,14 +214,14 @@
  za'e      BAhE     palabra efímera sigue                     forethought nonce-word indicator; indicates next word is nonce-creation and may be nonstandard
  be        BE       acoplar sumti                             sumti link to attach sumti (default x2) to a selbri; used in descripcións
  bei       BEI      acoplar más sumti                         separates multiple linked sumti within a selbri; used in descripcións
- be'o      BEhO     fin de sumti acoplados                    elidable terminator: end linked sumti in specified descripción
+ be'o      BEhO     fin de sumti acoplados                    terminador elisible: end linked sumti in specified descripción
  bi'e      BIhE     operador de alta prioridad                prefixed to a mex operator to indicate high priority
  mi'i      BIhI     centro-rango                              non-logical interval connective: ordered components: ... center, ... range surrounding center
  bi'o      BIhI     intervalo ordenado                        non-logical interval connective: ordered from ... to ...
  bi'i      BIhI     intervalo no ordenado                     non-logical interval connective: unordered between ... and ...
  bo        BO       acople corto                              short scope joiner; joins various constructs with shortest scope and right grouping
- boi       BOI      fin de número o lerfu                     elidable terminator: terminate numeral or letteral string
- bu        BU       palabra a lerfu                             convert any single word to BY
+ boi       BOI      fin de número o lerfu                     terminador elisible: terminate numeral or letteral string
+ bu        BU       palabra a lerfu                           convert any single word to BY
  joibu     BY*      &                                         letteral: ampersand character; especially used in standing for a mixed connective
 .abu       BY*      a                                         leteral a
 .ebu       BY*      e                                         leteral e
@@ -236,7 +237,7 @@
  je'o      BY1      cambio a hebreo                           shift letterals to Hebrew alphabet
  lo'a      BY1      cambio a lojban                           shift letterals to Lojban (Roman) alphabet
  na'a      BY1      cancela cambios                           cancel all letteral shifts
- se'e      BY1      código de caracteres                      following digits code a character (in ASCII, Unicode, etc.)
+ se'e      BY1      código de caracteres                      following dígitos code a character (in ASCII, Unicode, etc.)
  to'a      BY1      cambio a minúsculas                       lower-case letteral shift
  ga'e      BY1      cambio a mayúsculas                       upper-case letteral shift
 .y'y       BY2      '                                         leteral '
@@ -257,34 +258,34 @@
  vy        BY2      v                                         leteral v
  xy        BY2      x                                         leteral x
  zy        BY2      z                                         leteral z
- pei       CAI      emoción ?                                 actitudinal: actitudinal question; how do you feel about it? with what intensity?
- cai       CAI      emoción intensa                           actitudinal: strong intensity attitude modifier
- cu'i      CAI      emoción neutral                           actitudinal: neutral scalar attitude modifier
- sai       CAI      emoción fuerte                            actitudinal: moderate intensity attitude modifier
- ru'e      CAI      emoción débil                             actitudinal: weak intensity attitude modifier
- ca'a      CAhA     realidad                                  aspecto modal: actuality/ongoing event
- pu'i      CAhA     potencial actualizado                     aspecto modal: can and has; demonstrated potential
- nu'o      CAhA     potencial no actualizado                  aspecto modal: can but has not; unrealized potential
- ka'e      CAhA     potencial                                 aspecto modal: innate capability; possibly unrealized
- na'epu'i  CAhA*                                              aspecto modal: has never, and perhaps cannot; other-than-demonstrated-ability
+ pei       CAI      emoción ?                                 actitudinal: pregunta actitudinal;
+ cai       CAI      emoción intensa                           actitudinal: gran intensidad
+ cu'i      CAI      emoción neutral                           actitudinal: neutral 
+ sai       CAI      emoción fuerte                            actitudinal: intensidad moderada
+ ru'e      CAI      emoción débil                             actitudinal: poca intensidad
+ ca'a      CAhA     realidad                                  aspecto modal: realidad
+ pu'i      CAhA     potencial actualizado                     aspecto modal: puede y ha sido; potencial demostrado
+ nu'o      CAhA     potencial no actualizado                  aspecto modal: puede pero no ha sido; potencial no realizado
+ ka'e      CAhA     potencial                                 aspecto modal: capacidad innata; posiblemente no realizada
+ na'epu'i  CAhA*                                              aspecto modal: no ha sido y tal vez no pueda;
  cei       CEI      asigna pro-bridi                          selbri variable assignment; assigns broda series pro-bridi to a selbri
  ce'e      CEhE     afterthought termset                      links terms into an afterthought termset
- co        CO       inversión de tanru                        tanru inversion operator; "... of type ..."; allows modifier trailing sumti without sumti links
- ju'i      COI      atención                                  vocativo: attention - at ease - ignore me
- coi       COI      saludo                                    vocativo: greetings/hello
- fi'i      COI      hospitalidad                              vocativo: hospitality - inhospitality; you are welcome/ make yourself at home
- ta'a      COI      interrupción                              vocativo: interruption
- mu'o      COI      cambio                                    vocativo: over (response OK) - more to come
- fe'o      COI      cambio y fuera                            vocativo: over and out (end discussion)
- co'o      COI      adios                                     vocativo: partings/good-bye
- pe'u      COI      por favor                                 vocativo: please
- ke'o      COI      repita                                    vocativo: please repeat
- nu'e      COI      promesa                                   vocativo: promise - promise release - un-promise
- re'i      COI      listo para recibir                        vocativo: ready to receive - not ready to receive
- be'e      COI      pedido para enviar                        vocativo: request to send/speak
+ co        CO       inversión de tanru                        inversion de tanru; allows modifier trailing sumti without sumti links
+ ju'i      COI      atención                                  vocativo: atención - at ease - ignore me
+ coi       COI      saludo                                    vocativo: saludo/hola
+ fi'i      COI      hospitalidad                              vocativo: hospitalidad - inhospitalidad; bienvenido
+ ta'a      COI      interrupción                              vocativo: interrupción
+ mu'o      COI      cambio                                    vocativo: cambio - more to come
+ fe'o      COI      cambio y fuera                            vocativo: cambio y fuera (fin de la discusión)
+ co'o      COI      adios                                     vocativo: adios
+ pe'u      COI      por favor                                 vocativo: por favor
+ ke'o      COI      repita                                    vocativo: repita
+ nu'e      COI      promesa                                   vocativo: promesa - relevo de promesa - un-promise
+ re'i      COI      listo para recibir                        vocativo: listo para recibir - no preparado para recibir
+ be'e      COI      pedido para enviar                        vocativo: pedido para enviar/speak
  je'e      COI      recibido                                  vocativo: roger (ack) - negative acknowledge; used to acknowledge offers and thanks
  mi'e      COI      autopresentación                          self vocativo: self-introduction - denial of identity; identifies speaker
- ki'e      COI      gracias                                   vocativo: thanks - no thanks to you
+ ki'e      COI      gracias                                   vocativo: gracias - no thanks to you
  vi'o      COI      procedo                                   vocativo: wilco (ack and will comply)
  ju'icu'i  COI*     descanse                                  vocativo: attention - at ease - ignore me
  coico'o   COI*     greetings in passing                      vocativo: greetings in passing
@@ -297,92 +298,92 @@
  nu'enai   COI*     no-promesa                                vocativo: promise - promise release - un-promise
  re'inai   COI*     no listo para recibir                     vocativo: ready to receive - not ready to receive
  nu'ecu'i  COI*     relevo de promesa                         vocativo: promise - promise release - un-promise
- cu        CU       separador de selbri                       elidable marker: separates selbri from preceding sumti, allows preceding terminator elision
+ cu        CU       separador de selbri                       elidable marker: separates selbri from preceding sumti, allows preceding terminador elision
  cu'e      CUhE     modal ?                                   tense/modal question
  nau       CUhE     aquí y ahora                              tense: refers to current space/time reference absolutely
  da'o      DAhO     cancela asignaciones                      discursivo: cancel pro-sumti/pro-bridi assignments
  doi       DOI      indicador de vocativo                     generic vocativo marker; identifies intended listener; elidable after COI
  doido'u   DOI*     ¡Oh tú!                                   generic vocativo address to intended listener;
- do'u      DOhU     fin de vocativo                           elidable terminator: end vocativo (often elidable)
+ do'u      DOhU     fin de vocativo                           terminador elisible: end vocativo (often elidable)
  fa        FA       indicador de 1er sumti                    sumti place tag: tag 1st sumti place
  fe        FA       indicador de 2do sumti                    sumti place tag: tag 2nd sumti place
  fi        FA       indicador de 3er sumti                    sumti place tag: tag 3rd sumti place
  fo        FA       indicador de 4to sumti                    sumti place tag: tag 4th sumti place
  fu        FA       indicador de 5to sumti                    sumti place tag: tag 5th sumti place
- fai       FA       indicador de sumti adicional              sumti place tag: tag a sumti moved out of númeroed place structure; used in modal conversions
- fi'a      FA       cuál sumti ?                             sumti place tag: place structure número/tag question
- mo'ire'o  FAhA*    along                                     space motion tense: along; along a path directional space motion
- mo'izo'i  FAhA*    approaching                               space motion tense: approaching directional space motion
- mo'ine'a  FAhA*    approximating                             space motion tense: approximating; moving around the neighborhood of ... space motion
- mo'ifa'a  FAhA*    arriving at                               space motion tense: arriving at; arriving at a point directional space motion
- mo'ini'a  FAhA*    downwardly                                space motion tense: downwardly; downwards directional space motion
- mo'idu'a  FAhA*    eastwardly                                space motion tense: eastwardly; to the east directional space motion
- mo'ica'u  FAhA*    forward                                   space motion tense: forward directional space motion
- mo'ine'i  FAhA*    into                                      space motion tense: moving into directional space motion
- mo'izu'a  FAhA*    leftwardsly                               space motion tense: leftwardsly; to the left directional space motion
- mo'ito'o  FAhA*    moving away from                          space motion tense: moving away from a point directional space motion
- mo'ite'e  FAhA*    moving the border                         space motion tense: moving along the border directional space motion
- mo'ibu'u  FAhA*    moving to coincide                        space motion tense: moving to coincide directional space motion
- mo'ibe'a  FAhA*    northwardly                               space motion tense: northwardly; to the north directional space motion
- na'efa'a  FAhA*    not towards point                         space direction: not towards specified point, contrary negation; direction modal
- mo'iru'u  FAhA*    orbiting                                  space motion tense: orbiting; surrounding/annular directional space motion
- mo'ize'o  FAhA*    outwardsly                                space motion tense: outwardsly; outward directional space motion
- mo'izo'a  FAhA*    passing by                                space motion tense: passing by a site directional space motion
- mo'ipa'o  FAhA*    passing through                           space motion tense: passing through directional space motion
- mo'iti'a  FAhA*    rearwardsly                               space motion tense: rearwardsly; rearwards directional space motion
- mo'iri'u  FAhA*    rightwardly                               space motion tense: rightwardly; to the right directional space motion
- mo'ine'u  FAhA*    southwardly                               space motion tense: southwardly; to the south directional space motion
- mo'iga'u  FAhA*    upwardly                                  space motion tense: upwardly; upwards directional space motion
- mo'ivu'a  FAhA*    westwardly                                space motion tense: westwardly; to the west directional space motion
- du'a      FAhA1    al este de                                location tense relation/direction; east of
- be'a      FAhA1    al norte de                               location tense relation/direction; north of
- ne'u      FAhA1    al sur de                                 location tense relation/direction; south of
- vu'a      FAhA1    al oeste de                               location tense relation/direction; west of
- ga'u      FAhA2    encima de                                 location tense relation/direction; upwards/up from ...
- ti'a      FAhA2    detrás de                                 location tense relation/direction; rearwards/to the rear of ...
- ni'a      FAhA2    debajo de                                 location tense relation/direction; downwards/down from ...
- ca'u      FAhA2    frente a                                  location tense relation/direction; forwards/to the front of ...
- zu'a      FAhA2    a la izquierda de                         location tense relation/direction; leftwards/to the left of ...
- ri'u      FAhA2    a la derecha de                           location tense relation/direction; rightwards/to the right of ...
- ru'u      FAhA2    alrededor de                              location tense relation/direction; surrounding/annular ...
- re'o      FAhA3    adyacente a                               location tense relation/direction; adjacent to/touching/contacting ...
- te'e      FAhA3    bordeando                                 location tense relation/direction; edged by/edging up to ...
- bu'u      FAhA3    coincidente con                           location tense relation/direction; coincident with/at the same place as; space equivalent of ca
- ne'a      FAhA3    junto a                                   location tense relation/direction; approximating/next to ...
- pa'o      FAhA3    a través de                               location tense relation/direction; transfixing/passing through ...
- ne'i      FAhA3    dentro de                                 location tense relation/direction; within/inside of/into ...
- to'o      FAhA4    away from point                           location tense relation/direction; departing from/directly away from ...
- zo'i      FAhA4    inward                                    location tense relation/direction; nearer than .../inward/approaching from ...
- ze'o      FAhA4    outward                                   location tense relation/direction; beyond/outward/receding from ...
- zo'a      FAhA4    tangente a                                location tense relation/direction; tangential to/passing by ...
- fa'a      FAhA4    hacia                                     location tense relation/direction; arriving at/directly towards ...
+ fai       FA       indicador de sumti adicional              sumti place tag: tag a sumti moved out of númeroed place structure; used in modal conversións
+ fi'a      FA       cuál sumti ?                              sumti place tag: place structure número/tag question
+ mo'ire'o  FAhA*    along                                     movimiento espacial: along; along a path directional space motion
+ mo'izo'i  FAhA*    approaching                               movimiento espacial: approaching directional space motion
+ mo'ine'a  FAhA*    approximating                             movimiento espacial: approximating; moving around the neighborhood of ... space motion
+ mo'ifa'a  FAhA*    arriving at                               movimiento espacial: arriving at; arriving at a point directional space motion
+ mo'ini'a  FAhA*    downwardly                                movimiento espacial: downwardly; downwards directional space motion
+ mo'idu'a  FAhA*    eastwardly                                movimiento espacial: eastwardly; to the east directional space motion
+ mo'ica'u  FAhA*    forward                                   movimiento espacial: forward directional space motion
+ mo'ine'i  FAhA*    into                                      movimiento espacial: moving into directional space motion
+ mo'izu'a  FAhA*    leftwardsly                               movimiento espacial: leftwardsly; to the left directional space motion
+ mo'ito'o  FAhA*    moving away from                          movimiento espacial: moving away from a point directional space motion
+ mo'ite'e  FAhA*    moving the border                         movimiento espacial: moving along the border directional space motion
+ mo'ibu'u  FAhA*    moving to coincide                        movimiento espacial: moving to coincide directional space motion
+ mo'ibe'a  FAhA*    northwardly                               movimiento espacial: northwardly; to the north directional space motion
+ na'efa'a  FAhA*    not towards point                         dirección espacial: not towards specified point, contrary negation; direction modal
+ mo'iru'u  FAhA*    orbiting                                  movimiento espacial: orbiting; surrounding/annular directional space motion
+ mo'ize'o  FAhA*    outwardsly                                movimiento espacial: outwardsly; outward directional space motion
+ mo'izo'a  FAhA*    passing by                                movimiento espacial: passing by a site directional space motion
+ mo'ipa'o  FAhA*    passing through                           movimiento espacial: passing through directional space motion
+ mo'iti'a  FAhA*    rearwardsly                               movimiento espacial: rearwardsly; rearwards directional space motion
+ mo'iri'u  FAhA*    rightwardly                               movimiento espacial: rightwardly; to the right directional space motion
+ mo'ine'u  FAhA*    southwardly                               movimiento espacial: southwardly; to the south directional space motion
+ mo'iga'u  FAhA*    upwardly                                  movimiento espacial: upwardly; upwards directional space motion
+ mo'ivu'a  FAhA*    westwardly                                movimiento espacial: westwardly; to the west directional space motion
+ du'a      FAhA1    al este de                                locación/dirección; al este de
+ be'a      FAhA1    al norte de                               locación/dirección; al norte de
+ ne'u      FAhA1    al sur de                                 locación/dirección; al sur de
+ vu'a      FAhA1    al oeste de                               locación/dirección; al oeste de
+ ga'u      FAhA2    encima de                                 locación/dirección; encima de
+ ti'a      FAhA2    detrás de                                 locación/dirección; detras de
+ ni'a      FAhA2    debajo de                                 locación/dirección; debajo de
+ ca'u      FAhA2    frente a                                  locación/dirección; frente a
+ zu'a      FAhA2    a la izquierda de                         locación/dirección; a la izquierda de
+ ri'u      FAhA2    a la derecha de                           locación/dirección; a la derecha de
+ ru'u      FAhA2    alrededor de                              locación/dirección; alrededor de
+ re'o      FAhA3    adyacente a                               locación/dirección; adyacente a/en contacto con
+ te'e      FAhA3    bordeando                                 locación/dirección; bordeando
+ bu'u      FAhA3    coincidente con                           locación/dirección; coincidente con/en el mismo lugar de; equivalente espacial de ca
+ ne'a      FAhA3    junto a                                   locación/dirección; junto a
+ pa'o      FAhA3    a través de                               locación/dirección; a través de
+ ne'i      FAhA3    dentro de                                 locación/dirección; dentro de
+ to'o      FAhA4    away from point                           locación/dirección; departing from/directly away from ...
+ zo'i      FAhA4    inward                                    locación/dirección; nearer than .../inward/approaching from ...
+ ze'o      FAhA4    outward                                   locación/dirección; beyond/outward/receding from ...
+ zo'a      FAhA4    tangente a                                locación/dirección; tangente a
+ fa'a      FAhA4    hacia                                     locación/dirección; hacia/en dirección a
  fa'o      FAhO     fin de texto                              unconditional end of text; outside regular grammar; used for computer input
  fe'e      FEhE     aspectos espaciales                       mark space interval distributive aspects; labels interval tense modifiers as location-oriented
- fe'u      FEhU     fin modal de selbri                       elidable terminator: end nonce conversion of selbri to modal; usually elidable
+ fe'u      FEhU     fin modal de selbri                       terminador elisible: end nonce conversión of selbri to modal; usually elidable
  fi'o      FIhO     selbri a modal                            convert selbri to nonce modal/sumti tag
- foi       FOI      fin lerfu compuesto                       terminator: end composite lerfu; never elidable
+ foi       FOI      fin lerfu compuesto                       terminador: end composite lerfu; never elidable
  fu'a      FUhA     polaco inverso                            reverse Polish mathematical expression (mex) operator flag
  fu'e      FUhE     indicador de alcance                      begin indicator long scope
  fu'o      FUhO     fin de indicador de alcance               end indicator long scope; terminates scope of all active indicators
- ge        GA       pre y                                     conector lógico: forethought all but tanru-internal and (with gi)
- ge'i      GA       pre conn ?                                conector lógico: forethought all but tanru-internal connective question (with gi)
- go        GA       pre sii                                   conector lógico: forethought all but tanru internal biconditional/iff/if-and-only-if(with gi)
- ga        GA       pre o                                     conector lógico: forethought all but tanru-internal or (with gi)
- gu        GA       pre whether                               conector lógico: forethought all but tanru-internal whether-or-not (with gi)
- ganai     GA*      pre sólo si                               conector lógico: forethought all but tanru-internal conditional/only if (with gi)
- gonai     GA*      pre o exclusivo                           conector lógico: forethought all but tanru-internal exclusive or (with gi); Latin 'aut'
+ ge        GA       pre y                                     conector lógico preposicionado: y (con gi)
+ ge'i      GA       pre conn ?                                conector lógico preposicionado: pregunta (con gi)
+ go        GA       pre sii                                   conector lógico preposicionado: bicondicional/sii/si y sólo si (con gi)
+ ga        GA       pre o                                     conector lógico preposicionado: o (con gi)
+ gu        GA       pre whether                               conector lógico preposicionado: sea o no que (con gi)
+ ganai     GA*      pre sólo si                               conector lógico preposicionado: condicional/sólo si (con gi)
+ gonai     GA*      pre o exclusivo                           conector lógico preposicionado: o exclusivo (con gi)
  ke'i      GAhO     intervalo abierto                         open interval bracket marker; modifies intervals in conector no lógicos; exclude boundaries
  ga'o      GAhO     intervalo cerrado                         closed interval bracket marker; mod. intervals in conector no lógicos; include boundaries
- ge'u      GEhU     fin de frase relativa                     elidable terminator: end relative/modal phrases; usually elidable in non-complex phrases
- gi        GI       medial de conectivo                       conector lógico: all but tanru-internal forethought connective medial marker
- gi'e      GIhA     bridi y                                   conector lógico: bridi-tail afterthought and
- gi'i      GIhA     bridi conn ?                              conector lógico: bridi-tail afterthought conn question
- gi'o      GIhA     bridi sii                                 conector lógico: bridi-tail afterthought biconditional/iff/if-and-only-if
- gi'a      GIhA     bridi o                                   conector lógico: bridi-tail afterthought or
- gi'u      GIhA     bridi whether                             conector lógico: bridi-tail afterthought whether-or-not
- gi'enai   GIhA*    bridi pero no                             conector lógico: bridi-tail afterthought x but not y
- nagi'a    GIhA*    bridi sólo si                             conector lógico: bridi-tail afterthought conditional/only if
- gi'onai   GIhA*    bridi o exclusivo                         conector lógico: bridi-tail afterthought exclusive or; Latin 'aut'
+ ge'u      GEhU     fin de frase relativa                     terminador elisible: end relative/modal phrases; usually elidable in non-complex phrases
+ gi        GI       medial de conectivo                       conector lógico preposicionado: introduce el segundo término
+ gi'e      GIhA     bridi y                                   conector lógico entre bridi-tail: y
+ gi'i      GIhA     bridi conn ?                              conector lógico entre bridi-tail: pregunta
+ gi'o      GIhA     bridi sii                                 conector lógico entre bridi-tail: bicondicional/sii/si y sólo si
+ gi'a      GIhA     bridi o                                   conector lógico entre bridi-tail: o
+ gi'u      GIhA     bridi whether                             conector lógico entre bridi-tail: sea o no que
+ gi'enai   GIhA*    bridi pero no                             conector lógico entre bridi-tail: x pero no y
+ nagi'a    GIhA*    bridi sólo si                             conector lógico entre bridi-tail: condicional/sólo si
+ gi'onai   GIhA*    bridi o exclusivo                         conector lógico entre bridi-tail: o exclusivo
  no'u      GOI      identidad incidental                      non-restrictive appositive phrase marker: which incidentally is the same thing as ...
  ne        GOI      frase incidental                          non-restrictive relative phrase marker: which incidentally is associated with ...
  po        GOI      es específico a                           restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal
@@ -391,59 +392,59 @@
  pe        GOI      frase restrictiva                         restrictive relative phrase marker: which is associated with ...; loosest associative/possessive
  po'e      GOI      que pertenece a                           restrictive relative phrase marker: which belongs to ... ; inalienable possession
  mo        GOhA     bridi ?                                   pro-bridi: bridi/selbri/brivla question
- nei       GOhA     bridi actual                              pro-bridi: repeats the current bridi
- go'u      GOhA     bridi anterior                            pro-bridi: repeats a remote past bridi
- go'o      GOhA     bridi posterior                           pro-bridi: repeats a future bridi, normally the next one
- go'i      GOhA     bridi último                              pro-bridi: preceding bridi; in answer to a yes/no question, repeats the claim, meaning yes
- no'a      GOhA     next outer bridi                          pro-bridi: repeats the bridi in which this one is embedded
- go'e      GOhA     bridi anteúltimo                          pro-bridi: repeats the next to last bridi
- go'a      GOhA     bridi reciente                            pro-bridi: repeats a recent bridi (usually not the last 2)
+ nei       GOhA     bridi actual                              pro-bridi: repite the current bridi
+ go'u      GOhA     bridi anterior                            pro-bridi: repite a remote past bridi
+ go'o      GOhA     bridi posterior                           pro-bridi: repite a future bridi, normally the next one
+ go'i      GOhA     bridi último                              pro-bridi: preceding bridi; in answer to a yes/no question, repite the claim, meaning yes
+ no'a      GOhA     next outer bridi                          pro-bridi: repite the bridi in which this one is embedded
+ go'e      GOhA     bridi anteúltimo                          pro-bridi: repite the next to last bridi
+ go'a      GOhA     bridi reciente                            pro-bridi: repite a recent bridi (usually not the last 2)
  du        GOhA     es (identidad)                            identity selbri; = sign; x1 identically equals x2, x3, etc.; attached sumti refer to same thing
  bu'a      GOhA     algún selbri 1                            logically quantified predicate variable: some selbri 1
  bu'e      GOhA     algún selbri 2                            logically quantified predicate variable: some selbri 2
  bu'i      GOhA     algún selbri 3                            logically quantified predicate variable: some selbri 3
  co'e      GOhA     bridi no específico                       elliptical/unspecified bridi relationship
- nago'i    GOhA*    negar bridi último                        selbri: repeats preceding bridi while denying it as false; pro-assign values are unchanged
- go'ira'o  GOhA*    último bridi actualizado                  pro-bridi: preceding bridi; repeats claim as true, updating for speaker/listener change
- gu'e      GUhA     pre tanru y                               conector lógico: tanru-internal forethought and (with gi)
- gu'i      GUhA     pre tanru conn ?                          conector lógico: tanru-internal forethought question (with gi)
- gu'o      GUhA     pre tanru sii                             conector lógico: tanru-internal forethought biconditional/iff/if-and-only-if (with gi)
- gu'a      GUhA     pre tanru o                               conector lógico: tanru-internal forethought or (with gi)
- gu'u      GUhA     pre tanru whether                         conector lógico: tanru-internal forethought whether-or-not (with gi)
- gu'anai   GUhA*    pre tanru sólo si                         conector lógico: tanru-internal forethought conditional/only if (with gi)
- gu'onai   GUhA*    pre tanru o exclusivo                     conector lógico: tanru-internal forethought exclusive or (with gi); Latin 'aut'
+ nago'i    GOhA*    negar bridi último                        selbri: repite preceding bridi while denying it as false; pro-assign values are unchanged
+ go'ira'o  GOhA*    último bridi actualizado                  pro-bridi: preceding bridi; repite claim as true, updating for speaker/listener change
+ gu'e      GUhA     pre tanru y                               conector lógico preposicionado en tanru: y (con gi)
+ gu'i      GUhA     pre tanru conn ?                          conector lógico preposicionado en tanru: pregunta (con gi)
+ gu'o      GUhA     pre tanru sii                             conector lógico preposicionado en tanru: bicondicional/sii/si y sólo si (con gi)
+ gu'a      GUhA     pre tanru o                               conector lógico preposicionado en tanru: o (con gi)
+ gu'u      GUhA     pre tanru whether                         conector lógico preposicionado en tanru: sea o no que (con gi)
+ gu'anai   GUhA*    pre tanru sólo si                         conector lógico preposicionado en tanru: condicional/sólo si (con gi)
+ gu'onai   GUhA*    pre tanru o exclusivo                     conector lógico preposicionado en tanru: o exclusivo (con gi)
 .i         I        acople de oración                         sentence link/continuation; continuing sentences on same topic; normally elided for new speakers
- je        JA       tanru y                                   conector lógico: tanru-internal afterthought and
- je'i      JA       tanru conn ?                              conector lógico: tanru-internal afterthought conn question
- jo        JA       tanru sii                                 conector lógico: tanru-internal afterthought biconditional/iff/if-and-only-if
- ja        JA       tanru o                                   conector lógico: tanru-internal afterthought or
- ju        JA       tanru whether                             conector lógico: tanru-internal afterthought whether-or-not
-.ije       JA*      oración y                                 conector lógico: sentence afterthought and
-.ijenai    JA*      oración but not                           conector lógico: sentence afterthought x but not y
-.ije'i     JA*      oración conn ?                            conector lógico: sentence afterthought conn question
-.ijanai    JA*      oración si                                conector lógico: sentence afterthought: (preceding sentence) if this sentence
-.ijo       JA*      oración sii                               conector lógico: sentence afterthought biconditional/iff/if-and-only-if
-.inaja     JA*      oración sólo si                           conector lógico: sentence afterthought conditional/only if
-.ija       JA*      oración o                                 conector lógico: sentence afterthought or
-.iju       JA*      oración whether                           conector lógico: sentence afterthought whether-or-not
-.ijonai    JA*      oración o exclusivo                       conector lógico: sentence afterthought exclusive or; Latin 'aut'
- jenai     JA*      tanru pero no                             conector lógico: tanru-internal afterthought x but not y
- naja      JA*      tanru sólo si                             conector lógico: tanru-internal afterthought conditional/only if
- jonai     JA*      tanru o exclusivo                         conector lógico: tanru-internal afterthought exclusive or; Latin 'aut'
+ je        JA       tanru y                                   conector lógico entre componentes de tanru: y
+ je'i      JA       tanru conn ?                              conector lógico entre componentes de tanru: conn question
+ jo        JA       tanru sii                                 conector lógico entre componentes de tanru: bicondicional/sii/si y sólo si
+ ja        JA       tanru o                                   conector lógico entre componentes de tanru: o
+ ju        JA       tanru whether                             conector lógico entre componentes de tanru: sea o no que
+.ije       JA*      oración y                                 conector lógico entre oraciones: y
+.ijenai    JA*      oración but not                           conector lógico entre oraciones: x pero no y
+.ije'i     JA*      oración conn ?                            conector lógico entre oraciones: pregunta
+.ijanai    JA*      oración si                                conector lógico entre oraciones: si
+.ijo       JA*      oración sii                               conector lógico entre oraciones: bicondicional/sii/si y sólo si
+.inaja     JA*      oración sólo si                           conector lógico entre oraciones: condicional/sólo si
+.ija       JA*      oración o                                 conector lógico entre oraciones: o
+.iju       JA*      oración whether                           conector lógico entre oraciones: sea o no que
+.ijonai    JA*      oración o exclusivo                       conector lógico entre oraciones: o exclusivo
+ jenai     JA*      tanru pero no                             conector lógico entre componentes de tanru: x pero no y
+ naja      JA*      tanru sólo si                             conector lógico entre componentes de tanru: condicional/sólo si
+ jonai     JA*      tanru o exclusivo                         conector lógico entre componentes de tanru: o exclusivo
  jai       JAI      conversión modal                          convert tense/modal (tagged) place to 1er argumento; 1er argumento moves to extra FA place (fai)
- fa'u      JOI      y respectivamente                         conector no lógico: respectively; unmixed ordered distributed association
- pi'u      JOI      producto cruzado                          conector no lógico: cross product; Cartesian product of sets
- joi       JOI      junto con                                 conector no lógico: mixed conjunction; "and" meaning "mixed together", forming a mass
- ce'o      JOI      en secuencia con                          conector no lógico: ordered sequence link; "and then", forming a sequence
- ce        JOI      en un conjunto con                        conector no lógico: set link, unordered; "and also", but forming a set
- jo'u      JOI      en común con                              conector no lógico: in common with; along with (unmixed)
- ku'a      JOI      intersección                              conector no lógico: intersection of sets
- jo'e      JOI      unión                                     conector no lógico: union of sets
- ju'e      JOI      conectivo vago                            vague conector no lógico: analogous to plain ".i"
+ fa'u      JOI      y respectivamente                         conector no lógico: respectivamente; asociación ordenada distributiva
+ pi'u      JOI      producto cruzado                          conector no lógico: producto cruzado; producto cartesiano de conjuntos
+ joi       JOI      junto con                                 conector no lógico: conjunción colectiva; y, junto con, formando un grupo
+ ce'o      JOI      en secuencia con                          conector no lógico: enlace de secuencia ordenada; "y después", formando una secuencia
+ ce        JOI      en un conjunto con                        conector no lógico: enlace de conjunto, no ordenado; formando un conjunto
+ jo'u      JOI      en común con                              conector no lógico: en común con; along with (unmixed)
+ ku'a      JOI      intersección                              conector no lógico: intersección de conjuntos
+ jo'e      JOI      unión                                     conector no lógico: unión de conjuntos
+ ju'e      JOI      conectivo vago                            conector vago no lógico: analogo a ".i"
  jo'i      JOhI     matriz                                    join mathematical expression (mex) operands into an array
  ke        KE       comienzo agrupación                       start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping
- kei       KEI      fin abstracción                           elidable terminator: end abstraction bridi (often elidable)
- ke'e      KEhE     fin agrupación                            elidable terminator: end of tanru left grouping override (usually elidable)
+ kei       KEI      fin abstracción                           terminador elisible: end abstracción bridi (often elidable)
+ ke'e      KEhE     fin agrupación                            terminador elisible: end of tanru left grouping override (usually elidable)
  ki        KI       tense default                             tense/modal: set/use tense default; establishes new open scope space/time/modal reference base
  roda      KOhA*    todos                                     logically quantified universal sumti: everything (unless restricted)
  la'edi'u  KOhA*    last expresión it                         pro-sumti: the referent of the last expresión; the state described: "IT was fun"
@@ -460,27 +461,27 @@
  dei       KOhA2    expresión actual                          pro-sumti: this expresión
  do'i      KOhA2    expresión no específica                   pro-sumti: elliptical/unspecified expresión variable
  ko        KOhA3    imperativo                                pro-sumti: you (imperative); make it true for you, the listener
- mi        KOhA3    yo                                        pro-sumti: me/we the speaker(s)/author(s); identified by self-vocativo
- mi'o      KOhA3    tú/ustedes y yo                           pro-sumti: me/we the speaker(s)/author(s) & you the listener(s)
- ma'a      KOhA3    tú/ustedes, otros y yo                    pro-sumti: me/we the speaker(s)/author(s) & you the listener(s) & others unspecified
- mi'a      KOhA3    nosotros sin ustedes                      pro-sumti: me/we the speaker(s)/author(s) & others unspecified, but not you, the listener
- do        KOhA3    tú/ustedes                                pro-sumti: you listener(s); identified by vocativo
- do'o      KOhA3    tú/ustedes y otros                        pro-sumti: you the listener & others unspecified
- ko'a      KOhA4    ello-1                                    pro-sumti: he/she/it/they #1 (specified by goi)
- fo'u      KOhA4    ello-10                                   pro-sumti: he/she/it/they #10 (specified by goi)
- ko'e      KOhA4    ello-2                                    pro-sumti: he/she/it/they #2 (specified by goi)
- ko'i      KOhA4    ello-3                                    pro-sumti: he/she/it/they #3 (specified by goi)
- ko'o      KOhA4    ello-4                                    pro-sumti: he/she/it/they #4 (specified by goi)
- ko'u      KOhA4    ello-5                                    pro-sumti: he/she/it/they #5 (specified by goi)
- fo'a      KOhA4    ello-6                                    pro-sumti: he/she/it/they #6 (specified by goi)
- fo'e      KOhA4    ello-7                                    pro-sumti: he/she/it/they #7 (specified by goi)
- fo'i      KOhA4    ello-8                                    pro-sumti: he/she/it/they #8 (specified by goi)
- fo'o      KOhA4    ello-9                                    pro-sumti: he/she/it/they #9 (specified by goi)
- vo'a      KOhA4    x1 ello                                   pro-sumti: repeats 1er argumento of main bridi of this sentence
- vo'e      KOhA4    x2 ello                                   pro-sumti: repeats 2do argumento of main bridi of this sentence
- vo'i      KOhA4    x3 ello                                   pro-sumti: repeats 3er argumento of main bridi of this sentence
- vo'o      KOhA4    x4 ello                                   pro-sumti: repeats 4to argumento of main bridi of this sentence
- vo'u      KOhA4    x5 ello                                   pro-sumti: repeats 5to argumento of main bridi of this sentence
+ mi        KOhA3    yo                                        pro-sumti: yo/nosotros; identificado por autovocativo "mi'e"
+ mi'o      KOhA3    tú/ustedes y yo                           pro-sumti: yo/nosotros & tú/usted(es)
+ ma'a      KOhA3    tú/ustedes, otros y yo                    pro-sumti: yo/nosotros & tú/usted(es) & otros no especificados
+ mi'a      KOhA3    nosotros sin ustedes                      pro-sumti: yo/nosotros & otros no especificados, pero no tú/usted(es)
+ do        KOhA3    tú/ustedes                                pro-sumti: tú/usted(es); identificado por vocativo
+ do'o      KOhA3    tú/ustedes y otros                        pro-sumti: tú/usted(es) & otros no especificados
+ ko'a      KOhA4    ello-1                                    pro-sumti: él/ella/ello/ellos/ellas #1 (especificado por goi)
+ fo'u      KOhA4    ello-10                                   pro-sumti: él/ella/ello/ellos/ellas #10 (especificado por goi)
+ ko'e      KOhA4    ello-2                                    pro-sumti: él/ella/ello/ellos/ellas #2 (especificado por goi)
+ ko'i      KOhA4    ello-3                                    pro-sumti: él/ella/ello/ellos/ellas #3 (especificado por goi)
+ ko'o      KOhA4    ello-4                                    pro-sumti: él/ella/ello/ellos/ellas #4 (especificado por goi)
+ ko'u      KOhA4    ello-5                                    pro-sumti: él/ella/ello/ellos/ellas #5 (especificado por goi)
+ fo'a      KOhA4    ello-6                                    pro-sumti: él/ella/ello/ellos/ellas #6 (especificado por goi)
+ fo'e      KOhA4    ello-7                                    pro-sumti: él/ella/ello/ellos/ellas #7 (especificado por goi)
+ fo'i      KOhA4    ello-8                                    pro-sumti: él/ella/ello/ellos/ellas #8 (especificado por goi)
+ fo'o      KOhA4    ello-9                                    pro-sumti: él/ella/ello/ellos/ellas #9 (especificado por goi)
+ vo'a      KOhA4    x1 ello                                   pro-sumti: repite 1er argumento del bridi principal de esta oración
+ vo'e      KOhA4    x2 ello                                   pro-sumti: repite 2do argumento del bridi principal de esta oración
+ vo'i      KOhA4    x3 ello                                   pro-sumti: repite 3er argumento del bridi principal de esta oración
+ vo'o      KOhA4    x4 ello                                   pro-sumti: repite 4to argumento del bridi principal de esta oración
+ vo'u      KOhA4    x5 ello                                   pro-sumti: repite 5to argumento del bridi principal de esta oración
  ru        KOhA5    sumti anterior                            pro-sumti: a remote past sumti, before all other in-use backcounting sumti
  ri        KOhA5    sumti último                              pro-sumti: the last sumti, as determined by back-counting rules
  ra        KOhA5    sumti reciente                            pro-sumti: a recent sumti before the last one, as determined by back-counting rules
@@ -492,10 +493,10 @@
  ma        KOhA7    sumti ?                                   pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank
  zu'i      KOhA7    el típico                                 pro-sumti: the typical sumti value for this place in this relationship; affects truth value
  zo'e      KOhA7    sumti no especificado                     pro-sumti: an elliptical/unspecified value; has some value which makes bridi true
- ce'u      KOhA8    relativo de abstracción                   pseudo-quantifier binding a variable within an abstraction that represents an open place
- ku        KU       fin de sumti                              elidable terminator: end descripción, modal, or negator sumti; often elidable
- ku'e      KUhE     end mex forethought                       elidable terminator: end mathematical (mex) forethought (Polish) expression; often elidable
- ku'o      KUhO     fin de cláusula relativa                  elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses
+ ce'u      KOhA8    relativo de abstracción                   pseudo-quantifier binding a variable within an abstracción that represents an open place
+ ku        KU       fin de sumti                              terminador elisible: end descripción, modal, or negator sumti; often elidable
+ ku'e      KUhE     end mex forethought                       terminador elisible: end mathematical (mex) forethought (Polish) expression; often elidable
+ ku'o      KUhO     fin de cláusula relativa                  terminador elisible: end NOI relative clause; always elidable, but preferred in complex clauses
  la        LA       that named                                name descriptor: the one(s) called ... ; takes name or selbri descripción
  lai       LA       the mass of named                         name descriptor: the mass of individual(s) named ... ; takes name or selbri descripción
  la'i      LA       the set of named                          name descriptor: the set of those named ... ; takes name or selbri descripción
@@ -503,7 +504,7 @@
  lau       LAU      punctuation mark                          2-word letteral/shift: punctuation mark or special symbol follows
  zai       LAU      select alphabet                           2-word letteral/shift: alternate alphabet selector follows
  tau       LAU      shift next lerfu                          2-word letteral/shift: change case for next letteral only
- tu'a      LAhE     the bridi implied by                      extracts a concrete sumti from an unspecified abstraction; equivalent to le nu/su'u [sumti] co'e
+ tu'a      LAhE     the bridi implied by                      extracts a concrete sumti from an unspecified abstracción; equivalent to le nu/su'u [sumti] co'e
  lu'a      LAhE     the individuals of                        the members of the set/components of the mass; converts another descripción type to individuals
  lu'o      LAhE     the mass composed of                      the mass composed of; converts another descripción type to a mass composed of the members
  la'e      LAhE     the referent of                           the referent of (indirect pointer); uses the referent of a sumti as the desired sumti
@@ -530,12 +531,11 @@
  le'u      LEhU     end error quote                           end quote of questionable or out-of-context text; not elidable
  me'o      LI       the mex                                   the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti
  li        LI       the número                                the número/evaluated expression; convert número/operand/evaluated math expression to sumti
- li'u      LIhU     end quote                                 elidable terminator: end grammatical quotation; seldom elidable except at end of text
- lo'o      LOhO     end mex sumti                             elidable terminator: end math express.(mex) sumti; end mex-to-sumti conversion; usually elidable
+ li'u      LIhU     end quote                                 terminador elisible: end grammatical quotation; seldom elidable except at end of text
+ lo'o      LOhO     end mex sumti                             terminador elisible: end math express.(mex) sumti; end mex-to-sumti conversión; usually elidable
  lo'u      LOhU     error quote                               start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical
  lu        LU       quote                                     start grammatical quotation; quoted text should be grammatical on its own
- lu'u      LUhU     end sumti qualifiers                      elidable terminator: end of sumti qualifiers; usually elidable except before a sumti
-01090 Lojban         LogFlash cmavo list 09/16/98        01090
+ lu'u      LUhU     end sumti qualifiers                      terminador elisible: end of sumti qualifiers; usually elidable except before a sumti
  mo'o      MAI      section ordinal                           higher-order expresión ordinal suffix; converts a número to ordinal, usually a section/chapter
  mai       MAI      sentence ordinal                          expresión ordinal suffix; converts a número to an ordinal, such as an item or paragraph número
  pamai     MAI*     firstly                                   discursivo: first expresión ordinal
@@ -545,42 +545,42 @@
  pamo'o    MAI*     section 1                                 discursivo expresión ordinal: first section/chapter ordinal
  ma'o      MAhO     operand to operator                       convert letteral string or other mathematical expression (mex) operand to mex operator
  me        ME       sumti to selbri                           convert sumti to selbri/tanru element; x1 is specific to [sumti] in aspect x2
- me'u      MEhU     end sumti to selbri                       elidable terminator: end sumti that was converted to selbri; usually elidable
+ me'u      MEhU     end sumti to selbri                       terminador elisible: end sumti that was converted to selbri; usually elidable
  mei       MOI      cardinal selbri                           convert número to cardinality selbri; x1 is the mass formed from set x2 whose n member(s) are x3
  moi       MOI      ordinal selbri                            convert número to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3
  si'e      MOI      portion selbri                            convert número to portion selbri; x1 is an (n)th portion of mass/totality x2; (cf. gunma)
  cu'o      MOI      probability selbri                        convert número to probability selbri; event x1 has probability (n) of occurring under cond. x2
- raumei    MOI*     are enough                                quantified selbri: converts enough to cardinal; x1 is a set with members x2, enough by std. x3
- pimucu'o  MOI*     has even odds                             quantified selbri: convert .5 to probability selbri; event x1 has a 50/50 chance under cond. x2
- so'imei   MOI*     is a bunch                                quantified selbri: convert many to cardinal; x1 is a set with many members x2 of total set x3
- panonomei MOI*     is a century                              quantifier selbri: convert 100 to cardinal selbri; x1 is a set with the century of members x2
- panomei   MOI*     is a decade                               quantifier selbri: convert 10 to cardinal selbri; x1 is a set with the decade of members x2
- paremei   MOI*     is a dozen                                quantified selbri: convert 12 to cardinal selbri; x1 is a set with a dozen members x2
- piresi'e  MOI*     is a fifth portion                        quantified selbri: convert .2 = 1/5 to portion selbri; x1 is 1/5 of mass/totality x2
- bimei     MOI*     is a octet                                quantifier selbri: convert 8 to cardinal selbri; x1 is a set with the octet of members x2
- remei     MOI*     is a pair                                 quantified selbri: convert 2 to cardinal selbri; x1 is a set with the pair of members x2
- mumei     MOI*     is a quintet                              quantifier selbri: convert 5 to cardinal selbri; x1 is a set with the quintet of members x2
- renomei   MOI*     is a score                                quantifier selbri: convert 20 to cardinal selbri; x1 is a set with the score of members x2
- cimei     MOI*     is a trio                                 quantifier selbri: convert 3 to cardinal selbri; x1 is a set with the trio of members x2
- da'aremoi MOI*     is antepenultimate                        quantified selbri: converts all-but-2 to ordinal selbri; x1 is antepenult. among x2 by rule x3
- su'oremoi MOI*     is at least second                        quantified selbri: convert at least 2 to ordinal selbri; x1 is at-least-2nd among x2 by rule x3
- bimoi     MOI*     is eighth among                           quantified selbri: convert 8 to ordinal selbri; x1 is eighth among x2 ordered by rule x3
- raumoi    MOI*     is enoughth among                         quantified selbri: converts enough to ordinal; x1 is enoughth among x2, order rule x3
- mumoi     MOI*     is fifth among                            quantified selbri: convert 5 to ordinal selbri; x1 is fifth among x2 ordered by rule x3
- pamoi     MOI*     is first among                            quantified selbri: convert 1 to ordinal selbri; x1 is first among x2 ordered by rule x3
- vomoi     MOI*     is fourth among                           quantified selbri: convert 4 to ordinal selbri; x1 is fourth among x2 ordered by rule x3
- romoi     MOI*     is last among                             quantified selbri: is final among; convert all to ordinal selbri; x1 is last among x2, rule x3
- somoi     MOI*     is ninth among                            quantified selbri: convert 9 to ordinal selbri; x1 is ninth among x2 ordered by rule x3
- da'amoi   MOI*     is penultimate among                      quantified selbri: converts all-but-(1) to ordinal selbri; x1 is penultimate among x2 by rule x3
- su'oremei MOI*     is plural                                 quantified selbri: convert at least 2 to cardinal selbri; x1 is a set with plural membership x2
- remoi     MOI*     is second among                           quantified selbri: convert 2 to ordinal selbri; x1 is second among x2 ordered by rule x3
- zemoi     MOI*     is seventh among                          quantified selbri: convert 7 to ordinal selbri; x1 is seventh among x2 ordered by rule x3
- pamei     MOI*     is singular                               quantified selbri: convert 1 to cardinal selbri; x1 is a set with single/sole/only member x2
- xamoi     MOI*     is sixth among                            quantified selbri: convert 6 to ordinal selbri; x1 is sixth among x2 ordered by rule x3
- panomoi   MOI*     is tenth among                            quantified selbri: convert 10 to ordinal selbri; x1 is tenth among x2 ordered by rule x3
- pirosi'e  MOI*     is the whole of                           quantified selbri: converts all-of to portion selbri; x1 is the whole portion of mass x2
- cimoi     MOI*     is third among                            quantified selbri: convert 3 to ordinal selbri; x1 is third among x2 ordered by rule x3
- du'emei   MOI*     is too many                               quantifier selbri: convert too many to cardinal selbri; x1 is a set with too many members x2
+ raumei    MOI*     are enough                                selbri cuantificado: converts enough to cardinal; x1 is a set with members x2, enough by std. x3
+ pimucu'o  MOI*     has even odds                             selbri cuantificado: convert .5 to probability selbri; event x1 has a 50/50 chance under cond. x2
+ so'imei   MOI*     is a bunch                                selbri cuantificado: convert many to cardinal; x1 is a set with many members x2 of total set x3
+ panonomei MOI*     is a century                              selbri cuantificado: convert 100 to cardinal selbri; x1 is a set with the century of members x2
+ panomei   MOI*     is a decade                               selbri cuantificado: convert 10 to cardinal selbri; x1 is a set with the decade of members x2
+ paremei   MOI*     is a dozen                                selbri cuantificado: convert 12 to cardinal selbri; x1 is a set with a dozen members x2
+ piresi'e  MOI*     is a fifth portion                        selbri cuantificado: convert .2 = 1/5 to portion selbri; x1 is 1/5 of mass/totality x2
+ bimei     MOI*     is a octet                                selbri cuantificado: convert 8 to cardinal selbri; x1 is a set with the octet of members x2
+ remei     MOI*     is a pair                                 selbri cuantificado: convert 2 to cardinal selbri; x1 is a set with the pair of members x2
+ mumei     MOI*     is a quintet                              selbri cuantificado: convert 5 to cardinal selbri; x1 is a set with the quintet of members x2
+ renomei   MOI*     is a score                                selbri cuantificado: convert 20 to cardinal selbri; x1 is a set with the score of members x2
+ cimei     MOI*     is a trio                                 selbri cuantificado: convert 3 to cardinal selbri; x1 is a set with the trio of members x2
+ da'aremoi MOI*     is antepenultimate                        selbri cuantificado: converts all-but-2 to ordinal selbri; x1 is antepenult. among x2 by rule x3
+ su'oremoi MOI*     is at least second                        selbri cuantificado: convert at least 2 to ordinal selbri; x1 is at-least-2nd among x2 by rule x3
+ bimoi     MOI*     is eighth among                           selbri cuantificado: convert 8 to ordinal selbri; x1 is eighth among x2 ordered by rule x3
+ raumoi    MOI*     is enoughth among                         selbri cuantificado: converts enough to ordinal; x1 is enoughth among x2, order rule x3
+ mumoi     MOI*     is fifth among                            selbri cuantificado: convert 5 to ordinal selbri; x1 is fifth among x2 ordered by rule x3
+ pamoi     MOI*     is first among                            selbri cuantificado: convert 1 to ordinal selbri; x1 is first among x2 ordered by rule x3
+ vomoi     MOI*     is fourth among                           selbri cuantificado: convert 4 to ordinal selbri; x1 is fourth among x2 ordered by rule x3
+ romoi     MOI*     is last among                             selbri cuantificado: is final among; convert all to ordinal selbri; x1 is last among x2, rule x3
+ somoi     MOI*     is ninth among                            selbri cuantificado: convert 9 to ordinal selbri; x1 is ninth among x2 ordered by rule x3
+ da'amoi   MOI*     is penultimate among                      selbri cuantificado: converts all-but-(1) to ordinal selbri; x1 is penultimate among x2 by rule x3
+ su'oremei MOI*     is plural                                 selbri cuantificado: convert at least 2 to cardinal selbri; x1 is a set with plural membership x2
+ remoi     MOI*     is second among                           selbri cuantificado: convert 2 to ordinal selbri; x1 is second among x2 ordered by rule x3
+ zemoi     MOI*     is seventh among                          selbri cuantificado: convert 7 to ordinal selbri; x1 is seventh among x2 ordered by rule x3
+ pamei     MOI*     is singular                               selbri cuantificado: convert 1 to cardinal selbri; x1 is a set with single/sole/only member x2
+ xamoi     MOI*     is sixth among                            selbri cuantificado: convert 6 to ordinal selbri; x1 is sixth among x2 ordered by rule x3
+ panomoi   MOI*     is tenth among                            selbri cuantificado: convert 10 to ordinal selbri; x1 is tenth among x2 ordered by rule x3
+ pirosi'e  MOI*     is the whole of                           selbri cuantificado: converts all-of to portion selbri; x1 is the whole portion of mass x2
+ cimoi     MOI*     is third among                            selbri cuantificado: convert 3 to ordinal selbri; x1 is third among x2 ordered by rule x3
+ du'emei   MOI*     is too many                               selbri cuantificado: convert too many to cardinal selbri; x1 is a set with too many members x2
  mo'e      MOhE     sumti to operand                          convert sumti to mex operand; sample use in story arithmetic: [3 apples] + [3 apples] = what
  mo'i      MOhI     space motion                              mark motions in space-time
  ja'a      NA       bridi affirmer                            bridi logical affirmer; scope is an entire bridi
@@ -604,7 +604,7 @@
  li'i      NU       experiencia                               abstractor: experience abstractor; x1 is x2's experience of [bridi] (participant or observer)
  ka        NU       propiedad                                 abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by [bridi]
  jei       NU       valor de verdad                           abstractor: truth-value abstractor; x1 is truth value of [bridi] under epistemology x2
- su'u      NU       abstracción no específica                 abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstraction of type x2
+ su'u      NU       abstracción no específica                 abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstracción of type x2
  sedu'u    NU*      sentence abstract                         compound abstractor: sentence/equation abstract; x1 is text expressing [bridi] which is x2
  zu'o      NU1      actividad                                 abstractor: activity (event) abstractor; x1 is abstract activity of [bridi] composed of x2
  mu'e      NU1      evento puntual                            abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of [bridi]
@@ -612,103 +612,103 @@
  za'i      NU1      estado                                    abstractor: state (event) abstractor; x1 is continuous state of [bridi] being true
  nu'a      NUhA     operador a selbri                         convert mathematical expression (mex) operator to a selbri/tanru component
  nu'i      NUhI     start fore termset                        start forethought termset construct; marks start of place structure set with logical connection
- nu'u      NUhU     end fore termset                          elidable terminator: end forethought termset; usually elidable except with following sumti
- paki'o    PA*      1,000                                     número/cantidad: 1,000 expressed with comma
- pano      PA*      10                                        número/cantidad: 10 [ten]
- panono    PA*      100                                       número/cantidad: 100 [one hundred]
- papa      PA*      11                                        número/cantidad: 11 [eleven]
- pare      PA*      12                                        número/cantidad: 12 [twelve]
- paci      PA*      13                                        número/cantidad: 13 [thirteen]
- pavo      PA*      14                                        número/cantidad: 14 [fourteen]
- pamu      PA*      15                                        número/cantidad: 15 [fifteen]
- paxa      PA*      16                                        número/cantidad: 16 [sixteen]
- paze      PA*      17                                        número/cantidad: 17 [seventeen]
- pabi      PA*      18                                        número/cantidad: 18 [eighteen]
- paso      PA*      19                                        número/cantidad: 19 [nineteen]
- reki'o    PA*      2,000                                     número/cantidad: 2,000 expressed with comma
- reno      PA*      20                                        número/cantidad: 20 [twenty]
- renono    PA*      200                                       número/cantidad: 200 [two hundred]
- ciki'o    PA*      3,000                                     número/cantidad: 3,000 expressed with comma
- cino      PA*      30                                        número/cantidad: 30 [thirty]
- cinono    PA*      300                                       número/cantidad: 300 [three hundred]
- voki'o    PA*      4,000                                     número/cantidad: 4,000 expressed with comma
- vono      PA*      40                                        número/cantidad: 40 [forty]
- vonono    PA*      400                                       número/cantidad: 400 [four hundred]
- muki'o    PA*      5,000                                     número/cantidad: 5,000 expressed with comma
- muno      PA*      50                                        número/cantidad: 50 [fifty]
- munono    PA*      500                                       número/cantidad: 500 [five hundred]
- xaki'o    PA*      6,000                                     número/cantidad: 6,000 expressed with comma
- xano      PA*      60                                        número/cantidad: 60 [sixty]
- xanono    PA*      600                                       número/cantidad: 600 [six hundred]
- xavoki'o  PA*      64,000                                    número/cantidad: 64,000 expressed with comma
- zeki'o    PA*      7,000                                     número/cantidad: 7,000 expressed with comma
- zeno      PA*      70                                        número/cantidad: 70 [seventy]
- zenono    PA*      700                                       número/cantidad: 700 [seven hundred]
- biki'o    PA*      8,000                                     número/cantidad: 8,000 expressed with comma
- bino      PA*      80                                        número/cantidad: 80 [eighty]
- binono    PA*      800                                       número/cantidad: 800 [eight hundred]
- binonovo  PA*      8004                                      número/cantidad: 8004, without comma
- soki'o    PA*      9,000                                     número/cantidad: 9,000 expressed with comma
- sono      PA*      90                                        número/cantidad: 90 [ninety]
- sonono    PA*      900                                       número/cantidad: 900 [nine hundred]
- sozepimu  PA*      97.5                                      número/cantidad:  97.5
+ nu'u      NUhU     end fore termset                          terminador elisible: end forethought termset; usually elidable except with following sumti
+ paki'o    PA*      1,000                                     número/cantidad: 1,000 
+ pano      PA*      10                                        número/cantidad: 10 [diez]
+ panono    PA*      100                                       número/cantidad: 100 [cien]
+ papa      PA*      11                                        número/cantidad: 11 [once]
+ pare      PA*      12                                        número/cantidad: 12 [doce]
+ paci      PA*      13                                        número/cantidad: 13 [trece]
+ pavo      PA*      14                                        número/cantidad: 14 [catorce]
+ pamu      PA*      15                                        número/cantidad: 15 [quince]
+ paxa      PA*      16                                        número/cantidad: 16 [dieciseis]
+ paze      PA*      17                                        número/cantidad: 17 [diecisiete]
+ pabi      PA*      18                                        número/cantidad: 18 [dieciocho]
+ paso      PA*      19                                        número/cantidad: 19 [diecinueve]
+ reki'o    PA*      2,000                                     número/cantidad: 2,000
+ reno      PA*      20                                        número/cantidad: 20 [veinte]
+ renono    PA*      200                                       número/cantidad: 200 [doscientos]
+ ciki'o    PA*      3,000                                     número/cantidad: 3,000 
+ cino      PA*      30                                        número/cantidad: 30 [treinta]
+ cinono    PA*      300                                       número/cantidad: 300 [trescientos]
+ voki'o    PA*      4,000                                     número/cantidad: 4,000 
+ vono      PA*      40                                        número/cantidad: 40 [cuarenta]
+ vonono    PA*      400                                       número/cantidad: 400 [cuatrocientos]
+ muki'o    PA*      5,000                                     número/cantidad: 5,000 
+ muno      PA*      50                                        número/cantidad: 50 [cincuenta]
+ munono    PA*      500                                       número/cantidad: 500 [quinientos]
+ xaki'o    PA*      6,000                                     número/cantidad: 6,000 
+ xano      PA*      60                                        número/cantidad: 60 [sesenta]
+ xanono    PA*      600                                       número/cantidad: 600 [seiscientos]
+ xavoki'o  PA*      64,000                                    número/cantidad: 64,000 
+ zeki'o    PA*      7,000                                     número/cantidad: 7,000 
+ zeno      PA*      70                                        número/cantidad: 70 [setenta]
+ zenono    PA*      700                                       número/cantidad: 700 [setecientos]
+ biki'o    PA*      8,000                                     número/cantidad: 8,000 
+ bino      PA*      80                                        número/cantidad: 80 [ochenta]
+ binono    PA*      800                                       número/cantidad: 800 [ochocientos]
+ binonovo  PA*      8004                                      número/cantidad: 8004
+ soki'o    PA*      9,000                                     número/cantidad: 9,000 
+ sono      PA*      90                                        número/cantidad: 90 [noventa]
+ sonono    PA*      900                                       número/cantidad: 900 [novecientos]
+ sozepimu  PA*      97.5                                      número/cantidad: 97.5
  sosoce'i  PA*      99 percent                                número/cantidad: 99% (número)
- piso'u    PA*      a little of                               número: a little of
- piro      PA*      all of                                    número: all of
- piso'a    PA*      almost all of                             número: almost all of
- piji'i    PA*      approximately all of                      número: approximately all of
- pisu'o    PA*      at least some of                          número: at least some of
- piso'i    PA*      much of                                   número: much of
- ji'ini'u  PA*      rounded down                              rounded down (appended after string of digits indicating a rounded value)
- ji'ima'u  PA*      rounded up                                rounded up (appended after string of digits indicating a rounded value)
- pimo'a    PA*      too little of                             número: too little of
- pidu'e    PA*      too much of                               número: too much of
- no        PA1      0                                         dígito/número: 0 (digit) [zero]
- pa        PA1      1                                         dígito/número: 1 (digit) [one]
- re        PA1      2                                         dígito/número: 2 (digit) [two]
- ci        PA1      3                                         dígito/número: 3 (digit) [three]
- vo        PA1      4                                         dígito/número: 4 (digit) [four]
- mu        PA1      5                                         dígito/número: 5 (digit) [five]
- xa        PA1      6                                         dígito/número: 6 (digit) [six]
- ze        PA1      7                                         dígito/número: 7 (digit) [seven]
- bi        PA1      8                                         dígito/número: 8 (digit) [eight]
- so        PA1      9                                         dígito/número: 9 (digit) [nine]
- dau       PA2      dígito hexadecimal A                      dígito/número: hex digit A (decimal 10) [ten]
- fei       PA2      dígito hexadecimal B                      dígito/número: hex digit B (decimal 11) [eleven]
- gai       PA2      dígito hexadecimal C                      dígito/número: hex digit C (decimal 12) [twelve]
- jau       PA2      dígito hexadecimal D                      dígito/número: hex digit D (decimal 13) [thirteen]
- rei       PA2      dígito hexadecimal E                      dígito/número: hex digit E (decimal 14) [fourteen]
- vai       PA2      dígito hexadecimal F                      dígito/número: hex digit F (decimal 15) [fifteen]
+ piso'u    PA*      a little of                               número: un poco de
+ piro      PA*      all of                                    número: todo
+ piso'a    PA*      almost all of                             número: casi todo
+ piji'i    PA*      approximately all of                      número: aproximadamente todo
+ pisu'o    PA*      at least some of                          número: algo de
+ piso'i    PA*      much of                                   número: mucho de
+ ji'ini'u  PA*      rounded down                              redondeado hacia abajo (al final de una cadena de dígitos)
+ ji'ima'u  PA*      rounded up                                redondeado hacia arriba (al final de una cadena de dígitos)
+ pimo'a    PA*      too little of                             número: demasiado poco de
+ pidu'e    PA*      too much of                               número: demasiado
+ no        PA1      0                                         dígito/número: 0 (dígito) [cero]
+ pa        PA1      1                                         dígito/número: 1 (dígito) [uno]
+ re        PA1      2                                         dígito/número: 2 (dígito) [dos]
+ ci        PA1      3                                         dígito/número: 3 (dígito) [tres]
+ vo        PA1      4                                         dígito/número: 4 (dígito) [cuatro]
+ mu        PA1      5                                         dígito/número: 5 (dígito) [cinco]
+ xa        PA1      6                                         dígito/número: 6 (dígito) [seis]
+ ze        PA1      7                                         dígito/número: 7 (dígito) [siete]
+ bi        PA1      8                                         dígito/número: 8 (dígito) [ocho]
+ so        PA1      9                                         dígito/número: 9 (dígito) [nueve]
+ dau       PA2      dígito hexadecimal A                      dígito/número: dígito hexadecimal A (decimal 10) [diez]
+ fei       PA2      dígito hexadecimal B                      dígito/número: dígito hexadecimal B (decimal 11) [once]
+ gai       PA2      dígito hexadecimal C                      dígito/número: dígito hexadecimal C (decimal 12) [doce]
+ jau       PA2      dígito hexadecimal D                      dígito/número: dígito hexadecimal D (decimal 13) [trece]
+ rei       PA2      dígito hexadecimal E                      dígito/número: dígito hexadecimal E (decimal 14) [catorce]
+ vai       PA2      dígito hexadecimal F                      dígito/número: dígito hexadecimal F (decimal 15) [quince]
  pi        PA3      punto decimal                             dígito/número: radix (número base) point; default decimal
- pi'e      PA3      separador de dígitos                      dígito/número:separates digits for base >16, not current standard, or variable (e.g. time, date)
+ pi'e      PA3      separador de dígitos                      dígito/número: separador de dígitos base >16 o variable (ej: hora, fecha)
  fi'u      PA3      barra de fracción                         dígito/número: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio
- za'u      PA3      mayor que                                 dígito/número: greater than
- me'i      PA3      menor que                                 dígito/número: less than
- ni'u      PA3      número negativo                           dígito/número: minus sign; negative número); default any negative
- ki'o      PA3      separador de miles                        dígito/número: número comma; thousands
- ce'i      PA3      porcentaje                                dígito/número: % percentage symbol, hundredths
- ma'u      PA3      número positivo                           dígito/número: plus sign; positive número; default any positive
- ra'e      PA3      decimales repetidos                       dígito/número: repeating digits (of a decimal) follow
- da'a      PA4      todos excepto                             dígito/número: all except n; all but n; default 1
- so'a      PA4      casi todos                                dígito/número: almost all (dígito/número)
- ji'i      PA4      aproximadamente                           dígito/número: approximately (default the typical value in this context) (número)
- su'o      PA4      por lo menos                              dígito/número: at least (some); no less than
- su'e      PA4      a lo sumo                                 dígito/número: at most (all); no more than
- ro        PA4      cada                                      dígito/número: each, all
- rau       PA4      suficientes                               dígito/número: enough; subjective
- so'u      PA4      pocos                                     dígito/número: few
- so'i      PA4      muchos                                    dígito/número: many
- so'e      PA4      la mayoría                                dígito/número: most
- so'o      PA4      varios                                    dígito/número: several
- mo'a      PA4      demasiado pocos                           dígito/número: too few; subjective
- du'e      PA4      demasiados                                dígito/número: too many; subjective
- te'o      PA5      exponencial e                             dígito/número: exponential e (approx 2.71828...)
- ka'o      PA5      imaginario i                              dígito/número: imaginary i; square root of -1
- ci'i      PA5      infinidad                                 dígito/número: infinity; followed by digits => aleph cardinality
- tu'o      PA5      operando nulo                             dígito/número: null operand (used in unary operations); a non-specific/elliptical número
- xo        PA5      número ?                                  dígito/número: número/dígito/lerfu question
- pai       PA5      pi                                        dígito/número: pi (approximately 3.1416...)
- no'o      PA5      valor típico                              dígito/número: typical/average value
+ za'u      PA3      mayor que                                 dígito/número: mayor que
+ me'i      PA3      menor que                                 dígito/número: menor que
+ ni'u      PA3      número negativo                           dígito/número: signo menos; número negativo
+ ki'o      PA3      separador de miles                        dígito/número: separador de miles
+ ce'i      PA3      porcentaje                                dígito/número: % porcentaje, centésimos
+ ma'u      PA3      número positivo                           dígito/número: signo más; número positivo
+ ra'e      PA3      decimales repetidos                       dígito/número: repetición de dígitos
+ da'a      PA4      todos excepto                             dígito/número: todos excepto n; todos menos n; default 1
+ so'a      PA4      casi todos                                dígito/número: casi todos (dígito/número)
+ ji'i      PA4      aproximadamente                           dígito/número: aproximadamente (default the typical value in this context) (número)
+ su'o      PA4      por lo menos                              dígito/número: al menos (alguno); no menos que
+ su'e      PA4      a lo sumo                                 dígito/número: a lo sumo (all); no más que
+ ro        PA4      cada                                      dígito/número: cada, todos
+ rau       PA4      suficientes                               dígito/número: suficientes; bastantes; subjetivo
+ so'u      PA4      pocos                                     dígito/número: pocos
+ so'i      PA4      muchos                                    dígito/número: muchos
+ so'e      PA4      la mayoría                                dígito/número: la mayoría
+ so'o      PA4      varios                                    dígito/número: varios
+ mo'a      PA4      demasiado pocos                           dígito/número: demasiado pocos; subjetivo
+ du'e      PA4      demasiados                                dígito/número: demasiados; subjetivo
+ te'o      PA5      exponencial e                             dígito/número: exponencial e (aprox 2.71828...)
+ ka'o      PA5      imaginario i                              dígito/número: imaginario i; raíz cuadrada de -1
+ ci'i      PA5      infinito                                  dígito/número: infinito; seguido por dígitos => cardinalidad álef
+ tu'o      PA5      operando nulo                             dígito/número: operando nulo (usado en operaciones unarias); número elíptico/no específico
+ xo        PA5      número ?                                  dígito/número: pregunta de número/dígito/lerfu 
+ pai       PA5      pi                                        dígito/número: pi (aproximadamente 3.1416...)
+ no'o      PA5      valor típico                              dígito/número: valor típico/promedio
  pe'e      PEhE     termset conn mark                         marks the following connective as joining termsets
  pe'o      PEhO     fore mex operator                         forethought flag for mathematical expression (mex) Polish (forethought) operator
  ba        PU       después                                   tiempo verbal relation/direction: will [selbri]; after [sumti]; default future tense
@@ -733,50 +733,50 @@
  ra'o      RAhO     pro-assign update                         flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi
  re'u      ROI      ordinal tense                             converts número to an objectively quantified ordinal modificador de intervalo; defaults to time
  roi       ROI      quantified tense                          converts número to an objectively quantified modificador de intervalo; defaults to tiempo verbal
- so'uroi   ROI*     a few times                               modificador de intervalo: a few times; objective tense; defaults as tiempo verbal
- roroi     ROI*     always                                    modificador de intervalo: always; objectively quantified tense; defaults as tiempo verbal
- fe'eroroi ROI*     everywhere                                location modificador de intervalo: always in space; objectively quantified tense
- ci'iroi   ROI*     infinite times                            modificador de intervalo: occurs infinite times, eternally; objective tense; defaults as time
- so'iroi   ROI*     many times                                modificador de intervalo: many times; objective tense; defaults as tiempo verbal
- piso'iroi ROI*     much of the time                          modificador de intervalo: often; objectively quantified tense; defaults as tiempo verbal
- noroi     ROI*     never                                     modificador de intervalo: never; objectively quantified tense; defaults as tiempo verbal
- fe'enoroi ROI*     nowhere                                   location modificador de intervalo: never in space; objectively quantified tense
- paroi     ROI*     once                                      modificador de intervalo: once; objectively quantified tense; defaults as tiempo verbal
- piso'uroi ROI*     rarely                                    modificador de intervalo: rarely; objectively quantified tense; defaults as tiempo verbal
- ciroi     ROI*     thrice                                    modificador de intervalo: thrice; objectively quantified tense; defaults as tiempo verbal
- mo'aroi   ROI*     too few times                             modificador de intervalo: too few times; objective tense; defaults as tiempo verbal
- du'eroi   ROI*     too many times                            modificador de intervalo: too many times objective tense, defaults as tiempo verbal
- reroi     ROI*     twice                                     modificador de intervalo; objectively quantified tense; defaults as tiempo verbal
- so'eroi   ROI*     usually                                   modificador de intervalo: usually; objectively quantified tense; defaults as tiempo verbal
- sa        SA       erase expresión                           erase complete or partial expresión; next word shows how much erasing to do
- se        SE       2da conversión                            2nd conversion; switch 1st/2do argumentos
- te        SE       3ra conversión                            3rd conversion; switch 1st/3er argumentos
- ve        SE       4ta conversión                            4th conversion; switch 1st/4to argumentos
- xe        SE       5ta conversión                            5th conversion; switch 1st/5to argumentos
- jaigau    SE*      agent conversion                          makes x1 the agent of a bridi; old 1er argumento moves to extra place (fai)
- jaivi     SE*      location conversion                       convert location tense (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
- jaica     SE*      time conversion                           convert tiempo verbal (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
+ so'uroi   ROI*     unas pocas veces                          modificador de intervalo: unas pocas veces 
+ roroi     ROI*     siempre                                   modificador de intervalo: siempre, cada vez 
+ fe'eroroi ROI*     en todos lados                            modificador de intervalo espacial: en todos lados, en cada lugar
+ ci'iroi   ROI*     infinitas veces                           modificador de intervalo: infinitas veces, eternamente
+ so'iroi   ROI*     muchas veces                              modificador de intervalo: muchas veces
+ piso'iroi ROI*     much of the time                          modificador de intervalo: often 
+ noroi     ROI*     nunca                                     modificador de intervalo: nunca, ninguna vez 
+ fe'enoroi ROI*     en ningún lado                            modificador de intervalo espacial: en ningún lado
+ paroi     ROI*     una vez                                   modificador de intervalo: una vez, una única vez 
+ piso'uroi ROI*     rarely                                    modificador de intervalo: rarely 
+ ciroi     ROI*     tres veces                                modificador de intervalo: tres veces 
+ mo'aroi   ROI*     demasiado pocas veces                     modificador de intervalo: demasiado pocas veces 
+ du'eroi   ROI*     demasiadas veces                          modificador de intervalo: demasiadas veces 
+ reroi     ROI*     dos veces                                 modificador de intervalo: dos veces 
+ so'eroi   ROI*     la mayoría de las veces                   modificador de intervalo: la mayoría de las veces, usualmente 
+ sa        SA       borrar expresión                          borrar expresión parcial o completa; la palabra que sigue muestra cuanto borrar
+ se        SE       2da conversión                            2da conversión; intercambia 1er/2do argumentos
+ te        SE       3ra conversión                            3ra conversión; intercambia 1er/3er argumentos
+ ve        SE       4ta conversión                            4ta conversión; intercambia 1er/4to argumentos
+ xe        SE       5ta conversión                            5ta conversión; intercambia 1er/5to argumentos
+ jaigau    SE*      agent conversión                          makes x1 the agent of a bridi; old 1er argumento moves to extra place (fai)
+ jaivi     SE*      location conversión                       convert location tense (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
+ jaica     SE*      time conversión                           convert tiempo verbal (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
  sei       SEI      bridi discursivo                          start discursivo (metalinguistic) bridi
  ti'o      SEI      mex precedence                            mathematical expression (mex) operator precedence (discursivo)
- se'u      SEhU     fin discursivo                            elidable terminator: end discursivo bridi or mathematical precedence;usually elidable
+ se'u      SEhU     fin discursivo                            terminador elisible: end discursivo bridi or mathematical precedence;usually elidable
  si        SI       erase word                                erase the last Lojban word, treating non-Lojban text as a single word
  soi       SOI      reciprocal sumti                          discursivo: reciprocal sumti marker; indicates a reciprocal relationship between sumti
  su        SU       erase discourse                           erase to start of discourse or text; drop subject or start over
- ru'i      TAhE     continuamente                             modificador de intervalo: continuously; subjective tense/modal; defaults as tiempo verbal
- ta'e      TAhE     habitualmente                             modificador de intervalo: habitually; subjective tense/modal; defaults as tiempo verbal
- di'i      TAhE     regularmente                              modificador de intervalo: regularly; subjective tense/modal; defaults as tiempo verbal
- na'o      TAhE     típicamente                               modificador de intervalo: characteristically/typically; tense/modal; defaults as tiempo verbal
- na'onai   TAhE*    atypically                                modificador de intervalo: atypically; subjective tense/modal; defaults as tiempo verbal
- di'inai   TAhE*    irregularly                               modificador de intervalo: irregularly/aperiodically; tense/modal; defaults as tiempo verbal
- ta'enai   TAhE*    non-habitually                            modificador de intervalo: non-habitually; subjective tense/modal; defaults as tiempo verbal
- ru'inai   TAhE*    occasionally                              modificador de intervalo: occasional/intermittent/discontinuous; defaults as tiempo verbal
+ ru'i      TAhE     continuamente                             modificador de intervalo: continuamente 
+ ta'e      TAhE     habitualmente                             modificador de intervalo: habitualmente 
+ di'i      TAhE     regularmente                              modificador de intervalo: regularmente 
+ na'o      TAhE     típicamente                               modificador de intervalo: característica/típicamente
+ na'onai   TAhE*    atípicamente                              modificador de intervalo: atípicamente 
+ di'inai   TAhE*    irregularmente                            modificador de intervalo: irregular/aperiódicamente
+ ta'enai   TAhE*    no habitualmente                          modificador de intervalo: no habitualmente 
+ ru'inai   TAhE*    ocasionalmente                            modificador de intervalo: ocasional/intermitente/discontinuamente 
  tei       TEI      lerfu compuesto                           composite letteral follows; used for muti-character letterals
- te'u      TEhU     end mex converters                        elidable terminator: end conversion between non-mex and mex; usually elidable
+ te'u      TEhU     end mex converters                        terminador elisible: end conversión between non-mex and mex; usually elidable
  to'i      TO       editorial unquote                         open editorial unquote (within a quote); contains grammatical text; mark with editorial insert
  to        TO       abre paréntesis                           left parenthesis; start of parenthetical note which must be grammatical Lojban text
- toi       TOI      cierra paréntesis                         elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text
+ toi       TOI      cierra paréntesis                         terminador elisible: right parenthesis/end unquote; seldom elidable except at end of text
  tu'e      TUhE     start text scope                          start of multiple expresión scope; used for logical/non-logical/ordinal joining of sentences
- tu'u      TUhU     end text scope                            elidable terminator: end multiple expresión scope; seldom elidable
+ tu'u      TUhU     end text scope                            terminador elisible: end multiple expresión scope; seldom elidable
 .e'ucu'i   UI*1     abandon suggestion                        actitudinal: suggestion - abandon suggest - warning
 .o'onai    UI*1     anger                                     actitudinal: patience - mere tolerance - anger
 .oiro'i    UI*1     anxiety                                   actitudinal: emotional complaint
@@ -890,179 +890,179 @@
  ki'anai   UI*6     understanding                             non-question: understanding of something said
  bu'ocu'i  UI*7     continue emotion                          actitudinal contour: start emotion - continue emotion - end emotion
  bu'onai   UI*7     end emotion                               actitudinal contour: start emotion - continue emotion - end emotion
-.i'a       UI1      aceptación                                actitudinal: acceptance - blame                                                                           (cf. nalna'e, nalpro, no'epro, nalzugjdi)
-.ie        UI1      acuerdo                                   actitudinal: agreement - disagreement                                                                     (cf. tugni)
-.a'e       UI1      alerta                                    actitudinal: alertness - exhaustion                                                                       (cf. sanji, cikna, tatpi)
-.u'i       UI1      diversión                                 actitudinal: amusement - weariness                                                                        (cf. selzdi, selxajmi, xalbo)
-.i'o       UI1      apreciación                               actitudinal: appreciation - envy                                                                          (cf. ckire, jilra)
-.i'e       UI1      aprobación                                actitudinal: approval - non-approval - disapproval                                                        (cf. zanru)
-.a'a       UI1      atención                                  actitudinal: attentive - inattentive - avoiding                                                           (cf. jundi, rivbi)
-.ia        UI1      creencia                                  actitudinal: belief - skepticism - disbelief                                                              (cf. krici, jinvi)
-.o'i       UI1      precaución                                actitudinal: caution - rashness                                                                           (cf. capyrivbi, capfanta, srerivbi, srefanta, naldarsi, seljde)
-.o'e       UI1      cercanía                                  actitudinal: closeness - distance                                                                         (cf. cnijbi, cnikansa)
-.e'e       UI1      competencia                               actitudinal: competence - incompetence/inability                                                          (cf. kakne, certu)
-.oi        UI1      queja                                     actitudinal: complaint - pleasure                                                                         (cf. pante, pluka, kufra)
-.uo        UI1      culminación                               actitudinal: completion - incompleteness                                                                  (cf. mulno, mansa, fanmo, snada)
-.e'i       UI1      restricción                               actitudinal: feeling constraint - independence - challenge/resistance against constraint                  (cf. selri'u, seljimte)
-.u'o       UI1      coraje                                    actitudinal: courage - timidity - cowardice                                                               (cf. virnu)
-.au        UI1      deseo                                     actitudinal: desire - indifference - reluctance                                                           (cf. djica)
-.ua        UI1      descubrimiento                            actitudinal: discovery - confusion/searching                                                              (cf. facki, cfipu, sisku)
-.a'i       UI1      esfuerzo                                  actitudinal: effort - no special effort - repose                                                          (cf. gunka, slunandu, guksurla, troci, selprogunka)
-.i'u       UI1      familiaridad                              actitudinal: familiarity - mystery                                                                        (cf. slabu, nalni'o, kufra)
-.ii        UI1      miedo                                     actitudinal: fear - security                                                                              (cf. terpa, snura)
-.u'a       UI1      ganancia                                  actitudinal: gain - loss                                                                                  (cf. jinga, selne'u, prali, cirko)
-.ui        UI1      felicidad                                 actitudinal: happiness - unhappiness                                                                      (cf. gleki)
-.a'o       UI1      esperanza                                 actitudinal: hope - despair                                                                               (cf. pacna)
-.ai        UI1      intención                                 actitudinal: intent - indecision - rejection/refusal                                                      (cf. termu'i, terzu'e, seljdi, selcu'a)
-.a'u       UI1      interés                                   actitudinal: interest - disinterest - repulsion                                                           (cf. cinri, selcni)
-.iu        UI1      amor                                      actitudinal: love - no love lost - hatred                                                                 (cf. prami)
-.ei        UI1      obligación                                actitudinal: obligation - freedom                                                                         (cf. bilga, zifre)
-.o'o       UI1      paciencia                                 actitudinal: patience - mere tolerance - anger                                                            (cf. fengu, to'ersteba, de'acni
-.e'a       UI1      permiso                                   actitudinal: granting permission - prohibiting                                                            (cf. curmi)
-.uu        UI1      compasión                                 actitudinal: pity - cruelty                                                                               (cf. kecti)
-.o'a       UI1      orgullo                                   actitudinal: pride - modesty/humility - shame                                                             (cf. jgira, cumla, ckeji)
-.o'u       UI1      relajación                                actitudinal: relaxation - composure - stress                                                              (cf. surla, cnilanxe, dunku)
-.u'u       UI1      arrepentimiento                           actitudinal: repentance - lack of regret - innocence                                                      (cf. xenru, zugycni)
-.e'o       UI1      pedido                                    actitudinal: request - negative request                                                                   (cf. cpedu, pikci)
-.io        UI1      respeto                                   actitudinal: respect - disrespect                                                                         (cf. sinma)
-.e'u       UI1      sugestión                                 actitudinal: suggestion - abandon suggest - warning                                                       (cf. stidi, kajde)
-.ue        UI1      sorpresa                                  actitudinal: surprise - not really surprised - expectation                                                (cf. spaji)
-.i'i       UI1      togetherness                              actitudinal: togetherness - privacy                                                                       (cf. kansa, gumna, sivni, sepli)
-.u'e       UI1      asombro                                   actitudinal: wonder - commonplace                                                                         (cf. manci, fadni)
- ba'a      UI2      anticipación                              evidencial: I expect - I experience - I remember                                                          (cf. bavykri, lifri, morji)
- ja'o      UI2      conclusión                                evidencial: I conclude                                                                                    (cf. selni'i, ni'ikri)
- ca'e      UI2      definición                                evidencial: I define                                                                                      (cf. mitcu'a, mitsmu)
- su'a      UI2      generalización                            evidencial: I generalize - I particularize; discursivo: abstractly - concretely                           (cf. sucta, sucni'i)
- ti'e      UI2      dicen que                                 evidencial: I hear (hearsay)                                                                              (cf. tirna, sitna, tcidu)
- ka'u      UI2      I know culturally                         evidencial: I know by cultural means (myth or custom)                                                     (cf. kluju'o)
- se'o      UI2      I know internally                         evidencial: I know by internal experience (dream, vision, or personal revelation)                         (cf. senva)
- za'a      UI2      observación                               evidencial: I observe                                                                                     (cf. zgana, lanli)
- pe'i      UI2      opinión                                   evidencial: I opine (subjective claim)                                                                                      (cf. jinvi)
- ru'a      UI2      postulado                                 evidencial: I postulate                                                                                   (cf. sruma)
- ju'a      UI2      I state                                   evidencial: I state - (default) elliptical/non-specific basis                                             (cf. xusra)
- ta'o      UI3      by the way                                discursivo: by the way - returning to main point                                                          (cf. denpa, cneterta'a)
- ra'u      UI3      principalmente                            discursivo: chiefly - equally - incidentally                                                              (cf. ralju, vajni)
- li'a      UI3      claramente                                discursivo: clearly - obscurely                                                                           (cf. klina)
- ba'u      UI3      exageración                               discursivo: exaggeration - accuracy - understatement                                                      (cf. satci, dukse)
- mu'a      UI3      ejemplo                                   discursivo: for example - omitting - end examples                                                         (cf. mupli)
- do'a      UI3      generosamente                             discursivo: generously - parsimoniously                                                                   (cf. dunda)
- to'u      UI3      en breve                                  discursivo: in brief - in detail                                                                          (cf. tordu, clani, tcidu)
- va'i      UI3      en otras palabras                         discursivo: in other words - in the same words                                                            (cf. cneselsku)
- pa'e      UI3      justicia                                  discursivo: justice - prejudice                                                                           (cf. tcinydracu'a, tcinydrapai, vudypai)
- zu'u      UI3      por un lado                               discursivo: on the one hand - on the other hand                                                           (cf. karbi, frica. dukti)
- sa'e      UI3      precisión                                 discursivo: precisely speaking - loosely speaking                                                         (cf. satci, jibni)
- la'a      UI3      probablemente                             discursivo: probability - improbability                                                                   (cf. lakne)
- ke'u      UI3      repitiendo                                discursivo: repeating - continuing                                                                        (cf. refbasna, krefu, rapli, velde'a)
- sa'u      UI3      simply speaking                           discursivo: simply - elaborating                                                                          (cf. sampu, pluja)
- da'i      UI3      suposición                                discursivo: supposing - in fact                                                                           (cf. sruma)
- je'u      UI3      verdad                                    discursivo: truth - falsity                                                                               (cf. jetnu)
- sa'a      UI3a     inserción editorial                       discursivo: material inserted by editor/narrator (bracketed text)                                         (cf. setca)
- kau       UI3a     pregunta indirecta                        discursivo: marks word serving as focus of indirect question: "I know WHO went to the store"
- ta'u      UI3a     making a tanru                            discursivo: making a tanru - expanding the tanru                                                          (cf. tanru)
- na'i      UI3a     no metalinguistico                        discursivo: metalinguistic negator                                                                        (cf. naldra, nalmapti)
- jo'a      UI3a     sí metalinguistico                        discursivo: metalinguistic affirmer                                                                       (cf. drani)
- bi'u      UI3a     información nueva                         discursivo: newly introduced information - previously introduced information                              (cf. nindatni, saurdatni)
- li'o      UI3a     texto omitido                             discursivo: omitted text (quoted material)
- pau       UI3a     pregunta                                  discursivo: optional question premarker                                                                   (cf. preti)
- mi'u      UI3b     lo dicho                                  discursivo: ditto                                                                                         (cf. mintu)
- ku'i      UI3b     sin embargo                               discursivo: however/but/in contrast                                                                       (cf. karbi, dukti, nalpanra)
- ji'a      UI3b     además                                    discursivo: additionally                                                                                  (cf. jmina)
- si'a      UI3b     similarmente                              discursivo: similarly                                                                                     (cf. simsa, panra)
- po'o      UI3b     sólo                                      discursivo: uniquely, only, solely: the only relevant case                                                (cf. pamei, mulno, frica)
- pe'a      UI3c     figurativo                                marks a construct as figurative (non-literal/metaphorical) speech/text
- ro'i      UI4      emocional                                 categoría emocional: emotional - denying emotion                                                    (cf. cinmo)
- ro'e      UI4      mental                                    categoría emocional: mental - mindless                                                              (cf. menli)
- ro'o      UI4      físico                                    categoría emocional: physical - denying physical                                                    (cf. xadni)
- ro'u      UI4      sexual                                    categoría emocional: sexual - sexual abstinence                                                     (cf. cinse)
+.i'a       UI1      aceptación                                actitudinal: aceptación - culpa                                                                           (cf. nalna'e, nalpro, no'epro, nalzugjdi)
+.ie        UI1      acuerdo                                   actitudinal: acuerdo - desacuerdo                                                                         (cf. tugni)
+.a'e       UI1      alerta                                    actitudinal: alerta - agotamiento                                                                         (cf. sanji, cikna, tatpi)
+.u'i       UI1      diversión                                 actitudinal: diversión - tedio                                                                            (cf. selzdi, selxajmi, xalbo)
+.i'o       UI1      apreciación                               actitudinal: apreciación - envidia                                                                        (cf. ckire, jilra)
+.i'e       UI1      aprobación                                actitudinal: aprobación - no aprobación - desaprobación                                                   (cf. zanru)
+.a'a       UI1      atención                                  actitudinal: atención - desatención - evasión                                                             (cf. jundi, rivbi)
+.ia        UI1      creencia                                  actitudinal: creencia - escepticismo - descreimiento                                                      (cf. krici, jinvi)
+.o'i       UI1      precaución                                actitudinal: precaución - apresuramiento                                                                  (cf. capyrivbi, capfanta, srerivbi, srefanta, naldarsi, seljde)
+.o'e       UI1      cercanía                                  actitudinal: cercanía - distancia                                                                         (cf. cnijbi, cnikansa)
+.e'e       UI1      competencia                               actitudinal: competencia - incompetencia/inhabilidad                                                      (cf. kakne, certu)
+.oi        UI1      queja                                     actitudinal: queja - placer                                                                               (cf. pante, pluka, kufra)
+.uo        UI1      culminación                               actitudinal: culminación - incompletitud                                                                  (cf. mulno, mansa, fanmo, snada)
+.e'i       UI1      restricción                               actitudinal: restricción - independencia - desafío/resistencia a restricción                              (cf. selri'u, seljimte)
+.u'o       UI1      coraje                                    actitudinal: coraje - timidez - cobardía                                                               (cf. virnu)
+.au        UI1      deseo                                     actitudinal: deseo - indiferencia - rechazo                                                           (cf. djica)
+.ua        UI1      descubrimiento                            actitudinal: descubrimiento - confusión/búsqueda                                                              (cf. facki, cfipu, sisku)
+.a'i       UI1      esfuerzo                                  actitudinal: esfuerzo - ningún esfuerzo especial - reposo                                                          (cf. gunka, slunandu, guksurla, troci, selprogunka)
+.i'u       UI1      familiaridad                              actitudinal: familiaridad - misterio                                                                        (cf. slabu, nalni'o, kufra)
+.ii        UI1      miedo                                     actitudinal: miedo - seguridad                                                                              (cf. terpa, snura)
+.u'a       UI1      ganancia                                  actitudinal: ganancia - pérdida                                                                                  (cf. jinga, selne'u, prali, cirko)
+.ui        UI1      felicidad                                 actitudinal: felicidad - tristeza                                                                      (cf. gleki)
+.a'o       UI1      esperanza                                 actitudinal: esperanza - desesperación                                                                               (cf. pacna)
+.ai        UI1      intención                                 actitudinal: intención - indecisión - rechazo/denegación                                                      (cf. termu'i, terzu'e, seljdi, selcu'a)
+.a'u       UI1      interés                                   actitudinal: interés - desinterés - repulsión                                                           (cf. cinri, selcni)
+.iu        UI1      amor                                      actitudinal: amor - indiferencia - odio                                                                 (cf. prami)
+.ei        UI1      obligación                                actitudinal: obligación - libertad                                                                         (cf. bilga, zifre)
+.o'o       UI1      paciencia                                 actitudinal: paciencia - tolerancia - enojo                                                            (cf. fengu, to'ersteba, de'acni
+.e'a       UI1      permiso                                   actitudinal: permiso - prohibición                                                            (cf. curmi)
+.uu        UI1      compasión                                 actitudinal: compasión - crueldad                                                                               (cf. kecti)
+.o'a       UI1      orgullo                                   actitudinal: orgullo - modestia/humildad - vergüenza                                                             (cf. jgira, cumla, ckeji)
+.o'u       UI1      relajación                                actitudinal: relajación - compostura - estrés                                                              (cf. surla, cnilanxe, dunku)
+.u'u       UI1      arrepentimiento                           actitudinal: arrepentimiento - falta de arrepentimiento - inocencia                                                      (cf. xenru, zugycni)
+.e'o       UI1      pedido                                    actitudinal: pedido - pedido negativo                                                                   (cf. cpedu, pikci)
+.io        UI1      respeto                                   actitudinal: respeto - falta de respeto                                                                         (cf. sinma)
+.e'u       UI1      sugerencia                                actitudinal: sugerencia - abandono de sugerencia - amenaza                                                       (cf. stidi, kajde)
+.ue        UI1      sorpresa                                  actitudinal: sorpresa - no sorpresa - expectativa                                                (cf. spaji)
+.i'i       UI1      togetherness                              actitudinal: togetherness - privacidad                                                                       (cf. kansa, gumna, sivni, sepli)
+.u'e       UI1      asombro                                   actitudinal: asombro - lugar común                                                                         (cf. manci, fadni)
+ ba'a      UI2      anticipación                              evidencial: anticipación - experiencia - recuerdo                                                          (cf. bavykri, lifri, morji)
+ ja'o      UI2      conclusión                                evidencial: conclusión                                                                                    (cf. selni'i, ni'ikri)
+ ca'e      UI2      definición                                evidencial: definición                                                                                      (cf. mitcu'a, mitsmu)
+ su'a      UI2      generalización                            evidencial: generalización - particularización; discursivo: en abstracto - concretamente                           (cf. sucta, sucni'i)
+ ti'e      UI2      dicen que                                 evidencial: dicen que, se dice que                                                                              (cf. tirna, sitna, tcidu)
+ ka'u      UI2      sé culturalmente                          evidencial: sé culturalmente (mito o costumbre)                                                     (cf. kluju'o)
+ se'o      UI2      sé internamente                           evidencial: sé por experiencia interna (sueño, visión, revelación personal)                         (cf. senva)
+ za'a      UI2      observación                               evidencial: observación                                                                                     (cf. zgana, lanli)
+ pe'i      UI2      opinión                                   evidencial: opinión (declaración subjetiva)                                                                                      (cf. jinvi)
+ ru'a      UI2      postulado                                 evidencial: postulado                                                                                   (cf. sruma)
+ ju'a      UI2      declaración                               evidencial: declaración - (default) base elíptica/no específica                                             (cf. xusra)
+ ta'o      UI3      a propósito                               discursivo: a propósito, por cierto, de paso - regresando al punto principal                                                          (cf. denpa, cneterta'a)
+ ra'u      UI3      principalmente                            discursivo: principalmente - igualmente - incidentalmente                                                              (cf. ralju, vajni)
+ li'a      UI3      claramente                                discursivo: claramente - oscuramente                                                                           (cf. klina)
+ ba'u      UI3      exageración                               discursivo: exageración - exactitud - minimización                                                      (cf. satci, dukse)
+ mu'a      UI3      ejemplo                                   discursivo: ejemplo - omitiendo - fin de ejemplos                                                         (cf. mupli)
+ do'a      UI3      generosidad                               discursivo: generosidad - parsimonia                                                                   (cf. dunda)
+ to'u      UI3      en breve                                  discursivo: en breve - en detalle                                                                          (cf. tordu, clani, tcidu)
+ va'i      UI3      en otras palabras                         discursivo: en otras palabras - en las mismas palabras                                                            (cf. cneselsku)
+ pa'e      UI3      justicia                                  discursivo: justicia - prejuicio                                                                           (cf. tcinydracu'a, tcinydrapai, vudypai)
+ zu'u      UI3      por un lado                               discursivo: por un lado - por otro lado                                                           (cf. karbi, frica. dukti)
+ sa'e      UI3      precisión                                 discursivo: precisión - imprecisión                                                         (cf. satci, jibni)
+ la'a      UI3      probablemente                             discursivo: probablemente - improbablemente                                                                   (cf. lakne)
+ ke'u      UI3      repitiendo                                discursivo: repitiendo - continuando                                                                        (cf. refbasna, krefu, rapli, velde'a)
+ sa'u      UI3      simply speaking                           discursivo: simplemente - elaborando                                                                          (cf. sampu, pluja)
+ da'i      UI3      suposición                                discursivo: suposición - de hecho                                                                           (cf. sruma)
+ je'u      UI3      verdad                                    discursivo: verdad - falsedad                                                                               (cf. jetnu)
+ sa'a      UI3a     inserción editorial                       discursivo: inserción del editor/narrador (texto entre paréntesis)                                         (cf. setca)
+ kau       UI3a     pregunta indirecta                        discursivo: marca el foco de una pregunta indirecta: "sé QUIÉN fue al mercado"
+ ta'u      UI3a     creando un tanru                          discursivo: creando un tanru - expandiendo el tanru                                                          (cf. tanru)
+ na'i      UI3a     no metalinguistico                        discursivo: negación metalinguistica                                                                         (cf. naldra, nalmapti)
+ jo'a      UI3a     sí metalinguistico                        discursivo: afirmación metalinguistica                                                                        (cf. drani)
+ bi'u      UI3a     información nueva                         discursivo: información nueva - información ya conocida                              (cf. nindatni, saurdatni)
+ li'o      UI3a     texto omitido                             discursivo: texto omitido (material citado)
+ pau       UI3a     pregunta                                  discursivo: indicador de pregunta                                                                   (cf. preti)
+ mi'u      UI3b     lo dicho                                  discursivo: lo dicho                                                                                         (cf. mintu)
+ ku'i      UI3b     sin embargo                               discursivo: sin embargo/pero/en contraste                                                                       (cf. karbi, dukti, nalpanra)
+ ji'a      UI3b     además                                    discursivo: además/también                                                                                  (cf. jmina)
+ si'a      UI3b     similarmente                              discursivo: similarmente                                                                                     (cf. simsa, panra)
+ po'o      UI3b     sólo                                      discursivo: sólo, solamente, únicamente: el único caso relevante                                                (cf. pamei, mulno, frica)
+ pe'a      UI3c     figurativo                                indica discurso figurativo/no literal/metafórico
+ ro'i      UI4      emocional                                 categoría emocional: emocional - negación de emoción                                                    (cf. cinmo)
+ ro'e      UI4      mental                                    categoría emocional: mental - descerebrado                                                              (cf. menli)
+ ro'o      UI4      físico                                    categoría emocional: físico - negación de lo físico                                                    (cf. xadni)
+ ro'u      UI4      sexual                                    categoría emocional: sexual - abstinencia sexual                                                      (cf. cinse)
  ro'a      UI4      social                                    categoría emocional: social - antisocial                                                            (cf. jikca)
- re'e      UI4      espiritual                                categoría emocional: religious/spiritual/worship - sacrilege                                        (cf. lijda)
- le'o      UI5      agresivo                                  modificador de actitudinal: aggressive - passive - defensive                                                    (cf. gunta, bandu)
- ju'o      UI5      certeza                                   modificador de actitudinal: certainty - uncertainty - impossibility                                             (cf. birti, cumki)
- fu'i      UI5      fácil                                     modificador de actitudinal: easy - difficult                                                                    (cf. frili)
- dai       UI5      empatía                                   modificador de actitudinal: marks empathetic use of preceding actitudinal; shows another's feelings             (cf. cnijmi)
- ga'i      UI5      hauteur                                   modificador de actitudinal/honorific: hauteur - equal rank - meekness; used with one of lower rank              (cf. gapru, cnita)
- zo'o      UI5      humor                                     modificador de actitudinal: humorously - dully - seriously                                                      (cf. xajmi, junri)
- be'u      UI5      carencia                                  modificador de actitudinal: lack/need - presence/satisfaction - satiation                                       (cf. claxu, nitcu, mansa)
- ri'e      UI5      descarga de emoción                       modificador de actitudinal: release of emotion - emotion restraint                                              (cf. cniri'u, cnicru)
- se'i      UI5      autoorientado                             modificador de actitudinal: self-oriented - other-oriented                                                      (cf. sevzi, drata)
- se'a      UI5      autosuficiencia                           modificador de actitudinal: self-sufficiency - dependency                                                       (cf. sezysei, kantcu)
- vu'e      UI5      virtud                                    modificador de actitudinal: virtue - sin                                                                        (cf. vrude, zungi)
- ki'a      UI6      confusión textual                         actitudinal question: confusion about something said                                                      (cf. cfipu, kucli)
- xu        UI6      acaso ?                                   discursivo: true-false question
- ge'e      UI6      emoción no específica                     actitudinal: elliptical/unspecified/non-specific emotion; no particular feeling
- bu'o      UI7      comienzo de emoción                       actitudinal contour: start emotion - continue emotion - end emotion
- vi        VA       aquí                                      distancia espacial: here at ... ; at or a very short/tiny distance from ...
- va        VA       allí                                      distancia espacial: near to ... ; there at ...; a medium/small distance from ...
- vu        VA       allá                                      distancia espacial: far from ... ; yonder at ... ; a long distance from ...
- vau       VAU      fin bridi simple                          elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti
+ re'e      UI4      espiritual                                categoría emocional: religioso/espiritual/adoración - sacrilegio                                        (cf. lijda)
+ le'o      UI5      agresivo                                  modificador de actitudinal: agresivo - pasivo - defensivo                                                    (cf. gunta, bandu)
+ ju'o      UI5      certeza                                   modificador de actitudinal: certeza - incertidumbre - imposibilidad                                             (cf. birti, cumki)
+ fu'i      UI5      fácil                                     modificador de actitudinal: fácil - difícil                                                                    (cf. frili)
+ dai       UI5      empatía                                   modificador de actitudinal: empatía; muestra los sentimientos de otro                                (cf. cnijmi)
+ ga'i      UI5      alteza                                    modificador de actitudinal/honorífico: alteza - igual rango - sumisión; usado con alguien the rango menor              (cf. gapru, cnita)
+ zo'o      UI5      humor                                     modificador de actitudinal: humor - seriedad                                                      (cf. xajmi, junri)
+ be'u      UI5      carencia                                  modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad                                       (cf. claxu, nitcu, mansa)
+ ri'e      UI5      descarga de emoción                       modificador de actitudinal: descarga de emoción - contención de emoción                                              (cf. cniri'u, cnicru)
+ se'i      UI5      autoorientado                             modificador de actitudinal: orientado a sí mismo - orientado a otro                                                      (cf. sevzi, drata)
+ se'a      UI5      autosuficiencia                           modificador de actitudinal: autosuficiencia - dependencia                                                       (cf. sezysei, kantcu)
+ vu'e      UI5      virtud                                    modificador de actitudinal: virtud - pecado                                                                        (cf. vrude, zungi)
+ ki'a      UI6      confusión textual                         pregunta actitudinal: confusión sobre lo dicho                                                      (cf. cfipu, kucli)
+ xu        UI6      acaso ?                                   discursivo: pregunta verdadero-falso
+ ge'e      UI6      emoción no específica                     actitudinal: emoción elíptica/no específica; ningún sentimiento en especial
+ bu'o      UI7      comienzo de emoción                       contorno actitudinal: comienzo de emoción - continuidad de emoción - fin de emoción
+ vi        VA       aquí                                      distancia espacial: aquí, acá; a una distancia pequeña
+ va        VA       allí                                      distancia espacial: allí, allá; a una distancia media
+ vu        VA       acullá                                    distancia espacial: acullá; a una distancia larga
+ vau       VAU      fin bridi simple                          elidable: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común
  vei       VEI      abre paréntesis                           left mathematical bracket
- ve'u      VEhA     intervalo espacial grande                 intervalo espacial: a large region of space
- ve'a      VEhA     intervalo espacial medio                  intervalo espacial: a small/medium region of space
- ve'i      VEhA     intervalo espacial pequeño                intervalo espacial: a tiny region of space
- ve'e      VEhA     intervalo espacial total                  intervalo espacial: the whole of space
+ ve'u      VEhA     intervalo espacial grande                 intervalo espacial: región espacial grande
+ ve'a      VEhA     intervalo espacial medio                  intervalo espacial: región espacial media
+ ve'i      VEhA     intervalo espacial pequeño                intervalo espacial: región espacial pequeña
+ ve'e      VEhA     intervalo espacial total                  intervalo espacial: totalidad del espacio
  ve'o      VEhO     cierra parentesis                         right mathematical bracket
- vi'i      VIhA     intervalo espacial 1D                     dimensión de intervalo: 1-space interval; along a line
- vi'a      VIhA     intervalo espacial 2D                     dimensión de intervalo: 2-space interval; throughout an area
- vi'u      VIhA     intervalo espacial 3D                     dimensión de intervalo: 3-space interval; throughout a space
- vi'e      VIhA     intervalo especial 4D                     dimensión de intervalo: 4-space interval; throughout a spacetime
+ vi'i      VIhA     intervalo espacial 1-D                    dimensión de intervalo: intervalo espacial 1-D; a lo largo de una línea
+ vi'a      VIhA     intervalo espacial 2-D                    dimensión de intervalo: intervalo espacial 2-D; por toda un área
+ vi'u      VIhA     intervalo espacial 3-D                    dimensión de intervalo: intervalo espacial 3-D; por todo un volumen
+ vi'e      VIhA     intervalo especial 4-D                    dimensión de intervalo: intervalo espacial 4-D; por toda una región de espacio-tiempo
  vu'o      VUhO     relativo alcance largo                    joins relative clause/phrase to complete complex or logically connected sumti in afterthought
- ge'a      VUhU0    operador nulo                             mathematical operator: null mathematical expression (mex) operator (used in >2-ary ops)
- fu'u      VUhU0    operador no específico                    operador matemático n-ario: elliptical/unspecified mathematical expression (mex) operator
- fe'i      VUhU1    dividido por                              operador matemático n-ario: divided by; division operator; [(((a / b) / c) / ...)]
- vu'u      VUhU1    menos                                     operador matemático n-ario: minus; subtraction operator; [(((a - b) - c) - ...)]
- su'i      VUhU1    más                                       operador matemático n-ario: plus; addition operator; [(((a + b) + c) + ...)]
- pi'i      VUhU1    multiplicado por                          operador matemático n-ario: times; multiplication operator; [(((a * b) * c) * ...)]
- gei       VUhU2    notación exponencial                      operador matemático trinario: order of magnitude/value/base; [b * (c to the a power)]
- ju'u      VUhU2    base numérica                             operador matemático binario: número base; [a interpreted in the base b]
- pa'i      VUhU2    razón                                     operador matemático binario: ratio; [the ratio of a to b]
- fa'i      VUhU2    recíproco de                              operador matemático unitario: reciprocal; multiplicative inverse; [1/a]
- te'a      VUhU2    potencia                                  operador matemático binario: to the power; exponential; [a to the b power]
- cu'a      VUhU3    valor absoluto                            operador matemático unitario: absolute value/norm  |a|
- va'a      VUhU3    inverso aditivo                           operador matemático unitario: additive inverse; [- a]
- ne'o      VUhU3    factorial                                 operador matemático unitario: factorial; a!
- de'o      VUhU3    logaritmo                                 operador matemático binario: logarithm; [log/ln a to base b]; default base 10 or e
- fe'a      VUhU3    raíz enésima de                           operador matemático binario: nth root of; inverse power [a to the 1/b power]
- sa'o      VUhU4    derivada                                  operador matemático trinario: [derivative of a with respect to b of degree c]
- ri'o      VUhU4    integral                                  operador matemático trinario: [integral of a with respect to b over range c]
- sa'i      VUhU4    matríz de columnas                        operador matemático n-ario: operands are vectors to be treated as matrix columns
- pi'a      VUhU4    matríz de filas                           operador matemático n-ario: operands are vectors to be treated as matrix rows
- si'i      VUhU4    sumatoria                                 operador matemático trinario: [sigma summation of a using variable b over range c]
- re'a      VUhU4    transpuesto                               operador matemático unitario: matrix transpose/dual; A*
- xi        XI       subíndice                                 subscript; attaches a numer of letteral string following as a subscript onto grammar structures
+ ge'a      VUhU0    operador nulo                             operador matemático: expresión matemática nula
+ fu'u      VUhU0    operador no específico                    operador matemático n-ario: expresión matemática elíptica/no específica 
+ fe'i      VUhU1    dividido por                              operador matemático n-ario: dividido por; operador de división; [(((a / b) / c) / ...)]
+ vu'u      VUhU1    menos                                     operador matemático n-ario: menos; operador de substracción; [(((a - b) - c) - ...)]
+ su'i      VUhU1    más                                       operador matemático n-ario: más; operador de adición; [(((a + b) + c) + ...)]
+ pi'i      VUhU1    multiplicado por                          operador matemático n-ario: por; operador de multiplicación; [(((a * b) * c) * ...)]
+ gei       VUhU2    notación exponencial                      operador matemático trinario: orden de magnitud/valor/base; [b * (c to the a power)]
+ ju'u      VUhU2    base numérica                             operador matemático binario: base numérica; [a interpretado en base b]
+ pa'i      VUhU2    razón                                     operador matemático binario: razón; [la razón entre a y b]
+ fa'i      VUhU2    recíproco de                              operador matemático unitario: recíproco; inverso multiplicativo; [1/a]
+ te'a      VUhU2    potencia                                  operador matemático binario: potencia; exponencial; [a elevado a la potencia b]
+ cu'a      VUhU3    valor absoluto                            operador matemático unitario: valor absoluto/norma  [|a|]
+ va'a      VUhU3    inverso aditivo                           operador matemático unitario: inverso aditivo; [- a]
+ ne'o      VUhU3    factorial                                 operador matemático unitario: factorial; [a!]
+ de'o      VUhU3    logaritmo                                 operador matemático binario: logaritmo; [log/ln a en base b]; default base 10 or e
+ fe'a      VUhU3    raíz enésima de                           operador matemático binario: raíz enésima de; potencia inversa [a elevado a la potencia 1/b]
+ sa'o      VUhU4    derivada                                  operador matemático trinario: [derivada de a con respecto a b de grado c]
+ ri'o      VUhU4    integral                                  operador matemático trinario: [integral de a con respecto a b sobre rango c]
+ sa'i      VUhU4    matríz de columnas                        operador matemático n-ario: operandos son vectores a tratar como matrices columna
+ pi'a      VUhU4    matríz de filas                           operador matemático n-ario: operandos son vectores a tratar como matrices fila
+ si'i      VUhU4    sumatoria                                 operador matemático trinario: [sumatoria sigma de a con variable b sobre rango c]
+ re'a      VUhU4    transpuesto                               operador matemático unitario: matríz transpuesta/dual; [A*]
+ xi        XI       subíndice                                 subíndice; adhiere un número o cadena leteral como subíndice de estructuras gramaticales
 .y         Y        duda                                      hesitation noise; maintains the floor while speaker decides what to say next
- co'i      ZAhO     achievative                               aspecto verbal: at the instantaneous point of ...; achievative; point event   >|<
- pu'o      ZAhO     anticipativo                              aspecto verbal: in anticipation of ...;  until ... ; inchoative         ----|     |
- co'u      ZAhO     cesativo                                  aspecto verbal: at the ending point of ... even if not done; cessative      |  >< |
- mo'u      ZAhO     completivo                                aspecto verbal: at the natural ending point of ...; completive              |    >|<
- ca'o      ZAhO     continuativo                              aspecto verbal: during ...; continuative                                    |-----|
- co'a      ZAhO     iniciativo                                aspecto verbal: at the starting point of ...; initiative                   >|<    |
- de'a      ZAhO     pausativo                                 event contour for a temporary halt and ensuing pause in a process
- ba'o      ZAhO     perfectivo                                aspecto verbal: in the aftermath of ...; since ...; perfective              |     |----
- di'a      ZAhO     resumptitive                              event contour for resumption of a paused process
- za'o      ZAhO     superfectivo                              aspecto verbal: continuing too long after natural end of ...; superfective  |     ---->
- fe'emo'u  ZAhO*    at the far end of                         aspecto verbal espacial: completive in space; at the far end of ...
- fe'eco'i  ZAhO*    at the point of                           aspecto verbal espacial: achievative in space; at the point of ...
- fe'eba'o  ZAhO*    beyond                                    aspecto verbal espacial: perfective in space; beyond the place of ...
- fe'eza'o  ZAhO*    continuing too far                        aspecto verbal espacial: superfective in space; continuing too far beyond ...
- caba'o    ZAhO*    has been                                  tiempo verbal: has been, is now in the aftermath of; (tense/modal)
- capu'o    ZAhO*    is going to                               tiempo verbal: is going to, is now just about to, is now anticipating; (tense/modal)
- caca'o    ZAhO*    is now                                    tiempo verbal: is now/simultaneously, is now in the middle of; (tense/modal)
- fe'eco'a  ZAhO*    on this edge of                           aspecto verbal espacial: initiative in space; on this edge of ...
- fe'eca'o  ZAhO*    throughout                                aspecto verbal espacial: continuative in space; throughout the place of ...
- fe'epu'o  ZAhO*    up to the edge of                         aspecto verbal espacial: anticipative in space; up to the edge of ...
- puca'o    ZAhO*    was then                                  tiempo verbal: was then; (tense/modal)
- baca'o    ZAhO*    will be then                              tiempo verbal: will be then; (tense/modal)
+ co'i      ZAhO     logrativo                                 aspecto verbal: acción puntual; logrativo;   >|<
+ pu'o      ZAhO     incoativo                                 aspecto verbal: acción a punto de ocurrir; incoativo         ----|     |
+ co'u      ZAhO     egresivo                                  aspecto verbal: fin de la acción, incluso sin completar; egresivo      |  >< |
+ mo'u      ZAhO     completivo                                aspecto verbal: punto de perfección de la acción; completivo              |    >|<
+ ca'o      ZAhO     continuativo                              aspecto verbal: acción en curso; continuativo                                    |-----|
+ co'a      ZAhO     ingresivo                                 aspecto verbal: comienzo de la acción; ingresivo                   >|<    |
+ de'a      ZAhO     pausativo                                 aspecto verbal: comienzo de una pausa en la acción, a ser retomada; pausativo
+ ba'o      ZAhO     perfectivo                                aspecto verbal: habiendo concluído la acción; perfectivo              |     |----
+ di'a      ZAhO     retomativo                                aspecto verbal: punto en que se retoma la acción; retomativo
+ za'o      ZAhO     superfectivo                              aspecto verbal: continuando mas allá del final natural de la acción; superfective  |     ---->
+ fe'emo'u  ZAhO*    at the far end of                         aspecto verbal espacial: completivo espacial; at the far end of ...
+ fe'eco'i  ZAhO*    at the point of                           aspecto verbal espacial: logrativo espacial; at the point of ...
+ fe'eba'o  ZAhO*    beyond                                    aspecto verbal espacial: perfectivo espacial; beyond the place of ...
+ fe'eza'o  ZAhO*    continuing too far                        aspecto verbal espacial: superfectivo espacial; continuing too far beyond ...
+ caba'o    ZAhO*    ha sido                                   tiempo verbal: has been, is now in the aftermath of; (tense/modal)
+ capu'o    ZAhO*    está por ser                              tiempo verbal: is going to, is now just about to, is now anticipating; (tense/modal)
+ caca'o    ZAhO*    está siendo                               tiempo verbal: is now/simultaneously, is now in the middle of; (tense/modal)
+ fe'eco'a  ZAhO*    on this edge of                           aspecto verbal espacial: ingresivo espacial; on this edge of ...
+ fe'eca'o  ZAhO*    throughout                                aspecto verbal espacial: continuativo espacial; throughout the place of ...
+ fe'epu'o  ZAhO*    up to the edge of                         aspecto verbal espacial: incoativo espacial; up to the edge of ...
+ puca'o    ZAhO*    estaba siendo                             tiempo verbal: estaba siendo; (tense/modal)
+ baca'o    ZAhO*    estará siendo                             tiempo verbal: estará siendo; (tense/modal)
  zei       ZEI      lujvo glue                                joins preceding and following words into a lujvo
- ze'u      ZEhA     intervalo temporal largo                  tiempo verbal interval: a long amount of time
- ze'a      ZEhA     intervalo temporal medio                  tiempo verbal interval: a medium length of time
- ze'i      ZEhA     intervalo temporal corto                  tiempo verbal interval: an instantaneous/tiny/short amount of time
- ze'e      ZEhA     intervalo temporal total                  tiempo verbal interval: the whole of time
- ze'aba    ZEhA*    for a while after                         tiempo verbal: a medium time interval offset towards the future; (tense/modal)
- ze'apu    ZEhA*    for a while before                        tiempo verbal: a medium time interval offset towards the past; (tense/modal)
- ze'aca    ZEhA*    for a while during                        tiempo verbal: a medium time interval spanning the present; (tense/modal)
- zu        ZI       tiempo largo                              tiempo verbal distance: long distance in time
- za        ZI       tiempo medio                              tiempo verbal distance: medium distance in time
- zi        ZI       tiempo corto                              tiempo verbal distance: instantaneous-to-short distance in time
+ ze'u      ZEhA     intervalo temporal largo                  intervalo temporal: durante un tiempo largo
+ ze'a      ZEhA     intervalo temporal medio                  intervalo temporal: durante un tiempo medio
+ ze'i      ZEhA     intervalo temporal corto                  intervalo temporal: durante un tiempo corto
+ ze'e      ZEhA     intervalo temporal total                  intervalo temporal: durante todo el tiempo
+ ze'aba    ZEhA*    por un tiempo después                     tiempo verbal: durante un tiempo medio hacia el futuro
+ ze'apu    ZEhA*    por un tiempo antes                       tiempo verbal: durante un tiempo medio hacia el pasado
+ ze'aca    ZEhA*    por un tiempo durante                     tiempo verbal: durante un tiempo medio cubriendo el presente
+ zu        ZI       tiempo largo                              distancia temporal: a un tiempo largo
+ za        ZI       tiempo medio                              distancia temporal: a un tiempo medio
+ zi        ZI       tiempo corto                              distancia temporal: a un tiempo corto
  zi'e      ZIhE     rel clause joiner                         joins relative clauses which apply to the same sumti
  zo        ZO       1-word quote                              quote next word only; quotes a single Lojban word (not a cmavo compound or tanru)
  zoi       ZOI      non-Lojban quote                          delimited non-Lojban quotation; the result treated as a block of text
@@ -1070,24 +1070,24 @@
  zo'u      ZOhU     fin prenex                                marks end of logical prenex quantifiers/topic identification and start of sentence bridi
  slaka bu  BY*      close-comma                               letteral: Lojban "," character
  denpa bu  BY*      pause symbol                              letteral: Lojban "." character
- le go'i   KOhA*    the x1 of last bridi                      descripción pro-sumti: reuses the value of the x1 of the previous bridi
+ le go'i   KOhA*    the x1 del último bridi                   pro-sumti de descripción: el valor de x1 del bridi previo
  le jaica  LE*      the time of                               descripción: marks descripción extracting the tiempo verbal place of the descripción bridi
  le jaigau LE*      the agent in                              descripción: marks descripción extracting the agentive place of the descripción selbri
  le jaivi  LE*      the location of                           descripción: marks descripción extracting the location place of the descripción bridi
  cu'u ko'a BAI*     as said by it-1                           tagged sumti: can be used for embedded: it-1 said, "...", with editorial unquote and insert
- ca ma     PU*      when?                                     sumti question asking for a time/date/event; simultaneous with what?
- vi ma     VA*      where?                                    sumti question asking for a location: at/near what?
- ni'i ma   BAI*     by what logic?                            sumti question asking for a logical proof; why?
- ta'i ma   BAI*     by what method?                           sumti question asking for a method; how?
- la'u ma   BAI*     in what quantity?                         sumti question asking for a quantity; how many?
- ri'a ma   BAI*     with what cause?                          sumti question asking for a physical cause; why?
- mu'i ma   BAI*     with what motive?                         sumti question asking for a motive; why?
- me'e ma   BAI*     with what name?                           sumti question asking for a name; who?; requires quoted name as an answer
- ki'u ma   BAI*     with what reason?                         sumti question asking for a rational explanation/justification; why?
- sekai ma  BAI*     which kind?                               sumti question asking for a characteristic property/quality; which?
- le sego'i KOhA*    the x2 of last bridi                      descripción pro-sumti: reuses the value of the x2 of the previous bridi
- le tego'i KOhA*    the x3 of last bridi                      descripción pro-sumti: reuses the value of the x3 of the previous bridi
- le vego'i KOhA*    the x4 of last bridi                      descripción pro-sumti: reuses the value of the x4 of the previous bridi
- le xego'i KOhA*    the x5 of last bridi                      descripción pro-sumti: reuses the value of the x5 of the previous bridi
+ ca ma     PU*      ¿cuándo?                                  pregunta por una hora/fecha/evento; simultaneo con ¿qué?
+ vi ma     VA*      ¿dónde?                                   pregunta por una distancia: at/near what?
+ ni'i ma   BAI*     ¿según qué lógica?                        pregunta por una demostración lógica; ¿por qué?
+ ta'i ma   BAI*     ¿cómo?                                    pregunta por un método; ¿cómo?
+ la'u ma   BAI*     ¿cuánto?                                  pregunta por una cantidad; ¿cuánto?
+ ri'a ma   BAI*     ¿por qué causa?                           pregunta por una causa física; ¿por qué?
+ mu'i ma   BAI*     ¿por qué motivo?                          pregunta por un motivo; ¿por qué?
+ me'e ma   BAI*     ¿con qué nombre?                          pregunta por un nombre; ¿qué nombre?; requiere nombre citado como respuesta
+ ki'u ma   BAI*     ¿por qué razón?                           pregunta por una explicación racional/justificación; ¿por qué?
+ sekai ma  BAI*     ¿qué clase?                               pregunta por una propiedad/cualidad característica; ¿cuál?
+ le sego'i KOhA*    the x2 del último bridi                   pro-sumti de descripción: el valor de x2 del bridi previo
+ le tego'i KOhA*    the x3 del último bridi                   pro-sumti de descripción: el valor de x3 del bridi previo
+ le vego'i KOhA*    the x4 del último bridi                   pro-sumti de descripción: el valor de x4 del bridi previo
+ le xego'i KOhA*    the x5 del último bridi                   pro-sumti de descripción: el valor de x5 del bridi previo
 
 
