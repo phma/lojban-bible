@@ -1,0 +1,93 @@
+  badri - dri - traurig x1 ist traurig/deprimiert/niedergeschlagen [unglücklich] über x2 (Abstraktion)
+  bajra baj - - laufen x1 läuft/rennt auf Oberfläche x2 mit Gliedmaßen x3 und Gangart x4
+  bakfu bak - - Bündel x1 ist ein Bündel/Päckchen/Klumpen [Form] mit Inhalt x2, zusammengehalten von x3
+  bakni bak - - Rind x1 ist eine Kuh/Rind/Ochse [Bulle/Kalb] [Rindvieh] von Art/Gattung x2
+  bakri - - - Kreide x1 ist eine gewisse Menge/enthält/besteht aus Kreide von Quelle x2 in Form x3
+  baktu - - - Eimer x1 ist ein Eimer/Dose/tiefer, fester Behälter mit breitem Rand mit Inhalt x2, bestehend aus Material x3
+  balji - - - Knolle x1 ist eine Knolle/Zwiebel [Körperteil] von Pflanze/Art x2; [im übertragen Sinne: gerundet, ausgebeult]
+  balni - - - Balkon x1 ist ein Balkon/Überhang/Sims/Regal von Gebäude/Struktur x2
+  balre - - ba'e Klinge x1 ist eine Klinge von Werkzeug/Waffe x2
+  balvi bav - - Zukunft x1 liegt in der Zukunft von/ist später als/nach x2 in zeitlicher Reihenfolge; x1 ist später; x2 ist früher/ehemalig
+  bancu bac - - ferner x1 übertrifft/übersteigt Grenze x2 mit Bezugspunkt x3 in Eigenschaft/Menge x4 (ka/ni)
+  bandu bad - - verteidigen x1 (Ereignis) verteidigt/schützt x2 (Objekt/Zustand) gegen Bedrohung/Gefahr/Möglichkeit x3 (Ereignis)
+  banfi - - - Amphibie x1 ist eine Amphibie von Art/Gattung x2
+  bangu ban - bau Sprache x1 ist eine/die Sprache/Dialekt, die x2 benutzt, um x3 auszudrücken (si'o/du'u, kein Zitat)
+  banli bal - ba'i großartig x1 ist großartig/eindrucksvoll/erhaben in Eigenschaft x2 (ka) gemäß Standard x3
+  banro - - ba'o wachsen x1 wächst/expandiert/wird größer bis zu Größe/Form x2 aus x3 heraus
+  banxa bax - - Bank x1 ist eine Bank im Banksystem/im Besitz von x2 für Bankfunktion(en) x3 (Ereignis)
+
+
+  banzu baz - -  /genügen/  x1 (Gegenstand) genügt/ist genug für Zweck x2 unter Bedingungen x3
+  bapli bap - bai  /zwingen/  x1 [[Kraft] (ka) zwingt das Geschehen von/erzwingt Ereignis x2
+  barda - bra -  /groß/  x1 ist groß in Eigenschaft/Abmessung(en) x2 (ka), verglichen mit Standard/Norm x3
+  bargu bag - -  /Bogen/  x1 bildet einen Bogen über/um x2 und besteht aus Material x3; x1 ist ein Bogen über/um x2 aus Material x3
+  barja - - -  /Bar/  x1 ist eine Taverne/Bar/Kneipe, die x2 an Publikum/(Stamm)gäste x3 ausschenkt
+  barna - - ba'a  /Fleck/  x1 ist/sind (ein) Fleck(en) auf x2 und besteht/bestehen aus Material x3
+  bartu bar - -  /außen/  x1 ist außerhalb von x2
+  basna - - -  /betonen/  x1 betont/verleiht Nachdruck zu x2 indem es Aktion x3 durchführt
+  basti bas - -  /ersetzen/  x1 ersetzt/steht ein für x2 unter Umständen x3; x1 ist ein Ersatz
+  batci bat - -  /beißen/  x1 beißt/kneift x2 in/auf spezifischem Ort x3 mit x4
+  batke - - -  /Knopf/  x1 ist ein Knopf/Griff auf/für Gegenstand x2, mit Zweck x3, aus Material x4
+  bavmi - - -  /Gerste/  x1 ist eine gewisse Menge Gerste [[Getreide] von Art/Sorte x2
+  baxso - - -  /malaiisch-indonesisch/  x1 repräsentiert die gemeinsame malaiisch-indonesische Sprache/Kultur in Aspekt x2
+  bebna beb - -  /dumm/  x1 ist dumm/dämlich in Ereignis/Aktion/Eigenschaft [[Dummheit] (ka) x2; x1 ist ein Dummkopf
+  bemro bem - be'o  /nordamerikanisch/  x1 repräsentiert nordamerikanische Kultur/Nationalität/Geographie in Aspekt x2
+  bende bed - be'e  /Mannschaft/  x1 ist eine Mannschaft/Team/Gruppe/Gang/Bande von Personen x2 (an)geführt/geleitet von x3 organisiert für Zweck x4
+  bengo beg - -  /bengalisch/  x1 repräsentiert bengalische/Bangladeshi Kultur/Nationalität/Sprache in Aspekt x2
+  benji bej - be'i  /versenden/  x1 überträgt/versendet/übermittelt/schickt x2 an Empfänger/Ziel x3 von Absender/Quelle/Ursprung x4 über Mittel/Medium x5
+  bersa bes - be'a  /Sohn/  x1 ist ein Sohn von Mutter/Vater/Eltern x2 [[nicht unbedingt biologisch]
+  berti ber - -  /Norden/  x1 ist im Norden/auf der nördlichen Seite/liegt nördlich von x2 gemäß Bezugssystem x3
+  besna ben - -  /Gehirn/  x1 ist ein/das Gehirn [[Körperteil] von x2; [[im übertragenen Sinne: Intelligenz, geistige Kontrolle]
+  betfu bef - be'u  /Bauch/  x1 ist ein/der Bauch/Unterkörper [[Körperteil] von x2; [[im übertragenen Sinne: Mittelteil]
+  betri bet - -  /Tragödie/  x1 ist eine Tragödie/Katastrophe/schlimmes Ereignis für x2
+  bevri bev - bei  /tragen/  x1 trägt/schleppt/transportiert Fracht x2 nach x3 von x4 über Route x5; x1 ist ein Träger
+  bi biv - -  /8/  Ziffer/Zahl: 8 (Ziffer)
+  bi'i biz - -  /ungeordnetes Intervall/  nicht-logischer Intervallverbinder: ungeordnet zwischen ... und ... (rafsi repräsentiert ein beliebiges Intervall)
+  bidju - - -  /Perle/  x1 ist eine (Glas-/Holz-/usw)perle/ein Kügelchen [[Form] aus Material x2 (z.B. Glasperle = blaci bidju)
+  bifce bic - -  /Biene/  x1 ist eine Biene/Wespe/Hornisse von Art/Rasse x2
+  bikla bik - -  /peitschen/  x1 peitscht/schnappt [[plötzliche starke Bewegung]
+  bilga big - -  /verpflichtet/  x1 ist verpflichtet/hat die Pflicht, x2 zu tun/zu sein gemäß Standard/Abmachung x3; x1 muss x2 tun
+  bilma - - bi'a  /krank/  x1 ist krank/erkrankt mit Symptomen x2 an/mit Krankheit x3
+  bilni bil - -  /militärisch/  x1 ist militärisch/reglementiert/streng organisiert durch System x2 für Zweck x3
+  bindo bid - -  /indonesisch/  x1 repräsentiert indonesische Kultur/Nationalität/Sprache in Aspekt x2
+  binra - - -  /versichern/  x1 versichert/entschädigt/hält schadlos x2 vor/gegen Gefahr x3 (Ereignis) und bietet Nutzen/Vorteil x4
+  binxo bix - bi'o  /werden/  x1 wird zu/verwandelt sich in x2 unter Bedingungen x3
+  birje - - -  /Bier/  x1 besteht aus/enthält/ist eine gewisse Menge Bier/Pils/Gebräu, gebraut aus x2
+  birka bir - -  /Arm/  x1 ist ein/der Arm [[Körperteil] von x2; [[im übertragenen Sinne: Zweig mit Kraft]
+  birti bit - -  /gewiss/  x1 ist sich sicher/gewiss/überzeugt, dass x2 wahr ist
+  bisli bis - -  /Eis/  x1 ist eine gewisse Menge/besteht aus/enthält Eis [[gefrorenes Wasser/Kristall] von Zusammensetzung/aus Material x2
+  bitmu bim - bi'u  /Wand/  x1 ist eine Wand/Zaun/Mauer und trennt x2 und x3 (ungeordnet) in/von Struktur/Gebäude x4
+  blabi lab - -  /weiß/  x1 ist weiß/von sehr heller Farbe [[Farbadjektiv]
+  blaci - - -  /Glas/  x1 ist eine gewisse Menge/besteht aus/enthält Glass von Zusammensetzung unter anderem x2
+  blanu - bla -  /blau/  x1 ist blau [[Farbadjektiv]
+  bliku - bli -  /Block/  x1 ist ein Block/Klotz [[dreidimensionaler Gegenstand] aus Material x2 mit Oberflächen/Seiten x3
+  bloti lot blo lo'i  /Boot/  x1 ist ein Boot/Schiff [[Fahrzeug] für den Transport von x2, angetrieben durch x3
+  bo bor - -  /Verbindung kurzer Reichweite/  Verbindung kurzer Reichweite; verbindet verschiedene Konstrukte mit kürzestmöglicher Reichweite und rechts-assoziativer Gruppierung
+  bolci bol - boi  /Ball/  x1 ist ein Ball/Globus/Kugel [[Form] aus Material x2; x1 ist kugelförmig [[und besteht aus x2]
+  bongu bog - bo'u  /Knochen/  x1 ist Knochen/Elfenbein [[Körperteil] und verrichtet Funktion x2 im Körper von x3; [[im übertragenen Sinne: Kalzium]
+  botpi bot - bo'i  /Flasche/  x1 ist eine Flasche/Urne/Krug/verschließbarer Behälter [[Gefäß] für x2 aus Material x3 mit Deckel/Kappe x4
+  boxfo bof - bo'o  /Folie/  x1 ist ein Blatt/Folie/Decke [[zweidimensionale Form, die in drei Dimensionen flexibel ist] aus Material x2
+  boxna bon - bo'a  /Welle/  x1 ist eine Welle [[wiederkehrendes Muster] in Medium x2 mit Wellenform x3, Wellenlänge x4 und Frequenz x5
+  bradi - - -  /Feind/  x1 ist ein Feind/Gegner von x2 in Konflikt x3
+  bratu - - -  /Hagel/  x1 ist Hagel/Schneeregen/Graupel/fester Niederschlag aus Material/mit Zusammensetzung unter anderem x2
+  brazo raz - -  /brasilianisch/  x1 repräsentiert brasilianische Kultur/Nationalität/Sprache in Aspekt x2
+  bredi red bre -  /bereit/  x1 ist bereit für/vorbereitet auf x2 (Ereignis)
+  bridi - bri -  /Prädikat/  x1 (Text) ist eine Prädikat-Beziehung mit Beziehung x2 zwischen Argumenten (Folge/Menge) x3
+  brife bif - bi'e  /Wind/  x1 ist eine Brise/Windhauch/Wind/Sturm aus Richtung x2 mit Geschwindigkeit x3; x1 bläst aus x2
+  briju bij - -  /Büro/  x1 ist ein Büro/Arbeitsplatz von Arbeiter x2 in/bei Ort x3
+  brito rit - -  /britisch/  x1 repräsentiert britische/UK Kultur/Nationalität in Aspekt x2
+  broda rod - -  /Prädikatvar 1/  erstes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+  brode - - bo'e  /Prädikatvar 2/  zweites zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+  brodi - - -  /Prädikatvar 3/  drittes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+  brodo - - -  /Prädikatvar 4/  viertes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+  brodu - - -  /Prädikatvar 5/  fünftes zuweisbares variables Prädikat (der Kontext bestimmt die Platzstruktur)
+  bruna bun - bu'a  /Bruder/  x1 ist ein Bruder von x2 mit/durch Beziehung/Standard/Eltern x3; [[nicht unbedingt biologisch]
+  bu bus - bu'i  /Wort zu lerfu/  verwandelt ein beliebiges einzelnes Wort in BY
+  bu'a bul - -  /irgendein selbri 1/  logisch quantifizierte Prädikatvariable: irgendein selbri 1
+  budjo buj - bu'o  /buddhistisch/  x1 bezieht sich auf/betrifft/gehört zu buddhistischer Kultur/Religion/Ethos in Aspekt x2
+  bukpu buk - bu'u  /Stoff/  x1 ist eine gewisse Menge Stoff/Gewebe/Tuch von Typ/aus Material x2
+  bumru bum - -  /Nebel/  x1 ist neblig/trübe/diesig/bedeckt mit Nebel/Dunst aus Flüssigkeit x2
+  bunda bud - -  /Pfund/  x1 wiegt x2 (Default 1) örtliche Gewichtseinheit(en) [[nicht-metrisch], gemäß Standard x3, Untereinheit(en) [[z.B. Unzen] x4 [[weitere Untereinheiten können als x5, x6, usw. zugefügt werden]
+  bunre bur - bu'e  /braun/  x1 ist braun [[Farbadjektiv]
+  burcu - bru -  /Bürste/  x1 ist eine Bürste für Zweck x2 (Ereignis) mit Borsten x3
+  burna - -  /peinlich/  x1 ist verlegen/peinlich berührt/verwirrt/nervös/wird in Verlegenheit gebracht unter Umständen x2 (Abstraktion); x2 ist x1 peinlich
