@@ -50,7 +50,7 @@
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
 <!ENTITY lessvocab SYSTEM "lessvocab.doc.xml">
 <!ENTITY level0addr "http://www.lojban.org/level0.html">
-<!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <![CDATA[<ulink url=&quot;http://www.kirshenbaum.net/IPA/&quot;>Evan Kirshenbaum's scheme</ulink>]]>.)" >
+<!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <ulink url=&#34;http://www.kirshenbaum.net/IPA/&#34;>Evan Kirshenbaum's scheme</ulink>.)" >
 ]>
 <book>
 <title id="lessons">Lojban For Beginners &mdash; <foreignphrase 
