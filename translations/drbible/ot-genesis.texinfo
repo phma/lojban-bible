@@ -18,27 +18,41 @@
 
 @c    1:1. In the beginning God created heaven, and earth.
 1:1. ni'o la cevni co'a finti le tsani .e le terdi
+@c ni'oni'o
+@c ca lemu'e krasi ku finti fa la cevni le tsani .e le terdi
 
 @c    1:2. And the earth was void and empty, and darkness was upon the face
 @c    of the deep; and the spirit of God moved over the waters.
 1:2. .i le terdi cu kalsa gi'e kunti .ije le manku cu sefta le condi .i le
 ruxse'i be la cevni cu fregau le djacu
+@c .i le terdi cu na'e seltarmi je kunti
+@c .ijebo manku vi ga'u le condi
+@c .ije le pruxi be la cevni cu fulta ga'u loi djacu
 
 @c    1:3. And God said:  Be light made.  And light was made.
 1:3. .i la cevni cu cusku lu ko gusni li'u .ije co'a gusni
+@c .i bacru fa la cevni lu .e'o gusni li'u
+@c .ijebo gusni
 
 @c    1:4. And God saw the light that it was good; and he divided the light
 @c    from the darkness.
 1:4. .i la cevni cu catlu le gusni noi xamgu .i seirgau le gusni le manku
 @c I really want a selbri meaning "x1 sees that x2 has quality x3".
+@c .i zgana fa la cevni le gusni fi'o se jinvi loza'i xamgu
+@c .i fedri'a fa la cevni fo le gusni ku ce le manku (ku)
 
 @c    1:5. And he called the light Day, and the darkness Night; and there was
 @c    evening and morning one day.
-1:5. .i te cmene le gusni ce'e zo donri pe'eje le manko ce'e zo nicte .i le
+1:5. .i te cmene le gusni ce'e zo donri pe'eje le manku ce'e zo nicte .i le
 nicte joi le donri cu pamei djedi
+@c .i te cmene fa la cevni le gusni zo donri gi'e te cmene le manku zo nicte
+@c .i vanci .i cerni .i pamei djedi
 
 @c    1:6. And God said:  Let there be a firmament made amidst the waters:  and
 @c    let it divide the waters from the waters.
+1:6. ni'o
+bacru fa la cevni lu .e'o sligu ne'i loi djacu
+gi'e fendi fi lei djacu ku ce lei djacu (ku) li'u
 
 @c    A firmament. . .By this name is here understood the whole space between
 @c    the earth, and the highest stars.  The lower part of which divideth the
@@ -47,36 +61,68 @@ nicte joi le donri cu pamei djedi
 
 @c    1:7. And God made a firmament, and divided the waters that were under
 @c    the firmament, from those that were above the firmament, and it was so.
+1:7. .ije zbasu fa la cevni le sligu
+.ijebo fedri'a fo lei djacu poi gapru le sligu ku'o
+ce lei djacu poi cnita le sligu
+.i zasti
 
 @c    1:8. And God called the firmament, Heaven; and the evening and morning
 @c    were the second day.
+1:8. .i te cmene fa la cevni le sligu zo tsani
+.i vanci .i cerni .i remoi djedi
 
 @c    1:9. God also said; Let the waters that are under the heaven, be
 @c    gathered together into one place:  and let the dry land appear.  And it
 @c    was so done.
+1:9. ni'o
+bacru fa la cevni lu .e'o se jmaji fa lei djacu poi cnita le tsani
+fi pa stuzi
+.iseri'abo se viska .e'o fa lei sudytumla li'u
+.i zasti
 
 @c    1:10. And God called the dry land, Earth; and the gathering together of
 @c    the waters, he called Seas.  And God saw that it was good.
+1:10. .i te cmene fa la cevni lei sudytumla zo terdi gi'e te cmene lei te jmaji
+be lei djacu zo xamsi
+.i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
 @c    1:11. And he said:  let the earth bring forth green herb, and such as
 @c    may seed, and the fruit tree yielding fruit after its kind, which may
 @c    have seed in itself upon the earth.  And it was so done.
+1:11. .i bacru fa la cevni lu .e'o ferti fa le terdi loi srasu je spati noi
+se tsiju loi tsiju ku'o .e loi grute tricu noi cupra loi grute
+noi lo tsiju be ra cu nenri ke'a ku'o ku'o zi'e pe vi le terdi li'u
+.i zasti
 
 @c    1:12. And the earth brought forth the green herb, and such as yieldeth
 @c    seed according to its kind, and the tree that beareth fruit, having
 @c    seed each one according to its kind.  And God saw that it was good.
+1:12. .i cupra fa le terdi loi srasu je spati noi se tsiju loi jutsi tsiju ku'o
+.e loi tricu poi cupra loi grute noi lo tsiju be ra cu nenri ke'a ku'o ku'o
+zi'e ne ja'i lera jutsi
+.i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
 @c    1:13. And the evening and the morning were the third day.
+1:13. .i vanci .i cerni .i cimoi djedi
 
 @c    1:14. And God said:  Let there be lights made in the firmament of
 @c    heaven, to divide the day and the night, and let them be for signs, and
 @c    for seasons, and for days and years:
+1:14. ni'o
+bacru fa la cevni lu .e'o tergusni tu'i le tsani sligu
+.iseri'abo fendi .e'o fi le'e dinri ku ce le'e nicte
+.ije sinxa ce cabysni ce djesni ce nacysni
 
 @c    1:15. To shine in the firmament of heaven, and to give light upon the
 @c    earth, and it was so done.
+1:15. .i ke'u.e'o tergusni tu'i le tsani sligu (fe) le terdi li'u
+.i zasti
 
 @c    1:16. And God made two great lights:  a greater light to rule the day;
 @c    and a lesser light to rule the night:  and the stars.
+1:16. .i zbasu fa la cevni le re barda tergusni no'u le barda tergusni poi
+turni le'e dinri ku'o jo'u le cmalu tergusni poi turni le'e nicte
+ge'u .e loi tarci
 
 @c    Two great lights. . .God created on the first day, light, which being
 @c    moved from east to west, by its rising and setting, made morning and
@@ -87,37 +133,66 @@ nicte joi le donri cu pamei djedi
 
 @c    1:17. And he set them in the firmament of heaven to shine upon the
 @c    earth.
+1:17. .i punji fa la cevni ra le tsani sligu semu'i lenu te gusni lo terdi kei
 
 @c    1:18. And to rule the day and the night, and to divide the light and
 @c    the darkness.  And God saw that it was good.
+1:18. .e lenu turni le'e dinri .e le'e nicte kei
+.e lenu fendi fi le gusni ku ce le manku
+.i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
 @c    1:19. And the evening and morning were the fourth day.
+1:19. .i vanci .i cerni .i vomoi djedi
 
 @c    1:20. God also said:  let the waters bring forth the creeping creature
 @c    having life, and the fowl that may fly over the earth under the
 @c    firmament of heaven.
+1:20. ni'o
+bacru fa la cevni lu .e'o ferti fa lei djacu loi so'imei danlu
+noi jmive .e loi cipni poi voirli'u ga'u lei terdi tu'i le tsani sligu
+li'u
 
 @c    1:21. And God created the great whales, and every living and moving
 @c    creature, which the waters brought forth, according to their kinds, and
 @c    every winged fowl according to its kind.  And God saw that it was good.
+1:21. .i finti fa la cevni lei barda xasydanlu .e piro loi jmive poi
+befydzu zi'epoi se ferti lei djacu (ku'o) zi'e ne ja'i lora jutsi ge'u
+.e piro loi se nalci cipni ne ja'i lori jutsi
+.i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
 @c    1:22. And he blessed them, saying:  Increase and multiply, and fill the
 @c    waters of the sea:  and let the birds be multiplied upon the earth.
+1:22. .i cesto'edapma(?!?) ra fa la cevni secu'u lu ko seljbe je
+so'imei gi'e se culno lei djacu pe ne'i lei xamsi
+.ije .e'o loi cipni cu so'imei tu'i le terdi li'u
 
 @c    1:23. And the evening and morning were the fifth day.
+1:23. .i vanci .i cerni .i mumoi djedi
 
 @c    1:24. And God said:  Let the earth bring forth the living creature in
 @c    its kind, cattle and creeping things, and beasts of the earth,
 @c    according to their kinds.  And it was so done.
+1:24. ni'o
+bacru fa la cevni lu .e'o krasi fa le terdi loi jmive ne ja'i lori
+jutsi zi'e no'u loi danlu ku joi loi befydzu ku joi loi terdi jmive
+ne ja'i lori jutsi li'u
+.i zasti
 
 @c    1:25. And God made the beasts of the earth according to their kinds,
 @c    and cattle, and every thing that creepeth on the earth after its kind.
 @c    And God saw that it was good.
+1:25. .i zbasu fa la cevni loi terdi jmive ne ja'i lori jutsi ge'u .e loi danlu
+ne ja'i lori jutsi ge'u .e loi dertu befydzu ne ja'i lori jutsi
+.i zgana fa la cevni fi'o se jinvi loza'i xamgu
 
 @c    1:26. And he said:  Let us make man to our image and likeness:  and let
 @c    him have dominion over the fishes of the sea, and the fowls of the air,
 @c    and the beasts, and the whole earth, and every creeping creature that
 @c    moveth upon the earth.
+1:26. .i bacru fa la cevni lu .ai mi zbasu loi remna ne ta'i le
+se tarmi be mi
+.i ra turni ba'a.e'a loi xamsi finpe .e loi tsani cipni .e loi danlu .e
+piro loi terdi .e piro loi befydzu noi befydzu loi terdi li'u
 
 @c    Let us make man to our image. . .This image of God in man, is not in the
 @c    body, but in the soul; which is a spiritual substance, endued with
@@ -126,10 +201,17 @@ nicte joi le donri cu pamei djedi
 
 @c    1:27. And God created man to his own image:  to the image of God he
 @c    created him:  male and female he created them.
+1:27. .i seri'a loza'i se tarmi le tarmi be la cevni cu finti fo'a (???)
+.i seri'a loza'i nakni ce fetsi cu finti fo'a (???)
 
 @c    1:28. And God blessed them, saying:  Increase and multiply, and fill the
 @c    earth, and subdue it, and rule over the fishes of the sea, and the
 @c    fowls of the air, and all living creatures that move upon the earth.
+1:28. .i cesto'edapma(???!!) fo'a fa la cevni
+.ije cusku fi fo'a fa la cevni fe lu ko seljbe je so'imei gi'e se culno loi
+terdi gi'e jinga ri
+.i ko turni loi xamsi finpe .e loi tsani cipni .e piro loi danlu poi
+befydzu loi terdi li'u
 
 @c    Increase and multiply. . .This is not a precept, as some Protestant
 @c    controvertists would have it, but a blessing, rendering them fruitful;
@@ -139,13 +221,24 @@ nicte joi le donri cu pamei djedi
 @c    1:29. And God said:  Behold I have given you every herb bearing seed
 @c    upon the earth, and all trees that have in themselves seed of their own
 @c    kind, to be your meat:
+1:29. .i cusku fa la cevni lu ju'i do'u mi dunda fi do fe piro loi srasu noi se
+tsiju loi tsiju zi'enoi se stuzi lo sefta be piro loi terdi ku'o .e piro
+loi tricu poi stuzi loi tricu grute
+.i se ponse .e'o do mu'i lenu do citka .e'a do'a
 
 @c    1:30. And to all beasts of the earth, and to every fowl of the air, and
 @c    to all that move upon the earth, and wherein there is life, that they
 @c    may have to feed upon.  And it was so done.
+1:30. .i go'i lu'a piro loi terdi jmive .e piro loi tsani cipni .e piro loi
+befydzu be le terdi lu'u noi ke'a ponse lo jmive pruxi ku'o mu'i lenu citka
+.e'a do'a li'u
+.i zasti
 
 @c    1:31. And God saw all the things that he had made, and they were very
 @c    good.  And the evening and morning were the sixth day.
+1:31. .i zgana fa la cevni roda poi ri zbasu ku'o fi'o se jinvi loza'i mutce
+xamgu
+.i vanci .i cerni .i xamoi djedi
 
 
 
@@ -158,9 +251,13 @@ nicte joi le donri cu pamei djedi
 
 @c    2:1. So the heavens and the earth were finished, and all the furniture
 @c    of them.
+2:1. ni'oni'o
+mulno fa le tsani .ebo le terdi .e piro loi jenmi girzu pe ri
 
 @c    2:2. And on the seventh day God ended his work which he had made:  and
 @c    he rested on the seventh day from all his work which he had done.
+2:2. .i mulri'a fa la cevni ca le zemoi djedi levo'a se gunka (?) noi vo'a zbasu
+.i cadysti fa la cevni ca le zemoi djedi piro leivo'a se gunka noi vo'a zbasu
 
 @c    He rested, etc. . .That is, he ceased to make or create any new kinds of
 @c    things.  Though, as our Lord tells us, John 5.17, "He still worketh",
@@ -168,11 +265,13 @@ nicte joi le donri cu pamei djedi
 
 @c    2:3. And he blessed the seventh day, and sanctified it:  because in it
 @c    he had rested from all his work which God created and made.
+2:3. .i cesto'edapma (/?!/) fa la cevni le zemoi djedi gi'e cesri'a ri ki'u lenu
+ca ri cadysti piro lei se gunka poi la cevni cu finti je zbasu
 
 @c    2:4. These are the generations of the heaven and the earth, when they
 @c    were created, in the day that the Lord God made the heaven and the
 @c    earth:
-2:4. di'e lisri le nu finti le tsani .e le terdi .i ca le nu la .iaves. noi cevni
+2:4. ni'oni'o di'e lisri le nu finti le tsani .e le terdi .i ca le nu la .iaves. noi cevni
 cu zbasu le tsani .e le terdi kei
 @c "éleh toldot" may mark the end of an account or the beginning. In the
 @c Table of Nations it marks the end. Should this one be "di'e" or "di'u"?
