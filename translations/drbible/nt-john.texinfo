@@ -584,9 +584,12 @@
 
 @c    5:1. After these things was a festival day of the Jews:  and Jesus went
 @c    up to Jerusalem.
+5:1. ni'obabo xebro cesydei .icabo la .iecu,ys galkla la .ierucalaim
 
 @c    5:2. Now there is at Jerusalem a pond, called Probatica, which in
 @c    Hebrew is named Bethsaida, having five porches.
+5:2. .i bi'u bu'u la .ierucalaim vi la lanme vorme ku le limla'u be me'e zoi xy.
+beitxesDA .xy cu ponse mu <stoas>
 
 @c    Probatica. . .That is, the sheep pond; either so called, because the
 @c    sheep were washed therein, that were to be offered up in sacrifice in
@@ -599,42 +602,66 @@
 
 @c    5:3. In these lay a great multitude of sick, of blind, of lame, of
 @c    withered:  waiting for the moving of the water.
+5:3. vi ri ku lei so'i bilma ja visycau ja dzucau ja sudyselxadni cu zutse
+[gi'e denpa lenu le djacu cu muvdu
 
 @c    5:4. And an angel of the Lord descended at certain times into the pond
 @c    and the water was moved.  And he that went down first into the pond
 @c    after the motion of the water was made whole of whatsoever infirmity he
 @c    lay under.
+5:4. .i le <angelos> be la turni ru'inai dzikla le limla'u gi'e raktu le djacu
+.i le pamoi nerkla bazi lenu raktu le djacu cu ka'orbi'o gi'e bi'asti fi ro
+terbilma]
+
+[misro vimcu]
 
 @c    5:5. And there was a certain man there that had been eight and thirty
 @c    years under his infirmity.
+5:5. .i da poi bilma nanmu pu vi vreta ca'o lo nanca be li cibi
 
 @c    5:6. Him when Jesus had seen lying, and knew that he had been now a
 @c    long time, he saith to him:  Wilt thou be made whole?
+5:6. .i la .iecu,ys cu viska ra gi'e djuno ledu'u ra ca ze'upu vi vreta
+gi'e cusku lu xu do djica lenu kanro li'u
 
 @c    5:7. The infirm man answered him:  Sir, I have no man, when the water is
 @c    troubled, to put me into the pond.  For whilst I am coming, another
 @c    goeth down before me.
+5:7. .i le bilma cu spuda fi lu doi .io do'u noda cu punji mi le lalxu ca lenu
+raktu le djacu .i ca'o mi klama ku lo drata cu dzikla purci mi
 
 @c    5:8. Jesus saith to him:  Arise, take up thy bed and walk.
+5:8. .i la .iecu,ys cu cusku lu ko sanli gi'e lafti le ckana gi'e cadzu li'u by
 
 @c    5:9. And immediately the man was made whole:  and he took up his bed and
 @c    walked.  And it was the sabbath that day.
+5:9. .icabo le nanmu cu ka'orbi'o gi'e lafti le ckana gi'e cadzu .icabo surdei
 
 @c    5:10. The Jews therefore said to him that was healed:  It is the
 @c    sabbath.  It is not lawful for thee to take up thy bed.
+5:10. .iseki'ubo lei xebro cu cusku fi le selmikce lu ca surdei .i na curmi lenu
+bevri ledo ckana li'u
 
 @c    5:11. He answered them:  He that made me whole, he said to me:  Take up
 @c    thy bed and walk.
+5:11. .i ko'e dafsku lu le ka'orgau me cu cusku lu ko lafti le ckana gi'e cadzu li'u
+mi li'u ko'i
 
 @c    5:12. They asked him therefore:  Who is that man who said to thee:  Take
 @c    up thy bed and walk?
+5:12. .i ko'i cu te preti fo ko'e fi lu ma poi nanmu cu cusku lu ko lafti le ckana
+gi cadzu li'u do li'u
 
 @c    5:13. But he who was healed knew not who it was:  for Jesus went aside
 @c    from the multitude standing in the place.
+5:13. .iku'i le ka'orbi'o na djuno ledu'u makau go'i .iseja'ebo la .iecu,ys cu
+canci mu'i le sorpre
 
 @c    5:14. Afterwards, Jesus findeth him in the temple and saith to him:
 @c    Behold thou art made whole:  sin no more, lest some worse thing happen
 @c    to thee.
+5:14. .ibabo la .iecu,ys cu tolcri ko'e le malsi gi'e cusku lu .ua do ka'orbi'o
+.i ko ze'eba <amartane> mu'i lenu do lifri lo xlamau li'u
 
 @c    5:15. The man went his way and told the Jews that it was Jesus who had
 @c    made him whole.
