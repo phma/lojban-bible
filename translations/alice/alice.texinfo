@@ -3,24 +3,10 @@
 @setfilename alice.info
 @settitle la alis. cizra je cinri zukte vi le selmacygu'e
 @setchapternewpage odd
-@smallbook
 @c %**end of header
 
 @c Thanks to the Gutenberg project for the original text.
 @c http://www.gutenberg.net/.  Feel free to send them donations!
-
-
-@copying
-This work, in all forms, is explicitely placed in the public domain.
-@c explicitely?
-@c Yeah, it's something you have to be clear on these days.  By default,
-@c all works are copyrighted.  -Robin
-
-dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
-
-@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
-@end copying
-
 
 @c #########################################
 @c **********NOTE For Translators***********
@@ -47,11 +33,24 @@ dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi se
 finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 @end ifinfo
 
-@titlepage
-@title la alis. cizra je cinri zukte vi le selmacygu'e
-@author la lojbangirz. .e la'o gy. Lewis Carroll gy.
+@copying
+This work, in all forms, is explicitely placed in the public domain.
+@c explicitely?
+@c Yeah, it's something you have to be clear on these days.  By default,
+@c all works are copyrighted.  -Robin
 
-@page
+dei poi selcku ku'o petai roda cu selxu'a selpu'i fi le'i gubni selpo'e
+
+@c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
+@end copying
+
+@titlepage
+@sp 10
+@center @titlefont{la alis. cizra je cinri zukte}
+@center @titlefont{vi le selmacygu'e}
+@sp 2
+@center la lojbangirz. .e la'o gy. Lewis Carroll gy.
+
 @vskip 0pt plus 1filll
 
 @insertcopying
@@ -60,29 +59,28 @@ finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 
 @contents
 
-@node 	  Top
-@top
-@comment  node-name, next,      previous,  up
-
 @ifinfo
+@node Top
+@top la alis. cizra je cinri zukte vi le selmacygu'e
+
 dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi se
 finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
-@end ifinfo
 
 @menu
-*  pamoi pagbu::	pamo'o mo'ini'a le ractu kevna
-*  remoi pagbu::	remo'o le se klaku lalxu
-*  cimoi pagbu::	cimo'o le me la kaukus nu bajra jivna e le clani lisri
-*  vomoi pagbu::	vomo'o la ractu cu benji lo cmalu me la bil
-*  mumoi pagbu::	mumo'o se djusku lo ciftoldi
-*  xamoi pagbu::	xamo'o le xarju .e lei tsaprpiperi
-*  zemoi pagbu::	zemo'o fenki ke tcati kansi'u
-*  bimoi pagbu::	bimo'o noltruni'u kelcrkroke bo foldi
-*  somoi pagbu::	somo'o lisri fi la jitfa cakyrespa
+* pamoi pagbu::	pamo'o mo'ini'a le ractu kevna
+* remoi pagbu::	remo'o le se klaku lalxu
+* cimoi pagbu::	cimo'o le me la kaukus nu bajra jivna e le clani lisri
+* vomoi pagbu::	vomo'o la ractu cu benji lo cmalu me la bil
+* mumoi pagbu::	mumo'o se djusku lo ciftoldi
+* xamoi pagbu::	xamo'o le xarju .e lei tsaprpiperi
+* zemoi pagbu::	zemo'o fenki ke tcati kansi'u
+* bimoi pagbu::	bimo'o noltruni'u kelcrkroke bo foldi
+* somoi pagbu::	somo'o lisri fi la jitfa cakyrespa
 * panomoi pagbu::	panomo'o xasyjukni vonseldansu
 * papamoi pagbu::	papamo'o ma zerle'a lei rutytisna
 * paremoi pagbu::	paremo'o le sidydatni po'e la alis.
 @end menu
+@end ifinfo
 
 @include alice-01.texinfo
 @include alice-02.texinfo
