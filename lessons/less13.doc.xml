@@ -13,39 +13,49 @@ individuals; how to speak about events and facts; and so on. </para>
 Lojban, so to speak; the logical machinery on which Lojban is based, and
 which works with concrete realities. But there's another, less concrete
 side to language. No, not its ineffable soul, or its intrinsic poetry, or
-anything like that: we're not about to go into such giddy heights.
-(Although those giddy heights do have some rather tangible &mdash; and
+anything like that: we're not about to go into such rarified abstractions.
+(Although those rarified abstractions do have some rather tangible &mdash; and
 linguistically concrete &mdash; bases.) The less concrete side of language 
-has to do, not with what you say about things, but how you manage the 
-business of saying it. This means things like how you express your 
-attitudes to things; how 
-you put the things you talk about in the foreground or the background; how 
-you deal with misunderstandings and errors; and how you structure your 
-texts.</para>
+has to do, not with <emphasis>what</emphasis> you say about things, but <emphasis>how</emphasis> you manage the 
+business of saying it. This means things like:
+
+<itemizedlist>
+
+<listitem><para>how you express your 
+attitudes to things;</para></listitem>
+
+<listitem><para>how 
+you put the things you talk about in the foreground or the background;</para></listitem>
+
+<listitem><para>how 
+you deal with misunderstandings and errors;</para></listitem>
+
+<listitem><para>how you structure your 
+texts.</para></listitem></itemizedlist></para>
 
 <para>A language isn't really a language if it can't cope with things like
 these &mdash; although typically these kinds of things are not dealt with
 in traditional grammars, but are picked up in usage. If there's one thing
 you'll have noticed about Lojban, of course, it's that it's as explicitly
 specified as possible. Accordingly, Lojban has a special subsection of
-its grammar dealing with this kind of thing, rather than leaving it up to
-usage. But, precisely because this kind of thing isn't what logic was
-designed for, the grammar Lojban uses has little to do with <foreignphrase
+its grammar dealing with these issues, rather than leaving it up to
+usage. But, precisely because this isn't what logic was
+designed for, the grammar Lojban uses here has little to do with <foreignphrase
 lang="art-lojban">bridi</foreignphrase>: it is a much simpler grammar,
 mostly using isolated words. We'll go through the ones you're likeliest to
-meet here.</para>
+meet.</para>
 
 <sect1 id="less13attit"><title>Lojban with lots more attitude</title>
 
 <para>You'll remember from way back in <link linkend="less1">Lesson 
 1</link> that Lojban has little words called <wordasword>attitudinal 
 indicators</wordasword> (or <wordasword>attitudinals</wordasword>), which 
-show how you feel about something. That something is whatever the 
-attitudinal follows; as we have seen, if it is next to a terminator, it's 
+show how you feel about something. That <quote role="socalled">something</quote> is whatever precedes the 
+attitudinal. As we have seen, if the attitudinal is after a terminator, it's 
 a reaction to whatever phrase ends in the terminator. If it follows an 
 article, then it applies to the entire <foreignphrase
 lang="art-lojban">sumti</foreignphrase>; if it follows a connective, it 
-applies to the connective and whatever following term is is connecting; and 
+applies to the connective and whatever following term it is connecting; and 
 so on.</para>
 
 <para>Attitudinals belong to <foreignphrase
@@ -53,7 +63,8 @@ lang="art-lojban">selma'o</foreignphrase> UI. This means that their
 grammar is as simple as can be: they can turn up after just about any word 
 of Lojban, without disrupting anything going on grammatically. For that 
 reason, they don't need terminators: there's no danger of them swallowing 
-up any errant <foreignphrase lang="art-lojban">sumti</foreignphrase>.</para>
+up any errant <foreignphrase lang="art-lojban">sumti</foreignphrase> (unlike
+their close relatives, the vocatives.)</para>
 
 <para>There are some <foreignphrase lang="art-lojban">cmavo</foreignphrase>
 whose job is to modify other UI <foreignphrase
@@ -89,13 +100,15 @@ lang="art-lojban">.a'ucu'i</foreignphrase>. If you want to say <quote>That
 is really gross!</quote>, you'd say <foreignphrase
 lang="art-lojban">.a'unaisai</foreignphrase>. And if you want to say
 <quote>Oh my God, that is the most interesting thing in the world since the
-very invention of Lojban!</quote>, <foreignphrase
-lang="art-lojban">.a'ucai</foreignphrase> is a pretty safe bet. (All these
+very invention of Lojban!!!</quote>, <foreignphrase
+lang="art-lojban">.a'ucai</foreignphrase> is a pretty safe bet.</para>
+
+<note><para>All these
 modifiers belong to <foreignphrase
 lang="art-lojban">selma'o</foreignphrase> CAI, except for <foreignphrase
 lang="art-lojban">nai</foreignphrase> &mdash; which turns up all over
 Lojban grammar, as we've already seen, and has its own <foreignphrase
-lang="art-lojban">selma'o</foreignphrase>, NAI.)</para>
+lang="art-lojban">selma'o</foreignphrase>, NAI.</para></note>
 
 <para>There are 39 attitudinals fitting the pattern VV (two vowels,
 possibly with an apostrophe between them; these are a subclass of
@@ -106,7 +119,7 @@ can use, plunking them pretty much wherever you want in your sentence.
 That's not even counting <foreignphrase
 lang="art-lojban">selma'o</foreignphrase> UI4 and UI5, which can further
 modify your attitudes. As with everything else, Lojban allows you to be as
-specific as you want in expressing yourself.</para>
+specific as you want to be in expressing yourself.</para>
 
 <note><para><foreignphrase lang="art-lojban">selma'o</foreignphrase> UI4
 specifies what <quote role="socalled">part</quote> of you is feeling the
@@ -114,7 +127,9 @@ emotion &mdash; whether it is a physical, social, mental response, and so
 on. <foreignphrase lang="art-lojban">selma'o</foreignphrase> UI5 has some
 <quote role="socalled">left-over</quote> modifiers; we already saw in
 passing <foreignphrase lang="art-lojban">ga'i</foreignphrase>, which
-indicates haughtiness. The <foreignphrase
+indicates haughtiness.</para>
+
+<para>The <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> in this category you will see
 almost constantly is <foreignphrase lang="art-lojban">zo'o</foreignphrase>.
 It is used just like the smiley-face in e-mail, to indicate that you're
@@ -122,7 +137,8 @@ being humorous when saying something, and it's used for much the same
 reason. In these two communication systems, it's difficult to work out whether 
 someone is joking or not &mdash; in e-mail, because you can't hear the tone of voice 
 that gives things away; in Lojban, because by its ideology the language doesn't 
-want to leave things to natural-language&ndash;based intuition. So hints 
+want to leave things to natural-language&ndash;based intuition (and also because 
+it's used a lot on e-mail anyway.) So hints 
 like this are always welcome, and frequently taken advantage of.</para></note>
 
 <simplesect role="vocab"><title>Vocabulary</title>
@@ -236,10 +252,11 @@ direct emotional responses &mdash; gut reactions, without making any fine
 distinctions like whose attitude is involved. The reaction is always taken
 to be the speaker's. So <foreignphrase lang="art-lojban">.ui do
 cliva</foreignphrase> means <emphasis>you</emphasis>'re happy that someone
-else is leaving, just like <quote>You're leaving &mdash; Yay!</quote> If
+else is leaving, just like <quote>You're leaving &mdash; Yay!</quote> does. If
 you wanted to say that the <quote role="socalled">someone else</quote> is
-happy, not you, then you wouldn't say <wordasword>Yay!</wordasword> at all,
-but <quote>You must be happy you're leaving.</quote> The same goes in
+happy, not you, then you wouldn't say <quote>Yay!</quote> at all.
+Instead, you'd say something like
+<quote>You must be happy you're leaving.</quote> The same goes in
 Lojban: if you're relaying someone else's responses, not your own, then
 that's what <foreignphrase lang="art-lojban">bridi</foreignphrase> are
 there for.</para>
@@ -257,7 +274,8 @@ leave</quote>: I can say this if I want you gone while you're making
 yourself comfortable &mdash; but not if you've remembered you've got to be 
 somewhere else, while I'd want nothing more than for you to stick around.</para>
 
-<note><para>The temptation is strong enough, in fact, that there are a
+<note><para>The temptation to use attitudinals for others' reactions is
+strong enough, in fact, that there are a
 couple of ways of getting around it. If you add the UI5 <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> <foreignphrase
 lang="art-lojban">se'i</foreignphrase>, you say that you feel the emotion
@@ -279,16 +297,22 @@ word asking the listener to fill in the attitudinal that best applies is
 <foreignphrase lang="art-lojban">pei</foreignphrase>. You can fill
 <foreignphrase lang="art-lojban">pei</foreignphrase> in with anything from
 <foreignphrase lang="art-lojban">selma'o</foreignphrase> UI, NAI or CAI. So
-if I ask you <foreignphrase lang="art-lojban">.i pei le lunra cu
-blanu</foreignphrase> <quote>The moon is blue &mdash; how do you feel about
-that?</quote>, at least one response is <foreignphrase
+if I ask you
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">.i pei le lunra cu blanu</foreignphrase> 
+The moon is blue &mdash; how do you feel about that?</literallayout>
+
+</informalexample>at least one response is <foreignphrase
 lang="art-lojban">.ienai</foreignphrase> <quote>Disagree!</quote>
 (<quote>Uh-uh</quote>, <quote>No way!</quote>, <quote>No!</quote>, etc.)
 <foreignphrase lang="art-lojban">pei</foreignphrase> can also explicitly
 ask for NAI or CAI alone, by following a UI <foreignphrase
-lang="art-lojban">cmavo</foreignphrase>. So a response to <foreignphrase
-lang="art-lojban">.i .u'ipei do farlu le pesxu</foreignphrase> <quote>You
-fell into the mud! Funny, eh?</quote> could well be <foreignphrase
+lang="art-lojban">cmavo</foreignphrase>. So a response to
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">.i .u'ipei do farlu le pesxu</foreignphrase> 
+You fell into the mud! Funny, eh?</literallayout>
+
+</informalexample>could well be <foreignphrase
 lang="art-lojban">ru'e</foreignphrase>: <quote>Kinda...</quote> Then again,
 it could also be <foreignphrase lang="art-lojban">naicai</foreignphrase>:
 <quote>Absolutely not, and I shall thank you never again to mention it in
@@ -300,7 +324,7 @@ my presence.</quote> (Allowing for some latitude in translation...)</para>
 
 <para>Attitude isn't the only meaning UI <foreignphrase 
 lang="art-lojban">cmavo</foreignphrase> convey. Another subclass of UI <foreignphrase 
-lang="art-lojban">cmavo</foreignphrase> (UI3: discursives) carry 
+lang="art-lojban">cmavo</foreignphrase> (UI3: <firstterm>discursives</firstterm>) carry 
 information about how a particular word or phrase fits in with everything 
 else you're saying.</para>
 
@@ -318,12 +342,12 @@ by.</foreignphrase> is the proper Lojban for <quote>Not A,
 <para>The flipside to <foreignphrase lang="art-lojban">ku'i</foreignphrase>
 is <foreignphrase lang="art-lojban">ji'a</foreignphrase> <quote
 role="gloss">additionally, also</quote> (which we saw in passing last
-lesson.) This means that whatever it is attached to adds on to what you've
+lesson.) This means that whatever it is attached to <emphasis>adds</emphasis> on to what you've
 been saying. Again, this can apply to individual words, as well as
-sentences: <foreignphrase lang="art-lojban">.i mi venfu do doi melbi .e
-<emphasis>ji'a</emphasis> le do cmalu gerku</foreignphrase> is the Lojban
-for <quote>I'll get you, my pretty &mdash; and your little dog,
-<emphasis>too</emphasis>!</quote></para>
+sentences:
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">.i mi venfu do doi melbi .e <emphasis>ji'a</emphasis> le do cmalu gerku</foreignphrase>
+I'll get you, my pretty &mdash; and your little dog, <emphasis>too</emphasis>!</literallayout></informalexample></para>
 
 <para>In some cases, there is nothing to either contrast or add to what
 you've said, because what you've said is the unique relevant case. In that
@@ -331,15 +355,19 @@ context, you would use <wordasword>only</wordasword> in English. Because
 <wordasword>only</wordasword> is somewhat clumsy to express in terms of
 pure logic, Lojban allows another discursive as its equivalent:
 <foreignphrase lang="art-lojban">po'o</foreignphrase>. So <quote>Only cats
-like catnip</quote> is in Lojban <foreignphrase lang="art-lojban">loi mlatu
+like catnip</quote> is in Lojban 
+
+<informalexample><para><foreignphrase lang="art-lojban">loi mlatu
 po'o cu nelci loi spati be la'o ly. Nepeta cataria ly.</foreignphrase>
-(<citetitle>Nepeta cataria</citetitle> being the Linnaean name for catnip.)
-If you wanted to say that something is <emphasis>not</emphasis> the only
+(<foreignphrase lang="lat">Nepeta cataria</foreignphrase> being the Linnaean name for catnip I had to go look
+up online.)
+
+</para></informalexample>If you wanted to say that something is <emphasis>not</emphasis> the only
 applicable case, then of course you'd say <foreignphrase
 lang="art-lojban">po'onai</foreignphrase>.</para>
 
-<para>There are several more discursives, but because written English 
-doesn't particularly insist on them, you won't seem them all that often. 
+<para>There are several more discursives, but <!--because written English 
+doesn't particularly insist on them, -->you won't seem them all that often. 
 Some to watch out for, though, include:
 
 <variablelist>
@@ -389,7 +417,7 @@ referring to, or you don't know the word, or the grammar confused you &mdash;
 you repeat the word or phrase you didn't get, and add <foreignphrase 
 lang="art-lojban">ki'a</foreignphrase> as a plaintive request for 
 clarification (so it's even better than <wordasword>Huh?</wordasword>, 
-because you can identify exactly what made you say <wordasword>Huh?</wordasword>):
+because you can point out exactly what made you say <wordasword>Huh?</wordasword>):
 
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">.i mi puzi te vencu lo matcrflokati
@@ -406,8 +434,9 @@ each of the following sentences.
 <note><para>This exercise relies heavily on a particular variant of idiomatic
 American English. (Since the equivalents of discursives, and attitudinals in
 general, are among the features of language that tend to be idiomatic, this
-is hard to avoid.) If you're not familiar with it, don't worry about this
-exercise. </para>
+is hard to avoid.) If you're not familiar with the idiom, don't worry about this
+exercise; you'll get plenty of practice with discursives once you start using
+Lojban conversationally, anyway. </para>
 
 </note><orderedlist>
 
@@ -442,7 +471,7 @@ this scintillating little anecdote and translate in to Lojban. Like, totally.)
 <para>When you make a mistake while speaking, whether in your wording or
 your grammar, you don't normally bother to correct it (if you even realise
 you made a mistake in the first place.) That's because natural languages 
-are fairly redundant (for this reason!); and we normally rely a lot more 
+are fairly redundant (for this very reason!); and we normally rely a lot more 
 on context than on what we actually hear, anyway. If we do catch ourselves 
 making an error, we stumble out a correction that will do the trick, 
 without going into details like how many words should be cancelled: again, 
@@ -450,7 +479,7 @@ context is almost always more than adequate. So if I say
 <informalexample>
 <para>I downloaded and learned some Esperanto vocabulary. Er, Lojban vocabulary.</para> 
 </informalexample>
-context and common sense would dictate that <wordasword>Lojban
+context and common sense dictate that <wordasword>Lojban
 vocabulary</wordasword> is meant to replace <wordasword>Esperanto
 vocabulary</wordasword>. But what if it was meant to replace
 <wordasword>some Esperanto vocabulary</wordasword>? Or
@@ -472,7 +501,7 @@ the correction above would be in Lojban
 
 <informalexample>
 <para><foreignphrase lang="art-lojban">.i mi te benji je cilre loi 
-bangrnesperanto valsi si si lojbo valsi</foreignphrase>.</para>
+<emphasis>bangrnesperanto valsi</emphasis> si si <emphasis>lojbo valsi</emphasis></foreignphrase>.</para>
 </informalexample></para>
 
 <para>The problem with <foreignphrase lang="art-lojban">si</foreignphrase>
@@ -489,21 +518,23 @@ last such phrase, it replaces it with the phrase following <foreignphrase
 lang="art-lojban">sa</foreignphrase>. For example:
 
 <informalexample>
-<para><foreignphrase lang="art-lojban">.i mi te benji je cilre loi 
-sa .i mi cilre loi lojbo</foreignphrase>.</para>
+<para><foreignphrase lang="art-lojban"><emphasis>.i mi te benji je cilre loi</emphasis> 
+sa <emphasis>.i mi cilre loi lojbo</emphasis></foreignphrase>.</para>
+
 </informalexample>The correction following <foreignphrase
 lang="art-lojban">sa</foreignphrase> is a sentence; you know that, because
 the first word after <foreignphrase lang="art-lojban">sa</foreignphrase> is
 the sentence marker, <foreignphrase lang="art-lojban">.i</foreignphrase>.
 So the sentence following <foreignphrase
 lang="art-lojban">sa</foreignphrase> replaces the current sentence up to
-and including <foreignphrase lang="art-lojban">sa</foreignphrase>:
+and including <foreignphrase lang="art-lojban">sa</foreignphrase><!--:
 <foreignphrase lang="art-lojban">.i mi te benji je cilre loi
-sa</foreignphrase>. Or take:
+sa</foreignphrase>-->. Or consider:
 
 <informalexample>
-<para><foreignphrase lang="art-lojban">.i ca le purlamdei mi mrilu fi do sa ca 
-la reldjed.</foreignphrase>.</para>
+<para><foreignphrase lang="art-lojban">.i <emphasis>ca le purlamdei</emphasis> mi mrilu fi do sa <emphasis>ca 
+la reldjed.</emphasis></foreignphrase></para>
+
 </informalexample>The correction is <foreignphrase lang="art-lojban">ca la
 reldjed.</foreignphrase> <quote role="gloss">on Monday</quote>. So what it 
 replaces is the last phrase beginning with <foreignphrase 
@@ -545,7 +576,8 @@ zvati le barja sa .e la ranjit. ca lenu do zvati le gusta</foreignphrase></para>
 lang="art-lojban">cmavo</foreignphrase>, there's a lot of words that can
 only be called odds and ends; they each have a specific little job, and don't
 have much in common. <citetitle>The Complete Lojban Language</citetitle>,
-Chapter 19, bemoans the same problem. </para>
+Chapter 19, bemoans the same problem in paedagogy for the same topic; so at least we're in good
+company. </para>
 
 <para>To survive in Lojbanistan, though, you'll certainly need the following:
 
@@ -566,9 +598,11 @@ insists (as should be no surprise to you by now) that you use a separate
 word: <foreignphrase lang="art-lojban">ba'e</foreignphrase>. Like UI, this
 word can go pretty much anywhere in a Lojban sentence, but it emphasises
 the word that <emphasis>follows</emphasis> it, rather than what precedes
-it. (Or, to put it in Lojban, <foreignphrase lang="art-lojban">zo ba'e
-basna le valsi poi se lidne ku'o .enai le lidne be zo
-ba'e</foreignphrase>.)</para></listitem>
+it. Or, to put it in Lojban, 
+
+<informalexample><para><foreignphrase lang="art-lojban">zo ba'e
+basna le valsi poi se lidne jenai lidne zo
+ba'e</foreignphrase></para></informalexample></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">zo ki'a</foreignphrase>, I
 hear you ask? Good, that means you've been paying attention! <foreignphrase
@@ -597,16 +631,58 @@ it ends. And just like quotes, the end-parenthesis terminator is going to
 be pretty hard to drop out. The normal Lojban parentheses are
 <foreignphrase lang="art-lojban">to</foreignphrase> and <foreignphrase
 lang="art-lojban">toi</foreignphrase>. So <quote>This (no, I don't want
-another one!) apple is rotten</quote> comes out in Lojban as <foreignphrase
+another one!) apple is rotten</quote> comes out in Lojban as: 
+
+<informalexample><para><foreignphrase
 lang="art-lojban">ti poi <emphasis>to vi'onai do'u mi na djica lo drata
-toi</emphasis> plise cu fusra</foreignphrase>.</para></listitem>
+toi</emphasis> plise cu fusra</foreignphrase></para></informalexample></para></listitem>
 
 </itemizedlist></para>
+
+
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cizra</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
+strange/weird/deviant/bizarre/odd to x<subscript>2</subscript> in property x<subscript>3</subscript>
+(ka)</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 4</title>
+
+<para>Translate the following disfunctional dialogue.
+
+<orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">.i zo to to mi ca tavla fo la lojban toi xamgu 
+lenu tavla fo la lojban</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i xamgu ki'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban"> ni'o xu do nelci lai 
+loglandias.kontrapositivos.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i lai ki'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i mi to .e do xu toi gleki lenu te vecnu
+loi matcrflokati</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">.i do tavla ba'e lo cizra</foreignphrase></para></listitem>
+
+</orderedlist></para>
+</simplesect>
+
 
 </sect1>
 
 <sect1 id="less13summary"><title>Summary</title>
-<para>In this lesson, we have covered:
+<para>In this lesson, we have covered lots and lots of little words:
 
 <itemizedlist>
 
@@ -635,6 +711,7 @@ lang="art-lojban">zo</foreignphrase>)</para></listitem>
 lang="art-lojban">to, toi</foreignphrase>)</para></listitem>
 
 </itemizedlist></para>
+
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -693,11 +770,6 @@ subject/concept x<subscript>2</subscript></para></listitem></varlistentry>
 lang="art-lojban">sisku</foreignphrase></term><listitem><para>x<subscript>1</subscript> seeks/searches/looks
 for property x<subscript>2</subscript> among set x<subscript>3</subscript> (complete specification of set)</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase
-lang="art-lojban">slabu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
-old/familiar/well-known to observer x<subscript>2</subscript> in feature x<subscript>3</subscript> (ka) by standard
-x<subscript>4</subscript></para></listitem></varlistentry>
-
 <varlistentry><term><foreignphrase lang="art-lojban">terdi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is the Earth/the home planet of race x<subscript>2</subscript>; (adjective:) x<subscript>1</subscript> is
 terrestrial/earthbound</para></listitem></varlistentry>
 
@@ -719,8 +791,7 @@ purple/violet [color adjective]</para></listitem></varlistentry>
 
 </simplesect>
 
-
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="exercise"><title>Exercise 5</title>
 
 <para>Translate from Lojban. Remember, <foreignphrase
 lang="art-lojban">ka</foreignphrase> is the abstractor that specifies a
@@ -730,11 +801,11 @@ lang="art-lojban">sisku</foreignphrase>.)
 <orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">ni'o ta'o la jan. milxe 
-xalfekfri ri'a lenu klama lo drata barja
+xalfekfri ki'u lenu klama lo drata barja
 </foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i ta'onai la jan. cusku 
-lu .i doi le pedro si pendo .e'uru'e ki'u ma do vi zvati li'u</foreignphrase></para></listitem>
+lu .i doi le pedro si pendo .e'uru'e mu'i ma do vi zvati li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la ranjit. cusku lu .i 
 lenu mi kansa la djiotis. .e lo pendo be ri to mutce melbi .uasai toi li'u </foreignphrase></para></listitem>
@@ -767,7 +838,7 @@ je'e .i'ese'i go'i li'u</foreignphrase></para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para>Translate into Lojban.
 
@@ -795,7 +866,8 @@ structure <quote>x<subscript>1</subscript> is geeky</quote>.)</para></listitem>
 <listitem><para>Ranjeet is very amused, and says <quote>Probably!</quote></para></listitem>
 
 <listitem><para>(Far away, an extraterrestrial intelligence sets off for 
-Earth.) (You'll need a three-part <foreignphrase lang="art-lojban">tanru</foreignphrase> for this.)</para></listitem>
+Earth.) (You'll need a three-part <foreignphrase lang="art-lojban">tanru</foreignphrase> for this. And you've 
+already seen it, if you've been good....)</para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -815,14 +887,14 @@ the most usual reaction. This is one meaning of English
 <wordasword>Sorry!</wordasword></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.u'u</foreignphrase> 
-(again, unless according to dominant social norms.) This is the other 
+(again, unless you flout the dominant social norms.) This is the other 
 meaning of English <wordasword>Sorry!</wordasword></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.e'uru'e</foreignphrase>, the 
 <quote>Eh, whatever</quote> type of request.</para></listitem>
 
 <listitem><para><foreignphrase 
-lang="art-lojban">.e'ucai</foreignphrase>, the <quote>begging on hands and 
+lang="art-lojban">.e'ucai</foreignphrase>, the <quote>Begging on hands and 
 knees</quote> type of request.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i'eru'e</foreignphrase>: 
@@ -929,6 +1001,30 @@ gusta</foreignphrase>, is left alone.)</para></listitem>
 
 <para><orderedlist>
 
+<listitem><para>The word <foreignphrase lang="art-lojban">to</foreignphrase> (I am now speaking Lojban) is good
+for speaking Lojban.</para></listitem>
+
+<listitem><para>Good?!</para></listitem>
+
+<listitem><para>To change the topic: Do you like the (mass of) Loglandia Contrapositives?</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">lai</foreignphrase>?! (Not a commonly used article, after all.)</para></listitem>
+
+<listitem><para>I (and you?) are happy to buy <foreignphrase lang="ell">flokati</foreignphrase> rugs. (Note that <foreignphrase 
+lang="art-lojban">xu</foreignphrase>, as a UI <foreignphrase 
+lang="art-lojban">cmavo</foreignphrase>, specifically queries the word it follows; this is shorthand for asking 
+<quote>Do you too?</quote>)</para></listitem>
+
+<listitem><para>You say <emphasis>strange</emphasis> things.</para></listitem>
+
+</orderedlist></para>
+</simplesect>
+
+
+<simplesect role="excanswer"><title>Exercise 5</title>
+
+<para><orderedlist>
+
 <listitem><para>(New Paragraph) Incidentally, Zhang is somewhat drunk, 
 because he went to another bar.</para></listitem>
 
@@ -941,7 +1037,8 @@ mind telling me what you're doing here?</quote></para></listitem>
 <listitem><para>Zhang: <quote>I, for you and two beautiful people
 accompanying, am <emphasis>happy</emphasis>, friend... I mean, for you
 accompanying two beautiful people (to put it precisely)</quote> (We can get
-away with this sentence no verb in Lojban. Zhang has the sense to fix his 
+away with <quote>this sentence no verb</quote> in Lojban. And let's not be too
+hard on Zhang, either, who has the sense to fix his 
 Lojban grammar even in his elated state. He has tried to say <quote>for you and 
 two beautiful people being together</quote>, but <foreignphrase 
 lang="art-lojban">kansa</foreignphrase> in Lojban corresponds to 
@@ -949,11 +1046,12 @@ lang="art-lojban">kansa</foreignphrase> in Lojban corresponds to
 reciprocal.)</para></listitem>
 
 <listitem><para>Ranjeet: <quote>You're now going to the 
-<citetitle>Chicken</citetitle> &mdash; sure you can manage it? :-) </quote></para></listitem>
+<citetitle>Chicken</citetitle> &mdash; sure you can manage it? <computeroutput>:&nbhy;)</computeroutput></quote></para></listitem>
 
 <listitem><para>Zhang: <quote>You're just waiting to see me dance that, 
 er, the <citetitle>Chicken</citetitle> at, uh, the 
-<citetitle>Chicken</citetitle>.</quote> (The empathy attitudinal expresses 
+<citetitle>Chicken</citetitle>.</quote> (The empathy attitudinal <foreignphrase 
+lang="art-lojban">dai</foreignphrase> expresses 
 desire, but it's a desire Zhang is projecting onto others. That's roughly 
 what <wordasword>just</wordasword> is doing in the English: <quote>You must 
 be wanting it, waiting for me...</quote>. Zhang produces one too many <foreignphrase 
@@ -1004,7 +1102,7 @@ some comical smugness, no doubt...)</para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 5</title>
+<simplesect role="excanswer"><title>Exercise 6</title>
 
 <para><orderedlist>
 
@@ -1034,12 +1132,12 @@ mi dasni noda zo'o li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">la djiotis. lu .i
 kulnrgiki po'onai gi'e ji'a fekypre li'u</foreignphrase> 
-(<wordasword>But</wordasword> here doesn't contradict expectation, but 
-corroborates it; so it actually means <quote role="gloss">also</quote>! 
+(<wordasword>But</wordasword> here doesn't contradict expectation; it 
+corroborates it. So in this case <wordasword>but</wordasword> actually means <quote role="gloss">also</quote>! 
 You could in fact add <wordasword>also</wordasword> or 
 <wordasword>too</wordasword> in the English 
-sentence. Some languages &mdash; notably German &mdash; have different 
-words for the two types of <wordasword>but</wordasword>: German here would 
+sentence. Some languages have different 
+words for the two types of <wordasword>but</wordasword>: German, for instance, would here 
 use <foreignphrase lang="deu">sondern</foreignphrase> instead of <foreignphrase 
 lang="deu">aber</foreignphrase>.)</para></listitem>
 

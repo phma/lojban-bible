@@ -150,7 +150,7 @@ lang="art-lojban"><emphasis
 role="bold">KUR</emphasis>mikce.</foreignphrase> The name
 <wordasword>Juliette</wordasword> would be written <foreignphrase
 lang="art-lojban">DJUli,et.</foreignphrase> if pronounced in an English
-way, but <foreignphrase lang="art-lojban">julIET.</foreignphrase> if
+way, but <foreignphrase lang="art-lojban">juLIET.</foreignphrase> if
 pronounced as in French.</para> </sect1>
 
 <sect1 id="less1alphabet"><title>Alphabet</title>
@@ -448,7 +448,7 @@ lang="art-lojban">roBER.</foreignphrase> . </para>
 <para>To give an idea of how all this works, here are some names of famous
 people in their own language and in Lojban.  </para>
 
-<variablelist termlength="25"> <title>English</title>
+<variablelist termlength="20"> <title>English</title>
 
 <varlistentry><term>Margaret Thatcher</term> <listitem><para><foreignphrase
 lang="art-lojban">magryt.tatcys.</foreignphrase> (no <wordasword>th</wordasword> in Lojban because most
@@ -460,18 +460,18 @@ lang="art-lojban">mik.djagys.</foreignphrase></para></listitem> </varlistentry>
 </variablelist>
 
 
-<variablelist termlength="25"><title>French</title>
+<variablelist termlength="20"><title>French</title>
 
 <varlistentry><term>Napoleon Bonaparte</term> <listitem><para><foreignphrase
 lang="art-lojban">napole,ON.bonaPART.</foreignphrase></para></listitem></varlistentry>
 
 <varlistentry><term>Juliette Binoche</term> <listitem><para><foreignphrase
-lang="art-lojban">julIET.binOC.</foreignphrase></para></listitem></varlistentry>
+lang="art-lojban">juLIET.binOC.</foreignphrase></para></listitem></varlistentry>
 
 </variablelist>
 
 
-<variablelist termlength="25"><title>Chinese</title>
+<variablelist termlength="20"><title>Chinese</title>
 
 <varlistentry><term>Laozi</term> <listitem><para><foreignphrase
 lang="art-lojban">laudz.</foreignphrase></para></listitem></varlistentry>
@@ -483,7 +483,7 @@ is in Lojban conventionally turned into
 
 </variablelist>
 
-<variablelist termlength="25"><title>Turkish</title>
+<variablelist termlength="20"><title>Turkish</title>
 
 <varlistentry><term>Mustafa Kemal</term> <listitem><para><foreignphrase
 lang="art-lojban">MUStafas.kemal.</foreignphrase></para></listitem></varlistentry>
@@ -495,7 +495,7 @@ lang="art-lojban">.erkin.korais.</foreignphrase></para></listitem></varlistentry
 </variablelist>
 
 
-<variablelist termlength="25"><title>German</title>
+<variablelist termlength="20"><title>German</title>
 
 <varlistentry><term>Friedrich Nietzsche</term> <listitem><para><foreignphrase
 lang="art-lojban">fridrix.nitces.</foreignphrase></para></listitem></varlistentry>
@@ -506,7 +506,7 @@ lang="art-lojban">klaras.cuman.</foreignphrase></para></listitem></varlistentry>
 </variablelist>
 
 
-<variablelist termlength="25"><title>Spanish</title>
+<variablelist termlength="20"><title>Spanish</title>
 
 <varlistentry><term>Isabel Allende</term> <listitem><para><foreignphrase
 lang="art-lojban">.izaBEL.aiendes.</foreignphrase></para></listitem></varlistentry>
@@ -529,7 +529,7 @@ lang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <listitem><para><foreignphrase lang="art-lojban">kardif.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">beidjin.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">beijin.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.ANkaras.</foreignphrase></para></listitem>
 
@@ -583,8 +583,6 @@ lang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <listitem><para>Richard Nixon</para></listitem>
 
-<listitem><para>Quito</para></listitem>
-
 <listitem><para>Istanbul</para></listitem>
 
 <listitem><para>Madrid</para></listitem>
@@ -608,7 +606,7 @@ because they have meaningful names, and partly because they don't expect
 the <foreignphrase lang="dak">wasichu</foreignphrase> to be able to pronounce words in
 Lakota, Navaho or whatever!</para>
 
-<para>All Lojban words end in a vowel, and although you
+<para>All Lojban words (as opposed to <foreignphrase lang="art-lojban">cmene</foreignphrase>) end in a vowel, and although you
 <emphasis>can</emphasis> use them as names as they stand, it's common to
 leave out the final vowel to make it absolutely clear that this is a name
 and not something else (Lojban goes for overkill when it comes to possible
@@ -693,8 +691,7 @@ and so on. </para> </listitem>
 is <foreignphrase lang="cym">Caerdydd</foreignphrase>, which would Lojbanise to 
 something like <foreignphrase lang="art-lojban">kairdid.</foreignphrase>.)</para></listitem>
 
-<listitem><para>Beijing: China (Note the <foreignphrase lang="art-lojban">dj</foreignphrase>
-&mdash; the BBC always get this wrong!)</para></listitem>
+<listitem><para>Beijing: China (Note the <foreignphrase lang="art-lojban">j</foreignphrase>.)</para></listitem>
 
 <listitem><para>Ankara: Turkey</para></listitem>
 
@@ -705,7 +702,10 @@ something like <foreignphrase lang="art-lojban">kairdid.</foreignphrase>.)</para
 <listitem><para>Cape Town: South Africa</para></listitem>
 
 <listitem><para>Taipei: Taiwan (note <foreignphrase lang="art-lojban">b</foreignphrase>, not
-<foreignphrase lang="art-lojban">p</foreignphrase>)</para></listitem>
+<foreignphrase lang="art-lojban">p</foreignphrase>. Although actually, the
+<foreignphrase lang="art-lojban">b</foreignphrase> is pronounced as a
+<foreignphrase lang="art-lojban">b</foreignphrase>... But this isn't meant to be a course
+on Mandarin!)</para></listitem>
 
 <listitem><para>Bonn: Germany</para></listitem>
 
@@ -771,8 +771,6 @@ lang="art-lojban">sygornis.uivyr.</foreignphrase></para></listitem>
 lang="art-lojban">ritcyrd.niksyn.</foreignphrase>, or in some variants of 
 American English, <foreignphrase
 lang="art-lojban">retcyrd.neksyn.</foreignphrase></para></listitem>
-
-<listitem><para><foreignphrase lang="art-lojban">kitos.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.istanBUL.</foreignphrase> with English
 stress, <foreignphrase lang="art-lojban">.IStanbul</foreignphrase> with American,

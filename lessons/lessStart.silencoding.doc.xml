@@ -14,8 +14,12 @@
 <!ENTITY esh "S">
 <!ENTITY ikl "I">
 <!ENTITY eng "N">
-<!ENTITY oelig "&#191;">
-<!ENTITY ccedil "C">
+<!ENTITY oeligipa "&#191;">
+<!ENTITY ccedilipa "C">
+<!ENTITY yipa "y">
+<!ENTITY aeligipa "Q">
+<!ENTITY nbhy "&#x2011;">
+<!ENTITY IPAASCIIdisclaimer "">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">

@@ -26,7 +26,7 @@ connectives, and their attitudinal content. For example, most languages
 have different words for <wordasword>and</wordasword> and
 <wordasword>but</wordasword>. Logically, they both mean the same thing. In
 terms of attitude, however, they are different:
-<wordasword>but</wordasword> contains a connotation of unexpectedness which
+<wordasword>but</wordasword> contains a connotation of contrast or unexpectedness, which
 <wordasword>and</wordasword> does not. So Lojban translates
 <wordasword>but</wordasword> in two parts: <foreignphrase lang="art-lojban">.e ku'i</foreignphrase>
 <quote role="gloss">and &mdash; however</quote>. This follows the Lojban
@@ -219,9 +219,11 @@ I possess one dog AND two cat
 I've got a dog and two cats.</literallayout>
 
 </informalexample>This is actually a contracted way of saying <quote>It is true that I have a
-dog; it is true that I have two cats,</quote> or in Lojban, <foreignphrase
-lang="art-lojban">mi ponse pa gerku .ije mi ponse re mlatu</foreignphrase> .
-</para>
+dog; it is true that I have two cats,</quote> or in Lojban, 
+
+<informalexample><para><foreignphrase
+lang="art-lojban">mi ponse pa gerku .ije mi ponse re mlatu</foreignphrase></para>
+</informalexample></para>
 
 <para>Not all English sentences containing <wordasword>and</wordasword> are
 like this, though. Firstly, sentences like <quote>I had a bath and washed
@@ -229,7 +231,7 @@ my hair</quote> are structurally different and will be dealt with later on.
 Secondly, <quote>I visited Ranjeet and Jyoti</quote> is slightly different
 from <quote>I visited Ranjeet AND I visited Jyoti.</quote> In this case,
 you probably want to say that you visited Ranjeet-and-Jyoti <emphasis>as a
-unit</emphasis> on one occasion, not that you visited Ranjeet and Jyoti on
+unit</emphasis> on one occasion &mdash; not that you visited Ranjeet and Jyoti on
 (potentially) different occasions (<quote>It is true that I visited Ranjit, and it is true that I visited Jyoti.</quote>) In this case you don't want <foreignphrase
 lang="art-lojban">.e</foreignphrase> (which is true but potentially misleading),
 but <foreignphrase lang="art-lojban">joi</foreignphrase>, which means <quote
@@ -241,13 +243,13 @@ I visited Ranjeet and Jyoti (together).</literallayout>
 
 </informalexample>You've seen <foreignphrase lang="art-lojban">joi</foreignphrase> before, of
 course: in <link linkend="less5">Lesson 5</link>, where Marx and Engels
-wrote <citetitle>The Comunist Manifesto</citetitle> as a joint project,
+wrote <citetitle>The Communist Manifesto</citetitle> as a joint project,
 rather than individually (<foreignphrase lang="art-lojban">la marks. joi la
 .engels. finti le guntrusi'o selpeicku</foreignphrase>.) This is just like
-the difference between <foreignphrase lang="art-lojban">le re
-gerku</foreignphrase> and <foreignphrase lang="art-lojban">lei re
+the difference between <foreignphrase lang="art-lojban">le ci
+gerku</foreignphrase> and <foreignphrase lang="art-lojban">lei ci
 gerku</foreignphrase> which we looked at in <link linkend="less4">Lesson
-4</link> &mdash; considering the two dogs as individuals, or as a mass. Incidentally, it is not just Lojban which makes this distinction;
+4</link> &mdash; considering the three dogs as individuals, or as a mass. Incidentally, it is not just Lojban which makes this distinction;
 Turkish, for example, would use <foreignphrase lang="tur">ile</foreignphrase> (<quote 
 role="gloss">with</quote>) rather than
 <foreignphrase lang="tur">ve</foreignphrase> (<quote role="gloss">and</quote>) for
@@ -277,7 +279,7 @@ I'll visit either my mother or my cousin.</literallayout></informalexample></par
 lang="art-lojban">.o</foreignphrase> means IFF, so <quote>I will visit my
 mother if (and only if) I visit my cousin</quote> would be <foreignphrase lang="art-lojban">mi
 ba vitke le mi mamta .o le mi tamne</foreignphrase>. If, for some strange
-reason I want to use IF and say that I will definitely visit my mother if I
+reason, I want to use IF and say that I will definitely visit my mother if I
 visit my cousin, but I may visit her anyway, I need another negative:
 <foreignphrase lang="art-lojban">.anai</foreignphrase>. But since this is rare in
 <foreignphrase lang="art-lojban">sumti</foreignphrase> connection, I'll leave that
@@ -435,7 +437,7 @@ not mean this; it means <quote>the {(big type-of red) type-of book}</quote>
 and it is hard to imagine what <quote>big type of red</quote> would mean.</para>
 
 <para>There are various ways to get out of the left-grouping rule when you need
-to, but the simplest one here is to use a logical connective and say
+to (we'll see some in <link linkend="less14">Lesson 14</link>, but the simplest one here is to use a logical connective and say
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">le barda je xunre cukta</foreignphrase>
 the {(big AND red) book}
@@ -443,7 +445,7 @@ The big red book.</literallayout>
 
 </informalexample>To make a logical <foreignphrase lang="art-lojban">tanru</foreignphrase>
 connective, then, we simply add <foreignphrase lang="art-lojban">j</foreignphrase>
-to the vowel. Returning to Susan's tastes in men, we can say
+to the vowel. Turning to Susan's tastes in men, we can say
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. cinynei ro xajmi ja melbi nanmu</foreignphrase>
 Susan fancy all {(funny OR beautiful) man}
@@ -471,7 +473,7 @@ Susan fancies men who are either funny or handsome (but not both).</literallayou
 
 </informalexample>On the other hand, Jyoti is turned on by funny men, and doesn't care about
 their looks at all. Woody Allen would do fine, but Steven Seagal wouldn't
-stand a chance unless he could tell a few jokes (funnier than Schwartzenegger's, preferably.) What we need here is
+stand a chance unless he could tell a few jokes (funnier than Schwarzenegger's, preferably.) What we need here is
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la djiotis. cinynei ro xajmi ju melbi nanmu</foreignphrase>
 Jyoti fancy all {(funny WON beautiful) man}
@@ -522,14 +524,14 @@ lang="art-lojban">loi jisra joi jdacu</foreignphrase> <quote role="gloss">the
 juice-and-water-mixture</quote>; but you have to say <foreignphrase
 lang="art-lojban">loi jisra ku joi loi djacu</foreignphrase> <quote role="gloss">the 
 juice and the water, considered together</quote> &mdash; <emphasis>not</emphasis> <foreignphrase
-lang="art-lojban">loi jisra joi loi djacu</foreignphrase>. </para>
+lang="art-lojban">loi jisra joi loi djacu</foreignphrase>.</para>
 
 <para>The difficulty in understanding such usage of <foreignphrase
 lang="art-lojban">joi</foreignphrase> isn't restricted to computers, by the way. Many
 a human will be momentarily thrown by:
 
 <informalexample><para><foreignphrase
-lang="art-lojban">lo xamgu xunre joi lo crino</foreignphrase></para></informalexample></para>
+lang="art-lojban">lo nu xamgu xunre joi lo crino</foreignphrase></para></informalexample></para>
 
 </warning>
 
@@ -588,11 +590,11 @@ lang="art-lojban">mi bilga jenai kakne lenu mi klama le barja</foreignphrase></p
 <sect1 id="less11briditailconn"><title>Connecting <foreignphrase
 lang="art-lojban">bridi</foreignphrase> tails</title>
 
-<para>Many human languages &mdash; English among them &mdash; divide the
-sentence into two parts: the subject, and the rest. In mainstream
+<para>Many human languages &mdash; English among them &mdash; divide
+sentences into two parts: the subject, and the rest. In mainstream
 linguistic parlance, these get called the <firstterm>noun
 phrase</firstterm> and the <firstterm>verb phrase</firstterm>.
-(We've mostly managed to avoid the kind of grammar talk that might 
+(We've mostly managed to avoid so far the kind of grammar talk that might 
 have sent shivers down your spine at school. Don't worry, this won't hurt a bit...)</para>
 
 <para>Now the thing about subjects is, we tend to talk about them a lot. 
@@ -664,35 +666,35 @@ lang="art-lojban">bridi</foreignphrase>. So it corresponds precisely to
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
-<variablelist termlength="13">
+<variablelist termlength="15">
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">bruna</foreignphrase></term><listitem><para>x1 is brother of/fraternal to x2 by bond/tie/standard/parent(s) x3; [not necess. biological]</para></listitem></varlistentry>
+lang="art-lojban">bruna</foreignphrase></term><listitem><para>x<subscript>1</subscript> is brother of/fraternal to x<subscript>2</subscript> by bond/tie/standard/parent(s) x<subscript>3</subscript>; [not necess. biological]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">dunli</foreignphrase></term><listitem><para>x1 is equal/congruent to/as much as x2 in property/dimension/quantity x3</para></listitem></varlistentry>
+lang="art-lojban">dunli</foreignphrase></term><listitem><para>x<subscript>1</subscript> is equal/congruent to/as much as x<subscript>2</subscript> in property/dimension/quantity x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">gunta</foreignphrase></term><listitem><para>x1 (person/mass) attacks/invades/commits aggression upon victim x2 with goal/objective x3</para></listitem></varlistentry>
+lang="art-lojban">gunta</foreignphrase></term><listitem><para>x<subscript>1</subscript> (person/mass) attacks/invades/commits aggression upon victim x<subscript>2</subscript> with goal/objective x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jatna</foreignphrase></term><listitem><para>x1 is captain/commander/leader/in-charge/boss of vehicle/domain x2</para></listitem></varlistentry>
+lang="art-lojban">jatna</foreignphrase></term><listitem><para>x<subscript>1</subscript> is captain/commander/leader/in-charge/boss of vehicle/domain x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">jikca</foreignphrase></term><listitem><para>x1 interacts/behaves socially with x2; x1 socializes with/is sociable towards x2</para></listitem></varlistentry>
+lang="art-lojban">jikca</foreignphrase></term><listitem><para>x<subscript>1</subscript> interacts/behaves socially with x<subscript>2</subscript>; x<subscript>1</subscript> socializes with/is sociable towards x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">kratr&shy;senatore</foreignphrase></term><listitem><para>x1 is a senator representing x2 in the senate 
-x3</para></listitem></varlistentry>
+lang="art-lojban">kratr&shy;senatore</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a senator representing x<subscript>2</subscript> in senate 
+x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">mansa</foreignphrase></term><listitem><para>x1 satisfies evaluator x2 in property (ka)/state x3</para></listitem></varlistentry>
+lang="art-lojban">mansa</foreignphrase></term><listitem><para>x<subscript>1</subscript> satisfies evaluator x<subscript>2</subscript> in property (ka)/state x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">misno</foreignphrase></term><listitem><para>x1 (person/object/event) is famous/renowned/is a celebrity among community of persons x2 (mass)</para></listitem></varlistentry>
+lang="art-lojban">misno</foreignphrase></term><listitem><para>x<subscript>1</subscript> (person/object/event) is famous/renowned/is a celebrity among community of persons x<subscript>2</subscript> (mass)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">nupre</foreignphrase></term><listitem><para>x1 (agent) promises/commits/assures/threatens x2 (event/state) to x3 [beneficiary/victim]</para></listitem></varlistentry>
+lang="art-lojban">nupre</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent) promises/commits/assures/threatens x<subscript>2</subscript> (event/state) to x<subscript>3</subscript> [beneficiary/victim]</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">slabu</foreignphrase></term><listitem><para>x<subscript>1</subscript> is
@@ -700,13 +702,13 @@ old/familiar/well-known to observer x<subscript>2</subscript> in feature x<subsc
 x<subscript>4</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">speni</foreignphrase></term><listitem><para>x1 is married to x2; x1 is a spouse of x2 under law/custom/tradition/system/convention x3</para></listitem></varlistentry>
+lang="art-lojban">speni</foreignphrase></term><listitem><para>x<subscript>1</subscript> is married to x<subscript>2</subscript>; x<subscript>1</subscript> is a spouse of x<subscript>2</subscript> under law/custom/tradition/system/convention x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">tinbe</foreignphrase></term><listitem><para>x1 obeys/follows the command/rule x2 made by x3; (adjective:) x1 is obedient</para></listitem></varlistentry>
+lang="art-lojban">tinbe</foreignphrase></term><listitem><para>x<subscript>1</subscript> obeys/follows the command/rule x<subscript>2</subscript> made by x<subscript>3</subscript>; (adjective:) x<subscript>1</subscript> is obedient</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">vlipa</foreignphrase></term><listitem><para>x1 has the power to bring about x2 under conditions x3; x1 is powerful in aspect x2 under x3</para></listitem></varlistentry>
+lang="art-lojban">vlipa</foreignphrase></term><listitem><para>x<subscript>1</subscript> has the power to bring about x<subscript>2</subscript> under conditions x<subscript>3</subscript>; x<subscript>1</subscript> is powerful in aspect x<subscript>2</subscript> under x<subscript>3</subscript></para></listitem></varlistentry>
 
 </variablelist>
 
@@ -734,18 +736,18 @@ lang="art-lojban">.i la djak.kenedis. nupre lenu lo merko cu cadzu le lunra .i l
 djak.kenedis.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djak.kenedis. tavla fo la kubas. .i la djak.kenedis. gunta la 
+lang="art-lojban">.i la djak.kenedis. tavla fi la kubas. .i la djak.kenedis. gunta la 
 kubas.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djak.kenedis cu mansa lei merko leka vlipa .i la djak.kenedis. ckasu 
+lang="art-lojban">.i la djak.kenedis. mansa lei merko leka vlipa .i la djak.kenedis. ckasu 
 la nikitas.xrucTCOF. leka vlipa</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis. sutra tavla .i la djak.kenedis. na denpa</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djak.kenedis jikca la MErilin.monROS. .i la djak.kenedis. djuno ledu'u la MErilin.monROS. 
+lang="art-lojban">.i la djak.kenedis. jikca la MErilin.monROS. .i la djak.kenedis. djuno ledu'u la MErilin.monROS. 
 misno</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
@@ -805,6 +807,7 @@ slot:
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru ji loi sakta</foreignphrase>
 You want to add milk ___ sugar.</literallayout>
+
 </informalexample>By filling in the slot, you get to pick what you want. If you say
 <foreignphrase lang="art-lojban">.e</foreignphrase>, you are saying the sentence
 <foreignphrase lang="art-lojban">.i do djica lenu jmina loi ladru .e loi
@@ -819,9 +822,9 @@ lang="art-lojban">na</foreignphrase> in front of it.) So if you answer
 <foreignphrase lang="art-lojban">na.e</foreignphrase>, you are saying <quote>I
 want <emphasis>not</emphasis> milk, <emphasis>and</emphasis> sugar</quote> (or, as is more usual in English, 
 <quote>not milk, but sugar</quote>) &mdash; which means that you are picking only
-sugar. You can still be unhelpful with your response (<foreignphrase
+sugar. You can still be unhelpful with your response: <foreignphrase
 lang="art-lojban">.a</foreignphrase> would leave us right where we started, for
-instance), but at least this way you have a logically consistent way of 
+instance. Bbut at least this way you have a logically consistent way of 
 picking alternatives presented to you. 
 </para>
 
@@ -872,14 +875,14 @@ barja ji le spita</foreignphrase></para></listitem>
 lang="art-lojban">la djiotis. stali le barja gi'i klama le gusta</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">la jan. tadni loi xukske gi'i nelci loi dotco birje</foreignphrase></para></listitem>
+lang="art-lojban">la jan. tadni loi xumske gi'i nelci loi dotco birje</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">la djiotis. pendo la lis.xarvis.ozuald. ji la ranjit.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">la suzyn. nelci loi dotco je'i fraso birje</foreignphrase> 
-(Hint: Just as you thought, you have no idea whether Susan likes French 
+(Hint: Just as you thought: you have no idea whether Susan likes French 
 beer or not. You should still be able to come up with a connective that 
 reflects that.)</para></listitem>
 </orderedlist></para>
@@ -924,7 +927,7 @@ lang="art-lojban">bakni</foreignphrase></term><listitem><para>x<subscript>1</sub
 a cow/cattle/kine/ox/[bull/steer/calf] [beef-producer/bovine] of species/breed x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">cidjrkebabi</foreignphrase></term><listitem><para>x1 is a kebab 
+lang="art-lojban">cidjrkebabi</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a kebab 
 (Yet another one of those funny-shaped words...)</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
@@ -1013,10 +1016,10 @@ li'u</foreignphrase></para></listitem>
 lang="art-lojban">.i la djiotis cusku lu .i lo cidjrkari li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.iseki'ubo le bevri cu cusku lu lanme je'i bakni li'u</foreignphrase></para></listitem>
+lang="art-lojban">.iseki'ubo le bevri cu cusku lu .i lanme je'i bakni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. cusku lu naje li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. cusku lu .i naje li'u</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -1057,9 +1060,10 @@ outer space &mdash; whether or not you met any aliens.</quote> (Use an attitudin
 <orderedlist>
 
 <listitem><para>IFF. In English, we expect that IFF is what is meant, anyway; but a very
-legalistic (and horridly mean) parent) can still say <quote>I said I wouldn't get you ice cream if you were naughty;
+legalistic (and horridly mean) parent can still say <quote>I said I wouldn't get you ice cream if you were naughty;
 I never said I'd get you ice cream if you were nice.</quote> That's because <wordasword>if</wordasword>
-in English logically means IF, and conventionally means the stronger IFF. This conventional kind of meaning
+in English logically means IF, and only conventionally means the stronger IFF. This conventional 
+kind of meaning
 goes by the name of <firstterm>implicature</firstterm>; and implicature has always been something of an issue
 in Lojban, since humans expect it, but it's not really anything to do with logic.</para></listitem>
 
@@ -1136,7 +1140,9 @@ lang="art-lojban">la</foreignphrase> would itself be a <foreignphrase
 lang="art-lojban">cmene</foreignphrase>. Since <foreignphrase
 lang="art-lojban">cmene</foreignphrase> end in pauses, if there's no pause,
 then this is a single <foreignphrase
-lang="art-lojban">cmene</foreignphrase>. In other words, <foreignphrase
+lang="art-lojban">cmene</foreignphrase>.</para>
+
+<para>In other words, <foreignphrase
 lang="art-lojban">la .atlantas.</foreignphrase> is in fact OK, because, if
 it did fall apart, it would fall apart into <foreignphrase
 lang="art-lojban">la .at. la ntas.</foreignphrase> <quote role="gloss">At,
@@ -1178,7 +1184,7 @@ lang="art-lojban">tanru</foreignphrase>.</para></listitem>
 
 <listitem><para>Ranjeet likes tasty or spicy things. (The normal 
 implication in English, made explicit in Lojban, is to add <quote>or 
-both</quote>.)</para></listitem>
+both</quote>. This is an implicature, as described in Exercise 1.)</para></listitem>
 
 <listitem><para>I should but cannot go to the bar. (Not a typo: <foreignphrase
 lang="art-lojban">.enai</foreignphrase> builds a new connective, AND NOT, since 
@@ -1193,27 +1199,31 @@ what follows it gets negated.)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis. jatna le merko gi'e bruna la 
-rabyrt.kenedis.</foreignphrase></para></listitem>
+rabyrt.kenedis.</foreignphrase> <quote>Jack Kennedy was leader of America and brother of Robert 
+Kennedy.</quote></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis. speni la djaklin.buvier. gi'e se catra 
-la lis.xarvis.ozuald.</foreignphrase></para></listitem>
+la lis.xarvis.ozuald.</foreignphrase> <quote>Jack Kennedy was married to Jacquelin Bouvier and killed 
+by Lee Harvey Oswald.</quote></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis. nupre lenu lo merko cu cadzu le lunra gi'e te tinbe fi 
-la nasas.</foreignphrase> (The conversion works out in putting Kennedy as the x<subscript>1</subscript>
+la nasas.</foreignphrase> <quote>Jack Kennedy promised that an American would walk on the moon,
+and was obeyed by NASA.</quote> (The conversion works out in putting Kennedy as the x<subscript>1</subscript>
 of both <foreignphrase lang="art-lojban">bridi</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djak.kenedis. tavla fo la kubas. gi'e gunta la 
-kubas.</foreignphrase> (You can't get Cuba into the <foreignphrase
+lang="art-lojban">.i la djak.kenedis. tavla fi la kubas. gi'e gunta la 
+kubas.</foreignphrase> <quote>Jack Kennedy talked about Cuba and attacked Cuba.</quote> (You can't get Cuba into the <foreignphrase
 lang="art-lojban">bridi</foreignphrase>-head, because it's in different places in the two
 <foreignphrase lang="art-lojban">bridi</foreignphrase>: x<subscript>4</subscript> in the first
 <foreignphrase lang="art-lojban">bridi</foreignphrase>, x<subscript>2</subscript> in the second.)</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis fi leka vlipa cu mansa fe lei merko gi'e ckasu fe
-la nikitas.xrucTCOF.</foreignphrase> (Tricky, tricky, I know. The x<subscript>1</subscript> and 
+la nikitas.xrucTCOF.</foreignphrase> <quote>Jack Kennedy, as regards power, satisfied the
+Americans, and mocked Nikita Khrushchev.</quote> (Tricky, tricky, I know. The x<subscript>1</subscript> and 
 x<subscript>3</subscript> are the same; so with some clever usage of 
 <foreignphrase lang="art-lojban">fi</foreignphrase> &mdash; and <foreignphrase lang="art-lojban">fe</foreignphrase>,
 so that the next <foreignphrase lang="art-lojban">sumti</foreignphrase> doesn't get taken for
@@ -1222,18 +1232,21 @@ x<subscript>4</subscript> &mdash; this can be made to work.)</para></listitem>
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis. sutra tavla gi'e na denpa</foreignphrase> &mdash; or equivalently,
 <foreignphrase
-lang="art-lojban">.i la djak.kenedis. sutra tavla gi'enai denpa</foreignphrase></para></listitem>
+lang="art-lojban">.i la djak.kenedis. sutra tavla gi'enai denpa</foreignphrase> <quote>Jack Kennedy 
+talked fast and didn't pause.</quote></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djak.kenedis jikca la MErilin.monROS. gi'e djuno ledu'u la MErilin.monROS. 
-misno</foreignphrase> (Marilyn isn't in the same place in the two <foreignphrase
+misno</foreignphrase> <quote>Jack Kennedy socialised with Marilyn Monroe and knew that Marilyn
+Monroe was famous.</quote> (Marilyn isn't in the same place in the two <foreignphrase
 lang="art-lojban">bridi</foreignphrase>: she's in x<subscript>2</subscript> in the first <foreignphrase
 lang="art-lojban">bridi</foreignphrase>, but in a <foreignphrase
 lang="art-lojban">sumti</foreignphrase> <emphasis>within</emphasis> an abstraction in x<subscript>2</subscript> in the 
 second <foreignphrase lang="art-lojban">bridi</foreignphrase>.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djak.kenedis. slabu mi gi'e pu pendo mi gi'e na/gi'enai se dunli do doi kratrsenatore</foreignphrase> (If it wasn't for the third sentence, you could have fit the <foreignphrase
+lang="art-lojban">.i la djak.kenedis. slabu mi gi'e pu pendo mi gi'e na/gi'enai se dunli do doi kratrsenatore</foreignphrase> <quote>Jack Kennedy was familiar to me and was my friend, and is not
+equalled by you, senator.</quote> (If it wasn't for the third sentence, you could have fit the <foreignphrase
 lang="art-lojban">mi</foreignphrase> into the <foreignphrase
 lang="art-lojban">bridi</foreignphrase>-head. The original text, famously spoken by Lloyd Bentsen to
 Dan Quayle in the 1988 American Vice-Presidential debate, is: 
@@ -1324,13 +1337,13 @@ je'i bakni li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la suzyn. tirna jonai jundi le bevri</foreignphrase> (or: <foreignphrase
-lang="art-lojban">.i la suzyn. tirna le sabji gi'onai jundi le bevri</foreignphrase>)</para></listitem>
+lang="art-lojban">.i la suzyn. tirna le bevri gi'onai jundi le bevri</foreignphrase>)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis pencu la suzyn. le janco gi'e cusku lu ju'i suzyn. li'u</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis pencu la suzyn. le janco gi'e cusku lu .i ju'i .suzyn. li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la suzyn. se spaji gi'e cusku lu .y. jipci 
+lang="art-lojban">.i la suzyn. se spaji gi'e cusku lu .i .y. jipci 
 li'u</foreignphrase> (Not one of the alternatives the waiter presented, so 
 she couldn't very well answer with a connective.)</para></listitem>
 

@@ -67,7 +67,7 @@ lang="art-lojban">pi</foreignphrase> is not always decimal; it's the point for
 whatever number base you're using. But that's a more advanced topic. </para>
 
 <tip><para>Don't get this mixed
-up with the number <wordasword>pi</wordasword>: 3.14159..., which has its 
+up with the number <wordasword>pi</wordasword> (&pi;): 3.14159..., which has its 
 own word in Lojban: <foreignphrase lang="art-lojban">pai</foreignphrase> &mdash; 
 oddly enough.</para></tip>
 
@@ -114,7 +114,7 @@ want to say is things like <quote role="gloss">three people,</quote> or
 
 <note><title>Note for mathematicians</title><para>Lojban has a number of
 words to deal with basic mathematics, and also an incredible number of
-words to deal with just about any mathematical expression you can think of
+words to deal with just about any mathematical expression you can think of,
 in a separate subset of the language (<citetitle>The Complete Lojban 
 Language</citetitle>, Chapter 18.) But you can't expect everything in a
 beginners' course. </para></note>
@@ -134,7 +134,9 @@ lang="art-lojban">lo</foreignphrase> is pretty complicated, but it
 basically means <quote role="gloss">something which really is,</quote>
 which nine times out of ten is the same as English
 <wordasword>a</wordasword> or <wordasword>some</wordasword> (translating
-Lojban grammar into English like this is a mortal sin, but even so, this is
+Lojban grammar into English like this is a mortal sin (damned under the name of
+<foreignphrase
+lang="art-lojban">malglico</foreignphrase>), but even so, this is
 the best thing to do with <foreignphrase
 lang="art-lojban">lo</foreignphrase> at this stage!). </para>
 
@@ -183,22 +185,34 @@ determine which of the two interpretations holds. But Lojban is a logical
 language, and so does not tolerate this confusion! <foreignphrase
 lang="art-lojban">le</foreignphrase> and <foreignphrase
 lang="art-lojban">lo</foreignphrase> force the individual interpretation.
-That is, if I say <foreignphrase lang="art-lojban">ci lo nanmu cu bevri le
-pipno</foreignphrase>, I mean that each of the three men (<foreignphrase
+That is, if I say 
+
+<informalexample><para><foreignphrase lang="art-lojban">ci lo nanmu cu bevri le
+pipno</foreignphrase></para>
+
+</informalexample>I mean that each of the three men (<foreignphrase
 lang="art-lojban">nanmu</foreignphrase>) carried (<foreignphrase
 lang="art-lojban">bevri</foreignphrase>) the piano (<foreignphrase
-lang="art-lojban">pipno</foreignphrase>). And if I say <foreignphrase
-lang="art-lojban">ci lo gerku cu batci mi</foreignphrase>, I just mean that
+lang="art-lojban">pipno</foreignphrase>). And if I say 
+
+<informalexample><para><foreignphrase
+lang="art-lojban">ci lo gerku cu batci mi</foreignphrase></para>
+
+</informalexample>I just mean that
 three dogs bite me. Maybe one dog bit me in the morning, one in the
 afternoon, and one at night, or maybe I mean that I have been bitten by a
 dog three times in my life. There is nothing to say that the three dogs
 have anything to do with each other.</para>
 
 <para>But if you want those dogs, or those men, to be considered as a unit,
-you'd say <foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> ci lo
-nanmu cu bevri le pipno</foreignphrase>, and <foreignphrase
+you'd say 
+
+<informalexample><para><foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> ci lo
+nanmu cu bevri le pipno</foreignphrase></para><para><foreignphrase
 lang="art-lojban"><emphasis>lu'o</emphasis> ci lo gerku cu batci
-mi</foreignphrase>. <foreignphrase lang="art-lojban">lu'o</foreignphrase>
+mi</foreignphrase></para>
+
+</informalexample><foreignphrase lang="art-lojban">lu'o</foreignphrase>
 means <quote role="gloss">the mass composed of</quote>, and in effect
 converts a bunch of individuals into a coherent unit. In the case of the
 dogs, for example, it makes them a pack. If you're a fan of computer
@@ -218,8 +232,10 @@ ninmu</foreignphrase> means <quote role="gloss">the ten women</quote>,
 <quote role="gloss">the ten women treated as a group or mass</quote>. Let's
 imagine that ten women I have in mind kiss me on ten separate occasions.
 (Hey, I do get to write these lessons for my own amusement, after all...) I could then say
-<foreignphrase lang="art-lojban">le pano ninmu cu cinba mi</foreignphrase>,
-in which case I'd consider myself quite fortunate. However, if I say
+
+<informalexample><para><foreignphrase lang="art-lojban">le pano ninmu cu cinba mi</foreignphrase></para>
+
+</informalexample>in which case I'd consider myself quite fortunate. However, if I say
 <foreignphrase lang="art-lojban"><emphasis>lu'o</emphasis> le pano 
 ninmu cu cinba mi</foreignphrase>, I mean that the ten women kiss me
 <foreignphrase lang="fra">en masse</foreignphrase>, in which case I would
@@ -249,7 +265,7 @@ say <foreignphrase lang="art-lojban">loi ci nanmu cu bevri le
 pipno</foreignphrase>, because that means that there are only three men 
 that exist in the universe. You cannot say <foreignphrase 
 lang="art-lojban">ci loi nanmu cu bevri le pipno</foreignphrase>, because 
-the three men act as one mass, not as three. As it turns out (by extension 
+the three men act as one mass, and not as three masses. As it turns out (by extension 
 of a little-known mechanism documented in <citetitle>The Complete Lojban 
 Language</citetitle>, p. 132&ndash;133), the way to do it is <foreignphrase 
 lang="art-lojban">loi ci lo nanmu cu bevri le pipno</foreignphrase>: 
@@ -303,7 +319,7 @@ bevri le pipno</foreignphrase>.) You would therefore only use the
 number+<foreignphrase lang="art-lojban">lo</foreignphrase>+number formula
 if you knew the actual numbers rather than just the proportions, e.g.
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">re lo mi ci mensi cu nelci la rikis.martin.</foreignphrase>
+<informalexample><literallayout><foreignphrase lang="art-lojban">re lo ci mensi pe mi cu nelci la rikis.martin.</foreignphrase>
 Two of my three sisters like Ricky Martin.</literallayout></informalexample></para>
 
 <para>This states two facts. First, that I have three sisters (though it is
@@ -366,8 +382,8 @@ I fooled one out of two people (which means exactly the same thing)</literallayo
 <listitem><literallayout><foreignphrase lang="art-lojban">mi tcica pa le re mlatu</foreignphrase>
 I fooled one out of the two cats (treating the cats as individuals)</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">mi djuno vopano lo pacivore gismu</foreignphrase>
-I know 410 out of the 1342 (existing) <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></listitem>
+<listitem><literallayout><foreignphrase lang="art-lojban">mi se slabu vopano lo pacivore gismu</foreignphrase>
+I am familiar with 410 out of the 1342 (existing) <foreignphrase lang="art-lojban">gismu</foreignphrase></literallayout></listitem>
 
 </itemizedlist></para></sect1>
 
@@ -455,20 +471,21 @@ I like all cats.</literallayout>
 </listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">mi na nelci ro lo gerku</foreignphrase>
-It's not true that I like all dogs.</literallayout><para>(this is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
+It's not true that I like all dogs.</literallayout><para>(This is <emphasis>not</emphasis> the same as <quote>I don't like any dogs</quote>, which would be
 <foreignphrase lang="art-lojban">mi nelci no lo gerku</foreignphrase>. There are 
 other ways of saying this, but we haven't got enough grammar under our 
 belt yet.) </para>
 </listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">so'i lo merko cu nelci la nirvanas.</foreignphrase>
-Many Americans like Nirvana</literallayout><para>(the group, not the mystical state.Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)</para></listitem>
+Many Americans like Nirvana</literallayout><para>(The group, not the mystical state. Although 
+on second thought...</para><para>Yes, names are ambiguous in Lojban, because they're used Humpty-Dumpty style: they mean what the <emphasis>speaker</emphasis> means.)</para></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">so'u lo jungo cu nelci la nirvanas.</foreignphrase>
 Few Chinese people like Nirvana.</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">su'e mu le muno prenu cu cmila</foreignphrase>
-No more than five out of the fifty people laugh(ed)</literallayout><para>(let's say a comedian told a bad joke).</para></listitem>
+No more than five out of the fifty people laugh(ed)</literallayout><para>(Let's say a comedian told a bad joke).</para></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">su'o pa lo prenu cu prami do</foreignphrase>
 At least one person loves you.</literallayout></listitem>
@@ -723,7 +740,7 @@ with a <foreignphrase lang="art-lojban">cmene</foreignphrase> (which needs
 more appropriate, you may not express yourself as clearly as you wanted,
 but at least you will not be talking ungrammatical nonsense, like you would if
 you said <foreignphrase lang="deu">der Frau</foreignphrase> in German, or 
-for that matter <wordasword>the two womans</wordasword> in English.  </para>
+<wordasword>the two womans</wordasword> in English.  </para>
 </sect1>
 
 <sect1 id="less4answers"><title>Answers to Exercises</title>
@@ -739,10 +756,10 @@ lang="art-lojban">li vo ki'o binore</foreignphrase> (the spaces are
 optional)</para></listitem>
 
 <listitem><para>6,000: <foreignphrase lang="art-lojban">li xa
-ki'o</foreignphrase></para></listitem>
+ki'o</foreignphrase> or <foreignphrase lang="art-lojban">li xanonono</foreignphrase></para></listitem>
 
 <listitem><para>7.54: <foreignphrase lang="art-lojban">li ze
-pimuvo</foreignphrase> (again the space is optional)</para></listitem>
+pimuvo</foreignphrase> (again, the space is optional)</para></listitem>
 
 <listitem><para>6,891,573.905: <foreignphrase lang="art-lojban">li xa ki'o bisopa
 ki'o muzeci pisonomu</foreignphrase> (if that looks long, try writing it as
@@ -815,7 +832,7 @@ ninmu </foreignphrase></para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">lu'o vo lo ninmu cu cinba la
 rikis.martin. </foreignphrase> (Give yourself a pat on the back if you got that one
 right! If you said <foreignphrase lang="art-lojban">loi vo lo ninmu</foreignphrase>,
-give yourself a whole backrub!)</para></listitem>
+give yourself a whole backrub! Though you may need help with that...)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.uinai</foreignphrase>
 [<emphasis>or</emphasis> <foreignphrase lang="art-lojban">.uu</foreignphrase>]

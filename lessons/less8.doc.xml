@@ -44,14 +44,17 @@ less conspicuous place in the sentence, and so can now be dropped out
 without being missed. In fact place conversion is often used when we want
 to get rid of places like this.
 
-<informalexample>
+<itemizedlist>
+<listitem><informalexample>
 <literallayout><foreignphrase lang="art-lojban">mi'a tugni do zo'e le dinske</foreignphrase>
 <foreignphrase lang="art-lojban">mi'a tugni do fo le dinske</foreignphrase>
 We agree with you [that something is true] about economics.</literallayout>
 </informalexample><informalexample>
 <literallayout><foreignphrase lang="art-lojban">le dinske cu ve tugni</foreignphrase>
 As regards economics [we] agree [with you].</literallayout>
-</informalexample><informalexample>
+</informalexample></listitem>
+
+<listitem><informalexample>
 <literallayout><foreignphrase lang="art-lojban">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>
 <foreignphrase lang="art-lojban">le prenu cu klama fu lo trene</foreignphrase>
 The person goes somewhere, from somewhere, via somewhere, by train.</literallayout>
@@ -59,7 +62,8 @@ The person goes somewhere, from somewhere, via somewhere, by train.</literallayo
 <literallayout><foreignphrase lang="art-lojban">lo trene cu xe klama</foreignphrase>
 [Someone] goes by train. (literally <quote>By a train is gone</quote>)
 A train is a vehicle.</literallayout>
-</informalexample></para>
+</informalexample></listitem>
+</itemizedlist></para>
 
 <para>As I've said, the more extreme conversions like <foreignphrase
 lang="art-lojban">ve</foreignphrase> and <foreignphrase
@@ -73,8 +77,17 @@ end.  </para>
 <variablelist>
 
 <varlistentry><term><foreignphrase
+lang="art-lojban">gugde</foreignphrase></term><listitem><para>x<subscript>1</subscript> is the country of
+peoples x<subscript>2</subscript> with land/territory x<subscript>3</subscript>; (people/territory
+relationship)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
 lang="art-lojban">jamna</foreignphrase></term><listitem><para>
 x<subscript>1</subscript> (person/mass) wars against x<subscript>2</subscript> over territory/matter x<subscript>3</subscript>; x<subscript>1</subscript> is at war with x<subscript>2</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">jdini</foreignphrase></term><listitem> <para>x<subscript>1</subscript> is
+money/currency issued by x<subscript>2</subscript>; (adjective:) x<subscript>1</subscript> is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
 lang="art-lojban">xatra</foreignphrase></term><listitem><para>x<subscript>1</subscript> is a
@@ -85,15 +98,6 @@ with content x<subscript>4</subscript></para></listitem></varlistentry>
 lang="art-lojban">xlura</foreignphrase></term><listitem> <para>x<subscript>1</subscript> (agent)
 influences/lures/tempts x<subscript>2</subscript> into action/state x<subscript>3</subscript> by influence/threat/lure
 x<subscript>4</subscript></para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">gugde</foreignphrase></term><listitem><para>x<subscript>1</subscript> is the country of
-peoples x<subscript>2</subscript> with land/territory x<subscript>3</subscript>; (people/territory
-relationship)</para></listitem></varlistentry>
-
-<varlistentry><term><foreignphrase
-lang="art-lojban">jdini</foreignphrase></term><listitem> <para>x<subscript>1</subscript> is
-money/currency issued by x<subscript>2</subscript>; (adjective:) x<subscript>1</subscript> is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry>
 
 </variablelist>
 
@@ -243,9 +247,7 @@ concepts, using the following <foreignphrase lang="art-lojban">gismu</foreignphr
 <member><foreignphrase lang="art-lojban">penmi</foreignphrase></member>
 <member><foreignphrase lang="art-lojban">skicu</foreignphrase></member>
 <member><foreignphrase lang="art-lojban">spuda</foreignphrase></member>
-</simplelist>
-
-<orderedlist>
+</simplelist><orderedlist>
 <listitem><para>the destination</para></listitem>
 <listitem><para>the route</para></listitem>
 <listitem><para>the namer</para></listitem>
@@ -301,13 +303,16 @@ lang="art-lojban">dud</foreignphrase> and <foreignphrase
 lang="art-lojban">du'a</foreignphrase>. We can't use <foreignphrase
 lang="art-lojban">dud</foreignphrase>, because that would give us a word ending in
 a consonant, and, as we know, only <foreignphrase
-lang="art-lojban">cmene</foreignphrase> can end in a consonant. The only
+lang="art-lojban">cmene</foreignphrase> can end in a consonant. (Some <foreignphrase
+lang="art-lojban">cmene</foreignphrase> do in fact use them for that reason.) The only
 candidate, then, is <foreignphrase lang="art-lojban">du'a</foreignphrase>, so
 <quote role="gloss">the gift</quote> is <foreignphrase lang="art-lojban">le
 seldu'a</foreignphrase>. (<foreignphrase
 lang="art-lojban">sel<emphasis>du'a</emphasis></foreignphrase> has exactly the
 same place structure as <foreignphrase
-lang="art-lojban">sel<emphasis>dunda</emphasis></foreignphrase>.) The same is true for the other
+lang="art-lojban">sel<emphasis>dunda</emphasis></foreignphrase>.)</para>
+
+<para>The same is true for the other
 conversion <foreignphrase lang="art-lojban">cmavo</foreignphrase>, though their
 corresponding <foreignphrase lang="art-lojban">rafsi</foreignphrase> don't all
 follow the same pattern:
@@ -460,7 +465,7 @@ exactly the same way. </para>
 <foreignphrase lang="art-lojban">rafsi</foreignphrase>, <foreignphrase
 lang="art-lojban">nar</foreignphrase>; but <foreignphrase
 lang="art-lojban">na'e</foreignphrase> is more useful in creating new 
-words:
+words.
 <foreignphrase lang="art-lojban">na'e</foreignphrase> in a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> still indicates an existing kind of relationship,
 which you would want to describe with a single <foreignphrase lang="art-lojban">lujvo</foreignphrase>;
@@ -609,7 +614,7 @@ the language seriously, and especially if you'll be writing in it. (<foreignphra
 lang="art-lojban">lujvo</foreignphrase> are easier to deal with while 
 writing than while speaking, because you have the time to reflect on how 
 you'll be creating your new word.) At this stage, though, you don't need to 
-go into all just that yet.
+go into all that just yet.
 
 </para>
 
@@ -620,7 +625,7 @@ lang="art-lojban">gismu</foreignphrase> list, use it to look up <foreignphrase
 lang="art-lojban">gismu</foreignphrase> and make <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> meaning the following, using short
 combining forms where possible and <foreignphrase
-lang="art-lojban">nal</foreignphrase> where necessary.
+lang="art-lojban">nal-</foreignphrase> where necessary.
 
 <orderedlist>
 <listitem><para>a television</para></listitem>
@@ -676,13 +681,16 @@ to say
 <emphasis>vo'a</emphasis></foreignphrase>
 </para></informalexample>we would be saying that Susan doesn't know that Zhang fancies 
 <emphasis>her</emphasis>, not that
-Susan doesn't know that Zhang fancies <emphasis>himself</emphasis>. This is not particularly
+Susan doesn't know that Zhang fancies <emphasis>himself</emphasis> (which gets us out of
+having to use <foreignphrase lang="art-lojban">sy.</foreignphrase> in the sentence above.) This is not particularly
 typical of natural languages: you can't say in English <wordasword><emphasis>Susan</emphasis> doesn't know 
 that Zhang fancies <emphasis>herself</emphasis></wordasword>. However some languages have some reflexives 
 that <emphasis>do</emphasis>
-behave like that; for example, Icelandic and Norwegian. The main reason Lojban behaves like
+behave like that; for example, Icelandic and Norwegian.</para>
+
+<para>The main reason Lojban behaves like
 this is because abstractions share <foreignphrase lang="art-lojban">sumti</foreignphrase> with the main
-<foreignphrase lang="art-lojban">bridi</foreignphrase> containing them far more often than having two
+<foreignphrase lang="art-lojban">bridi</foreignphrase> containing them far more often than they have two
 separate <foreignphrase lang="art-lojban">sumti</foreignphrase> the same. Given the problems in pinning
 down <foreignphrase lang="art-lojban">ri</foreignphrase> and <foreignphrase lang="art-lojban">ra</foreignphrase> we've already seen <link linkend="less7">last lesson</link>, it's
 more useful for Lojban to refer back to the main <foreignphrase lang="art-lojban">bridi</foreignphrase>
@@ -741,12 +749,14 @@ Jyoti</quote> &mdash; <emphasis>not</emphasis> <quote>Jyoti knows that Zhang and
 fancy each other</quote>, as you'd expect. For that sense, try 
 
 <informalexample><para><foreignphrase lang="art-lojban">la djiotis. djuno ledu'u
-la jan. cinynei la suzyn. soi ri</foreignphrase></para></informalexample>You can get
+la jan. cinynei la suzyn. soi ri</foreignphrase></para>
+
+</informalexample>You can get
 away with <foreignphrase lang="art-lojban">ri</foreignphrase>, because the phrase
 <foreignphrase lang="art-lojban">la suzyn. soi ri</foreignphrase> is considered all one 
 <foreignphrase lang="art-lojban">sumti</foreignphrase>, and that
 <foreignphrase lang="art-lojban">sumti</foreignphrase> is not considered over yet,
-so <foreignphrase lang="art-lojban">ri</foreignphrase> skips past it.</para></note>
+so <foreignphrase lang="art-lojban">ri</foreignphrase> skips past it when it refers back.</para></note>
 
 <note><para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is fixed in what
 it refers back to and, unlike <foreignphrase lang="art-lojban">ri</foreignphrase>,
@@ -780,13 +790,13 @@ relatives;</para></listitem>
 places other than x<subscript>1</subscript> by the same method;</para></listitem>
 
 <listitem><para>Making <foreignphrase lang="art-lojban">lujvo</foreignphrase>
-using <foreignphrase lang="art-lojban">sel</foreignphrase>, <foreignphrase
-lang="art-lojban">vel</foreignphrase> etc.  and short combining forms
+using <foreignphrase lang="art-lojban">sel-</foreignphrase>, <foreignphrase
+lang="art-lojban">vel-</foreignphrase> etc.  and short combining forms
 (<foreignphrase lang="art-lojban">rafsi</foreignphrase>);</para></listitem>
 
 <listitem><para>Making negative <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> using <foreignphrase
-lang="art-lojban">nal</foreignphrase>.</para></listitem>
+lang="art-lojban">nal-</foreignphrase>.</para></listitem>
 
 
 <listitem><para>Expressing reflexives and reciprocals using <foreignphrase

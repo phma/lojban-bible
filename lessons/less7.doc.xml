@@ -108,6 +108,18 @@ nanmu</foreignphrase> is closer to <foreignphrase
 lang="art-lojban">ri</foreignphrase> than the start of <foreignphrase
 lang="art-lojban">lenu lo nanmu cu dotco</foreignphrase>.</para></tip>
 
+<tip><para><foreignphrase lang="art-lojban">ri</foreignphrase> cannot refer to a <foreignphrase
+lang="art-lojban">sumti</foreignphrase> if it is already smack in the middle of that <foreignphrase
+lang="art-lojban">sumti</foreignphrase>. For example, in
+
+<informalexample><para><foreignphrase
+lang="art-lojban">la suzyn. pinxe le ri vanju</foreignphrase></para>
+
+</informalexample><foreignphrase
+lang="art-lojban">ri</foreignphrase> obviously refers to <foreignphrase
+lang="art-lojban">la suzyn.</foreignphrase>, and not to <foreignphrase
+lang="art-lojban">le vanju</foreignphrase>.</para></tip>
+
 <para>Another pro-<foreignphrase lang="art-lojban">sumti</foreignphrase> is <foreignphrase lang="art-lojban">da</foreignphrase>,
 which means <quote role="gloss">someone/something.</quote> You may remember
 <foreignphrase lang="art-lojban">zo'e</foreignphrase>, which means also means
@@ -539,7 +551,7 @@ you use <foreignphrase lang="art-lojban">nu</foreignphrase>. In fact,
 <foreignphrase lang="art-lojban">du'u</foreignphrase> and <foreignphrase
 lang="art-lojban">nu</foreignphrase> are the two major kinds of
 <firstterm>abstractions</firstterm> in Lojban. Lojban can distinguish between
-abstractions pretty finely, but the main distinction is between things that
+abstractions pretty finely, but the main distinction is between things that can
 happen (<firstterm>events</firstterm>), which take <foreignphrase lang="art-lojban">nu</foreignphrase>,
 and things you can know (<firstterm>facts</firstterm>), which take <foreignphrase
 lang="art-lojban">du'u</foreignphrase>. The <foreignphrase
@@ -550,7 +562,8 @@ abstraction type is normal for the word. </para>
 lang="art-lojban">nu</foreignphrase> in the final exercises of <link 
 linkend="less5">Lesson 5</link> and <link linkend="less6">6</link> should have been <foreignphrase 
 lang="art-lojban">du'u</foreignphrase>. Sorry about the 
-over-simplification &mdash; and please don't repeat it in your own Lojban!</para></note>
+over-simplification &mdash; and please don't repeat it in your own Lojban
+from now on!</para></note>
 
 <para>OK, but why is what Ranjeet said introduced with <foreignphrase
 lang="art-lojban">sedu'u</foreignphrase> rather than <foreignphrase
@@ -569,19 +582,31 @@ lang="art-lojban">du'u</foreignphrase>. </para>
 think it is. I'll explain what it's doing there next lesson.</para></note>
 
 <para>So Lojban has different words for <wordasword>that...</wordasword>,
-depending on what sort of thing is meant. If <wordasword>that</wordasword>
+depending on what sort of thing is meant.
+
+<itemizedlist>
+
+<listitem><para>If <wordasword>that</wordasword>
 introduces something that happened, use <foreignphrase
 lang="art-lojban">nu</foreignphrase>. (Events can be subdivided more finely yet,
-but let's not complicate matters even more than necessary.) If
+but let's not complicate matters even more than necessary.)</para></listitem> 
+
+<listitem><para>If
 <wordasword>that</wordasword> introduces something that you think, use
-<foreignphrase lang="art-lojban">du'u</foreignphrase>. If
+<foreignphrase lang="art-lojban">du'u</foreignphrase>.</para></listitem>  
+
+<listitem><para>If
 <wordasword>that</wordasword> introduces something that you say, use
-<foreignphrase lang="art-lojban">sedu'u</foreignphrase> &mdash; unless it is a
+<foreignphrase lang="art-lojban">sedu'u</foreignphrase></para></listitem> 
+
+<listitem><para>&mdash; unless it is a
 literal quote, in which case you use <foreignphrase lang="art-lojban">lu ...
-li'u</foreignphrase>.</para>
+li'u</foreignphrase>.</para></listitem> 
+
+</itemizedlist></para>
 
 <tip><para>This insistence on detail &mdash; which can get even more
-involved &mdash; is quite useful; but it seems to contradict what the
+involved for NU <foreignphrase lang="art-lojban">cmavo</foreignphrase> &mdash; is quite useful; but it seems to contradict what the
 previous lesson claimed, that Lojban grammar is your servant, not your
 master. It <emphasis>is</emphasis> an error to say <foreignphrase lang="art-lojban">nu</foreignphrase>
 when you mean <foreignphrase lang="art-lojban">du'u</foreignphrase> &mdash; though
@@ -622,7 +647,7 @@ lang="art-lojban">sedu'u</foreignphrase> would you use to translate
 
 <listitem><para>I claimed <emphasis>that</emphasis> Lojban is easy.</para></listitem> 
 
-<listitem><para>I am frustrated <emphasis>that</emphasis> Lojban is not 
+<listitem><para>I am frustrated <emphasis>that</emphasis> Lojban is 
 easy.</para></listitem> 
 
 <listitem><para>I agree <emphasis>that</emphasis> Lojban is easy.</para></listitem> 
@@ -654,11 +679,11 @@ things:
 <listitem><para>The one person I'm talking to.</para></listitem>
 <listitem><para>A number of people I'm talking to.</para></listitem>
 <listitem><para>The person or people I'm talking to and some other person or people.</para></listitem>
-<listitem><para>Anyone (as in <quote>Money can't buy you love.</quote>)</para></listitem>
+<listitem><para>Anyone (as in <quote>Money can't buy <emphasis>you</emphasis> love.</quote>)</para></listitem>
 </orderedlist>Lojban gets round the confusion between (1) and (2) by using numbers. The
 most common way to express (2) is <foreignphrase
 lang="art-lojban">rodo</foreignphrase>, <quote role="gloss">all of
-you</quote> (or Southern U.S. <quote role="gloss">Y'all</quote>) and, as
+you</quote> (or Southern U.S. <wordasword>Y'all</wordasword>) and, as
 we've seen, <foreignphrase lang="art-lojban">coi rodo</foreignphrase> is
 <quote>Hello all</quote> &mdash; a common way to start an e-mail to a list.
 You can also use specific numbers: <foreignphrase
@@ -672,7 +697,8 @@ you need the numeral to be there already, in order to put an article in
 front of a pro-<foreignphrase
 lang="art-lojban">sumti</foreignphrase>.</para></note>You can also use
 numbers with <foreignphrase lang="art-lojban">ko</foreignphrase>, e.g.
-<foreignphrase lang="art-lojban">ro ko klama ti</foreignphrase>. </para>
+<foreignphrase lang="art-lojban">ro ko klama ti</foreignphrase> <quote>All of you,
+get over here.</quote> </para>
 
 <para>Case (3) is expressed by <foreignphrase
 lang="art-lojban">do'o</foreignphrase> <quote role="gloss">you and someone
@@ -725,6 +751,32 @@ We are all human.</literallayout>
 <literallayout><foreignphrase lang="art-lojban">mi djica lenu do cliva</foreignphrase>
 We want you to go away.</literallayout>
 </informalexample></para>
+
+<simplesect role="exercise"><title>Exercise 5</title>
+
+<para>Is <wordasword>we/us</wordasword> in the following <foreignphrase 
+lang="art-lojban">mi'o</foreignphrase>, <foreignphrase lang="art-lojban">mi'a</foreignphrase>,
+<foreignphrase lang="art-lojban">ma'a</foreignphrase>, or <foreignphrase lang="art-lojban">mi</foreignphrase>?</para>
+
+<para><orderedlist>
+
+<listitem><para><emphasis>We</emphasis> need to start seeing other people.</para></listitem>
+
+<listitem><para><emphasis>We</emphasis> the people hold these truths to be self-evident.</para></listitem>
+
+<listitem><para><emphasis>We</emphasis> decided to expel you from the association.</para></listitem>
+
+<listitem><para>You can't talk to <emphasis>us</emphasis> that way!</para></listitem>
+
+<listitem><para><emphasis>We</emphasis>'re in a fine mess, all of us, aren't we?</para></listitem>
+
+<listitem><para>They told <emphasis>us</emphasis> we should get married, and you said <quote>OK.</quote></para></listitem>
+
+<listitem><para>They told <emphasis>us</emphasis> we should get married, and he said <quote>OK.</quote></para></listitem>
+
+</orderedlist></para>
+</simplesect>
+
 
 </sect1>
 
@@ -832,7 +884,7 @@ role="gloss">er</quote> (hesitation)</para></listitem></varlistentry>
 </simplesect>
 
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para>The story is now on in earnest! For each of the highlighted
 pro-<foreignphrase lang="art-lojban">sumti</foreignphrase>, say who or what they
@@ -942,7 +994,7 @@ to/responds to person/object/event/situation/stimulus x<subscript>2</subscript> 
 x<subscript>3</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase
-lang="art-lojban">xukske</foreignphrase></term><listitem><para>chemistry
+lang="art-lojban">xumske</foreignphrase></term><listitem><para>chemistry
 [<foreignphrase lang="art-lojban">xukmi</foreignphrase> (chemical) +
 <foreignphrase lang="art-lojban">saske</foreignphrase>
 (science)]</para></listitem></varlistentry>
@@ -954,7 +1006,7 @@ lang="art-lojban">xukske</foreignphrase></term><listitem><para>chemistry
  
 
 
-<simplesect role="exercise"><title>Exercise 6</title>
+<simplesect role="exercise"><title>Exercise 7</title>
 
 <para>Translate into Lojban. Use Lojban letters (acronyms) for the characters to refer 
 to each other.
@@ -1103,7 +1155,7 @@ lang="art-lojban">la suzyn. cu cmene le mi pendo</foreignphrase>, but <foreignph
 lang="art-lojban">lu suzyn. li'u</foreignphrase>, meaning <foreignphrase 
 lang="art-lojban">lu suzyn. li'u cu cmene le mi pendo</foreignphrase>. Since 
 we're putting everything Jyoti says inside our own quotes, this makes her 
-answer be <foreignphrase 
+answer <foreignphrase 
 lang="art-lojban">lu lu suzyn. 
 li'u li'u</foreignphrase>.)</para></listitem> 
 
@@ -1168,8 +1220,32 @@ into action.</para></listitem>
 </orderedlist></para>
 </simplesect>
 
-
 <simplesect role="excanswer"><title>Exercise 5</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">mi'o</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi</foreignphrase> (Classic case of someone speaking 
+on behalf of the many, by the way.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi'a</foreignphrase>, although this could be 
+<foreignphrase lang="art-lojban">mi</foreignphrase> if the expeller is speaking institutionally,
+on behalf of the association.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ma'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi'o</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">mi'a</foreignphrase></para></listitem>
+
+</orderedlist></para>
+</simplesect>
+
+
+<simplesect role="excanswer"><title>Exercise 6</title>
 <para><variablelist><title>pro-<foreignphrase lang="art-lojban">sumti</foreignphrase></title>
 
 <varlistentry><term><foreignphrase
@@ -1293,7 +1369,7 @@ on, you're both being silly,</quote> she said.</para></listitem>
 </orderedlist></para>
 
 </simplesect>
-<simplesect role="exercise"><title>Exercise 6</title>
+<simplesect role="exercise"><title>Exercise 7</title>
 
 <para>You now know enough Lojban that your translations can vary to some 
 extent. Don't be too concerned about matching these translations to the letter.
@@ -1316,7 +1392,7 @@ lang="art-lojban">li'u</foreignphrase> yet!)</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">.i jy. bilga lenu ze'e tcidu</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i jy. to'e morji so'e da le 
-xukske ca le crisa</foreignphrase> (You could also say <foreignphrase 
+xumske ca le crisa</foreignphrase> (You could also say <foreignphrase 
 lang="art-lojban">so'e lo fatci</foreignphrase> instead of <foreignphrase 
 lang="art-lojban">so'e da</foreignphrase>.)</para></listitem>
 

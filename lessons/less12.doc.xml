@@ -23,9 +23,18 @@ up on a timeline.
 </para>
 
 <para>And we tend to be very interested in the beginnings and ends of
-events. There is quite a difference between <quote>Is he about to do his
-homework?</quote>, <quote>Is he still doing his homework?</quote>, and
-<quote>Has he done his homework yet?</quote> Doing homework is an activity
+events. There is quite a difference between these three sentences:
+
+<itemizedlist>
+
+<listitem><para>Is he about to do his
+homework?</para></listitem>
+
+<listitem><para>Is he still doing his homework?</para></listitem>
+
+<listitem><para>Has he done his homework yet?</para></listitem> 
+
+</itemizedlist>Doing homework is an activity
 that has a beginning, a middle, and an end. So when we pinpoint the time at
 which doing homework happens, we are also pinpointing its beginning, its
 middle, and its end. Which means that the first of those questions asks whether the
@@ -178,7 +187,7 @@ express things more succinctly; and with Lojban the way it is, anything
 that makes things more succinct comes in handy.</para>
 
 <para>There are more aspects in Lojban, though you won't necessarily see 
-them as often in Lojban text; you can find out about them in Chapter 10 of 
+them as often in Lojban text; you can find out about them in Chapter 10.10 of 
 <citetitle>The Complete Lojban Language</citetitle>.  
 </para>
 
@@ -370,11 +379,11 @@ lang="art-lojban">selbri</foreignphrase>. The names come after an obligatory pau
 to make sure any eavesdropping computers don't misconstrue the vocative as one long name.
 The <foreignphrase
 lang="art-lojban">sumti</foreignphrase> or <foreignphrase
-lang="art-lojban">selbri</foreignphrase> describing the addressee (e.g. <foreignphrase
+lang="art-lojban">selbri</foreignphrase> describes the addressee (e.g. <foreignphrase
 lang="art-lojban">co'o la mensi</foreignphrase> or <foreignphrase
 lang="art-lojban">co'o mensi</foreignphrase>
-<quote>Goodbye, sister!</quote>); so they normally
-don't need terminators. If you use the vocative on its own, however, you
+<quote>Goodbye, sister!</quote>.) If any of these are used, they normally
+don't need terminators after them. If you use the vocative on its own, however, you
 will need a terminator, because the things likeliest to follow the vocative 
 in a sentence could easily be misconstrued as describing your addressee. The terminator for
 vocatives is <foreignphrase lang="art-lojban">do'u</foreignphrase>. For example,
@@ -428,7 +437,7 @@ lang="art-lojban">brivla</foreignphrase> &mdash; into Lojban. The most
 important thing about <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> is that, as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, they are meant to have very
-well-defined place structures; and there are suggestions in place for
+well-defined place structures; and there are guidelines in place for
 deriving them (see <citetitle>The Complete Lojban Language</citetitle>,
 Chapter 12.) So, particularly when the concept you want to express is
 <quote role="socalled">verb-like</quote> (that is, when it's likely to have
@@ -485,7 +494,7 @@ Lojban word or phrase.)</para>
 <foreignphrase lang="art-lojban">fu'ivla</foreignphrase> if it starts with a vowel.
 Two popular choices are <foreignphrase lang="art-lojban">x</foreignphrase> and
 <foreignphrase lang="art-lojban">n</foreignphrase>. Similarly, there is no set convention
-on where to get the vowel from if your word ends in a consonant. In these lessons,
+on where to get the vowel from, if your word ends in a consonant. In these lessons,
 we'll just repeat the preceding vowel; e.g. <wordasword>England</wordasword> &rArr;
 <foreignphrase lang="art-lojban">gugdr<emphasis>n</emphasis>ingland<emphasis>a</emphasis></foreignphrase>
 (from <foreignphrase lang="art-lojban">gugde</foreignphrase> <quote role="gloss">country</quote>.)</para></tip>
@@ -542,7 +551,7 @@ Not everyone likes them, so they're not yet all that common, and you'll
 usually get plenty of warning if someone is using them. </para></note>
 
 <note><title>P.S.</title><para>If you were wondering, by the way:
-<foreignphrase lang="art-lojban">cilrbri, zgikrnroknrolo, zgikrnroko</foreignphrase>.</para></note>
+<foreignphrase lang="art-lojban">cirlrbri, zgikrnroknrolo, zgikrnroko</foreignphrase>.</para></note>
 
 <simplesect role="exercise"><title>Exercise 4</title>
 
@@ -649,10 +658,12 @@ prenu</foreignphrase>, doing the Lojban equivalent of making an indefinite
 noun <quote role="socalled">equal</quote> a definite noun? After all,
 <foreignphrase lang="art-lojban">lo prenu</foreignphrase> applies to many
 more people in the world than just me, so <foreignphrase
-lang="art-lojban">du</foreignphrase> here does kind of acts like <quote
-role="gloss">is one of</quote>. The answer is, yes you can, because in this
+lang="art-lojban">du</foreignphrase> here does kind of act like <quote
+role="gloss">is one of</quote>.</para>
+
+<para>The answer is, yes you can, because in this
 context they both do refer to the same person. (In strict logical terms:
-there is at least one person such that that person is me.) This is frowned
+<quote>there is at least one person such that that person is me.</quote>) This is frowned
 upon in Lojban in general, though, because it's misleading: <foreignphrase
 lang="art-lojban">du</foreignphrase> tends to be reserved for mathematical
 equality, and for claiming that two different names (or definite nouns)
@@ -695,7 +706,7 @@ Ranjeets you might know, but just for your information, I should use
 <foreignphrase lang="art-lojban">po'u</foreignphrase> are typically used in
 Lojban to introduce alternate names for something; so they correspond to
 English <wordasword>namely, i.e.</wordasword> For instance, <foreignphrase
-lang="art-lojban">la suzyn. penmi la xukske fanza ku <emphasis>no'u</emphasis>
+lang="art-lojban">la suzyn. penmi la xumske fanza ku <emphasis>no'u</emphasis>
 la jan.</foreignphrase> <quote>Susan met <quote role="socalled">Chemistry
 Annoyance</quote>, <emphasis>namely</emphasis> Zhang.</quote></para></note>
 
@@ -877,7 +888,7 @@ lang="art-lojban">.i la suzyn. cusku lu .i pe'u .djiotis. ko smagau le ve cradi<
 lang="art-lojban">.i mi co'u tirna la ranjit. li'u</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. cusku lu .i ke'o mi na'e tirna ri'a lenu le 
+lang="art-lojban">.i la djiotis. cusku lu .i ke'o .suzyn. mi na'e tirna ri'a lenu le 
 ve cradi cu cladu li'u gi'e mo'u smagau</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
@@ -976,22 +987,22 @@ spita pu lenu do troci lenu do tavla mi</foreignphrase>
 <simplesect role="excanswer"><title>Exercise 2</title>
 
 <para>To explain the peculiar Lojbanisations of place names below, we have helpfully supplied IPA transcriptions
-in brackets afterwards.</para>
+in brackets afterwards.&IPAASCIIdisclaimer;</para>
 
 <para><orderedlist>
 
 <listitem><para>Moscow (St. Petersburg [<emphasis role="ipa">sankt&stress;p&ekl;t&ekl;rsburg</emphasis>], Moscow [<emphasis role="ipa">m&schwa;s&stress;kva</emphasis>])</para></listitem>
 
-<listitem><para>Munich (Munich [<emphasis role="ipa">&stress;myn&ccedil;&ekl;n</emphasis>], Cologne [<emphasis role="ipa">k&oelig;ln</emphasis>])</para></listitem>
+<listitem><para>Munich (Munich [<emphasis role="ipa">&stress;m&yipa;n&ccedilipa;&ekl;n</emphasis>], Cologne [<emphasis role="ipa">&stress;k&oeligipa;ln</emphasis>])</para></listitem>
 
-<listitem><para>Between Venice and Florence (Florence [<emphasis role="ipa">fi&stress;rentse</emphasis>], Venice [<emphasis role="ipa">ve&stress;netsia</emphasis>])</para></listitem>
+<listitem><para>Florence (Florence [<emphasis role="ipa">fi&stress;rentse</emphasis>], Venice [<emphasis role="ipa">ve&stress;netsia</emphasis>])</para></listitem>
 
-<listitem><para>Cheyenne (Cheyenne [<emphasis role="ipa">&esh;a&stress;j&ekl;n</emphasis>], New Orleans [<emphasis role="ipa">&stress;n&akl;l&ikl;nz</emphasis>]. OK, we aren't necessarily
+<listitem><para>Between New Orleans and Cheyenne (Cheyenne [<emphasis role="ipa">&esh;&aeligipa;&stress;j&ekl;n</emphasis>], New Orleans [<emphasis role="ipa">&stress;n&akl;l&ikl;nz</emphasis>]. OK, we aren't necessarily
 serious about the last one.)</para></listitem>
 
-<listitem><para>Canton (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">gua&eng;t&shkl;ow</emphasis>]</para></listitem>
+<listitem><para>Canton (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">kua&eng;t&shkl;ow</emphasis>]</para></listitem>
 
-<listitem><para>The bar. Of course.</para></listitem>
+<listitem><para>The bar ([<emphasis role="ipa">le &stress;bar&zhkl;a</emphasis>]). Of course.</para></listitem>
 
 </orderedlist></para>
 
@@ -1089,7 +1100,7 @@ favourite consonant is.</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">bilmrsaikopati</foreignphrase>, if you're
 borrowing the word from English; <foreignphrase lang="art-lojban">bilmrpsikopati</foreignphrase> or
 <foreignphrase lang="art-lojban">bilmrpsikopatia</foreignphrase>, if you want something closer to
-Greek (and thus presumably more recongisable.)</para></listitem>
+Greek (and thus presumably more recognisable to at least some non-English speakers.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">cidrndeuteriumu</foreignphrase> (or
 <foreignphrase lang="art-lojban">cidrndeuterio</foreignphrase>, if you know about those ablatives
@@ -1201,7 +1212,7 @@ need a restrictive rather than a non-restrictive clause.)<note>
 standard to get a <foreignphrase lang="art-lojban">cmene</foreignphrase>
 into a <foreignphrase lang="art-lojban">tanru</foreignphrase>. There are 
 often times when you will want to use a name to describe a class of 
-things, rather than a unique thing, which in turn means you have to treat a <foreignphrase
+things, rather than a unique thing. This in turn means you have to treat a <foreignphrase
 lang="art-lojban">cmene</foreignphrase> like a <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, entering into domains like <foreignphrase
 lang="art-lojban">tanru</foreignphrase>. In fact, as
@@ -1247,7 +1258,7 @@ role="gloss">The Funk Chicken</quote> is probably more accurate.)</para></listit
 
 <listitem><para><quote>I've stopped hearing Ranjeet.</quote></para></listitem>
 
-<listitem><para>Jyoti says <quote>Come again? I didn't hear you because the 
+<listitem><para>Jyoti says <quote>Come again, Susan? I didn't hear you because the 
 radio is loud</quote>, and completes turning it down. (i.e. she turns it 
 down to completion &mdash; all the way down.)</para></listitem>
 
@@ -1328,7 +1339,7 @@ lang="art-lojban">ro da poi dotco</foreignphrase> is also correct.)
 </para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i la suzyn. cusku lu .i
-je'e do'u ku'i le kanla be la ranjit. mutce zmadu le kanla be la gunter. le
+je'e do'u ku'i le kanla be la ranjit. mutce zmadu le kanla be la ginter. le
 ka melbi li'u</foreignphrase> (Kind of a baptism by fire for you with that
 new <foreignphrase lang="art-lojban">gismu</foreignphrase>. Sorry about
 that. You can't avoid <foreignphrase lang="art-lojban">do'u</foreignphrase>

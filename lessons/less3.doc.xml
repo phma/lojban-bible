@@ -2,7 +2,7 @@
 
 <sect1 id="less3commands"><title>Commands</title>
 
-<para>So far we've looked at simple propositions, sentences that say that
+<para>So far we've looked at simple <firstterm>propositions</firstterm>, sentences that say that
 something is true.  You can, in theory, say anything you want with
 propositions, but it's pretty inconvenient.  For example, if I want you to
 run, I could say just that:
@@ -20,7 +20,7 @@ Instead we say
 <informalexample>
 <literallayout><foreignphrase lang="art-lojban">ko bajra</foreignphrase></literallayout>
 </informalexample><foreignphrase lang="art-lojban">ko</foreignphrase> means <quote role="gloss">you, the person I'm
-talking to</quote>, but only in commands (in normal sentences it's <foreignphrase
+talking to</quote>, but only in commands. (In normal sentences it's <foreignphrase
 lang="art-lojban">do</foreignphrase>).  Normally it comes in the first place of
 the <foreignphrase lang="art-lojban">bridi</foreignphrase>, since normally you're
 asking people to do something or be something, not to have something done
@@ -156,8 +156,10 @@ lang="art-lojban">nelci</foreignphrase></para></listitem>
 
 </itemizedlist>We can also use <foreignphrase lang="art-lojban">go'i</foreignphrase>,
 which repeats the last <foreignphrase
-lang="art-lojban">bridi</foreignphrase> (without the question)<note><para>However, if
-you say <quote>You like Bill</quote>, and <emphasis>I</emphasis> say
+lang="art-lojban">bridi</foreignphrase> (without the question)
+
+<note><para>However, if
+you say <quote>You like Bill</quote>, and <emphasis>I</emphasis> then say
 <quote>You like Bill</quote>, I am repeating your words, but not your
 meaning. To do <emphasis>that</emphasis>, I would need to say <quote>I like
 Bill</quote> instead. It is much more useful for <foreignphrase
@@ -168,7 +170,8 @@ lang="art-lojban">xu do nelci la bil.</foreignphrase> means not
 <foreignphrase lang="art-lojban"><emphasis>do</emphasis> nelci la
 bil.</foreignphrase>, but <foreignphrase
 lang="art-lojban"><emphasis>mi</emphasis> nelci la bil.</foreignphrase>. In
-other words, in an answer to a <quote>Do you?</quote> type of yes/no question, it means
+other words, in an answer to a <quote>Do you?</quote> type of yes/no question, 
+<foreignphrase lang="art-lojban">go'i</foreignphrase> means
 <quote>Yes (I do)</quote>, as you'd expect.</para></note></para>
 
 <para>What about negative answers? Any <foreignphrase
@@ -203,7 +206,7 @@ someone you know nothing about.) We'll look at some other negatives later,
 but for the time being <foreignphrase lang="art-lojban">na</foreignphrase>
 will do fine. Just as in English, if you ask someone if they like Bill, and
 they reply <quote>No</quote> because they haven't met him, they're being
-amazingly unhelpful, but not really lying. </para></note>
+amazingly unhelpful &mdash; but not really lying. </para></note>
 
 <para>English also has a number of <wordasword>wh-</wordasword>
 questions &mdash; <wordasword>who</wordasword>, <wordasword>what</wordasword> etc. In Lojban we use one word for all of these:
@@ -311,9 +314,9 @@ lang="art-lojban">cinba</foreignphrase> can mean <quote role="gloss">kiss</quote
 <quote role="gloss">kissed</quote>, <quote role="gloss">will kiss</quote> and so on, <foreignphrase
 lang="art-lojban">mo</foreignphrase> does not ask a question about any particular
 time.  There <emphasis>are</emphasis> ways to specify time in Lojban, but it's not
-necessary to use them (just to satisfy your curiosity though, <quote>I
+necessary to use them. (Just to satisfy your curiosity though, <quote>I
 kiss<emphasis>ed</emphasis> Claudia</quote> is <foreignphrase
-lang="art-lojban">mi <emphasis>pu</emphasis> cinba la klaudias.</foreignphrase>). 
+lang="art-lojban">mi <emphasis>pu</emphasis> cinba la klaudias.</foreignphrase>)
 </para>
 
 <para>We've said that <foreignphrase lang="art-lojban">mo</foreignphrase> can
@@ -495,7 +498,7 @@ Your book</literallayout></listitem>
 <note><para>You can't say <foreignphrase lang="art-lojban">la la meiris.
 porc.</foreignphrase>: strictly speaking, you can't tell when one name
 starts and another ends, since names can contain multiple pauses. If I said
-<foreignphrase lang="art-lojban">la la meiris. mersedez
+<foreignphrase lang="art-lojban">la la meiris. mersedez.
 benz.</foreignphrase>, did I mean Mary's Mercedez-Benz, or Mary Mercedez's
 Benz, or Mary Mercedez-Benz's something-else? For the same reason, you
 can't really say <foreignphrase lang="art-lojban">la pe la meiris.
@@ -605,7 +608,7 @@ My book</literallayout></listitem>
 <listitem><literallayout><foreignphrase lang="art-lojban">le cipni po la meilis.</foreignphrase>
 Mei Li's bird</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">la kokakolas. po do</foreignphrase>
+<listitem><literallayout><foreignphrase lang="art-lojban">la kokakolys. po do</foreignphrase>
 Your Coca-Cola</literallayout></listitem>
 
 </itemizedlist></para>
@@ -654,7 +657,7 @@ lang="art-lojban">ma</foreignphrase>. So if <quote>Tim's cousin</quote> is
 just follow the same fill-in-the-slot approach as we did earlier on, with
 <foreignphrase lang="art-lojban">ma</foreignphrase> substituting for
 <foreignphrase lang="art-lojban">la tim.</foreignphrase>: <quote>whose
-cousin</quote> is <foreignphrase lang="art-lojban">le tamne pe
+cousin?</quote> is <foreignphrase lang="art-lojban">le tamne pe
 ma</foreignphrase> or <foreignphrase lang="art-lojban">le ma
 tamne</foreignphrase>.</para>
 

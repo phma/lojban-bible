@@ -10,22 +10,26 @@
 <!ENTITY minus "-">
 <!ENTITY shy "">
 <!ENTITY lambda "LAMBDA">
-<!ENTITY glottal "'">
-<!ENTITY akl "aa">
-<!ENTITY dkl "rd">
-<!ENTITY gkl "G">
-<!ENTITY tlh "tl">
-<!ENTITY shkl "sh">
-<!ENTITY stress "">
+<!ENTITY pi "GREEK PI">
+<!ENTITY glottal "?">
+<!ENTITY akl "A">
+<!ENTITY dkl "d.">
+<!ENTITY gkl "Q">
+<!ENTITY tlh "tL">
+<!ENTITY shkl "s.">
+<!ENTITY stress "'">
 <!ENTITY length ":">
-<!ENTITY zhkl "zh">
+<!ENTITY zhkl "z.">
 <!ENTITY ekl "E">
 <!ENTITY schwa "@">
-<!ENTITY ccedil "C">
+<!ENTITY ccedilipa "C">
 <!ENTITY esh "S">
 <!ENTITY ikl "I">
 <!ENTITY eng "N">
-<!ENTITY oelig "OE">
+<!ENTITY oeligipa "W">
+<!ENTITY yipa "y">
+<!ENTITY aeligipa "&amp;">
+<!ENTITY nbhy "-">
 <!ENTITY less1 SYSTEM "less1.doc.xml">
 <!ENTITY less2 SYSTEM "less2.doc.xml">
 <!ENTITY less3 SYSTEM "less3.doc.xml">
@@ -46,6 +50,7 @@
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
 <!ENTITY lessvocab SYSTEM "lessvocab.doc.xml">
 <!ENTITY level0addr "http://www.lojban.org/level0.html">
+<!ENTITY IPAASCIIdisclaimer " (ASCII IPA transliteration uses <![CDATA[<ulink url=&quot;http://www.kirshenbaum.net/IPA/&quot;>Evan Kirshenbaum's scheme</ulink>]]>.)" >
 ]>
 <book>
 <title id="lessons">Lojban For Beginners &mdash; <foreignphrase 

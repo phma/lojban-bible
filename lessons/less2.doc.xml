@@ -80,7 +80,9 @@ lang="art-lojban">selbri</foreignphrase> it describes a relationship
 between a giver, something they give, and someone who receives it. Let's
 say we have three people, Maria, Claudia and Julia. If we say 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la mari,as. dunda la .iulias. la klaudias.</foreignphrase></literallayout>
-</informalexample>we mean that Maria gives Julia to Claudia. (Let's say Julia is a
+</informalexample>we mean that Maria gives Julia to Claudia.</para>
+
+<!--<note><para>(Let's say Julia is a
 baby, as since the abolition of slavery, we don't normally give people as
 presents. In English you <emphasis>can</emphasis> <quote
 role="socalled">give</quote> someone in marriage, but that's a
@@ -88,7 +90,7 @@ culture-specific metaphor, and Lojban discourages that kind of thing
 &mdash; it's an example of <foreignphrase
 lang="art-lojban">malglico</foreignphrase> (<quote role="gloss">damned
 English</quote>), transferring features of English into Lojban which don't
-work.)</para>
+work.)</para></note>-->
 
 <note><para>The <foreignphrase
 lang="art-lojban">la</foreignphrase> you see in front of each name is an article, 
@@ -138,7 +140,7 @@ lang="art-lojban">sumti</foreignphrase>, both can read <quote role="gloss">argum
 <para>How many <foreignphrase lang="art-lojban">sumti</foreignphrase> can a
 <foreignphrase lang="art-lojban">selbri</foreignphrase> describe? The number
 depends on the place structure of the word we use for the <foreignphrase
-lang="art-lojban">selbri</foreignphrase> (there are ways of tagging on extra
+lang="art-lojban">selbri</foreignphrase>. (There are ways of tagging on extra
 <foreignphrase lang="art-lojban">sumti</foreignphrase>, which we'll cover in later
 lessons). A <foreignphrase lang="art-lojban">gismu</foreignphrase> has a set
 number of places; as we've just seen, <foreignphrase
@@ -149,7 +151,15 @@ from one to a staggering (and rare) five. Here are some examples. </para>
 <variablelist><title>One place</title>
 <varlistentry><term><foreignphrase lang="art-lojban">ninmu</foreignphrase></term>
 <listitem><para>x<subscript>1</subscript> is a woman (any female humanoid person, not necessarily
-adult)</para></listitem></varlistentry>
+adult)</para>
+
+<note><para>To assume that Lojban works like English in general is a sin Lojbanists are ever
+on the alert for. It is enough of a community obsession that the Lojban word for it &mdash;
+<foreignphrase lang="art-lojban">malglico</foreignphrase> <quote role="gloss">damned
+English</quote> &mdash; routinely turns up in the English of Lojbanists, even when they're
+not talking about Lojban.</para></note>
+
+</listitem></varlistentry>
 
 <varlistentry><term><foreignphrase lang="art-lojban">blabi</foreignphrase></term>
 <listitem><para>x<subscript>1</subscript> is white / very light-coloured</para></listitem>
@@ -256,7 +266,7 @@ Tweety is a bird of species <foreignphrase lang="lat">Serinus serinus canaria</f
 Julia is to the right of Maria, facing Claudia.</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">la pybysys. tivni la niksyn.in.tcainas. la kycy,etys. la telis.</foreignphrase>
-PBS (the American Public Broadcasting Service) televises <citetitle>Nixon in China</citetitle> through KCET (the Los Angeles PBS affiliate) to Telly (a pet name for a particular television) (!).</literallayout></listitem>
+PBS (the American Public Broadcasting Service) televises <citetitle>Nixon in China</citetitle> (an opera) through KCET (the Los Angeles PBS affiliate) to Telly (a pet name for a particular television) (!).</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">la .iulias. klama la .uacintyn. la losandjeles. la cikagos. la .amtrak.</foreignphrase>
 Julia travels to Washington from Los Angeles via Chicago on Amtrak (the American inter-city train network.)</literallayout></listitem>
@@ -341,12 +351,13 @@ can say things like
 <informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci la meilis.</foreignphrase>
 Bill likes Mei Li</literallayout></informalexample></para>
 
-<para>But <foreignphrase lang="art-lojban">cmene</foreignphrase> get old pretty fast (as the examples
+<para>But <foreignphrase lang="art-lojban">cmene</foreignphrase> can only go so far (as the examples
 above must have proven!) Most things and people in world won't have names &mdash; or at least,
-not any names we are aware of. So if we don't know Mei Li's name, how can we say <quote>Bill likes the
+not any names we are aware of. So if we don't happen to know Mei Li's name, how can we say <quote>Bill likes the
 woman</quote>? If we say <foreignphrase lang="art-lojban">la bil. nelci la
 ninmu</foreignphrase>, we mean that Bill likes someone whose name is
-<wordasword>Woman</wordasword>. What we say, in fact, is 
+<wordasword>Woman</wordasword>, which is not what we want. What we say, in fact, is 
+
 <informalexample><literallayout><foreignphrase lang="art-lojban">la bil. nelci le ninmu</foreignphrase></literallayout></informalexample>What does <foreignphrase lang="art-lojban">le</foreignphrase> mean here? We
 have translated it into English as <quote role="gloss">the</quote>, and like
 <wordasword>the</wordasword> and <foreignphrase
@@ -371,24 +382,24 @@ lang="art-lojban">cu</foreignphrase>. This doesn't carry any meaning, but
 separates the <foreignphrase lang="art-lojban">selbri</foreignphrase> from
 whatever comes before it. It's not necessary with <foreignphrase
 lang="art-lojban">cmene</foreignphrase>, because they can't run over into anything
-else. Similarly, you don't need <foreignphrase
+else. For the same reason, you don't need <foreignphrase
 lang="art-lojban">cu</foreignphrase> after <foreignphrase
 lang="art-lojban">mi</foreignphrase> (I/me), <foreignphrase
 lang="art-lojban">do</foreignphrase> (you, the person I'm talking to) or any words
 like this (<quote role="socalled">pro-<foreignphrase
 lang="art-lojban">sumti</foreignphrase></quote>, in Lojban
-jargon). But <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> doesn't
+jargon). But <foreignphrase lang="art-lojban">le ninmu klama</foreignphrase> does not
 mean <quote>The woman goes</quote>. Two <foreignphrase 
 lang="art-lojban">gismu</foreignphrase> next to each other form a
 compound <foreignphrase lang="art-lojban">selbri</foreignphrase> (or
 <foreignphrase lang="art-lojban">tanru</foreignphrase>), which means that
 <foreignphrase lang="art-lojban">ninmu</foreignphrase> and <foreignphrase
-lang="art-lojban">klama</foreignphrase> get run together. The result is that
+lang="art-lojban">klama</foreignphrase> do get run together. The result is that
 that <foreignphrase
 lang="art-lojban">le ninmu klama</foreignphrase> means <quote>The woman-type-of goer</quote> (maybe a female
 traveller). What we say instead, to avoid this, is
 
-<informalexample><literallayout><foreignphrase lang="art-lojban">le ninmu cu klama</foreignphrase></literallayout></informalexample></para>
+<informalexample><literallayout><foreignphrase lang="art-lojban">le ninmu <emphasis>cu</emphasis> klama</foreignphrase></literallayout></informalexample></para>
 
 <warning><para><foreignphrase lang="art-lojban">cu</foreignphrase> does 
 <emphasis>not</emphasis> mean
@@ -456,8 +467,8 @@ since that's what they were modelled on. Note that observatives are still
 normal Lojban <foreignphrase lang="art-lojban">selbri</foreignphrase>; in
 particular, they don't make any distinction between verb and noun. So
 <foreignphrase lang="art-lojban">klama</foreignphrase> means not
-<quote>Go!</quote> (we'll find out how to say <emphasis>that</emphasis> in
-<link linkend="less3">a lesson or two</link>), but <quote>Goes!</quote> or
+<quote>Go!</quote> (we'll find out how to say <emphasis>that</emphasis>
+<link linkend="less3">next lesson</link>), but <quote>Goes!</quote> or
 <quote>Goer!</quote> &mdash; more idiomatically, <quote>Look! Someone's
 going!</quote> And there is no real difference between <foreignphrase
 lang="art-lojban">klama</foreignphrase> <quote>Look! Someone's
@@ -476,7 +487,7 @@ lang="art-lojban">sumti</foreignphrase> as being associated with a certain place
 of the <foreignphrase lang="art-lojban">selbri</foreignphrase>, no matter where it
 comes in the sentence: <foreignphrase lang="art-lojban">fa</foreignphrase>
 introduces what would normally be the first place, <foreignphrase
-lang="art-lojban">fe</foreignphrase> the second place, and so on. For example,
+lang="art-lojban">fe</foreignphrase> the second place, and so on. For example, in
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. klama fu le karce</foreignphrase>
 Susan goes in the car / Susan goes by car</literallayout></informalexample></para>
@@ -535,7 +546,7 @@ x<subscript>3</subscript></para></listitem></varlistentry>
 Lojban sentences so that no place tags are necessary, and the
 <foreignphrase lang="art-lojban">sumti</foreignphrase> appear in their expected
 places. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where 
-necessary. For example: <foreignphrase lang="art-lojban">fi la .iulias. cu pritu fa le karce</foreignphrase> = 
+necessary. For example: <foreignphrase lang="art-lojban">fi la .iulias. cu pritu fa le karce</foreignphrase> &rArr; 
 <foreignphrase lang="art-lojban">le karce cu pritu zo'e la .iulias.</foreignphrase></para>
 
 <para><orderedlist>
@@ -722,7 +733,7 @@ The person(s) stop(s) (whatever it was they were doing)</literallayout></listite
 The woman/women leave(s)</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">la .istanbul. barda</foreignphrase>
-Istanbul is big. (an understatement &mdash; it has a population of over ten million)</literallayout></listitem>
+Istanbul is big. (An understatement &mdash; it has a population of over ten million)</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">mi tavla la mari,as.</foreignphrase>
 I talk to Maria.</literallayout></listitem>
@@ -748,7 +759,7 @@ impossible, since it has to separate the <foreignphrase
 lang="art-lojban">selbri</foreignphrase> from the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> that comes before it, and there are no
 <foreignphrase lang="art-lojban">sumti</foreignphrase> here. Those last two
-sentences are observatives, of course. </para>
+sentences are observatives, of course, as discussed in <citetitle>Changing Places</citetitle>. </para>
 
 <para>Note that I have translated these sentences in the present tense
 (since in English you have to choose a tense) but they could be in any
@@ -767,7 +778,7 @@ The book is a medium for English to people</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">do vecnu mi le karce zo'e</foreignphrase>
 You sell me the car for some amount
-I am sold by you the car (Notice how <foreignphrase lang="art-lojban">le karce</foreignphrase> is assigned x<subscript>2</subscript>, since it follows an x<subscript>1</subscript> place immediately.)</literallayout></listitem>
+I am sold the car by you (Notice how <foreignphrase lang="art-lojban">le karce</foreignphrase> is assigned x<subscript>2</subscript>, since it follows an x<subscript>1</subscript> place immediately.)</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">la fits.djerald. cu fanva zo'e le glico zo'e la .Odisis</foreignphrase>
 Fitzgerald translates something into English from some language as <wordasword>The Odyssey</wordasword>

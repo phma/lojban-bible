@@ -35,28 +35,35 @@ sentence, and gives you plenty of warning about what's coming up.</para>
 
 <para>The problem here is, the logical version of IF 
 <emphasis>denies</emphasis> what comes before it. So in effect, you're 
-getting the first statement, all nice and easy, and then the surprise: 
+getting the first statement, quite normally, and then the surprise: 
 <quote>Either <emphasis>that</emphasis>'s not true, or 
 <emphasis>this</emphasis> is true.</quote> Things are just as bad for 
 other connectives denying what comes before them. For instance, <foreignphrase 
 lang="art-lojban">na.e</foreignphrase> is a perfectly reasonable 
-connective: <foreignphrase 
-lang="art-lojban">mi djica loi bakni na.e loi jipci</foreignphrase> 
-<quote>I want not the beef, but the chicken.</quote> But look at what the 
-Lojban is actually saying: <quote>I want the beef &mdash; NOT! and the 
-chicken.</quote> There was a vogue in the '90s of putting NOT! at the end 
+connective: 
+
+<informalexample><literallayout><foreignphrase  lang="art-lojban">mi djica loi bakni na.e loi jipci</foreignphrase> 
+I want not the beef, but the chicken.</literallayout>
+ 
+</informalexample>But look at what the 
+Lojban is actually saying:
+
+<informalexample><para>I want the beef &mdash; NOT! and the 
+chicken.</para>
+
+</informalexample>There was a vogue in the '90s of putting NOT! at the end 
 of sentences in American English (see <citetitle>Wayne's 
-World</citetitle>.) This was a joke, and the reason it was a joke was that 
+World</citetitle>.) This was a joke, and the reason it was a joke is that 
 saying a sentence isn't true <emphasis>after you've already said 
 it</emphasis> isn't exactly being helpful.
 </para>
 
 <para>So if we're going to use logical connectives in Lojban, and are 
 obligated to pull NOT!-tricks like this, the Lojban listener can 
-understandably get frustrated. Lojban has an answer, though (as usual). 
-With forethought connectives, you can state the logical relationship 
+understandably get frustrated. Once again, though, Lojban has an answer, though. 
+With <firstterm>forethought connectives</firstterm>, you can indicate the logical relationship 
 between two terms <emphasis>in front of</emphasis> the first term. You 
-still need a word between the two terms, to indicate that they're being 
+still need a word between the two terms, to show that they're being 
 logically connected; but now you know in advance what that logical 
 connection is.
 </para>
@@ -69,7 +76,10 @@ lang="art-lojban">sumti</foreignphrase> are then connected with the
 leftover <foreignphrase lang="art-lojban">g</foreignphrase>-word,
 <foreignphrase lang="art-lojban">gi</foreignphrase>. So the forethought
 version of <foreignphrase lang="art-lojban">mi .e do</foreignphrase> is
-<foreignphrase lang="art-lojban">ge mi gi do</foreignphrase>. Here,
+
+<informalexample><para><foreignphrase lang="art-lojban">ge mi gi do</foreignphrase></para>
+
+</informalexample>Here,
 <foreignphrase lang="art-lojban">ge</foreignphrase> means that the two
 <foreignphrase lang="art-lojban">sumti</foreignphrase> coming up are
 connected with AND, while <foreignphrase
@@ -80,15 +90,21 @@ lang="art-lojban">selma'o</foreignphrase> GA.)</para>
 
 <para>The real usefulness of these forms comes out in the NOT!-connectives
 we've just seen. If you want to give some warning when choosing the chicken
-instead of the beef, you can now say <foreignphrase lang="art-lojban">mi
-djica <emphasis>genai</emphasis> loi bakni <emphasis>gi</emphasis> loi jipci</foreignphrase>. (Forethought
-connectives can followed by <foreignphrase
+instead of the beef, you can now say 
+
+<informalexample><para><foreignphrase lang="art-lojban">mi
+djica <emphasis>genai</emphasis> loi bakni <emphasis>gi</emphasis> loi jipci</foreignphrase></para>
+
+</informalexample>(Forethought
+connectives can be followed by <foreignphrase
 lang="art-lojban">nai</foreignphrase>, just like their afterthought
 counterparts.) If you wanted to say <quote>beef, not chicken</quote>, you
 would put <foreignphrase lang="art-lojban">nai</foreignphrase> after the
-<foreignphrase lang="art-lojban">gi</foreignphrase>: <foreignphrase
+<foreignphrase lang="art-lojban">gi</foreignphrase>:
+
+<informalexample><para><foreignphrase
 lang="art-lojban">mi djica ge loi bakni ginai loi
-jipci</foreignphrase>.</para>
+jipci</foreignphrase></para></informalexample></para>
 
 <para>If you're connecting <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>, as it turns out, you still use <foreignphrase 
@@ -136,14 +152,14 @@ on its own. And when it does, it connects them tighter than <foreignphrase
 lang="art-lojban">.ije</foreignphrase> does. This means that <foreignphrase 
 lang="art-lojban">.iseni'ibo</foreignphrase> connects only to the 
 immediately preceding sentence &mdash; not to the preceding sentence pair! 
-So Fluffy's death is presented as a consequence of rabbits' not living 
-long &mdash; not a consequence of <emphasis>both</emphasis> rabbits' not 
+So Fluffy's death is presented as a consequence of rabbits not living 
+long &mdash; not a consequence of <emphasis>both</emphasis> rabbit' not 
 living long <emphasis>and</emphasis> Fluffy being a rabbit.</para>
 
 <para>However, if we put the two <foreignphrase 
 lang="art-lojban">bridi</foreignphrase> in a single sentence, then none of 
 this is an issue: the conclusion will attach to both <foreignphrase 
-lang="art-lojban">bridi</foreignphrase>, in a single sentence:
+lang="art-lojban">bridi</foreignphrase>, but will still attach to a single sentence:
 
 <informalexample><para><foreignphrase lang="art-lojban">.i
 <emphasis>ge</emphasis> la flufis. ractu <emphasis>gi</emphasis> ro ractu
@@ -233,13 +249,13 @@ le pipno</foreignphrase> <quote>Chris and Pat carry the
 piano.</quote></para>
 
 <para>Lojban has several other non-logical connectives; we'll cover the 
-most frequently used ones here:
+most frequently used ones:
 
 <itemizedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">ce</foreignphrase> joins
 <foreignphrase lang="art-lojban">sumti</foreignphrase> (usually) into a
-set, rather than a mass like <foreignphrase
+<firstterm>set</firstterm>, rather than a mass like <foreignphrase
 lang="art-lojban">joi</foreignphrase>.</para>
 
 <para>We haven't said much about sets; and because sets are fairly abstract
@@ -268,20 +284,33 @@ you're choosing from, and what doesn't.</para>
 lang="art-lojban">sumti</foreignphrase>, you connect them with
 <foreignphrase lang="art-lojban">ce</foreignphrase>. To say <quote>Jyoti,
 Susan and Ranjeet talk to each other</quote>, you would say something like
-<foreignphrase lang="art-lojban">la djiotis. ce la suzyn. ce la ranjit.
-simxu lenu tavla soivo'a</foreignphrase>, or <foreignphrase
-lang="art-lojban">la djiotis. ce la suzyn. ce la ranjit. tavla
-simxu</foreignphrase>. Similarly, if you pick one of Jyoti, Susan or
-Ranjeet, you would say <foreignphrase lang="art-lojban">mi cuxna pa da la
-djiotis. ce la suzyn. ce la ranjit.</foreignphrase></para></listitem>
 
-<listitem><para>If you are referring to an ordered set &mdash; a sequence
+<informalexample><para><foreignphrase lang="art-lojban">la djiotis. ce la suzyn. ce la ranjit.
+simxu lenu tavla soivo'a</foreignphrase></para>
+
+</informalexample>or
+
+<informalexample><para><foreignphrase
+lang="art-lojban">la djiotis. ce la suzyn. ce la ranjit. tavla
+simxu</foreignphrase></para>
+
+</informalexample>Similarly, if you pick one of Jyoti, Susan or
+Ranjeet, you would say 
+
+<informalexample><para><foreignphrase lang="art-lojban">mi cuxna pa da la
+djiotis. ce la suzyn. ce la ranjit.</foreignphrase></para></informalexample></para></listitem>
+
+<listitem><para>If you are referring to an <firstterm>ordered set</firstterm> &mdash; a sequence
 of things, in other words &mdash; then you use <foreignphrase
 lang="art-lojban">ce'o</foreignphrase> to place things in order. This gets
 invoked when you're compiling a list for whatever reason; for example, the
-Lojban alphabet is a sequence, and you'd list it as <foreignphrase
+Lojban alphabet is a sequence, and you'd list it as 
+
+<informalexample><para><foreignphrase
 lang="art-lojban">.abu ce'o by. ce'o cy. ce'o dy. ce'o .ebu
-...</foreignphrase> and so on. This is what <foreignphrase
+...</foreignphrase></para>
+
+</informalexample>and so on. This is what <foreignphrase
 lang="art-lojban">liste</foreignphrase> <quote role="gloss">list</quote>
 and <foreignphrase lang="art-lojban">porsi</foreignphrase>
 <quote role="gloss">sequence</quote> expect as their x<subscript>1</subscript> <foreignphrase
@@ -289,18 +318,25 @@ lang="art-lojban">sumti</foreignphrase>.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">fa'u</foreignphrase>
 carries the meaning of <wordasword>respectively</wordasword>: it relates pairs of
-<foreignphrase lang="art-lojban">sumti</foreignphrase> cross-wise. If I
-were to say <foreignphrase lang="art-lojban">la suzyn. .e la djiotis. tavla
-la jan. .e la ranjit.</foreignphrase>, that means that both Susan and
+<foreignphrase lang="art-lojban">sumti</foreignphrase> <firstterm>cross-wise</firstterm>. If I
+were to say 
+
+<informalexample><para><foreignphrase lang="art-lojban">la suzyn. .e la djiotis. tavla
+la jan. .e la ranjit.</foreignphrase></para>
+
+</informalexample>that means that both Susan and
 Jyoti talk to both Zhang and Ranjeet. If I want to say that Susan only
 talked to Zhang, and Jyoti only to Ranjeet (i.e. <quote>Susan and Jyoti
 talked to Zhang and Ranjeet, <emphasis>respectively</emphasis></quote>), a
 logical connective is not useful. Instead, I would use <foreignphrase
 lang="art-lojban">fa'u</foreignphrase> to connect both pairs of
-<foreignphrase lang="art-lojban">sumti</foreignphrase>: <foreignphrase
-lang="art-lojban">la suzyn. fa'u la djiotis. tavla la jan. fa'u la
-ranjit.</foreignphrase> <quote>Susan, cross-wise with Jyoti, talks to 
-Zhang, cross-wise with Ranjeet.</quote></para></listitem>
+<foreignphrase lang="art-lojban">sumti</foreignphrase>: 
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">la suzyn. fa'u la djiotis. tavla la jan. fa'u la
+ranjit.</foreignphrase>
+Susan, cross-wise with Jyoti, talks to Zhang, cross-wise with Ranjeet.</literallayout>
+
+</informalexample></para></listitem>
 
 <listitem><para>If you're talking about a range, you use <foreignphrase
 lang="art-lojban">bi'i</foreignphrase> to describe the range between the
@@ -310,8 +346,10 @@ pencil somewhere between the office and the bar</quote>, you would describe
 the location <quote>somewhere between the office and the bar</quote> as
 <foreignphrase lang="art-lojban">le briju ku bi'i le barja</foreignphrase>.
 The whole
-sentence would come out as <foreignphrase lang="art-lojban">mi falcru lemi
-pinsi <emphasis>vi le briju ku bi'i le barja</emphasis></foreignphrase></para>
+sentence would come out as:
+
+<informalexample><para><foreignphrase lang="art-lojban">mi falcru lemi
+pinsi <emphasis>vi le briju ku bi'i le barja</emphasis></foreignphrase></para></informalexample></para>
 
 <warning><para>This <foreignphrase lang="art-lojban">selma'o</foreignphrase>, BIhI, like
 <foreignphrase lang="art-lojban">selma'o</foreignphrase> JOI to
@@ -328,12 +366,12 @@ lang="art-lojban">ku</foreignphrase>.</para></warning>
 use <foreignphrase lang="art-lojban">bi'o</foreignphrase>. This corresponds
 to <wordasword>from... to...</wordasword> in English (though
 <wordasword>between</wordasword> covers both ordered and unordered
-intervals.) For example, <quote>from 1 pm to 2 pm</quote> is an interval
-lasting an hour; but <quote>from 2 pm to 1 pm</quote> would normally be
+intervals.) For example, <quote>from 1 PM to 2 PM</quote> is an interval
+lasting an hour; but <quote>from 2 PM to 1 PM</quote> would normally be
 interpreted as a 23-hour interval (1 pm the following day), since times in
 English are assumed to be presented in order. Lojban follows suit with
-<foreignphrase lang="art-lojban">li pavo bi'o li paci
-pare</foreignphrase> is a 23-hour interval. If I said <foreignphrase lang="art-lojban">li pavo bi'i li paci</foreignphrase>, the order of the two times
+<foreignphrase lang="art-lojban">li pavo bi'o li paci</foreignphrase> as a 23-hour interval. If I said 
+<foreignphrase lang="art-lojban">li pavo bi'i li paci</foreignphrase>, the order of the two times
 would not matter at all; so I could still be talking about a one-hour
 interval instead. </para></listitem>
 
@@ -401,10 +439,18 @@ when it comes to <foreignphrase lang="art-lojban">tanru</foreignphrase>.
 The way <foreignphrase lang="art-lojban">gismu</foreignphrase> group
 together in a <foreignphrase lang="art-lojban">tanru</foreignphrase>
 determines what that <foreignphrase lang="art-lojban">tanru</foreignphrase>
-means. For example, <wordasword>bad music magazine</wordasword> has in
+means. For example, 
+
+<informalexample><para><wordasword>bad music magazine</wordasword></para>
+
+</informalexample>has in
 English two interpretations: a bad magazine about music, or a magazine
-about bad music. In Lojban, its equivalent <foreignphrase
-lang="art-lojban">xlali zgike karni</foreignphrase> has
+about bad music. In Lojban, its equivalent 
+
+<informalexample><para><foreignphrase
+lang="art-lojban">xlali zgike karni</foreignphrase></para>
+
+</informalexample>has
 <emphasis>only</emphasis> the interpretation <quote role="gloss">magazine
 about bad music</quote>, because the first two <foreignphrase
 lang="art-lojban">gismu</foreignphrase> (<foreignphrase
@@ -433,9 +479,11 @@ lang="art-lojban">ke</foreignphrase>, to open the grouping bracket, and
 <foreignphrase lang="art-lojban">ke'e</foreignphrase>, to close it. So if
 <foreignphrase lang="art-lojban">xlali zgike karni</foreignphrase> means a
 <wordasword>{bad music} magazine</wordasword>, then a <wordasword>bad
-{music magazine}</wordasword> is in Lojban <foreignphrase
+{music magazine}</wordasword> is in Lojban:
+
+<informalexample><para><foreignphrase
 lang="art-lojban">xlali <emphasis>ke</emphasis> zgike karni
-<emphasis>ke'e</emphasis></foreignphrase>.</para>
+<emphasis>ke'e</emphasis></foreignphrase></para></informalexample></para>
 
 <para>Now, <foreignphrase lang="art-lojban">ke'e</foreignphrase> is a
 terminator, like all the other terminators we've seen: <foreignphrase
@@ -467,9 +515,13 @@ When <foreignphrase lang="art-lojban">bo</foreignphrase> appears between
 two <foreignphrase lang="art-lojban">gismu</foreignphrase>, it means that
 those <foreignphrase lang="art-lojban">gismu</foreignphrase> group together
 more tightly than anything else. So an alternative way of saying
-<wordasword>bad {music magazine}</wordasword> is <foreignphrase
+<wordasword>bad {music magazine}</wordasword> is
+
+<informalexample><para><foreignphrase
 lang="art-lojban">xlali zgike <emphasis>bo</emphasis>
-karni</foreignphrase>. This means that <foreignphrase
+karni</foreignphrase></para>
+
+</informalexample>This means that <foreignphrase
 lang="art-lojban">zgike bo karni</foreignphrase> should count as a unit, to
 which the description <foreignphrase
 lang="art-lojban">xlali</foreignphrase> <quote role="gloss">bad</quote>
@@ -481,38 +533,90 @@ with sentences (<foreignphrase lang="art-lojban">.i bo</foreignphrase>,
 lang="art-lojban">.i seni'i bo</foreignphrase> all attach to only the
 preceding sentence), with connectives (<foreignphrase lang="art-lojban">.e
 bo, gi'e bo</foreignphrase>), and so on. So if I want to say <quote>Jyoti
-and either Susan or Ranjeet</quote>, I would say <foreignphrase
+and either Susan or Ranjeet</quote>, I would say 
+
+<informalexample><para><foreignphrase
 lang="art-lojban">la djiotis. .e la suzyn. .onai<emphasis>bo</emphasis> la
-ranjit.</foreignphrase> For that matter, <foreignphrase
+ranjit.</foreignphrase></para>
+
+</informalexample>For that matter, <foreignphrase
 lang="art-lojban">ke</foreignphrase> can also be used with connectives
 (though not with sentences; they have their own kind of bracket,
 <foreignphrase lang="art-lojban">tu'e</foreignphrase>&ndash;<foreignphrase lang="art-lojban">tu'u</foreignphrase>.) So I
-could also say <foreignphrase lang="art-lojban">la djiotis. .e
+could also say 
+
+<informalexample><para><foreignphrase lang="art-lojban">la djiotis. .e
 <emphasis>ke</emphasis> la suzyn. .onai la ranjit.
-<emphasis>ke'e</emphasis></foreignphrase> &mdash; where in most cases the
-<foreignphrase lang="art-lojban">ke'e</foreignphrase> may be left out.
-(Note that you can't start a run of <foreignphrase
+<emphasis>ke'e</emphasis></foreignphrase></para>
+
+</informalexample>&mdash; where in most cases the
+<foreignphrase lang="art-lojban">ke'e</foreignphrase> may be left out.</para>
+
+<tip><para>You can't start a run of <foreignphrase
 lang="art-lojban">sumti</foreignphrase> with <foreignphrase
 lang="art-lojban">ke</foreignphrase>, for reasons of Lojban grammatical
-pedantry we also won't go into here.)</para>
+pedantry we won't go into here.</para></tip>
 
-<note><para>An advantage of putting the connective before the two terms, or
+<tip><para>An advantage of putting the connective before the two terms, or
 after the two terms, is that you can completely avoid this kind of ambiguity. The more
 geeky among you will have heard of Reverse Polish notation: this does
 arithmetic by placing the operators <emphasis>after</emphasis> the numbers
 they operate on (e.g. <computeroutput>(2 + 3) &times; 5</computeroutput> becomes
 <computeroutput>2 3 + 5 &times;</computeroutput>), and so avoids having
-to use brackets. The same holds for forethought connectives: <quote>Jyoti
-and either Susan or Ranjeet</quote> is <foreignphrase
+to use brackets. The same holds for Lojban forethought connectives: <quote>Jyoti
+and either Susan or Ranjeet</quote> is 
+
+<informalexample><para><foreignphrase
 lang="art-lojban"><emphasis>ge</emphasis> la djiotis.
-<emphasis>gi</emphasis> gonai la suzyn. gi la ranjit.</foreignphrase>, and
-<quote>Either Jyoti and Susan, or Ranjeet</quote> is <foreignphrase
+<emphasis>gi</emphasis> gonai la suzyn. gi la ranjit.</foreignphrase></para>
+
+</informalexample>and
+<quote>Either Jyoti and Susan, or Ranjeet</quote> is 
+
+<informalexample><para><foreignphrase
 lang="art-lojban"><emphasis>gonai</emphasis> ge la djiotis.
-gi la suzyn. <emphasis>gi</emphasis> la ranjit.</foreignphrase>. Since
+gi la suzyn. <emphasis>gi</emphasis> la ranjit.</foreignphrase></para>
+
+</informalexample>Since
 there is no ambiguity, you won't need <foreignphrase
 lang="art-lojban">bo</foreignphrase> or <foreignphrase
 lang="art-lojban">ke</foreignphrase> with forethought
-connectives.</para></note>
+connectives.</para></tip>
+
+<simplesect role="exercise"><title>Exercise 3</title>
+
+<para>Gloss the following into English, using brackets to indicate their structure.
+For instance:
+
+<informalexample><literallayout><foreignphrase lang="art-lojban">xlali zgike karni</foreignphrase>
+( ( bad music ) magazine )</literallayout>
+</informalexample><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">xlali bo zgike karni</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xlali zgike bo karni</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ke xlali zgike karni</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ke xlali zgike bo karni</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xlali ke zgike ke karni ke tcidu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xlali zgike bo karni tcidu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xlali zgike ke karni tcidu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ke xlali zgike ke'e karni tcidu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">xlali ke zgike karni ke'e tcidu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ke xlali zgike bo karni ke'e tcidu</foreignphrase></para></listitem>
+
+
+</orderedlist></para>
+
+</simplesect>
+
 
 </sect1>
 
@@ -633,7 +737,7 @@ x<subscript>4</subscript></para></listitem></varlistentry>
 </simplesect>
 
 
-<simplesect role="exercise"><title>Exercise 3</title>
+<simplesect role="exercise"><title>Exercise 4</title>
 
 <para>Translate from Lojban.
 
@@ -645,7 +749,7 @@ ce la djiotis. ce la suzyn.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i ji'a la jan. gonai zmadu la ranjit. leni certu lenu 
-dansu gi xalfekfri</foreignphrase></para></listitem>
+dansu gi cabo xalfekfri</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la suzyn. cu bevri la djiotis. fa'u la jan. fa'u gi 
@@ -673,7 +777,7 @@ lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></listi
 
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="exercise"><title>Exercise 5</title>
 
 <para>Translate into Lojban. Use only forethought connectives.
 
@@ -728,7 +832,7 @@ lang="art-lojban">.i gu la djiotis. nelci loi cidjrkari gi la djiotis. citka
 loi cidjrkari</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. gu'u nelci gi citka loi cidjrkari</foreignphrase></para></listitem>
+lang="art-lojban">.i la djiotis. gu'u nelci gu'i citka loi cidjrkari</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">.i la djiotis. ge nelci loi cidjrkari gi xebni loi zirpu</foreignphrase></para></listitem>
@@ -808,7 +912,44 @@ independently.</para></listitem>
 
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 3</title>
+<simplesect role="excanswer"><title>Exercise 3</title>
+
+<para><orderedlist>
+
+<listitem><para>( ( bad music ) magazine )</para></listitem>
+
+<listitem><para>( bad ( music magazine ) )</para></listitem>
+
+<listitem><para>( ( ( bad music ) magazine ) ) &mdash; The <foreignphrase lang="art-lojban">ke</foreignphrase> 
+spans the entire <foreignphrase lang="art-lojban">tanru</foreignphrase>, so it doesn't make much of
+a difference in the meaning.</para></listitem>
+
+<listitem><para>( ( bad ( music magazine ) ) )</para></listitem>
+
+<listitem><para>( bad ( music ( magazine reader ) ) )</para></listitem>
+
+<listitem><para>( ( bad ( music magazine ) ) reader ) &mdash; <foreignphrase lang="art-lojban">bo</foreignphrase> 
+binds <foreignphrase lang="art-lojban">zgike</foreignphrase> and <foreignphrase 
+lang="art-lojban">karni</foreignphrase> together, so this becomes a three-part <foreignphrase 
+lang="art-lojban">tanru</foreignphrase>, which still binds leftwards.</para></listitem>
+
+<listitem><para>( ( bad music ) ( magazine reader ) )</para></listitem>
+
+<listitem><para>( ( ( bad music ) magazine ) reader ) &mdash; the <foreignphrase 
+lang="art-lojban">ke</foreignphrase>&ndash;<foreignphrase lang="art-lojban">ke'e</foreignphrase> pair is merely 
+reproducing the standard structure of a <foreignphrase lang="art-lojban">tanru</foreignphrase>.</para></listitem>
+
+<listitem><para>( ( bad ( music magazine ) ) reader )</para></listitem>
+
+<listitem><para>( ( bad ( music magazine ) ) reader )</para></listitem>
+
+
+</orderedlist></para>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 4</title>
 
 <para><orderedlist>
 
@@ -822,7 +963,7 @@ size: <foreignphrase
 lang="art-lojban">la jan. ziryrai la jan. ce la ranjit. ce la djiotis. 
 ce la suzyn.</foreignphrase>.)</para></listitem>
 
-<listitem><para>Also, Zhang is either a better dancer than Ranjeet, or
+<listitem><para>Also, Zhang is either a better dancer than Ranjeet, or (at that time)
 drunk. (<emphasis>Or</emphasis>: when he's not drunk.) (Literally, again, the Lojban gives more
 detail: <quote>Zhang exceeds Ranjeet in the amount by which he is expert
 at dancing.</quote> And here, too, you can use a <foreignphrase
@@ -833,7 +974,7 @@ simpler: <foreignphrase lang="art-lojban">.i la jan.
 role="gloss">more expert</quote>.)</para></listitem>
 
 <listitem><para>Susan brings Jyoti a beer, and Zhang a soda. (Or soft 
-drink, or pop, or coke, or lolly water &mdash; whatever your local word for 
+drink, or pop, or coke, or cordial, or lolly water &mdash; whatever your local word for 
 carbonated beverages is.)</para></listitem>
 
 <listitem><para>Zhang quickly (whether or not willingly) drinks the soda.
@@ -850,7 +991,7 @@ literally the more prosaic <quote role="gloss">newly constructed</quote>
 lang="art-lojban">bo</foreignphrase> was not there, Ranjeet would be saying
 something like the coffee being novel in that it is hot
 (<wordasword>{<emphasis>hot [kind of] new</emphasis>} made
-coffee</wordasword>) &mdash; perhaps the establishment doesn't normally
+coffee</wordasword>); perhaps the establishment doesn't normally
 have much of a water heating process, so any actual hot coffee would be a sensation.)</para></listitem>
 
 <listitem><para>Zhang says <quote>New skin? Huh? My current skin
@@ -876,14 +1017,19 @@ tense to indicate when the second term happened relative to the first term.
 If <foreignphrase lang="art-lojban">gi'e</foreignphrase> means <quote
 role="gloss">and</quote>, then <foreignphrase lang="art-lojban">gi'e ba
 bo</foreignphrase> means <quote role="gloss">and later</quote>, or <quote
-role="gloss">and then</quote>. But <foreignphrase
+role="gloss">and then</quote>. We saw someting similar with <foreignphrase lang="art-lojban">gi ca
+bo</foreignphrase> above.</para>
+
+<para>But <foreignphrase
 lang="art-lojban">bo</foreignphrase> still binds immediately to what went
 before it. So if we left things as they were, we would be saying something
 like <quote>Zhang looks confusedly and then laughs. He also says...</quote>
-In that case, we wouldn't necessarily make it clear that he spoke
-<emphasis>after</emphasis> he stared, dumbstruck: since logical AND says
-nothing about time, that sentence would still be true if Zhang had made his
-rather perceptive remark three days earlier. What we want is for the
+In that case, it wouldn't necessarily be clear that he spoke
+<emphasis>after</emphasis> he stared at Ranjeet, dumbstruck: since logical AND says
+nothing about the time when things happen, that sentence would still be true even if Zhang had made his
+perceptive remark three days earlier.</para>
+
+<para>What we want is for the
 <wordasword>and later</wordasword> to apply to <emphasis>both</emphasis>
 him laughing and him talking. To force this to happen, we use the bracket
 <foreignphrase lang="art-lojban">ke</foreignphrase>: <quote>Zhang {stares},
@@ -891,19 +1037,21 @@ him laughing and him talking. To force this to happen, we use the bracket
 silly...</quote>}</quote></para>
 
 <para>As you may have guessed, we would have avoided having to use brackets 
-in forethought mode: <foreignphrase
+in forethought mode: 
+
+<informalexample><para><foreignphrase
 lang="art-lojban">.i ge la jan. se cfipu catlu gibabo ge cmila gi cusku 
-lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></note>
+lu .i na go'i doi bebna .i mi pinxe loi sodva li'u</foreignphrase></para></informalexample></para></note>
 </listitem>
 
 </orderedlist></para></simplesect>
 
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="exercise"><title>Exercise 5</title>
 
 <para><orderedlist>
 
 <listitem><para><foreignphrase
-lang="art-lojban">.i la djiotis. noi gu'e jgari gi pinxe loi ckafi cu 
+lang="art-lojban">.i la djiotis. noi gu'e jgari gu'i pinxe loi ckafi cu 
 tavla la suzyn.</foreignphrase></para></listitem>
 
 <listitem><para>There are several ways you can say this:
@@ -962,14 +1110,14 @@ masterpiece of contemporary art is not an actual flesh-and-blood, clucking
 chicken. Lojban being the logical language it is, you'll probably find
 people insisting on the distinction, and saying things like <quote
 role="gloss">facsimile of a chicken</quote> or <quote
-role="gloss">chicken-like thing</quote>. The final vowel of <foreignphrase
-lang="art-lojban">nanbrpretsele</foreignphrase>, by the way, is pretty much
+role="gloss">chicken-like thing</quote>. Like we said, the final vowel of <foreignphrase
+lang="art-lojban">nanbrpretsele</foreignphrase> is pretty much
 up to you &mdash; until there's a standard dictionary <foreignphrase
 lang="art-lojban">fu'ivla</foreignphrase> for it, at least.)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">.i lo fange kensa bo xe
-klama ce'ogi mo'u klama gi ce'ogi te gisnu gi vimcu le vo pendo le
-dansydi'u</foreignphrase> (<foreignphrase lang="art-lojban">fange
+klama ce'ogi mo'u klama gi ce'ogi te gusni gi vimcu le vo pendo le
+dansydi'u</foreignphrase> (Although <foreignphrase lang="art-lojban">fange
 ke kensa xe klama</foreignphrase> would also have been fine. <foreignphrase
 lang="art-lojban">fange kensa xe klama</foreignphrase> would have meant a
 vehicle intended only for alien space &mdash; which can't be right, since

@@ -15,7 +15,7 @@ wasn't the 21st of June everywhere on Earth. In Tokyo, it was closer to the
 need to specify the x<subscript>3</subscript> place of <foreignphrase
 lang="art-lojban">detri</foreignphrase>. That means we can simply say:
 
-<informalexample><para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu pamoi klama le
+<informalexample><para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu klama le
 lunra la xustyn.
 </foreignphrase></para></informalexample>right?</para>
 
@@ -25,7 +25,7 @@ Houston</emphasis>? You guessed it &mdash;
 
 <informalexample><para><foreignphrase
 lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri lenu lo remna cu
-pamoi klama le lunra la xustyn.</foreignphrase></para>
+klama le lunra la xustyn.</foreignphrase></para>
 
 </informalexample>So now (Houston), we have a
 problem. Which <foreignphrase lang="art-lojban">selbri</foreignphrase> does
@@ -82,24 +82,24 @@ inside another <foreignphrase lang="art-lojban">bridi</foreignphrase>
 means that our sentence about the moon landing is fully elaborated like
 this (putting in some braces to make things clearer): </para>
 
-<para><informalexample><para><foreignphrase lang="art-lojban">{li repa pi'e ze pi'e pasoxaso boi} cu detri [le{nu [lo remna ku] cu pamoi klama
+<para><informalexample><para><foreignphrase lang="art-lojban">{li repa pi'e ze pi'e pasoxaso boi} cu detri [le{nu [lo remna ku] cu klama
 [le lunra ku] vau kei} ku] la xustyn. vau</foreignphrase></para></informalexample></para>
 
 <para>The <foreignphrase lang="art-lojban">kei</foreignphrase> goes before
 <foreignphrase lang="art-lojban">la xustyn.</foreignphrase> . This means
 that as a <foreignphrase lang="art-lojban">sumti</foreignphrase>, <foreignphrase lang="art-lojban">la xustyn.</foreignphrase> cannot
 belong to <foreignphrase lang="art-lojban">klama</foreignphrase>:
-<foreignphrase lang="art-lojban">kei</foreignphrase> has cordoned off
+<foreignphrase lang="art-lojban">kei</foreignphrase> has cordoned off the places of
 <foreignphrase lang="art-lojban">klama</foreignphrase> from the rest of the
 sentence. So <foreignphrase lang="art-lojban">la xustyn.</foreignphrase>
 can only be a <foreignphrase lang="art-lojban">sumti</foreignphrase> of the
 main <foreignphrase lang="art-lojban">selbri</foreignphrase>,
 <foreignphrase lang="art-lojban">detri.</foreignphrase> </para>
 
-<para>The reader may be wondering at this point how come they've never seen
+<para>The reader may well be wondering at this point how come they've never seen
 one of these terminators before. The reason is that Lojban is still meant
 to be spoken by humans, and keeping track of every single structure used in
-a sentence is more work than is reasonable to expect of a human. So when the sequence
+a sentence is more work than is reasonable to expect of any human. So when the sequence
 of words has an unambiguous structure, the terminators can be dropped out.</para>
 
 <para>For example, if we see <foreignphrase lang="art-lojban">cu</foreignphrase>
@@ -121,11 +121,11 @@ looking at, that you'll get terminators appearing in normal Lojban usage at
 all. So our two possible interpretations of the sentence with Neil 
 Armstrong would normally appear as:
 
-<informalexample><para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri {lenu lo remna cu pamoi <emphasis>klama</emphasis> le
+<informalexample><para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu detri {lenu lo remna cu <emphasis>klama</emphasis> le
 lunra <emphasis>la xustyn.</emphasis>}
 </foreignphrase> (date for going to the moon <emphasis>from</emphasis> Houston)</para>
 </informalexample><informalexample>
-<para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu <emphasis>detri</emphasis> {lenu lo remna cu pamoi klama le
+<para><foreignphrase lang="art-lojban">li repa pi'e ze pi'e pasoxaso cu <emphasis>detri</emphasis> {lenu lo remna cu klama le
 lunra kei} <emphasis>la xustyn.</emphasis>
 </foreignphrase> (date for going to the moon <emphasis>according 
 to</emphasis> Houston)</para></informalexample></para>
@@ -139,7 +139,9 @@ ambiguity: <foreignphrase lang="art-lojban">le le ninmu
 klama ku tamne</foreignphrase> means <quote role="gloss">the woman 
 traveller's cousin</quote>, and <foreignphrase lang="art-lojban">le le ninmu 
 ku klama tamne</foreignphrase> means <quote role="gloss">the woman's 
-traveller cousin.</quote> Still, most Lojbanists think the flip-around is 
+traveller cousin.</quote></para>
+
+<para>Still, most Lojbanists think the flip-around is 
 not worth the hassle of inserting that bothersome <foreignphrase 
 lang="art-lojban">ku</foreignphrase>, so you rarely see it used when the <quote 
 role="gloss">possessor</quote> <foreignphrase 
@@ -299,7 +301,7 @@ barja</foreignphrase> </para>
 </informalexample><foreignphrase lang="art-lojban">baku</foreignphrase> here is not a city in
 Azerbaijan; it means <quote role="gloss">afterwards</quote> or <quote
 role="gloss">later</quote>. The <foreignphrase
-lang="art-lojban">ku</foreignphrase> is necessary to separate the <foreignphrase
+lang="art-lojban">ku</foreignphrase> is necessary to separate <foreignphrase
 lang="art-lojban">ba</foreignphrase> from <foreignphrase lang="art-lojban">la
 suzyn.</foreignphrase> (you can also say it as two separate words,
 <foreignphrase lang="art-lojban">ba ku</foreignphrase> &mdash; it makes no
@@ -397,7 +399,7 @@ ago,</quote> <foreignphrase lang="art-lojban">puza</foreignphrase> is <quote
 role="gloss">a while ago</quote> and <foreignphrase
 lang="art-lojban">puzu</foreignphrase> is <quote role="gloss">a long time
 ago</quote>. How long <quote role="gloss">long</quote> is depends on what
-we're talking about &mdash; if the subject is archeology, <foreignphrase
+we're talking about &mdash; if the subject is archaeology, <foreignphrase
 lang="art-lojban">puzu</foreignphrase> could be thousands of years; if you've
 missed your train it could be a matter of minutes.
 </para> 
@@ -520,9 +522,11 @@ lang="art-lojban">zi/za/zu</foreignphrase>, so <foreignphrase
 lang="art-lojban">la jan. puza cliva le barja</foreignphrase>, just like
 <foreignphrase lang="art-lojban">puzaku la jan. cliva le
 barja</foreignphrase>, means <quote>Zhang left the bar a while ago.</quote>
-
-
 </para> 
+
+<note><para>By the way, <foreignphrase
+lang="art-lojban">ma ca tcika</foreignphrase> would be an even more usual way to say
+<quote>What time is it?</quote></para></note>
 
 <para>Another group of <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> which can be used here is <foreignphrase
@@ -655,7 +659,7 @@ Here, I work.</literallayout>
 role="gloss">in the immediate vicinity of the here-and-now</quote>, i.e. 
 <quote role="gloss">here</quote>. If we don't want to make the location 
 relative to the speaker, but relative to something else, we can fill in the 
-empty <foreignphrase lang="art-lojban">sumti</foreignphrase> value in, in
+empty <foreignphrase lang="art-lojban">sumti</foreignphrase> value, in
 the same way, to say what an event is in the immediate vicinity of. This, 
 of course, makes <foreignphrase
 lang="art-lojban">vi, va, vu</foreignphrase> acts as <foreignphrase
@@ -690,7 +694,7 @@ lang="art-lojban">bu'u</foreignphrase> <quote role="gloss">coinciding
 with</quote>:
 
 <informalexample><literallayout><foreignphrase lang="art-lojban">mi sanli bu'u lenu la KEnedis. se catra</foreignphrase>
-I'm standing in the very spot where Kennedy was killed (i.e. I've made a visit to the Texas Book Depository)</literallayout>
+I'm standing in the very spot where Kennedy was killed (i.e. I've made a visit to the Texas Book Depository &mdash; or if you prefer, the Grassy Knoll...)</literallayout>
 </informalexample></para>
 
 <para>Just like the time <foreignphrase lang="art-lojban">cmavo</foreignphrase>,
@@ -726,8 +730,9 @@ Bill stands just to the right of Mary.</literallayout>
 
 <para>There is a whole class of
 <foreignphrase lang="art-lojban">cmavo</foreignphrase> that work like
-<foreignphrase lang="art-lojban">ri'u</foreignphrase>, and they are called FAhA
-type <foreignphrase lang="art-lojban">cmavo</foreignphrase>, after a (somewhat non-representative) member of their class, <foreignphrase lang="art-lojban">fa'a</foreignphrase> (in the direction of). These
+<foreignphrase lang="art-lojban">ri'u</foreignphrase>, and they are called FAhA-type 
+<foreignphrase lang="art-lojban">cmavo</foreignphrase>, so named after a (somewhat non-representative) 
+member of their class, <foreignphrase lang="art-lojban">fa'a</foreignphrase> (in the direction of). These
 include <foreignphrase lang="art-lojban">to'o</foreignphrase> (away from),
 <foreignphrase lang="art-lojban">zu'a</foreignphrase> (to the left of),
 <foreignphrase lang="art-lojban">ne'a</foreignphrase> (next to),
@@ -737,7 +742,7 @@ in Chapter 10 of <citetitle>The Complete Lojban Language</citetitle>).
 
 </para> 
 
-<note><para>FAhA indicates direction, but not <emphasis>motion 
+<note><para>FAhA <foreignphrase lang="art-lojban">cmavo</foreignphrase> indicate direction, but not <emphasis>motion 
 toward</emphasis> that direction. There is a separate <foreignphrase 
 lang="art-lojban">cmavo</foreignphrase> for that; see <link 
 linkend="less7">Lesson 7</link>.</para></note>
@@ -1063,7 +1068,9 @@ goes to the bar, not far from the office.</para></listitem>
 <listitem><para>At the bar Susan meets Susan's
 long-time friends.</para></listitem>
 
-<listitem><para>Susan notices that the beer is German by seeing the bottle label.</para></listitem>
+<listitem><para>Susan notices that the beer is German by seeing the bottle label. 
+(Hint: look carefully at the place structure of <foreignphrase 
+lang="art-lojban">zgana</foreignphrase>.)</para></listitem>
 
 <listitem><para>Susan sits away from the German beer.</para></listitem>
 
@@ -1122,7 +1129,7 @@ that Maria speaks to Claudia.</para></listitem>
 <listitem><para><foreignphrase lang="art-lojban">puzuku mi tcidu la kaMIL.</foreignphrase></para></listitem>
 
 
-<listitem><para><foreignphrase lang="art-lojban">puziku la iVAN. cliva le kumfa</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">puziku la .iVAN. cliva le kumfa</foreignphrase></para></listitem>
 
 
 <listitem><para><foreignphrase lang="art-lojban">bazi lenu la pi,ER. klama le kumfa 
@@ -1138,21 +1145,6 @@ kei la .iocikos. cinba la xorxes.</foreignphrase></para></listitem>
 <simplesect role="excanswer"><title>Exercise 3</title>
 
 <orderedlist>
-
-
-<listitem><para>I will work for a short while.</para></listitem>
-
-
-<listitem><para>I will work very soon.</para></listitem>
-
-
-<listitem><para>I was working for a medium amount of time, a long time ago.</para></listitem>
-
-
-<listitem><para>I work some time around right now.</para></listitem>
-
-
-<listitem><para>Right now, I've been working for some time.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">mi baze'i gunka</foreignphrase></para></listitem>
 
@@ -1306,14 +1298,14 @@ grammatical difference between its <quote role="socalled">nouns</quote> and
 <listitem><para>The one full just a little time ago is now empty (aha!) after 
 Zhang drank the beer (pah!).</para>
 
-<para>There's some mischief with terminators and attitudinals here. 
+<para>(There's some mischief with terminators and attitudinals here. 
 Attitudinals apply to the structure that precedes them. If they follow a <foreignphrase 
 lang="art-lojban">sumti</foreignphrase>, they apply to that <foreignphrase 
 lang="art-lojban">sumti</foreignphrase>. If they follow a <foreignphrase 
 lang="art-lojban">selbri</foreignphrase>, they apply to that <foreignphrase 
-lang="art-lojban">selbri</foreignphrase>. (If they are at the start of a <foreignphrase 
+lang="art-lojban">selbri</foreignphrase>. If they are at the start of a <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>, on the other hand, they apply to the whole <foreignphrase 
-lang="art-lojban">bridi</foreignphrase>.)</para>
+lang="art-lojban">bridi</foreignphrase>.</para>
 
 <para>Now, <foreignphrase 
 lang="art-lojban">.i'enai</foreignphrase> <quote role="gloss">disapproval; Pah!</quote>
@@ -1326,7 +1318,7 @@ lang="art-lojban">vau</foreignphrase>, so it applies to the whole phrase closed 
 by <foreignphrase lang="art-lojban">vau</foreignphrase>: namely, the entire <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>, <foreignphrase 
 lang="art-lojban">le puzi culno ca kunti ba lenu la
-jan. pinxe loi birje</foreignphrase>.
+jan. pinxe loi birje</foreignphrase>.)
 </para></listitem>
 
 

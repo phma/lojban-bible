@@ -45,8 +45,6 @@
 <row><entry><foreignphrase lang="art-lojban">.u'i</foreignphrase></entry><entry>amusement</entry><entry>attitudinal: amusement &ndash; weariness</entry></row>
 <row><entry><foreignphrase lang="art-lojban">.ui</foreignphrase></entry><entry>happiness</entry><entry>attitudinal: happiness &ndash; unhappiness</entry></row>
 <row><entry><foreignphrase lang="art-lojban">.u'u</foreignphrase></entry><entry>repentance</entry><entry>attitudinal: repentance &ndash; lack of regret &ndash; innocence</entry></row>
-<row><entry><foreignphrase lang="art-lojban">.u'u</foreignphrase></entry><entry>repentance</entry><entry>attitudinal: repentance &ndash; lack of regret &ndash; innocence</entry></row>
-<row><entry><foreignphrase lang="art-lojban">.uu</foreignphrase></entry><entry>pity</entry><entry>attitudinal: pity &ndash; cruelty</entry></row>
 <row><entry><foreignphrase lang="art-lojban">.uu</foreignphrase></entry><entry>pity</entry><entry>attitudinal: pity &ndash; cruelty</entry></row>
 <row><entry><foreignphrase lang="art-lojban">.y</foreignphrase></entry><entry>hesitation</entry><entry><quote role="gloss">er</quote> (hesitation)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">.ybu</foreignphrase></entry><entry>y</entry><entry>letteral for y</entry></row>
@@ -54,7 +52,6 @@
 <row><entry><foreignphrase lang="art-lojban">.y'ybu</foreignphrase></entry><entry>h</entry><entry>letteral for h</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ba</foreignphrase></entry><entry>after</entry><entry>time tense relation/direction: will [selbri]; after [sumti]; default future tense</entry></row>
 <row><entry><foreignphrase lang="art-lojban">badri</foreignphrase></entry><entry>sad</entry><entry>x1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about x2 (abstraction)</entry></row>
-<row><entry><foreignphrase lang="art-lojban">ba'e</foreignphrase></entry><entry>emphasize next</entry><entry>forethought emphasis indicator; indicates next word is especially emphasized</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ba'e</foreignphrase></entry><entry>emphasize next</entry><entry>forethought emphasis indicator; indicates next word is especially emphasized</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bai</foreignphrase></entry><entry>compelled by</entry><entry>bapli modal, 1st place (forced by)                forcedly; compelled by force ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bajra</foreignphrase></entry><entry>run</entry><entry>x1 runs on surface x2 using limbs x3 with gait x4</entry></row>
@@ -65,6 +62,7 @@
 <row><entry><foreignphrase lang="art-lojban">banli</foreignphrase></entry><entry>great</entry><entry>x1 is great/grand in property x2 (ka) by standard x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">banxa</foreignphrase></entry><entry>bank</entry><entry>x1 is a bank owned by/in banking system x2 for banking function(s) x3 (event)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ba'o</foreignphrase></entry><entry>perfective</entry><entry>interval event contour: in the aftermath of ...; since ...; perfective</entry></row> 
+<row><entry><foreignphrase lang="art-lojban">bapli</foreignphrase></entry><entry>force</entry><entry>x1 [force] (ka) forces/compels event x2 to occur; x1 determines property x2 to manifest</entry></row>
 <row><entry><foreignphrase lang="art-lojban">barda</foreignphrase></entry><entry>big</entry><entry>x1 is big/large in property/dimension(s) x2 as compared with standard/norm x3 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">barja</foreignphrase></entry><entry>bar</entry><entry>x1 is a tavern/bar/pub serving x2 to audience/patrons x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">bartu</foreignphrase></entry><entry>out</entry><entry>x1 is on the outside of x2; x1 is exterior to x2</entry></row>
@@ -115,7 +113,6 @@
 <row><entry><foreignphrase lang="art-lojban">ce</foreignphrase></entry><entry>in a set with</entry><entry>non-logical connective: set link, unordered; <quote role="gloss">and also</quote>, but forming a set</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ce'o</foreignphrase></entry><entry>in a sequence with</entry><entry>non-logical connective: ordered sequence link; <quote role="gloss">and then</quote>, forming a sequence</entry></row>
 <row><entry><foreignphrase lang="art-lojban">certu</foreignphrase></entry><entry>expert</entry><entry>x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity) by standard x3</entry></row>
-<row><entry><foreignphrase lang="art-lojban">certu</foreignphrase></entry><entry>expert</entry><entry>x1 is an expert/pro/has prowess in/is skilled at x2 (event/activity) by standard x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ce'u</foreignphrase></entry><entry>lambda</entry><entry>pseudo-quantifier binding a variable within an abstraction that represents an open place</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cevni</foreignphrase></entry><entry>god</entry><entry>x1 is a/the god/deity of people(s)/religion x2 with dominion over x3 [sphere]; x1 is divine</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cfari</foreignphrase></entry><entry>initiate</entry><entry>x1 [state/event/process] commences/initiates/starts/begins to occur; (intransitive verb)</entry></row>
@@ -130,11 +127,14 @@
 <row><entry><foreignphrase lang="art-lojban">cinba</foreignphrase></entry><entry>kiss</entry><entry>x1 (agent) kisses/busses x2 at locus x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinmo</foreignphrase></entry><entry>emotion</entry><entry>x1 feels emotion x2 (ka) about x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinri</foreignphrase></entry><entry>interesting</entry><entry>x1 (abstraction) interests/is interesting to x2; x2 is interested in x1</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cinse</foreignphrase></entry><entry>sexual</entry><entry>x1 in activity/state x2 exhibits sexuality/gender/sexual orientation x3 (ka) by standard x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinta</foreignphrase></entry><entry>paint</entry><entry>x1 [material] is a paint of pigment/active substance x2, in a base of x3 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">cinynei</foreignphrase></entry><entry>fancy</entry><entry>x1 fancies x2 (<foreignphrase lang="art-lojban">cinse</foreignphrase> <quote role="gloss">sex</quote> + <foreignphrase lang="art-lojban">nelci</foreignphrase> <quote role="gloss">like</quote>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cipni</foreignphrase></entry><entry>bird</entry><entry>x1 is a bird/avian/fowl of species x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cipra</foreignphrase></entry><entry>test</entry><entry>x1 (process/event) is a test for/proof of property/state x2 in subject x3 (individ./set/mass)</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cirla</foreignphrase></entry><entry>cheese</entry><entry>x1 is a quantity of/contains cheese/curd from source x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ciska</foreignphrase></entry><entry>write</entry><entry>x1 inscribes/writes x2 on display/storage medium x3 with writing implement x4; x1 is a scribe</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cisma</foreignphrase></entry><entry>smile</entry><entry>x1 smiles/grins (facial expression)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cismyfra</foreignphrase></entry><entry>smile at</entry><entry>x1 reacts/responds/answers by smiling to stimulus x2 under conditions x3 [<foreignphrase lang="art-lojban">cisma</foreignphrase> (smile) + <foreignphrase lang="art-lojban">frati</foreignphrase> (react)]</entry></row>
 <row><entry><foreignphrase lang="art-lojban">citka</foreignphrase></entry><entry>eat</entry><entry>x1 eats/ingests/consumes (transitive verb) x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">citsi</foreignphrase></entry><entry>season</entry><entry>x1 is a season/is seasonal [cyclical interval], defined by interval/property x2, of year(s) x3 </entry></row>
@@ -177,11 +177,11 @@
 <row><entry><foreignphrase lang="art-lojban">cu'i</foreignphrase></entry><entry>neutral emotion</entry><entry>attitudinal: neutral scalar attitude modifier</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cukta</foreignphrase></entry><entry>book</entry><entry>x1 is a book about subject/theme/story x2 by author x3 for audience x4 preserved in medium x5 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">culno</foreignphrase></entry><entry>full</entry><entry>x1 is full/completely filled with x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">cupra</foreignphrase></entry><entry>produce</entry><entry>x1 produces x2 [product] by process x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">curmi</foreignphrase></entry><entry>let</entry><entry>x1 (agent) lets/permits/allows x2 (event) under conditions x3; x1 grants privilege x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cusku</foreignphrase></entry><entry>express</entry><entry>x1 expresses/says x2 for audience x3 via expressive medium x4 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">cu'u</foreignphrase></entry><entry>as said by</entry><entry>cusku modal, 1st place (attribution/quotation)    as said by source ...; used for quotation</entry></row>
 <row><entry><foreignphrase lang="art-lojban">cy</foreignphrase></entry><entry>c</entry><entry>letteral for c</entry></row>
-<row><entry><foreignphrase lang="art-lojban">d</foreignphrase></entry><entry>d</entry><entry>letteral for d</entry></row>
 <row><entry><foreignphrase lang="art-lojban">da</foreignphrase></entry><entry>something #1</entry><entry>logically quantified existential pro-sumti: there exists something #1 (usually restricted)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">dable'a</foreignphrase></entry><entry>conquer</entry><entry>x1 conquers/siezes x2 from x3 (<quote role="gloss">war-take</quote>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">da'i</foreignphrase></entry><entry>supposing</entry><entry>discursive: supposing &ndash; in fact</entry></row>
@@ -220,6 +220,7 @@
 <row><entry><foreignphrase lang="art-lojban">dunli</foreignphrase></entry><entry>equal</entry><entry>x1 is equal/congruent to/as much as x2 in property/dimension/quantity x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">dunra</foreignphrase></entry><entry>winter</entry><entry>x1 is winter/wintertime [cold season] of year x2 at location</entry></row>
 <row><entry><foreignphrase lang="art-lojban">du'u</foreignphrase></entry><entry>bridi abstract</entry><entry>abstractor: predication/bridi abstractor; x1 is predication [bridi] expressed in sentence x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">dy</foreignphrase></entry><entry>d</entry><entry>letteral for d</entry></row>
 <row><entry><foreignphrase lang="art-lojban">dzena</foreignphrase></entry><entry>elder</entry><entry>x1 is an elder/ancestor of x2 by bond/tie/degree x3; x1's generation precedes x2's parents</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fa</foreignphrase></entry><entry>1st sumti place</entry><entry>sumti place tag: tag 1st sumti place</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fa'a</foreignphrase></entry><entry>towards point</entry><entry>location tense relation/direction; arriving at/directly towards ...</entry></row>
@@ -246,7 +247,6 @@
 <row><entry><foreignphrase lang="art-lojban">fi'e</foreignphrase></entry><entry>created by</entry><entry>finti modal, 1st place (creator)                  created by ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fi'i</foreignphrase></entry><entry>hospitality</entry><entry>vocative: hospitality &ndash; inhospitality; you are welcome/ make yourself at home</entry></row>
 <row><entry><foreignphrase lang="art-lojban">finpe</foreignphrase></entry><entry>fish</entry><entry>x1 is a fish of species x2 [metaphorical extension to sharks, non-fish aquatic vertebrates]</entry></row>
-<row><entry><foreignphrase lang="art-lojban">finpe</foreignphrase></entry><entry>fish</entry><entry>x1 is a fish of species x2 [metaphorical extension to sharks, non-fish aquatic vertebrates]</entry></row>
 <row><entry><foreignphrase lang="art-lojban">finti</foreignphrase></entry><entry>invent</entry><entry>x1 invents/creates/composes/authors x2 for function/purpose x3 from existing elements/ideas x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fi'u</foreignphrase></entry><entry>fraction slash</entry><entry>digit/number: fraction slash; default <quote>/n</quote> &rArr; 1/n, <quote>n/</quote> &rArr; n/1, or <quote>/</quote> alone &rArr; golden ratio</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fo</foreignphrase></entry><entry>4th sumti place</entry><entry>sumti place tag: tag 4th sumti place</entry></row>
@@ -257,6 +257,7 @@
 <row><entry><foreignphrase lang="art-lojban">fo'o</foreignphrase></entry><entry>it #9</entry><entry>pro-sumti: he/she/it/they #9 (specified by goi)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fo'u</foreignphrase></entry><entry>it #10</entry><entry>pro-sumti: he/she/it/they #10 (specified by goi)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fraso</foreignphrase></entry><entry>French</entry><entry>x1 reflects French/Gallic culture/nationality/language in aspect x2</entry></row>
+<row><entry><foreignphrase lang="art-lojban">frati</foreignphrase></entry><entry>react</entry><entry>x1 reacts/responds/answers with action x2 to stimulus x3 under conditions x4; x1 is responsive</entry></row>
 <row><entry><foreignphrase lang="art-lojban">frumu</foreignphrase></entry><entry>frown</entry><entry>x1 frowns/grimaces (facial expression)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fu</foreignphrase></entry><entry>5th sumti place</entry><entry>sumti place tag: tag 5th sumti place</entry></row>
 <row><entry><foreignphrase lang="art-lojban">fusra</foreignphrase></entry><entry>rotten</entry><entry>x1 rots/decays/ferments with decay/fermentation agent x2; x1 is rotten/decayed/fermented</entry></row>
@@ -265,6 +266,7 @@
 <row><entry><foreignphrase lang="art-lojban">gacri</foreignphrase></entry><entry>cover</entry><entry>x1 is a cover/[lid/top] for covering/concealing/sheltering x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gai</foreignphrase></entry><entry>12</entry><entry>digit/number: hex digit C</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gairgau</foreignphrase></entry><entry>cover</entry><entry>x1 [person/agent] places x2 as a cover/[lid/top] on x3 (<foreignphrase lang="art-lojban">gacri</foreignphrase> <quote role="gloss">cover</quote> + <foreignphrase lang="art-lojban">gasnu</foreignphrase> <quote role="gloss">do</quote>)</entry></row>
+<row><entry><foreignphrase lang="art-lojban">galfi</foreignphrase></entry><entry>modify</entry><entry>x1 (event) modifies/alters/changes/transforms/converts x2 into x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ganai</foreignphrase></entry><entry>fore only if</entry><entry>logical connective: forethought all but tanru-internal conditional/only if</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ganlo</foreignphrase></entry><entry>closed</entry><entry>x1 (portal/passage/entrance-way) is closed/shut/not open, preventing passage/access to x2 by x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">gasnu</foreignphrase></entry><entry>do</entry><entry>x1 [person/agent] is an agentive cause of event x2; x1 does/brings about x2</entry></row>
@@ -323,15 +325,17 @@
 <row><entry><foreignphrase lang="art-lojban">jdima</foreignphrase></entry><entry>price</entry><entry>x1 [amount] is the price of x2 to purchaser/consumer x3 set by vendor x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jdini</foreignphrase></entry><entry>money</entry><entry>x1 is money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal</entry></row>
 <row><entry><foreignphrase lang="art-lojban">je</foreignphrase></entry><entry>tanru and</entry><entry>logical connective: tanru-internal and</entry></row>
-<row><entry><foreignphrase lang="art-lojban">jecyga'ibai</foreignphrase></entry><entry>revolutionary</entry><entry>x1 revolts against/deposes regime x2 (<foreignphrase lang="art-lojban">jecta</foreignphrase> <quote role="gloss">state</quote> + <foreignphrase lang="art-lojban">galfi</foreignphrase> <quote role="gloss">modify</quote> + <foreignphrase lang="art-lojban">bapli</foreignphrase> <quote role="gloss">force</quote>)</entry></row>
+<row><entry><foreignphrase lang="art-lojban">jecta</foreignphrase></entry><entry>polity</entry><entry>x1 is a polity/state governing territory/domain x2; [government/territory relationship]</entry></row>
+<row><entry><foreignphrase lang="art-lojban">jecyga'ibai</foreignphrase></entry><entry>revolutionary</entry><entry>x1 revolts against/deposes regime x2 (<foreignphrase lang="art-lojban">jecta</foreignphrase> <quote role="gloss">polity</quote> + <foreignphrase lang="art-lojban">galfi</foreignphrase> <quote role="gloss">modify</quote> + <foreignphrase lang="art-lojban">bapli</foreignphrase> <quote role="gloss">force</quote>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">je'e</foreignphrase></entry><entry>roger</entry><entry>vocative: roger (ack) &ndash; negative acknowledge; used to acknowledge offers and thanks</entry></row>
 <row><entry><foreignphrase lang="art-lojban">je'i</foreignphrase></entry><entry>tanru conn?</entry><entry>logical connective: tanru-internal connective question</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jelca</foreignphrase></entry><entry>burn</entry><entry>x1 burns/[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jemna</foreignphrase></entry><entry>gem</entry><entry>x1 is a gem/polished stone/pearl of type x2 from gemstone/material/source x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jenai</foreignphrase></entry><entry>tanru but not</entry><entry>logical connective: tanru-internal x but not y</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jgari</foreignphrase></entry><entry>grasp</entry><entry>x1 grasps/holds/clutches/seizes/grips/[hugs] x2 with x3 (part of x1) at locus x4 (part of x2)</entry></row>
+<row><entry><foreignphrase lang="art-lojban">jgira</foreignphrase></entry><entry>pride</entry><entry>x1 (person) feels/has pride in/about x2 (abstraction)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jgita</foreignphrase></entry><entry>guitar</entry><entry>x1 is a guitar/violin/fiddle/harp [stringed musical instrument] with actuator/plectrum/bow x2</entry></row>
-<row><entry><foreignphrase lang="art-lojban">jgitrgitara</foreignphrase></entry><entry>guitar</entry><entry>x1 is a violin</entry></row>
+<row><entry><foreignphrase lang="art-lojban">jgitrgitara</foreignphrase></entry><entry>guitar</entry><entry>x1 is a guitar</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jgitrviolino</foreignphrase></entry><entry>violin</entry><entry>x1 is a violin</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ji</foreignphrase></entry><entry>sumti conn?</entry><entry>logical connective: sumti afterthought connective question</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ji'a</foreignphrase></entry><entry>in addition</entry><entry>discursive: additionally</entry></row>
@@ -347,7 +351,6 @@
 <row><entry><foreignphrase lang="art-lojban">jonai</foreignphrase></entry><entry>tanru xor</entry><entry>logical connective: tanru-internal exclusive or</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ju</foreignphrase></entry><entry>tanru whether</entry><entry>logical connective: tanru-internal whether-or-not</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jubme</foreignphrase></entry><entry>table</entry><entry>x1 is a table/flat solid upper surface of material x2, supported by legs/base/pedestal x3</entry></row>
-<row><entry><foreignphrase lang="art-lojban">ju'i</foreignphrase></entry><entry>attention</entry><entry>vocative: attention &ndash; at ease &ndash; ignore me</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ju'i</foreignphrase></entry><entry>attention</entry><entry>vocative: attention &ndash; at ease &ndash; ignore me</entry></row>
 <row><entry><foreignphrase lang="art-lojban">jukpa</foreignphrase></entry><entry>cook</entry><entry>x1 cooks/prepares food-for-eating x2 by recipe/method x3 (process) </entry></row>
 <row><entry><foreignphrase lang="art-lojban">jundi</foreignphrase></entry><entry>attentive</entry><entry>x1 is attentive towards/attends/tends/pays attention to object/affair x2</entry></row>
@@ -371,6 +374,7 @@
 <row><entry><foreignphrase lang="art-lojban">kerfa</foreignphrase></entry><entry>hair</entry><entry>x1 is a/the hair/fur [body-part] of x2 at body location x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ki'a</foreignphrase></entry><entry>textual confusion</entry><entry>attitudinal question: confusion about something said </entry></row>
 <row><entry><foreignphrase lang="art-lojban">ki'e</foreignphrase></entry><entry>thanks</entry><entry>vocative: thanks &ndash; no thanks to you</entry></row>
+<row><entry><foreignphrase lang="art-lojban">kijno</foreignphrase></entry><entry>oxygen</entry><entry>x1 is a quantity of/contains/is made of oxygen (O)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ki'o</foreignphrase></entry><entry>number comma</entry><entry>digit/number: number comma; thousands</entry></row>
 <row><entry><foreignphrase lang="art-lojban">kisto</foreignphrase></entry><entry>Pakistani</entry><entry>x1 reflects Pakistani/Pashto culture/nationality/language in aspect x2 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">ki'u</foreignphrase></entry><entry>because of reason</entry><entry>krinu modal, 1st place (justified by)             justifiably; because of reason ...</entry></row>
@@ -383,14 +387,13 @@
 <row><entry><foreignphrase lang="art-lojban">ko'i</foreignphrase></entry><entry>it #3</entry><entry>pro-sumti: he/she/it/they #3 (specified by goi)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ko'o</foreignphrase></entry><entry>it #4</entry><entry>pro-sumti: he/she/it/they #4 (specified by goi)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ko'u</foreignphrase></entry><entry>it #5</entry><entry>pro-sumti: he/she/it/they #5 (specified by goi)</entry></row>
-<row><entry><foreignphrase lang="art-lojban">kratr&shy;senatore</foreignphrase></entry><entry>senator</entry><entry>x1 is a senator representing x2 in the senate x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">kratr&shy;senatore</foreignphrase></entry><entry>senator</entry><entry>x1 is a senator representing x2 in senate x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">krinu</foreignphrase></entry><entry>reason</entry><entry>x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">krixa</foreignphrase></entry><entry>cry out</entry><entry>x1 cries out/yells/howls sound x2; x1 is a crier</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ku</foreignphrase></entry><entry>end sumti</entry><entry>elidable terminator: end description, modal, or negator sumti; often elidable</entry></row>
 <row><entry><foreignphrase lang="art-lojban">kucli</foreignphrase></entry><entry>curious</entry><entry>x1 is curious/wonders about/is interested in/[inquisitive about] x2 (object/abstract)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ku'i</foreignphrase></entry><entry>however</entry><entry>iscursive: however/but/in contrast</entry></row>
 <row><entry><foreignphrase lang="art-lojban">kukte</foreignphrase></entry><entry>delicious</entry><entry>x1 is delicious/tasty/delightful to observer/sense x2 [person, or sensory activity]</entry></row>
-<row><entry><foreignphrase lang="art-lojban">kumfa</foreignphrase></entry><entry>room</entry><entry>x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor x3 (mass/jo'u)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">kumfa</foreignphrase></entry><entry>room</entry><entry>x1 is a room of/in structure x2 surrounded by partitions/walls/ceiling/floor x3 (mass/jo'u)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">kunti</foreignphrase></entry><entry>empty</entry><entry>x1 [container] is empty/vacant of x2 [material]; x1 is hollow</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ku'o</foreignphrase></entry><entry>end relative clause</entry><entry>elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses</entry></row>
@@ -409,6 +412,7 @@
 <row><entry><foreignphrase lang="art-lojban">lanli</foreignphrase></entry><entry>analyze</entry><entry>x1 analyzes/examines-in-detail x2 by method/technique/system x3 [process/activity] </entry></row>
 <row><entry><foreignphrase lang="art-lojban">lanme</foreignphrase></entry><entry>sheep</entry><entry>x1 is a sheep/[lamb/ewe/ram] of species/breed x2 of flock x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lante</foreignphrase></entry><entry>can</entry><entry>x1 is a can/tightly sealed/pre-sealed container for perishable contents x2, made of x3</entry></row>
+<row><entry><foreignphrase lang="art-lojban">la'o</foreignphrase></entry><entry>the non-Lojban named</entry><entry>delimited non-Lojban name; the resulting quote sumti is treated as a name</entry></row>
 <row><entry><foreignphrase lang="art-lojban">le</foreignphrase></entry><entry>the described</entry><entry>non-veridical descriptor: the one(s) described as ...</entry></row>
 <row><entry><foreignphrase lang="art-lojban">lebna</foreignphrase></entry><entry>take</entry><entry>x1 takes/gets/gains/obtains/seizes/[removes] x2 (object/property) from x3 (possessor) </entry></row>
 <row><entry><foreignphrase lang="art-lojban">le'e</foreignphrase></entry><entry>the stereotypical</entry><entry>non-veridical descriptor: the stereotype of those described as ...</entry></row>
@@ -460,7 +464,6 @@
 <row><entry><foreignphrase lang="art-lojban">mi'o</foreignphrase></entry><entry>me and you</entry><entry>pro-sumti: me/we the speaker(s)/author(s) and you the listener(s)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">misno</foreignphrase></entry><entry>famous</entry><entry>x1 (person/object/event) is famous/renowned/is a celebrity among community of persons x2 (mass)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">mlatu</foreignphrase></entry><entry>cat</entry><entry>x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2; (adjective:) x1 is feline</entry></row>
-<row><entry><foreignphrase lang="art-lojban">mlatu</foreignphrase></entry><entry>cat</entry><entry>x1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x2; (adjective:) x1 is feline</entry></row>
 <row><entry><foreignphrase lang="art-lojban">mo</foreignphrase></entry><entry>bridi?</entry><entry>pro-bridi: bridi/selbri/brivla question</entry></row>
 <row><entry><foreignphrase lang="art-lojban">mo'i</foreignphrase></entry><entry>space motion</entry><entry>mark motions in space-time</entry></row>
 <row><entry><foreignphrase lang="art-lojban">moi</foreignphrase></entry><entry>ordinal selbri</entry><entry>convert number to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3 </entry></row>
@@ -506,6 +509,7 @@
 <row><entry><foreignphrase lang="art-lojban">ninpe'i</foreignphrase></entry><entry>meet</entry><entry>x1 meets x2 for the first time at location x3 (<foreignphrase lang="art-lojban">cnino</foreignphrase> <quote role="gloss">new</quote> + <foreignphrase lang="art-lojban">penmi</foreignphrase> <quote role="gloss">meet</quote>)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">ni'o</foreignphrase></entry><entry>new topic</entry><entry>discursive: paragraph break; introduce new topic</entry></row>
 <row><entry><foreignphrase lang="art-lojban">nitcu</foreignphrase></entry><entry>need</entry><entry>x1 needs/requires/is dependent on/[wants] necessity x2 for purpose/action/stage of process x3 </entry></row>
+<row><entry><foreignphrase lang="art-lojban">ni'u</foreignphrase></entry><entry>negative number</entry><entry>digit/number: minus sign; negative number); default any negative</entry></row>
 <row><entry><foreignphrase lang="art-lojban">no</foreignphrase></entry><entry>0</entry><entry>digit/number: 0</entry></row>
 <row><entry><foreignphrase lang="art-lojban">nobli</foreignphrase></entry><entry>noble</entry><entry>x1 is noble/aristocratic/elite/high-born/titled in/under culture/society/standard x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">no'e</foreignphrase></entry><entry>scalar midpoint not</entry><entry>midpoint scalar negator: neutral point between je'a and to'e; <quote role="socalled">not really</quote></entry></row>
@@ -639,6 +643,7 @@
 <row><entry><foreignphrase lang="art-lojban">stedu</foreignphrase></entry><entry>head</entry><entry>x1 is a/the head [body-part] of x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">stela</foreignphrase></entry><entry>lock</entry><entry>x1 is a lock/seal of/on/for sealing x2 with/by locking mechanism x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">su'e</foreignphrase></entry><entry>at most</entry><entry>digit/number: at most (all); no more than</entry></row>
+<row><entry><foreignphrase lang="art-lojban">su'i</foreignphrase></entry><entry>plus</entry><entry>n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)]</entry></row>
 <row><entry><foreignphrase lang="art-lojban">sumti</foreignphrase></entry><entry>argument</entry><entry>x1 is a/the argument of predicate/function x2 filling place x3 (kind/number)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">su'o</foreignphrase></entry><entry>at least</entry><entry>at least some); no less than</entry></row>
 <row><entry><foreignphrase lang="art-lojban">sutra</foreignphrase></entry><entry>fast</entry><entry>x1 is fast/swift/quick/hastes/rapid at doing/being/bringing about x2 (event/state) </entry></row>
@@ -740,7 +745,7 @@
 <row><entry><foreignphrase lang="art-lojban">xrabo</foreignphrase></entry><entry>Arabic</entry><entry>x1 reflects Arabic-speaking culture/nationality in aspect x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xu</foreignphrase></entry><entry>true&ndash;false?</entry><entry>discursive: true&ndash;false question</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xukmi</foreignphrase></entry><entry>chemical</entry><entry>x1 is an instance of substance/chemical/drug x2 (individual or mass) with purity x3</entry></row> 
-<row><entry><foreignphrase lang="art-lojban">xukske</foreignphrase></entry><entry>chemistry</entry><entry>x1 is chemistry based on methodology x2 (<foreignphrase lang="art-lojban">xukmi</foreignphrase> <quote role="gloss">chemical</quote> + <foreignphrase lang="art-lojban">saske</foreignphrase> <quote role="gloss">science</quote>)</entry></row> 
+<row><entry><foreignphrase lang="art-lojban">xumske</foreignphrase></entry><entry>chemistry</entry><entry>x1 is chemistry based on methodology x2 (<foreignphrase lang="art-lojban">xukmi</foreignphrase> <quote role="gloss">chemical</quote> + <foreignphrase lang="art-lojban">saske</foreignphrase> <quote role="gloss">science</quote>)</entry></row> 
 <row><entry><foreignphrase lang="art-lojban">xunre</foreignphrase></entry><entry>red</entry><entry>x1 is red/crimson/ruddy [color adjective]</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xy</foreignphrase></entry><entry>x</entry><entry>letteral for x</entry></row>
 <row><entry><foreignphrase lang="art-lojban">za</foreignphrase></entry><entry>medium time</entry><entry>time tense distance: medium distance in time</entry></row>
@@ -763,6 +768,7 @@
 <row><entry><foreignphrase lang="art-lojban">zmadu</foreignphrase></entry><entry>more</entry><entry>x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess x4 </entry></row>
 <row><entry><foreignphrase lang="art-lojban">zo</foreignphrase></entry><entry>one-word quote</entry><entry>quote next word only; quotes a single Lojban word (not a cmavo compound or tanru)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">zo'e</foreignphrase></entry><entry>unspecified it</entry><entry>pro-sumti: an elliptical/unspecified value; has some value which makes bridi true</entry></row>
+<row><entry><foreignphrase lang="art-lojban">zoi</foreignphrase></entry><entry>non-Lojban quote</entry><entry>delimited non-Lojban quotation; the result treated as a block of text</entry></row>
 <row><entry><foreignphrase lang="art-lojban">zo'o</foreignphrase></entry><entry>humorously</entry><entry>attitudinal modifier: humorously &ndash; dully &ndash; seriously </entry></row>
 <row><entry><foreignphrase lang="art-lojban">zu</foreignphrase></entry><entry>long time</entry><entry>time tense distance: long distance in time</entry></row>
 <row><entry><foreignphrase lang="art-lojban">zu'a</foreignphrase></entry><entry>on the left of</entry><entry> location tense relation/direction; leftwards/to the left of ...</entry></row>
