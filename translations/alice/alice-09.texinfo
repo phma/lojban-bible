@@ -6,16 +6,16 @@
                                    somo'o
 
 @c                         The Mock Turtle's Story
-                         lisri fi la jitfa cakyrespa
+                         lisri fi le jitfa cakyrespa
 
 
 @c      `You can't think how glad I am to see you again, you dear old
 @c    thing!' said the Duchess, as she tucked her arm affectionately
 @c    into Alice's, and they walked off together.
 
-i lu do ka'enai pensi le nu la'u makau mi gleki le nu mi do za'ure'u
-viska doi dirba slabu sei le noltroni'u cu cusku li'u i ny xe'ocni
-tagygau le ny birka le me la alis moi i ny joi abu cu kansi'u le ka
+i lu do ka'enai pensi le nu sela'u makau mi gleki le nu mi do za'ure'u
+viska doi dirba slabu sei le noltroni'u cu cusku li'u i ny xendo
+tagygau le ny birka le me la alis moi i ny joi abu kansi'u le nu
 cadzu cliva
 
 @c      Alice was very glad to find her in such a pleasant temper, and
@@ -23,8 +23,8 @@ cadzu cliva
 @c    made her so savage when they met in the kitchen.
 
 i la alis mutce gleki le nu zgana le nu ny pluka tarti i abu pensi le
-nu ju'ocu'i le spatrpiperi cu rinka le nu ny cilce ca le nu abu penmi ny
-le jupku'a
+du'u ju'ocu'i le tsaprpiperi cu rinka le nu ny cilce ca le nu abu penmi 
+ny le jupku'a
 
 @c      `When I'M a Duchess,' she said to herself, (not in a very
 @c    hopeful tone though), `I won't have any pepper in my kitchen AT
@@ -41,9 +41,10 @@ mutce tonga toi sezysku nosai tsaprpiperi ba zvati le mi jupku'a i lo'e
 stasu cu xamgu secau i cumki fa le nu roroiku lo tsaprpiperi cu rinka le
 nu lei prenu cu cpina tarti sei abu mutce se pluka be le nu facki lo
 cnino javni i lo sarvanju cu rinka le nu py slari tarti i lo spatrkamomili
-cu rinka le nu py kurki tarti i y i lo bavmi sukta e lo simsa cu rinka le
-nu lei verba cu titla tarti i au lei prenu cu djuno la'e di'u ja'e le nu
-py na mobdu'a sy li'o li'u
+cu rinka le nu py kurki tarti i y i lo bavmi sukta a lo simsa cu rinka le
+nu lei verba cu titla tarti i au lo'e prenu cu djuno la'e di'u ja'e le nu
+py na mobdu'a sy li'u
+
 @c You mean tsaprpiperi, don't you? Spatrpiperi is the plant. -phma  -ok.
 
 @c      She had quite forgotten the Duchess by this time, and was a
@@ -52,10 +53,10 @@ py na mobdu'a sy li'o li'u
 @c    forget to talk.  I can't tell you just now what the moral of that
 @c    is, but I shall remember it in a bit.'
 
-i caku abu nalmorji le noltroni'u gi'e milxe se spaji ca le nu tirna le
-ny voksa noi jibni le abu kerlo i lu do da pensi doi dirba i la'e di'u
-rinka le nu do morji le nu tavla i mi ka'enai ca cusku le sedu'u la'e di'u
-makau madni'i i ku'i mi bazi morji li'u
+i caku abu nalmorji fi le noltroni'u gi'e milxe se spaji ca le nu tirna 
+le ny voksa noi jibni le abu kerlo i lu do da pensi doi dirba i la'e di'u
+rinka le nu do tolmo'i le nu ei tavla i mi ka'enai ca cusku le sedu'u 
+la'e di'u makau madni'i i ku'i mi bazi morji li'u
 
 @c      `Perhaps it hasn't one,' Alice ventured to remark.
 
@@ -66,8 +67,9 @@ i lu ju'ocu'i madni'i noda sei la alis darsi te pinka li'u
 @c    closer to Alice's side as she spoke.
 
 i lu e'i doi verba sei le noltroni'u cu cusku roda de madni'i i sarcu
-fa le nu facki li'u i ny sezla'izengau la alis ca le nu tavla
-@c s/lamzma/la'izma/ -phma   -yes, and also s/zma/zen.
+fa le nu facki li'u i ny la'irze'a la alis ca le nu tavla
+
+@c s/lamzma/la'izma/ -phma   --yes, and also s/zma/ze'a.
 
 @c      Alice did not much like keeping so close to her:  first,
 @c    because the Duchess was VERY ugly; and secondly, because she was
@@ -75,28 +77,29 @@ fa le nu facki li'u i ny sezla'izengau la alis ca le nu tavla
 @c    and it was an uncomfortably sharp chin.  However, she did not
 @c    like to be rude, so she bore it as well as she could.
 
-i la alis na mutce nelci le nu jibni ny gepamai ki'u le nu le noltroni'u
-cu mutce le ka tolmelbi giremai ki'u le nu ny satci galtu mapti le nu
-vregau le firji'o le abu janco i tolkufra kinli firji'o i ku'i abu na
-nelci le nu tolclite iseki'ubo abu renvi rai le ka xamgu
+i la alis na mutce nelci le nu tai jibni ny gepamai ki'u le nu le 
+noltroni'u cu mutce le ka tolmelbi giremai ki'u le nu ny satci galtu 
+mapti le nu vregau le firji'o le abu janco i se tolkufra kinli firji'o 
+i ku'i abu na nelci le nu tolclite iseki'ubo abu renvi serai le ka 
+xamgu kei verai lei selka'e be abu
 
 @c      `The game's going on rather better now,' she said, by way of
 @c    keeping up the conversation a little.
 
-i lu le nunkei ca ca'o xagmau sei abu seta'i le nu revgau le nunsnu cu
+i lu le ca nunkei ca'o xagmau sei abu seta'i le nu stogau le nunsnu cu
 cusku li'u
 
 @c      `'Tis so,' said the Duchess:  `and the moral of that is--"Oh,
 @c    'tis love, 'tis love, that makes the world go round!"'
 
-i lu ie go'i sei le noltroni'u cu cusku i le la'e di'u madni'i la'e lu
+i lu ie go'i sei le noltroni'u cu cusku i la'e di'u madni'i la'e lu
 u'e nu prami i le nu prami cu rinka le nu le munje cu carna li'u li'u
 
 @c      `Somebody said,' Alice whispered, `that it's done by everybody
 @c    minding their own business!'
 
-i lu da xusra sei la alis tolylausku le du'u se go'i le nu ro de jundi
-le de cuntu li'u
+i lu ti'e rinka sei la alis lauble cusku fa le nu roda jundi le cuntu 
+be da li'u
 
 @c      `Ah, well!  It means much the same thing,' said the Duchess,
 @c    digging her sharp little chin into Alice's shoulder as she added,
@@ -120,9 +123,10 @@ pensi li'u
 
 i lu ju'o do pensi sezretsku le du'u makau krinu le nu mi na srupunji
 le mi birka le do xadmidju sei ba lo nundenpa le noltroni'u cu cusku
-i krinu fa le nu mi na'e lacri le do xagycpi le nu tarti i e'upei mi
+i krinu fa le nu mi na'e lacri le do fagycpi le nu tarti i e'upei mi
 troci le nu cipra li'u
-@c do skudji zo xagycpi ji zo fagypci? mi'e pier
+
+@c do skudji zo xagycpi ji zo fagypci? mi'e pier  --go'i
 
 @c      `HE might bite,' Alice cautiously replied, not feeling at all
 @c    anxious to have the experiment tried.
@@ -134,9 +138,9 @@ le nu cipra cu spuda li'u
 @c    bite.  And the moral of that is--"Birds of a feather flock
 @c    together."'
 
-i lu je'usai sei le noltroni'u cu cusku ge lo'e xagycpi gi lo'e
-sansrmustardo cu batci i la'e di'u madni'i la'e lu lei cipni poi pimlu
-dunli ckaji roroi jmaji li'u li'u
+i lu je'usai sei le noltroni'u cu cusku ge lo'e fagycpi gi lo'e
+sansrmustardo cu batci i la'e di'u madni'i la'e lu lo'e cipni poi 
+pimlu dunli ckaji cu roroi jmaji li'u li'u
 
 @c      `Only mustard isn't a bird,' Alice remarked.
 
@@ -145,8 +149,8 @@ i lu ku'i lo'e sansrmustardo na cipni sei la alis te pinka li'u
 @c      `Right, as usual,' said the Duchess:  `what a clear way you
 @c    have of putting things!'
 
-i lu ca je ta'e drani sei le noltroni'u cusku i i'o le nu do cusku cu
-klina le nu jimpe li'u
+i lu drani uecu'i sei le noltroni'u cu cusku i i'o le nu do cusku 
+cu klina le nu jimpe li'u
 
 @c      `It's a mineral, I THINK,' said Alice.
 
@@ -157,17 +161,18 @@ i lu sy kunra ba'e pe'i sei la alis cusku li'u
 @c    here.  And the moral of that is--"The more there is of mine, the
 @c    less there is of yours."'
 
-i lu li'a go'i sei le noltroni'u noi simlu le ka bredi le nu tugni la alis
-roda cusku i lo barda sansrmustardo terkunra vi jibni i la'e di'u madni'i
-la'e lu le nu lo memimoi cu zenba cu panra le nu lo medomoi cu jdika li'u
-li'u
+i lu li'a go'i sei le noltroni'u noi simlu le ka bredi le nu tugni la 
+alis roda cusku i lo barda ke sansrmustardo terkunra vi jibni i la'e 
+di'u madni'i la'e lu lo'e nu lo memimoi cu zenba cu panra lo'e nu lo 
+medomoi cu jdika li'u li'u
 
 @c      `Oh, I know!' exclaimed Alice, who had not attended to this
 @c    last remark, `it's a vegetable.  It doesn't look like one, but it
 @c    is.'
 
-i lu ue ka'u sei la alis noi na jundi le romoi pinka cu krisku i sy stagi
-i sy le ka go'i na catlu gi'eku'i ja'a ckaji li'u
+i lu ua ka'u sei la alis noi na jundi le romoi pinka cu krisku i sy 
+stagi i sy le ka go'i cu na catlu gi'eku'i ja'a ckaji li'u
+
 @c prula'i jenai romoi mi'e pier.  i ja'a romoi lei purci mi'e xorxes
 
 @c      `I quite agree with you,' said the Duchess; `and the moral of
@@ -192,8 +197,8 @@ va'o le nu ciska i ku'i mi ka'enai jimpe ca le nu do cusku li'u
 @c      `That's nothing to what I could say if I chose,' the Duchess
 @c    replied, in a pleased tone.
 
-i lu le nu di'u cu nomoi cu xe karbi di'u lo mi ka'e se cusku be va'o 
-le nu mi cuxna sei le noltroni'u cu se pluka tonga spuda li'u
+i lu di'u nova'e ci'u lei mi ka'e se cusku be va'o le nu mi cuxna sei 
+le noltroni'u cu se pluka tonga spuda li'u
 
 @c      `Pray don't trouble yourself to say it any longer than that,'
 @c    said Alice.
@@ -210,14 +215,14 @@ cusku be mi do li'u
 @c    give birthday presents like that!'  But she did not venture to
 @c    say it out loud.
 
-i lu tolkargu seldunda sei la alis pensi i mi gleki le nu na tai dunda 
-ca le jbedetri te salci li'u i ku'i abu na darsi le nu cladu cusku 
+i lu tolkargu seldunda sei la alis pensi i mi gleki le nu na ta'e tai 
+dunda ca le jbedetri te salci li'u i ku'i abu na darsi le nu cladu cusku 
 
 @c      `Thinking again?' the Duchess asked, with another dig of her
 @c    sharp little chin.
 
-i lu xu za'ure'u pensi sei ca le nu za'ure'u ca'ergau le kinli je cmalu
-firji'o kei le noltroni'u cu te preti li'u
+i lu xu za'ure'u pensi sei le noltroni'u ca le nu za'ure'u ca'ergau 
+le kinli je cmalu firji'o cu te preti li'u
 
 @c      `I've a right to think,' said Alice sharply, for she was
 @c    beginning to feel a little worried.
@@ -228,7 +233,7 @@ i lu mi zifre le nu pensi sei la alis noi co'a xanka cu kinli cusku li'u
 @c    and the m--'
 
 i lu du'i le nu zifre sei le noltroni'u cu cusku fa lo'e xarju le nu vofli
-i la'e di'u ma-- li'o li'u
+i la'e di'u madni'i li'u
 
 @c      But here, to Alice's great surprise, the Duchess's voice died
 @c    away, even in the middle of her favourite word `moral,' and the
@@ -244,7 +249,7 @@ cu sanli ca'u la alis joi le noltroni'u gi'e lindi frumu
 @c      `A fine day, your Majesty!' the Duchess began in a low, weak
 @c    voice.
 
-i lu xamgu djedi doi nolba'i sei le noltroni'u co'a tolylau je ruble
+i lu xamgu donri doi nolba'i sei le noltroni'u co'a lauble je ruble
 voksa cusku li'u
 
 @c      `Now, I give you fair warning,' shouted the Queen, stamping on
@@ -252,7 +257,7 @@ voksa cusku li'u
 @c    and that in about half no time!  Take your choice!'
 
 i lu o'i pa'e sei le noltruni'u ca le nu darxi le loldi le jamfu cu
-krixa do a le do stedu cu ei se vimcu i go'i zi pimu lo temci nomei
+krixa do a le do stedu cu ei se vimcu i go'i ze'i pimu lo temci nomei
 i ko cuxna li'u
 
 @c      The Duchess took her choice, and was gone in a moment.
@@ -274,8 +279,8 @@ fa'a le kelcrkroke foldi
 
 i lei drata vitke cu se prali le nu surla bu'u le ctino kei le nu le
 noltruni'u cu nalzvati i ku'i ca le nu viska ny kei vy zi sutra le nu
-xruti le nu kelci i le noltruni'u ja'aru'e te pinka le du'u lo mokca
-nunlerci cu se jdima lei vy jmive
+xruti le nu kelci i le noltruni'u cu te pinka le po'o du'u lo mokca
+nunlerci cu se jdima lei vy nunjmive
 
 @c      All the time they were playing the Queen never left off
 @c    quarrelling with the other players, and shouting `Off with his
@@ -287,17 +292,17 @@ nunlerci cu se jdima lei vy jmive
 @c    execution.
 
 i ze'a piro le nu kelci kei le noltruni'u noroi de'a damba lei drata
-kelci gi'e krixa lu ko le stedu ta vimcu li'u a lu ko le stedu tu
-vimcu li'u i lei se dapma be ny cu se klagau lei sonci noi li'a de'a
-bargu i ba za lo cacra be li ji'ipimu ge no bargu cu zvati gi ro le
-kelci po'u na'ebo le noltrunau a le noltruni'u a la alis cu pinfu gi'e
-se dapma fi le nu se selmi'ecatra
+kelci gi'e noroi de'a krixa lu ko le stedu ta vimcu li'u a lu ko le 
+stedu tu vimcu li'u i lei se dapma be ny cu se klagau lei sonci noi 
+li'a de'a bargu i ba za lo cacra be li ji'ipimu ge no bargu cu zvati 
+gi ro le kelci po'u na'ebo le noltrunau a le noltruni'u a la alis cu 
+pinfu gi'e se dapma fi le nu se selmi'ecatra
 
 @c      Then the Queen left off, quite out of breath, and said to
 @c    Alice, `Have you seen the Mock Turtle yet?'
 
-i le noltruni'u cu cliva gi'e cusku fi la alis fe lu xu do pu viska
-le jitfa cakyrespa li'u
+ibabo le noltruni'u cu tatpi cliva gi'e cusku fi la alis fe lu xu 
+do pu viska le jitfa cakyrespa li'u
 
 @c      `No,' said Alice.  `I don't even know what a Mock Turtle is.'
 
@@ -311,20 +316,20 @@ cu cusku li'u
 
 @c      `I never saw one, or heard of one,' said Alice.
 
-i mi pu noroi viska sei la alis cusku li'u
+i mi pu noroi ga viska cy gi se tavla fi cy sei la alis cusku li'u
 
 @c      `Come on, then,' said the Queen, `and he shall tell you his
 @c    history,'
 
-i lu e'e mi'o klama sei le noltruni'u cu cusku i cy ba te lisri cy fo
-do li'u
+i lu e'e mi'o klama sei le noltruni'u cu cusku i ba lisri cy boi cy do
+li'u
 
 @c      As they walked off together, Alice heard the King say in a low
 @c    voice, to the company generally, `You are all pardoned.'  `Come,
 @c    THAT'S a good thing!' she said to herself, for she had felt quite
 @c    unhappy at the number of executions the Queen had ordered.
 
-i ca le nu cliva cadzu kei la alis tirna le nu le noltrunau tolylau
+i ca le nu cliva cadzu kei la alis tirna le nu le noltrunau cu lauble
 voksa cusku fi lei zvati fe lu ro do se fraxu li'u i lu ri'e la'e ba'e
 di'u xamgu sei abu sezysku i abu pu cinmo le nu tolgleki le nu le
 noltruni'u cu minde xokau nuncatra
@@ -341,13 +346,13 @@ noltruni'u cu minde xokau nuncatra
 
 i bazibo penmi le cpicinfo noi sipna mutce vreta le se solgu'i to e'u
 ko va'o le nu na djuno le du'u makau cpicinfo cu catlu le pixra toi
-i lu ko sa'irbi'o doi lazni sei le noltruni'u cu cusku i ko klagau le
+i lu ko sanli doi lazni sei le noltruni'u cu cusku i ko klagau le
 vi citno ninmu le nu viska le jitfa cakyrespa gi'e tirna le cy lisri
 i ei mi xruti gi'e jitro so'o nuncatra noi mi minde li'u i ny cadzu
 cliva la alis noi stali le cpicinfo i la alis na mutce le ka nelci
-le jvinu be le danlu i ku'i abu pensi le du'u le ka abu snura ce'u
-cu te dunli le nu stali cy kei le nu jersi le cilce noltruni'u i
-seki'ubo abu denpa
+le jvinu be le danlu i ku'i abu pensi le du'u se snura dunli fa le nu 
+stali cy kei le nu jersi le cilce noltruni'u i seki'ubo abu denpa
+
 @c "va'o le nu na djuno le du'u makau cpicinfo kei ko catlu le pixra"
 @c was missing a "kei". And that's a te dunli, not a se dunli -- nitcion
 
@@ -366,15 +371,15 @@ i lu u'i ba'e mo sei la alis cusku li'u
 @c      `Why, SHE,' said the Gryphon.  `It's all her fancy, that:  they
 @c    never executes nobody, you know.  Come on!'
 
-i lu ue tu sei le cpicinfo i roda tu xanri i ju'o noroi selse'icatra da
-i ei klama li'u
+i lu ue tu sei le cpicinfo cu cusku i roda tu xanri i ju'o noroi 
+selse'icatra da i ei klama li'u
 
 @c      `Everybody says "come on!" here,' thought Alice, as she went
 @c    slowly after it:  `I never was so ordered about in all my life,
 @c    never!'
 
-i lu roda cusku lu ei klama li'u viku sei la alis ca le nu masno jersi
-cy cu pensi i mi pu se minde noroi le nu mi jmive li'u
+i lu roda cusku zo ei bu'uku sei la alis ca le nu masno jersi cy cu 
+pensi i mi pu tai se minde noroi le nu mi jmive li'u
 
 @c      They had not gone far before they saw the Mock Turtle in the
 @c    distance, sitting sad and lonely on a little ledge of rock, and,
@@ -386,10 +391,11 @@ cy cu pensi i mi pu se minde noroi le nu mi jmive li'u
 
 i pu le nu darno klama kei viska le jitfa cakyrespa noi zu badri je
 nonkansa zutse lo cmalu ke rokci ctebi i ca le nu jbikla kei la alis
-cu tirna le nu jycy vruva'u tai le nu le risna pu'o spofu i abu carmi
-le ka kecti jycy i lu tu ma badri sei abu fi le cpicinfo cu retsku
-li'u i le cpicinfo cu spuda sepi'o lei valsi poi jibni mintu lei pu
-valsi ge'u lu roda tu xanri i ju'o tu node badri i ei klama li'u
+tirna le nu jycy vruva'u tai le nu mutce badri i abu carmi le ka kecti 
+jycy i lu tu ma badri sei abu fi le cpicinfo cu retsku li'u i le 
+cpicinfo cu spuda sepi'o lei valsi poi jibni mintu lei pu valsi ku'o 
+lu roda tu xanri i ju'o tu node badri i ei klama li'u
+
 @c lu le risna pu'o spofu li'u malglico - it means he had heart failure.
 
 @c      So they went up to the Mock Turtle, who looked at them with
@@ -435,10 +441,10 @@ cakyrespa li'u
 
 i lei di'u valsi cu se jersi lo nu ze'u smaji noi zunti ke'a fa po'o
 le ru'inai me zo xyjyckryrx se krixa be le cpicinfo e le ru'i tilju
-nunvruvasxu be le jitfa cakyrespa i la alis cu jibni le nu sa'irbi'o
-gi'e cusku lu ki'e doi prenu ckire fi le do cinri lisri li'u gi'eku'i
-na ka'e rivbi le nu pensi le du'u eikau daji'a jersi i seki'ubo abu
-smaji zutse gi'e cusku noda
+nunvruvasxu be le jitfa cakyrespa i la alis pu'o sa'irbi'o je cusku 
+lu ki'e doi prenu mi do ckire le do cinri lisri li'u gi'e ku'i na ka'e 
+rivbi le nu pensi le du'u ei daji'a jersi i seki'ubo abu smaji zutse 
+gi'e cusku noda
 
 @c      `When we were little,' the Mock Turtle went on at last, more
 @c    calmly, though still sobbing a little now and then, `we went to
@@ -470,7 +476,7 @@ le jitfa cakyrespa cu fange cusku i je'u do bebna mutce li'u
 i lu ei do ckeji le nu cusku lo tai sampu preti sei le cpicinfo cu jmina
 cusku li'u ibabo le remei cu smaji zutse gi'e catlu la alis uu noi cinmo
 le nu bredi le nu se tunlo le terdi ibazubo le cpicinfo cu cusku fi le
-jitfa cakyrespa fe lu e'e doi slabu ko na co'e ze'a piro le djedi li'u
+jitfa cakyrespa fe lu e'e doi slabu ko na co'e ze'a piro le donri li'u
 i jycy di'a cusku di'e
 
 @c      `Yes, we went to school in the sea, though you mayn't believe
@@ -484,7 +490,7 @@ i lu mi noroi cusku le sedu'u mi na go'i sei la alis cu zunti li'u
 
 @c      `You did,' said the Mock Turtle.
 
-i lu do go'i sei le jitfa cakyrespa cu cusku li'u
+i lu do ja'a go'i sei le jitfa cakyrespa cu cusku li'u
 
 @c      `Hold your tongue!' added the Gryphon, before Alice could speak
 @c    again.  The Mock Turtle went on.
@@ -495,22 +501,22 @@ tavla cu jmina cusku li'u i le jitfa cakyrespa cu di'a co'e
 @c      `We had the best of educations--in fact, we went to school
 @c    every day--'
 
-i lu mi'a cilre fu le xagrai i je'u mi'a zvati le ckule ca ro djedi li'u
+i lu mi'a cilre fu le xagrai i je'u mi'a zvati le ckule ca ro donri li'u
 
 @c      `I'VE been to a day-school, too,' said Alice; `you needn't be
 @c    so proud as all that.'
 
-i lu mi ji'a zvati lo djedi ckule sei la alis cusku i ei do na tai jgira
+i lu mi ji'a zvati lo donri ckule sei la alis cusku i ei do na tai jgira
 li'u
 
 @c      `With extras?' asked the Mock Turtle a little anxiously.
 
-i lu xu cilre le seljmina sei le jitfa cakyrspa cu xanka milxe retsku
+i lu xu cilre fi le seljmina sei le jitfa cakyrspa cu xanka milxe retsku
 li'u
 
 @c      `Yes,' said Alice, `we learned French and music.'
 
-i lu go'i sei la alis cusku i mi'a cilre le fasybau e le zgike li'u
+i lu go'i sei la alis cusku i mi'a cilre fi le fasybau e le zgike li'u
 
 @c      `And washing?' said the Mock Turtle.
 
@@ -524,7 +530,7 @@ i lu li'a na go'i sei la alis fengu cusku li'u
 @c    Turtle in a tone of great relief.  `Now at OURS they had at the
 @c    end of the bill, "French, music, AND WASHING--extra."'
 
-i lu ua le medo'omoi na mutce le ka xamgu ckule sei le jitfa cakyrespa
+i lu ua le medomoi na mutce le ka xamgu ckule sei le jitfa cakyrespa
 cu surbi'o mutce tonga cusku i le dejnoi be fi le memi'amoi cu se fanmo
 lu le fasybau e le zgike ba'e e le nu lumci cu seljmina li'u li'u
 
@@ -579,7 +585,7 @@ le nu do na jimpe natfe jimpe li'u
 @c    to learn?'
 
 i la alis na darsi le nu za'ure'u te preti la'e di'u i abu fa'a le jitfa
-cakyrespa cu cusku lu do cilre ma ji'a li'u
+cakyrespa cu cusku lu do cilre fi ma ji'a li'u
 
 @c      `Well, there was Mystery,' the Mock Turtle replied, counting
 @c    off the subjects on his flappers, `--Mystery, ancient and modern,
@@ -606,7 +612,7 @@ le ka tinsa i ji'a le cpicinfo noroi cilre li'u
 @c      `Hadn't time,' said the Gryphon:  `I went to the Classics
 @c    master, though.  He was an old crab, HE was.'
 
-i lu claxu le temci sei le cpicinfo cu cusku i mi zvati le dzeklu
+i lu claxu lo'e temci sei le cpicinfo cu cusku i mi zvati le dzeklu
 ctuca i ri tolci'o xasyjukni i go'i li'u
 
 @c      `I never went to him,' the Mock Turtle said with a sigh:  `he
@@ -624,15 +630,15 @@ re danlu cu gairgau le vo'a xance le vo'a flira
 @c      `And how many hours a day did you do lessons?' said Alice, in a
 @c    hurry to change the subject.
 
-i lu do cilre ca ro djedi ze'a lo cacra be li xo sei la alis noi
+i lu pau do cilre ca ro donri ze'a lo cacra be li xo sei la alis noi
 djica le nu sutra galfi le selsnu cu cusku li'u
 
 @c      `Ten hours the first day,' said the Mock Turtle: `nine the
 @c    next, and so on.'
 
-i lu ze'a lo cacra be li pare ca le pamoi djedi e le remoi djedi sei
-le jitfa cakyrespa cu cusku i li so le cimoi e le vomoi i li'oli'o
-li'u
+i lu ze'a lo cacra be li pare ca le pamoi donri e le remoi donri sei
+le jitfa cakyrespa cu cusku i li so le cimoi e le vomoi i li xa le
+mumoi e le xamoi i li'oli'o li'u
 
 @c      `What a curious plan!' exclaimed Alice.
 
@@ -648,9 +654,8 @@ lo cacra be li ba'e CI ca ro djedi be li ba'e RE li'u
 @c    little before she made her next remark.  `Then the eleventh day
 @c    must have been a holiday?'
 
-i le sidbo cu mutce cnino la alis i abu pensi ze'a lo milxe pu le nu
-te pinka fi lu ja'o je'upei ca le somoi djedi e le panomoi djedi cu 
-zifre li'u
+i le sidbo cu mutce cnino la alis i abu ze'a pensi pu le nu te pinka 
+fi lu ja'o je'upei ca le somoi donri e le panomoi donri cu zifre li'u
 
 @c      `Of course it was,' said the Mock Turtle.
 
@@ -658,7 +663,7 @@ i lu je'u li'a go'i sei le jitfa cakyrespa li'u
 
 @c      `And how did you manage on the twelfth?' Alice went on eagerly.
 
-i lu mo ca le papamoi djedi sei la alis di'a kucli cusku li'u
+i lu mo ca le papamoi donri sei la alis di'a kucli cusku li'u
 
 @c      `That's enough about lessons,' the Gryphon interrupted in a
 @c    very decided tone:  `tell her something about the games now.'
