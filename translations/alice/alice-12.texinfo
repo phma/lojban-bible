@@ -428,15 +428,28 @@ i le se paijdi cu za'umoi li'u
 @c      `Stuff and nonsense!' said Alice loudly.  `The idea of having
 @c    the sentence first!' 
 
+i lu bebna je nalprije sei la alis cladu cusku i ionai oi pamoi fa le
+se sfami'e li'u
+
 @c      `Hold your tongue!' said the Queen, turning purple.
 
+i lu ko ri'urgau le do tance sei le noltruni'u noi zirpu binxo cu cusku li'u
+
 @c      `I won't!' said Alice.
+
+i lu ai mi na go'i sei la alis cu cusku li'u
 
 @c      `Off with her head!' the Queen shouted at the top of her voice.
 @c    Nobody moved.
 
+i lu ko le stedu ta vimcu sei le noltruni'u cu voksa launrai krixa li'u
+i no da muvdu
+
 @c      `Who cares for you?' said Alice, (she had grown to her full
 @c    size by this time.)  `You're nothing but a pack of cards!'
+
+i lu ma do terpa sei la alis noi ca ba'o banro le abu tcaci barda cu 
+cusku i ga'i do na'e drata be lo kardymei li'u
 
 @c      At this the whole pack rose up into the air, and came flying
 @c    down upon her:  she gave a little scream, half of fright and half
