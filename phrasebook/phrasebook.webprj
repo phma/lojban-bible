@@ -11,6 +11,9 @@ Time=32
 [kanro.html]
 URL=kanro.html
 Time=3107695
+[jdini.html]
+URL=jdini.html
+Time=32
 [cidja.html]
 URL=cidja.html
 Time=32
@@ -24,5 +27,8 @@ Host=
 [General Options]
 Name=phrasebook
 Base URL=
-Files=litru.html,kanro.html,index.html,cidja.html,bacru.html,detri.html,
-Open Files=/home/phma/lojban/cvs/lojban/phrasebook/bacru.html,/home/phma/lojban/cvs/lojban/phrasebook/kanro.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,/home/phma/lojban/cvs/lojban/phrasebook/index.html,
+Files=jdini.html,rinsa.html,litru.html,kanro.html,index.html,cidja.html,bacru.html,detri.html,
+Open Files=/home/phma/lojban/cvs/lojban/phrasebook/index.html,/home/phma/lojban/cvs/lojban/phrasebook/bacru.html,/home/phma/lojban/cvs/lojban/phrasebook/kanro.html,/home/phma/lojban/cvs/lojban/phrasebook/detri.html,/home/phma/lojban/cvs/lojban/phrasebook/litru.html,/home/phma/lojban/cvs/lojban/phrasebook/cidja.html,/home/phma/lojban/cvs/lojban/phrasebook/rinsa.html,/home/phma/lojban/cvs/lojban/phrasebook/jdini.html,
+[rinsa.html]
+URL=rinsa.html
+Time=32
