@@ -21,6 +21,9 @@
 @c    1:1. Let him kiss me with the kiss of his mouth:  for thy breasts are
 @c    better than wine,
 
+1:1. ni'oni'o .e'a ko'a poi nakni ku'o cinba mi tai le cinba poi
+le ko'a moklu .imu'ibo le do kamprami cu zmadu loi vanju
+
 @c    Let him kiss me. . .The church, the spouse of Christ, prays that he may
 @c    love and have peace with her, which the spouse prefers to every thing
 @c    delicious:  and therefore expresses (ver. 2) that young maidens, that is
@@ -29,10 +32,25 @@
 @c    1:2. Smelling sweet of the best ointments.  Thy name is as oil poured
 @c    out:  therefore young maidens have loved thee.
 
+1:2. .i pluka fa le panci be do .i le cmene be do tai loi ctile cu
+ze'o cavyfle .i .uenai lo nixli puco'i gletu do
+@c help!  I don't have any idea how to get the ointment/perfume stuff in
+@c there (same thing in 1:3) -jrd.
+
 @c    1:3. Draw me:  we will run after thee to the odour of thy ointments.  The
 @c    king hath brought me into his storerooms:  we will be glad and rejoice
 @c    in thee, remembering thy breasts more than wine:  the rightous love
 @c    thee.
+
+1:3. .i ko lapcu mi .i mi'a ba jersi do fi'o selkla le panci be do
+.i le nolraitru pu crumi lenu mi nenri le ri sipku'a .i mi'a do
+gleki je salci do ca leza'i morji fi le do kamprami .enai lei vanju
+.i da poi drani prenu cu prami do
+@c .oi the last sentence is pretty bad... a lot of translations say more
+@c along the lines of "right they are to love you", which I would imagine
+@c is refering to the aformentioned virgins.  I'm not sure if it would be
+@c correct to assume that meaning and go with something like "lo nixli cu
+@c drani leka gletu do"... -jrd
 
 @c    Draw me. . .That is, with thy grace:  otherwise I should not be able to
 @c    come to thee.  This metaphor shews that we cannot of ourselves come to
@@ -42,8 +60,17 @@
 @c    in the Old Law in figure only, and afterwards in reality by his only
 @c    begotten Son Jesus Christ.
 
+@c jesus (no pun)!  these annotations are painful (and more likely than not
+@c completely incorrect). -jrd
+
 @c    1:4. I am black but beautiful, O ye daughters of Jerusalem, as the
 @c    tents of Cedar, as the curtains of Solomon.
+
+1:4. .i mi xekri gi'e ku'i melbi doi tixnu pe'a be la DJErusalem fi da
+poi simsa le murzda pe la kedar. .e le murta pe la solomon.
+@c the various translations i looked at are ambigious as to whether the
+@c speaker is black in the qualities described, or beautiful in them; I went
+@c with the latter because melbi has a place for it .u'i -jrd
 
 @c    I am black but beautiful. . .That is, the church of Christ founded in
 @c    humility appearing outwardly afflicted, and as it were black and
@@ -54,13 +81,28 @@
 @c    my colour:  the sons of my mother have fought against me, they have made
 @c    me the keeper in the vineyards:  my vineyard I have not kept.
 
+1:5. .i ko na caltu mi mu'i leza'i mi xekri ri'a lenu gau le solri
+le mi skari cu binxo .i le bersa be le mi mamta cu damba mi .i tu'a
+ri rinka lenu mi kurji le vanju foldi .iku'i le mi vanju foldi na
+se kurji mi
+
 @c    1:6. Shew me, O thou whom my soul loveth, where thou feedest, where
 @c    thou liest in the midday, lest I begin to wander after the flocks of
 @c    thy companions.
 
+1:6. .i ko tavba'u fi mi doi do noi le mi ruxse'i cu prami ke'a
+ku'o ledu'u vi makau gau do le do terlanme cu citka loi srasu kei
+.e ledu'u vi makau gau do le do terlanme cu sipna ca lo mijdo'i
+.isemu'ibo paunai mu'i ma fe laza'i mi simsa lo ninmu poi dasni lo
+firmu'a cu karbi le terlanme poi kansa do
+
 @c    1:7. If thou know not thyself, O fairest among women, go forth, and
 @c    follow after the steps of the flocks, and feed thy kids beside the
 @c    tents of the shepherds.
+
+1:7. .i ganai do na djuno doi do noi traji leka melbi gi ko klama
+gi'e rixykansa le jamfu po'e le terlanme gi'e gasnu lenu le do kanba
+re'o le murzda pe le lanli'e
 
 @c    If thou know not thyself, etc. . .Christ encourages his spouse to follow
 @c    and watch her flock:  and though she know not entirely the power at hand
@@ -72,28 +114,58 @@
 @c    1:8. To my company of horsemen, in Pharao's chariots, have I likened
 @c    thee, O my love.
 
+1:8. .i mi do karbi loi xirma pe le la faros xirxelkla doi do noi
+mi prami ke'a
+
 @c    1:9. Thy cheeks are beautiful as the turtledove's, thy neck as jewels.
 
+1:9. .i le flira be do cu melbi fi tu'a lo jemna .i le cnebo be do cu
+go'i fi tu'a le linsi poi solji
+
 @c    1:10. We will make thee chains of gold, inlaid with silver.
+
+1:10. .i mi'a ba zbasu le solji linsi poi rijno linji
 
 @c    1:11. While the king was at his repose, my spikenard sent forth the
 @c    odour thereof.
 
+@c anyone know how to better fu'ivla-ify "Nardostachys jatamansi"?  Or perhaps
+@c would be better to do as some translations and just say "my perfume"? -jrd
+1:11. .i ca lenu le nolraitru pu vreta kei le mi genjrnardostatce cu benji
+le panci be ri
+
 @c    1:12. A bundle of myrrh is my beloved to me, he shall abide between my
 @c    breasts.
+
+1:12. .i pe'a me lo bakfu be la mir. fa le mi selprami .i ri ba
+vreta le jbini be le'i mi tatru
 
 @c    1:13. A cluster of cypress my love is to me, in the vineyards of
 @c    Engaddi.
 
+@c spatrsupresu is attempted fu'ivla of genus Cupressus. --jrd
+1:13. .i pe'a me lo spatrsupresu girzu poi xabju le vanju foldi be
+vi la engadis fa le mi selprami
+
 @c    1:14. Behold thou are fair, O my love, behold thou are fair, thy eyes
 @c    are as those of doves.
+
+1:14. .i ko viska leza'i do melbi doi do noi mi prami ke'a .i ko viska
+leza'i do melbi .i le do klana cu simsa lo papcpi
 
 @c    1:15. Behold thou art fair, my beloved, and comely.  Our bed is
 @c    flourishing.
 
+1:15. .i ko viska leza'i do melbi doi do noi mi prami ke'a ku'o gi'e cinse
+trina .iji'a le mi'o ckana cu crino
+@c other translations use "green" or "verdant".  I'm not sure if a pe'a
+@c should be attached or not.. --jrd
+
 @c    1:16. The beams of our houses are of cedar, our rafters of cypress
 @c    trees.
 
+1:16. .i le mi'o zdani cu se zbasu fi lei mudri be lo tricrsedrus
+.e lo spatrsupresu tricu
 
 
 @c    Canticle of Canticles Chapter 2
