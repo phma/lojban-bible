@@ -390,7 +390,9 @@ cusku li'u
 @c    dear, I think?' he said to the Queen.
 
 i lu ua ta zvati sei le noltrunau noi jarco lei rutytisna noi cpana le
-jubme cu jinga cusku i noda ka'e klimau 
+jubme cu jinga cusku i noda ka'e klimau la'e di'u i ku'i lu pu le nu ta
+fengu tarti li'u i do noroi fengu tarti doi dirba pe'i je'upei sei ny
+fi le noltruni'u cu cusku li'u
 
 @c      `Never!' said the Queen furiously, throwing an inkstand at the
 @c    Lizard as she spoke.  (The unfortunate little Bill had left off
@@ -398,17 +400,33 @@ jubme cu jinga cusku i noda ka'e klimau
 @c    mark; but he now hastily began again, using the ink, that was
 @c    trickling down his face, as long as it lasted.)
 
+i lu noroi sei le noltruni'u cu fengu mutce cusku li'u i ny renro lo 
+xinmo vasru le rebyrespa ca le nu tavla i to la bil uu pu de'a ciska
+fi le tabno sepi'o lo degji mu'i le nu dy na mornygau i ku'i ry sutra
+di'a co'e sepi'o le xinmo noi carvi le ry flira ku'o ze'a le nu xy 
+renvi toi 
+
 @c      `Then the words don't FIT you,' said the King, looking round
 @c    the court with a smile.  There was a dead silence.
+
+i lu seki'ubo lei valsi do na mapti sei le noltrunau cu cusku li'u i
+ny cisma catlu le sruri i morsi smaji   
 
 @c      `It's a pun!' the King added in an offended tone, and
 @c    everybody laughed, `Let the jury consider their verdict,' the
 @c    King said, for about the twentieth time that day.
 
+i lu mi pu vlakei sei le noltrunau cu jgicro tonga jmina li'u i roda
+cmila i lu e'i le pairkamni cu pensi le se paijdi sei le noltrunau
+ji'irenore'u le djedi cu cucsku li'u
+
 @c      `No, no!' said the Queen.  `Sentence first--verdict afterwards.'
 
+i lu na go'i i na go'i sei le noltruni'u cu cusku i le se sfami'e cu pamoi
+i le se paijdi cu za'umoi li'u
+
 @c      `Stuff and nonsense!' said Alice loudly.  `The idea of having
-@c    the sentence first!'
+@c    the sentence first!' 
 
 @c      `Hold your tongue!' said the Queen, turning purple.
 
