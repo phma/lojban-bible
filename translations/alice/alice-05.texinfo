@@ -20,6 +20,9 @@ moklu gi'e .o'udai .a'inaidai cusku fi ko'a
 @c      `Who are YOU?' said the Caterpillar.
 
 .i lu doi ba'e ma li'u se cusku le ciftoldi
+@c The English rhymes, so some variation on "do mo" is probably
+@c a good idea. --Adam
+
 
 @c      This was not an encouraging opening for a conversation.  Alice
 @c    replied, rather shyly, `I--I hardly know, sir, just at present--
