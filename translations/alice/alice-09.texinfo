@@ -390,19 +390,36 @@ valsi ge'u lu roda tu xanri i ju'o tu node badri i ei klama li'u
 @c      So they went up to the Mock Turtle, who looked at them with
 @c    large eyes full of tears, but said nothing.
 
+i klama le jitfa cakyrespa noi catlu sepi'o loi barda je selkakclu
+kanla gi'eku'i cusku noda
+
 @c      `This here young lady,' said the Gryphon, `she wants for to
 @c    know your history, she do.'
+
+i lu le vi citno ninmu zo'u sei le cpicinfo cu cusku ti djica le nu 
+djuno fi le do lisri i go'i li'u
 
 @c      `I'll tell it her,' said the Mock Turtle in a deep, hollow
 @c    tone:  `sit down, both of you, and don't speak a word till I've
 @c    finished.'
 
+i lu mi ti ly tavla sei le jitfa cakyrespa cu condi je kunti tonga
+cusku i e'u le re do tsebi'o gi'enai cusku lo valsi pu le nu mi mo'u
+co'e li'u
+
 @c      So they sat down, and nobody spoke for some minutes.  Alice
 @c    thought to herself, `I don't see how he can EVEN finish, if he
 @c    doesn't begin.'  But she waited patiently.
 
+i le remei cu tsebi'o i no da tavla ze'a lo mentu be li so'o i la alis
+pensi lu mi na jimpe le du'u ta ka'e mo'u co'e ta'i makau va'o le nu 
+na co'a co'e li'u gi'eku'i tolxanka denpa 
+
 @c      `Once,' said the Mock Turtle at last, with a deep sigh, `I was
 @c    a real Turtle.'
+
+i lu puku sei le jitfa cakyrespa cu condi vruvasxu cusku mi jetnu 
+cakyrespa li'u
 
 @c      These words were followed by a very long silence, broken only
 @c    by an occasional exclamation of `Hjckrrh!' from the Gryphon, and
@@ -411,15 +428,33 @@ valsi ge'u lu roda tu xanri i ju'o tu node badri i ei klama li'u
 @c    interesting story,' but she could not help thinking there MUST be
 @c    more to come, so she sat still and said nothing.
 
+i lei di'u valsi cu se jersi lo nu ze'u smaji noi zunti ke'a fa po'o  
+le ru'inai me zo xyjyckryrx se krixa be le cpicinfo e le ru'i tilju 
+nunvruvasxu be le jitfa cakyrespa i la alis cu jibni le nu sa'irbi'o
+gi'e cusku lu ki'e doi prenu ckire fi le do cinri lisri li'u gi'eku'i
+na ka'e rivbi le nu pensi le du'u eikau daji'a jersi i seki'ubo abu
+smaji zutse gi'e cusku noda
+
 @c      `When we were little,' the Mock Turtle went on at last, more
 @c    calmly, though still sobbing a little now and then, `we went to
 @c    school in the sea.  The master was an old Turtle--we used to call
 @c    him Tortoise--'
 
+i lu ca le nu mi'a cmalu sei le jitfa cakyrespa noi ca surla zenba gi'e
+ku'i ru'inai za'o milxe vruvasxu cu di'a cusku mi'a ve ckule le xamsi
+i le ralju cu tolcitno cakyrespa noi lu ractu canmi'a li'u cmene ke'a 
+mi'a li'u
+
 @c      `Why did you call him Tortoise, if he wasn't one?' Alice asked.
+
+i lu ki'u ma do'o te cmene ra lu ractu canmi'a li'u va'o le nu ra na 
+ractu sei la alis te preti li'u 
 
 @c      `We called him Tortoise because he taught us,' said the Mock
 @c    Turtle angrily:  `really you are very dull!'
+
+i lu mi'a te cmene ra lu ractu canmi'a li'u ki'u le nu ra ctuca mi'a sei
+le jitfa cakyrespa cu fange cusku i je'u do bebna mutce li'u
 
 @c      `You ought to be ashamed of yourself for asking such a simple
 @c    question,' added the Gryphon; and then they both sat silent and
@@ -427,12 +462,24 @@ valsi ge'u lu roda tu xanri i ju'o tu node badri i ei klama li'u
 @c    last the Gryphon said to the Mock Turtle, `Drive on, old fellow!
 @c    Don't be all day about it!' and he went on in these words:
 
+i lu ei do ckeji le nu cusku lo tai sampu preti sei le cpicinfo cu jmina
+cusku li'u ibabo le remei cu smaji zutse gi'e catlu la alis uu noi cinmo 
+le nu bredi le nu se tunlo le terdi ibazubo le cpicinfo cu cusku fi le 
+jitfa cakyrespa fe lu e'e doi slabu ko na co'e ze'a piro le djedi li'u
+i jycy di'a cusku di'e 
+
 @c      `Yes, we went to school in the sea, though you mayn't believe
 @c    it--'
 
+i lu re'u mi'a te ckule le xamsi iju do la'e di'u na krici li'u
+
 @c      `I never said I didn't!' interrupted Alice.
 
+i lu mi noroi cusku le sedu'u mi na go'i sei la alis cu zunti li'u
+
 @c      `You did,' said the Mock Turtle.
+
+i lu do go'i sei le jitfa cakyrespa cu cusku li'u
 
 @c      `Hold your tongue!' added the Gryphon, before Alice could speak
 @c    again.  The Mock Turtle went on.
