@@ -11,11 +11,10 @@
 @c    pictures or conversations in it, `and what is the use of a book,'
 @c    thought Alice `without pictures or conversation?'
 
-la alis. goi ko'a co'a tatpi le za'i zutse be le rirxe korbi bei re'o le
-ko'a mensi be'o gi'e zukte fi noda .i ko'a paroi ja reroi sutra zgana le
-cukta goi ko'e pe le ko'a mensi .iku'i ko'e vasru le no pixra ja casnu
-.i lu ji'a tepi'o ma le cukta vasru le no pixra ja casnu li'u se cusku
-se pensi ko'a
+la alis co'a tatpi le nu zutse le rirxe korbi re'o le mensi gi'e zukte 
+fi noda i abuboi paji'ireroi sutra zgana le cukta poi le mensi cu tcidu
+i ku'i cy vasru no pixra ja nuncasnu i lu ji'a ma prali sei la alis pensi 
+fi lo cukta poi vasru no pixra ja nuncasnu li'u
 
 @c      So she was considering in her own mind (as well as she could,
 @c    for the hot day made her feel very sleepy and stupid), whether
@@ -129,6 +128,7 @@ stuzrlatitudi gi'e stuzrlongitudi li'u i to la alis nasai djuno le
 du'u makau smuni ga zo stuzrlatitudi gi zo stuzrlongitudi i ku'i abu
 jinvi le du'u melbi je banli valsi toi
 @c {mo'ini'a mo'ini'a mo'ini'a} doesn't parse. But then neither does the English.
+@c There is a problem with the parser. Three tenses in a row should parse.
 
 @c      Presently she began again.  `I wonder if I shall fall right
 @c    THROUGH the earth!  How funny it'll seem to come out among the
@@ -142,9 +142,9 @@ jinvi le du'u melbi je banli valsi toi
 @c    an ignorant little girl she'll think me for asking!  No, it'll
 @c    never do to ask:  perhaps I shall see it written up somewhere.'
 
-i caku abu za'ure'u co'a co'e i lu mi kucli le du'u xukau mi ba farlu
+i caku abuboi za'ure'u co'a co'e i lu mi kucli le du'u xukau mi ba farlu
 ba'e pagre le terdi i u'isai tolcanci le jbini be lei prenu poi cadzu
-fau le nu le stedu cu cnita i pe'i lei sludukti tosa'a abu gleki le nu
+fau le nu le stedu cu cnita i pe'i lei smudukti tosa'a abu gleki le nu
 noda tirna kei caku ki'u le nu le valsi nasai drani sance toi i ku'i
 ei mi te preti le cmene be le gugde le du'u mokau i lu pe'u doi ninmu
 ti nuzlo gi'i sralo tosa'a abu troci le nu krorinsa kei ca le nu tavla
@@ -153,6 +153,7 @@ i ny ba jinvi le du'u mi toldjuno ke cmalu nixli kei le nu mi te preti
 i ei mi na te preti i ju'ocu'i mi viska cy noi ba'o ciska ke'a da li'u
 @c {abu za'ure'u} means "for the A>th time" and does not parse here.
 @c Antipodes are studukti, so how about snudukti? -phma
+@c How about {smudukti}, "antonym"? -xorxes
 
 @c      Down, down, down.  There was nothing else to do, so Alice soon
 @c    began talking again.  `Dinah'll miss me very much to-night, I
@@ -229,14 +230,14 @@ ba za'ure'u bartu
 @c    in the lock, and to her great delight it fitted!
 
 ibaziku abu penmi lo cmalu ke cibyseltuple jubme be lo sligu blaci i
-cpana jy fa no na'e bo lo cmatce ke solji ckiku i abu pamoi jinvi le
-du'u cy ckiku pa le stela be lo kumfa vorme i ku'i uinaidai ga le
-stela cu dukse la ka barda gi le ckiku cu dukse le ka cmalu iseju
-cy ka'e kargau no sy i ku'i ca le remoi abu penmi lo dizlo murta noi
-abu na pu sanji ke'a i my murta lo cmalu vorme noi mitre li pici i
+cpana jy fa no na'e bo lo cmatce ke solji ckiku i abuboi pamoi jinvi 
+le du'u cy ckiku pa le stela be lo kumfa vorme i ku'i uinaidai ga le
+stela cu dukse le ka barda gi le ckiku cu dukse le ka cmalu iseju
+cy ka'e kargau noboi sy i ku'i ca le remoi abu penmi lo dizlo murta noi
+abu na pu sanji ke'a i my murta lo cmalu vorme noi mitre li ji'ipivo i
 abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
-@c {cy ka'e kargau no sy} doesn't parse.
-@c 0.3 meter is about 1 foot - I'd say .4 meter.
+@c {cy ka'e kargau no sy} doesn't parse.  --fixed: {noboi sy}
+@c 0.3 meter is about 1 foot - I'd say .4 meter. --ok.
 
 @c      Alice opened the door and found that it led into a small
 @c    passage, not much larger than a rat-hole:  she knelt down and
@@ -274,13 +275,14 @@ ca'a nalcumki
 @c    beautifully printed on it in large letters.
 
 i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
-le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy
-cpana kei se.u tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
+le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy cpana 
+kei a do'anai tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
 tai tu'a le'e darvistci i ca le ca krefu abu facki le du'u jy se cpana lo
 cmalu botpi to lu noi ju'o na pu zvati ti sei la alis cusku li'u toi i
 sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe
 li'u cu melbi prina ke'a sepi'o loi barda lerfu
-@c mi stidi lu .a do'anai li'u peseba'i lu se.u li'u -mi'e pier.
+@c mi stidi lu .a do'anai li'u peseba'i lu se.u li'u -mi'e pier. --ok
+
 
 @c      It was all very well to say `Drink me,' but the wise little
 @c    Alice was not going to do THAT in a hurry.  `No, I'll look
@@ -303,9 +305,9 @@ loi cilce danlu gi'e lifri loi drata tolpluka ki'u le nu na morji
 lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo xunre
 glare tunta cu jelca xrani lo za'o jgari be ty zi'e no'u mu'a le nu
 va'o le nu condi mutce sraku le degji sepi'o lo dakfu kei ty ta'e
-ciblu cirko i abu noroi tolmorji le du'u le nu da dukse le ka pinxe
+ciblu cirko i abuboi noroi tolmorji le du'u le nu da dukse le ka pinxe
 lo se botpi be le se tcita be zo vindu bazi ja bazu banza da
-@c {i abu noroi} does not parse; it means "A0 times", not "A never".
+@c {i abu noroi} does not parse; it means "A0 times", not "A never". --fixed
 
 @c      However, this bottle was NOT marked `poison,' so Alice ventured
 @c    to taste it, and finding it very nice, (it had, in fact, a sort
@@ -315,9 +317,10 @@ lo se botpi be le se tcita be zo vindu bazi ja bazu banza da
 
 i ku'i le vi botpi na se tcita zo vindu iseki'ubo la alis darsi le nu
 vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
-mixre be lo jbatisna ku joi lo sovykruji ku joi lo grutrxananase kujoi
-lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba
-@c lo rutrceraso na jbari
+mixre be lo rutrceraso tisna ku joi lo sovykruji ku joi lo grutrxananase 
+kujoi lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne 
+jelnanba
+@c lo rutrceraso na jbari --ok
 
 @c         *       *       *       *       *       *       *
 
