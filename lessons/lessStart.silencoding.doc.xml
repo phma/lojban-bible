@@ -35,6 +35,7 @@
 <!ENTITY less13 SYSTEM "less13.doc.xml">
 <!ENTITY less14 SYSTEM "less14.doc.xml">
 <!ENTITY less15 SYSTEM "less15.doc.xml">
+<!ENTITY lessapp SYSTEM "lessappendix.doc.xml">
 <!ENTITY lessons SYSTEM "lessons.doc.xml">
 <!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">

@@ -667,36 +667,6 @@ lang="art-lojban">vo'a</foreignphrase> is very handy for expressing them.
 As people start thinking more in 
 Lojban, the others could get used more. </para>
 
-<tip><para>When we say <foreignphrase
-lang="art-lojban">vo'a</foreignphrase> means <quote role="gloss">the first
-<foreignphrase lang="art-lojban">sumti</foreignphrase> of this <foreignphrase
-lang="art-lojban">bridi</foreignphrase></quote>, <quote>this <foreignphrase
-lang="art-lojban">bridi</foreignphrase></quote> actually means <quote>the main <foreignphrase
-lang="art-lojban">bridi</foreignphrase> of the sentence that <foreignphrase
-lang="art-lojban">vo'a</foreignphrase> is a <foreignphrase
-lang="art-lojban">sumti</foreignphrase> of.</quote> So if we were 
-to say 
-
-<informalexample><para><foreignphrase lang="art-lojban">la suzyn. na djuno le du'u la jan. cinynei 
-<emphasis>vo'a</emphasis></foreignphrase>
-</para></informalexample>we would be saying that Susan doesn't know that Zhang fancies 
-<emphasis>her</emphasis>, not that
-Susan doesn't know that Zhang fancies <emphasis>himself</emphasis> (which gets us out of
-having to use <foreignphrase lang="art-lojban">sy.</foreignphrase> in the sentence above.) This is not particularly
-typical of natural languages: you can't say in English <wordasword><emphasis>Susan</emphasis> doesn't know 
-that Zhang fancies <emphasis>herself</emphasis></wordasword>. However some languages have some reflexives 
-that <emphasis>do</emphasis>
-behave like that; for example, Icelandic and Norwegian.</para>
-
-<para>The main reason Lojban behaves like
-this is because abstractions share <foreignphrase lang="art-lojban">sumti</foreignphrase> with the main
-<foreignphrase lang="art-lojban">bridi</foreignphrase> containing them far more often than they have two
-separate <foreignphrase lang="art-lojban">sumti</foreignphrase> the same. Given the problems in pinning
-down <foreignphrase lang="art-lojban">ri</foreignphrase> and <foreignphrase lang="art-lojban">ra</foreignphrase> we've already seen <link linkend="less7">last lesson</link>, it's
-more useful for Lojban to refer back to the main <foreignphrase lang="art-lojban">bridi</foreignphrase>
-like this.</para></tip>
-
-
 <para>Here are some more straightforward
 examples of its use:
 
@@ -736,27 +706,6 @@ ko'i soi vo'a</foreignphrase>. That is why you were able to use
 role="gloss">and vice versa</quote> in the previous lesson's exercises.
 </para>
 
-<note><para>What happens when you mix <foreignphrase lang="art-lojban">soi vo'a</foreignphrase>
-with abstractions? Well, <foreignphrase lang="art-lojban">vo'a</foreignphrase>
-still refers back to the main <foreignphrase lang="art-lojban">bridi</foreignphrase>,
-and that's what gets swapped with the <foreignphrase lang="art-lojban">sumti</foreignphrase>
-before it; so
-
-<informalexample><para><foreignphrase lang="art-lojban">la djiotis. djuno ledu'u
-la jan. cinynei la suzyn. soi vo'a</foreignphrase></para></informalexample>
-means <quote>Jyoti knows that Zhang fancies Susan, and Susan knows that Zhang fancies
-Jyoti</quote> &mdash; <emphasis>not</emphasis> <quote>Jyoti knows that Zhang and Susan
-fancy each other</quote>, as you'd expect. For that sense, try 
-
-<informalexample><para><foreignphrase lang="art-lojban">la djiotis. djuno ledu'u
-la jan. cinynei la suzyn. soi ri</foreignphrase></para>
-
-</informalexample>You can get
-away with <foreignphrase lang="art-lojban">ri</foreignphrase>, because the phrase
-<foreignphrase lang="art-lojban">la suzyn. soi ri</foreignphrase> is considered all one 
-<foreignphrase lang="art-lojban">sumti</foreignphrase>, and that
-<foreignphrase lang="art-lojban">sumti</foreignphrase> is not considered over yet,
-so <foreignphrase lang="art-lojban">ri</foreignphrase> skips past it when it refers back.</para></note>
 
 <note><para><foreignphrase lang="art-lojban">vo'a</foreignphrase> is fixed in what
 it refers back to and, unlike <foreignphrase lang="art-lojban">ri</foreignphrase>,
