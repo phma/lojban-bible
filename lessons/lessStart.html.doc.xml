@@ -1,0 +1,24 @@
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "urn:x-oasis:docbook-xml-v4.1.2" [
+<!ENTITY mdash "--">
+<!ENTITY ndash "-">
+<!ENTITY rArr "=&gt;">
+<!ENTITY less1 SYSTEM "less1.doc.xml">
+<!ENTITY less2 SYSTEM "less2.doc.xml">
+<!ENTITY less3 SYSTEM "less3.doc.xml">
+<!ENTITY less4 SYSTEM "less4.doc.xml">
+<!ENTITY less5 SYSTEM "less5.doc.xml">
+<!ENTITY less6 SYSTEM "less6.doc.xml">
+<!ENTITY less7 SYSTEM "less7.doc.xml">
+<!ENTITY less8 SYSTEM "less8.doc.xml">
+<!ENTITY less9 SYSTEM "less9.doc.xml">
+<!ENTITY lessons SYSTEM "lessons.doc.xml">
+<!ENTITY lessinfo SYSTEM "lessinfo.doc.xml">
+<!ENTITY lessintro SYSTEM "lessintro.doc.xml">
+]>
+<book>
+<title>Introductory Lessons on Lojban &mdash; <foreignphrase 
+lang="loj">cfari velcti be la lojban.</foreignphrase></title>
+&lessinfo;
+&lessintro;
+&lessons;
+</book>

@@ -1,0 +1,952 @@
+<chapter id="less8"><title>Swapping things round: conversion and simple
+<foreignphrase lang="loj">lujvo</foreignphrase></title>
+
+<sect1 id="less8selbriconv"><title><foreignphrase lang="loj">selbri</foreignphrase> 
+conversions</title>
+
+<para>Conversion is swapping the places of a <foreignphrase
+lang="loj">bridi</foreignphrase> around. We have already encountered one
+case of conversion: the <foreignphrase lang="loj">cmavo</foreignphrase>,
+<foreignphrase lang="loj">se</foreignphrase>, which changes round the first
+and second places of a <foreignphrase lang="loj">bridi</foreignphrase>. For
+example
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">la djiotis. cinba la ranjit.</foreignphrase>
+Jyoti kisses Ranjeet.</literallayout>
+</informalexample>
+
+is the same as 
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">la ranjit. se cinba la djiotis.</foreignphrase>
+Ranjeet is kissed by Jyoti.</literallayout>
+</informalexample>
+</para>
+
+<para><foreignphrase lang="loj">se</foreignphrase> is part of a series of
+<foreignphrase lang="loj">cmavo</foreignphrase> which go, in alphabetical
+order, <foreignphrase lang="loj">se, te, ve, xe</foreignphrase>. Like a lot
+of these series, the first one is used a lot more than the others, but
+sometimes the others are useful. </para>
+
+<para>Just as <foreignphrase lang="loj">se</foreignphrase> changes round
+the first and second places, <foreignphrase lang="loj">te</foreignphrase>
+changes round the first and third places, <foreignphrase
+lang="loj">ve</foreignphrase>, the first and fourth, and <foreignphrase
+lang="loj">xe</foreignphrase>, the first and fifth.
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">ti bakfu lo tirse grana lo skori</foreignphrase>
+This is-a-bundle-of iron rods held together with string.</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">loi skori te bakfu lo tirse grana ti</foreignphrase>
+String holds the bundle of iron rods together (literally, <quote>with string are bundled iron rods.</quote>)
+</literallayout>
+</informalexample>
+
+Note the <foreignphrase lang="loj">ti</foreignphrase> has now moved to a
+less conspicuous place in the sentence, and so can now be dropped out
+without being noticed. In fact place conversion is often used when we want
+to get rid of places like this.
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">mi'a tugni do zo'e le dinske</foreignphrase>
+We agree with you [that something is true] about economics.  
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">le dinske cu ve tugni</foreignphrase>
+As regards economics [we] agree [with you].
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">le prenu cu klama zo'e zo'e zo'e lo trene</foreignphrase>
+The person goes somewhere, from somewhere, via somewhere, by train
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout><foreignphrase lang="loj">lo trene cu xe klama</foreignphrase>
+[Someone] goes by train. (literally <quote>By a train is gone</quote>)
+A train is a vehicle.
+</literallayout>
+</informalexample>
+
+</para>
+
+<para>As I've said, the more extreme conversions like <foreignphrase
+lang="loj">ve</foreignphrase> and <foreignphrase
+lang="loj">xe</foreignphrase> are rarely used, partly because most
+<foreignphrase lang="loj">gismu</foreignphrase> only have two or three
+places, and partly because even with four- or five-place <foreignphrase
+lang="loj">gismu</foreignphrase>, the less-used places come towards the
+end.  </para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="loj">jamna</foreignphrase></term><listitem><para>
+x1 (person/mass) wars against x2 over territory/matter x3; x1 is at war with x2</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">xatra</foreignphrase></term><listitem><para>x1 is a
+letter/missive/[note] to intended audience x2 from author/originator x3
+with content x4</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">xlura</foreignphrase></term><listitem> <para>x1 (agent)
+influences/lures/tempts x2 into action/state x3 by influence/threat/lure
+x4</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">gugde</foreignphrase></term><listitem><para>x1 is the country of
+peoples x2 with land/territory x3; (people/territory
+relationship)</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">jdini</foreignphrase></term><listitem> <para>x1 is
+money/currency issued by x2; (adjective:) x1 is financial/monetary/pecuniary/fiscal</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
+
+
+<simplesect role="exercise"><title>Exercise 1</title> <para>Convert the
+following sentences so that the highlighted <foreignphrase
+lang="loj">sumti</foreignphrase> comes first. 
+Miss out any unimportant places.
+
+<orderedlist>
+
+<listitem><para>zo'e fengu <emphasis>lenu
+jamna</emphasis></para></listitem>
+
+<listitem><para>ti xatra mi <emphasis>la jang.</emphasis></para></listitem>
+
+<listitem><para>zo'e xlura mi lenu cliva le gugde kei <emphasis>loi
+jdini</emphasis></para></listitem>
+
+<listitem><para>lo prenu cu tavla zo'e zo'e <emphasis>la
+lojban.</emphasis></para></listitem>
+
+<listitem><para>lo prenu cu dunda le cukta
+<emphasis>mi</emphasis></para></listitem>
+
+</orderedlist>
+
+
+</para>
+</simplesect>
+</sect1>
+
+<sect1 id="less8sumticonversion"><title><foreignphrase
+lang="loj">sumti</foreignphrase> conversions</title>
+
+<para>Another thing we can do is to use conversion <foreignphrase
+lang="loj">cmavo</foreignphrase> to make <foreignphrase
+lang="loj">sumti</foreignphrase>. We saw how Lojban articles turn
+<foreignphrase lang="loj">selbri</foreignphrase> into <foreignphrase
+lang="loj">sumti</foreignphrase>, so that, for example, <foreignphrase
+lang="loj">lo mlatu</foreignphrase> means <quote>something(s) which could
+fit in the first place of <foreignphrase
+lang="loj">mlatu</foreignphrase></quote> &mdash; in other words,
+<foreignphrase lang="loj">lo</foreignphrase> changes <quote
+role="gloss">is-a-cat</quote> to <quote role="gloss">a cat</quote>. The
+same is true for <foreignphrase lang="loj">le mlatu</foreignphrase> except
+that, as we've seen, it is something which the <emphasis>speaker</emphasis>
+thinks of as occupying x1 of <foreignphrase
+lang="loj">mlatu</foreignphrase> &mdash; in other words, <quote
+role="gloss">the cat.</quote></para>
+
+<para>This works fine if the only place we want to access and turn into a
+<foreignphrase lang="loj">sumti</foreignphrase> is x1; but with other
+<foreignphrase lang="loj">gismu</foreignphrase> we may want to make
+<foreignphrase lang="loj">sumti</foreignphrase> out of other places. Let's
+look at the last example from the previous exercise:
+
+<informalexample>
+<para><foreignphrase lang="loj">lo prenu cu dunda le cukta mi</foreignphrase>
+</para></informalexample>
+
+<foreignphrase lang="loj">lo prenu</foreignphrase> can also be
+<foreignphrase lang="loj">le dunda</foreignphrase> <quote role="gloss">the
+giver</quote>; but what about <foreignphrase lang="loj">mi</foreignphrase>
+and <foreignphrase lang="loj">le cukta</foreignphrase>? Well, you probably
+guessed. The answer you gave to the exercise was (I hope)
+
+<informalexample>
+<para><foreignphrase lang="loj">mi te dunda le cukta
+</foreignphrase>
+</para></informalexample>
+
+This means that <foreignphrase lang="loj">mi</foreignphrase> can be
+<foreignphrase lang="loj">le te dunda</foreignphrase> &mdash; <quote
+role="gloss">the giver</quote> or <quote role="gloss">the donor</quote>. In
+the same way, <foreignphrase lang="loj">le cukta</foreignphrase> can be
+<foreignphrase lang="loj">le se dunda</foreignphrase>. So if we want to
+make a really obvious sentence, we can say
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">le dunda cu dunda le se dunda le te dunda</foreignphrase>
+The giver gives the given-thing to the person-to-whom-it-is-given
+The donor gives the gift to the recipient.
+</literallayout>
+</informalexample>
+
+</para>
+
+<para>These conversions apply not only to <foreignphrase
+lang="loj">gismu</foreignphrase>, but to any word acting as a
+<foreignphrase lang="loj">selbri</foreignphrase>. Remember <foreignphrase
+lang="loj">go'i</foreignphrase>, for example, which stands in for the
+preceding sentence's <foreignphrase lang="loj">bridi</foreignphrase>. Just
+as we did with <foreignphrase lang="loj">dunda</foreignphrase>, we can
+construct a <foreignphrase lang="loj">bridi</foreignphrase> like
+
+<informalexample><para>
+<foreignphrase lang="loj">le go'i cu go'i le se go'i le te go'i le ve go'i le xe go'i</foreignphrase>
+</para></informalexample>
+
+On its own, this sentence doesn't mean terribly much; it just repeats the
+previous sentence. But the trick is, this version of the sentence repeats
+the previous sentence, <emphasis>complete with its <foreignphrase
+lang="loj">sumti</foreignphrase></emphasis>. This is how we can refer back
+to <foreignphrase lang="loj">sumti</foreignphrase> in the previous sentence
+in general. For example,
+
+<informalexample><para><foreignphrase lang="loj">.i la suzyn. zgana lo
+nanmu goi ko'a .i ko'a melbi</foreignphrase> </para></informalexample>
+
+can also be expressed as
+
+<informalexample><para><foreignphrase lang="loj">.i la suzyn. zgana lo
+nanmu .i <emphasis>le se go'i</emphasis> cu melbi</foreignphrase>
+</para></informalexample>
+
+(There are even ways to refer back to <foreignphrase
+lang="loj">sumti</foreignphrase> introduced by <foreignphrase
+lang="loj">sumti tcita</foreignphrase>; but that's an advanced topic.)
+
+</para>
+
+<para>Even some abstraction <foreignphrase
+lang="loj">cmavo</foreignphrase>can be modified by <foreignphrase
+lang="loj">se</foreignphrase>. <foreignphrase
+lang="loj">du'u</foreignphrase>, for example, which can be used to form a
+<foreignphrase lang="loj">selbri</foreignphrase>, has two <foreignphrase
+lang="loj">sumti</foreignphrase>: x1, the thought described, and x2, the
+words used to express it:
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">le la jang. se cusku cu {du'u ri nelci la suzyn. kei} lu do bebna li'u</foreignphrase>
+Zhang's thing-expressed (= what Zhang said) is {the thought that he likes Susan}, in the words <quote>You're a dolt.</quote>
+</literallayout>
+</informalexample>
+
+That's why <foreignphrase
+lang="loj">le se du'u</foreignphrase> refers to words rather than thoughts.
+
+</para>
+
+
+</sect1>
+
+<sect1 id="less8lujvo"><title>Lujvo</title>
+
+<para>We've already seen quite a few <foreignphrase
+lang="loj">lujvo</foreignphrase>, or compound words, in the
+exercises; but we haven't actually made any of our own yet.  Lojban has
+strict rules for making <foreignphrase lang="loj">lujvo</foreignphrase>;
+you can't just crunch words together like English <wordasword>brunch</wordasword> or
+<wordasword>edutainment</wordasword>, because this might result in a word which sounds
+like something else, falls apart or makes intelligent computers repeat
+<quote>Does not compute</quote> in a tinny voice and blow up in a cloud of
+blue smoke.  However, one safe way of making acceptable <foreignphrase
+lang="loj">lujvo</foreignphrase> is by using the conversion <foreignphrase
+lang="loj">cmavo</foreignphrase> we've just looked at. </para>
+
+<para><foreignphrase lang="loj">se dunda</foreignphrase>, as we've seen,
+means <quote role="gloss">is given (by someone, to someone)</quote>. We can
+turn this into a <foreignphrase lang="loj">lujvo</foreignphrase> simply
+adding <foreignphrase lang="loj">l</foreignphrase> to the <foreignphrase
+lang="loj">se</foreignphrase>, to give <foreignphrase
+lang="loj">seldunda</foreignphrase>. The new word comes complete with its
+own place-structure:
+
+<informalexample><para>x1 is a gift from x2 to x3
+</para></informalexample>
+
+(Note that <quote role="gloss">gift</quote> here is anything given without
+payment or exchange &mdash; it doesn't need to have the <quote
+role="socalled">special present</quote> associations of the English word.)
+</para>
+
+<para>If we want to say <quote role="gloss">the gift</quote>,
+<foreignphrase lang="loj">le seldunda</foreignphrase> is not really an
+improvement on <foreignphrase lang="loj">le se dunda</foreignphrase>.
+However, most <foreignphrase lang="loj">gismu</foreignphrase> have short
+combining forms (<foreignphrase lang="loj">rafsi</foreignphrase>). These
+are never used on their own, only in <foreignphrase
+lang="loj">lujvo</foreignphrase>. As it happens, <foreignphrase
+lang="loj">dunda</foreignphrase> has two short forms: <foreignphrase
+lang="loj">dud</foreignphrase> and <foreignphrase
+lang="loj">du'a</foreignphrase>. We can't use <foreignphrase
+lang="loj">dud</foreignphrase>, because that would give us a word ending in
+a consonant, and, as we know, only <foreignphrase
+lang="loj">cmene</foreignphrase> can end in a consonant. The only
+candidate, then, is <foreignphrase lang="loj">du'a</foreignphrase>, so
+<quote role="gloss">the gift</quote> is <foreignphrase lang="loj">le
+seldu'a</foreignphrase>. (<foreignphrase
+lang="loj">sel<emphasis>du'a</emphasis></foreignphrase> has exactly the
+same place structure as <foreignphrase
+lang="loj">seldunda</foreignphrase>.) The same is true for the other
+conversion <foreignphrase lang="loj">cmavo</foreignphrase>, though their
+corresponding <foreignphrase lang="loj">rafsi</foreignphrase> don't all
+follow the same pattern:
+
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="loj">se</foreignphrase></term><listitem><para><foreignphrase
+lang="loj">sel-</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">te</foreignphrase></term><listitem><para><foreignphrase
+lang="loj">ter-</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">ve</foreignphrase></term><listitem><para><foreignphrase
+lang="loj">vel-</foreignphrase></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">xe</foreignphrase></term><listitem><para><foreignphrase
+lang="loj">xel-</foreignphrase></para></listitem></varlistentry>
+
+</variablelist>
+
+
+So <quote role="gloss">the
+recipient</quote> is <foreignphrase lang="loj">le terdu'a</foreignphrase>. 
+</para>
+
+<note><para>You might wonder whether <foreignphrase
+lang="loj">stela</foreignphrase> <quote role="gloss">lock</quote> was
+really important enough to have wrested the <foreignphrase
+lang="loj">tel-</foreignphrase> <foreignphrase
+lang="loj">rafsi</foreignphrase> away from <foreignphrase
+lang="loj">te</foreignphrase>. Probably not; but after the Great Rafsi
+Reallocation of 1994, it's really too late to do anything about it now.
+Consider it an endearing quirk of the language...</para></note>
+
+<para>In this way you can expand on the <foreignphrase
+lang="loj">gismu</foreignphrase> list dramatically, to give equivalents of
+common English words which are not included and, more interestingly, words
+which don't have equivalents in English. A lot of these are words you would
+probably never want to say, like <foreignphrase
+lang="loj">terna'e</foreignphrase> <quote role="gloss">x1 is the rule/logic
+by which proposition x2 contradicts/denies/refutes/negates proposition
+x3.</quote> However, you sometimes find interesting and/or useful words
+which don't exist as single words in English.  Here are a few of my own
+creations:
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+tertcu</foreignphrase></term> <listitem><para>a purpose/activity for which
+something is needed (from <foreignphrase
+lang="loj">nitcu</foreignphrase> 
+<quote role="gloss">need</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+ternu'e</foreignphrase></term> <listitem><para>a person to whom a promise
+is made (from <foreignphrase lang="loj">nupre</foreignphrase>
+<quote role="gloss">promise</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo selvu'e</foreignphrase></term>
+<listitem><para>a moral standard (from
+<foreignphrase lang="loj">vrude</foreignphrase> &mdash; <quote role="gloss">be
+virtuous</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+selte'a</foreignphrase></term> <listitem><para>a scary
+thing (from <foreignphrase lang="loj">terpa</foreignphrase>
+<quote role="gloss">fear</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+selcta</foreignphrase></term> <listitem><para>something/someone that is
+looked at (from <foreignphrase lang="loj">catlu</foreignphrase>
+<quote role="gloss">look, examine</quote>)</para></listitem>
+</varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+selta'i</foreignphrase></term> <listitem><para>something
+which wears you out (from <foreignphrase
+lang="loj">tatpi</foreignphrase> <quote role="gloss">be tired/fatigued</quote>)
+</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+veltu'i</foreignphrase></term> <listitem><para>an area of
+agreement (from <foreignphrase lang="loj">tugni</foreignphrase>
+<quote role="gloss">agree with</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+selzi'e</foreignphrase></term> <listitem><para>something
+you are free to do (from <foreignphrase
+lang="loj">zifre</foreignphrase> <quote role="gloss">be
+free</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+selxei</foreignphrase></term> <listitem><para>an object of
+hate (from <foreignphrase lang="loj">xebni</foreignphrase>
+<quote role="gloss">hate</quote>) </para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+selpa'i</foreignphrase></term> <listitem><para>an object of devotion (from <foreignphrase
+lang="loj">prami</foreignphrase> <quote role="gloss">love, be devoted
+to</quote>)</para></listitem> </varlistentry>
+
+</variablelist>
+</para>
+
+<warning><para>For reasons which aren't important here, this method will
+always give you an acceptable <foreignphrase
+lang="loj">lujvo</foreignphrase> &mdash; except in one case.  Lojban does
+not allow double consonants, because they are difficult to pronounce, and
+can be heard incorrectly as one consonant.  This means that we can't have
+<foreignphrase lang="loj">lujvo</foreignphrase> like <foreignphrase
+lang="loj">vellu'i</foreignphrase> (<quote role="gloss">cleansing
+agent</quote>, from the x4 of <foreignphrase
+lang="loj">lumci</foreignphrase> <quote role="gloss">wash</quote>).  The
+way out of this problem is to put <foreignphrase lang="loj">y</foreignphrase> between the <foreignphrase
+lang="loj">l</foreignphrase>s, giving us <foreignphrase
+lang="loj">velylu'i</foreignphrase>. </para>
+
+<para>In fact, if you see <foreignphrase lang="loj">y</foreignphrase> in a
+Lojban word, it cannot be a <foreignphrase lang="loj">gismu</foreignphrase>
+or a <foreignphrase lang="loj">cmavo</foreignphrase> (with two exceptions
+we've already seen: <foreignphrase lang="loj">.y</foreignphrase> <quote
+role="gloss">er...</quote> and <foreignphrase
+lang="loj">y'y</foreignphrase> <quote role="gloss">apostrophe.</quote>) 
+Such a word
+can only be either a <foreignphrase lang="loj">lujvo</foreignphrase> or a
+name (<foreignphrase lang="loj">cmene</foreignphrase>).  <foreignphrase
+lang="loj">y</foreignphrase> was avoided in <quote
+role="socalled">normal</quote> Lojban words.</para> </warning>
+
+</sect1>
+
+<sect1 id="less8neglujvo"><title>Negative <foreignphrase
+lang="loj">lujvo</foreignphrase></title>
+
+<para>Just as <foreignphrase lang="loj">se</foreignphrase> has the
+combining form <foreignphrase lang="loj">sel</foreignphrase>, the negative
+<foreignphrase lang="loj">na'e</foreignphrase> has the combining form <foreignphrase lang="loj">nal</foreignphrase>, and we
+can use this to make <foreignphrase lang="loj">lujvo</foreignphrase> in
+exactly the same way. </para>
+
+<note><para><foreignphrase lang="loj">na</foreignphrase> has its own
+<foreignphrase lang="loj">rafsi</foreignphrase>, <foreignphrase
+lang="loj">nar</foreignphrase>, but <foreignphrase
+lang="loj">na'e</foreignphrase> is more useful in creating new words, since
+<foreignphrase lang="loj">na'e</foreignphrase> in a <foreignphrase
+lang="loj">selbri</foreignphrase> still indicates an existing relationship,
+while <foreignphrase lang="loj">na</foreignphrase> could mean anything,
+including non-existence &mdash; making too broad a concept for most
+uses.)</para></note>
+
+<para>For example, <foreignphrase lang="loj">jdice</foreignphrase> means
+<quote role="gloss">decide</quote> and has the short combining form
+<foreignphrase lang="loj">jdi</foreignphrase>. <foreignphrase
+lang="loj">naljdi</foreignphrase> therefore means
+ <quote>not decide</quote>
+or <quote>be indecisive</quote>.  Some other examples:
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+naljmi</foreignphrase></term><listitem><para>one who does
+not understand (from <foreignphrase
+lang="loj">jimpe</foreignphrase>
+<quote role="gloss">understand</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+naljvi</foreignphrase></term><listitem><para>a
+non-competitor (from <foreignphrase
+lang="loj">jivna</foreignphrase>
+<quote role="gloss">compete</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+nalkri</foreignphrase></term><listitem><para>a
+non-believer/skeptic (from <foreignphrase
+lang="loj">krici</foreignphrase>
+<quote role="gloss">believe</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+nalyla'e</foreignphrase></term><listitem><para>an unlikely
+event (from <foreignphrase lang="loj">lakne</foreignphrase>
+<quote role="gloss">be likely</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo nalre'a</foreignphrase>
+</term><listitem><para>a non-human (from
+<foreignphrase lang="loj">remna</foreignphrase> <quote role="gloss">be
+human</quote>)</para></listitem> </varlistentry>
+
+</variablelist>
+</para>
+
+<para>We can see that <foreignphrase lang="loj">nal</foreignphrase> is like
+the English <wordasword>non-</wordasword>, but we need to remember that
+<wordasword>non-</wordasword> sometimes has other meanings or associations
+that <foreignphrase lang="loj">nal</foreignphrase> does not have.
+<foreignphrase lang="loj">lo naljvi</foreignphrase> is simply someone who
+is not taking part in a competition, not a <quote>non-contender</quote> in
+the sense of someone who competes but doesn't stand a chance of winning.
+Similarly <foreignphrase lang="loj">lo nalre'a</foreignphrase> is someone
+who is not a member of the species <foreignphrase>homo
+sapiens</foreignphrase> (e.g. a chimpanzee or Klingon), and cannot be
+applied to someone who is inhumane or perceived as subhuman in some way.
+
+</para>
+
+<para>We can also use <foreignphrase lang="loj">nal</foreignphrase> with
+<foreignphrase lang="loj">sel</foreignphrase> and its relatives; for
+example,
+
+<variablelist>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+nalteltcu</foreignphrase></term><listitem><para>not a purpose/activity for
+which something is needed; something which has no requirements (from
+<foreignphrase lang="loj">nitcu</foreignphrase> <quote role="gloss">x1
+needs/requires/is dependent on/[wants] necessity x2 for
+purpose/action/stage of process x3</quote>)</para></listitem>
+</varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+nalveltu'i</foreignphrase></term><listitem><para>an area of disagreement; a
+controversial issue (from <foreignphrase lang="loj">tugni</foreignphrase>
+<quote role="gloss">x1 [person] agrees with person(s)/position/side x2 that x3 (du'u) is true about matter x4</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+nalselzi'e</foreignphrase></term><listitem><para>something you are not free
+to do (from <foreignphrase lang="loj">zifre</foreignphrase> <quote
+role="gloss">x1 is free/at liberty to do/be x2 (event/state) under conditions x3</quote>)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo
+nalselsanji</foreignphrase></term><listitem><para>something you are unaware
+of (from <foreignphrase lang="loj">sanji</foreignphrase> <quote
+role="gloss">x1 is conscious/aware of x2 (object/abstract); x1
+discerns/recognizes x2 (object/abstract)</quote>; this <foreignphrase
+lang="loj">gismu</foreignphrase> has no suitable short combining
+form)</para></listitem> </varlistentry>
+
+<varlistentry><term><foreignphrase lang="loj">lo nalselse'i</foreignphrase>
+</term><listitem><para>someone who lacks a self/ego; an enlightened person
+according to Hindu/Buddhist philosophy (from <foreignphrase
+lang="loj">sevzi</foreignphrase> <quote role="gloss">x1 is a
+self/ego/id/identity-image of x2</quote>)</para></listitem> </varlistentry>
+
+</variablelist>
+
+</para>
+
+<para>And as you'll have guessed, the companions of <foreignphrase
+lang="loj">na'e</foreignphrase>, <foreignphrase
+lang="loj">to'e</foreignphrase> and <foreignphrase
+lang="loj">no'e</foreignphrase>, have <foreignphrase
+lang="loj">rafsi</foreignphrase> of their own: <foreignphrase
+lang="loj">tol-</foreignphrase> and <foreignphrase
+lang="loj">nor-</foreignphrase>, respectively. So <quote
+role="gloss">disinterested</quote>, <quote
+role="gloss">uninterested</quote> and <quote role="gloss">bored</quote> in
+Lojban are <foreignphrase lang="loj">norselci'i</foreignphrase>,
+<foreignphrase lang="loj">nalselci'i</foreignphrase> and <foreignphrase
+lang="loj">tolselci'i</foreignphrase>. </para>
+
+
+<simplesect><title>Exercise 2</title>
+
+<para>If you have access to a <foreignphrase
+lang="loj">gismu</foreignphrase> list, use it to look up <foreignphrase
+lang="loj">gismu</foreignphrase> and make <foreignphrase
+lang="loj">lujvo</foreignphrase> meaning the following, using short
+combining forms where possible and <foreignphrase
+lang="loj">nal</foreignphrase> where necessary.
+
+<orderedlist>
+<listitem><para>a television</para></listitem>
+<listitem><para>a subject of conversation</para></listitem>
+<listitem><para>someone who is deceived or cheated</para></listitem>
+<listitem><para>an immoral or amoral (not virtuous) person</para></listitem>
+<listitem><para>a railroad</para></listitem>
+<listitem><para>an insignificant event</para></listitem>
+<listitem><para>something unseen</para></listitem>
+<listitem><para>something about which you have no feelings/emotions</para></listitem>
+</orderedlist>
+</para>
+</simplesect>
+</sect1>
+
+<sect1 id="less8refl"><title>Reflexives and reciprocals</title>
+
+<para>Let's now look at a slightly embellished version of the
+plot-advancing example sentence from <link linkend="less7">Lesson 7</link>,
+involving Zhang and Susan:
+
+<informalexample><literallayout>
+<foreignphrase lang="loj">la suzyn. na djuno fi vo'a fe le du'u la jang. cinynei sy.</foreignphrase>
+Susan doesn't know about herself that Zhang fancies (<quote role="gloss">sexually-likes</quote>) [her].
+</literallayout>
+</informalexample>
+
+We have snuck into the sentence a new pro-<foreignphrase
+lang="loj">sumti</foreignphrase>: <foreignphrase
+lang="loj">vo'a</foreignphrase>.  This means <quote role="gloss">the first
+<foreignphrase lang="loj">sumti</foreignphrase> of this <foreignphrase
+lang="loj">bridi</foreignphrase></quote>, and like the others, comes in a
+series &mdash; <foreignphrase lang="loj">vo'e</foreignphrase> refers to the second <foreignphrase
+lang="loj">sumti</foreignphrase>, <foreignphrase
+lang="loj">vo'i</foreignphrase> to the third and so on. In practice,
+<foreignphrase lang="loj">vo'a</foreignphrase> is used quite a lot, while
+the others are rarer, but that could be because people still tend to think
+in terms of natural languages (where only the equivalent of <foreignphrase
+lang="loj">vo'a</foreignphrase> is usual); as people start thinking more in
+Lojban, the others could get used more. </para>
+
+<note><para><quote role="gloss">This <foreignphrase
+lang="loj">bridi</foreignphrase></quote> means <quote role="gloss">the <foreignphrase
+lang="loj">bridi</foreignphrase> that <foreignphrase
+lang="loj">vo'a</foreignphrase> is an argument of.</quote> So if we were 
+to say 
+
+<informalexample><para>
+<foreignphrase lang="loj">la suzyn. na djuno le du'u la jang. cinynei <emphasis>vo'a</emphasis></foreignphrase>
+</para></informalexample>
+
+we would not be saying that Susan doesn't know Zhang fancies her, but that
+Susan doesn't know Zhang fancies <emphasis>himself</emphasis>:
+<foreignphrase lang="loj">vo'a</foreignphrase> looks no further than its
+closest <foreignphrase lang="loj">selbri</foreignphrase> for its meaning.
+
+</para></note>
+
+<para><foreignphrase lang="loj">vo'a</foreignphrase> is very useful for
+giving the sense of <quote role="socalled">reflexives</quote> &mdash; words
+like <wordasword>herself</wordasword>, <wordasword>itself</wordasword>, and
+so on. (That <foreignphrase lang="loj">vo'a</foreignphrase> cannot skip
+over an embedded <foreignphrase lang="loj">bridi</foreignphrase>, as
+discussed just above, is also typical of most languages' reflexives &mdash;
+although not, for example, Norwegian.) Here are some more straightforward
+examples of its use:
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">la meilis. pensi vo'a</foreignphrase>
+Mei Li thinks about herself.
+</literallayout>
+</informalexample>
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">le gerku cu batci vo'a</foreignphrase>
+The dog bites itself.
+</literallayout>
+</informalexample>
+
+You can also say
+
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">mi nelci vo'a</foreignphrase>
+I like myself.
+</literallayout>
+</informalexample>
+
+but this is the same as <foreignphrase lang="loj">mi nelci
+mi</foreignphrase>, which is simpler.  </para>
+
+<para>Now for something clever &mdash; which will also look slightly 
+familiar. 
+ 
+<informalexample>
+<literallayout>
+<foreignphrase lang="loj">la suzyn. zgani la djiotis. soi vo'a vo'e</foreignphrase>
+Susan notices Jyoti and vice versa.
+Susan and Jyoti notice each other.
+</literallayout>
+</informalexample>
+
+<foreignphrase lang="loj">soi</foreignphrase> is a <foreignphrase
+lang="loj">cmavo</foreignphrase> meaning something like <quote>you can
+change these <foreignphrase lang="loj">sumti</foreignphrase> round and the
+<foreignphrase lang="loj">bridi</foreignphrase> will still be true.</quote>
+If there is only one <foreignphrase lang="loj">sumti</foreignphrase> after
+the <foreignphrase lang="loj">soi</foreignphrase>, the other one is taken
+to be the one immediately <emphasis>before</emphasis> <foreignphrase
+lang="loj">soi</foreignphrase>. So we can say the same thing more briefly
+as <foreignphrase lang="loj">la suzyn. zgani la djiotis. soi
+vo'a</foreignphrase>, or even just <foreignphrase lang="loj">ko'a zgani
+ko'i soi vo'a</foreignphrase>. That is why you were able to use
+<foreignphrase lang="loj">soi vo'a</foreignphrase> as <quote
+role="gloss">and vice versa</quote> in the previous lesson's exercises.
+</para>
+
+<note><para><foreignphrase lang="loj">vo'a</foreignphrase> is fixed in what
+it refers back to and, unlike <foreignphrase lang="loj">ri</foreignphrase>,
+can point back to <foreignphrase lang="loj">ko'a</foreignphrase> &mdash;
+though you can also repeat <foreignphrase lang="loj">ko'a</foreignphrase>
+if you prefer.</para></note>
+
+<note><para>There is a <foreignphrase lang="loj">gismu</foreignphrase> that
+does the same job, <foreignphrase lang="loj">simxu</foreignphrase>:
+<quote>x1 (set) has members who mutually/reciprocally x2 (event [x1 should
+be reflexive in 1+ sumti]).</quote> You saw a sneak preview of this, too,
+in the previous lesson. It is mostly used in compound <foreignphrase
+lang="loj">selbri</foreignphrase> (<foreignphrase
+lang="loj">tanru</foreignphrase>), and from there, in <foreignphrase
+lang="loj">lujvo</foreignphrase> (<foreignphrase
+lang="loj">sim-</foreignphrase>). We haven't covered enough grammar to use
+it properly yet, but you'll be seeing it again towards the end of the
+lessons.</para> </note>
+
+</sect1>
+
+<sect1 id="less8summary"><title>Summary</title>
+
+<para>
+This lesson has introduced the following:
+<itemizedlist>
+
+<listitem><para>Converting sentences (swapping round <foreignphrase lang="loj">sumti</foreignphrase>) using
+<foreignphrase lang="loj">se</foreignphrase> and its
+relatives;</para></listitem>
+
+<listitem><para>Making <foreignphrase lang="loj">sumti</foreignphrase> from
+places other than x1 by the same method;</para></listitem>
+
+<listitem><para>Making <foreignphrase lang="loj">lujvo</foreignphrase>
+using <foreignphrase lang="loj">sel</foreignphrase>, <foreignphrase
+lang="loj">vel</foreignphrase> etc.  and short combining forms
+(<foreignphrase lang="loj">rafsi</foreignphrase>);</para></listitem>
+
+<listitem><para>Making negative <foreignphrase
+lang="loj">lujvo</foreignphrase> using <foreignphrase
+lang="loj">nal</foreignphrase>.</para></listitem>
+
+
+<listitem><para>Expressing reflexives and reciprocals using <foreignphrase
+lang="loj">vo'a</foreignphrase> and <foreignphrase
+lang="loj">soi</foreignphrase>.</para></listitem>
+
+</itemizedlist>
+
+</para>
+
+<simplesect role="vocab"><title>Vocabulary</title>
+<para>
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="loj">berti</foreignphrase></term><listitem><para>x1 is to the
+north/northern side [right-hand-rule pole] of x2 according to frame of
+reference x3 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">cinta</foreignphrase></term><listitem><para>x1 [material] is a
+paint of pigment/active substance x2, in a base of x3
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">cpina</foreignphrase></term><listitem><para>x1 is
+pungent/piquant/peppery/spicy/irritating to sense x2
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">ctebi</foreignphrase></term><listitem><para>x1 is a/the
+lip [body-part]/rim of orifice x2 of body x3; (adjective:) x1 is
+labial</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">fanza</foreignphrase></term><listitem><para>x1 (event)
+annoys/irritates/bothers/distracts x2 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">jarbu</foreignphrase></term><listitem><para>x1 is a suburban
+area of city/metropolis x2 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">jukpa</foreignphrase></term><listitem><para>x1 cooks/prepares
+food-for-eating x2 by recipe/method x3 (process)
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">kisto</foreignphrase></term><listitem><para>x1 reflects
+Pakistani/Pashto culture/nationality/language in aspect x2
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">klaji</foreignphrase></term><listitem><para>x1 is a
+street/avenue/lane/drive/cul-de-sac/way/alley/[road] at x2 accessing x3
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">minra</foreignphrase></term><listitem><para>x1
+reflects/mirrors/echoes x2 [object/radiation] to observer/point x3 as x4;
+x2 bounces on x1 </para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">nitcu</foreignphrase></term><listitem><para>x1 needs/requires/is
+dependent on/[wants] necessity x2 for purpose/action/stage of process x3
+</para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="loj">snanu</foreignphrase></term><listitem><para>x1 is to the
+south/southern side of x2 according to frame of reference x3
+</para></listitem></varlistentry>
+
+
+</variablelist>
+</para>
+</simplesect>
+
+<simplesect role="exercise"><title>Exercise 3</title>
+
+<para>Translate from Lojban; some of the places used here are contorted into quite non-English
+forms, but try and be as idiomatic as possible. <orderedlist>
+
+<listitem><para><foreignphrase lang="loj">.i le la djiotis. karce cu xe
+klama le gusta fi la djiotis .e la ranjit .e la
+suzyn.</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i la suzyn. catlu vo'a vi le
+minra pe le karce</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i le go'i cu nitcu lenu le le
+go'i ku ctebi cinta cu te jmina</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i ca lenu go'i kei la suzyn. te
+minra la ranjit. soi vo'a</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i la suzyn. te preti fo la
+djiotis. fe lu .i ma te klaji fi ti li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i la ranjit. cusku lu .i le
+kisto jarbu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i le vu se jukpa cu mutce cpina
+li'u</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i la djiotis. se fanza cusku lu
+.i ma'a doi ranjit. klama lo berti lo snanu soi vo'e
+vo'i</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">.i pe'i do na djuno fi le ve
+klama pe le gusta li'u</foreignphrase></para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+</sect1>
+
+<sect1 id="less8answers"><title>Answers to Exercises</title>
+
+<simplesect role="excanswer"><title>Exercise 1</title>
+<para>
+<orderedlist>
+
+<listitem><para><foreignphrase lang="loj">lenu jamna cu se
+fengu</foreignphrase></para></listitem>
+
+<listitem><para><foreignphrase lang="loj">la jang. te xatra [mi
+ti]</foreignphrase> (Whether you include the <foreignphrase
+lang="loj">mi</foreignphrase> or <foreignphrase
+lang="loj">ti</foreignphrase> depends on whether they are important in this
+context &mdash; probably they are obvious and can be missed
+out.)</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">loi jdini cu ve xlura lenu cliva
+le gugde</foreignphrase> (<quote>Money is an inducement to
+emigrate.</quote>)</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">la lojban. ve
+tavla</foreignphrase> (<quote>There is a conversation in Lojban.</quote> We
+don't need <foreignphrase lang="loj">lo prenu</foreignphrase> since we can
+assume that it is people chatting in Lojban and not, say,
+chimpanzees.)</para></listitem>
+
+<listitem><para><foreignphrase lang="loj">le cukta cu te dunda
+mi</foreignphrase
+> </para></listitem>
+
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 2</title>
+<para>
+<orderedlist>
+<listitem><para><foreignphrase lang="loj">lo veltivni</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo terta'a</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo seltcica</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo nalvu'e</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo teryre'e</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo nalvai</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo selvi'a</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="loj">lo naltelcni</foreignphrase></para></listitem>
+</orderedlist>
+</para>
+</simplesect>
+
+<simplesect role="excanswer"><title>Exercise 3</title>
+<para><orderedlist>
+
+<listitem><para>Jyoti's car is the means by which Jyoti, Ranjeet and Susan 
+get to the restaurant.</para></listitem>
+
+<listitem><para>Susan looks at herself in the car mirror.</para></listitem>
+
+<listitem><para>She needs to put on more lipstick. (Literally, <quote>She 
+needs that her lip paint be added to.</quote>)
+</para></listitem>
+
+<listitem><para>When this is happening, Susan and Ranjeet see each other's 
+reflection.</para></listitem>
+
+<listitem><para>Susan asks Jyoti, <quote>Where does this street go 
+to?</quote></para></listitem>
+
+<listitem><para>Ranjeet says, <quote>The Pakistani suburb</quote></para></listitem>
+
+<listitem><para><quote>The cuisine there is very
+spicy.</quote></para></listitem>
+
+<listitem><para>Jyoti irritatedly says, <quote>We, Ranjeet, have been going
+from south to north and back</quote> (One of the few times you'll probably
+see <foreignphrase lang="loj">soi vo'e</foreignphrase> instead of
+<foreignphrase lang="loj">soi vo'a</foreignphrase>.)</para></listitem>
+
+<listitem><para><quote>I think you don't know the way of (= to) the
+restaurant.</quote></para></listitem>
+
+</orderedlist>
+
+</para>
+</simplesect>
+
+
+</sect1>
+</chapter>
