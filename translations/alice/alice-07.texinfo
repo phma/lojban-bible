@@ -323,7 +323,8 @@ muvgau le stedu i lu la'a do noroi tavla ji'asai la temci li'u
 @c      `Perhaps not,' Alice cautiously replied:  `but I know I have to
 @c    beat time when I learn music.'
 
-
+i lu ieru'e li'u la alis kajde se spuda i lu i ku'i ju'o ei mi
+darxi do'e le temci ca le nu mi cilre le nu se zgike li'u
 
 
 @c      `Ah! that accounts for it,' said the Hatter.  `He won't stand
@@ -333,26 +334,56 @@ muvgau le stedu i lu la'a do noroi tavla ji'asai la temci li'u
 @c    you'd only have to whisper a hint to Time, and round goes the
 @c    clock in a twinkling!  Half-past one, time for dinner!'
 
+i lu ua la'e di'u ve ciksi li'u se cusku la mapypre i lu ty na
+nelci le nu darxi i va'o le nu do ty pendo kei ty gasnu so'a se nelci 
+be do ri'i le junla i mu'a da'i li so tcika le cabna ecabo le nu 
+co'a tadni i banzu fa le nu do ja'aru'e stidi fi ty kei le nu mo'u
+ze'i cukli'u fa le junla i uo li pacipimu ca tcika le nu citka li'u
+
+
 @c      (`I only wish it was,' the March Hare said to itself in a
 @c    whisper.)
+
+to lu au go'i li'u la cibmoimasti cicractu se ke sevzi cusku co
+tolcladu toi
+
 
 @c      `That would be grand, certainly,' said Alice thoughtfully:
 @c    `but then--I shouldn't be hungry for it, you know.'
 
+i lu la'e di'u da'i banli ju'o li'u se cusku co pensi la alis i 
+lu i ku'i va'oku mi na xagji li'u
+ 
+
 @c      `Not at first, perhaps,' said the Hatter:  `but you could keep
 @c    it to half-past one as long as you liked.'
 
+i lu ieru'e go'i ca le cfari li'u se cusku la mapypre i lu i ku'i e'e
+li pacipimu za'o tcika ze'u lo do se djica li'u 
+
+
 @c      `Is that the way YOU manage?' Alice asked.
+
+i lu xu la'e di'u tadji le nu ba'e do zukte li'u preti fi la alis
+
 
 @c      The Hatter shook his head mournfully.  `Not I!' he replied.
 @c    `We quarrelled last March--just before HE went mad, you know--'
 @c    (pointing with his tea spoon at the March Hare,) `--it was at the
 @c    great concert given by the Queen of Hearts, and I had to sing
 
+i la mapypre cu tolgei desygau le stedu i lu na go'i li'u my se spuda
+i lu mi'a da'arsi'u ca le puzi cibmoimasti ibazibo ty fenki binxo 
+ju'ido'u to'i pilno le tcati smuci le nu farja'o cycy toi icabo le
+banli ke zgike se tigni le risna noltruni'u i mi bilga le nu sanga di'e 
+
+
 @c                "Twinkle, twinkle, little bat!
 @c                How I wonder what you're at!"
 
 @c    You know the song, perhaps?'
+
+i lu le selsanga do slabu ti'epei li'u
 
 @c      `I've heard something like it,' said Alice.
 
