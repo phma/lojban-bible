@@ -92,11 +92,12 @@ terpa le nu tolmorji pu le nu le nunpai cu tolcfari li'u
 @c    the court!' and the King put on his spectacles and looked
 @c    anxiously round, to make out who was talking.
 
-i lu ju'i bebna sei la alis co'a cladu je fengu voksa cusku li'u i ku'i
+i lu ue bebna sei la alis co'a cladu je fengu voksa cusku li'u i ku'i
 abu sutra sisti ki'u le nu le blabi ractu cu krixa lu ei smaji bu'u le
 kumfa li'u i le noltrunau co'a dasni le vistci gi'e xanka catlu le sruri
 tezu'e le nu facki le du'u makau tavla
 @c ju'i bebna: Is she addressing them, or should this be an attitudinal? -phma
+@c You're right, she's not adressing them. --xorxes
 
 @c      Alice could see, as well as if she were looking over their
 @c    shoulders, that all the jurors were writing down `stupid things!'
@@ -106,11 +107,11 @@ tezu'e le nu facki le du'u makau tavla
 @c    before the trial's over!' thought Alice.
 
 i la alis ka'e viska to xamgu tai le nu abu catlu ga'u le janco toi
-le nu ro le pairkamnycmi cu ciska lu ju'i bebna li'u le py tanbo kei
-gi'eji'asai ka'e tilvi'a le nu pa py na se slabu lei lerfu pe zo
+le nu ro le pairkamnycmi cu ciska lu ue bebna li'u le py tanbo kei
+gi'eji'asai ka'e tilvi'a le nu paboi py na se slabu lei lerfu pe zo
 bebna gi'e nitcu le nu cpedu le nu jungau kei le lamji i lu ba melbi
 kalsa fa lei tanbo pu le nu le nunpai cu mulno sei la alis pensi li'u
-@c This doesn't parse for some reason.
+@c This doesn't parse for some reason.  {pa py} -> {paboi py}
 
 @c      One of the jurors had a pencil that squeaked.  This of course,
 @c    Alice could not stand, and she went round the court and got
