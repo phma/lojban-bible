@@ -148,8 +148,8 @@ ny di'a cusku lu ma do cmene doi verba li'u
 @c    politely; but she added, to herself, `Why, they're only a pack of
 @c    cards, after all.  I needn't be afraid of them!'
 
-i lu zo alis mi cmene doi banli sei la alis clite mutce cusku li'u i ku'i
-abu jmina sezysku lu ua ta karda ga'i romei i einai mi terpa li'u 
+i lu zo alis mi cmene doi banli nobli sei la alis clite mutce cusku li'u 
+i ku'i abu jmina sezysku lu ua ta karda ga'i romei i einai mi terpa li'u 
 
 @c      `And who are THESE?' said the Queen, pointing to the three
 @c    gardeners who were lying round the rosetree; for, you see, as
@@ -175,7 +175,7 @@ cuntu ba'e mi li'u
 @c    Off--'
 
 i le noltruni'u cu binxo lo xunzi'u seri'a le nu fengu i ba le nu catlu
-abu zi lo mokca tai tu'a lo cilce danlu kei ny krixa lu ko le stedu abu
+abu zi lo mokca tai tu'a lo cilce danlu kei ny krixa lu ko le stedu ta
 vimcu i ko li'o li'u
 
 @c      `Nonsense!' said Alice, very loudly and decidedly, and the
@@ -204,60 +204,115 @@ i le nolse'u cu kurji mutce co'e sepi'o lo jamfu
 @c    three gardeners instantly jumped up, and began bowing to the
 @c    King, the Queen, the royal children, and everybody else.
 
+i lu ko sanli sei le noltruni'u sepi'o lo cpina je cladu voksa cu 
+cusku li'u i le ci purdykurji ze'i sa'irbi'o gi'e co'a korcu rinsa
+le noltrunau e le noltruni'u e le noltru panzi e ro drata
+
 @c      `Leave off that!' screamed the Queen.  `You make me giddy.'
 @c    And then, turning to the rose-tree, she went on, `What HAVE you
 @c    been doing here?'
 
+i lu ko ta sisti sei le noltruni'u cu krixa i do mi tolylaxygau li'u
+i fa'a le rozgu tricu ny di'a cusku lu do ma ca'o vi zukte li'u
+
 @c      `May it please your Majesty,' said Two, in a very humble tone,
 @c    going down on one knee as he spoke, `we were trying--'
+
+i lu doi banli nobli sei la rel ca le nu cpanygau lo cidni le foldi 
+cu cumla mutce tonga cusku i mi'a troci li'o li'u
 
 @c      `I see!' said the Queen, who had meanwhile been examining the
 @c    roses.  `Off with their heads!' and the procession moved on,
 @c    three of the soldiers remaining behind to execute the unfortunate
 @c    gardeners, who ran to Alice for protection.
 
+i lu je'e li'a sei le noltruni'u noi pu ca'o lanli lei rozgu cu cusku
+i ko le stedu ta vimcu li'u i le dzupoi cu di'a muvdu i ci le sonci cu
+stali mu'i le nu selmidycatra lei malselfu'a purdykurji noi bajra fa'a 
+la alis mu'i le nu se marbi
+
 @c      `You shan't be beheaded!' said Alice, and she put them into a
 @c    large flower-pot that stood near.  The three soldiers wandered
 @c    about for a minute or two, looking for them, and then quietly
 @c    marched off after the others.
 
+i lu do le stedu na ba te vimcu sei la alis cusku li'u i abu punji py
+lo barda ke xrula patxu noi vi zvati i le ci sonci cu sruri klama je
+sisku ze'a lo mentu be li paji'ire gi'ebabo smaci jersi lei drata
+
 @c      `Are their heads off?' shouted the Queen.
+
+i lu xu le stedu ba'o se vimcu sei le noltruni'u cu krixa li'u
 
 @c      `Their heads are gone, if it please your Majesty!' the soldiers
 @c    shouted in reply.
 
+i lu le stedu pu canci doi banli nobli sei lei sonci cu spuda krixa li'u
+
 @c      `That's right!' shouted the Queen.  `Can you play croquet?'
+
+i lu drani sei le noltruni'u cu krixa i xu do ka'e kelcrkroke li'u
 
 @c      The soldiers were silent, and looked at Alice, as the question
 @c    was evidently meant for her.
 
+i lei sonci cu smaji gi'e catlu la alis seki'u le nu li'a di'u preti 
+fo abu  
+
 @c      `Yes!' shouted Alice.
+
+i lu go'i sei la alis krixa li'u
 
 @c      `Come on, then!' roared the Queen, and Alice joined the
 @c    procession, wondering very much what would happen next.
+
+i lu e'e ja'o sei le noltruni'u cu camki'a li'u i la alis jorne
+le dzupoi gi'e kucli le du'u makau ba fasnu
 
 @c      `It's--it's a very fine day!' said a timid voice at her side.
 @c    She was walking by the White Rabbit, who was peeping anxiously
 @c    into her face.
 
+i lu y melbi i y melbi djedi sei lo mutce toldarsi se voksa re'o abu
+cusku li'u i abu cadzu re'o la blabi ractu noi ze'i catlu le abu flira
+
 @c      `Very,' said Alice:  `--where's the Duchess?'
+
+i lu mutce sei la alis cusku i la noltroni'u ma zvati li'u 
 
 @c      `Hush!  Hush!' said the Rabbit in a low, hurried tone.  He
 @c    looked anxiously over his shoulder as he spoke, and then raised
 @c    himself upon tiptoe, put his mouth close to her ear, and
 @c    whispered `She's under sentence of execution.'
 
+i lu o'i o'i sei la ractu cu tolcladu je sutra tonga cusku li'u i ry 
+xanka catlu ga'u le janco ca le nu tavla kei gi'e sezgalgau co cpana
+lei jmadegji gi'e jbigau le moklu le abu kerlo gi'e tolylausku lu ri 
+ba se selmidycatra li'u
+
 @c      `What for?' said Alice.
+
+i lu ma krinu sei la alis cusku li'u
 
 @c      `Did you say "What a pity!"?' the Rabbit asked.
 
+i lu xu do pu cusku lu mi kecti li'u sei la ractu cu retsku li'u
+
 @c      `No, I didn't,' said Alice:  `I don't think it's at all a pity.
 @c    I said "What for?"'
+
+i lu na go'i sei la alis cusku i mi nasai kecti i mi pu cusku lu ma
+krinu li'u li'u
 
 @c      `She boxed the Queen's ears--' the Rabbit began.  Alice gave a
 @c    little scream of laughter.  `Oh, hush!' the Rabbit whispered in a
 @c    frightened tone.  `The Queen will hear you!  You see, she came
 @c    rather late, and the Queen said--'
+
+i lu ra darxi lei kerlo be le noltruni'u sei la ractu co'a cusku li'u
+i la alis cmila krixa i lu o'i sei la ractu cu terpa tonga tolylausku
+i le noltruni'u do ba tirna i no'i ra lerci klama i le noltruni'u cu
+cusku li'o li'u
 
 @c      `Get to your places!' shouted the Queen in a voice of thunder,
 @c    and people began running about in all directions, tumbling up
