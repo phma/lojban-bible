@@ -34,6 +34,8 @@ msgid ""
 "You must supply a single argument with the .desktop file or url to use\n"
 msgstr ""
 ".i ko sabji pa lo sumti poi la'o <url> gi'onai la'o <.desktop> zei datnyvei\n"
+#stidi lu pa sumti po'u lo me .uburyly gi'onai la'o <.desktop> zei datnyvei li'u
+#mi'e pier.
 
 #: panel/gnome-panel-add-launcher.c:80
 msgid "No panel found\n"
@@ -124,6 +126,7 @@ msgstr "jarco le samru'e poi le samru'e tanbo cu mipri ke'a (SKIP-TASKBAR)"
 #: applets/desk-guide/deskguide_applet.c:113
 msgid "Geometry"
 msgstr "tarmi"
+#zo morna xu cu xagmau mi'e pier.
 
 #: applets/desk-guide/deskguide_applet.c:114
 msgid "Horizontal Layout"
