@@ -211,16 +211,16 @@ i la alis polje lei xance gi'e co'a co'e di'e
 
       do tolci'o doi paf sei le citnau cu cusku
       i le kerfa be do ca'a blabi
-@     i ku'i do ru'i lolsanli le stedu
+@c     i ku'i do ru'i lolsanli le stedu
       i ue do le loldi le stedu cu sanli
       i do jinvi xu le du'u drani
      
 @c Poetic license, I suppose. That means "you stand on a head which is on the floor",
 @c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
 
-@ I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
-@ x2 of sanli, so it doesn't appear in the place structure of lolsanli.
-@ But I changed it anyway.
+@c I was thinking: lolsanli: "x1 floor-stands using limbs x2". {loldi} fills the
+@c x2 of sanli, so it doesn't appear in the place structure of lolsanli.
+@c But I changed it anyway.
 
 
       i ca le mi nunci'o sei la uiliam spuda
