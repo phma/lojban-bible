@@ -304,6 +304,18 @@ sakli
 @c    inquisitively, and seemed to her to wink with one of its little
 @c    eyes, but it said nothing.
 
+i lu xu da mi prali sei la alis pensi le nu tavla le vi smacu i roda
+bu'u le cnita cu tai tolfadni ja'e le nu pe'i lakne fa le nu ta ka'e
+tavla iseju noda mi tolprali le nu troci li'u iseki'ubo abu co'a co'e
+lu doi smacu xu do se slabu le pluta be le bartu be le bu'u lalxu i 
+mi mutce le ka tatpi le nu ru'u limna doi smacu li'u to la alis pu
+jinvi le du'u ju'okau ta drani le ka tadji nu tavla lo smacu i abu
+noroi pu zukte lo simsa gi'eku'i morji le nu tcidu fi le latmo gerna 
+cukta pe le bruna fe lu lo smacu -- sera'a lo smacu -- seka'a lo smacu
+-- lo smacu -- doi smacu li'u i le smacu cu terpreti mutce catlu abu
+gi'e simlu le ka rinsa fi le nu ze'i ga'orgau pa le cmalu kanla i ku'i 
+sy cusku noda
+
 @c      `Perhaps it doesn't understand English,' thought Alice; `I
 @c    daresay it's a French mouse, come over with William the
 @c    Conqueror.'  (For, with all her knowledge of history, Alice had
@@ -314,8 +326,21 @@ sakli
 @c    your pardon!' cried Alice hastily, afraid that she had hurt the
 @c    poor animal's feelings.  `I quite forgot you didn't like cats.'
 
+i cumki fa le nu ta na se bangu le lojbo sei la alis pensi i ru'a ta
+fraso smacu gi'e kansa la uiliam no'u le jamji'a le ka klama ti li'u
+to abu djuno piso'ida lei purcedra gi'eku'i na mutce le ka jimpe le
+du'u py pu fasnu za makau toi i abu za'ure'u co'a co'e zoi fy Ou est
+ma chatte? fy noi pamoi lei jufra pe le abu fraso ve cilre cukta i le
+smacu cu suksa plipe le bartu be le djacu gi'e simlu le ka desku le
+nu terpa i lu oise'i ko mi fraxu sei la alis noi xersmadi le du'u abu 
+crogau le danlu le cnirango cu sutra krixa i mi mulno le ka tolmorji 
+le nu do na nelci lo'e mlatu li'u 
+
 @c      `Not like cats!' cried the Mouse, in a shrill, passionate
 @c    voice.  `Would YOU like cats if you were me?'
+
+i lu na nelci lo'e mlatu sei le smacu cu kinli je cinmo voksa krixa
+i xu ba'e do nelci lo'e mlatu va'o le nu da'i do me mi li'u
 
 @c      `Well, perhaps not,' said Alice in a soothing tone:  `don't be
 @c    angry about it.  And yet I wish I could show you our cat Dinah:
@@ -329,10 +354,25 @@ sakli
 @c    certain it must be really offended.  `We won't talk about her any
 @c    more if you'd rather not.'
 
+i lu y'y la'anai sei la alis surgau tonga cusku i ko na fengu i ku'i
+au mi ka'e jarco le mi'a mlatu po'u la dinas do i pe'i do co'a nelci
+lo'e mlatu va'o le nu da'i do dy viska i dy tai dirba smaji sei la alis
+tecu'uru'e le sevzi ca le nu lazni limna le lalxu ca'o co'e i dy melbi
+cmoni zutse ne'a le fagri gi'e tacpe'u le dy xance gi'e lumci le dy 
+flira i dy tai pluka ranti le nu kujyjai i dy tai certu le nu kavbu
+lo'e smacu i oise'i ko mi fraxu sei la alis noi birti le du'u le smacu 
+noi caku tinsa cu je'u cnicro rere'u krixa i mi'o dy na ba di'a casnu
+va'o le nu do zmanei li'u 
+
 @c      `We indeed!' cried the Mouse, who was trembling down to the end
 @c    of his tail.  `As if I would talk on such a subject!  Our family
 @c    always HATED cats:  nasty, low, vulgar things!  Don't let me hear
 @c    the name again!'
+
+i lu zo mi'o ue sei le smacu noi da bi'i le jipno be le ke'a rebla cu 
+desku cu krixa i ju'onaicai mi casnu lo simsa i le mi lanzu ze'e xebni
+lo'e mlatu i rigni je tolba'i je malfadni danlu i e'u mi na za'ure'u 
+tirna le cmene li'u
 
 @c      `I won't indeed!' said Alice, in a great hurry to change the
 @c    subject of conversation.  `Are you--are you fond--of--of dogs?'
@@ -348,6 +388,19 @@ sakli
 @c    Mouse was swimming away from her as hard as it could go, and
 @c    making quite a commotion in the pool as it went.
 
+i lu vi'osai sei la alis noi sutra le nu galfi le selsnu cu cusku i 
+xu y'y xu do y'y nelci y'y lo'e gerku li'u i le smacu na spuda 
+iseki'ubo la alis ca'o co'e lu lo melbi ke cmalu gerku noi xabju le
+jibni be le mi'a zdani zo'u mi djica le nu mi gy do jarco i gy cmalu
+gerku la terier gi'e se kerfa lo clani je sarlu je bunre gi'e xrubei
+lei dacti poi do renro ku'o i gy fa'aga'u zutse gi'e cpedu le sanmi
+gi'e zukte so'i vrici noi mi ka'enai morji pimu lu'o ke'a i gy se
+ponse lo te cange noi xusra le du'u gy tai se pilno ja'e le nu gy
+se vamji lo rupnu be li panono i cy xusra le du'u gy catra ro le
+ratcu i oise'i sei la alis xenru tonga krixa i mi xersmadi le du'u
+mi ta za'ure'u cnixai li'u i le smacu cu ca'o limna to'o abu rai le
+ka vlipa gi'e mutce le ka kalsygau le lalxu ca le nu klama  
+
 @c      So she called softly after it, `Mouse dear!  Do come back
 @c    again, and we won't talk about cats or dogs either, if you don't
 @c    like them!'  When the Mouse heard this, it turned round and swam
@@ -356,8 +409,24 @@ sakli
 @c    the shore, and then I'll tell you my history, and you'll
 @c    understand why it is I hate cats and dogs.'
 
+i abu xutla trisku lu doi smacu dirba ko za'ure'u xruti i nu'edo'u 
+mi'o na ba casnu genai lo'e mlatu ginaiji'a lo'e gerku va'o le nu
+do na nelci li'u i ca le nu le smacu di'u tirna kei sy dutselfarbi'o 
+gi'e masno limna xruti abu i le flira cu mutce le ka blabi to ja'e le
+nu cinmo sei la alis pensi toi i sy dizlo je desku voksa cusku lu e'u
+mi'o klama le korbi ibabo mi do tavla le mi lisri i do ba jimpe le du'u
+makau krinu le nu mi xebni lo'e mlatu e lo'e gerku li'u
+
 @c      It was high time to go, for the pool was getting quite crowded
 @c    with the birds and animals that had fallen into it:  there were a
 @c    Duck and a Dodo, a Lory and an Eaglet, and several other curious
 @c    creatures.  Alice led the way, and the whole party swam to the
 @c    shore.
+
+i ca mapti tcika le nu cliva kei ki'u le nu le lalxu ca'o tisna loi
+cipni ku joi loi danlu vu'o poi ba'o farlu ly i lo datka lo cipnrdodo
+lo cipnrlori lo cipnrxakuila so'o drata noi vrici je cizra danlu i 
+la alis lidne i piro le girzu cu limna seka'a le korbi
+ 
+
+  
