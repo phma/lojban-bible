@@ -361,7 +361,44 @@
   fendi fed - -  /teilen/  x1 (Handelnder) teilt x2 in Teile/Abschnitte x3 mit Methode/Aufteilung x4  
   fengu feg - fe'u  /ärgerlich/  x1 ist ärgerlich auf/verärgert über x2 wegen x3 (Aktion/Zustand/Eigenschaft)  
   fenki fek - -  /verrückt/  x1 (Aktion/Ereignis) ist verrückt/wahnsinnig/geisteskrank/rasend gemäß Standard x2  
-  fenra fer - fe'a /Spalte/  x1 ist eine Spalte/ein Riss/ein Sprung/eine Kluft/ein Pass/eine Schlucht/[[ein Defekt/ein Makel] [[Form] in x2  
-  fenso fen - fe'o /nähen/  x1 näht/stickt Materialien x2 (einzeln/Menge) zusammen mit Werkzeug(en) x3 und Draht/Faden/Garn x4  
-  fepni fep - fei /Cent/  x1 wird gemessen in Kopeken/Cent/Pennies/Gelduntereinheiten als x2 [[Mengenangabe] in Geldsystem x3  
-  fepri - - - /Lunge/  x1 ist eine/die Lunge [[Körperteil] von x2; [[im übertragenen Sinne: Atmung/Blasebalg]  
+  fenra fer - fe'a  /Spalte/  x1 ist eine Spalte/ein Riss/ein Sprung/eine Kluft/ein Pass/eine Schlucht/[[ein Defekt/ein Makel] [[Form] in x2  
+  fenso fen - fe'o  /nähen/  x1 näht/stickt Materialien x2 (einzeln/Menge) zusammen mit Werkzeug(en) x3 und Draht/Faden/Garn x4  
+  fepni fep - fei  /Cent/  x1 wird gemessen in Kopeken/Cent/Pennies/Gelduntereinheiten als x2 [[Mengenangabe] in Geldsystem x3  
+  fepri - - -  /Lunge/  x1 ist eine/die Lunge [[Körperteil] von x2; [[im übertragenen Sinne: Atmung/Blasebalg]  
+  ferti - fre -  /fruchtbar/  x1 ist dem Wachsen/der Entwicklung von x2 förderlich; x1 ist fruchtbar/ergiebig/ertragreich  
+  festi fes - -  /Abfall/  x1 ist/sind Abfallprodukt(e) von x2 (Ereignis/Aktivität)  
+  fetsi fet - fe'i  /weiblich/  x1 ist ein Weibchen der Gattung x2 mit weiblicher Eigenschaft/weiblichen Eigenschaften x3 (ka); x1 ist weiblich  
+  figre fig - -  /Feige/  x1 ist eine Feige [[Frucht/Baum] von Art/Gattung/Sorte x2  
+  filso fis - -  /Palästinenser/  x1 repräsentiert palästinensische Kultur/Nationalität in Aspekt x2  
+  finpe fip - fi'e  /Fisch/  x1 ist ein Fisch von Gattung x2 [[metaphorische Ausdehnung auf Haie und im Wasser lebende Wirbeltiere außer Fischen]  
+  finti fin - fi'i  /erfinden/  x1 erfindet/schafft/erdenkt/dichtet/komponiert x2 für Funktion/Zweck x3 aus existierenden Elementen/Ideen x4  
+  flalu - fla -  /Gesetz/  x1 ist ein Gesetz und schreibt x2 (Zustand/Ereignis) vor für Gemeinschaft x3 unter Bedingungen x4 und ist erstellt von x5 (Gesetzgeber)  
+  flani - - -  /Flöte/  x1 ist eine Flöte/Pfeife [[flötenartiges Musikinstrument, eventuell mit Rohrblatt]  
+  flecu - fle -  /fließen/  x1 ist eine Strömung/ein Fluss von/in x2 und fließt in Richtung x3/auf x3 zu aus Richtung/Quelle x4  
+  fliba - fli -  /versagen/  x1 versagt bei x2 (Zustand/Ereignis); x1 versagt in seiner Rolle als x2; x1 versagt beim Versuch, x2 zu tun  
+  flira fir - -  /Gesicht/  x1 ist ein/das Gesicht [[Kopf-/Körperteil] von x2  
+  fo'a - - fo'a  /es-6/  pro-sumti: er/sie/es #6 (durch goi spezifiziert)  
+  fo'e - - fo'e  /es-7/  pro-sumti: er/sie/es #7 (durch goi spezifiziert)  
+  fo'i - - fo'i  /es-8/  pro-sumti: er/sie/es #8 (durch goi spezifiziert)  
+  foldi - flo foi  /Feld/  x1 ist ein Feld/eine Ebene [[Form] aus Material x2; x1 ist eine breite gleichmäßige Ausdehnung/Fläche von x2  
+  fonmo fom - fo'o  /Schaum/  x1 ist eine gewisse Menge an Schaum/Lauge aus Material x2 mit Blasen aus Material x3  
+  fonxa fon - -  /Telefon/  x1 ist ein Telefon/Modem/Sender-Empfänger, verbunden mit System/Netz x2  
+  forca - fro -  /Gabel/  x1 ist eine Gabel/ein gabelartiges Werkzeug/Gerät für Zweck x2 mit Zinken x3 auf Basis x4  
+  fraso fas - -  /französisch/  x1 repräsentiert französische/gallische Kultur/Nationalität/Sprache in Aspekt x2  
+  frati - fra -  /reagieren/  x1 reagiert/antwortet mit Aktion x2 auf Anregung/Stimulus/Reiz unter Bedingungen x4  
+  fraxu fax - -  /vergeben/  x1 vergibt x2 für Ereignis/Zustand/Aktivität x3  
+  frica fic - -  /sich unterscheiden/  x1 unterscheidet sich von/kontrastiert mit/steht im Gegensatz zu/ist unähnlich x2 in Eigenschaft/Dimension/Menge x3  
+  friko - - fi'o  /afrikanisch/  x1 repräsentiert afrikanische Kultur/Nationalität/Geographie in Aspekt x2  
+  frili fil - -  /leicht/  x1 (Aktion) ist leicht/einfach/mühelos für x2 (Handelnden) unter Bedingungen x3; x1 bereitet x2 keine Mühe  
+  frinu - - -  /Bruch/  x1 ist ein mathematischer Bruch mit Zähler x2 und Nenner x3 (x2/x3)  
+  friti fit - -  /anbieten/  x1 bietet x2 [[Gabe/Angebot] x3 (Empfänger) an mit Bedingungen x4  
+  frumu - fru -  /Grimasse/  x1 runzelt die Stirn/zieht eine Grimasse/zieht die Augenbrauen zusammen (Gesichtsausdruck)  
+  fukpi fuk - fu'i  /kopieren/  x1 ist eine Kopie/ein Duplikat/ein Klon von x2 in Form/Medium/Gestalt x3, hergestellt durch Vorgang/Method x4 (Ereignis)  
+  fulta ful flu -  /treiben/  x1 (passiv) treibt/schwimmt/schwebt auf/in Fluid (Flüssigkeit/Gas) x2  
+  funca fun - fu'a  /Schicksal/  x1 (Ereignis/Eigenschaft) wird bestimmt durch das Schicksal/Glück/Pech/Los von x2; (Hinweis: weder explizit positive noch negative Konnotation)  
+  fusra fur - -  /verrotten/  x1 verrottet/verfault/fermentiert/gärt/verwest mit Verwesung/Gärungsmittel x2; x1 ist faul/verfault/ morsch  
+  fuzme fuz - fu'e  /verantwortlich/  x1 ist verantwortlich/rechenschaftspflichtig für x2 (Aktion/Ergebniszustand) gegenüber Richter/Autorität x3  
+  gacri - - gai  /Bedeckung/  x1 ist eine Bedeckung/ein Deckel/eine Abdeckung/ein Bezug und bedeckt/schützt/verbirgt x2
+  gadri gad - -  /Artikel/  x1 ist ein Artikel/Deskriptor und kennzeichnet Beschreibung x2 (Text) in Sprache x3 mit Semantik x3
+  galfi gaf - ga'i  /verändern/  x1 (Ereignis) verändert/ändert/modifiziert/wandelt x2 in/nach x3
+  galtu gal - ga'u  /hoch/  x1 ist hoch/oben in Bezugssystem x2 vergleichen mit Grundlinie/Bezugspunkt/Standardhöhe x3
