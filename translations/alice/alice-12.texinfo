@@ -522,9 +522,9 @@ zukte pe le se senva be le my cmalu mensi
 @c    filled the air, mixed up with the distant sobs of the miserable
 @c    Mock Turtle.
 
-i le clani srasu cu vruvrici bu'u lei my jamfu ca le nu le blabi ractu
+i le clani srasu cu vruvricypra bu'u lei my jamfu ca le nu le blabi ractu
 cu sutra klama i le terpa smacu cu jacre'o pagre le jibni la'ucma i my
-tirna le savru be lei tcati kabri ca le nu le cibmoimasti cicyractu cu
+tirna le sance be lei tcati kabri ca le nu le cibmoimasti cicyractu cu
 kansa lei cycy pendo le ze'e nu sanmi i le cpina voksa be le noltruni'u
 cu minde lei ny malselfu'a vitke le nu se catra i le xarju cifnu cu 
 za'ure'u senci fi'o cpana le cidni be le noltroni'u ca le nu loi palta
@@ -545,6 +545,16 @@ kaksna be le tolgeitce ke jitfa cakyrespa
 @c    cattle in the distance would take the place of the Mock Turtle's
 @c    heavy sobs.
 
+i my za'o zutse to lei kanla cu ganlo toi gi'e xadba krici le du'u my
+zvati le selmacygu'e kei gi'eku'i djuno le du'u le nu kargau ky cu banzu
+le nu roda binxo le tolzdi fatci i le srasu cu vruvricypra gau le brife
+i le la'ucma cu se boxna gau lei jauspa i le sance be lei tcati kabri
+cu binxo le se lanjanbe i le cpina se krixa be le noltruni'u cu go'i le 
+voksa be le lankurji nanla i le nunsenci be le cifnu be'o e le selkrixa
+be le cpicinfo be'o e ro le drata ke cizra savru cu binxo sei my djuno
+le mixre sance be le zukcfu cange i le se cmoni be lei zu bakni cu basti
+lei tilju kaksna be le jitfa cakyrespa
+
 @c      Lastly, she pictured to herself how this same little sister of
 @c    hers would, in the after-time, be herself a grown woman; and how
 @c    she would keep, through all her riper years, the simple and
@@ -555,6 +565,19 @@ kaksna be le tolgeitce ke jitfa cakyrespa
 @c    simple sorrows, and find a pleasure in all their simple joys,
 @c    remembering her own child-life, and the happy summer days.
 
+i romai my se xanri le nu le my cmalu mensi ca le balvi cu makcu ninmu
+gi'e ralte ze'a lei makcu nanca le sampu je prami risna pe le vercedra
+gi'e jajgau le cymy cmalu panzi gi'e gasnu le nu lei ba'e py kanla cu
+carmi se cinri so'i cizra lisri e ju'ocu'i ji'asai le se senva pe le
+puzu selmacygu'e kei gi'e kansa cinmo lei py sampu se tolgei gi'e se 
+pluka lei py sampu se gleki gi'e morji le cymy verba nunji'e e lei 
+selgei ke crisa djedi
+
 @c                                 THE END
+@format
+
+                                    FA'O
+@end format
+
 
 @bye
