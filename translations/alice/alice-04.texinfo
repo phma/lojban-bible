@@ -220,24 +220,50 @@ sezysku lu ai mi srukla gi'e nerkla fo le canko li'u
 @c    just possible it had fallen into a cucumber-frame, or something
 @c    of the sort.
 
+i lu na ba go'i sei la alis pensi li'u i abu denpa le nu abu krici le
+du'u tirna le nu le ractu cu cnita le canko ibazi abu jai suksa fai
+le nu pejgau le xance gi'e jgari le vacri i abu kavbu noda gi'eku'i 
+tirna lo cmalu se krixa e lo nu farlu e lo porpi blaci sance gi'e
+nibji'i la'e di'u le du'u cumki fa le nu ry farlu lo guzme tanxe a
+lo simsa  
+
 @c      Next came an angry voice--the Rabbit's--`Pat! Pat!  Where are
 @c    you?'  And then a voice she had never heard before, `Sure then
 @c    I'm here!  Digging for apples, yer honour!'
 
+ibabo lo fengu voksa to be le ractu toi co'e lu ju'i pat ju'i pat
+do ma zvati li'u ibabo lo voksa noi abu ke'a na pu tirna ku'o lu
+ju'o mi ti zvati i mi kakpa sisku lo'e plise doi banli li'u
+
 @c      `Digging for apples, indeed!' said the Rabbit angrily.  `Here!
 @c    Come and help me out of THIS!'  (Sounds of more broken glass.)
 
+i lu o'onai kakpa sisku lo'e plise sei le ractu cu fengu cusku i ko
+mi klama gi'e sidju le nu mi ba'e ti bartu li'u to sance loi bancu
+ke porpi blaci toi
+
 @c      `Now tell me, Pat, what's that in the window?'
 
+i lu pau re'i pat ta poi zvati le canko cu mo li'u
+
 @c      `Sure, it's an arm, yer honour!'  (He pronounced it `arrum.')
+
+i lu ju'o ta birka doi banli li'u to py bacru zoi zoi birrrka zoi toi 
 
 @c      `An arm, you goose!   Who ever saw one that size?  Why, it
 @c    fills the whole window!'
 
+i lu birka doi bebna i ma pu viska lo birka poi tai barda i ta se tisna
+piro le canko li'u
+
 @c      `Sure, it does, yer honour:  but it's an arm for all that.'
+
+i lu ju'o go'i doi banli i ku'i ta ca'a birka li'u
 
 @c      `Well, it's got no business there, at any rate:  go and take it
 @c    away!'
+
+i lu iseju ta na va se cuntu i ko ta vimcu li'u
 
 @c      There was a long silence after this, and Alice could only hear
 @c    whispers now and then; such as, `Sure, I don't like it, yer
