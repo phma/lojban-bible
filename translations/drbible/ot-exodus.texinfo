@@ -1010,14 +1010,20 @@ ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
 @c    9:22. And the Lord said to Moses:  Stretch forth thy hand towards
 @c    heaven, that there may be hail in the whole land of Egypt upon men, and
 @c    upon beasts, and upon every herb of the field in the land of Egypt.
+9:22. .i la .iaves. cusku lu ko tengau le xance le tsani tezu'e lenu le bratu
+ve'e le misrygu'e cu carvi le remna .e le danlu .e ro spati pe le foldi be vi'a
+le misrygu'e li'u
 
 @c    9:23. And Moses stretched forth his rod towards heaven, and the Lord
 @c    sent thunder and hail, and lightnings running along the ground:  and the
 @c    Lord rained hail upon the land of Egypt.
+9:23. .i la moCES. tengau le grana le tsani .i la .iaves. gasnu le bratu .e
+le savru .i le fagri cu klama le terdi .i la .iaves. cavgau le bratu le misrygu'e
 
 @c    9:24. And the hail and fire mixt with it drove on together:  and it was
 @c    of so great bigness, as never before was seen in the whole land of
 @c    Egypt since that nation was founded.
+9:24. .i le bratu ku joi le fagri cu se simle'a
 
 @c    9:25. And the hail destroyed through all the land of Egypt all things
 @c    that were in the fields, both man and beast:  and the hail smote every
@@ -1042,9 +1048,12 @@ ze'eku gi'e termojysni mi ca ro rorke'u li'u li'u
 
 @c    9:31. The flax therefore, and the barley were hurt, because the barley
 @c    was green, and the flax was now bolled;
+9:31. .i le matli .e le bavmi cu se daspo .iseja'eke le bavmi cu banro la
+.aVIV .ije le matli cu banro la giv,OL
 
 @c    9:32. But the wheat, and other winter corn were not hurt, because they
 @c    were lateward.
+9:32. .iku'i le maxri .e le maxrnspelta na se daspo gi'e seja'ebo toltinsa
 
 @c    9:33. And when Moses was gone from Pharao out of the city, he stretched
 @c    forth his hands to the Lord:  and the thunders and the hail ceased,

@@ -88,6 +88,7 @@ KRASI
 @comment  node-name, next,      previous,  up
 @section  papipapipamo'o [Genesis Chapter 1]
 
+to'i la'e lu KRASI li'u pamoi parcatu toi ---------------------------------
 
 @c    God createth Heaven and Earth, and all things therein, in six days.
 
@@ -99,14 +100,14 @@ KRASI
 @c    1:2. And the earth was void and empty, and darkness was upon the face
 @c    of the deep; and the spirit of God moved over the waters.
 1:2. .i le terdi cu kalsa gi'e kunti .ije le manku cu sefta le condi .i le
-ruxse'i be la cevni cu fregau le djacu
+ruxse'i be la cevni cu fulta le djacu
 @c .i le terdi cu na'e seltarmi je kunti
 @c .ijebo manku vi ga'u le condi
 @c .ije le pruxi be la cevni cu fulta ga'u loi djacu
 @c Why 'fregau'? 'fulta' seems best to me, and I can't see where 'ferti' comes in.
 
 @c    1:3. And God said:  Be light made.  And light was made.
-1:3. .i la cevni cu cusku lu ko gusni li'u .ije co'a gusni
+1:3. .i la cevni cu cusku lu ca'e gusni li'u .ije co'a gusni
 @c .i bacru fa la cevni lu .e'o gusni li'u
 @c .ijebo gusni
 
@@ -114,12 +115,12 @@ ruxse'i be la cevni cu fregau le djacu
 @c    from the darkness.
 1:4. .i la cevni cu ga'ezga le gusni le ka xamgu .i seirgau le gusni le manku
 @c .i zgana fa la cevni le gusni fi'o se jinvi loza'i xamgu
-@c .i fedri'a fa la cevni fo le gusni ku ce le manku (ku)
+@c .i la cevni cu seirgau le gusni le manku
 
 @c    1:5. And he called the light Day, and the darkness Night; and there was
 @c    evening and morning one day.
-1:5. .i te cmene le gusni ce'e zo donri pe'eje le manku ce'e zo nicte .i le
-nicte joi le donri cu pamei djedi
+1:5. .i la cevni te cmene le gusni zo donri gi'e te cmene le manku zo nicte
+.i le nicte joi le donri cu pamei djedi
 @c .i te cmene fa la cevni le gusni zo donri gi'e te cmene le manku zo nicte
 @c .i vanci .i cerni .i pamei djedi
 @c The verb 'kara' is repeated in the Hebrew? Why not repeat it here instead
@@ -128,7 +129,7 @@ nicte joi le donri cu pamei djedi
 @c    1:6. And God said:  Let there be a firmament made amidst the waters:  and
 @c    let it divide the waters from the waters.
 1:6. ni'o
-bacru fa la cevni lu .e'o sligu ne'i loi djacu
+la cevni cu bacru lu ca'e sligu ne'i loi djacu
 gi'e fendi fi lei djacu ku ce lei djacu (ku) li'u
 @c There needs to be a consistent style for all the 'let there be', and I don't
 @c think that '.e'o' is the best way to do it.
@@ -141,38 +142,39 @@ gi'e fendi fi lei djacu ku ce lei djacu (ku) li'u
 
 @c    1:7. And God made a firmament, and divided the waters that were under
 @c    the firmament, from those that were above the firmament, and it was so.
-1:7. .ije zbasu fa la cevni le sligu
-.ijebo fedri'a fo lei djacu poi gapru le sligu ku'o
-ce lei djacu poi cnita le sligu
+1:7. .i la cevni cu zbasu le sligu
+.ibo seirgau lei djacu poi gapru le sligu ku'o
+lei djacu poi cnita le sligu
 .i zasti
 @c I think that the consecutive vavs should not be translated by 'je'.
+@c Is {sligu} right? It doesn't sound right to me. -phma
 
 @c    1:8. And God called the firmament, Heaven; and the evening and morning
 @c    were the second day.
-1:8. .i te cmene fa la cevni le sligu zo tsani
+1:8. .i la cevni cu te cmene le sligu zo tsani
 .i vanci .i cerni .i remoi djedi
 
 @c    1:9. God also said; Let the waters that are under the heaven, be
 @c    gathered together into one place:  and let the dry land appear.  And it
 @c    was so done.
 1:9. ni'o
-bacru fa la cevni lu .e'o se jmaji fa lei djacu poi cnita le tsani
-fi pa stuzi
-.iseri'abo se viska .e'o fa lei sudytumla li'u
+la cevni cu bacru lu ca'e lei djacu poi cnita le tsani cu se jmaji
+pa stuzi
+.iseri'abo lei sudytumla cu tolcanci ca'e li'u
 .i zasti
 @c better 'tolcanci' than 'viska'.
 
 @c    1:10. And God called the dry land, Earth; and the gathering together of
 @c    the waters, he called Seas.  And God saw that it was good.
-1:10. .i te cmene fa la cevni lei sudytumla zo terdi gi'e te cmene lei te jmaji
+1:10. .i la cevni cu te cmene lei sudytumla zo terdi gi'e te cmene lei se jmaji
 be lei djacu zo xamsi
 @c 'se jmaji', the place they gather to, not the place they gather from.
-.i zgana fa la cevni fi'o se jinvi loza'i xamgu
+.i la cevni cu ga'ezga fi loza'i xamgu
 
 @c    1:11. And he said:  let the earth bring forth green herb, and such as
 @c    may seed, and the fruit tree yielding fruit after its kind, which may
 @c    have seed in itself upon the earth.  And it was so done.
-1:11. .i bacru fa la cevni lu .e'o ferti fa le terdi loi srasu je spati noi
+1:11. .i la cevni cu bacru lu ca'e le terdi cu ferti loi srasu je spati noi
 se tsiju loi tsiju ku'o .e loi grute tricu noi cupra loi grute
 noi lo tsiju be ra cu nenri ke'a ku'o ku'o zi'e pe vi le terdi li'u
 .i zasti
@@ -181,10 +183,10 @@ noi lo tsiju be ra cu nenri ke'a ku'o ku'o zi'e pe vi le terdi li'u
 @c    1:12. And the earth brought forth the green herb, and such as yieldeth
 @c    seed according to its kind, and the tree that beareth fruit, having
 @c    seed each one according to its kind.  And God saw that it was good.
-1:12. .i cupra fa le terdi loi srasu je spati noi se tsiju loi jutsi tsiju ku'o
+1:12. .i le terdi cu cupra loi srasu je spati noi se tsiju loi jutsi tsiju ku'o
 .e loi tricu poi cupra loi grute noi lo tsiju be ra cu nenri ke'a ku'o ku'o
 zi'e ne ja'i lera jutsi
-.i zgana fa la cevni fi'o se jinvi loza'i xamgu
+.i la cevni cu ga'ezga fi loza'i xamgu
 
 @c    1:13. And the evening and the morning were the third day.
 1:13. .i vanci .i cerni .i cimoi djedi
@@ -193,20 +195,20 @@ zi'e ne ja'i lera jutsi
 @c    heaven, to divide the day and the night, and let them be for signs, and
 @c    for seasons, and for days and years:
 1:14. ni'o
-bacru fa la cevni lu .e'o tergusni tu'i le tsani sligu
-.iseri'abo fendi .e'o fi le'e donri ku ce le'e nicte
+la cevni cu bacru lu ca'e tergusni tu'i le tsani sligu
+.ibo sepri'a ca'e lo'e donri lo'e nicte
 @c Maybe 'lo'e' would be better, if we could agree on what that means.
-.ije sinxa ce cabysni ce djesni ce nacysni
+.ije se smuni lo sinxa .e lo citsi .e lo djedi .e lo nanca
 @c I don't see the point of 'ce'; 'je', 'joi', or 'fa'u' all work better.
 
 @c    1:15. To shine in the firmament of heaven, and to give light upon the
 @c    earth, and it was so done.
-1:15. .i ke'u.e'o tergusni tu'i le tsani sligu (fe) le terdi li'u
+1:15. .i ke'u ca'e tergusni tu'i le tsani sligu (fe) le terdi li'u
 .i zasti
 
 @c    1:16. And God made two great lights:  a greater light to rule the day;
 @c    and a lesser light to rule the night:  and the stars.
-1:16. .i zbasu fa la cevni le re barda tergusni no'u le barda tergusni poi
+1:16. .i la cevni cu zbasu le re barda tergusni no'u le barda tergusni poi
 turni le'e donri ku'o jo'u le cmalu tergusni poi turni le'e nicte
 ge'u .e loi tarci
 
@@ -219,15 +221,15 @@ ge'u .e loi tarci
 
 @c    1:17. And he set them in the firmament of heaven to shine upon the
 @c    earth.
-1:17. .i punji fa la cevni ra le tsani sligu semu'i lenu te gusni lo terdi kei
+1:17. .i la cevni cu punji  ra le tsani sligu tezu'e lenu te gusni le terdi kei
 @c "semu'i" or "mu'i"? The putting motivates the shining?
 @c Also, I definately think it should be 'le terdi' instead of 'lo terdi'.
 
 @c    1:18. And to rule the day and the night, and to divide the light and
 @c    the darkness.  And God saw that it was good.
 1:18. .e lenu turni le'e donri .e le'e nicte kei
-.e lenu fendi fi le gusni ku ce le manku
-.i zgana fa la cevni fi'o se jinvi loza'i xamgu
+.e lenu seirgau le gusni le manku
+.i la cevni cu ga'ezga loza'i xamgu
 
 @c    1:19. And the evening and morning were the fourth day.
 1:19. .i vanci .i cerni .i vomoi djedi
@@ -236,10 +238,10 @@ ge'u .e loi tarci
 @c    having life, and the fowl that may fly over the earth under the
 @c    firmament of heaven.
 1:20. ni'o
-bacru fa la cevni lu .e'o ferti fa lei djacu loi so'imei danlu
-noi jmive .e loi cipni poi voirli'u ga'u lei terdi tu'i le tsani sligu
+la cevni cu bacru lu ca'e lei djacu cu ferti loi so'imei danlu
+noi jmive .e loi cipni poi vofli ga'u lei terdi tu'i le tsani sligu
 li'u
-@c I think that "voirli'u" should be "vofli", as it's not 
+@c I think that "voirli'u" should be "vofli", as it's not
 @c mentioned that they're going anywhere.
 
 @c    1:21. And God created the great whales, and every living and moving
@@ -949,6 +951,8 @@ ganlo le tricu be le kamji'e
 
 @c    6:8. But Noe found grace before the Lord.
 
+to'i la'e lu NO,AX li'u remoi parcatu toi ---------------------------------
+
 @c    6:9. These are the generations of Noe:  Noe was a just and perfect man
 @c    in his generations, he walked with God.
 
@@ -1513,6 +1517,8 @@ ganlo le tricu be le kamji'e
 @c    Genesis Chapter 12
 
 
+to'i la'e lu KO KLAMA li'u cimoi parcatu toi ---------------------------------
+
 @c    The call of Abram, and the promise made to him.  He sojourneth in
 @c    Chanaan, and then by occasion of a famine, goeth down to Egypt.
 
@@ -2008,6 +2014,8 @@ ganlo le tricu be le kamji'e
 
 @c    Genesis Chapter 18
 
+
+to'i la'e lu JARCO li'u vomoi parcatu toi ---------------------------------
 
 @c    Angels are entertained by Abraham.  They foretell the birth of Isaac.
 @c    Abraham's prayer for the men of Sodom.
@@ -2567,6 +2575,8 @@ ganlo le tricu be le kamji'e
 @c    Genesis Chapter 23
 
 
+to'i la'e lu LA SARAT PU NANCA li'u mumoi parcatu toi ---------------------------------
+
 @c    Sara's death and burial in the field bought of Ephron.
 
 @c    23:1. And Sara lived a hundred and twenty-seven years.
@@ -2950,6 +2960,8 @@ ganlo le tricu be le kamji'e
 @c    25:18. And he dwelt from Hevila as far as Sur, which looketh towards
 @c    Egypt, to them that go towards the Assyrians.  He died in the presence
 @c    of all his brethren.
+
+to'i la'e lu DZECITRI li'u xamoi parcatu toi ---------------------------------
 
 @c    25:19. These also are the generations of Isaac the son of Abraham:
 @c    Abraham begot Isaac:
@@ -3343,6 +3355,8 @@ ganlo le tricu be le kamji'e
 @c    28:9. He went to Ismael, and took to wife, besides them he had before,
 @c    Maheleth, the daughter of Ismael, Abraham's son, the sister of
 @c    Nabajoth.
+
+to'i la'e lu CLIVA li'u zemoi parcatu toi ---------------------------------
 
 @c    28:10. But Jacob being departed from Bersabee, went on to Haran.
 
@@ -3882,8 +3896,13 @@ ganlo le tricu be le kamji'e
 @c    32:2. And when he saw them, he said:  These are the camps of God, and he
 @c    called the name of that place Mahanaim, that is, Camps.
 
+to'i la'e lu LIDNE BENJI li'u bimoi parcatu toi ---------------------------------
+
 @c    32:3. And he sent messengers before him to Esau, his brother, to the
 @c    land of Seir, to the country of Edom:
+
+32:4. .i la .iaKOV. cu lidne be ri be'o benji fi la .eSAV noi bruna vo'a
+vi la se,IR. noi tutra le gugde po'u la .eDOM. ku'o ku'o fu le xe benji
 
 @c    32:4. And he commanded them, saying:  Thus shall ye speak to my lord
 @c    Esau:  Thus saith thy brother Jacob:  I have sojourned with Laban, and
@@ -4440,12 +4459,15 @@ ganlo le tricu be le kamji'e
 @c    Genesis Chapter 37
 
 
+to'i la'e lu XABJU li'u somoi parcatu toi ---------------------------------
+
 @c    Joseph's dreams:  he is sold by his brethren, and carried into Egypt.
 
 @c    37:1. And Jacob dwelt in the land of Chanaan, wherein his father
 @c    sojourned.
 
 .i la .iaKOV. xabju le gugde poi se xabju le patfu be vo'a zi'eno'u la kyna,an noi gugde
+@c The second {xabju} should be {fangyxabju} or {fangyli'u} or the like. -phma
 
 @c    37:2. And these are his generations:  Joseph, when he was sixteen years
 @c    old, was feeding the flock with his brethren, being but a boy:  and he
@@ -5074,6 +5096,8 @@ cu kansa .ibu .i ro se gasnu be .ibu cu se snada gau la turni
 
 @c    Genesis Chapter 41
 
+
+to'i la'e lu CO'U NANCA li'u panomoi parcatu toi ---------------------------------
 
 @c    Joseph interpreteth the two dreams of Pharao:  he is made ruler over all
 @c    Egypt.
