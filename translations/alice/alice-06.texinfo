@@ -165,8 +165,16 @@ bebna li'u i abu kargau le vorme gi'e nerkla
 @c    leaning over the fire, stirring a large cauldron which seemed to
 @c    be full of soup.
 
+i le vorme cu pluta lo barda jupku'a noi culno lo danmo ve'a lo fanmo
+kubi'i le drata i le noltroni'u cu zutse lo cibyseltuple stizu bu'u le
+midju gi'e kurji lo cifnu i le jukpe cu korcu ga'u le fagri gi'e jicla
+do'e lo barda patxu noi simlu le ka culno lo stasu
+
 @c      `There's certainly too much pepper in that soup!' Alice said to
 @c    herself, as well as she could for sneezing.
+
+i lu ju'o pidu'e tsaprpaprika cu nenri le va stasu li'u se sezysku 
+la alis noi ru'i senci
 
 @c      There was certainly too much of it in the air.  Even the
 @c    Duchess sneezed occasionally; and as for the baby, it was
