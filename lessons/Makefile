@@ -1,7 +1,10 @@
 DSSSLLOC=../dsssl/docbook
-SOURCE=less1.doc.xml less2.doc.xml less3.doc.xml less4.doc.xml less5.doc.xml less6.doc.xml less7.doc.xml less8.doc.xml less9.doc.xml less10.doc.xml less11.doc.xml lessintro.doc.xml
+SOURCE=less1.doc.xml less2.doc.xml less3.doc.xml less4.doc.xml less5.doc.xml less6.doc.xml less7.doc.xml less8.doc.xml less9.doc.xml less10.doc.xml less11.doc.xml less12.doc.xml less13.doc.xml less14.doc.xml less15.doc.xml lessintro.doc.xml
 
-all: rtf tex html
+all: rtf paperback tex html
+
+paperback: lessStart.doc.xml $(SOURCE)
+	openjade -E 0 -t rtf -d $(DSSSLLOC)/print/my_docbook.paperback.dsl xml.dcl lessStart.doc.xml
 
 rtf: lessStart.doc.xml $(SOURCE)
 	openjade -E 0 -t rtf -d $(DSSSLLOC)/print/my_docbook.print.dsl xml.dcl lessStart.doc.xml
