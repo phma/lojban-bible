@@ -179,7 +179,7 @@ bar.</para></listitem>
 <foreignphrase lang="art-lojban">ba'o</foreignphrase> describe situations 
 in which the event is still not going on, or is no longer going on: if you 
 draw a time-line, they are outside of the line corresponding to the event. 
-But beginnings and endings are pretty conspicious, as moments go. So we 
+But beginnings and endings are pretty conspicuous, as moments go. So we 
 often want to point out that we are not before the beginning of the event, 
 but right at the point when it begins; and not after the end of the event, but 
 right at 
@@ -246,7 +246,7 @@ lang="art-lojban">selma'o</foreignphrase> COI.)</para>
 <para>Natural languages don't distinguish as carefully between these 
 various contexts, expect in fairly artificial contexts: for example, 
 conversations over two-way radio, where it is impossible to talk over each 
-other, or to negotatiate whose turn it is to speak through subtle visual 
+other, or to negotiate whose turn it is to speak through subtle visual 
 cues. (A less elaborate vocabulary is in place for IRC, its Internet 
 equivalent.) 
 This means that Lojban vocatives look a little like a CB enthusiast's nightmare, 
@@ -317,7 +317,7 @@ but in Italian is <foreignphrase lang="ita">Pronto</foreignphrase> <quote
 role="gloss">Ready!</quote>.)</para></listitem>
 
 <listitem><para><foreignphrase
-lang="art-lojban">mu'o</foreignphrase> is what you say when you explictly
+lang="art-lojban">mu'o</foreignphrase> is what you say when you explicitly
 make it another speaker's turn to speak: it's the <quote>Over!</quote> of
 radio.</para></listitem>
 
@@ -406,7 +406,7 @@ lang="art-lojban">lujvo</foreignphrase> in <link linkend="less8">Lesson
 8</link>. As we said there, <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> are the main way of introducing new
 words &mdash; more precisely, new <foreignphrase
-lang="art-lojban">selbri</foreignphrase> &mdash; into Lojban. The most
+lang="art-lojban">brivla</foreignphrase> &mdash; into Lojban. The most
 important thing about <foreignphrase
 lang="art-lojban">lujvo</foreignphrase> is that, as <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, they are meant to have very
@@ -576,7 +576,7 @@ lang="art-lojban">du</foreignphrase> here kind of acts like <quote
 role="gloss">is one of</quote>. The answer is, yes you can, because in this
 context they both do refer to the same person. (In strict logical terms:
 there is at least one person such that that person is me.) This is frowned
-upon in Lojban in general, though, because it's miselading: <foreignphrase
+upon in Lojban in general, though, because it's misleading: <foreignphrase
 lang="art-lojban">du</foreignphrase> tends to be reserved for mathematical
 equality, and for claiming that two different names (or definite nouns)
 refer to the same thing. If you really wanted to say <foreignphrase
@@ -1249,3 +1249,4 @@ there; but that's the next chapter of the saga...)</para></listitem>
 </sect1>
 
 </chapter>
+

@@ -187,7 +187,7 @@ between <foreignphrase lang="art-lojban">lo</foreignphrase> and
 
 <para>Let us now consider the English sentence <quote>Three men carried a 
 piano</quote>. This sentence has two potential meanings, as does any 
-sentence involving a plural in Lojban. You could be saying that the sentence holds 
+sentence involving a plural in English. You could be saying that the sentence holds 
 true for each individual of the group. If the men involved are Andy, 
 Barry, and Chris, you might be saying that Andy carried the piano, and 
 Barry carried the piano, and Chris carried the piano. Alternatively, you could be saying 
@@ -255,6 +255,22 @@ lang="art-lojban"><emphasis>loi</emphasis> nanmu cu bevri le
 pipno</foreignphrase>, and the throng of women kissing me (!)  as
 <foreignphrase lang="art-lojban"><emphasis>lei</emphasis> pano ninmu cu cinba
 mi</foreignphrase>. </para>
+
+<tip><title>For advanced students only</title><para>Once you have been 
+involved with Lojban for a while, you will notice that you will see <foreignphrase 
+lang="art-lojban">loi</foreignphrase> a lot, and <foreignphrase 
+lang="art-lojban">lu'o lo</foreignphrase> hardly ever. So how do you get 
+the number <quote role="gloss">three</quote> back into an expression like <foreignphrase 
+lang="art-lojban">loi nanmu cu bevri le pipno</foreignphrase>? You cannot 
+say <foreignphrase lang="art-lojban">loi ci nanmu cu bevri le 
+pipno</foreignphrase>, because that means that there are only three men 
+that exist in the universe. You cannot say <foreignphrase 
+lang="art-lojban">ci loi nanmu cu bevri le pipno</foreignphrase>, because 
+the three men act as one mass, not as three. As it turns out (by extension 
+of a little-known mechanism documented in <citetitle>The Complete Lojban 
+Language</citetitle>, p. 132&ndash;133), the way to do it is <foreignphrase 
+lang="art-lojban">loi ci lo nanmu cu bevri le pipno</foreignphrase>: 
+<quote>The mass of three out of [all] men carries the piano.</quote></para></tip>
 
 <simplesect role="exercise"><title>Exercise 2</title>
 <para>In the following English sentences, are the emphasised nouns individuals (prefixed in Lojban with <foreignphrase lang="art-lojban">le</foreignphrase> or <foreignphrase lang="art-lojban">lo</foreignphrase>) or masses (prefixed in Lojban with <foreignphrase lang="art-lojban">lei</foreignphrase> or <foreignphrase lang="art-lojban">loi</foreignphrase>)?
@@ -855,8 +871,12 @@ mass, if that's useful to you (particularly if you're buying in
 bulk.)</para></listitem>
 
 <listitem><para>Mass. The statement is not necessarily true of individual
-elephants, but it is true of elephants <emphasis>as a whole</emphasis>.
-</para></listitem>
+elephants, but it is true of elephants <emphasis>as a whole</emphasis>. (To
+stress that elephants <emphasis>normally</emphasis> live to an old age, you
+would have to attribute long life, not to the mass of elephants, but to the
+<emphasis>typical</emphasis> elephant: <foreignphrase
+lang="art-lojban">lo'e xanto</foreignphrase>, rather than <foreignphrase
+lang="art-lojban">loi xanto</foreignphrase>. </para></listitem>
 
 <listitem><para>Individual. All elephants by definition (as it were) have
 flat ears; so the claim is true of each individual elephant. Once again,

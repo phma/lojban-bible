@@ -626,7 +626,7 @@ ownership in Lojban any more than in English. (That also holds when you
 leave the <foreignphrase lang="art-lojban">pe</foreignphrase> out.) For
 instance, if I say <quote>Danny's desk</quote> (<foreignphrase
 lang="art-lojban">le gunjubme pe la danis.</foreignphrase> or
-<foreignphrase lang="art-lojban">le la danis. gunjumbe</foreignphrase>) at
+<foreignphrase lang="art-lojban">le la danis. gunjubme</foreignphrase>) at
 an office, I probably don't mean that Danny <emphasis>owns</emphasis> the
 desk (in all likelihood the company does), but simply that he sits there
 all the time and keeps his stuff there.</para>
@@ -634,7 +634,8 @@ all the time and keeps his stuff there.</para>
 <para>You can get more specific if you want &mdash; though Lojbanists tend 
 not to. If you want to say there is actual ownership involved, you use <foreignphrase
 lang="art-lojban">po</foreignphrase> instead of <foreignphrase
-lang="art-lojban">pe</foreignphrase>. <foreignphrase lang="art-lojban">le gunjumbe
+lang="art-lojban">pe</foreignphrase>. <foreignphrase lang="art-lojban">le 
+gunjubme
 po la danis.</foreignphrase>, for instance, means that this is the desk 
 Danny actually paid money for at a store. And like anything he owns, he can 
 sell it, or give it away, in which case it stops being his.</para>
@@ -887,7 +888,7 @@ lang="art-lojban">po</foreignphrase>.</para></listitem>
 
 <listitem><para><foreignphrase
 lang="art-lojban">pe</foreignphrase>: No real sense of <quote 
-role="socalled">possession</quote> is involed here; this is more of a 
+role="socalled">possession</quote> is involved here; this is more of a 
 unique association.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">po'e</foreignphrase>: If there's

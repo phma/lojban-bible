@@ -42,7 +42,11 @@ meet here.</para>
 indicators</wordasword> (or <wordasword>attitudinals</wordasword>), which 
 show how you feel about something. That something is whatever the 
 attitudinal follows; as we have seen, if it is next to a terminator, it's 
-a reaction to whatever phrase ends in the terminator.</para>
+a reaction to whatever phrase ends in the terminator. If it follows an 
+article, then it applies to the entire <foreignphrase
+lang="art-lojban">sumti</foreignphrase>; if it follows a connective, it 
+applies to the connective and whatever following term is is connecting; and 
+so on.</para>
 
 <para>Attitudinals belong to the <foreignphrase
 lang="art-lojban">selma'o</foreignphrase> (<foreignphrase
@@ -608,7 +612,7 @@ it turns out that <foreignphrase lang="art-lojban">zo ki'a</foreignphrase>
 doesn't mean <quote><foreignphrase lang="art-lojban">zo</foreignphrase>?
 Huh?</quote> at all, but <quote>The word <foreignphrase
 lang="art-lojban">ki'a</foreignphrase>.</quote> To ask
-<quote><foreignphrase lang="art-lojban">ki'a</foreignphrase>? Huh?</quote>,
+<quote><foreignphrase lang="art-lojban">zo</foreignphrase>? Huh?</quote>,
 you'll have to resort to (wait for it) <foreignphrase lang="art-lojban">zo
 zo ki'a</foreignphrase>.</para></note> </listitem>
 
@@ -1120,3 +1124,4 @@ before it.)</para></listitem>
 </sect1>
 
 </chapter>
+

@@ -87,8 +87,16 @@ role="gloss">past</quote> or <quote role="gloss">earlier</quote>,
 
 </para>
 
-<para>If we only want to say that Susan came to the bar later, and Zhang's
-leaving is unimportant or understood, we can then say:
+<para>Whenever we use <foreignphrase lang="art-lojban">ba</foreignphrase>
+and <foreignphrase lang="art-lojban">pu</foreignphrase> like this, we are
+situating the time of one event relative to the time of another. The time
+we will most frequently want to use as a reference point is the speaker's
+here-and-now. If we want to situate the event in the main <foreignphrase
+lang="art-lojban">bridi</foreignphrase> relative to the here-and-now, we
+can leave out the <foreignphrase lang="art-lojban">sumti</foreignphrase>,
+and just use the tense <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> on its own. So if we want to
+say that Susan came to the bar after now, and not after Zhang's leaving, we can then say:
 
 
 <informalexample><para><foreignphrase lang="art-lojban">baku la suzyn. klama le
@@ -102,8 +110,7 @@ lang="art-lojban">ku</foreignphrase> is necessary to separate the <foreignphrase
 lang="art-lojban">ba</foreignphrase> from <foreignphrase lang="art-lojban">la
 suzyn.</foreignphrase> (you can also say it as two separate words,
 <foreignphrase lang="art-lojban">ba ku</foreignphrase> &mdash; it makes no
-difference). Similarly, <quote>Zhang left earlier</quote> or <quote>Zhang
-had left</quote> would be:
+difference). Similarly, <quote>Zhang left earlier (than now)</quote> would be:
 
 
 <informalexample><para><foreignphrase lang="art-lojban">puku la jang.
@@ -116,66 +123,29 @@ lang="art-lojban">ba</foreignphrase> starts a <foreignphrase
 lang="art-lojban">sumti</foreignphrase>, and <foreignphrase
 lang="art-lojban">ku</foreignphrase> ends the <foreignphrase
 lang="art-lojban">sumti</foreignphrase> &mdash; but the <foreignphrase
-lang="art-lojban">sumti</foreignphrase> itself has been left out. So
+lang="art-lojban">sumti</foreignphrase> itself has been left out, as we 
+said. So
 <foreignphrase lang="art-lojban">ba ku</foreignphrase> means <foreignphrase
 lang="art-lojban">ba ... ku</foreignphrase>: <quote role="gloss">after
-[something].</quote> This is just the same as saying <foreignphrase
-lang="art-lojban">ba zo'e</foreignphrase>. (Remember that <foreignphrase
-lang="art-lojban">zo'e</foreignphrase> is the placeholder you use when you don't
-care what a <foreignphrase lang="art-lojban">sumti</foreignphrase> is.)</para>
-
-<para>If we didn't have the <foreignphrase lang="art-lojban">ku</foreignphrase> in
+[something].</quote> If we didn't have the <foreignphrase lang="art-lojban">ku</foreignphrase> in
 place, the <foreignphrase lang="art-lojban">ba</foreignphrase> would swallow up
 any <foreignphrase lang="art-lojban">sumti</foreignphrase> following it. So
 <foreignphrase lang="art-lojban">ba la jang. cliva</foreignphrase> means not
 <quote>afterwards Zhang left</quote>, but <quote>after Zhang, (she)
-left.</quote> What the left-out <foreignphrase
-lang="art-lojban">sumti</foreignphrase> in <foreignphrase
-lang="art-lojban">baku</foreignphrase> means depends on the context &mdash; just
-as what <wordasword>afterwards</wordasword> is actually after. </para>
+left.</quote></para>
 </note>
 
 <para>
 Let's imagine that Susan is not so unlucky, and arrives just as Zhang is
 leaving.  We can then say:
 
-<informalexample><literallayout>
-<foreignphrase lang="art-lojban">caku la suzyn. klama le barja</foreignphrase>
-At that moment, Susan came.</literallayout>
-</informalexample>
+<informalexample><literallayout><foreignphrase lang="art-lojban">ca lenu la jang. cliva le barja kei la suzyn. klama le barja</foreignphrase>
+At the moment when Zhang was leaving the bar, Susan came to the bar.</literallayout></informalexample>
 
-which is an easier way to say
-
-<informalexample><para><foreignphrase lang="art-lojban">ca lenu la jang. cliva le
-barja kei la suzyn. klama le barja</foreignphrase></para></informalexample>
-
-</para>
-
-<note><para>There is a difference between <foreignphrase
-lang="art-lojban">ku</foreignphrase> and <foreignphrase
-lang="art-lojban">kei</foreignphrase> here: <foreignphrase
-lang="art-lojban">ku</foreignphrase> separates the <foreignphrase
-lang="art-lojban">ca</foreignphrase> from the rest of the sentence, while
-<foreignphrase lang="art-lojban">kei</foreignphrase> terminates an event. We could
-have said <foreignphrase lang="art-lojban">le barja ku kei ku</foreignphrase>: the
-first <foreignphrase lang="art-lojban">ku</foreignphrase> matches <foreignphrase
-lang="art-lojban"><emphasis>le</emphasis> barja</foreignphrase>, the
-<foreignphrase lang="art-lojban">kei</foreignphrase> matches <foreignphrase
-lang="art-lojban"><emphasis>nu</emphasis> la jang. cliva le barja</foreignphrase>,
-and the second <foreignphrase lang="art-lojban">ku</foreignphrase> matches
-<foreignphrase lang="art-lojban"><emphasis>le</emphasis>nu la jang. cliva le
-barja</foreignphrase>. Because the syntax is unambiguous, we could even
-have said <foreignphrase lang="art-lojban">lenu la jang. cliva le barja ku
-ku</foreignphrase> &mdash; though we might be thought slightly cuckoo to
-say it like that.)
-
-</para></note>
-
-<para>
 <foreignphrase lang="art-lojban">ca</foreignphrase> also comes from a
 <foreignphrase lang="art-lojban">gismu</foreignphrase>, in this case
 <foreignphrase lang="art-lojban">cabna</foreignphrase>, which means
-<quote role="gloss">now</quote> or <quote role="gloss">simultaneous with</quote>, so another way to
+<quote role="gloss">simultaneous with</quote>, so another way to
 say the same thing would be
 
 
@@ -185,6 +155,47 @@ The event of Zhang leaving the bar is simultaneous with the event of Susan comin
 </informalexample>
 
 </para>
+
+<note><para>There is a difference between <foreignphrase
+lang="art-lojban">ku</foreignphrase> and <foreignphrase
+lang="art-lojban">kei</foreignphrase> in these sentences: <foreignphrase
+lang="art-lojban">ku</foreignphrase> separates the <foreignphrase
+lang="art-lojban">ca</foreignphrase> from the rest of the sentence, while
+<foreignphrase lang="art-lojban">kei</foreignphrase> terminates an event.
+Instead of <foreignphrase lang="art-lojban">ca lenu la jang. cliva le barja
+kei</foreignphrase>, we could have said <foreignphrase lang="art-lojban">ca
+lenu la jang. cliva le barja ku kei ku</foreignphrase>: the first
+<foreignphrase lang="art-lojban">ku</foreignphrase> matches <foreignphrase
+lang="art-lojban"><emphasis>le</emphasis> barja</foreignphrase>, the
+<foreignphrase lang="art-lojban">kei</foreignphrase> matches <foreignphrase
+lang="art-lojban"><emphasis>nu</emphasis> la jang. cliva le
+barja</foreignphrase>, and the second <foreignphrase
+lang="art-lojban">ku</foreignphrase> matches <foreignphrase
+lang="art-lojban"><emphasis>le</emphasis>nu la jang. cliva le
+barja</foreignphrase>. Because the syntax is unambiguous, we could even
+have said <foreignphrase lang="art-lojban">lenu la jang. cliva le barja ku
+ku</foreignphrase> &mdash; though we might be thought slightly cuckoo to
+say it like that.)
+
+</para></note>
+
+<para>If you leave out the <foreignphrase 
+lang="art-lojban">sumti</foreignphrase> following <foreignphrase 
+lang="art-lojban">ca</foreignphrase>, the resulting phrase <foreignphrase 
+lang="art-lojban">caku</foreignphrase> is interpreted as <quote 
+role="gloss">simultaneous with the speaker's here-and-now</quote>. If 
+something is simultaneous with the here-and-now, then of course that means 
+it is happening now; so <foreignphrase 
+lang="art-lojban">caku</foreignphrase> itself just means <quote 
+role="gloss">now</quote>:
+
+<informalexample><literallayout>
+<foreignphrase lang="art-lojban">caku la suzyn. klama le barja</foreignphrase>
+Now, Susan goes to the bar.</literallayout>
+</informalexample>
+
+</para>
+
 
 <para>We now have three <quote role="socalled">time words</quote>:
 <foreignphrase lang="art-lojban">pu</foreignphrase> (before), <foreignphrase
@@ -217,11 +228,11 @@ We could then say:
 barja</foreignphrase></para></informalexample>
 
 
-or as two <foreignphrase lang="art-lojban">bridi</foreignphrase>,
+And if you're in the position of having to tell Susan that she's just 
+missed Zhang, you would say:
 
 
-<informalexample><para><foreignphrase lang="art-lojban">la jang. cliva le barja
-.i caziku la suzyn. klama</foreignphrase></para></informalexample></para>
+<informalexample><para><foreignphrase lang="art-lojban">puziku la jang. cliva le barja</foreignphrase></para></informalexample></para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 <variablelist>
@@ -302,21 +313,33 @@ till later to avoid the danger of <foreignphrase
 lang="art-lojban">malglico</foreignphrase>!
 
 
-</para> <para> Basically, any time <foreignphrase
-lang="art-lojban">cmavo</foreignphrase> can go before a <foreignphrase
+</para> 
+
+<para>Basically, any time <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> (or sequence of <foreignphrase
+lang="art-lojban">cmavo</foreignphrase>) can go before a <foreignphrase
 lang="art-lojban">selbri</foreignphrase> and put the whole <foreignphrase
-lang="art-lojban">bridi</foreignphrase> into that time. So
+lang="art-lojban">bridi</foreignphrase> into that time. This is precisely
+the same thing the time <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> would be doing if followed
+immediately by <foreignphrase lang="art-lojban">ku</foreignphrase>, with an
+empty <foreignphrase lang="art-lojban">sumti</foreignphrase> in between. So
 
 
 <informalexample><para> <foreignphrase lang="art-lojban">la jang. pu cliva le
 barja</foreignphrase></para></informalexample>
 
+and 
 
-means <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left the
-bar.</quote> We can do the same thing with <foreignphrase
-lang="art-lojban">zi/za/zu</foreignphrase>, so <foreignphrase lang="art-lojban">la jang.
-puza cliva le barja</foreignphrase> means <quote>Zhang left the bar a while
-ago.</quote>
+<informalexample><para> <foreignphrase lang="art-lojban">puku la jang. cliva le
+barja</foreignphrase></para></informalexample>
+
+both mean <quote>Zhang before-leave the bar,</quote> or <quote>Zhang left
+the bar.</quote> We can do the same thing with <foreignphrase
+lang="art-lojban">zi/za/zu</foreignphrase>, so <foreignphrase
+lang="art-lojban">la jang. puza cliva le barja</foreignphrase>, just like
+<foreignphrase lang="art-lojban">puzaku la jang. cliva le
+barja</foreignphrase>, means <quote>Zhang left the bar a while ago.</quote>
 
 
 </para> 
@@ -357,6 +380,7 @@ lang="art-lojban">sumti</foreignphrase>.
 <foreignphrase lang="art-lojban">la bil. ze'u pinxe loi birje</foreignphrase>
 Bill drinks beer for a long time.
 </literallayout>
+
 Remember: you don't drink something which is <emphasis>a</emphasis> beer, but 
 rather something which is <emphasis>some</emphasis> beer. As discussed way 
 back in <link linkend="less4">Lesson 4</link>, that means a mass rather than an 
@@ -450,11 +474,13 @@ or, more naturally, <quote>I work here.</quote>
 </para>
 
 <para>We've seen that <foreignphrase lang="art-lojban">puku</foreignphrase> means
-<quote role="gloss">before something</quote> (as in <foreignphrase
-lang="art-lojban">pu lenu la jang. cliva kei</foreignphrase>). Similarly,
+<quote role="gloss">before the here-and-now</quote>. Similarly,
 <foreignphrase lang="art-lojban">vi ku</foreignphrase> means <quote
-role="gloss">in the immediate vicinity of something</quote>, and we can expand it in
-the same way to say what the <quote role="gloss">something</quote> is, e.g.
+role="gloss">in the immediate vicinity of the here-and-now</quote>, i.e. 
+<quote role="gloss">here</quote>. If we don't want to make the location 
+relative to the speaker, but relative to something else, we can fill the 
+empty <foreignphrase lang="art-lojban">sumti</foreignphrase> value in, in
+the same way, to say what an event is in the immediate vicinity of; e.g.
 
 
 <informalexample>
@@ -480,12 +506,12 @@ A medium distance from where Kennedy was killed, I work</literallayout>
 
 </para>
 
-<para>Note the <foreignphrase lang="art-lojban">kei</foreignphrase> &mdash; if it
-wasn't there, <foreignphrase lang="art-lojban">catra</foreignphrase> would run
+<note><para>If <foreignphrase lang="art-lojban">kei</foreignphrase> in the 
+last sentence wasn't there, <foreignphrase lang="art-lojban">catra</foreignphrase> would run
 into <foreignphrase lang="art-lojban">mi</foreignphrase>, so the listener might
 start interpreting the sentence as <quote>A medium distance from where
 Kennedy was killed by me ...</quote>
-</para> 
+</para></note>
 
 <para>If we want to emphasise that something is at exactly the same 
 location with something else (a circumstance which holds true not as often as 

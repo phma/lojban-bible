@@ -111,7 +111,7 @@ is <foreignphrase lang="art-lojban">li pabi</foreignphrase> (18:00).
 
 </para>
 
-<para>if you insist on using twelve-hour time, you need some way of
+<para>If you insist on using twelve-hour time, you need some way of
 distinguishing between AM and PM. The conventional way in Lojban is to use
 <foreignphrase lang="art-lojban">cmene</foreignphrase> for hours, so we can
 add supplementary information like that as part of the <foreignphrase
@@ -299,7 +299,76 @@ a <foreignphrase lang="art-lojban">selbri</foreignphrase>. These aren't
 used so much in sentences as <foreignphrase
 lang="art-lojban">se</foreignphrase>, but are often used in making
 <foreignphrase lang="art-lojban">lujvo</foreignphrase> (compound words), as
-we'll see later in the course.
+we'll see later in the course.</para>
+
+<para>This conversion business, of course, doesn't apply just to sentences 
+with abstractions in them, but to any <foreignphrase 
+lang="art-lojban">bridi</foreignphrase>. You may want to change things 
+around for different emphasis (people tend to mention the more important 
+things in a sentence first), or as above, to work around the complexity of 
+Lojban grammar (<foreignphrase 
+lang="art-lojban">cu</foreignphrase> is a very powerful tool.) So the 
+following pairs mean the same thing:
+
+<itemizedlist>
+
+<listitem>
+
+<literallayout>
+<foreignphrase lang="art-lojban">mi viska do</foreignphrase>
+I see you
+</literallayout>
+
+<literallayout>
+<foreignphrase lang="art-lojban">do se viska mi</foreignphrase>
+You are seen by me
+</literallayout>
+
+</listitem>
+
+<listitem>
+
+<literallayout>
+<foreignphrase lang="art-lojban">le nanmu cu klama lo barja</foreignphrase>
+The man goes to a bar
+</literallayout>
+
+<literallayout>
+<foreignphrase lang="art-lojban">lo barja cu se klama le nanmu</foreignphrase>
+A bar is gone to by the man
+</literallayout>
+
+</listitem>
+
+<listitem>
+
+<literallayout>
+<foreignphrase lang="art-lojban">la spot. mlatu la .abisinian.</foreignphrase>
+Spot is a feline of the breed Abyssinian
+</literallayout>
+
+<literallayout>
+<foreignphrase lang="art-lojban">la .abisinian. se mlatu la spot.</foreignphrase>
+Abyssinian is the breed of cat Spot is
+</literallayout>
+
+</listitem>
+
+<listitem>
+
+<literallayout>
+<foreignphrase lang="art-lojban">lenu mi cilre la lojban. cu xamgu mi</foreignphrase>
+My learning Lojban is good for me
+</literallayout>
+
+<literallayout>
+<foreignphrase lang="art-lojban">mi se xamgu lenu mi cilre la lojban</foreignphrase>
+I am benefitted by my learning Lojban
+</literallayout>
+
+</listitem>
+
+</itemizedlist>
 
 
 </para>
@@ -308,19 +377,10 @@ we'll see later in the course.
 be really nice if <foreignphrase lang="art-lojban">klama</foreignphrase>
 had a place for the time of going/coming, but it doesn't (after all, you
 wouldn't really want a <emphasis>six</emphasis>-place <foreignphrase
-lang="art-lojban">selbri</foreignphrase>!). To get round this problem of
+lang="art-lojban">selbri</foreignphrase>!) To get round this problem of
 missing places, Lojban has a series of <foreignphrase
 lang="art-lojban">cmavo</foreignphrase> which add extra places to the
-<foreignphrase lang="art-lojban">selbri</foreignphrase>. Different types of
-<foreignphrase lang="art-lojban">cmavo</foreignphrase> belong to different
-classes (<foreignphrase lang="art-lojban">se cmavo</foreignphrase> &mdash;
-the second argument of <quote role="gloss"><foreignphrase
-lang="art-lojban">cmavo</foreignphrase></quote> as a <foreignphrase
-lang="art-lojban">gismu</foreignphrase>!), and the <foreignphrase
-lang="art-lojban">cmavo</foreignphrase> that do this kind of thing belong
-to the class BAI. (They are also called <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase> <quote role="gloss"><foreignphrase
-lang="art-lojban">sumti</foreignphrase> labels</quote>.) The one we want here is
+<foreignphrase lang="art-lojban">selbri</foreignphrase>. The one we want here is
 <foreignphrase lang="art-lojban">ti'u</foreignphrase>, meaning <quote
 role="gloss">occurring at the time of day...</quote>. So we can now say
 
@@ -344,6 +404,28 @@ lang="art-lojban">se</foreignphrase>! There is more to this lesson than
 meets the eye.
 
 </para>
+
+<note><para>Different types of <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> belong to different classes
+(<foreignphrase lang="art-lojban">se cmavo</foreignphrase>). For example,
+all articles (apart from those specific to <foreignphrase
+lang="art-lojban">cmene</foreignphrase>) belong to the same class, and all
+of them can appear in the same place in a sentence. This <foreignphrase
+lang="art-lojban">se cmavo</foreignphrase> is called LE, after the most
+widely used <foreignphrase lang="art-lojban">cmavo</foreignphrase> in the
+class, <foreignphrase lang="art-lojban">le</foreignphrase>. Likewise, the
+<foreignphrase lang="art-lojban">cmavo</foreignphrase> that introduce new
+<foreignphrase lang="art-lojban">sumti</foreignphrase> into a
+<foreignphrase lang="art-lojban">bridi</foreignphrase> belong to the class
+BAI &mdash; so named from <foreignphrase
+lang="art-lojban">bai</foreignphrase>, the <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> meaning <quote role="gloss">forced
+by</quote>. (This type of <foreignphrase
+lang="art-lojban">cmavo</foreignphrase> are also called <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> <quote
+role="gloss"><foreignphrase lang="art-lojban">sumti</foreignphrase>
+labels</quote>.) </para></note>
+
 </sect1>
 
 

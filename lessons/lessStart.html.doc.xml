@@ -1,4 +1,4 @@
-<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "/usr/local/docbook/docbookdtd/docbookx.dtd" [
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "urn:x-oasis:docbook-xml-v4.1.2" [
 <!ENTITY mdash "--">
 <!ENTITY ndash "-">
 <!ENTITY rArr "=&gt;">
@@ -37,9 +37,8 @@
 <!ENTITY lessintro SYSTEM "lessintro.doc.xml">
 ]>
 <book>
-	<title id="lessons">Lojban For Beginners &mdash; <foreignphrase lang="art-lojban">
-		velcli befi la lojban. bei loi cfapre</foreignphrase>
-	</title>
+<title id="lessons">Lojban For Beginners &mdash; <foreignphrase 
+lang="art-lojban">velcli befi la lojban. bei loi co'a cilre</foreignphrase></title>
 &lessinfo;
 &lessintro;
 &lessons;

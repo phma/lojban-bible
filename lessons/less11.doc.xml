@@ -67,7 +67,7 @@ is false if Fluffy is not a rabbit, or if some rabbits are long-lived.
 <para>The next type we need to look at is OR. This is not always, or even
 usually, the same as the English word <wordasword>or</wordasword>. English
 is vague about <wordasword>or</wordasword>, which sometimes means <quote
-role="gloss">one or the other or both</quote>, but more often means <quote
+role="gloss">one or the other or both</quote>, but sometimes means <quote
 role="gloss">one or the other but not both</quote>. Compare these two
 sentences:
 
@@ -154,8 +154,8 @@ sentence separator.</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">u</foreignphrase> is a
 special case, taking the logical meaning <quote role="gloss">whether or
-not</quote> &mdash; in other words, it emphasises that the second value is 
-irrelevant to the truth of the sentence.</para></listitem>
+not</quote> &mdash; in other words, it emphasises that the second value 
+does not affect the truth of the sentence.</para></listitem>
 
 <listitem><para>The other operators, EOR and IF, are based on these vowels
 combined with negatives. As we shall see below, EOR is <foreignphrase
@@ -214,7 +214,7 @@ my hair</quote> are structurally different and will be dealt with later on.
 Secondly, <quote>I visited Ranjeet and Jyoti</quote> is slightly different
 from <quote>I visited Ranjeet AND I visited Jyoti.</quote> In this case,
 you probably want to say that you visited Ranjeet-and-Jyoti <emphasis>as a
-unit</emphasis>on one occasion, not that you visited Ranjeet and Jyoti on
+unit</emphasis> on one occasion, not that you visited Ranjeet and Jyoti on
 (potentially) different occasions. In this case you don't want <foreignphrase
 lang="art-lojban">.e</foreignphrase> (which is true but potentially misleading)
 but <foreignphrase lang="art-lojban">joi</foreignphrase>, which means <quote
@@ -266,8 +266,8 @@ I'll visit either my mother or my cousin.
 </para>
 
 <para>It is probably obvious that <foreignphrase
-lang="art-lojban">.o</foreignphrase> means IFF, so <quote>I will only visit my
-mother if I visit my cousin</quote> would be <foreignphrase lang="art-lojban">mi
+lang="art-lojban">.o</foreignphrase> means IFF, so <quote>I will visit my
+mother if (and only if) I visit my cousin</quote> would be <foreignphrase lang="art-lojban">mi
 ba vitke le mi mamta .o le mi tamne</foreignphrase>. If, for some strange
 reason I want to use IF and say that I will definitely visit my mother if I
 visit my cousin, but may visit her anyway, I need another negative:
@@ -1229,3 +1229,4 @@ the English.)</para></listitem>
 </sect1>
 
 </chapter>
+

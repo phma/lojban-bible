@@ -73,7 +73,7 @@ version of <foreignphrase lang="art-lojban">mi .e do</foreignphrase> is
 <foreignphrase lang="art-lojban">ge</foreignphrase> means that the two
 <foreignphrase lang="art-lojban">sumti</foreignphrase> coming up are
 connected with AND, while <foreignphrase
-lang="art-lojban">gi</foreignphrase>indicates that what follows is the
+lang="art-lojban">gi</foreignphrase> indicates that what follows is the
 second <foreignphrase lang="art-lojban">sumti</foreignphrase> in an AND
 relation. (These forethought connectives belong to <foreignphrase 
 lang="art-lojban">selma'o</foreignphrase> GA.)</para>
@@ -101,7 +101,7 @@ lang="art-lojban">sumti</foreignphrase> any more, but <foreignphrase
 lang="art-lojban">bridi</foreignphrase>. So our forethought version of 
 Zhang's statement of wishful thinking is:
 
-<informalexample><para><foreignphrase lang="art-lojban">.i <emphasis>naga</emphasis> mi djuno lenu do
+<informalexample><para><foreignphrase lang="art-lojban">.i <emphasis>ganai</emphasis> mi djuno lenu do
 vi zvati <emphasis>gi</emphasis> mi dasni noda</foreignphrase></para></informalexample>
 
 You'll notice that there is no second <foreignphrase 
@@ -183,7 +183,7 @@ lang="art-lojban">bridi</foreignphrase>-tail connectives. In practice,
 however, two <foreignphrase 
 lang="art-lojban">bridi</foreignphrase> connected by GA can be <foreignphrase 
 lang="art-lojban">bridi</foreignphrase>-tails just as easily as full <foreignphrase 
-lang="art-lojban">bridi</foreignphrase>: there is no real grammatical 
+lang="art-lojban">bridi</foreignphrase>: there is no real meaning 
 distinction between the two.</para>
 
 <simplesect role="exercise"><title>Exercise 1</title>
@@ -799,7 +799,7 @@ is still a range, as you are being asked to consult the text contained
 <emphasis>between</emphasis> those pages (you will also be looking at page 23.) The pages are
 also assumed to be in numerical order, so <foreignphrase
 lang="art-lojban">bi'o</foreignphrase> is preferred (although
-<foreignphrase lang="art-lojban">bi'u</foreignphrase> would not be
+<foreignphrase lang="art-lojban">bi'i</foreignphrase> would not be
 incorrect: even if you looked through the pages backwards, you would still
 end up looking at the same pages.)</para></listitem>
 
@@ -1017,3 +1017,4 @@ the spaceship has just paid planet Earth a surprise visit.
 </sect1>
 
 </chapter>  
+
