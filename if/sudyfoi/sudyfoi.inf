@@ -9,6 +9,7 @@ Include "VerbLib";
 Class Item;
 Class Room has light;
 Class Scene has scenery;
+Class Mobile has animate;
 
 ! Starting supplies for the player
 
@@ -114,6 +115,10 @@ Room sudyfoi_korbi ".i vi korbi be le sudyfoi" with description
 	".i le sudyfoi cu vi berti .i le sinxa cu sanli vi",
 	s_to pluta_le_sudyfoi,
 	name 'korbi';
+
+Mobile -> litru_prenu "litru prenu" with name 'prenu' 'litru', description
+	".i le litru prenu cu claga'u .i ri dasni lei tolni'o taxfu
+	gi'e bevri le claxa'i", article "le";
 
 Scene "sinxa" with name 'sinxa', description
 	".i le sinxa cu xusra la'elu ko se kajde vi li'u",
