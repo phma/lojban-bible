@@ -135,17 +135,37 @@ i lu na go'i sei le ciftoldi cu cusku li'u
 @c    at last it unfolded its arms, took the hookah out of its mouth
 @c    again, and said, `So you think you're changed, do you?'
 
+la alis jdice le du'u denpa kei ki'u le nu ge noda se zukte gi cumki
+fa le nu cy jungau abu lo se vamji be le nu tirna i ze'a lo mentu be
+li so'o cy ca'o damva'u gi'e na tavla i romai cy tolpolje lei birka
+gi'e za'ure'u lebna le nargile le moklu gi'e cusku lu ja'o do jinvi
+le du'u do ba'o cenba i xu go'i li'u  
+
 @c      `I'm afraid I am, sir,' said Alice; `I can't remember things as
 @c    I used--and I don't keep the same size for ten minutes together!'
 
+i lu oi mi ba'o cenba doido'u sei la alis cusku i mi ka'enai morji da
+tai le nu mi pu na'o no'a i ji'a mi na stodi le ka mitre kei ze'a lo
+mentu be li pano li'u
+
 @c      `Can't remember WHAT things?' said the Caterpillar.
+
+i lu ka'enai morji ba'e ma sei le ciftoldi cu cusku li'u
 
 @c      `Well, I've tried to say "HOW DOTH THE LITTLE BUSY BEE," but it
 @c    all came different!' Alice replied in a very melancholy voice.
 
+i lu mi pu troci le nu sitna lu ua le cmalu gunkybifce li'u i ku'i 
+ri se bacru ja'e lo frica sei la alis badri mutce voksa spuda li'u 
+       
 @c      `Repeat, "YOU ARE OLD, FATHER WILLIAM,"' said the Caterpillar.
 
+i lu ko sitna lu do tolcitno doi paf uiliam li'u sei le ciftoldi 
+cu cusku li'u
+
 @c      Alice folded her hands, and began:--
+
+i la alis polje lei xance gi'e co'a co'e di'e
 
 @c        `You are old, Father William,' the young man said,
 @c          `And your hair has become very white;
@@ -340,6 +360,11 @@ poi stani simsa sanli le xamsi fi lo ni'azu crino pezli
 @c    result seemed to follow, except a little shaking among the
 @c    distant green leaves.
 
+i lu le va crino cu ba'e mo sei la alis cusku i lei mi janco ba'o klama
+ma i oi doi xance be mi ki'u ma mi do uu ka'enai viska li'u i abu muvgau
+xy ca le nu tavla i ku'i se jalge lo po'o cmalu nu desku fa lei darno 
+ke crino pezli  
+
 @c      As there seemed to be no chance of getting her hands up to her
 @c    head, she tried to get her head down to them, and was delighted
 @c    to find that her neck would bend about easily in any direction,
@@ -349,6 +374,15 @@ poi stani simsa sanli le xamsi fi lo ni'azu crino pezli
 @c    had been wandering, when a sharp hiss made her draw back in a
 @c    hurry:  a large pigeon had flown into her face, and was beating
 @c    her violently with its wings.
+
+i le nu muvgau lei xance le stedu cu simlu le ka na cumki iseki'ubo
+abu troci le nu muvgau le stedu lei xance i abu mutce gleki le nu
+facki le du'u le cnebo cu se frili le nu krobi'o fa'a roda tai tu'a
+lo since i abu ba'o snada le nu krobi'o ja'e lo melbi zigzagi kei 
+gi'e preti le nu sfubu le jbini be lei pezli noi abu facki le du'u
+ke'a na'e drata le gapru be lei tricu noi ni'a ke'a abu pu klama  
+icabo lo kinli se bacru cu gasnu le nu abu sutra ti'ekla i lo barda
+tcacpi pu vofli fa'a le abu flira gi'e vlile darxi abu le nalci
 
 @c      `Serpent!' screamed the Pigeon.
 .i lu .ii since li'u se krica la tcacpi
@@ -486,3 +520,20 @@ snada le nu tcaci clani
 @c    wits!'  So she began nibbling at the righthand bit again, and did
 @c    not venture to go near the house till she had brought herself
 @c    down to nine inches high.
+
+i abu pu mitre lo drani jibni zu lo tai mutce ja'e le nu cizra
+ca le cfari i ku'i abu se tcaci binxo ze'a lo mentu be li so'u gi'e
+di'a ta'e sezytavla i lu uo le xadba be le mi selpla ba'o se zukte
+i u'e lei vi nuncenba cu cizra i mi noroi birti le du'u mi ba binxo
+makau zi lo mentu i ku'i mi ba'o xruti le nu drani mitre icaku ei
+nerkla le melbi purdi i a'u ta'i ma zukte la'e di'u li'u i ca le nu 
+cusku di'u kei abu suksa tolcliva lo klina noi vasru lo cmalu zdani
+noi mitre li ji'ipa i lu romu'ei le du'u makau xabju ta kei sei la 
+alis pensi na drani fa le nu tolcanci tai le ca nu mi mitre i va'oku
+mi terpygau mutce li'u i seki'ubo abu co'a za'ure'u citka le pritu 
+spisa gi'e na darsi le nu jbikla le zdani kei pu le nu ba'o jdika
+ja'e le nu cenmitre li reno
+ 
+
+
+ 
