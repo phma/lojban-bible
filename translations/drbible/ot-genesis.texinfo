@@ -56,7 +56,7 @@
 @c * papipapivozemo'o::	[Genesis Chapter 47]
 @c * papipapivobimo'o::	[Genesis Chapter 48]
 @c * papipapivosomo'o::	[Genesis Chapter 49]
-@c 
+@c
 @c * papipapimunomo'o::	[Genesis Chapter 50]
 @c * papipapimupamo'o::	[Genesis Chapter 51]
 @c * papipapimuremo'o::	[Genesis Chapter 52]
@@ -498,8 +498,8 @@ citka li'u li'u le ninmu
 @c    3:3. But of the fruit of the tree which is in the midst of paradise,
 @c    God hath commanded us that we should not eat; and that we should not
 @c    touch it, lest perhaps we die.
-3:3. .iku'i le grute be le tricu poi midju le purdi zo'i le cevni cu cusku
-lu ko na citka gi'e na pencu tezu'e do na mrobi'o li'u li'u
+3:3. .iku'i le grute be le tricu poi midju le purdi zo'u le cevni cu cusku
+lu ko na citka gi'e na pencu .itezu'ebo do na mrobi'o li'u li'u
 
 @c    3:4. And the serpent said to the woman:  No, you shall not die the
 @c    death.
