@@ -293,24 +293,35 @@ le nu jmina cusku pu lenu la tcacpi cu tavla kei cu mulno kei noda kei
 @c    day!  Why, I haven't had a wink of sleep these three weeks!'
 .i lu nandu fa lenu kurji le sovda kei po'onai sei la tcacpi cu cusku
 .ije ji'a mi kajde mi le since ca'o le nicte .e le donri .i ze'e le
-jeftu be li ci ku mi na sipna noda li'u
+jeftu be li ci ku mi sipna noda li'u
 
 @c      `I'm very sorry you've been annoyed,' said Alice, who was
 @c    beginning to see its meaning.
+.i lu mi mutce xenru le nu do se fanza li'u se cusku la .alis. noi
+co'a jimpe le smuni be le se cusku be ko'e
 
 @c      `And just as I'd taken the highest tree in the wood,' continued
 @c    the Pigeon, raising its voice to a shriek, `and just as I was
 @c    thinking I should be free of them at last, they must needs come
 @c    wriggling down from the sky!  Ugh, Serpent!'
+.i lu mi posycu'a le tricu gafrai be le ricfoi sei le tcacpi cu krixa
+zenba ke ranji cusku .icabo mi pensi ledu'u mi zifre fi le nu sincycau
+.uo .i.ue torni klama fi le tsani .i .oi since li'u
 
 @c      `But I'm NOT a serpent, I tell you!' said Alice.  `I'm a--I'm
 @c    a--'
+.i lu mi ba'e na since .i mi xu'asku di'u do sei la .alis. cu cusku .i mi
+.y. mi li'u
 
 @c      `Well!  WHAT are you?' said the Pigeon.  `I can see you're
 @c    trying to invent something!'
+.i lu do ba'e mo sei le tcacpi cu cusku .i mi zgana le du'u do troci
+co finti da li'u
 
 @c      `I--I'm a little girl,' said Alice, rather doubtfully, as she
 @c    remembered the number of changes she had gone through that day.
+.i lu mi .y. cmalu nixli li'u la .alis. se cusku co senpi ki'u lenu morji
+le nu so'iroi selstika ca'o le ze'apu djedi
 
 @c      `A likely story indeed!' said the Pigeon in a tone of the
 @c    deepest contempt.  `I've seen a good many little girls in my

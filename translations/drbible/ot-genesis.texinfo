@@ -211,18 +211,28 @@ vaxse'a le jmive vacri .ije le nanmu cu binxo lo jmive pruxi
 
 @c    2:10. And a river went out of the place of pleasure to water paradise,
 @c    which from thence is divided into four heads.
+2:10. ni'o lo rirxe cu cliva la .eden. gi'e cimdu'a le purdi gi'e se fendi
+fi voda
 
 @c    2:11. The name of the one is Phison:  that is it which compasseth all
 @c    the land of Hevilath, where gold groweth.
+@c "gold groweth"? -phma
+2:11. .i le pamoi se cmene zo .piCON. gi'e tonli'u piro la xaviLOT. no'u le
+tumla noi se zvati lo solji
 
 @c    2:12. And the gold of that land is very good:  there is found bdellium,
 @c    and the onyx stone.
+2:12. to le vi ra ku solji cu xamgu .iji'a lo majrbdola .e lo ja'unro'i
+cu zvati ra toi
 
 @c    2:13. And the name of the second river is Gehon:  the same is it that
 @c    compasseth all the land of Ethiopia.
+2:13. .i le remoi rirxe se cmene zo .gi'ON. gi'e tonli'u piro la kuc. noi tumla
 
 @c    2:14. And the name of the third river is Tigris:  the same passeth along
 @c    by the Assyrians.  And the fourth river is Euphrates.
+2:14. .i le cimoi rirxe se cmene zo .xidekel. gi'e litru le stuna be la .aCUR.
+.i le vomoi du la .uFRAT.
 
 @c    2:15. And the Lord God took man, and put him into the paradise of
 @c    pleasure, to dress it, and to keep it.
