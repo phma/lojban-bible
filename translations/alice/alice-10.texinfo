@@ -138,7 +138,7 @@ i lu i'e ba'e do go'i sei le cpicinfo cu cusku i mi tolmorji lei valsi li'u
 
 i co'a junri dansu ru'u la alis i ru'inai stapa lei abu jmadegji ca le nu
 dukse jbikla i sligau lei xance tezu'e le nu sinxa le rilti ize'abo
-le jitfa cakyrespa cu masno je badri mutce sanga lu 
+le jitfa cakyrespa cu masno je badri mutce sanga di'e 
 
 @c    `"Will you walk a little faster?" said a whiting to a snail.
 @c    "There's a porpoise close behind us, and he's treading on my
@@ -146,16 +146,6 @@ le jitfa cakyrespa cu masno je badri mutce sanga lu
 @c    See how eagerly the lobsters and the turtles all advance!
 @c    They are waiting on the shingle--will you come and join the
 @c    dance?
-
-@format
-
-    i e'o sutra doi cakcurnu i ko ti'a zgana ua pa
-    xajyfi'e noi jbitrixe gi'e me mi rebla stapa
-    i xasyjukni i cakyrespa i ro danlu ca se jansu
-    i denpa mi'o le va canre i aipei do ba kansa dansu 
-
-@end format
-
 @c    Will you, won't you, will you, won't you, will you join the
 @c    dance?
 @c    Will you, won't you, will you, won't you, won't you join the
@@ -163,9 +153,12 @@ le jitfa cakyrespa cu masno je badri mutce sanga lu
 
 @format
 
-    i aipei naipei aipei naipei aipei do ba dansu
-    i aipei naipei aipei naipei naipei do ba dansu 
- 
+    i e'o sutra doi cakcurnu i ko ti'a zgana ua pa
+    xajyfi'e noi jbitrixe gi'e me mi rebla stapa
+    i xasyjukni i cakyrespa i ro crakla ca se ganse
+    i denpa mi'o le va canre i aipei do ba kansa dansu 
+       i aipei naipei aipei naipei aipei do ba dansu
+       i aipei naipei aipei naipei naipei do ba dansu 
 @end format
 
 @c    "You can really have no notion how delightful it will be
@@ -180,17 +173,35 @@ le jitfa cakyrespa cu masno je badri mutce sanga lu
 @c        Would not, could not, would not, could not, could not join
 @c            the dance.
 
+@format
+
+    i do ka'enai se xanri le nu pluka co mokau
+    ca le nu mi'o se renro fi le xamsi i'a au  
+    i darno dukse i darno dukse sei cy spuda tolselmansa           
+    ki'e labyfi'e i ku'i ainai mi ba kansa dansu
+       i ainai einai ainai einai ainai mi ba dansu
+       i ainai einai ainai einai einai mi ba dansu  
+@end format      
+
 @c    `"What matters it how far we go?" his scaly friend replied.
 @c    "There is another shore, you know, upon the other side.
 @c    The further off from England the nearer is to France--
 @c    Then turn not pale, beloved snail, but come and join the dance.
-
 @c        Will you, won't you, will you, won't you, will you join the
 @c             dance?
 @c        Will you, won't you, will you, won't you, won't you join the
 @c             dance?"'
 
+@format
 
+    i na selvai le ni darno sei le pendo ze'i frati
+    i ju'o ia lo drata korbi ca'a drata mlana zvati
+    i le ni darno le glico cu ni jibni be la frans
+    i ko na carna doi cakcurnu i e'e do ba kansa dansu
+       i aipei naipei aipei naipei aipei do ba dansu
+       i aipei naipei aipei naipei naipei do ba dansu 
+
+@end format
 
 @c      `Thank you, it's a very interesting dance to watch,' said
 @c    Alice, feeling very glad that it was over at last:  `and I do so
