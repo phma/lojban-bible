@@ -325,36 +325,69 @@ i lu co'a le tcati sei le mapypre cu spuda li'u
 @c      `Of course twinkling begins with a T!' said the King sharply.
 @c    `Do you take me for a dunce?  Go on!'
 
+i lu li'a sei le noltrunau cu kinli cusku i xu do jinvi le du'u mi 
+bebna i e'e di'a co'e li'u
+
 @c      `I'm a poor man,' the Hatter went on, `and most things
 @c    twinkled after that--only the March Hare said--'
 
+i lu mi pindi sei le mapypre cu di'a co'e i so'eda cu slilu ba
+la'e di'u i ku'i le cibmasti cicyractu cu cusku li'u
+
 @c      `I didn't!' the March Hare interrupted in a great hurry.
+
+i lu mi na go'i sei le cibmasti cicyractu cu sutra zunti li'u
 
 @c      `You did!' said the Hatter.
 
+i lu do ja'a go'i sei le mapypre cu cusku li'u
+
 @c      `I deny it!' said the March Hare.
 
+i lu mi na'erxu'a sei le cibmasti cicyractu cu cusku li'u
+
 @c      `He denies it,' said the King:  `leave out that part.'
+
+i lu ta na'erxu'a sei le noltrunau cu cusku i ko tolju'i le di'u 
+pagbu li'u
 
 @c      `Well, at any rate, the Dormouse said--' the Hatter went on,
 @c    looking anxiously round to see if he would deny it too:  but the
 @c    Dormouse denied nothing, being fast asleep.
 
+i lu no'i le sipsmacu cu cusku sei le mapypre cu di'a co'e li'u i my
+xanka ke sruri catlu tezu'e le nu zgana le nu xukau sy ji'a na'erxu'a
+i ku'i sy na'erxu'a noda gi'e carmi sipna
+
 @c      `After that,' continued the Hatter, `I cut some more bread-
 @c    and-butter--'
 
+i lu baku sei le mapypre cu di'a cusku mi za'ure'u katna lo nanba 
+joi matne li'u
+
 @c      `But what did the Dormouse say?' one of the jury asked.
+
+i lu ku'i le sipsmacu ma cusku sei pa le pairkamnycmi cu te preti li'u
 
 @c      `That I can't remember,' said the Hatter.
 
+i lu mi ri na morji sei le mapypre cu cusku li'u
+
 @c      `You MUST remember,' remarked the King, `or I'll have you
 @c    executed.'
+
+i lu ei do morji sei le noltrunau cu notsku ija mi da do catrymi'e li'u
 
 @c      The miserable Hatter dropped his teacup and bread-and-butter,
 @c    and went down on one knee.  `I'm a poor man, your Majesty,' he
 @c    began.
 
+i le selkecti mapypre cu falcru le tcati kabri e le nanba joi matne 
+gi'e sanli fi pa le cidni i lu mi pindi doi nolba'i sei my co'a co'e li'u
+
 @c      `You're a very poor speaker,' said the King.
+
+i lu do pindi le ka tavla certu sei le noltrunau cu cusku li'u
 
 @c      Here one of the guinea-pigs cheered, and was immediately
 @c    suppressed by the officers of the court.  (As that is rather a
@@ -363,73 +396,146 @@ i lu co'a le tcati sei le mapypre cu spuda li'u
 @c    into this they slipped the guinea-pig, head first, and then sat
 @c    upon it.)
 
+i caku pa le smacrkobaiu cu geirki'a gi'e bazi se rinju lei nunpai
+pulji to zo rinju cu rufsu valsi i mi ciksi le nu ta'i makau zukte
+i py ponse lo barda ke bukpu dakli noi ka'e ganlo sepi'o loi dasri
+i py le smacrkobaiu cu setca dy gi'e zutse toi   
+
 @c      `I'm glad I've seen that done,' thought Alice.  `I've so often
 @c    read in the newspapers, at the end of trials, "There was some
 @c    attempts at applause, which was immediately suppressed by the
 @c    officers of the court," and I never understood what it meant
 @c    till now.'
 
+i lu mi gleki le nu mi viska la'e di'u sei la alis pensi i mi so'iroi
+tcidu fi loi karni ca le mu'o nunpai lu troci le nu xanvruzau noi 
+bazi se rinju lei nunpai pulji li'u gi'e pu noroi jimpe le du'u makau
+smuni li'u
+
 @c      `If that's all you know about it, you may stand down,'
 @c    continued the King.
 
+i lu e'a va'o le nu la'e di'u cu piromei le do se djuno be fi le cuntu 
+kei do nitkla sei le noltrunau cu di'a cusku li'u
+ 
 @c      `I can't go no lower,' said the Hatter:  `I'm on the floor, as
 @c    it is.'
 
+i lu mi ka'enai klama lo nitmau sei le mapypre i mi cpana le loldi li'u
+
 @c      `Then you may SIT down,' the King replied.
 
+i e'a va'o la'e di'u do nitytse sei le noltrunau cu spuda li'u 
+
 @c      Here the other guinea-pig cheered, and was suppressed.
+
+i caku le drata smacrkobaiu cu geirki'a gi'e se rinju 
 
 @c      `Come, that finished the guinea-pigs!' thought Alice.  `Now we
 @c    shall get on better.'
 
+i lu a'u mo'u smacrkobaiu sei la alis pensi i caku mi'a xagmau li'u
+
 @c      `I'd rather finish my tea,' said the Hatter, with an anxious
 @c    look at the Queen, who was reading the list of singers.
 
+i lu mi zmanei le nu mo'u tcati pinxe sei le mapypre cu cusku li'u i my
+xanka catlu le noltruni'u noi tcidu le liste be lei sanga
+
 @c      `You may go,' said the King, and the Hatter hurriedly left the
 @c    court, without even waiting to put his shoes on.
+
+i lu e'a klama sei le noltrunau cusku li'u i le mapypre cu sutra cliva
+le kumfa secau le nu denpa ji'asai le nu dasni lei cutci
 
 @c      `--and just take his head off outside,' the Queen added to one
 @c    of the officers:  but the Hatter was out of sight before the
 @c    officer could get to the door.
 
+i lu ije ko le stedu tu vimcu bu'u le bartu sei le noltruni'u fi pa le
+pulji cu jmina cusku li'u i ku'i le mapypre na ka'e se viska pu le nu 
+le pulji cu tolcliva le vorme
+
 @c      `Call the next witness!' said the King.
+
+i lu ko klagau le jersi datnydu'a sei le noltrunau cu cusku li'u
 
 @c      The next witness was the Duchess's cook.  She carried the
 @c    pepper-box in her hand, and Alice guessed who it was, even before
 @c    she got into the court, by the way the people near the door began
 @c    sneezing all at once.
 
+i le jersi datnydu'a du le jukpa pe le noltroni'u i jy jgari le 
+tsaprpiperi tanxe le xance i la alis cu smadi le du'u du makau kei
+pu le nu jy klama le kumfa kei ki'u le nu ro le prenu poi jibni le 
+vorme cu co'a senci
+ 
 @c      `Give your evidence,' said the King.
+
+i lu ko dunda le do datni sei le noltrunau cu cusku li'u
 
 @c      `Shan't,' said the cook.
 
+i lu na go'i sei le jukpa cu cusku li'u
+
 @c      The King looked anxiously at the White Rabbit, who said in a
 @c    low voice, `Your Majesty must cross-examine THIS witness.'
+
+i le noltrunau cu xanka catlu le blabi ractu noi tolylau voksa cusku
+lu ei le nolba'i cu lalmu'o le vi datnydu'a li'u 
 
 @c      `Well, if I must, I must,' the King said, with a melancholy
 @c    air, and, after folding his arms and frowning at the cook till
 @c    his eyes were nearly out of sight, he said in a deep voice, `What
 @c    are tarts made of?'
 
+i lu i'a o'o i'a sei le noltrunau cu tolgleki li'u i ba le nu 
+kucysimgau lei birka gi'e frumu fa'a le jukpa co'u le nu le ny kanla
+cu jibni le nu na ka'e se viska cu condi voksa cusku lu ma te zbasu
+loi rutytisna li'u
+ 
 @c      `Pepper, mostly,' said the cook.
 
+i lu lo tsaprpiperi ra'u sei le jukpa cu cusku li'u
+
 @c      `Treacle,' said a sleepy voice behind her.
+
+i lu lo satyjisra sei lo sipna voksa noi trixe jy cu cusku li'u
 
 @c      `Collar that Dormouse,' the Queen shrieked out.  `Behead that
 @c    Dormouse!  Turn that Dormouse out of court!  Suppress him!  Pinch
 @c    him!  Off with his whiskers!'
 
+i lu ko selkarlygau le va sipsmacu sei le noltruni'u cu krixa i ko
+le stedu ta vimcu i ko ta barklagau le kumfa i ko ta rinju i ko ta
+tunta i ko le zbikre cu vimcu li'u
+
 @c      For some minutes the whole court was in confusion, getting the
 @c    Dormouse turned out, and, by the time they had settled down
 @c    again, the cook had disappeared.
+
+i ze'a lo mentu be li so'o le kumfa cu kalsa ca'o le nu le sipsmacu
+gau barkla i ca le nu cnici xruti kei le jukpa ba'o canci 
 
 @c      `Never mind!' said the King, with an air of great relief.
 @c    `Call the next witness.'  And he added in an undertone to the
 @c    Queen, `Really, my dear, YOU must cross-examine the next witness.
 @c    It quite makes my forehead ache!'
 
+i lu na vajni sei le noltrunau cu surla mutce cusku i ko klagau le jersi
+datnydu'a li'u i ny tolylau tonga jmina cusku fi le noltruni'u fe lu i'u
+doi dirba ei ba'e do lalmu'o le jersi datnydu'a i le nu go'i cu mutce
+corgau mi le sedycra li'u 
+
 @c      Alice watched the White Rabbit as he fumbled over the list,
 @c    feeling very curious to see what the next witness would be like,
 @c    `--for they haven't got much evidence YET,' she said to herself.
 @c    Imagine her surprise, when the White Rabbit read out, at the top
 @c    of his shrill little voice, the name `Alice!'
+
+i la alis cu catlu le blabi ractu noi juxre co'e le liste ge'u gi'e mutce
+kucli le du'u le jersi datnydu'a cu mokau i lu za'o na mutce le ka datni
+sei abu sezysku li'u i uedaisai le blabi ractu sepi'o le kinli je cmalu
+voksa cu bacru tcidu le cmene po'u zo alis
+
+   
