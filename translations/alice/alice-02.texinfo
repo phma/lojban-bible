@@ -158,7 +158,7 @@ li xa fa li paci i pilji li vo li ze i oi mi noroi ba snada tu'a li reno
 va'o le nu tai masno i ku'i le pilji porsi na vajni i e'u troci tu'a le
 tedyske i la londn raltca la paris i la paris raltca la romas i la romas
 sa la'e di'u naldrani ju'o i ju'o pu galfi mi la mabel i mi troci le nu
-cusku lu ta'i ma le cmalu li'u li'u i abu punji lei kruca xance lei tuple
+cusku lu ua le cmalu li'u li'u i abu punji lei kruca xance lei tuple
 tai le nu cusku le se cilre kei gi'e co'a sitsku i ku'i le voksa cu se 
 sance lo rufsu je cizra i lei valsi na mintu le se tcaci 
 
@@ -172,9 +172,23 @@ sance lo rufsu je cizra i lei valsi na mintu le se tcaci
 @c                And welcome little fishes in
 @c                  With gently smiling jaws!'
 
+@format
+
+                  i ua le cmalu krokodilo
+                    cu zengau le ky rebla
+                  si'u le djacu pe la nilos
+                    le ka camri'ojvebla
+
+                  i ua lei jgalu ja'a tinsa
+                    je cnici preja panra
+                  i lei cmafi'e cu se rinsa
+                    le cisma xedja ganra
+
+@end format
+
 @c      `I'm sure those are not the right words,' said poor Alice, and
 @c    her eyes filled with tears again as she went on, `I must be Mabel
-@c    after all, and I shall have to go and live in that poky little
+@c    after all, and I shall have to go and live in that poky little 
 @c    house, and have next to no toys to play with, and oh! ever so
 @c    many lessons to learn!  No, I've made up my mind about it; if I'm
 @c    Mabel, I'll stay down here!  It'll be no use their putting their
@@ -184,6 +198,12 @@ sance lo rufsu je cizra i lei valsi na mintu le se tcaci
 @c    here till I'm somebody else"--but, oh dear!' cried Alice, with a
 @c    sudden burst of tears, `I do wish they WOULD put their heads
 @c    down!  I am so VERY tired of being all alone here!'
+
+i lu ju'o lei valsi na drani sei la alis uu cusku li'u i lei abu kanla
+cu za'ure'u tisna loi se klaku ca le nu di'a co'e lu ja'o mi du la 
+mabel i mi ba bilga le nu xabju le pindi ke cmalu zdani gi'e ponse
+ji'ino selkei gi'e oi cilre so'isai da i ai na go'i i mi mu'o jdice 
+fi la'e di'u fe el du'u mi ganai du la mabel gi ti stali 
 
 @c      As she said this she looked down at her hands, and was
 @c    surprised to see that she had put on one of the Rabbit's little
