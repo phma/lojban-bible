@@ -551,7 +551,7 @@ Not everyone likes them, so they're not yet all that common, and you'll
 usually get plenty of warning if someone is using them. </para></note>
 
 <note><title>P.S.</title><para>If you were wondering, by the way:
-<foreignphrase lang="art-lojban">cirlrbri, zgikrnroknrolo, zgikrnroko</foreignphrase>.</para></note>
+<foreignphrase lang="art-lojban">cirlrbri, zgiknroknrolo, zgiknroko</foreignphrase>.</para></note>
 
 <simplesect role="exercise"><title>Exercise 4</title>
 
@@ -575,6 +575,8 @@ For example:
 <listitem><para>Deuterium: <foreignphrase lang="art-lojban">cidro</foreignphrase></para></listitem>
 
 <listitem><para>Amethyst: <foreignphrase lang="art-lojban">jemna</foreignphrase></para></listitem>
+
+<listitem><para>Rallentando: <foreignphrase lang="art-lojban">zgike</foreignphrase></para></listitem>
 
 </orderedlist></para>
 
@@ -1000,7 +1002,7 @@ in brackets afterwards.&IPAASCIIdisclaimer;</para>
 <listitem><para>Between New Orleans and Cheyenne (Cheyenne [<emphasis role="ipa">&esh;&aeligipa;&stress;j&ekl;n</emphasis>], New Orleans [<emphasis role="ipa">&stress;n&akl;l&ikl;nz</emphasis>]. OK, we aren't necessarily
 serious about the last one.)</para></listitem>
 
-<listitem><para>Canton (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">kua&eng;t&shkl;ow</emphasis>]</para></listitem>
+<listitem><para>Canton (Shanghai [<emphasis role="ipa">&shkl;a&eng;xai</emphasis>], Canton/Guangzhou [<emphasis role="ipa">kua&eng;t&shkl;ow</emphasis>])</para></listitem>
 
 <listitem><para>The bar ([<emphasis role="ipa">le &stress;bar&zhkl;a</emphasis>]). Of course.</para></listitem>
 
@@ -1111,6 +1113,14 @@ I'm not going to explain here...)</para></listitem>
 the <foreignphrase lang="art-lojban">gismu</foreignphrase> prefix already ends in <foreignphrase lang="art-lojban">n</foreignphrase>!
 (As it turns out, <foreignphrase lang="art-lojban">jemnrametisti</foreignphrase> would have
 also been acceptable as a <foreignphrase lang="art-lojban">fu'ivla</foreignphrase>.)</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">zgiknralentando</foreignphrase>
+(Remember, the word already starts with
+<foreignphrase lang="art-lojban">r</foreignphrase>, so you have to use
+<foreignphrase lang="art-lojban">n</foreignphrase>
+to join the two parts of the
+<foreignphrase lang="art-lojban">fu'ivla</foreignphrase>
+together instead.)</para></listitem>
 
 </orderedlist></para>
 
