@@ -6,6 +6,8 @@
 
 @c                       The Queen's Croquet-Ground
 
+                       noltruni'u kelcrkroke bo foldi                      
+
 
 @c      A large rose-tree stood near the entrance of the garden:  the
 @c    roses growing on it were white, but there were three gardeners at
@@ -14,29 +16,59 @@
 @c    to them she heard one of them say, `Look out now, Five!  Don't go
 @c    splashing paint over me like that!'
 
+i lo barda ke rozgu tricu cu jibni le vorme be le purdi i le rozgu poi
+xrula ty cu blabi i ku'i ci purdykurji cu cintypunji ry ja'e le nu xunre
+i la alis cu pensi le nu mutce cizra kei gi'e jbimaukla tezu'e le nu
+catlu kei gi'e tirna ca le nu ba'o klama kei le nu pa le purdykurji cu
+cusku lu o'i doi mum ko na renro lo cinta mi li'u
+
 @c      `I couldn't help it,' said Five, in a sulky tone; `Seven jogged
 @c    my elbow.'
+
+i lu oi mi pu ka'enai rivbi sei la mum cusku i la zel catke le mi cidni 
+li'u
 
 @c      On which Seven looked up and said, `That's right, Five!  Always
 @c    lay the blame on others!'
 
+i ca la'e di'u la zel galcatlu gi'e cusku lu e'e doi mum roroi zungygau
+lo drata li'u
+
 @c      `YOU'D better not talk!' said Five.  `I heard the Queen say only
 @c    yesterday you deserved to be beheaded!'
 
+i lu ei ba'e do na tavla sei la mum cusku i ti'e le noltruni'u cu xusra
+ca le purlamdei le du'u ei do se sedvi'u li'u 
+
 @c      `What for?' said the one who had spoken first.
+
+i lu ma krinu sei le tavla pamoi li'u 
 
 @c      `That's none of YOUR business, Two!' said Seven.
 
+i lu la'e di'u ba'e do na cuntu doi rel sei la zel cusku li'u
+
 @c      `Yes, it IS his business!' said Five, `and I'll tell him--it
 @c    was for bringing the cook tulip-roots instead of onions.'
+
+i lu ba'e ja'a go'i sei la mum cusku i mi ry jungau i krinu fa le nu
+sabji loi tulji genja enaiba'ibo loi sluni le jukpa li'u  
 
 @c      Seven flung down his brush, and had just begun `Well, of all
 @c    the unjust things--' when his eye chanced to fall upon Alice, as
 @c    she stood watching them, and he checked himself suddenly:  the
 @c    others looked round also, and all of them bowed low.
 
+i la zel bikygau le burcu gi'e co'a cusku lu ua verai lei ro toldra 
+li'u icabo le zy kanla cu cunso farna la alis noi sanli je catlu
+lei purdykurji i zy ze'i sezyzunti i lei ji'a drata cu trixe catlu
+i ro py dizlo krobi'o
+
 @c      `Would you tell me,' said Alice, a little timidly, `why you are
 @c    painting those roses?'
+
+i lu e'o do mi jungau sei la alis toldarsi milxe cusku le du'u ki'u ma 
+do cintypunji lei va rozgu li'u
 
 @c      Five and Seven said nothing, but looked at Two.  Two began in a
 @c    low voice, `Why the fact is, you see, Miss, this here ought to
