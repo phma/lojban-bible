@@ -31,9 +31,9 @@ i le romei zo'u cilmo carmi gi'e fengu gi'e na'e kufra
 @c    more to be said.
 
 i le pamoi co preti cu li'a du'u ta'i makau za'ure'u sudga i casnu la'edi'u
-ibabo zi lo mentu be li so'u simlu le ka rarna kei fa le nu la alis 
-cu facki le du'u abu pendo tavla le romei tai le nu da'i abu se slabu ra 
-ze'a le nu abu jmive i je'u abu pu ze'u daupro la cipnrlori noi uo badri 
+ibabo zi lo mentu be li so'u cu simlu le ka rarna kei fa le nu la alis 
+ca'o pendo tavla le romei tai le nu da'i abu se slabu ra ze'a le nu abu 
+jmive i je'u abu pu ze'u daupro la cipnrlori noi uo badri 
 carna gi'e cusku lu mi do tolcitmau gi'eja'ebo
 
 @c stidi lu le cipnrlori li'u .i ro cipnrlori cu babgalo mi'e pier.
@@ -53,7 +53,7 @@ le nu cusku le du'u ly makau nanca cu na se sumji se cusku
 @c    anxiously fixed on it, for she felt sure she would catch a bad
 @c    cold if she did not get dry very soon.
 
-i uo la smacu noi simlu co catni ra cu krixa lu ko zutse doi rodo
+i uo la smacu noi simlu co catni le romei cu krixa lu ko zutse doi rodo
 gi'e tinju'i mi i ba'e mi bazi sudgau do li'u i le romei cazi zutse 
 gi'e barda djine co se midju la smacu i la alis ca'o xanka catlu sy 
 ki'u le nu abu birti le du'u co'a bilma bai le nu na sudga baziku
@@ -74,7 +74,7 @@ turni be la mersias fa'u la nortumbrias li'u li'u
 
 @c      `Ugh!' said the Lory, with a shiver.
 
-i lu o'unai sei la cipnrlori cusku je desku li'u
+i lu o'unai sei la cipnrlori cu cusku je desku li'u
 
 @c      `I beg your pardon!' said the Mouse, frowning, but very
 @c    politely:  `Did you speak?'
@@ -91,7 +91,7 @@ i lu mi na go'i sei la cipnrlori sutra co cusku li'u
 @c    and even Stigand, the patriotic archbishop of Canterbury, found
 @c    it advisable--"'
 
-i lu mi pu jinvi le du'u ja'a go'i sei la cmaci cu cusku i mi di'a cusku 
+i lu mi pu jinvi le du'u ja'a go'i sei la smacu cu cusku i mi di'a cusku 
 i lu la eduin joi la morkar vu'ono'u lei turni be la mersias fa'u la
 nortumbrias cu xusra seva'u ubu ije la stigand ji'asai no'u le naijgi 
 ke ralju jdagidva pe la kanterburis cu facki fi da fe le du'u se djica
@@ -137,7 +137,7 @@ i pei doi do iu sei sy ca'o cusku jecabo carcra be la alis li'u
 @c      `As wet as ever,' said Alice in a melancholy tone:  `it doesn't
 @c    seem to dry me at all.'
 
-i lu cilmo du'i le ka pu cilmo sei la alis badri cusku i simlu
+i lu cilmo du'i le nu pu cilmo sei la alis badri cusku i simlu
 le ka nasai sudgau mi li'u
 
 @c      `In that case,' said the Dodo solemnly, rising to its feet, `I
@@ -145,8 +145,10 @@ le ka nasai sudgau mi li'u
 @c    energetic remedies--'
 
 i lu iseki'ubo sei la dodos junri cusku co sa'irbi'o be fi lei tuple
-mi stidi le du'u le nu penmi cu tolcfa tezu'e le nu bazi co'a pilno 
-lo tolcadmau danfu li'u
+mi stidi le du'u le nu penmi 
+@c cu tolcfa tezu'e le nu bazi co'a pilno lo tolcadmau danfu li'u
+cu se tolcfari'i tezu'e le nu nalmocteicau plicu'a lo tolcadmau
+daftadji li'u  
 
 @c      `Speak English!' said the Eaglet.  `I don't know the meaning of
 @c    half those long words, and, what's more, I don't believe you do
@@ -154,7 +156,7 @@ lo tolcadmau danfu li'u
 @c    some of the other birds tittered audibly.
 
 i lu ko tavla bau la lojban sei la cipnrxakuila cifnu cu cusku i mi
-na se slabu le smuni be pisu'omu lei di'u clani valsi ije pe'i do ji'a 
+na se slabu le smuni be su'opimu lei di'u clani valsi ije pe'i do ji'a 
 na go'i li'u i la cipnrxakuila cifnu cu krogau
 le stedu mu'i le nu mipri le nu cisma i pisu'o lei drata cipni
 cu mi'amli co se tirna
@@ -162,8 +164,8 @@ cu mi'amli co se tirna
 @c      `What I was going to say,' said the Dodo in an offended tone,
 @c    `was, that the best thing to get us dry would be a Caucus-race.'
 
-i lu le pupu'o se cusku be mi sei la dodos se xrani cusku cu se du'u
-le traji le ka se jalge le nu sudgau mi'o cu me la kaukus nu bajra
+i lu mi pupu'o cusku sei la dodos se xrani cusku le se du'u
+le traji be le ka se jalge le nu sudgau mi'o cu me la kaukus nu bajra
 jivni li'u
 
 @c      `What IS a Caucus-race?' said Alice; not that she wanted much
@@ -180,7 +182,7 @@ djica le nu cusku de
 @c    day, I will tell you how the Dodo managed it.)
 
 i lu je'u sei la dodos cusku le xagrai co ciksi tadji cu nu zukte li'u 
-to'i ji'a ki'uda'i le nu do ji'a djica co troci ca lo dunra donri
+to ji'a ki'uda'i le nu do ji'a djica co troci ca lo dunra donri
 kei mi cusku le sedu'u la dodos zukte makau toi
 
 @c      First it marked out a race-course, in a sort of circle, (`the
@@ -227,7 +229,7 @@ i lu ku'i ma dunda le se jinga sei le voksa so'imei cu te preti li'u
 
 i lu li'a ba'e ta li'u se cusku la dodos noi sinxa la alis
 sepi'o pa degji ije le romei bazi denmi je sanli je sruri abu
-gi'e se cfipu kixsku lu se jinga i se jinga li'u
+gi'e se cfipu kixsku lu au se jinga i au se jinga li'u
 
 @c      Alice had no idea what to do, and in despair she put her hand
 @c    in her pocket, and pulled out a box of comfits, (luckily the salt
@@ -236,8 +238,8 @@ gi'e se cfipu kixsku lu se jinga i se jinga li'u
 
 i la alis cu na milxe ji'asai co djuno le du'u ei zukte makau ije ki'u
 le nu dunku kei abu punji le xance le daski ije vimcu le bi'u tanxe
-be lei titydja to u'a le silna djacu na nermu'u le tanxe toi
-gi'e fairgau lei titydja neseba'i lei se jinga i satci fa le nu ro zvati
+be lei titydja to u'a le silna djacu na pagre le tanxe le nenri toi
+gi'e fairgau lei titydja lei jinga i satci fa le nu ro zvati
 cu te dunda pa titydja
 
 @c      `But she must have a prize herself, you know,' said the Mouse.
@@ -248,7 +250,7 @@ i lu ku'i ei dunda lo se jinga ba'e ta li'a sei la smacu cu cusku li'u
 @c    you got in your pocket?' he went on, turning to Alice.
 
 i lu li'a sei la dodos cu spuda co junri i do ponse ma poi drata zi'epe
-vi le daski pe do sei dy jmina cusku je carcra be la alis li'u
+ne'i le do daski sei dy jmina cusku je carcra be la alis li'u
 
 @c      `Only a thimble,' said Alice sadly.
 
@@ -256,7 +258,7 @@ i lu lo tajgai po'o sei la alis badri cusku li'u
 
 @c      `Hand it over here,' said the Dodo.
 
-i lu ko dunda ta mi sei la dodos cusku li'u
+i lu ko ta mi dunda sei la dodos cusku li'u
 
 @c      Then they all crowded round her once more, while the Dodo
 @c    solemnly presented the thimble, saying `We beg your acceptance of
@@ -275,9 +277,8 @@ kei le romei cu geirkrixa
 
 i la alis cu jinvi le du'u piro le tcini cu mutce co cizra i ku'i le
 romei cu simlu le ka junri kei ja'e le nu abu na darsi le nu cmila
-i ji'a ki'u le nu abu na sanji le du'u ei cusku makau kei abu
-krobi'o rinsa gi'e lebna le tajgai serai le ka junri simlu kei 
-verai lei selka'e
+i ji'a abu ki'u le nu na sanji le du'u ei cusku makau cu
+krobi'o rinsa gi'e lebna le tajgai serai le ka junri simlu 
 
 @c      The next thing was to eat the comfits:  this caused some noise
 @c    and confusion, as the large birds complained that they could not
@@ -287,8 +288,8 @@ verai lei selka'e
 
 i le bavla'i cu nu citka lei titydja i le go'i cu rinka lo nu savru gi'e
 cfipu kei ki'u le nu lei barda cipni cu pante le nu na kakne le nu
-vu'irga'e le mebycy.moi kei kei e le nu lei cmalu cu nandu vasxu gi'e ei 
-se darxi fo le trixe i ku'i fanmo uo ije le romei cu za'ure'u 
+vu'irga'e le mebycy.moi kei kei e le nu lei cmalu cu nandu vasxu gi'e 
+nitcu le nu se darxi fo le trixe i ku'i fanmo uo ije le romei cu za'ure'u 
 zutse co djine gi'e pikci la smacu le nu di'a cusku
 
 @c stidi lu se vaxyzu'i li'u mi'e pier
@@ -298,7 +299,7 @@ zutse co djine gi'e pikci la smacu le nu di'a cusku
 @c    `and why it is you hate--C and D,' she added in a whisper, half
 @c    afraid that it would be offended again.
 
-i lu do nupre le nu cusku le citri be do ju'odai be'o sei la alis cusku 
+i lu do nupre le nu cusku le citri be do sei la alis cusku 
 e le du'u ki'u makau do xebni -y- my e gy li'u seke jmina cusku abu noi smaji
 gi'e terpa ru'e le nu da'i sy se xrani za'ure'uku
 
@@ -366,13 +367,13 @@ linsi cu simsa di'e
 @c    @end format
 
 @format
-                         la fengu cu cusku 
-                       fi lo smacu poi 
-                     fy penmi fi le zdani
-                   fe lu e'u 
-                     mi'o klama le flalu
-                       i ai mi flapro do i e'u
-                         mi na tolsarxe zanru
+@c                         la fengu cu cusku 
+@c                       fi lo smacu poi 
+@c                     fy penmi fi le zdani
+@c                   fe lu e'u 
+@c                     mi'o klama le flalu
+@c                       i ai mi flapro do i e'u
+@c                         mi na tolsarxe zanru
 @end format
 
 @c    @format
@@ -418,27 +419,27 @@ linsi cu simsa di'e
                                       cpacu cu
                                     penmi le
                                 zdani i
-                           fy di'e 
+                             fy di'e 
                              jungasnu 
                                  i i'a no 
                                    proki'u i ei 
                                         flajvisi'u
-                                     i ca le ca 
-                                   cerni no 
+                                       i ca le ca 
+                                      cerni no 
                                     drata cu 
                                   fasnu
                              i e'o mi 
                            farlu
-                         sei le smacu 
+                           sei le smacu 
                                cu darlu i
                                     secau lo 
                                       pairkamni 
                                         li'a mi'o 
                                      nolpratra 
                                     i o'u na 
-                                   vajni i
-                             je ba'e mi 
-                                pajni
+                                  vajni i
+                              je ba'e mi 
+                               pajni
                                   sei la                          
                                     fengu cu 
                                          cusku
@@ -453,7 +454,7 @@ linsi cu simsa di'e
 @c      `You are not attending!' said the Mouse to Alice severely.
 @c    `What are you thinking of?'
 
-i lu do na jundi sei la smacu cu junri cusku be fi la alis i do pensi ma li'u
+i lu do na jundi sei la smacu fi la alis cu junri cusku i do pensi ma li'u
 
 @c      `I beg your pardon,' said Alice very humbly:  `you had got to
 @c    the fifth bend, I think?'
@@ -475,7 +476,7 @@ zi'e noi ru'u xanka catlu i lu ui e'ocai mi do sidju le nu luzgau jy li'u
 @c      `I shall do nothing of the sort,' said the Mouse, getting up
 @c    and walking away.  `You insult me by talking such nonsense!'
 
-i lu ai mi curmi no simsa sei la smacu cusku je sa'irbi'o je cliva i do 
+i lu ai mi curmi no simsa sei la smacu cu cusku je sa'irbi'o je cliva i do 
 mi tolsi'a fau le nu do cusku lo tai nonselsmu li'u
 
 @c      `I didn't mean it!' pleaded poor Alice.  `But you're so easily
@@ -485,15 +486,15 @@ i lu ainai go'i sei la alis uu pikca i ku'i fu'i je'u do selxaicni li'u
 
 @c      The Mouse only growled in reply.
 
-i le smacu cu spuda fi le nu cmoni po'o
+i la smacu cu spuda fi le nu cmoni po'o
 
 @c      `Please come back and finish your story!' Alice called after
 @c    it; and the others all joined in chorus, `Yes, please do!' but
 @c    the Mouse only shook its head impatiently, and walked a little
 @c    quicker.
 
-i lu e'osai ko xruti klama gi'e mo'u cusku le lisri be fi do li'u se kixsku
-la alis sy ijoi lei drata cu kansa co cusku lu go'i e'ocai li'u i ku'i
+i lu e'osai ko xruti klama gi'e mo'u cusku le lisri be fi do sei la alis
+kixsku li'u ijoi lei drata cu kansa co cusku lu go'i e'ocai li'u i ku'i
 la smacu cu desygau po'o le stedu gi'enai depsarxe gi'e sutyze'a le ka
 cadzu
 
@@ -513,14 +514,14 @@ banzu le nu fegygau lo'e xamsi cakcurnu li'u
 @c      `I wish I had our Dinah here, I know I do!' said Alice aloud,
 @c    addressing nobody in particular.  `She'd soon fetch it back!'
 
-i lu a'o la dinas zvati ju'ocai sei la alis bacru cusku be fi no steci
+i lu a'o la dinas vi zvati ju'ocai sei la alis fi no steci cu bacru cusku
 i dy cazi cpacu da'i li'u
 
 @c      `And who is Dinah, if I might venture to ask the question?'
 @c    said the Lory.
 
 i lu la dinas ki'a va'o le nu mi zifre le nu te preti sei la cipnrlori
-cusku li'u
+cu cusku li'u
 
 @c      Alice replied eagerly, for she was always ready to talk about
 @c    her pet:  `Dinah's our cat.  And she's such a capital one for
@@ -528,8 +529,8 @@ cusku li'u
 @c    after the birds!  Why, she'll eat a little bird as soon as look
 @c    at it!'
 
-i la alis cu djicni spuda ki'u le nu abuboi roroi bredi le nu tavla fi le
-abu danlu kei kei fi lu la dinas cu memi'amoi mlatu iji'a certu je'u le nu
+i la alis cu djicni spuda ki'u le nu roroi bredi le nu tavla fi le
+abu danlu i lu la dinas cu memi'amoi mlatu iji'a certu je'u le nu
 kavbu loi smacu i ui au do viska dy ca le nu jersi loi cipni i je'u
 dy lo'e cmalu cipni du'igi catlu gi citka li'u
 
@@ -560,7 +561,7 @@ i ki'u loi vrici le romei cu cliva ije la alis cu bazi kansa no da
 
 i lu au mi na pu tavla fi la dinas sei abu sezysku co badri i no da
 pe viku cu nelci dy pe'i i ku'i ju'o dy xagrai piro loi mlatu
-pe le munje i oi doi dinas iu i'i xu mi ba za'ure'u viska do li'u 
+pe le munje i oi doi dinas iu i'i xu mi do ba za'ure'u viska li'u 
 i caku la alis uu co'a za'ure'u klaku ki'u le nu abu cinmo
 le ka mutce co nonkansa je badri ibazibo ku'i abu cu za'ure'u tirna 
 le nu vu stapa ije abu djicni galvi'a gi'e milxe co pacna le du'u
