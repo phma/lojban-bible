@@ -103,7 +103,7 @@ cusku lu pe'i do .ei cusku le sedu'u ba'e do mo puku li'u
 @c    a VERY unpleasant state of mind, she turned away.
 
 i la'e di'u ji'a cfipu preti i la alis na ka'e pensi lo xamgu krinu
-ijebo le ciftoldi cu simlu le ka na'e se zdile iseki'ubo abu co'a 
+ijebo le ciftoldi cu simlu le ka na'e se zdile iseki'ubo abu co'a
 cliva
 
 @c      `Come back!' the Caterpillar called after her.  `I've something
@@ -139,7 +139,7 @@ la alis jdice le du'u denpa kei ki'u le nu ge noda se zukte gi cumki
 fa le nu cy jungau abu lo se vamji be le nu tirna i ze'a lo mentu be
 li so'o cy ca'o damva'u gi'e na tavla i romai cy tolpolje lei birka
 gi'e za'ure'u lebna le nargile le moklu gi'e cusku lu ja'o do jinvi
-le du'u do ba'o cenba i xu go'i li'u  
+le du'u do ba'o cenba i xu go'i li'u
 
 @c      `I'm afraid I am, sir,' said Alice; `I can't remember things as
 @c    I used--and I don't keep the same size for ten minutes together!'
@@ -155,12 +155,12 @@ i lu ka'enai morji ba'e ma sei le ciftoldi cu cusku li'u
 @c      `Well, I've tried to say "HOW DOTH THE LITTLE BUSY BEE," but it
 @c    all came different!' Alice replied in a very melancholy voice.
 
-i lu mi pu troci le nu sitna lu ua le cmalu gunkybifce li'u i ku'i 
-ri se bacru ja'e lo frica sei la alis badri mutce voksa spuda li'u 
-       
+i lu mi pu troci le nu sitna lu ua le cmalu gunkybifce li'u i ku'i
+ri se bacru ja'e lo frica sei la alis badri mutce voksa spuda li'u
+
 @c      `Repeat, "YOU ARE OLD, FATHER WILLIAM,"' said the Caterpillar.
 
-i lu ko sitna lu do tolcitno doi paf uiliam li'u sei le ciftoldi 
+i lu ko sitna lu do tolcitno doi paf uiliam li'u sei le ciftoldi
 cu cusku li'u
 
 @c      Alice folded her hands, and began:--
@@ -185,8 +185,8 @@ i la alis polje lei xance gi'e co'a co'e di'e
       i do jinvi xu le du'u drani
 
       i ca le mi nuncitno sei la uiliam spuda
-      mi terpa le nu mi se benxai 
-      i caku ju'osai mi noda se besna    
+      mi terpa le nu mi se benxai
+      i caku ju'osai mi noda se besna
       i uisai mi ka'e roroi co'e
 
       i le citnau cu cusku do ke'u tolci'o
@@ -194,7 +194,9 @@ i la alis polje lei xance gi'e co'a co'e di'e
       i ku'i do plipe puzi vi le vorme
       i ma krinu le nu ka'e go'i
 
-@end format      
+@end format
+@c Poetic license, I suppose. That means "you stand on a head which is on the floor",
+@c or something like that; in prose we say "do sanli fi le stedu", but that doesn't fit the meter.
 
 @c        `You are old,' said the youth, `as I mentioned before,
 @c          And have grown most uncommonly fat;
@@ -264,7 +266,7 @@ i lu mi ba'e na djuno sei le ciftoldi cu cusku li'u
 @c      Alice said nothing:  she had never been so much contradicted in
 @c    her life before, and she felt that she was losing her temper.
 
-i la alis cu cusku noda i abu pu tai se fapro noroi le abu nunjmive 
+i la alis cu cusku noda i abu pu tai se fapro noroi le abu nunjmive
 gi'e ca cinmo le nu fengu binxo
 
 @c      `Are you content now?' said the Caterpillar.
@@ -277,13 +279,14 @@ i lu xu do ca se mansa sei le ciftoldi cu cusku li'u
 
 i lu y'y au mi bramau doi do'u sei la alis cusku i le nu cenmitre
 li ze cu mutce le ka mabla li'u
+@c "I hope ' is bigger than I"? Who's '? {braze'a} may be better.
 
 @c      `It is a very good height indeed!' said the Caterpillar
 @c    angrily, rearing itself upright as it spoke (it was exactly three
 @c    inches high).
 
 i lu iasai mutce le ka zabna sei le ciftoldi cu fengu cusku li'u i cy
-sanli binxo ca le nu tavla to cy satci mitre li ze toi
+sanli binxo ca le nu tavla to cy satci cenmitre li ze toi
 
 @c      `But I'm not used to it!' pleaded poor Alice in a piteous tone.
 @c    And she thought of herself, `I wish the creatures wouldn't be so
@@ -295,7 +298,7 @@ lu au le nu lei vi danlu cu se cnicrogau na tai frili li'u
 @c      `You'll get used to it in time,' said the Caterpillar; and it
 @c    put the hookah into its mouth and began smoking again.
 
-i lu do ba se tcaci sei le ciftoldi cu cusku i cy punji le nargile 
+i lu do ba se tcaci sei le ciftoldi cu cusku i cy punji le nargile
 le moklu gi'e co'a za'ure'u damva'u
 
 @c      This time Alice waited patiently until it chose to speak again.
@@ -381,8 +384,8 @@ poi stani simsa sanli le xamsi fi lo ni'azu crino pezli
 
 i lu le va crino cu ba'e mo sei la alis cusku i lei mi janco ba'o klama
 ma i oi doi xance be mi ki'u ma mi do uu ka'enai viska li'u i abu muvgau
-xy ca le nu tavla i ku'i se jalge lo po'o cmalu nu desku fa lei darno 
-ke crino pezli  
+xy ca le nu tavla i ku'i se jalge lo po'o cmalu nu desku fa lei darno
+ke crino pezli
 
 @c      As there seemed to be no chance of getting her hands up to her
 @c    head, she tried to get her head down to them, and was delighted
@@ -397,9 +400,9 @@ ke crino pezli
 i le nu muvgau lei xance le stedu cu simlu le ka na cumki iseki'ubo
 abu troci le nu muvgau le stedu lei xance i abu mutce gleki le nu
 facki le du'u le cnebo cu se frili le nu krobi'o fa'a roda tai tu'a
-lo since i abu ba'o snada le nu krobi'o ja'e lo melbi zigzagi kei 
+lo since i abu ba'o snada le nu krobi'o ja'e lo melbi zigzagi kei
 gi'e preti le nu sfubu le jbini be lei pezli noi abu facki le du'u
-ke'a na'e drata le gapru be lei tricu noi ni'a ke'a abu pu klama  
+ke'a na'e drata le gapru be lei tricu noi ni'a ke'a abu pu klama
 icabo lo kinli se bacru cu gasnu le nu abu sutra ti'ekla i lo barda
 tcacpi pu vofli fa'a le abu flira gi'e vlile darxi abu le nalci
 
@@ -545,14 +548,14 @@ ca le cfari i ku'i abu se tcaci binxo ze'a lo mentu be li so'u gi'e
 di'a ta'e sezytavla i lu uo le xadba be le mi selpla ba'o se zukte
 i u'e lei vi nuncenba cu cizra i mi noroi birti le du'u mi ba binxo
 makau zi lo mentu i ku'i mi ba'o xruti le nu drani mitre icaku ei
-nerkla le melbi purdi i a'u ta'i ma zukte la'e di'u li'u i ca le nu 
+nerkla le melbi purdi i a'u ta'i ma zukte la'e di'u li'u i ca le nu
 cusku di'u kei abu suksa tolcliva lo klina noi vasru lo cmalu zdani
-noi mitre li ji'ipa i lu romu'ei le du'u makau xabju ta kei sei la 
+noi mitre li ji'ipa i lu romu'ei le du'u makau xabju ta kei sei la
 alis pensi na drani fa le nu tolcanci tai le ca nu mi mitre i va'oku
-mi terpygau mutce li'u i seki'ubo abu co'a za'ure'u citka le pritu 
+mi terpygau mutce li'u i seki'ubo abu co'a za'ure'u citka le pritu
 spisa gi'e na darsi le nu jbikla le zdani kei pu le nu ba'o jdika
 ja'e le nu cenmitre li reno
- 
+
 
 
  
