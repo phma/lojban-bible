@@ -212,7 +212,7 @@
  secau     BAI*     sin                                       claxu modal, 2do argumento (careciendo)               sin ...
  ba'e      BAhE     énfasis (sobre lo que sigue)              indicador de énfasis; indica que la siguiente palabra es especialmente enfatizada
  za'e      BAhE     palabra efímera sigue                     indicador de palabra efímera; indica que la siguiente palabra es una creación del momento y puede no ser estándar
- be        BE       acoplar sumti                             adhiere un sumti (default x2) a un selbri; usado en descripciones
+ be        BE       acoplar sumti                             adhiere un sumti (por defecto x2) a un selbri; usado en descripciones
  bei       BEI      acoplar otros sumti                       separa varios sumti acoplados a un selbri; usado en descripciones
  be'o      BEhO     fin de sumti acoplados                    terminador elisible: fin de sumti acoplados en una descripción específica
  bi'e      BIhE     operador de alta prioridad                prefijado a un operador matemático para indicar alta prioridad
@@ -237,7 +237,7 @@
  je'o      BY1      cambio a hebreo                           cambia letras a alfabeto hebreo
  lo'a      BY1      cambio a lojban                           cambia letras a alfabeto lojbánico (romano)
  na'a      BY1      cancela cambios de alfabeto               cancela todos los cambios de alfabeto
- se'e      BY1      código de caracteres                      siguientes dígitos codifican un caracter (en ASCII, Unicode, etc.)
+ se'e      BY1      código de caracteres                      siguientes dígitos codifican un carácter (en ASCII, Unicode, etc.)
  to'a      BY1      cambio a minúsculas                       cambia a minúsculas
  ga'e      BY1      cambio a mayúsculas                       cambia a mayúsculas
 .y'y       BY2      '                                         letra '
@@ -294,8 +294,8 @@
  mu'onai   COI*     sigue más                                 vocativo: cambio - sigue más
  je'enai   COI*     no recibido                               vocativo: recibido (reconocimiento) - reconocimiento negativo; No te escuché
  ki'enai   COI*     no gracias a tí                           vocativo: gracias - no gracias a tí
- mi'enai   COI*     no, no soy yo                             autovocativo: autointroducción - negación de identidad; niega la identidad de quien habla
- nu'enai   COI*     no-promesa                                vocativo: promesa - relevo de promesa - despromesa
+ mi'enai   COI*     no soy yo                                 autovocativo: autointroducción - negación de identidad; niega la identidad de quien habla
+ nu'enai   COI*     despromesa                                vocativo: promesa - relevo de promesa - despromesa
  re'inai   COI*     no listo para recibir                     vocativo: listo para recibir - no preparado para recibir
  nu'ecu'i  COI*     relevo de promesa                         vocativo: promesa - relevo de promesa - despromesa
  cu        CU       separador de selbri                       marcador elisible: separa selbri del sumti precedente, permite la elisión de terminadores precedentes
@@ -504,13 +504,13 @@
  lau       LAU      signo de puntuación                       cambio de letra: sigue signo de puntuación o especial
  zai       LAU      selección de alfabeto                     cambio de letra: sigue selector de alfabeto alternativo
  tau       LAU      cambia letra siguiente                    cambio de letra: cambia letra siguiente a mayúscula/minúscula
- tu'a      LAhE     el bridi implied by                       extracts a concrete sumti from an unspecified abstracción; equivalent to le nu/su'u [sumti] co'e
- lu'a      LAhE     algún miembro de                          the members of the set/components of the mass; convierte another descripción type to individuals
- lu'o      LAhE     el grupo compuesto por                    the mass composed of; convierte another descripción type to a mass composed of the members
- la'e      LAhE     el referente de                           the referent of (indirect pointer); uses the referent of a sumti as the desired sumti
- vu'i      LAhE     la secuencia de                           sumti qualifier: the sequence made from set or composed of elements/components; order is vague
- lu'i      LAhE     el conjunto compuesto por                 the set con members; convierte another descripción type to a set of the members
- lu'e      LAhE     el símbolo de                             the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti
+ tu'a      LAhE     el bridi implicado por                    abstracción no especificada sobre un sumti concreto; equivalente a le nu/su'u [sumti] co'e
+ lu'a      LAhE     algún miembro de                          algún miembro de conjunto/grupo ...; convierte otro tipo de descripción a individuos
+ lu'o      LAhE     el grupo compuesto por                    el grupo compuesto por ...; convierte otro tipo de descripción a un grupo
+ la'e      LAhE     el referente de                           el referente de (señalador indirecto); usa el referente de un sumti como sumti
+ vu'i      LAhE     la secuencia de                           calificador de sumti: la secuencia de elementos/componentes ...; orden es vago
+ lu'i      LAhE     el conjunto compuesto por                 el conjunto con miembros ...; convierte otro tipo de descripción a un conjunto
+ lu'e      LAhE     el símbolo de                             el símbolo de (discurso indirecto); usa el símbolo/palabra que representa un sumti como sumti
  le        LE       el descripto                              descriptor no verídico: el/cada uno de los descriptos como ...
  lei       LE       el grupo descripto                        descriptor no verídico: el grupo de los descriptos como ...
  loi       LE       un grupo de los que realmente son         descriptor verídico: un grupo de los que realmente son ...
@@ -528,7 +528,7 @@
  levi      LE*      este                                      descriptor locativo: este ... de aquí, descriptivo (no demostrativo)
  leti      LE*      el ... de éste                            descriptor posesivo/asociativo: posesivo demostrativo inmediato; no usar por 'ESTE ...'
  ledo      LE*      tu                                        descriptor posesivo/asociativo: el descripto como ..., tuyo/de ustedes
- le'u      LEhU     fin de cita de error                      fin de cita de texto cuestionable o fuera de contexto; not elisible
+ le'u      LEhU     fin de cita de error                      fin de cita de texto cuestionable o fuera de contexto; no elisible
  me'o      LI       la expresión matemática                   la expresión matemática (no evaluada); convierte expresión matemática no evaluada en sumti
  li        LI       el número                                 el número/expresión evaluada; convierte número/operando/expresión evaluada en sumti
  li'u      LIhU     fin de cita                               terminador elisible: fin de cita; raramente elisible excepto al final del texto
@@ -581,38 +581,38 @@
  pirosi'e  MOI*     es el total de                            selbri cuantificado: convierte todo en selbri fraccional; x1 es el total de x2
  cimoi     MOI*     es tercero entre                          selbri cuantificado: convierte 3 en selbri ordinal; x1 es tercero entre x2 ordenado según regla x3
  du'emei   MOI*     son demasiados                            selbri cuantificado: convierte demasiados en selbri cardinal; x1 son demasiados x2
- mo'e      MOhE     sumti en operando                         convierte sumti to mex operand; sample use in story arithmetic: [3 apples] + [3 apples] = what
- mo'i      MOhI     movimiento espacial                       mark motions in space-time
- ja'a      NA       afirmador de bridi                        bridi logical affirmer; scope is an entire bridi
- na        NA       negador de bridi                          bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds
- nai       NAI      negate last word                          attached to cmavo to negate them; various negation-related meanings
- to'e      NAhE     polar opposite                            polar opposite scalar negator
- je'a      NAhE     scalar affirmer                           scalar affirmer; denies scalar negation: Indeed!
- na'e      NAhE     scalar contrary                           contrary scalar negator: other than ...; not ...; a scale or set is implied
- no'e      NAhE     scalar midpoint not                       midpoint scalar negator: neutral point between je'a and to'e; "not really"
- na'u      NAhU     selbri to operator                        convierte selbri to mex operator; used to create less-used operators using le'avla, lujvo, etc.
- ni'e      NIhE     selbri to operand                         convierte selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen
- ni'o      NIhO     new topic                                 discursivo: paragraph break; introduce new topic
- no'i      NIhO     old topic                                 discursivo: paragraph break; resume previous topic
- voi       NOI      cláusula descriptiva                      non-veridical restrictive clause used to form complicated le-like descripciones using "ke'a"
- noi       NOI      cláusula incidental                       non-restrictive relative clause; attaches subordinate bridi con incidental information
- poi       NOI      cláusula restrictiva                      restrictive relative clause; attaches subordinate bridi con identifying information to a sumti
- ni        NU       cantidad                                  abstractor: quantity/amount abstractor; x1 es quantity/amount of [bridi] measured on scale x2
- du'u      NU       bridi                                     abstractor: predication/bridi abstractor; x1 es predication [bridi] expressed in sentence x2
- si'o      NU       concepto                                  abstractor: idea/concept abstractor; x1 es x2's concept of [bridi]
- nu        NU       evento                                    abstractor: generalized event abstractor; x1 es state/process/achievement/activity of [bridi]
- li'i      NU       experiencia                               abstractor: experience abstractor; x1 es x2's experience of [bridi] (participant or observer)
- ka        NU       propiedad                                 abstractor: property/quality abstractor (-ness); x1 es quality/property exhibited by [bridi]
- jei       NU       valor de verdad                           abstractor: truth-value abstractor; x1 es truth value of [bridi] under epistemology x2
- su'u      NU       abstracción no específica                 abstractor: generalized abstractor (how); x1 es [bridi] as a non-specific abstracción of type x2
- sedu'u    NU*      sentence abstract                         compound abstractor: sentence/equation abstract; x1 es text expressing [bridi] which is x2
- zu'o      NU1      actividad                                 abstractor: activity (event) abstractor; x1 es abstract activity of [bridi] composed of x2
- mu'e      NU1      evento puntual                            abstractor: achievement (event) abstractor; x1 es the event-as-a-point/achievement of [bridi]
- pu'u      NU1      proceso                                   abstractor: process (event) abstractor; x1 es process of [bridi] proceeding in stages x2
- za'i      NU1      estado                                    abstractor: state (event) abstractor; x1 es continuous state of [bridi] being true
- nu'a      NUhA     operador a selbri                         convierte mathematical expression (mex) operator to a selbri/tanru component
- nu'i      NUhI     start fore termset                        start forethought termset construct; marks start of place structure set con logical connection
- nu'u      NUhU     end fore termset                          terminador elisible: end forethought termset; usually elisible except con following sumti
+ mo'e      MOhE     sumti en operando                         convierte sumti en operando; ejemplo: [3 manzanas] + [3 manzanas] = ¿qué?
+ mo'i      MOhI     movimiento espacial                       marca movimiento en el espaciotiempo
+ ja'a      NA       afirmador de bridi                        afirmador lógico de bridi; alcance sobre todo el bridi
+ na        NA       negador de bridi                          negador de bridi; alcance sobre todo el bridi; negación lógica en algunos compuestos de cmavo
+ nai       NAI      niega palabra anterior                    adherido a cmavo para negarlo; varios significados relacionados a la negación
+ to'e      NAhE     opuesto polar                             negador escalar opuesto polar
+ je'a      NAhE     afirmación escalar                        afirmación escalar; niega negación escalar: ¡Claro que sí!
+ na'e      NAhE     contrario escalar                         negador contrario escalar: otro que ...; no ...; se implica una escala o conjunto
+ no'e      NAhE     no escalar medio                          negador escalar medio: punto neutral entre je'a y to'e; "no realmente"
+ na'u      NAhU     selbri a operador                         convierte selbri a operador; usado para crear operadores a base de le'avla, lujvo, etc.
+ ni'e      NIhE     selbri a operando                         convierte selbri a operando; usado para crear nuevos cuantificadores no numericos; ej. "manada" de bueyes
+ ni'o      NIhO     tópico nuevo                              discursivo: párrafo nuevo; introduce nuevo tópico
+ no'i      NIhO     tópico viejo                              discursivo: párrafo nuevo; resume tópico previo
+ voi       NOI      cláusula descriptiva                      cláusula restrictiva no verídica usada para formar descripciones tipo "le" usando "ke'a"
+ noi       NOI      cláusula incidental                       cláusula relativa no restrictiva; adjunta bridi subordinado con información incidental a un sumti
+ poi       NOI      cláusula restrictiva                      cláusula relativa restrictiva; adjunta bridi subordinado con información identificatoria a un sumti
+ ni        NU       cantidad                                  abstractor: abstractor de cantidad; x1 es una cantidad de [bridi] medida en escala x2
+ du'u      NU       bridi                                     abstractor: abstractor de predicación/bridi; x1 es una predicación [bridi] expresada en oración x2
+ si'o      NU       concepto                                  abstractor: abstractor de idea/concepto; x1 es el concepto que tiene x2 de [bridi]
+ nu        NU       evento                                    abstractor: abstractor de evento general; x1 es un estado/proceso/acción/actividad de [bridi]
+ li'i      NU       experiencia                               abstractor: abstractor de experiencia; x1 es la experiencia que tiene x2 de [bridi] (participante u observador)
+ ka        NU       propiedad                                 abstractor: abstractor de propiedad/cualidad; x1 es una cualidad/propiedad exhibida por [bridi]
+ jei       NU       valor de verdad                           abstractor: abstractor de valor de verdad; x1 es el valor de verdad de [bridi] según epistemología x2
+ su'u      NU       abstracción no específica                 abstractor: abstractor generalizado; x1 es [bridi] como abstracción no específica de tipo x2
+ sedu'u    NU*      oración                                   abstractor compuesto: sentence/equation abstractor de oración/ecuación; x1 es texto expresando [bridi] que es x2
+ zu'o      NU1      actividad                                 abstractor: abstractor de actividad (evento); x1 es una actividad de [bridi] compuesta de x2
+ mu'e      NU1      evento puntual                            abstractor: abstractor de acción (evento); x1 es una acción puntual de [bridi]
+ pu'u      NU1      proceso                                   abstractor: abstractor de proceso (evento); x1 es un proceso de [bridi] procediendo en etapas x2
+ za'i      NU1      estado                                    abstractor: abstractor de estado (evento); x1 es un estado continuo de [bridi] siendo verdad
+ nu'a      NUhA     operador a selbri                         convierte operador de expresión matemática a selbri/componente de tanru 
+ nu'i      NUhI     comienzo grupo de términos                comienzo de grupo de términos; marca el comienzo de grupo de posiciones con conección lógica
+ nu'u      NUhU     fin grupo de términos                     terminador elisible: fin de grupo de términos; generalmente elisible excepto cuando sigue un sumti
  paki'o    PA*      1,000                                     número/cantidad: 1,000 
  pano      PA*      10                                        número/cantidad: 10 [diez]
  panono    PA*      100                                       número/cantidad: 100 [cien]
@@ -652,17 +652,17 @@
  sono      PA*      90                                        número/cantidad: 90 [noventa]
  sonono    PA*      900                                       número/cantidad: 900 [novecientos]
  sozepimu  PA*      97.5                                      número/cantidad: 97.5
- sosoce'i  PA*      99 percent                                número/cantidad: 99% (número)
- piso'u    PA*      a little of                               número: un poco de
- piro      PA*      all of                                    número: todo
- piso'a    PA*      almost all of                             número: casi todo
- piji'i    PA*      approximately all of                      número: aproximadamente todo
- pisu'o    PA*      at least some of                          número: algo de
- piso'i    PA*      much of                                   número: mucho de
- ji'ini'u  PA*      rounded down                              redondeado hacia abajo (al final de una cadena de dígitos)
- ji'ima'u  PA*      rounded up                                redondeado hacia arriba (al final de una cadena de dígitos)
- pimo'a    PA*      too little of                             número: demasiado poco de
- pidu'e    PA*      too much of                               número: demasiado
+ sosoce'i  PA*      99 por ciento                             número/cantidad: 99% (número)
+ piso'u    PA*      un poco de                                número: un poco de
+ piro      PA*      todo                                      número: todo
+ piso'a    PA*      casi todo                                 número: casi todo
+ piji'i    PA*      aproximadamente todo                      número: aproximadamente todo
+ pisu'o    PA*      algo de                                   número: algo de
+ piso'i    PA*      mucho de                                  número: mucho de
+ ji'ini'u  PA*      redondeado hacia abajo                    redondeado hacia abajo (al final de una cadena de dígitos)
+ ji'ima'u  PA*      redondeado hacia arriba                   redondeado hacia arriba (al final de una cadena de dígitos)
+ pimo'a    PA*      demasiado poco de                         número: demasiado poco de
+ pidu'e    PA*      demasiado de                              número: demasiado
  no        PA1      0                                         dígito/número: 0 (dígito) [cero]
  pa        PA1      1                                         dígito/número: 1 (dígito) [uno]
  re        PA1      2                                         dígito/número: 2 (dígito) [dos]
@@ -679,9 +679,9 @@
  jau       PA2      dígito hexadecimal D                      dígito/número: dígito hexadecimal D (decimal 13) [trece]
  rei       PA2      dígito hexadecimal E                      dígito/número: dígito hexadecimal E (decimal 14) [catorce]
  vai       PA2      dígito hexadecimal F                      dígito/número: dígito hexadecimal F (decimal 15) [quince]
- pi        PA3      punto decimal                             dígito/número: radix (número base) point; default decimal
+ pi        PA3      punto decimal                             dígito/número: punto de raíz (base numerica); por defecto decimal
  pi'e      PA3      separador de dígitos                      dígito/número: separador de dígitos base >16 o variable (ej: hora, fecha)
- fi'u      PA3      barra de fracción                         dígito/número: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio
+ fi'u      PA3      barra de fracción                         dígito/número: barra de fracción; por defecto "/n" => 1/n, "n/" => n/1, o "/" solo => razón dorada
  za'u      PA3      mayor que                                 dígito/número: mayor que
  me'i      PA3      menor que                                 dígito/número: menor que
  ni'u      PA3      número negativo                           dígito/número: signo menos; número negativo
@@ -689,9 +689,9 @@
  ce'i      PA3      porcentaje                                dígito/número: % porcentaje, centésimos
  ma'u      PA3      número positivo                           dígito/número: signo más; número positivo
  ra'e      PA3      decimales repetidos                       dígito/número: repetición de dígitos
- da'a      PA4      todos excepto                             dígito/número: todos excepto n; todos menos n; default 1
+ da'a      PA4      todos excepto                             dígito/número: todos excepto n; todos menos n; por defecto 1
  so'a      PA4      casi todos                                dígito/número: casi todos (dígito/número)
- ji'i      PA4      aproximadamente                           dígito/número: aproximadamente (default the typical value in this context) (número)
+ ji'i      PA4      aproximadamente                           dígito/número: aproximadamente (por defecto el valor típico en este contexto) (número)
  su'o      PA4      por lo menos                              dígito/número: al menos (alguno); no menos que
  su'e      PA4      a lo sumo                                 dígito/número: a lo sumo (all); no más que
  ro        PA4      cada                                      dígito/número: cada, todos
@@ -709,36 +709,36 @@
  xo        PA5      número ?                                  dígito/número: pregunta de número/dígito/lerfu 
  pai       PA5      pi                                        dígito/número: pi (aproximadamente 3.1416...)
  no'o      PA5      valor típico                              dígito/número: valor típico/promedio
- pe'e      PEhE     termset conn mark                         marks the following connective as joining termsets
- pe'o      PEhO     fore mex operator                         forethought flag for mathematical expression (mex) Polish (forethought) operator
- ba        PU       después                                   tiempo verbal relation/direction: will [selbri]; after [sumti]; default future tense
- pu        PU       antes                                     tiempo verbal relation/direction: did [selbri]; before/prior to [sumti]; default past tense
- ca        PU       durante                                   tiempo verbal relation/direction: is [selbri]; during/simultaneous con [sumti]; present tense
- puzu      PU*      a long time before                        tiempo verbal: a long time before; (tense/modal)
- puza      PU*      a medium time before                      tiempo verbal: a medium time before; (tense/modal)
- puzi      PU*      a short time before                       tiempo verbal: a short time before; (tense/modal)
- puca'a    PU*      actually was                              tiempo verbal: past actuality; aspecto modal
- pujeba    PU*      before and after                          tiempo verbal: before and after; (tense/modal)
- pujeca    PU*      before and during                         tiempo verbal: before and during; (tense/modal)
- caca'a    PU*      currently is                              tiempo verbal: present actuality; aspecto modal
- cajeba    PU*      during and after                          tiempo verbal: during and after; (tense/modal)
- puze'i    PU*      for a moment in past                      tiempo verbal: for a short interval some time in the past; (tense/modal)
- puze'a    PU*      for a period in past                      tiempo verbal: for a medium length interval some time in the past; (tense/modal)
- puze'u    PU*      for an era in past                        tiempo verbal: for a long interval some time in the past; (tense/modal)
- pupu      PU*      had earlier been                          tiempo verbal: had earlier been; (tense/modal)
- puba      PU*      was going to                              tiempo verbal: was going to; (tense/modal)
- baca'a    PU*      will actually                             tiempo verbal: future actuality; aspecto modal
- baba      PU*      will be going to                          tiempo verbal: will be going to; (tense/modal)
- bapu      PU*      will have been                            tiempo verbal: will have been; (tense/modal)
- ra'o      RAhO     pro-assign update                         flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi
- re'u      ROI      ordinal tense                             convierte número to an objectively quantified ordinal modificador de intervalo; defaults to time
- roi       ROI      quantified tense                          convierte número to an objectively quantified modificador de intervalo; defaults to tiempo verbal
+ pe'e      PEhE     marca conector de grupo de términos       marca el conector siguiente como unión de grupo de términos
+ pe'o      PEhO     operador preposicionado                   indicador de operador preposicionado (notación polaca)
+ ba        PU       después                                   dirección/relación de tiempo verbal: será [selbri]; después de [sumti]; por defecto tiempo futuro
+ pu        PU       antes                                     dirección/relación de tiempo verbal: fué [selbri]; antes de [sumti]; por defecto tiempo pasado
+ ca        PU       durante                                   dirección/relación de tiempo verbal: es [selbri]; durante/simultaneo con [sumti]; tiempo presente
+ puzu      PU*      mucho tiempo antes                        tiempo verbal: mucho tiempo antes; (tiempo/modal)
+ puza      PU*      un tiempo antes                           tiempo verbal: un tiempo antes; (tiempo/modal)
+ puzi      PU*      poco tiempo antes                         tiempo verbal: poco tiempo antes; (tiempo/modal)
+ puca'a    PU*      realmente fué                             tiempo verbal: realidad pasada; aspecto modal
+ pujeba    PU*      antes y después                           tiempo verbal: antes y después; (tiempo/modal)
+ pujeca    PU*      antes y durante                           tiempo verbal: antes y durante; (tiempo/modal)
+ caca'a    PU*      realmente es                              tiempo verbal: realidad presente; aspecto modal
+ cajeba    PU*      durante y después                         tiempo verbal: durante y después; (tiempo/modal)
+ puze'i    PU*      por un momento en el pasado               tiempo verbal: por un intervalo corto en el pasado; (tiempo/modal)
+ puze'a    PU*      por un periodo en el pasado               tiempo verbal: por un intervalo medio en el pasado; (tiempo/modal)
+ puze'u    PU*      por una era en el pasado                  tiempo verbal: por un intervalo largo en el pasado; (tiempo/modal)
+ pupu      PU*      había sido antes                          tiempo verbal: había sido antes; (tiempo/modal)
+ puba      PU*      iba a ser                                 tiempo verbal: iba a ser; (tiempo/modal)
+ baca'a    PU*      realmente será                            tiempo verbal: realidad futura; aspecto modal
+ baba      PU*      va a ser                                  tiempo verbal: irá a ser; (tiempo/modal)
+ bapu      PU*      habrá sido                                tiempo verbal: habrá sido; (tiempo/modal)
+ ra'o      RAhO     actualización de pro-asignados            marca GOhA para indicar actualización contextual de todos los pro-asignados en el bridi referido
+ re'u      ROI      tiempo verbal ordinal                     convierte número en modificador de intervalo cuantificado; por defecto temporal
+ roi       ROI      tiempo verbal cuantificado                convierte número en modificador de intervalo cuantificado; por defecto temporal
  so'uroi   ROI*     unas pocas veces                          modificador de intervalo: unas pocas veces 
  roroi     ROI*     siempre                                   modificador de intervalo: siempre, cada vez 
  fe'eroroi ROI*     en todos lados                            modificador de intervalo espacial: en todos lados, en cada lugar
  ci'iroi   ROI*     infinitas veces                           modificador de intervalo: infinitas veces, eternamente
  so'iroi   ROI*     muchas veces                              modificador de intervalo: muchas veces
- piso'iroi ROI*     much of the time                          modificador de intervalo: often 
+ piso'iroi ROI*     en gran parte                             modificador de intervalo: en gran parte 
  noroi     ROI*     nunca                                     modificador de intervalo: nunca, ninguna vez 
  fe'enoroi ROI*     en ningún lado                            modificador de intervalo espacial: en ningún lado
  paroi     ROI*     una vez                                   modificador de intervalo: una vez, una única vez 
@@ -753,15 +753,15 @@
  te        SE       3ra conversión                            3ra conversión; intercambia 1er/3er argumentos
  ve        SE       4ta conversión                            4ta conversión; intercambia 1er/4to argumentos
  xe        SE       5ta conversión                            5ta conversión; intercambia 1er/5to argumentos
- jaigau    SE*      agent conversión                          makes x1 the agent of a bridi; old 1er argumento moves to extra place (fai)
- jaivi     SE*      location conversión                       convierte location tense (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
- jaica     SE*      time conversión                           convierte tiempo verbal (tagged) place to 1er argumento; 1er argumento moves to extra place (fai)
- sei       SEI      bridi discursivo                          start discursivo (metalinguistic) bridi
- ti'o      SEI      mex precedence                            mathematical expression (mex) operator precedence (discursivo)
- se'u      SEhU     fin discursivo                            terminador elisible: end discursivo bridi or mathematical precedence;usually elisible
- si        SI       erase word                                erase the last Lojban word, treating non-Lojban text as a single word
- soi       SOI      reciprocal sumti                          discursivo: reciprocal sumti marker; indicates a reciprocal relationship between sumti
- su        SU       erase discourse                           erase to start of discourse or text; drop subject or start over
+ jaigau    SE*      conversión de agente                      hace x1 el agente de un bridi; el anterior 1er argumento se mueve a posición adicional (fai)
+ jaivi     SE*      conversión de locación                    convierte posición de locación en 1er argumento; el anterior 1er argumento se mueve a posición adicional (fai)
+ jaica     SE*      conversión de tiempo                      convierte posición de tiempo verbal en 1er argumento; el anterior 1er argumento se mueve a posición adicional (fai)
+ sei       SEI      discursivo de bridi                       comienzo de discursivo de bridi (metalinguistico)
+ ti'o      SEI      precedencia operador                      precedencia de operador matemático (discursivo)
+ se'u      SEhU     fin discursivo                            terminador elisible: fin de bridi discursivo o precedencia de operador; generalmente elisible
+ si        SI       borrar palabra                            borra última palabra, toma texto no-lojbánico como una única plabra
+ soi       SOI      sumti recíprocos                          discursivo: marcador de sumti recíprocos; indica una relación recíproca emtre sumti
+ su        SU       borrar discurso                           borra hasta el comienzo de discurso o texto; deja el tema o comienza de nuevo
  ru'i      TAhE     continuamente                             modificador de intervalo: continuamente 
  ta'e      TAhE     habitualmente                             modificador de intervalo: habitualmente 
  di'i      TAhE     regularmente                              modificador de intervalo: regularmente 
@@ -770,224 +770,224 @@
  di'inai   TAhE*    irregularmente                            modificador de intervalo: irregular/aperiódicamente
  ta'enai   TAhE*    no habitualmente                          modificador de intervalo: no habitualmente 
  ru'inai   TAhE*    ocasionalmente                            modificador de intervalo: ocasional/intermitente/discontinuamente 
- tei       TEI      lerfu compuesto                           composite letra follows; used for muti-character letras
- te'u      TEhU     end mex convierteers                        terminador elisible: end conversión between non-mex and mex; usually elisible
- to'i      TO       editorial unquote                         open editorial unquote (within a quote); contains grammatical text; mark con editorial insert
- to        TO       abre paréntesis                           left parenthesis; start of parenthetical note which must be grammatical Lojban text
- toi       TOI      cierra paréntesis                         terminador elisible: right parenthesis/end unquote; seldom elisible except at end of text
- tu'e      TUhE     start text scope                          start of multiple expresión scope; used for logical/non-logical/ordinal joining of sentences
- tu'u      TUhU     end text scope                            terminador elisible: end multiple expresión scope; seldom elisible
-.e'ucu'i   UI*1     abandon suggestion                        actitudinal: suggestion - abandon suggest - warning
-.o'onai    UI*1     anger                                     actitudinal: patience - mere tolerance - anger
-.oiro'i    UI*1     anxiety                                   actitudinal: emotional complaint
-.a'anai    UI*1     avoiding                                  actitudinal: attentive - inattentive - avoiding
-.i'anai    UI*1     blame                                     actitudinal: acceptance - blame
-.e'inai    UI*1     challenge                                 actitudinal: feeling constraint - independence - challenge/resistance against constraint
-.u'enai    UI*1     commonplace                               actitudinal: wonder - commonplace
-.o'ucu'i   UI*1     composure                                 actitudinal: relaxation - composure - stress
-.uanai     UI*1     confusion                                 actitudinal: discovery - confusion/searching
-.u'onai    UI*1     cowardice                                 actitudinal: courage - timidity - cowardice
-.uunai     UI*1     cruelty                                   actitudinal: pity - cruelty
-.a'onai    UI*1     despair                                   actitudinal: hope - despair
-.ienai     UI*1     disagreement                              actitudinal: agreement - disagreement
-.i'enai    UI*1     disapproval                               actitudinal: approval - non-approval - disapproval
-.ianai     UI*1     disbelief                                 actitudinal: belief - skepticism - disbelief
-.a'ucu'i   UI*1     disinterest                               actitudinal: interest - disinterest - repulsion
-.ionai     UI*1     disrespect                                actitudinal: respect - disrespect
-.o'enai    UI*1     distance                                  actitudinal: closeness - distance
-.oiro'a    UI*1     embarrassment                             actitudinal: social complaint
-.i'onai    UI*1     envy                                      actitudinal: appreciation - envy
-.a'enai    UI*1     exhaustion                                actitudinal: alertness - exhaustion
-.uenai     UI*1     expectation                               actitudinal: surprise - expectation
-.einai     UI*1     freedom                                   actitudinal: obligation - freedom
-.iunai     UI*1     hatred                                    actitudinal: love - no love lost - hatred
-.a'acu'i   UI*1     inattentive                               actitudinal: attentive - inattentive - avoiding
-.e'enai    UI*1     incompetence                              actitudinal: competence - incompetence/inability
-.uonai     UI*1     incompleteness                            actitudinal: completion - incompleteness
-.aicu'i    UI*1     indecision                                actitudinal: intent - indecision - rejection/refusal
-.e'icu'i   UI*1     independence                              actitudinal: feeling constraint - independence - challenge/resistance against constraint
-.aucu'i    UI*1     indifference                              actitudinal: desire - indifference - reluctance
-.u'unai    UI*1     innocence                                 actitudinal: repentance - lack of regret - innocence
-.u'ucu'i   UI*1     lack of regret                            actitudinal: repentance - lack of regret - innocence
-.u'anai    UI*1     loss                                      actitudinal: gain - loss
-.o'ocu'i   UI*1     mere tolerance                            actitudinal: patience - mere tolerance - anger
-.o'acu'i   UI*1     modesty                                   actitudinal: pride - modesty/humility - shame
-.i'unai    UI*1     mystery                                   actitudinal: familiarity - mystery
-.e'onai    UI*1     negative request                          actitudinal: request - negative request
-.iucu'i    UI*1     no love lost                              actitudinal: love - no love lost - hatred
-.a'icu'i   UI*1     no special effort                         actitudinal: effort - no special effort - repose
-.i'ecu'i   UI*1     non-approval                              actitudinal: approval - non-approval - disapproval
-.uecu'i    UI*1     not very surprised                        actitudinal: surprise - not really surprised - expectation axis
-.oiro'o    UI*1     physical pain                             actitudinal: physical complaint
-.oinai     UI*1     pleasure                                  actitudinal: complaint - pleasure
-.i'inai    UI*1     privacy                                   actitudinal: togetherness - privacy
-.e'anai    UI*1     prohibition                               actitudinal: permission - prohibition
-.oiro'e    UI*1     puzzlement                                actitudinal: mental complaint (puzzlement, excess mental work)
-.o'inai    UI*1     rashness                                  actitudinal: caution - rashness
-.ainai     UI*1     refusal                                   actitudinal: intent - indecision - rejection/refusal
-.aunai     UI*1     reluctance                                actitudinal: desire - indifference - reluctance
-.a'inai    UI*1     repose                                    actitudinal: effort - no special effort - repose
-.a'unai    UI*1     repulsion                                 actitudinal: interest - disinterest - repulsion
-.iinai     UI*1     security                                  actitudinal: fear - security
-.oiro'u    UI*1     sexual complaint                          actitudinal: sexual complaint
-.o'anai    UI*1     shame                                     actitudinal: pride - modesty/humility - shame
-.iacu'i    UI*1     skepticism                                actitudinal: belief - skepticism - disbelief
-.oire'e    UI*1     spiritual complaint                       actitudinal: spiritual/religious complaint
-.o'unai    UI*1     stress                                    actitudinal: relaxation - composure - stress
-.uepei     UI*1     surprised?                                actitudinal: surprise question
-.u'ocu'i   UI*1     timidity                                  actitudinal: courage - timidity - cowardice
-.uinai     UI*1     unhappiness                               actitudinal: happiness - unhappiness
-.e'unai    UI*1     warning                                   actitudinal: suggestion - abandon suggest - warning
-.u'inai    UI*1     weariness                                 actitudinal: amusement - weariness
- ba'acu'i  UI*2     I experience                              evidencial: I expect - I experience - I remember
- su'anai   UI*2     I particularize                           evidencial: I generalize - I particularize; discursivo: abstractly - concretely
- ba'anai   UI*2     I remember                                evidencial: I expect - I experience - I remember
- ba'ucu'i  UI*3     accuracy                                  discursivo: exaggeration - accuracy - understatement
- mu'anai   UI*3     concluding examples                       discursivo: for example - omitting - end examples
- ke'unai   UI*3     continuing                                discursivo: repeating - continuing
- sa'unai   UI*3     elaborating                               discursivo: simply - elaborating
- ra'ucu'i  UI*3     equally                                   discursivo: chiefly - equally - incidentally
- je'unai   UI*3     falsity                                   discursivo: truth - falsity
- la'anai   UI*3     improbability                             discursivo: probability - improbability
- to'unai   UI*3     in detail                                 discursivo: in brief - in detail
- da'inai   UI*3     in fact                                   discursivo: supposing - in fact
- va'inai   UI*3     in the same words                         discursivo: in other words - in the same words
- ra'unai   UI*3     incidentally                              discursivo: chiefly - equally - incidentally
- sa'enai   UI*3     loosely speaking                          discursivo: precisely speaking - loosely speaking
- li'anai   UI*3     obscurely                                 discursivo: clearly - obscurely
- bi'unai   UI*3     old information                           discursivo: newly introduced information - previously introduced information
- mu'acu'i  UI*3     omitting examples                         discursivo: for example - omitting - end examples
- zu'unai   UI*3     on the other hand                         discursivo: on the one hand - on the other hand
- do'anai   UI*3     parsimoniously                            discursivo: generously - parsimoniously
- pa'enai   UI*3     prejudice                                 discursivo: justice - prejudice
- ta'onai   UI*3     return to main point                      discursivo: by the way - returning to main point
- paunai    UI*3     rhetorical question                       discursivo: unreal/rhetorical question follows
- ba'unai   UI*3     understatement                            discursivo: exaggeration - accuracy - understatement
- ta'unai   UI*3a    expanding the tanru                       discursivo: making a tanru - expanding the tanru
+ tei       TEI      lerfu compuesto                           letra compuesta sigue; usado para letras multi-carácter
+ te'u      TEhU     fin de conversión matemática              terminador elisible: fin de conversión entre no-mex y mex; generalmente elisible
+ to'i      TO       comentario editorial                      comienzo de comentario editorial (dentro de una cita); contiene texto gramático; marca con inserción editorial
+ to        TO       abre paréntesis                           paréntesis izquierdo; comienzo de nota parentética que debe ser texto gramático
+ toi       TOI      cierra paréntesis                         terminador elisible: paréntesis derecho/fin de comentario; raramente elisible excepto al final del texto
+ tu'e      TUhE     comienza alcance de texto                 comienzo de alcance de expresión múltiple; usado para unión lógica/no lógica/ordinal de oraciones
+ tu'u      TUhU     fin de alcance de texto                   terminador elisible: fin de alcance de expresión múltiple; raramente elisible
+.e'ucu'i   UI*1     abandona sugerencia                       actitudinal: sugerencia - abandona sugerencia - amenaza
+.o'onai    UI*1     enojo                                     actitudinal: paciencia - mera tolerancia - enojo
+.oiro'i    UI*1     ansiedad                                  actitudinal: queja emocional
+.a'anai    UI*1     evasión                                   actitudinal: atención - desatención - evasión
+.i'anai    UI*1     culpa                                     actitudinal: aceptación - culpa
+.e'inai    UI*1     desafío                                   actitudinal: restricción - independencia - desafío/resistencia
+.u'enai    UI*1     lugar común                               actitudinal: asombro - lugar común
+.o'ucu'i   UI*1     compostura                                actitudinal: relajación - compostura - estrés
+.uanai     UI*1     confusión                                 actitudinal: descubrimiento - confusión/búsqueda
+.u'onai    UI*1     cobardía                                  actitudinal: coraje - timidez - cobardía
+.uunai     UI*1     crueldad                                  actitudinal: piedad - crueldad
+.a'onai    UI*1     desesperación                             actitudinal: esperanza - desesperación
+.ienai     UI*1     desacuerdo                                actitudinal: acuerdo - desacuerdo
+.i'enai    UI*1     desaprobación                             actitudinal: aprobación - no aprobación - desaprobación
+.ianai     UI*1     descreimiento                             actitudinal: creencia - escepticismo - descreimiento
+.a'ucu'i   UI*1     desinterés                                actitudinal: interés - desinterés - repulsión
+.ionai     UI*1     falta de respeto                          actitudinal: respeto - falta de respeto
+.o'enai    UI*1     distancia                                 actitudinal: cercanía - distancia
+.oiro'a    UI*1     embarazo                                  actitudinal: queja social 
+.i'onai    UI*1     envidia                                   actitudinal: apreciación - envidia
+.a'enai    UI*1     agotamiento                               actitudinal: alerta - agotamiento
+.uenai     UI*1     expectativa                               actitudinal: sorpresa - expectativa
+.einai     UI*1     libertad                                  actitudinal: obligación - libertad
+.iunai     UI*1     odio                                      actitudinal: amor - indiferencia - odio
+.a'acu'i   UI*1     desatención                               actitudinal: atención - desatención - evasión
+.e'enai    UI*1     incompetencia                             actitudinal: competencia - incompetencia/inabilidad
+.uonai     UI*1     incompletitud                             actitudinal: completitud - incompletitud
+.aicu'i    UI*1     indecisión                                actitudinal: intención - indecisión - rechazo/denegación
+.e'icu'i   UI*1     independencia                             actitudinal: restricción - independencia - desafío/resistencia
+.aucu'i    UI*1     indiferencia                              actitudinal: deseo - indiferencia - rechazo
+.u'unai    UI*1     inocencia                                 actitudinal: arrepentimiento - falta de arrepentimiento - inocencia
+.u'ucu'i   UI*1     falta de arrepentimiento                  actitudinal: arrepentimiento - falta de arrepentimiento - inocencia
+.u'anai    UI*1     pérdida                                   actitudinal: ganancia - pérdida
+.o'ocu'i   UI*1     mera tolerancia                           actitudinal: paciencia - mera tolerancia - enojo
+.o'acu'i   UI*1     modestia                                  actitudinal: orgullo - modestia/humildad - vergüenza
+.i'unai    UI*1     misterio                                  actitudinal: familiaridad - misterio
+.e'onai    UI*1     pedido negativo                           actitudinal: pedido - pedido negativo
+.iucu'i    UI*1     indiferencia                              actitudinal: amor - indiferencia - odio
+.a'icu'i   UI*1     ningún esfuerzo especial                  actitudinal: esfuerzo - ningún esfuerzo especial - reposo
+.i'ecu'i   UI*1     no aprobación                             actitudinal: aprobación - no aprobación - desaprobación
+.uecu'i    UI*1     no muy sorprendido                        actitudinal: sorpresa - no realmente sorprendido - expectativa
+.oiro'o    UI*1     dolor físico                              actitudinal: queja física
+.oinai     UI*1     placer                                    actitudinal: queja - placer
+.i'inai    UI*1     privacidad                                actitudinal: juntos - privacidad
+.e'anai    UI*1     prohibición                               actitudinal: permiso - prohibición
+.oiro'e    UI*1     confusión                                 actitudinal: queja mental (confusión, excesivo trabajo mental)
+.o'inai    UI*1     apresuramiento                            actitudinal: precaución - apresuramiento
+.ainai     UI*1     rechazo                                   actitudinal: intención - indecisión - rechazo/denegación
+.aunai     UI*1     rechazo                                   actitudinal: deseo - indiferencia - rechazo
+.a'inai    UI*1     reposo                                    actitudinal: esfuerzo - ningún esfuerzo especial - reposo
+.a'unai    UI*1     repulsión                                 actitudinal: interés - desinterés - repulsión
+.iinai     UI*1     seguridad                                 actitudinal: miedo - seguridad
+.oiro'u    UI*1     queja sexual                              actitudinal: queja sexual
+.o'anai    UI*1     vergüenza                                 actitudinal: orgullo - modestia/humildad - vergüenza
+.iacu'i    UI*1     escepticismo                              actitudinal: creencia - escepticismo - descreimiento
+.oire'e    UI*1     queja espiritual                          actitudinal: queja espiritual/religiosa
+.o'unai    UI*1     estrés                                    actitudinal: relajación - compostura - estrés
+.uepei     UI*1     sorpresa?                                 actitudinal: pregunta por sorpresa
+.u'ocu'i   UI*1     timidez                                   actitudinal: coraje - timidez - cobardía
+.uinai     UI*1     tristeza                                  actitudinal: felicidad - tristeza
+.e'unai    UI*1     amenaza                                   actitudinal: sugerencia - abandona sugerencia - amenaza
+.u'inai    UI*1     tedio                                     actitudinal: diversión - tedio
+ ba'acu'i  UI*2     experiencia                               evidencial: anticipación - experiencia - recuerdo
+ su'anai   UI*2     particularización                         evidencial: generalización - particularización; discursivo: en abstracto - en concreto
+ ba'anai   UI*2     recuerdo                                  evidencial: expectativa - experiencia - recuerdo
+ ba'ucu'i  UI*3     exactitud                                 discursivo: exageración - exactitud - minimización
+ mu'anai   UI*3     fin de ejemplos                           discursivo: por ejemplo - omitiendo - fin de ejemplos
+ ke'unai   UI*3     continuando                               discursivo: repitiendo - continuando
+ sa'unai   UI*3     elaborando                                discursivo: simplemente - elaborando
+ ra'ucu'i  UI*3     igualmente                                discursivo: principalmente - igualmente - incidentalmente
+ je'unai   UI*3     falsedad                                  discursivo: verdad - falsedad
+ la'anai   UI*3     improbabilidad                            discursivo: probabilidad - improbabilidad
+ to'unai   UI*3     en detalle                                discursivo: en breve - en detalle
+ da'inai   UI*3     de hecho                                  discursivo: suponiendo - de hecho
+ va'inai   UI*3     en las mismas palabras                    discursivo: en otras palabras - en las mismas palabras
+ ra'unai   UI*3     incidentalmente                           discursivo: principalmente - igualmente - incidentalmente
+ sa'enai   UI*3     imprecisión                               discursivo: precisión - imprecisión
+ li'anai   UI*3     oscuramente                               discursivo: claramente - oscuramente
+ bi'unai   UI*3     información previa                        discursivo: información nueva - información previa
+ mu'acu'i  UI*3     omitiendo ejemplos                        discursivo: por ejemplo - omitiendo - fin de ejemplos
+ zu'unai   UI*3     por otro lado                             discursivo: por un lado - por otro lado
+ do'anai   UI*3     parsimoniosamente                         discursivo: generosamente - parsimoniosamente
+ pa'enai   UI*3     prejuicio                                 discursivo: justicia - prejuicio
+ ta'onai   UI*3     regresando al punto principal             discursivo: a propósito, por cierto, de paso - regresando al punto principal
+ paunai    UI*3     pregunta retórica                         discursivo: pregunta retórica
+ ba'unai   UI*3     minimización                              discursivo: exageración - exactitud - minimización
+ ta'unai   UI*3a    expandiendo el tanru                      discursivo: creando un tanru - expandiendo el tanru
  ro'anai   UI*4     antisocial                                categoría emocional: social - antisocial
- ro'inai   UI*4     denying emotion                           categoría emocional: emotional - denying emotion
- ro'onai   UI*4     denying physical                          categoría emocional: physical - denying physical
- ro'enai   UI*4     mindless                                  categoría emocional: mental - mindless
- re'enai   UI*4     sacrilege                                 categoría emocional: spiritual/worship - sacrilege
- ro'unai   UI*4     sexual abstinence                         categoría emocional: sexual - sexual abstinence
- le'onai   UI*5     defensive                                 modificador de actitudinal: aggressive - passive - defensive
- se'anai   UI*5     dependency                                modificador de actitudinal: self-sufficiency - dependency
- fu'inai   UI*5     difficult                                 modificador de actitudinal: easy - difficult
- zo'ocu'i  UI*5     dully                                     modificador de actitudinal: humorously - dully - seriously
- ga'icu'i  UI*5     equal rank                                modificador de actitudinal/honorific: hauteur - equal rank - meekness; used con one of equal rank
- ju'onai   UI*5     impossibility                             modificador de actitudinal: certainty - uncertainty - impossibility
- ga'inai   UI*5     meekness                                  modificador de actitudinal/honorific: hauteur - equal rank - meekness; used con one of higher rank
- se'inai   UI*5     other-oriented                            modificador de actitudinal: self-oriented - other-oriented
- le'ocu'i  UI*5     passive                                   modificador de actitudinal: aggressive - passive - defensive
- be'ucu'i  UI*5     presence                                  modificador de actitudinal: lack/need - presence/satisfaction - satiation
- ju'ocai   UI*5     quite certain                             modificador de actitudinal: intense certainty
- ri'enai   UI*5     restraint of emotion                      modificador de actitudinal: release of emotion - emotion restraint
- be'unai   UI*5     satiation                                 modificador de actitudinal: lack/need - presence/satisfaction - satiation
- zo'onai   UI*5     seriously                                 modificador de actitudinal: humorously - dully - seriously
- vu'enai   UI*5     sin                                       modificador de actitudinal: virtue - sin
- ju'ocu'i  UI*5     uncertainty                               modificador de actitudinal: certainty - uncertainty - impossibility
- ju'opei   UI*6     how certain?                              actitudinal: certainty question
- ki'anai   UI*6     understanding                             non-question: understanding of something said
- bu'ocu'i  UI*7     continue emotion                          actitudinal contour: start emotion - continue emotion - end emotion
- bu'onai   UI*7     end emotion                               actitudinal contour: start emotion - continue emotion - end emotion
-.i'a       UI1      aceptación                                actitudinal: aceptación - culpa                                                                           (cf. nalna'e, nalpro, no'epro, nalzugjdi)
-.ie        UI1      acuerdo                                   actitudinal: acuerdo - desacuerdo                                                                         (cf. tugni)
-.a'e       UI1      alerta                                    actitudinal: alerta - agotamiento                                                                         (cf. sanji, cikna, tatpi)
-.u'i       UI1      diversión                                 actitudinal: diversión - tedio                                                                            (cf. selzdi, selxajmi, xalbo)
-.i'o       UI1      apreciación                               actitudinal: apreciación - envidia                                                                        (cf. ckire, jilra)
-.i'e       UI1      aprobación                                actitudinal: aprobación - no aprobación - desaprobación                                                   (cf. zanru)
-.a'a       UI1      atención                                  actitudinal: atención - desatención - evasión                                                             (cf. jundi, rivbi)
-.ia        UI1      creencia                                  actitudinal: creencia - escepticismo - descreimiento                                                      (cf. krici, jinvi)
-.o'i       UI1      precaución                                actitudinal: precaución - apresuramiento                                                                  (cf. capyrivbi, capfanta, srerivbi, srefanta, naldarsi, seljde)
-.o'e       UI1      cercanía                                  actitudinal: cercanía - distancia                                                                         (cf. cnijbi, cnikansa)
-.e'e       UI1      competencia                               actitudinal: competencia - incompetencia/inhabilidad                                                      (cf. kakne, certu)
-.oi        UI1      queja                                     actitudinal: queja - placer                                                                               (cf. pante, pluka, kufra)
-.uo        UI1      culminación                               actitudinal: culminación - incompletitud                                                                  (cf. mulno, mansa, fanmo, snada)
-.e'i       UI1      restricción                               actitudinal: restricción - independencia - desafío/resistencia a restricción                              (cf. selri'u, seljimte)
-.u'o       UI1      coraje                                    actitudinal: coraje - timidez - cobardía                                                               (cf. virnu)
-.au        UI1      deseo                                     actitudinal: deseo - indiferencia - rechazo                                                           (cf. djica)
-.ua        UI1      descubrimiento                            actitudinal: descubrimiento - confusión/búsqueda                                                              (cf. facki, cfipu, sisku)
-.a'i       UI1      esfuerzo                                  actitudinal: esfuerzo - ningún esfuerzo especial - reposo                                                          (cf. gunka, slunandu, guksurla, troci, selprogunka)
-.i'u       UI1      familiaridad                              actitudinal: familiaridad - misterio                                                                        (cf. slabu, nalni'o, kufra)
-.ii        UI1      miedo                                     actitudinal: miedo - seguridad                                                                              (cf. terpa, snura)
-.u'a       UI1      ganancia                                  actitudinal: ganancia - pérdida                                                                                  (cf. jinga, selne'u, prali, cirko)
-.ui        UI1      felicidad                                 actitudinal: felicidad - tristeza                                                                      (cf. gleki)
-.a'o       UI1      esperanza                                 actitudinal: esperanza - desesperación                                                                               (cf. pacna)
-.ai        UI1      intención                                 actitudinal: intención - indecisión - rechazo/denegación                                                      (cf. termu'i, terzu'e, seljdi, selcu'a)
-.a'u       UI1      interés                                   actitudinal: interés - desinterés - repulsión                                                           (cf. cinri, selcni)
-.iu        UI1      amor                                      actitudinal: amor - indiferencia - odio                                                                 (cf. prami)
-.ei        UI1      obligación                                actitudinal: obligación - libertad                                                                         (cf. bilga, zifre)
-.o'o       UI1      paciencia                                 actitudinal: paciencia - tolerancia - enojo                                                            (cf. fengu, to'ersteba, de'acni
-.e'a       UI1      permiso                                   actitudinal: permiso - prohibición                                                            (cf. curmi)
-.uu        UI1      compasión                                 actitudinal: compasión - crueldad                                                                               (cf. kecti)
-.o'a       UI1      orgullo                                   actitudinal: orgullo - modestia/humildad - vergüenza                                                             (cf. jgira, cumla, ckeji)
-.o'u       UI1      relajación                                actitudinal: relajación - compostura - estrés                                                              (cf. surla, cnilanxe, dunku)
-.u'u       UI1      arrepentimiento                           actitudinal: arrepentimiento - falta de arrepentimiento - inocencia                                                      (cf. xenru, zugycni)
-.e'o       UI1      pedido                                    actitudinal: pedido - pedido negativo                                                                   (cf. cpedu, pikci)
-.io        UI1      respeto                                   actitudinal: respeto - falta de respeto                                                                         (cf. sinma)
-.e'u       UI1      sugerencia                                actitudinal: sugerencia - abandono de sugerencia - amenaza                                                       (cf. stidi, kajde)
-.ue        UI1      sorpresa                                  actitudinal: sorpresa - no sorpresa - expectativa                                                (cf. spaji)
-.i'i       UI1      togetherness                              actitudinal: togetherness - privacidad                                                                       (cf. kansa, gumna, sivni, sepli)
-.u'e       UI1      asombro                                   actitudinal: asombro - lugar común                                                                         (cf. manci, fadni)
- ba'a      UI2      anticipación                              evidencial: anticipación - experiencia - recuerdo                                                          (cf. bavykri, lifri, morji)
- ja'o      UI2      conclusión                                evidencial: conclusión                                                                                    (cf. selni'i, ni'ikri)
- ca'e      UI2      definición                                evidencial: definición                                                                                      (cf. mitcu'a, mitsmu)
- su'a      UI2      generalización                            evidencial: generalización - particularización; discursivo: en abstracto - concretamente                           (cf. sucta, sucni'i)
- ti'e      UI2      dicen que                                 evidencial: dicen que, se dice que                                                                              (cf. tirna, sitna, tcidu)
- ka'u      UI2      sé culturalmente                          evidencial: sé culturalmente (mito o costumbre)                                                     (cf. kluju'o)
- se'o      UI2      sé internamente                           evidencial: sé por experiencia interna (sueño, visión, revelación personal)                         (cf. senva)
- za'a      UI2      observación                               evidencial: observación                                                                                     (cf. zgana, lanli)
- pe'i      UI2      opinión                                   evidencial: opinión (declaración subjetiva)                                                                                      (cf. jinvi)
- ru'a      UI2      postulado                                 evidencial: postulado                                                                                   (cf. sruma)
- ju'a      UI2      declaración                               evidencial: declaración - (default) base elíptica/no específica                                             (cf. xusra)
- ta'o      UI3      a propósito                               discursivo: a propósito, por cierto, de paso - regresando al punto principal                                                          (cf. denpa, cneterta'a)
- ra'u      UI3      principalmente                            discursivo: principalmente - igualmente - incidentalmente                                                              (cf. ralju, vajni)
- li'a      UI3      claramente                                discursivo: claramente - oscuramente                                                                           (cf. klina)
- ba'u      UI3      exageración                               discursivo: exageración - exactitud - minimización                                                      (cf. satci, dukse)
- mu'a      UI3      ejemplo                                   discursivo: ejemplo - omitiendo - fin de ejemplos                                                         (cf. mupli)
- do'a      UI3      generosidad                               discursivo: generosidad - parsimonia                                                                   (cf. dunda)
- to'u      UI3      en breve                                  discursivo: en breve - en detalle                                                                          (cf. tordu, clani, tcidu)
- va'i      UI3      en otras palabras                         discursivo: en otras palabras - en las mismas palabras                                                            (cf. cneselsku)
- pa'e      UI3      justicia                                  discursivo: justicia - prejuicio                                                                           (cf. tcinydracu'a, tcinydrapai, vudypai)
- zu'u      UI3      por un lado                               discursivo: por un lado - por otro lado                                                           (cf. karbi, frica. dukti)
- sa'e      UI3      precisión                                 discursivo: precisión - imprecisión                                                         (cf. satci, jibni)
- la'a      UI3      probablemente                             discursivo: probablemente - improbablemente                                                                   (cf. lakne)
- ke'u      UI3      repitiendo                                discursivo: repitiendo - continuando                                                                        (cf. refbasna, krefu, rapli, velde'a)
- sa'u      UI3      simply speaking                           discursivo: simplemente - elaborando                                                                          (cf. sampu, pluja)
- da'i      UI3      suposición                                discursivo: suposición - de hecho                                                                           (cf. sruma)
- je'u      UI3      verdad                                    discursivo: verdad - falsedad                                                                               (cf. jetnu)
- sa'a      UI3a     inserción editorial                       discursivo: inserción del editor/narrador (texto entre paréntesis)                                         (cf. setca)
+ ro'inai   UI*4     negando emoción                           categoría emocional: emocional - negando emoción
+ ro'onai   UI*4     negando físico                            categoría emocional: físico - negación de físico
+ ro'enai   UI*4     descerebrado                              categoría emocional: mental - descerebrado
+ re'enai   UI*4     sacrilegio                                categoría emocional: espiritual/adoración - sacrilegio
+ ro'unai   UI*4     abstinencia sexual                        categoría emocional: sexual - abstinencia sexual
+ le'onai   UI*5     defensivo                                 modificador de actitudinal: agresivo - pasivo - defensivo
+ se'anai   UI*5     dependencia                               modificador de actitudinal: autosuficiencia - dependencia
+ fu'inai   UI*5     difícil                                   modificador de actitudinal: fácil - difícil
+ zo'ocu'i  UI*5     aburrido                                  modificador de actitudinal: humor - aburrido - seriedad
+ ga'icu'i  UI*5     igual rango                               modificador de actitudinal/honorific: alteza - igual rango - sumisión; usado con alguien de igual rango
+ ju'onai   UI*5     imposibilidad                             modificador de actitudinal: certeza - incerteza - imposibilidad
+ ga'inai   UI*5     sumisión                                  modificador de actitudinal/honorific: alteza - igual rango - sumisión; usado con alguien de mayor rango
+ se'inai   UI*5     orientado hacia otro                      modificador de actitudinal: autoorientado - orientado hacia otro
+ le'ocu'i  UI*5     pasivo                                    modificador de actitudinal: agresivo - pasivo - defensivo
+ be'ucu'i  UI*5     presencia                                 modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad/hartazgo
+ ju'ocai   UI*5     muy seguro                                modificador de actitudinal: certeza intensa
+ ri'enai   UI*5     contención de emoción                     modificador de actitudinal: descarga de emoción - contención de emoción
+ be'unai   UI*5     saciedad                                  modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad/hartazgo
+ zo'onai   UI*5     seriedad                                  modificador de actitudinal: humor - aburrido - seriedad
+ vu'enai   UI*5     pecado                                    modificador de actitudinal: virtud - pecado
+ ju'ocu'i  UI*5     incerteza                                 modificador de actitudinal: certeza - incerteza - imposibilidad
+ ju'opei   UI*6     ¿cuán seguro?                             actitudinal: pregunta por certeza
+ ki'anai   UI*6     comprensión                               no pregunta: comprensión de algo dicho
+ bu'ocu'i  UI*7     continúa emoción                          contorno actitudinal: comienzo de emoción - continúa emoción - fin de emoción
+ bu'onai   UI*7     fin de emoción                            contorno actitudinal: comienzo de emoción - continúa emoción - fin de emoción
+.i'a       UI1      aceptación                                actitudinal: aceptación - culpa                                                                              (cf. nalna'e, nalpro, no'epro, nalzugjdi)
+.ie        UI1      acuerdo                                   actitudinal: acuerdo - desacuerdo                                                                            (cf. tugni)
+.a'e       UI1      alerta                                    actitudinal: alerta - agotamiento                                                                            (cf. sanji, cikna, tatpi)
+.u'i       UI1      diversión                                 actitudinal: diversión - tedio                                                                               (cf. selzdi, selxajmi, xalbo)
+.i'o       UI1      apreciación                               actitudinal: apreciación - envidia                                                                           (cf. ckire, jilra)
+.i'e       UI1      aprobación                                actitudinal: aprobación - no aprobación - desaprobación                                                      (cf. zanru)
+.a'a       UI1      atención                                  actitudinal: atención - desatención - evasión                                                                (cf. jundi, rivbi)
+.ia        UI1      creencia                                  actitudinal: creencia - escepticismo - descreimiento                                                         (cf. krici, jinvi)
+.o'i       UI1      precaución                                actitudinal: precaución - apresuramiento                                                                     (cf. capyrivbi, capfanta, srerivbi, srefanta, naldarsi, seljde)
+.o'e       UI1      cercanía                                  actitudinal: cercanía - distancia                                                                            (cf. cnijbi, cnikansa)
+.e'e       UI1      competencia                               actitudinal: competencia - incompetencia/inhabilidad                                                         (cf. kakne, certu)
+.oi        UI1      queja                                     actitudinal: queja - placer                                                                                  (cf. pante, pluka, kufra)
+.uo        UI1      culminación                               actitudinal: culminación - incompletitud                                                                     (cf. mulno, mansa, fanmo, snada)
+.e'i       UI1      restricción                               actitudinal: restricción - independencia - desafío/resistencia a restricción                                 (cf. selri'u, seljimte)
+.u'o       UI1      coraje                                    actitudinal: coraje - timidez - cobardía                                                                     (cf. virnu)
+.au        UI1      deseo                                     actitudinal: deseo - indiferencia - rechazo                                                                  (cf. djica)
+.ua        UI1      descubrimiento                            actitudinal: descubrimiento - confusión/búsqueda                                                             (cf. facki, cfipu, sisku)
+.a'i       UI1      esfuerzo                                  actitudinal: esfuerzo - ningún esfuerzo especial - reposo                                                    (cf. gunka, slunandu, guksurla, troci, selprogunka)
+.i'u       UI1      familiaridad                              actitudinal: familiaridad - misterio                                                                         (cf. slabu, nalni'o, kufra)
+.ii        UI1      miedo                                     actitudinal: miedo - seguridad                                                                               (cf. terpa, snura)
+.u'a       UI1      ganancia                                  actitudinal: ganancia - pérdida                                                                              (cf. jinga, selne'u, prali, cirko)
+.ui        UI1      felicidad                                 actitudinal: felicidad - tristeza                                                                            (cf. gleki)
+.a'o       UI1      esperanza                                 actitudinal: esperanza - desesperación                                                                       (cf. pacna)
+.ai        UI1      intención                                 actitudinal: intención - indecisión - rechazo/denegación                                                     (cf. termu'i, terzu'e, seljdi, selcu'a)
+.a'u       UI1      interés                                   actitudinal: interés - desinterés - repulsión                                                                (cf. cinri, selcni)
+.iu        UI1      amor                                      actitudinal: amor - indiferencia - odio                                                                      (cf. prami)
+.ei        UI1      obligación                                actitudinal: obligación - libertad                                                                           (cf. bilga, zifre)
+.o'o       UI1      paciencia                                 actitudinal: paciencia - tolerancia - enojo                                                                  (cf. fengu, to'ersteba, de'acni
+.e'a       UI1      permiso                                   actitudinal: permiso - prohibición                                                                           (cf. curmi)
+.uu        UI1      compasión                                 actitudinal: compasión - crueldad                                                                            (cf. kecti)
+.o'a       UI1      orgullo                                   actitudinal: orgullo - modestia/humildad - vergüenza                                                         (cf. jgira, cumla, ckeji)
+.o'u       UI1      relajación                                actitudinal: relajación - compostura - estrés                                                                (cf. surla, cnilanxe, dunku)
+.u'u       UI1      arrepentimiento                           actitudinal: arrepentimiento - falta de arrepentimiento - inocencia                                          (cf. xenru, zugycni)
+.e'o       UI1      pedido                                    actitudinal: pedido - pedido negativo                                                                        (cf. cpedu, pikci)
+.io        UI1      respeto                                   actitudinal: respeto - falta de respeto                                                                      (cf. sinma)
+.e'u       UI1      sugerencia                                actitudinal: sugerencia - abandono de sugerencia - amenaza                                                   (cf. stidi, kajde)
+.ue        UI1      sorpresa                                  actitudinal: sorpresa - no sorpresa - expectativa                                                            (cf. spaji)
+.i'i       UI1      juntos                                    actitudinal: juntos - privacidad                                                                             (cf. kansa, gumna, sivni, sepli)
+.u'e       UI1      asombro                                   actitudinal: asombro - lugar común                                                                           (cf. manci, fadni)
+ ba'a      UI2      anticipación                              evidencial: anticipación - experiencia - recuerdo                                                            (cf. bavykri, lifri, morji)
+ ja'o      UI2      conclusión                                evidencial: conclusión                                                                                       (cf. selni'i, ni'ikri)
+ ca'e      UI2      definición                                evidencial: definición                                                                                       (cf. mitcu'a, mitsmu)
+ su'a      UI2      generalización                            evidencial: generalización - particularización; discursivo: en abstracto - concretamente                     (cf. sucta, sucni'i)
+ ti'e      UI2      dicen que                                 evidencial: dicen que, se dice que                                                                           (cf. tirna, sitna, tcidu)
+ ka'u      UI2      sé culturalmente                          evidencial: sé culturalmente (mito o costumbre)                                                              (cf. kluju'o)
+ se'o      UI2      sé internamente                           evidencial: sé por experiencia interna (sueño, visión, revelación personal)                                  (cf. senva)
+ za'a      UI2      observación                               evidencial: observación                                                                                      (cf. zgana, lanli)
+ pe'i      UI2      opinión                                   evidencial: opinión (declaración subjetiva)                                                                  (cf. jinvi)
+ ru'a      UI2      postulado                                 evidencial: postulado                                                                                        (cf. sruma)
+ ju'a      UI2      declaración                               evidencial: declaración - (por defecto) base elíptica/no específica                                          (cf. xusra)
+ ta'o      UI3      a propósito                               discursivo: a propósito, por cierto, de paso - regresando al punto principal                                 (cf. denpa, cneterta'a)
+ ra'u      UI3      principalmente                            discursivo: principalmente - igualmente - incidentalmente                                                    (cf. ralju, vajni)
+ li'a      UI3      claramente                                discursivo: claramente - oscuramente                                                                         (cf. klina)
+ ba'u      UI3      exageración                               discursivo: exageración - exactitud - minimización                                                           (cf. satci, dukse)
+ mu'a      UI3      ejemplo                                   discursivo: ejemplo - omitiendo - fin de ejemplos                                                            (cf. mupli)
+ do'a      UI3      generosidad                               discursivo: generosidad - parsimonia                                                                         (cf. dunda)
+ to'u      UI3      en breve                                  discursivo: en breve - en detalle                                                                            (cf. tordu, clani, tcidu)
+ va'i      UI3      en otras palabras                         discursivo: en otras palabras - en las mismas palabras                                                       (cf. cneselsku)
+ pa'e      UI3      justicia                                  discursivo: justicia - prejuicio                                                                             (cf. tcinydracu'a, tcinydrapai, vudypai)
+ zu'u      UI3      por un lado                               discursivo: por un lado - por otro lado                                                                      (cf. karbi, frica. dukti)
+ sa'e      UI3      precisión                                 discursivo: precisión - imprecisión                                                                          (cf. satci, jibni)
+ la'a      UI3      probablemente                             discursivo: probablemente - improbablemente                                                                  (cf. lakne)
+ ke'u      UI3      repitiendo                                discursivo: repitiendo - continuando                                                                         (cf. refbasna, krefu, rapli, velde'a)
+ sa'u      UI3      simplemente                               discursivo: simplemente - elaborando                                                                         (cf. sampu, pluja)
+ da'i      UI3      suposición                                discursivo: suposición - de hecho                                                                            (cf. sruma)
+ je'u      UI3      verdad                                    discursivo: verdad - falsedad                                                                                (cf. jetnu)
+ sa'a      UI3a     inserción editorial                       discursivo: inserción del editor/narrador (texto entre paréntesis)                                           (cf. setca)
  kau       UI3a     pregunta indirecta                        discursivo: marca el foco de una pregunta indirecta: "sé QUIÉN fue al mercado"
  ta'u      UI3a     creando un tanru                          discursivo: creando un tanru - expandiendo el tanru                                                          (cf. tanru)
  na'i      UI3a     no metalinguistico                        discursivo: negación metalinguistica                                                                         (cf. naldra, nalmapti)
- jo'a      UI3a     sí metalinguistico                        discursivo: afirmación metalinguistica                                                                        (cf. drani)
- bi'u      UI3a     información nueva                         discursivo: información nueva - información ya conocida                              (cf. nindatni, saurdatni)
+ jo'a      UI3a     sí metalinguistico                        discursivo: afirmación metalinguistica                                                                       (cf. drani)
+ bi'u      UI3a     información nueva                         discursivo: información nueva - información ya conocida                                                      (cf. nindatni, saurdatni)
  li'o      UI3a     texto omitido                             discursivo: texto omitido (material citado)
- pau       UI3a     pregunta                                  discursivo: indicador de pregunta                                                                   (cf. preti)
+ pau       UI3a     pregunta                                  discursivo: indicador de pregunta                                                                            (cf. preti)
  mi'u      UI3b     lo dicho                                  discursivo: lo dicho                                                                                         (cf. mintu)
- ku'i      UI3b     sin embargo                               discursivo: sin embargo/pero/en contraste                                                                       (cf. karbi, dukti, nalpanra)
- ji'a      UI3b     además                                    discursivo: además/también                                                                                  (cf. jmina)
+ ku'i      UI3b     sin embargo                               discursivo: sin embargo/pero/en contraste                                                                    (cf. karbi, dukti, nalpanra)
+ ji'a      UI3b     además                                    discursivo: además/también                                                                                   (cf. jmina)
  si'a      UI3b     similarmente                              discursivo: similarmente                                                                                     (cf. simsa, panra)
- po'o      UI3b     sólo                                      discursivo: sólo, solamente, únicamente: el único caso relevante                                                (cf. pamei, mulno, frica)
+ po'o      UI3b     sólo                                      discursivo: sólo, solamente, únicamente: el único caso relevante                                             (cf. pamei, mulno, frica)
  pe'a      UI3c     figurativo                                indica discurso figurativo/no literal/metafórico
- ro'i      UI4      emocional                                 categoría emocional: emocional - negación de emoción                                                    (cf. cinmo)
- ro'e      UI4      mental                                    categoría emocional: mental - descerebrado                                                              (cf. menli)
- ro'o      UI4      físico                                    categoría emocional: físico - negación de lo físico                                                    (cf. xadni)
- ro'u      UI4      sexual                                    categoría emocional: sexual - abstinencia sexual                                                      (cf. cinse)
- ro'a      UI4      social                                    categoría emocional: social - antisocial                                                            (cf. jikca)
- re'e      UI4      espiritual                                categoría emocional: religioso/espiritual/adoración - sacrilegio                                        (cf. lijda)
+ ro'i      UI4      emocional                                 categoría emocional: emocional - negación de emoción                                                         (cf. cinmo)
+ ro'e      UI4      mental                                    categoría emocional: mental - descerebrado                                                                   (cf. menli)
+ ro'o      UI4      físico                                    categoría emocional: físico - negación de lo físico                                                          (cf. xadni)
+ ro'u      UI4      sexual                                    categoría emocional: sexual - abstinencia sexual                                                             (cf. cinse)
+ ro'a      UI4      social                                    categoría emocional: social - antisocial                                                                     (cf. jikca)
+ re'e      UI4      espiritual                                categoría emocional: religioso/espiritual/adoración - sacrilegio                                             (cf. lijda)
  le'o      UI5      agresivo                                  modificador de actitudinal: agresivo - pasivo - defensivo                                                    (cf. gunta, bandu)
- ju'o      UI5      certeza                                   modificador de actitudinal: certeza - incertidumbre - imposibilidad                                             (cf. birti, cumki)
- fu'i      UI5      fácil                                     modificador de actitudinal: fácil - difícil                                                                    (cf. frili)
- dai       UI5      empatía                                   modificador de actitudinal: empatía; muestra los sentimientos de otro                                (cf. cnijmi)
- ga'i      UI5      alteza                                    modificador de actitudinal/honorífico: alteza - igual rango - sumisión; usado con alguien the rango menor              (cf. gapru, cnita)
- zo'o      UI5      humor                                     modificador de actitudinal: humor - seriedad                                                      (cf. xajmi, junri)
- be'u      UI5      carencia                                  modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad                                       (cf. claxu, nitcu, mansa)
- ri'e      UI5      descarga de emoción                       modificador de actitudinal: descarga de emoción - contención de emoción                                              (cf. cniri'u, cnicru)
- se'i      UI5      autoorientado                             modificador de actitudinal: orientado a sí mismo - orientado a otro                                                      (cf. sevzi, drata)
- se'a      UI5      autosuficiencia                           modificador de actitudinal: autosuficiencia - dependencia                                                       (cf. sezysei, kantcu)
- vu'e      UI5      virtud                                    modificador de actitudinal: virtud - pecado                                                                        (cf. vrude, zungi)
- ki'a      UI6      confusión textual                         pregunta actitudinal: confusión sobre lo dicho                                                      (cf. cfipu, kucli)
+ ju'o      UI5      certeza                                   modificador de actitudinal: certeza - incertidumbre - imposibilidad                                          (cf. birti, cumki)
+ fu'i      UI5      fácil                                     modificador de actitudinal: fácil - difícil                                                                  (cf. frili)
+ dai       UI5      empatía                                   modificador de actitudinal: empatía; muestra los sentimientos de otro                                        (cf. cnijmi)
+ ga'i      UI5      alteza                                    modificador de actitudinal/honorífico: alteza - igual rango - sumisión; usado con alguien the rango menor    (cf. gapru, cnita)
+ zo'o      UI5      humor                                     modificador de actitudinal: humor - seriedad                                                                 (cf. xajmi, junri)
+ be'u      UI5      carencia                                  modificador de actitudinal: carencia/necesidad - presencia/satisfacción - superabundancia/saciedad           (cf. claxu, nitcu, mansa)
+ ri'e      UI5      descarga de emoción                       modificador de actitudinal: descarga de emoción - contención de emoción                                      (cf. cniri'u, cnicru)
+ se'i      UI5      autoorientado                             modificador de actitudinal: orientado a sí mismo - orientado a otro                                          (cf. sevzi, drata)
+ se'a      UI5      autosuficiencia                           modificador de actitudinal: autosuficiencia - dependencia                                                    (cf. sezysei, kantcu)
+ vu'e      UI5      virtud                                    modificador de actitudinal: virtud - pecado                                                                  (cf. vrude, zungi)
+ ki'a      UI6      confusión textual                         pregunta actitudinal: confusión sobre lo dicho                                                               (cf. cfipu, kucli)
  xu        UI6      acaso ?                                   discursivo: pregunta verdadero-falso
  ge'e      UI6      emoción no específica                     actitudinal: emoción elíptica/no específica; ningún sentimiento en especial
  bu'o      UI7      comienzo de emoción                       contorno actitudinal: comienzo de emoción - continuidad de emoción - fin de emoción
@@ -995,17 +995,17 @@
  va        VA       allí                                      distancia espacial: allí, allá; a una distancia media
  vu        VA       acullá                                    distancia espacial: acullá; a una distancia larga
  vau       VAU      fin bridi simple                          elisible: fin de sumti en bridi simple; en bridi compuesto, seguido por los sumti en común
- vei       VEI      abre paréntesis                           left mathematical bracket
+ vei       VEI      abre paréntesis                           paréntesis matemático izquierdo
  ve'u      VEhA     intervalo espacial grande                 intervalo espacial: región espacial grande
  ve'a      VEhA     intervalo espacial medio                  intervalo espacial: región espacial media
  ve'i      VEhA     intervalo espacial pequeño                intervalo espacial: región espacial pequeña
  ve'e      VEhA     intervalo espacial total                  intervalo espacial: totalidad del espacio
- ve'o      VEhO     cierra parentesis                         right mathematical bracket
+ ve'o      VEhO     cierra parentesis                         paréntesis matemático derecho
  vi'i      VIhA     intervalo espacial 1-D                    dimensión de intervalo: intervalo espacial 1-D; a lo largo de una línea
  vi'a      VIhA     intervalo espacial 2-D                    dimensión de intervalo: intervalo espacial 2-D; por toda un área
  vi'u      VIhA     intervalo espacial 3-D                    dimensión de intervalo: intervalo espacial 3-D; por todo un volumen
  vi'e      VIhA     intervalo especial 4-D                    dimensión de intervalo: intervalo espacial 4-D; por toda una región de espacio-tiempo
- vu'o      VUhO     relativo alcance largo                    joins relative clause/phrase to complete complex or logically connected sumti in afterthought
+ vu'o      VUhO     relativo de alcance largo                 une una cláusula/frase relativa a un sumti complejo o sumti conectados lógicamente 
  ge'a      VUhU0    operador nulo                             operador matemático: expresión matemática nula
  fu'u      VUhU0    operador no específico                    operador matemático n-ario: expresión matemática elíptica/no específica 
  fe'i      VUhU1    dividido por                              operador matemático n-ario: dividido por; operador de división; [(((a / b) / c) / ...)]
@@ -1020,7 +1020,7 @@
  cu'a      VUhU3    valor absoluto                            operador matemático unitario: valor absoluto/norma  [|a|]
  va'a      VUhU3    inverso aditivo                           operador matemático unitario: inverso aditivo; [- a]
  ne'o      VUhU3    factorial                                 operador matemático unitario: factorial; [a!]
- de'o      VUhU3    logaritmo                                 operador matemático binario: logaritmo; [log/ln a en base b]; default base 10 or e
+ de'o      VUhU3    logaritmo                                 operador matemático binario: logaritmo; [log/ln a en base b]; por defecto base 10 or e
  fe'a      VUhU3    raíz enésima de                           operador matemático binario: raíz enésima de; potencia inversa [a elevado a la potencia 1/b]
  sa'o      VUhU4    derivada                                  operador matemático trinario: [derivada de a con respecto a b de grado c]
  ri'o      VUhU4    integral                                  operador matemático trinario: [integral de a con respecto a b sobre rango c]
@@ -1029,7 +1029,7 @@
  si'i      VUhU4    sumatoria                                 operador matemático trinario: [sumatoria sigma de a con variable b sobre rango c]
  re'a      VUhU4    transpuesto                               operador matemático unitario: matríz transpuesta/dual; [A*]
  xi        XI       subíndice                                 subíndice; adhiere un número o cadena letra como subíndice de estructuras gramaticales
-.y         Y        duda                                      hesitation noise; maintains the floor while speaker decides what to say next
+.y         Y        vacilación                                ruido de vacilación; maintiene la palabra mientras el hablante decide qué decir
  co'i      ZAhO     logrativo                                 aspecto verbal: acción puntual; logrativo;   >|<
  pu'o      ZAhO     incoativo                                 aspecto verbal: acción a punto de ocurrir; incoativo         ----|     |
  co'u      ZAhO     egresivo                                  aspecto verbal: fin de la acción, incluso sin completar; egresivo      |  >< |
@@ -1040,19 +1040,19 @@
  ba'o      ZAhO     perfectivo                                aspecto verbal: habiendo concluído la acción; perfectivo              |     |----
  di'a      ZAhO     retomativo                                aspecto verbal: punto en que se retoma la acción; retomativo
  za'o      ZAhO     superfectivo                              aspecto verbal: continuando mas allá del final natural de la acción; superfective  |     ---->
- fe'emo'u  ZAhO*    at the far end of                         aspecto verbal espacial: completivo espacial; at the far end of ...
- fe'eco'i  ZAhO*    at the point of                           aspecto verbal espacial: logrativo espacial; at the point of ...
- fe'eba'o  ZAhO*    beyond                                    aspecto verbal espacial: perfectivo espacial; beyond the place of ...
- fe'eza'o  ZAhO*    continuing too far                        aspecto verbal espacial: superfectivo espacial; continuing too far beyond ...
- caba'o    ZAhO*    ha sido                                   tiempo verbal: has been, is now in the aftermath of; (tense/modal)
- capu'o    ZAhO*    está por ser                              tiempo verbal: is going to, is now just about to, is now anticipating; (tense/modal)
- caca'o    ZAhO*    está siendo                               tiempo verbal: is now/simultaneously, is now in the middle of; (tense/modal)
- fe'eco'a  ZAhO*    on this edge of                           aspecto verbal espacial: ingresivo espacial; on this edge of ...
- fe'eca'o  ZAhO*    throughout                                aspecto verbal espacial: continuativo espacial; throughout the place of ...
- fe'epu'o  ZAhO*    up to the edge of                         aspecto verbal espacial: incoativo espacial; up to the edge of ...
- puca'o    ZAhO*    estaba siendo                             tiempo verbal: estaba siendo; (tense/modal)
- baca'o    ZAhO*    estará siendo                             tiempo verbal: estará siendo; (tense/modal)
- zei       ZEI      lujvo glue                                joins preceding and following words into a lujvo
+ fe'emo'u  ZAhO*    en el estremo de                          aspecto verbal espacial: completivo espacial; en el extremo más lejano de ...
+ fe'eco'i  ZAhO*    en el punto de                            aspecto verbal espacial: logrativo espacial; en el punto de ...
+ fe'eba'o  ZAhO*    más allá de                               aspecto verbal espacial: perfectivo espacial; más allá de ...
+ fe'eza'o  ZAhO*    continuando demasiado lejos               aspecto verbal espacial: superfectivo espacial; continuando demasiado más allá de ...
+ caba'o    ZAhO*    ha sido                                   tiempo verbal: ha sido; (tiempo/modal)
+ capu'o    ZAhO*    está por ser                              tiempo verbal: está por ser; (tiempo/modal)
+ caca'o    ZAhO*    está siendo                               tiempo verbal: está siendo; (tiempo/modal)
+ fe'eco'a  ZAhO*    en este lado de                           aspecto verbal espacial: ingresivo espacial; en este lado de ...
+ fe'eca'o  ZAhO*    throughout                                aspecto verbal espacial: continuativo espacial; por todos lados de ...
+ fe'epu'o  ZAhO*    hasta el borde de                         aspecto verbal espacial: incoativo espacial; hasta el borde de ...
+ puca'o    ZAhO*    estaba siendo                             tiempo verbal: estaba siendo; (tiempo/modal)
+ baca'o    ZAhO*    estará siendo                             tiempo verbal: estará siendo; (tiempo/modal)
+ zei       ZEI      pegamento de lujvo                        une la palabra precedente y la siguiente en un lujvo
  ze'u      ZEhA     intervalo temporal largo                  intervalo temporal: durante un tiempo largo
  ze'a      ZEhA     intervalo temporal medio                  intervalo temporal: durante un tiempo medio
  ze'i      ZEhA     intervalo temporal corto                  intervalo temporal: durante un tiempo corto
@@ -1063,18 +1063,18 @@
  zu        ZI       tiempo largo                              distancia temporal: a un tiempo largo
  za        ZI       tiempo medio                              distancia temporal: a un tiempo medio
  zi        ZI       tiempo corto                              distancia temporal: a un tiempo corto
- zi'e      ZIhE     rel clause joiner                         joins relative clauses which apply to the same sumti
- zo        ZO       1-word quote                              quote next word only; quotes a single Lojban word (not a cmavo compound or tanru)
- zoi       ZOI      non-Lojban quote                          delimited non-Lojban quotation; the result treated as a block of text
- la'o      ZOI      the non-Lojban named                      delimited non-Lojban name; the resulting quote sumti is treated as a name
- zo'u      ZOhU     fin prenex                                marks end of logical prenex quantifiers/topic identification and start of sentence bridi
- slaka bu  BY*      close-comma                               letra: Lojban "," character
- denpa bu  BY*      pause symbol                              letra: Lojban "." character
- le go'i   KOhA*    the x1 del último bridi                   pro-sumti de descripción: el valor de x1 del bridi previo
- le jaica  LE*      the time of                               descripción: marks descripción extracting the tiempo verbal place of the descripción bridi
- le jaigau LE*      the agent in                              descripción: marks descripción extracting the agentive place of the descripción selbri
- le jaivi  LE*      the location of                           descripción: marks descripción extracting the location place of the descripción bridi
- cu'u ko'a BAI*     as said by it-1                           tagged sumti: can be used for embedded: it-1 said, "...", con editorial unquote and insert
+ zi'e      ZIhE     unión de cláusula relativa                une cláusulas relativas que modifican el mismo sumti
+ zo        ZO       cita de una palabra                       cita sólo la siguiente palabra; cita una única palabra lojbánica (no un cmavo compuesto o tanru)
+ zoi       ZOI      cita no lojbánica                         cita no lojbánica; el resultado es tratado como un bloque de texto
+ la'o      ZOI      el no lojbánicamente llamado              nombre no lojbánico; el sumti resultante es tratado como un nombre
+ zo'u      ZOhU     fin de prenexo                            marca el fin de cuantificadores lógicos/topicalización y el comienzo del bridi
+ slaka bu  BY*      coma cerrada                              letra: carácter "," de lojban
+ denpa bu  BY*      símbolo de pausa                          letra: carácter "." de lojban
+ le go'i   KOhA*    el x1 del último bridi                    pro-sumti de descripción: el valor de x1 del bridi previo
+ le jaica  LE*      el tiempo de                              descripción: marca descripción que extrae el tiempo verbal del brdi de la descripción
+ le jaigau LE*      el agente en                              descripción: marca descripción que extrae el agente del selbri de la descripción
+ le jaivi  LE*      la locación de                            descripción: marca descripción que extrae la locación del bridi de la descripción
+ cu'u ko'a BAI*     dicho por ello-1                          sumti preposicionado: puede ser usado con inserción editorial: ello-1 dijo, "...",
  ca ma     PU*      ¿cuándo?                                  pregunta por una hora/fecha/evento; simultaneo con ¿qué?
  vi ma     VA*      ¿dónde?                                   pregunta por una distancia: at/near what?
  ni'i ma   BAI*     ¿según qué lógica?                        pregunta por una demostración lógica; ¿por qué?
