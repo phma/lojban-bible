@@ -1,0 +1,60 @@
+The directories that are populated so far:
+
+alice/		Lewis Carrol's "Alice's Adventures In Wonderland",
+		texinfo format.
+drbible/	The Douay-Rheims version of the Bible, texinfo format.
+german/		Translating brochures into german, XML format.
+
+In general, please do _not_ start at the beginning of whatever you're
+working on (i.e. I started translating Alice with Chapter 5).  Everyone
+will, by default, be inclined to start at the beginning, and that gets
+_ugly_.
+
+
+Notes on Changes
+================
+
+> I translated a paragraph from alice-01. The problem I see now is that
+> unless one person coordinates the whole thing, the translation will be
+> horribly hodgepodgy. I suppose it would not be right for me to edit
+> what someone else translated or for someone else to edit what I
+> translated.
+
+Ah, important point.
+
+I think that people should _absolutely_ edit other people's work.
+Hopefully things will eventually settle on the 'best' translation.  So
+please, read what other people have done!
+
+However, I do request that when you do so you put a comment (@c at th
+beginning of the line marks comments) saying why you made the change.
+
+> Changes are not recorded, right?
+
+They most certainly _are_ recorded, this is the whole point of using
+CVS.  I can revert to _any_ previous version if people give me a good
+reason to do so (i.e. you accidentally checked in a version with most of
+the text missing).
+
+-Robin
+
+
+
+Notes on TexInfo
+================
+
+Lines that start with '@c ' or '@comment ' are comments, that will
+show up in none of the compiled versions.  The original text has been
+placed in lines of this type, with break for paragraphs.
+
+To help with the translation, simply pick a paragraph and enter the
+lojban text, straight up, _without_ '@c ' or any other markup,
+_after_ the original paragraph.  Almost all the markup this file
+needs has already been done for you.
+
+Note that there should be a blank line before and after each
+paragraph.
+
+To deal with places where the exact layout of the text is important
+(just about any poetry, for example), place the command '@format' before
+the text and '@end format' at the end.
