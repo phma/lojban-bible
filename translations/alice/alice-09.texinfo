@@ -11,7 +11,7 @@
 
 @c      `You can't think how glad I am to see you again, you dear old
 @c    thing!' said the Duchess, as she tucked her arm affectionately
-@c    into Alice's, and they walked off together.
+@c    into Alice's, and they walked off together. 
 
 i lu do ka'enai pensi le nu sela'u makau mi gleki le nu mi do za'ure'u
 viska doi dirba slabu sei la noltroni'u cu cusku li'u i ny xendo

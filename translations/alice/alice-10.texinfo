@@ -456,7 +456,7 @@ la cpicinfo cu cusku li'u
 @c      `Well, I never heard it before,' said the Mock Turtle; `but it
 @c    sounds uncommon nonsense.'
 
-i lu ju'a mi di'u pu noroi tirna sei la jitfa cakyrespa i ku'i simlu le ka
+i lu ju'a mi di'u pu noroi tirna sei la jitfa cakyrespa cu cusku i ku'i simlu le ka
 nalfadni nonselsmu li'u
 
 @c      Alice said nothing; she had sat down with her face in her
