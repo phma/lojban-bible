@@ -8,12 +8,31 @@
 @c Thanks to the Gutenberg project for the original text.
 @c http://www.guntenberg.net.  Feel free to send them donations!
 
+
+
+
+@c #########################################
 @c **********NOTE For Translators***********
-@c ...
+@c #########################################
+
+@c Lines that start with '@c ' or '@comment ' are comments, that will
+@c show up in none of the compiled versions.  The original text has been
+@c placed in lines of this type, with break for paragraphs.
+
+@c To help with the translation, simply pick a paragraph and enter the
+@c lojban text, straight up, _without_ '@c ' or any other markup,
+@c _after_ the original paragraph.  Almost all the markup this file
+@c needs has already been done for you.
+
+@c Note that there should be a blank line before and after each
+@c paragraph.
 
 @c To deal with places where the exact layout of the text is important
 @c (the address of Alice's foot, just about any of the poetry), place
 @c the command '@format' before the text and '@end format' at the end.
+
+
+
 
 @ifinfo
 [This is the text of the lojban translation of Lewis Carrol's ]
@@ -32,6 +51,8 @@ This work, in all forms, is explicitely placed in the public domain.
 @c *** INSERT LOJBAN TRANSLATION OF THE ABOVE HERE ***
 
 @end titlepage
+
+@contents
 
 @node 	  Top,     le fukpi,    ,          (dir)
 @comment  node-name, next,      previous,  up
@@ -3690,5 +3711,4 @@ This work, in all forms, is explicitely placed in the public domain.
 
 @c                                 THE END
 
-@contents
 @bye
