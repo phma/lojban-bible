@@ -337,3 +337,8 @@
   dzena - dze -  /Ahne/  x1 ist ein Ahne/Vorfahre von x2 durch Verbindung/Beziehung/Verwandtschaftsverhältnis/Grad x3; die Generation von x1 kommt vor der von x2s Eltern
   dzipo zip - zi'o  /antarktisch/  x1 repräsentiert antarktische Kultur/Nationalität/Geographie in Aspekt x2
   facki fak - fa'i  /entdecken/  x1 entdeckt/findet x2 (du'u) (heraus) über Thema/Objekt x3; x1 findet/entdeckt (fi) x3 (Objekt)
+  fadni fad - -  /gewöhnlich/  x1 [[Mengenelement] ist normal/gewöhnlich/üblich/typisch in Eigenschaft x2 (ka) unter Elementen von x3 (Menge)
+  fagri fag - -  /Feuer/  x1 ist (ein) Feuer/eine Flamme mit Brennstoff x2 und brennt in/reagiert mit Oxidationsmittel x3 (Default: Luft/Sauerstoff)
+  falnu fan - -  /Segel/  x1 ist ein Segel zum Sammeln von Antriebsmaterial x2 auf Fahrzeug/Motor x3
+  famti - - -  /Tante oder Onkel/  x1 ist eine Tante/ein Onkel von x2 mit/durch Beziehung x3; x1 ist ein Verwandter/zugehöriges Mitglied der Generation von x2s Eltern
+  fancu - - -  /Funktion/  x1 ist eine Funktion/Abbildung von Definitionsbereich/Urbild x2 auf Bildbereich x3, definiert durch Ausdruck/Regel x4
