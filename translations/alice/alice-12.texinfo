@@ -275,38 +275,15 @@ i di'e penmi co se tcidu le blabi ractu
 @c            She gave me a good character,
 @c              But said I could not swim.
 
-@format
-
-              i ti'e do ta klama ca'a
-                i do ti tavla mi
-              i cu'u ta ge mi preza'a
-                ginai mi limna di
-@end format
-
 @c            He sent them word I had not gone
 @c              (We know it to be true):
 @c            If she should push the matter on,
 @c              What would become of you?
 
-@format
-
-              i mi pu nalkla i vlabe'i
-                to mi'o djuno toi
-              i ganai lanli le selte'i
-                gi ma do dimna oi
-@end format
-
 @c            I gave her one, they gave him two,
 @c              You gave us three or more;
 @c            They all returned from him to you,
 @c              Though they were mine before.
-
-@format
-              i mi pa de i re di ko'e
-                i do su'o ci da
-              i do se xruti ro le co'e
-                noi me mi moi pu za
-@end format
 
 @c            If I or she should chance to be
 @c              Involved in this affair,
@@ -322,6 +299,42 @@ i di'e penmi co se tcidu le blabi ractu
 @c              For this must ever be
 @c            A secret, kept from all the rest,
 @c              Between yourself and me.'
+
+@format
+
+              i ti'e do ta vitke ca'a
+                i do tu tavla mi
+              i cu'u ta ge mi preza'a
+                ginai mi limna di
+
+              i cu'u tu mi pu vi sanli
+                to mi'o djuno toi
+              i ganai ta za za'o lanli 
+                gi ma do dimna oi
+
+              i dunda fa mi pa da ta 
+                i go'i re da tu
+              i do se xruti le ro da 
+                noi me mi moi za pu 
+
+              i ga nai ga mi gi ta iu
+                 se cuntu le vi fasnu
+              gi ia tu lacri do le nu
+                 do zifre xruti gasnu
+
+              i pe'i do pu le nu tcini 
+                 le nu se fengu ta
+              cu fanta zunti gi'e jbini 
+                 uo tu joi mi joi ra 
+
+              i tu na djuno ei gau ko
+                le du'u ta ru zmanei
+              i ei se mipri mi joi do
+                ro drata le nu ca nei
+
+@end format
+
+                
 
 @c      `That's the most important piece of evidence we've heard yet,'
 @c    said the King, rubbing his hands; `so now let the jury--'
@@ -376,13 +389,13 @@ go'i sei ny cusku li'u to ju'osai ny noi marji lo jarple na simlu toi
 
 i lu i'e sei le noltrunau cu cusku li'u i ny di'a tolylau bacru lei
 penpau i lu lu to mi'o djuno toi li'u mapti li'a le pairkamni i lu i
-mi pa de i re di ko'e li'u i ua ju'o la'e di'u nu ta fairgau lei
-rutytisna li'u
+dunda fa mi pa da ta i go'i re da tu li'u i ua ju'o la'e di'u nu ta 
+fairgau lei rutytisna li'u
 
 @c      `But, it goes on "THEY ALL RETURNED FROM HIM TO YOU,"' said
 @c    Alice.
 
-i lu ku'i se jersi lu i do se xruti ro le co'e li'u sei la alis
+i lu ku'i se jersi lu i do se xruti le ro da li'u sei la alis
 cusku li'u
 
 @c      `Why, there they are!' said the King triumphantly, pointing to
@@ -391,9 +404,9 @@ cusku li'u
 @c    dear, I think?' he said to the Queen.
 
 i lu ua ta zvati sei le noltrunau noi jarco lei rutytisna noi cpana le
-jubme cu jinga cusku i noda ka'e klimau la'e di'u i ku'i lu pu le nu ta
-fengu tarti li'u i do noroi fengu tarti doi dirba pe'i je'upei sei ny
-fi le noltruni'u cu cusku li'u
+jubme cu jinga cusku i noda ka'e klimau la'e di'u i ku'i lu pu le nu 
+tcini le nu se fengu ta li'u i do noroi fengu doi dirba pe'i je'upei 
+sei ny fi le noltruni'u cu cusku li'u
 
 @c      `Never!' said the Queen furiously, throwing an inkstand at the
 @c    Lizard as she spoke.  (The unfortunate little Bill had left off
