@@ -44,7 +44,8 @@ cnino javni i lo sarvanju cu rinka le nu py slari tarti i lo spatrkamomili
 cu rinka le nu py kurki tarti i y i lo bavmi sukta e lo simsa cu rinka le
 nu lei verba cu titla tarti i au lei prenu cu djuno la'e di'u ja'e le nu
 py na mobdu'a sy li'o li'u
-  
+@c You mean tsaprpiperi, don't you? Spatrpiperi is the plant. -phma
+
 @c      She had quite forgotten the Duchess by this time, and was a
 @c    little startled when she heard her voice close to her ear.
 @c    `You're thinking about something, my dear, and that makes you
