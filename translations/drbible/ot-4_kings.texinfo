@@ -696,24 +696,38 @@
 
 @c    6:8. And the king of Syria warred against Israel, and took counsel with
 @c    his servants, saying:  In such and such a place, let us lay an ambush.
+6:8. ni'o le nolraitru be la .aRAM. cu jamna la .israEL. gi'e stidi lu
+ma'a se ginka fi le daidza rodbo'e li'u le ny selfu
 
 @c    6:9. And the man of God sent to the king of Israel, saying:  Beware that
 @c    thou pass not to such a place:  for the Syrians are there in ambush.
+6:9. .i le nanmu pe la cevni cu skubenji lu ko zgaku'i ko vi le daidza rodbo'e
+mu'i le nu la .aRAM. vi ra mipri vo'a li'u le nolraitru be la .israEL.
 
 @c    6:10. And the king of Israel, sent to the place which the man of God
 @c    had told him, and prevented him, and looked well to himself there not
 @c    once nor twice.
+6:10. .i le nolraitru be la .israEL. cu benji fi le stuzi poi le nanmu pe la
+cevni pu cusku tu'a ce'u ra ku'o gi'e <hizhiru> gi'e zgaku'i vo'a za'ureroi
 
 @c    6:11. And the heart of the king of Syria, was troubled for this thing.
 @c    And calling together his servants, he said:  Why do you not tell me who
 @c    it is that betrays me to the king of Israel?
+6:11. .i le nolraitru be la .aRAM. fengu fi la'edi'e .i jajmi'e le vo'a selfu
+gi'e cusku lu .ei ko jungau mi le du'u makau noi me mi'o cu jorne le nolraitru
+be la .israEL. li'u sy
 
 @c    6:12. And one of his servants said:  No one, my lord, O king:  but
 @c    Eliseus, the prophet, that is in Israel, telleth the king of Israel all
 @c    the words, that thou speakest in thy privy chamber.
+6:12. .i pa selfu cu dafsku lu makau na'e me mi'o doi nolraitru .io .i la .eliCAS.
+poi ceirka'ixu'a fu la .israEL cu cusku le se cusku be do bei ne'i le sipku'a
+le nolraitru be la .israEL. li'u
 
 @c    6:13. And he said to them:  Go, and see where he is:  that I may send and
 @c    take him.  And they told him:  saying:  Behold he is in Dothan.
+6:13. .i cusku lu ko klama facki le se zvati .ebu .itezu'ebo mi benji kavbu .ebu
+li'u .i dafsku lu .ua zvati la doTAN. li'u
 
 @c    6:14. Therefore, he sent thither horses, and chariots, and the strength
 @c    of an army:  and they came by night, and beset the city.
