@@ -511,6 +511,7 @@
 <row><entry><foreignphrase lang="art-lojban">pensi</foreignphrase></entry><entry>police</entry><entry>x1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">pesxu</foreignphrase></entry><entry>paste</entry><entry>x1 is paste/pulp/dough/mash/mud/slurry [soft, smooth-textured, moist solid] of composition x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">pe'u</foreignphrase></entry><entry>please</entry><entry>vocative: please</entry></row>
+<row><entry><foreignphrase lang="art-lojban">pi so'e</foreignphrase></entry><entry>most of</entry><entry>number: most of of; used to refer to a greater portion of something</entry></row>
 <row><entry><foreignphrase lang="art-lojban">pi</foreignphrase></entry><entry>decimal point</entry><entry>digit/number: radix (number base) point; default decimal</entry></row>
 <row><entry><foreignphrase lang="art-lojban">pi'e</foreignphrase></entry><entry>digit separator</entry><entry>digit/number:separates digits for base &gt;16, not current standard, or variable (e.g. time, date)</entry></row>
 <row><entry><foreignphrase lang="art-lojban">pilno</foreignphrase></entry><entry>use</entry><entry>x1 uses/employs x2 [tool, apparatus, machine, agent, acting entity, material] for purpose x3</entry></row>
@@ -704,6 +705,7 @@
 <row><entry><foreignphrase lang="art-lojban">xatra</foreignphrase></entry><entry>letter</entry><entry>x1 is a letter/missive/[note] to intended audience x2 from author/originator x3 with content x4</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xe</foreignphrase></entry><entry>5th conversion</entry><entry>5th conversion; switch 1st/5th places</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xebni</foreignphrase></entry><entry>hate</entry><entry>x1 hates/despises x2 (object/abstraction); x1 is full of hate for x2; x2 is odious to x1</entry></row>
+<row><entry><foreignphrase lang="art-lojban">xelso</foreignphrase></entry><entry>Greek</entry><entry>x1 reflects Greek/Hellenic culture/nationality/language in aspect x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xendo</foreignphrase></entry><entry>kind</entry><entry>x1 (person) is kind to x2 in actions/behavior x3</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xindo</foreignphrase></entry><entry>Hindi</entry><entry>x1 reflects Hindi language/culture/religion in aspect x2</entry></row>
 <row><entry><foreignphrase lang="art-lojban">xlali</foreignphrase></entry><entry>bad</entry><entry>x1 is bad for x2 by standard x3; x1 is poor/unacceptable to x2</entry></row>

@@ -577,7 +577,7 @@ years</wordasword>, when you can join them together as <wordasword>Nick
 went to California, and stayed there for three
 years</wordasword>?</para>
 
-<para>Lojban, being spoken by human beings (ostensively), is not immune to 
+<para>Lojban, being spoken by human beings (ostensibly), is not immune to 
 this kind of pressure. Strictly speaking, Lojban doesn't have noun phrases 
 and verb phrases. However, it does have zero or more <foreignphrase
 lang="art-lojban">sumti</foreignphrase> in front of the <foreignphrase
@@ -635,16 +635,13 @@ lang="art-lojban">bridi</foreignphrase>. So it corresponds precisely to
 
 <sect1 id="less11ques"><title>Asking about connectives</title>
 
-<qandaset defaultlabel="qanda">
-<qandaentry>
-<question><para>How can you tell someone is a computer programmer?</para></question>
+<itemizedlist>
+<listitem><para>How can you tell someone is a computer programmer?</para></listitem>
 
-<answer><para>You ask them <quote>Do you want milk or sugar?</quote>, and 
-they answer <quote>Yes.</quote></para></answer>
+<listitem><para>You ask them <quote>Do you want milk or sugar?</quote>, and 
+they answer <quote>Yes.</quote></para></listitem>
 
-</qandaentry>
-
-</qandaset>
+</itemizedlist>
 
 <para>In natural languages, that kind of answer is liable to get you a clip
 around the ears. That is because natural languages are run not only by
@@ -1084,7 +1081,7 @@ description fits any one of a lamb, a cow or a chicken, so what the waiter
 has said does make sense.)</para></listitem>
 
 <listitem><para>Ranjeet says <quote>I want a beef curry and an onion 
-bread.</quote> (= nan, presumably)</para></listitem>
+bread.</quote></para></listitem>
 
 <listitem><para>The waiter gives Jyoti water and says to her <quote>What 
 would you like?</quote> (Whatever is in front of the first <foreignphrase

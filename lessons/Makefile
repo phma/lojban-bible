@@ -17,7 +17,7 @@ rtf: lessons.index.doc.xml
 
 
 tex: lessons.index.doc.xml
-	openjade -E 0 -t tex -d $(DSSSLLOC)/print/my_docbook.print.tex.dsl $(DOCBOOKTOOLS)/xml.dcl lessStart.doc.xml
+	openjade -E 0 -t tex -o lessons.doc.tex -d $(DSSSLLOC)/print/my_docbook.print.tex.dsl $(DOCBOOKTOOLS)/xml.dcl lessStart.doc.xml
 
 lessons.index.doc.xml: HTML.index
 	perl $(DSSSLLOC)/bin/collateindex.pl -p -o lessons.index.doc.xml HTML.index

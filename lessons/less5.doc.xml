@@ -1284,7 +1284,12 @@ otherwise, <foreignphrase lang="art-lojban">lenu la suzyn. penmi la
 djiotis.</foreignphrase> would be a <foreignphrase 
 lang="art-lojban">sumti</foreignphrase> of <foreignphrase 
 lang="art-lojban">zvati</foreignphrase>, not of <foreignphrase 
-lang="art-lojban">djica</foreignphrase>.)</para></listitem>
+lang="art-lojban">djica</foreignphrase>.)</para>
+
+<note><para>As noted in the <link linkend="intro">Introduction</link>, those
+brackets are there for clarification only; you won't normally see them in Lojban
+text. The whole point of having a syntactically unambiguous language, after all,
+is that you shouldn't have to use brackets in the first place!</para></note></listitem>
 
 </orderedlist></para>
 </simplesect>

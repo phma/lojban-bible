@@ -116,9 +116,10 @@ lang="art-lojban">dj</foreignphrase>.</para>
 
 <para>Lojban does not require any punctuation, but some of the characters
 normally used in punctuation affect the way Lojban is pronounced.  A full
-stop (period) is a short pause to stop words running into each other. For 
-that reason, it is conventionally placed in front of any word starting 
-with a vowel.</para>  
+stop (period) is a short pause to stop words running into each other.
+The rules of Lojban make it easier for one word to run into another when
+the second word begins with a vowel; so any word starting with a vowel
+conventionally has a full stop placed in front of it.</para>  
 
 <para>An apostrophe separates two vowels, and is pronounced like an
 <wordasword>h</wordasword>.  For example, <foreignphrase
@@ -174,8 +175,10 @@ ybu</foreignphrase>. </para>
 
 <para>The
 apostrophe is regarded as a proper letter in Lojban, and is called
-<foreignphrase lang="art-lojban">.y'y.</foreignphrase>.  This should sound like a
-cough.</para>
+<foreignphrase lang="art-lojban">.y'y.</foreignphrase>. To some people,
+this sounds like a
+cough; to other, like <wordasword>uh-huh</wordasword> (when it means 
+<quote role="gloss">Yes</quote> rather than <quote role="gloss">No</quote>.)</para>
 
 <para>Lojban has ways of refering to most letters you can think of; see
 <citetitle>The Complete Lojban Language</citetitle>, Chapter 17 for
@@ -528,7 +531,7 @@ lang="art-lojban">tcegevaras.</foreignphrase></para></listitem></varlistentry>
 
 <listitem><para><foreignphrase lang="art-lojban">beidjin.</foreignphrase></para></listitem>
 
-<listitem><para><foreignphrase lang="art-lojban">.Ankaras.</foreignphrase></para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.ANkaras.</foreignphrase></para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">prictinas.</foreignphrase></para></listitem>
 

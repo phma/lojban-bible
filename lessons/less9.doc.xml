@@ -280,7 +280,7 @@ lang="art-lojban">le xatra</foreignphrase>. So it is an internal
 <informalexample><para><foreignphrase lang="art-lojban">le vi xatra be de'i li pa cu 
 se mrilu de'i li ze</foreignphrase></para>
 
-</informalexample>Much better. A pity you won't actually see <foreignphrase 
+</informalexample>Much better. A pity you won't often see <foreignphrase 
 lang="art-lojban">sumti tcita</foreignphrase> handled like this.
 </para>
 
@@ -348,7 +348,7 @@ lang="art-lojban">selbri</foreignphrase>; you're merely saying that the phrase
 you're calling <foreignphrase lang="art-lojban">la .Oliver.tuist</foreignphrase>.
 And since this is more generally useful than using <foreignphrase
 lang="art-lojban">pe</foreignphrase>, <foreignphrase lang="art-lojban">pe</foreignphrase>
-has become the general way of linking in internal <foreignphrase
+has become the usual way of linking in internal <foreignphrase
 lang="art-lojban">sumti</foreignphrase> with <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase>. </para>
 
@@ -963,12 +963,32 @@ alcohol.)</para>
 above is <emphasis>very deep voodoo</emphasis>, so there's no need for you to be particularly
 concerned about it (yet). As <citetitle>The Complete Lojban Language</citetitle>, Chapter 8.6 points out,
 without the <foreignphrase lang="art-lojban">ku</foreignphrase> any qualifying phrase becomes part of the 
-name. So the two Frankfurts in Germany, Frankfurt-am-Main and Frankfurt-am-Oder, would go into Lojban as 
-<foreignphrase lang="art-lojban">la frankfurt. pe vi la main.</foreignphrase> and <foreignphrase 
-lang="art-lojban">la frankfurt. pe vi la oder.</foreignphrase> (The first one is the one you've heard 
-of; they are distinguished by the rivers they are on.) But if I just wanted to say <quote>Berlin, on the 
-[river] Spree</quote>, I would say <foreignphrase lang="art-lojban">la berlin. ku pe vi la 
-spres.</foreignphrase>, because the city's name is not Berlin-am-Spree.</para>
+name.</para>
+
+<para>To illustrate this, consider the old parlor trick of calling someone <wordasword>Nobody</wordasword>. 
+This is a device as old as Homer, and is used to work in jokes like <quote><wordasword>Nobody</wordasword> hurt 
+me!</quote> Lojban disallows this kind of ambiguity (think about why), so this kind of joke is impossible
+in the language. (The notorious <citetitle>Who's on First?</citetitle> sketch is likewise un-Lojbanisable.) 
+But you'll still want to talk about people called <wordasword>Nobody</wordasword>.</para>
+
+<para>So suppose you're talking about the Greek <wordasword>Nobody</wordasword> (Homer's <foreignphrase 
+lang="grc">O&uacute;tis</foreignphrase>), and comparing him to the Latin <wordasword>Nobody</wordasword> 
+(Jules Verne's Captain <foreignphrase 
+lang="lat">Nemo</foreignphrase>). And in a pique of Lojban purism, you decide to refer to both with 
+Lojbanised names 
+&mdash; <foreignphrase lang="art-lojban">la nomei</foreignphrase>. If now you want to say <quote>The Greek 
+<wordasword>Nobody</wordasword></quote>, you can't say <foreignphrase lang="art-lojban">la nomei poi 
+xelso</foreignphrase>. That would mean that Odysseus identified himself to the Cyclops not as 
+<wordasword>Nobody</wordasword>, but as <wordasword>Nobody Who Is Greek</wordasword> (something like 
+<foreignphrase lang="grc">O&uacute;tis H&ograve;s Akhai&oacute;s</foreignphrase> in Greek.) What you want to 
+make sure of is that 
+the <foreignphrase lang="art-lojban">cmene</foreignphrase> is over before the relative clause begins. Since 
+this <foreignphrase lang="art-lojban">cmene</foreignphrase> contains a <foreignphrase 
+lang="art-lojban">selbri</foreignphrase>, it is terminated with <foreignphrase 
+lang="art-lojban">ku</foreignphrase>: <foreignphrase lang="art-lojban">la nomei <emphasis>ku</emphasis> poi 
+xelso</foreignphrase>. If you'd stuck with <foreignphrase lang="art-lojban">la .utis.</foreignphrase>, the 
+pause would have been signal enough that the <foreignphrase lang="art-lojban">cmene</foreignphrase> is over, 
+so the issue does not arise.</para>
 
 <para>No, of course you weren't meant to know all that. But aren't you happy you know it 
 now?</para></tip></listitem>

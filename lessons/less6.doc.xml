@@ -625,8 +625,8 @@ separate things, while in Lojban they're the same: they both locate an
 event in time. Space words like <wordasword>in</wordasword> or
 <wordasword>near</wordasword> are prepositions in English, and can never be
 tenses; but in Lojban we treat them just like time words: they locate
-events in space (or if you prefer, you can say that Lojban treats time as a
-dimension, as in Einstein's physics).
+events in space. If you prefer, you can also say that Lojban treats time as a
+dimension, as is (conventionally) done in Einstein's physics.
 
 
 </para>
@@ -656,7 +656,14 @@ role="gloss">in the immediate vicinity of the here-and-now</quote>, i.e.
 <quote role="gloss">here</quote>. If we don't want to make the location 
 relative to the speaker, but relative to something else, we can fill in the 
 empty <foreignphrase lang="art-lojban">sumti</foreignphrase> value in, in
-the same way, to say what an event is in the immediate vicinity of; e.g.
+the same way, to say what an event is in the immediate vicinity of. This, 
+of course, makes <foreignphrase
+lang="art-lojban">vi, va, vu</foreignphrase> acts as <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase>, just like <foreignphrase
+lang="art-lojban">de'i</foreignphrase> and <foreignphrase
+lang="art-lojban">ti'u</foreignphrase>: they add new <foreignphrase
+lang="art-lojban">sumti</foreignphrase> to the <foreignphrase
+lang="art-lojban">bridi</foreignphrase>. For example
 
 
 <informalexample>
@@ -1045,7 +1052,7 @@ Zhang's.</para></listitem>
 <listitem><para>Now Susan lives some way away from Zhang.</para></listitem>
 
 
-<listitem><para>When Susan go to
+<listitem><para>When Susan goes to
 the house, she goes a little to the left of the bar.</para></listitem>
 
 

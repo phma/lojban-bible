@@ -38,14 +38,18 @@ If you can't work out the answer to a particular question, feel free to
 skip it &mdash; but do look at the answer to the question, as there are 
 often useful hints on Lojban usage in there.</para>
 
+<para>Occasionally we use brackets to clarify the grammatical structure of Lojban in
+our examples. These brackets are not part of official Lojban orthography, and are
+included only for paedagogical purposes.</para>
+
 <para>Robin is English (residing in Turkey), and Nick is Greek-Australian 
 (residing in the U.S.A.) So don't be surprised if you see some unfamiliar 
 language usage in this text. We are particularly unrepentant about using 
 Commonwealth spelling.</para>
 
 <para>Our thanks to the Lojbanists who have reviewed these lessons; in
-particular, Pierre Abbat, John Cowan, Bj&ouml;rn Gohla, Arnt Richard
-Johansen, Nora Tansky LeChevalier, Jorge Llambias, John Parks-Clifford,
+particular, Pierre Abbat, John Clifford, John Cowan, Bj&ouml;rn Gohla, Arnt Richard
+Johansen, Nora Tansky LeChevalier, Jorge Llambias, Robin Lee Powell,
 Adam Raizen, Anthony Roach. Thanks also to Robin Lee Powell for providing the
 infrastructure for publishing the course in progress, and to Paul
 Reinerfelt for his help in producing the TeX version of the text.</para>
@@ -88,6 +92,10 @@ ganai do na pu'i jdice le danfu be lo preti gi ko co'u troci gi'e ku'i
 catlu le danfu be le preti mu'i lenu le danfu so'iroi vasru lo plixau se
 stidi pe lenu pilno la lojban.</foreignphrase></para>
 
+<para>ni'o mi so'iroi pilno lo girzu sinxa lerfu mu'i lenu ciksi le gerna stura
+be la lojban. be'o pe le mi mupli seltcidu .i le girzu sinxa lerfu genai pagbu le
+se zanru ke lojbo ke nunciska ciste gi se pilno fi le nu po'o ctuca</para>
+
 <para><foreignphrase lang="art-lojban">ni'o la robin. cu glico gi'e xabju
 le gugdrturkie .i la nitcion. cu xelso sralo gi'e xabju le merko .i
 seki'ubo ko na se spaji tu'a loi bangu selpli pe le dei seltcidu zi'epoi na
@@ -95,10 +103,10 @@ slabu do .i mi ra'u to'e xenru lenu pilno le glico se jitro gugde bo girzu
 ke valsi lerfu porsi tadji</foreignphrase></para>
 
 <para><foreignphrase lang="art-lojban">ni'o mi ckire le lojbo poi cipygau
-fi le kamdrani le dei ve ctuca zi'eno'u la. pier.abat. joi la djan.kau,n. 
-joi la biorn.golas. joi. la .arnt.rixard.iuxansen. goi tsali ge'u joi la
-noras.tanskis.lecevaLIER. joi la xorxes.jambi,as. joi la 
-djan.parks.klifyrd. goi pycyn. ge'u joi la .adam.reizen. joi la .antonis.routc. .i
+fi le kamdrani le dei ve ctuca zi'eno'u la. pier.abat. joi la biorn.golas. 
+joi. la .arnt.rixard.iuxansen. goi tsali ge'u joi la xorxes.jambi,as. joi la djan.kau,n. 
+joi la djan.klifyrd. goi pycyn. ge'u joi la
+noras.tanskis.lecevaLIER. joi la rabin.lis.pau,el. joi la .adam.reizen. joi la .antonis.routc. .i
 ckire ji'a la rabin.lis.pau,el. ce'e lenu sabji le jicmu be lenu gubgau
 le ve ctuca ca'o lenu finti pe'eje la paul.rainerfelt. ce'e lenu sidju
 lenu cupra le seltcidu peta'i la tex.</foreignphrase></para>

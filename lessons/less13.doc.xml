@@ -577,7 +577,7 @@ lang="art-lojban">zo</foreignphrase> is a quotation marker, just like
 <foreignphrase lang="art-lojban">zo</foreignphrase> quotes
 <emphasis>only</emphasis> the word immediately after it. This means it does
 not need a terminator: we already know where the quotation ends. The saving
-in two syllables is highly valued in a language which can get as prolix as
+of two syllables is highly valued in a language which can get as prolix as
 Lojban does.</para>
 
 <note><para>Since <foreignphrase lang="art-lojban">zo</foreignphrase>
@@ -685,7 +685,8 @@ lang="art-lojban">sesi'u</foreignphrase></term><listitem><para><foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase>: assisting... (<foreignphrase
 lang="art-lojban">sidju</foreignphrase> <quote role="quote">help</quote>)</para></listitem></varlistentry>
 
-<varlistentry><term><foreignphrase lang="art-lojban">pensi</foreignphrase></term><listitem><para>1 thinks/considers/cogitates/reasons/is pensive about/reflects upon
+<varlistentry><term><foreignphrase lang="art-lojban">pensi</foreignphrase></term><listitem><para>x<subscript>1</subscript> 
+thinks/considers/cogitates/reasons/is pensive about/reflects upon
 subject/concept x<subscript>2</subscript></para></listitem></varlistentry>
 
 <varlistentry><term><foreignphrase

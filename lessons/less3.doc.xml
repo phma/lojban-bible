@@ -412,7 +412,7 @@ enough information. </para>
 will here: <quote>Mary's Porsche</quote>, 
 <quote>Fred's Porsche</quote>, <quote>Tim's cousin</quote>, <quote>my 
 cousin</quote>. So, how do we say that in Lojban? Well, there's two ways. Or four. Or seven. Or thirteen. Or more &mdash; because 
-this is Lojban, and in Lojban you can be precise, or as imprecise, as you 
+this is Lojban, and in Lojban you can be as precise, or as imprecise, as you 
 want to. We'll give you the simple answer first, and then work our way 
 up.</para>
 
@@ -458,7 +458,7 @@ rest of your <foreignphrase
 lang="art-lojban">sumti</foreignphrase>: for instance, <foreignphrase 
 lang="art-lojban">le pe la tim. tamne</foreignphrase>. This is literally 
 <quote>The of Tim cousin</quote>. But this construction 
-is kind of odd, and since it's not how English does things, you won't be 
+is kind of odd, and since it's not how most languages do things, you won't be 
 surprised that it's not commonly used. </para>
 
 <para>There is a similar way of saying it, though, which
@@ -636,10 +636,10 @@ Claudia's arm</literallayout></listitem>
 <note><para>As it happens, English is not one of those languages that
 distinguishes between these two notions (<wordasword>alienable</wordasword>
 and <wordasword>inalienable possession</wordasword> are the jargon terms,
-in case you're ever browsing a grammar of a South Pacific language.) So you
-won't see the distinction much in Lojban. In fact, the much vaguer association
+in case you're ever browsing a grammar of a South Pacific language.) So the distinction 
+hasn't been exploited much to date in Lojban. More generally, the much vaguer association
 signalled by <foreignphrase lang="art-lojban">pe</foreignphrase> is usually
-enough to narrow down what exactly you mean; and for now, most Lojbanists
+enough to narrow down what exactly you mean, anyway; and for now, most Lojbanists
 are content to leave it at that. You probably will too.</para></note>
 
 <para>Oh, and one more thing. We've been answering the question

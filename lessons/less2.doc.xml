@@ -128,11 +128,11 @@ lang="art-lojban">sumti</foreignphrase>. In other words,
 <informalexample><literallayout><foreignphrase lang="art-lojban">bridi = selbri + sumti</foreignphrase></literallayout></informalexample></para>
 
 <note><title>Note for logicians and computer programmers</title><para>For
-<foreignphrase lang="art-lojban">selbri</foreignphrase> read <quote
+<foreignphrase lang="art-lojban">selbri</foreignphrase>, logicians can read <quote
 role="gloss">predicate</quote> or <quote
-role="gloss">relation</quote>, and <quote
-role="gloss">function</quote>, respectively; for <foreignphrase
-lang="art-lojban">sumti</foreignphrase> read <quote role="gloss">argument</quote>.
+role="gloss">relation</quote>, and programmers can read <quote
+role="gloss">function</quote>; for <foreignphrase
+lang="art-lojban">sumti</foreignphrase>, both can read <quote role="gloss">argument</quote>.
 </para> </note>
 
 <para>How many <foreignphrase lang="art-lojban">sumti</foreignphrase> can a
@@ -249,7 +249,7 @@ audience x<subscript>4</subscript> preserved in medium x<subscript>5</subscript>
 <listitem><literallayout><foreignphrase lang="art-lojban">la mari,as. ninmu</foreignphrase>
 Maria is a woman.</literallayout></listitem>
 
-<listitem><literallayout><foreignphrase lang="art-lojban">la tuitis. vofli la serinus.serinus.kanarias.</foreignphrase>
+<listitem><literallayout><foreignphrase lang="art-lojban">la tuitis. cipni la serinus.serinus.kanarias.</foreignphrase>
 Tweety is a bird of species <foreignphrase lang="lat">Serinus serinus canaria</foreignphrase>.</literallayout></listitem>
 
 <listitem><literallayout><foreignphrase lang="art-lojban">la .iulias. pritu la mari,as. la klaudias.</foreignphrase>
@@ -535,7 +535,7 @@ x<subscript>3</subscript></para></listitem></varlistentry>
 Lojban sentences so that no place tags are necessary, and the
 <foreignphrase lang="art-lojban">sumti</foreignphrase> appear in their expected
 places. Insert <foreignphrase lang="art-lojban">zo'e</foreignphrase> where 
-necessary. For example: <foreignphrase lang="art-lojban">fi la .iulias. cu pritu fe le karce</foreignphrase> = 
+necessary. For example: <foreignphrase lang="art-lojban">fi la .iulias. cu pritu fa le karce</foreignphrase> = 
 <foreignphrase lang="art-lojban">le karce cu pritu zo'e la .iulias.</foreignphrase></para>
 
 <para><orderedlist>
