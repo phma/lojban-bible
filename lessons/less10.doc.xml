@@ -35,9 +35,9 @@ answers. In some languages, in fact, we would use different words for them:
 Turkish has three words for <wordasword>why</wordasword>, and until
 recently even English had two (the other being
 <wordasword>wherefore</wordasword>, as in <quote>wherefore art thou
-Romeo?</quote>). We would expect, then, that Lojban would have at least
+Romeo?</quote>) We would expect, then, that Lojban would have at least
 four words for <wordasword>why</wordasword>, but in fact it doesn't, since all
-such questions are handled with <foreignphrase lang="art-lojban">mo</foreignphrase>. What Lojban <emphasis>does</emphasis>
+such questions are handled with <foreignphrase lang="art-lojban">ma</foreignphrase>. What Lojban <emphasis>does</emphasis>
 have is four words for <wordasword>because</wordasword>. </para>
 
 
@@ -71,7 +71,7 @@ date</quote>, <foreignphrase lang="art-lojban">ri'a</foreignphrase> means
 </foreignphrase></para>
 
 </informalexample>which is much more elegant. (Note that Lojban does not need the empty
-<wordasword>it</wordasword> in <quote>It's raining</quote>.) </para>
+<wordasword>it</wordasword> in <wordasword>It's raining</wordasword>.) </para>
 
 <para>The reason I have emphasised that <foreignphrase
 lang="art-lojban">rinka</foreignphrase> and <foreignphrase
@@ -131,7 +131,7 @@ Your pulling Sally's hair motivated her to hit you.</literallayout>
 can assume that the agent of the second event is also the person who
 decides to do it. Even so, this structure is a bit clumsy, so again we
 would normally use a <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase>, in this case, <foreignphrase
+lang="art-lojban">sumti tcita</foreignphrase> &mdash; in this case, <foreignphrase
 lang="art-lojban">mu'i</foreignphrase>. This gives us
 
 <informalexample>
@@ -227,44 +227,35 @@ not long-lived.</para></listitem>
 </orderedlist></para>
 </sect1>
 
-<sect1 id="less10conn"><title>Connecting and converting</title>
+<sect1 id="less10conn"><title>Converting causes</title>
 
 <para>The reason I have included this blindingly obvious piece of logic is
 that it demonstrates how sentences can be joined, and how <quote
 role="gloss">because</quote> can be turned into <quote
-role="gloss">therefore</quote>. We've seen how <foreignphrase
-lang="art-lojban">.i</foreignphrase> shows that a new sentence is starting;
-but we can also tag things onto the <foreignphrase
-lang="art-lojban">.i</foreignphrase>. We've seen (in passing) that two
-<foreignphrase lang="art-lojban">sumti</foreignphrase> can be joined with
-<foreignphrase lang="art-lojban">.e</foreignphrase>. In the same way,
-<foreignphrase lang="art-lojban">.ije</foreignphrase> joins two sentences
-with a logical <wordasword>and</wordasword>, i.e. it asserts that both
-sentences are true. Normally we don't need to do this, since we usually
-assume that what we say is true; but it is useful here, because it binds
-the first two sentences together, so that when the <quote
-role="socalled">conclusion</quote> sentence comes, it <quote
-role="socalled">therefores</quote> both of them, not just the second. (This
-is called <quote role="socalled">left-grouping</quote> and there are ways
-to over-ride it, but that's not important for now.) </para>
+role="gloss">therefore</quote>. We'll deal with the second part first, because
+there's a few issues about connecting sentences we want to leave till the
+next section. So for now, don't worry about <foreignphrase lang="art-lojban">.ije</foreignphrase>.
+Do worry, however, about <foreignphrase
+lang="art-lojban">seni'i</foreignphrase>.</para>
 
-<note><para>Again, this sentence misses out a number of logical steps, including
-the fact that Fluffy is a rabbit and that he had lived out his rabbit life
-naturally, rather than getting eaten by a dog &mdash; but you get the idea,
-I hope. </para></note>
-
-<para>So what is <foreignphrase
-lang="art-lojban">seni'i</foreignphrase> doing in front of the <foreignphrase
+<para>What we have here is a <firstterm>proposition</firstterm> (Fluffy is a rabbit,
+and rabbits don't live long), and a <firstterm>conclusion</firstterm> (Fluffy doesn't live
+long.) So what is <foreignphrase
+lang="art-lojban">seni'i</foreignphrase> doing in front of the final <foreignphrase
 lang="art-lojban">selbri</foreignphrase>? Lojban treats <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase> the same as tenses; so <foreignphrase
 lang="art-lojban">seni'i</foreignphrase> can go in front of the <foreignphrase
 lang="art-lojban">selbri</foreignphrase>, as if it was a tense. This 
 corresponds to an adverb like <wordasword>therefore</wordasword> in 
-English.</para>
+English. And since <wordasword>therefore</wordasword> introduces conclusions
+in English, and the last sentence in the Lojban is a conclusion, you won't be
+surprised to hear that <foreignphrase
+lang="art-lojban">seni'i</foreignphrase> does in fact correspond to <wordasword>therefore</wordasword>.</para>
 
 <para>What we're left with is a <foreignphrase lang="art-lojban">sumti
 tcita</foreignphrase>, <foreignphrase
-lang="art-lojban">seni'i</foreignphrase>, which we haven't yet explained.
+lang="art-lojban">seni'i</foreignphrase>, which means <quote role="gloss">therefore</quote> &mdash;
+but we haven't quite explained how. 
 Actually, though, you've seen enough to work this out from <link
 linkend="less9">Lesson 9</link>. As you saw there, <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase> can be modified with
@@ -316,6 +307,65 @@ Jyoti is-funny with-motivated-result the-event many people like her
 Jyoti is funny, so many people like her.</literallayout>
 </informalexample></para>
 
+<simplesect role="exercise"><title>Exercise 2</title>
+
+<para>This is just like Exercise 1, except that now we have eight choices:
+<foreignphrase lang="art-lojban">ri'a, mu'i, ki'u, ni'i</foreignphrase> and their
+<foreignphrase lang="art-lojban">se</foreignphrase> forms. For each sentence,
+choose the most suitable <foreignphrase lang="art-lojban">sumti tcita</foreignphrase>.
+</para>
+
+<para><orderedlist>
+
+<listitem><para><citetitle>Alien Bloodbath</citetitle> won an Oscar because
+of its brilliant special effects.</para></listitem>
+
+<listitem><para>I like <citetitle>Quine's Rabbit</citetitle> because it's
+got an exciting story-line.</para></listitem>
+
+<listitem><para>He spilt my beer, so I hit him.</para></listitem>
+
+<listitem><para>He walks like that because he has an artificial leg.</para></listitem>
+
+<listitem><para>She's Australian, so she must like Vegemite.</para></listitem>
+
+<listitem><para>That computer can't get a virus because it's running Linux.</para></listitem>
+
+<listitem><para>You have committed adultery, and thus shall burn in Hell.</para></listitem>
+
+</orderedlist></para>
+</simplesect>
+
+</sect1>
+
+<sect1 id="less10connect"><title>Connecting sentences</title>
+
+<para>Let's revisit that piece of logic we were ruminating on earlier:
+
+<informalexample><para><foreignphrase lang="art-lojban">la flufis. ractu .ije ro ractu na'e ze'u jmive .i la flufis. seni'i na ze'u jmive
+</foreignphrase></para>
+
+</informalexample>We've seen how <foreignphrase
+lang="art-lojban">.i</foreignphrase> shows that a new sentence is starting;
+but we can also tag things onto the <foreignphrase
+lang="art-lojban">.i</foreignphrase>. We've seen (in passing) that two
+<foreignphrase lang="art-lojban">sumti</foreignphrase> can be joined with
+<foreignphrase lang="art-lojban">.e</foreignphrase>. In the same way,
+<foreignphrase lang="art-lojban">.ije</foreignphrase> joins two sentences
+with a logical <wordasword>and</wordasword>, i.e. it asserts that both
+sentences are true. Normally we don't need to do this, since we usually
+assume that what we say is true; but it is useful here, because it binds
+the first two sentences together, so that when the <quote
+role="socalled">conclusion</quote> sentence comes, it <quote
+role="socalled">therefores</quote> both of them, not just the second. (This
+is called <quote role="socalled">left-grouping</quote> and there are ways
+to over-ride it, but that's not important for now.) </para>
+
+<note><para>Again, this sentence misses out a number of logical steps, including
+the fact that Fluffy is a rabbit and that he had lived out his rabbit life
+naturally, rather than getting eaten by a dog &mdash; but you get the idea,
+I hope. </para></note>
+
 <para>Now, <foreignphrase
 lang="art-lojban">lenu</foreignphrase>-abstractions can be treated as
 sentences: they contain complete <foreignphrase
@@ -349,14 +399,14 @@ lang="art-lojban">sumti</foreignphrase> after it. So had I just said
 </informalexample>that would have meant something like <quote>With the logical result of 
 Fluffy, [something] dies.</quote> I'm not quite sure what this 
 means; maybe the <quote role="socalled">something</quote> is some mythical 
-creature that spontaneously generates bunny rabbits when it dies. But of 
+creature that spontaneously generates bunny rabbits as it expires. But of 
 course, this doesn't mean what we want. To make the <foreignphrase
 lang="art-lojban">sumti tcita</foreignphrase> apply to the 
 <emphasis>entire</emphasis> sentence, we follow it with the word <foreignphrase
 lang="art-lojban">bo</foreignphrase>.</para>
 
 <note><para>This applies to other kind of <foreignphrase
-lang="art-lojban">sumti tcita</foreignphrase>, by the way; for example,
+lang="art-lojban">sumti tcita</foreignphrase>, by the way, like
 tense words. For example, <foreignphrase lang="art-lojban">.i ba
 bo</foreignphrase> means <quote role="gloss">afterwards, then</quote>: the
 sentence it introduces comes after the one before it. </para></note>
@@ -368,36 +418,61 @@ role="gloss">afterwards</quote> <emphasis>should</emphasis> have been
 rest of you may ponder what on Earth I'm talking about, but need not lose
 sleep over it.</para></note>
 
+<simplesect role="vocab"><title>Vocabulary</title>
+
+<variablelist>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">catke</foreignphrase></term><listitem><para>x<subscript>1</subscript> [agent] shoves/pushes x<subscript>2</subscript> at locus x<subscript>3</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">cnita</foreignphrase></term><listitem><para>x<subscript>1</subscript> is directly/vertically 
+beneath/below/under/underneath/down from x<subscript>2</subscript> in frame of reference 
+x<subscript>3</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">crane</foreignphrase></term><listitem><para>x<subscript>1</subscript> is anterior/ahead/forward/(in/on) 
+the front of x<subscript>2</subscript> which faces/in-frame-of-reference 
+x<subscript>3</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">ganlo</foreignphrase></term><listitem><para>x<subscript>1</subscript> (portal/passage/entrance-way) is 
+closed/shut/not open, preventing passage/access to x<subscript>2</subscript> by 
+x<subscript>3</subscript></para></listitem></varlistentry>
+
+<varlistentry><term><foreignphrase
+lang="art-lojban">telgau</foreignphrase></term><listitem><para>x<subscript>1</subscript> (agent) makes 
+x<subscript>2</subscript> be a lock/seal of/on/for sealing x<subscript>3</subscript> with/by locking mechanism 
+x<subscript>4</subscript> (<foreignphrase lang="art-lojban">stela</foreignphrase> <quote
+role="gloss">lock</quote> + <foreignphrase lang="art-lojban">gasnu</foreignphrase> <quote
+role="gloss">do</quote>)</para></listitem></varlistentry>
+
+</variablelist>
+
+</simplesect>
 
 
+<simplesect role="exercise"><title>Exercise 3</title>
 
-
-
-<simplesect role="exercise"><title>Exercise 2.</title>
-
-<para>This is just like Exercise 1, except that now we have eight choices:
-<foreignphrase lang="art-lojban">ri'a, mu'i, ki'u, ni'i</foreignphrase> and their
-<foreignphrase lang="art-lojban">se</foreignphrase> forms. For each sentence,
-choose the most suitable <foreignphrase lang="art-lojban">sumti tcita</foreignphrase>.
+<para>Where necessary, insert any of <foreignphrase lang="art-lojban">je, seni'ibo, babo,
+seri'abo</foreignphrase> after all but the first <foreignphrase lang="art-lojban">.i</foreignphrase> in 
+each of the following text fragments. For example: <foreignphrase lang="art-lojban">.i mi telgau fi
+le vorme .i <emphasis>seni'ibo</emphasis> le vorme cu te telgau mi</foreignphrase>
 </para>
 
 <para><orderedlist>
 
-<listitem><para><citetitle>Alien Bloodbath</citetitle> won an Oscar because
-of its brilliant special effects.</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i mi telgau fi le vorme .i ___ do na klama le nenri</foreignphrase></para></listitem>
 
-<listitem><para>I like <citetitle>Quine's Rabbit</citetitle> because it's
-got an exciting story-line.</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i mi telgau fi le vorme .i ___ le vorme cu ganlo</foreignphrase></para></listitem>
 
-<listitem><para>He spilt my beer, so I hit him.</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i mi telgau fi le vorme .i ___ mi cliva</foreignphrase></para></listitem>
 
-<listitem><para>He walks like that because he has an artificial leg.</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i mi viska do .i ___ do viska mi .i ___ mi rinsa do soi mi</foreignphrase></para></listitem>
 
-<listitem><para>She's Australian, so she must like Vegemite.</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i do rinsa mi .i ___ do crane mi .i ___ do seni'i viska mi</foreignphrase></para></listitem>
 
-<listitem><para>That computer can't get a virus because it's running Linux.</para></listitem>
-
-<listitem><para>You have committed adultery, and thus shall burn in Hell.</para></listitem>
+<listitem><para><foreignphrase lang="art-lojban">.i la pantc. catke la djudis. .i ___ ri farlu .i ___ ri cnita</foreignphrase></para></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -457,8 +532,8 @@ following Lojban's fill-in-the-slot approach to questions and answers; e.g.
 
 <listitem><para><foreignphrase lang="art-lojban">lenu do lacpu lei kerfa</foreignphrase></para></listitem>
 
-</itemizedlist>This is short for the long-winded <foreignphrase lang="art-lojban">lenu do lacpu
-lei kerfa <emphasis>cu mukti la salis. darxi do</emphasis></foreignphrase>.</para>
+</itemizedlist>This is short for the long-winded <foreignphrase lang="art-lojban"><emphasis>la salis. darxi do 
+mu'i</emphasis> lenu do lacpu lei kerfa</foreignphrase>.</para>
 
 <simplesect role="vocab"><title>Vocabulary</title>
 
@@ -499,7 +574,7 @@ role="gloss">become</quote>)</para></listitem></varlistentry>
 </simplesect>
 
 
-<simplesect role="exercise"><title>Exercise 3</title>
+<simplesect role="exercise"><title>Exercise 4</title>
 
 <para>Translate the following questions.</para>
 
@@ -638,22 +713,25 @@ to x<subscript>2</subscript> in property/aspect x<subscript>3</subscript> (nu/ka
 </simplesect>
 
 
-<simplesect role="exercise"><title>Exercise 4</title>
+<simplesect role="exercise"><title>Exercise 5</title>
 
 <para>Translate from Lojban.</para>
 
 <note><para>On occasion, it is useful to give bits of non-Lojban in a
-Lojban text, without adjusting it to the Lojban interpretation of the
-alphabet. This could be because we don't want to distort a name too much by
+Lojban text, leaving it in its original spelling. This could be because 
+we don't want to distort a name too much by
 <quote role="socalled">Lojbanising</quote> it, or because we're actually
-inserting a phrase from another language into the language. In both cases,
-we have to give an unambiguous signal where the non-Lojban text finishes.
-To do this, non-Lojban is surrounded on either side by a Lojban word
+inserting a phrase from another language into the text. In both cases,
+we have to give an unambiguous signal where the non-Lojban text finishes,
+and the Lojban resumes.
+To do this, the non-Lojban is surrounded on either side by a Lojban word
 &mdash; any word, as long as it doesn't occur inside the non-Lojban text.
-The most popular choice is <foreignphrase lang="art-lojban">gy</foreignphrase>,
+The most popular choice is <foreignphrase lang="art-lojban">gy.</foreignphrase>,
 standing for <foreignphrase lang="art-lojban">glico</foreignphrase> <quote
 role="gloss">English</quote> (since that's where most non-Lojban text comes
-from.)</para><para>If the text is a name, it is preceded by <foreignphrase
+from these days.)</para>
+
+<para>If the text is a name, it is preceded by <foreignphrase
 lang="art-lojban">la'o</foreignphrase> instead of <foreignphrase
 lang="art-lojban">la</foreignphrase>. If it is a quotation, it is preceded by
 <foreignphrase lang="art-lojban">zoi</foreignphrase> instead of <foreignphrase
@@ -693,7 +771,7 @@ lang="art-lojban">.i la djiotis. semu'i cmoni cusku zoi gy. chootio! gy.</foreig
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para>Translate into Lojban.</para>
 
@@ -707,7 +785,7 @@ bathroom, so he cannot hear Jyoti.</para></listitem>
 <listitem><para>She says <quote>I shall now analyse the 47th creation (= composition) 
 of Jimmy Bob Bach with this mirror &mdash; because I can.</quote> (Hint: 
 use <foreignphrase lang="art-lojban">la'o</foreignphrase>.
-You can express <quote role="gloss">with</quote>; look at the vocabulary 
+You can come up with a word for <quote role="gloss">with</quote>; look at the vocabulary 
 list carefully...)</para></listitem>
 
 <listitem><para>Susan laughs, since Jyoti is as funny as Ranjeet. (Hint: use <foreignphrase
@@ -755,7 +833,15 @@ since economics is determined by human motives, not physical laws. Note
 that here the x<subscript>3</subscript> of <foreignphrase lang="art-lojban">mukti</foreignphrase> is not
 <quote role="gloss">prices</quote> (<foreignphrase lang="art-lojban">jdima</foreignphrase>) but
 those who increase the prices: manufacturers, retailers or the
-government.</para></listitem>
+government.</para>
+
+<note><para>This is actually a classic example of the <quote role="socalled">invisible
+hand</quote> phenomena so beloved of economists: the result is not an <emphasis>intended</emphasis>
+result of human activities, but comes about as a side-effect of them. The best
+<foreignphrase lang="art-lojban">sumti tcita</foreignphrase> for this is probably one we
+happened not to have covered here: <foreignphrase lang="art-lojban">seja'e</foreignphrase>
+<quote role="gloss">as a result of</quote> (from <foreignphrase lang="art-lojban">jalge</foreignphrase> <quote 
+role="gloss">result</quote>.)</para></note></listitem>
 
 </orderedlist></para>
 </simplesect>
@@ -790,7 +876,11 @@ lang="art-lojban">ri'a</foreignphrase>, meaning that the fact that the computer 
 running Linux physically prevents it from getting a virus, or you could
 possibly say <foreignphrase lang="art-lojban">ni'i</foreignphrase>, implying that
 it is an essential feature of Linux computers that they are immune to
-viruses.</para></listitem>
+viruses. (One can argue that Macintoshes are immune to viruses only <foreignphrase
+lang="art-lojban">ki'u</foreignphrase> their being Macs: they aren't inherently more
+secure than PCs, they just haven't been paid as much attention by crackers. This would
+of course be getting into geek wars; but we have a sneaking suspicion many of you will
+indeed be geeks...)</para></listitem>
 
 <listitem><para><foreignphrase lang="art-lojban">seki'u</foreignphrase>, whether
 or not you actually believe in Hell or the criteria for entering it. Note
@@ -807,6 +897,45 @@ lesson</link>.</para></listitem>
 </simplesect>
 
 <simplesect role="excanswer"><title>Exercise 3</title>
+
+<para><orderedlist>
+
+<listitem><para><foreignphrase lang="art-lojban">seri'abo</foreignphrase>: The door is not only
+logically preventing you from going inside; it is <emphasis>physically</emphasis> preventing you.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">seni'ibo</foreignphrase>: It logically follows from
+the definition of <quote role="gloss">lock</quote> that, if you lock a door, the door is then closed.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ba</foreignphrase>: there is no real causal connection between
+closing a door and leaving. You may be closing the door because you've finished your business there; but who's
+to say why you closed it, after all...</para></listitem>
+
+<listitem><para>Either <foreignphrase lang="art-lojban">je; babo</foreignphrase> or <foreignphrase 
+lang="art-lojban">babo; babo</foreignphrase>. The actions don't follow from each other logically or physically. (If they 
+follow at all, they follow by social convention; so you <emphasis>might</emphasis> have used <foreignphrase 
+lang="art-lojban">seki'ubo</foreignphrase>.) With the first pair, you're at least allowing that you saw me at the same 
+time I saw you. With the second pair, you definitely saw me after I saw you.</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">je</foreignphrase>; nothing. This is a syllogism like the Fluffy 
+syllogism above; it follows from the <emphasis>two</emphasis> facts &mdash; you greeting me and you being in front 
+of me &mdash; that you have seen me. (Well, it doesn't <emphasis>really</emphasis> follow, but this is a lesson
+on Lojban, not logic.) So you near to join the two facts together with AND. On the other hand, the
+<quote role="gloss">therefore</quote> is already there, as the <quote role="socalled">adverial</quote> 
+<foreignphrase lang="art-lojban">seni'i</foreignphrase>; so you don't need to insert it again for the third sentence. In 
+fact, as we'll discussed, it would join the wrong sentences together anyway...</para></listitem>
+
+<listitem><para><foreignphrase lang="art-lojban">ri'abo; ni'ibo</foreignphrase>. People fall as a physical result of 
+being pushed. The definition of <quote role="gloss">fall</quote> logically requires that someone who has fallen is
+lower down than someone who hasn't fallen. (You don't fall upwards. Zero-gravity counterexamples &mdash; and you'll
+make a good Lojbanist if you came up with one &mdash; are
+already anticipated in the x<subscript>4</subscript> place of 
+<foreignphrase lang="art-lojban">farlu</foreignphrase>!)</para></listitem>
+
+</orderedlist></para>
+</simplesect>
+
+
+<simplesect role="excanswer"><title>Exercise 4</title>
 <para><orderedlist>
 
 <listitem><para><foreignphrase lang="art-lojban">la djim. spebi'o la samantas.
@@ -840,13 +969,16 @@ lang="art-lojban">ni'i</foreignphrase>, I suppose!)</para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="excanswer"><title>Exercise 4</title>
+<simplesect role="excanswer"><title>Exercise 5</title>
 
 <para><orderedlist>
 
 <listitem><para>Ranjeet is silent while Susan requests a meal from the 
 carrier (= waiter), because (justification) he is polite and because he likes Susan's 
-voice.</para></listitem>
+voice. (Note the <foreignphrase
+lang="art-lojban">kei</foreignphrase>: only the first <foreignphrase
+lang="art-lojban">kei</foreignphrase> is absolutely necessary, and by now you should
+be able to work out why.)</para></listitem>
 
 <listitem><para>As a (physical) result, Jyoti can hear the ones sitting at
 the table to the right talking to each other. (<foreignphrase
@@ -866,7 +998,11 @@ table to the right.</para></listitem>
 Jyoti does not observe that Ranjeet behaves as resembling her in order to 
 mock (= Ranjeet is imitating her) (The logical cause in <foreignphrase
 lang="art-lojban">ni'i ku</foreignphrase> has been left out, but is presumably 
-the previous sentence.)</para></listitem>
+the previous sentence. Without the <foreignphrase
+lang="art-lojban">kei</foreignphrase>, the mocking would be associated with
+<foreignphrase lang="art-lojban">simsa</foreignphrase> rather than <foreignphrase
+lang="art-lojban">tarti</foreignphrase> &mdash; although there's ultimately isn't
+that much difference in meaning between the two.)</para></listitem>
 
 <listitem><para>Susan laughs, causing (motivating) Jyoti to turn to her.</para></listitem>
 
@@ -884,7 +1020,7 @@ role="socalled">tense</quote>.)</para></listitem>
 </orderedlist></para>
 </simplesect>
 
-<simplesect role="exercise"><title>Exercise 5</title>
+<simplesect role="exercise"><title>Exercise 6</title>
 
 <para><orderedlist>
 
