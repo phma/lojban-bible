@@ -222,30 +222,66 @@ matne li'u
 @c    `What a funny watch!' she remarked.  `It tells the day of the
 @c    month, and doesn't tell what o'clock it is!'
 
+i la alis pu ca'o kucli catlu ga'u le cycy janco i lu a'u xajmi junla
+li'u fi abu pinka i lu ue jy cusku le du'u le xokaumoi be le masti cu
+detri enai ku'i le du'u makau tcika li'u
+
+
 @c      `Why should it?' muttered the Hatter.  `Does YOUR watch tell
 @c    you what year it is?'
+
+i lu ma krinu le nu ei go'i li'u se cusku la mapypre i lu xu le ba'e 
+do junla cu cusku le du'u le xokaumoi nanca cu detri li'u
+
 
 @c      `Of course not,' Alice replied very readily:  `but that's
 @c    because it stays the same year for such a long time together.'
 
+i lu li'a na go'i li'u la alis se spuda co mutce sutra i lu i ku'i
+la'e di'u se krinu le nu ze'u stali fa le pa nanca li'u
+
+
 @c      `Which is just the case with MINE,' said the Hatter.
+
+i lu mi'u le me ba'e mimoi li'u se cusku la mapypre
+
 
 @c      Alice felt dreadfully puzzled.  The Hatter's remark seemed to
 @c    have no sort of meaning in it, and yet it was certainly English.
 @c    `I don't quite understand you,' she said, as politely as she
 @c    could.
 
+i la alis cinmo le ka mutce se cfipu i le pinka be fi la mapypre cu
+simlu le ka noda smuni ke'a kei gi'e ku'i ja'a lojbo i lu mi na mulno
+jimpe li'u abu se cusku rai le ka clite
+
+
 @c      `The Dormouse is asleep again,' said the Hatter, and he poured
 @c    a little hot tea upon its nose.
+
+i la mapypre cusku lu le sipsmacu za'ure'u sipna li'u gi'e falcru 
+piso'u glare tcati le my nazbi 
+
 
 @c      The Dormouse shook its head impatiently, and said, without
 @c    opening its eyes, `Of course, of course; just what I was going to
 @c    remark myself.'
 
+i le sipsmacu cu tolsurla desygau le stedu gi'e cusku secau le nu 
+kargau le kanla kei lu li'a li'a i di'usai pu'o pinka fi mi li'u 
+
+
 @c      `Have you guessed the riddle yet?' the Hatter said, turning to
 @c    Alice again.
 
+i lu xu do ba'o smadi tu'a le manci nabmi li'u la mapypre cu se cusku
+ca le nu za'ure'u farna la alis 
+
+
 @c      `No, I give it up,' Alice replied:  `what's the answer?'
+
+i lu na go'i i mi te jinga li'u la alis se spuda i lu ma danfu li'u
+
 
 @c      `I haven't the slightest idea,' said the Hatter.
 
