@@ -80,6 +80,8 @@ translation here.
 @node le fukpi, pamoi pagbu, Top, Top
 @chapter le fukpi
 
+Public domain.  Woot.
+
 @c Not done yet.
 
 @c ************

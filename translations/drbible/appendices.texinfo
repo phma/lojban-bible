@@ -1,4 +1,5 @@
 @node cimoi pagbu, , remoi pagbu, Top
+@chapter cimoi pagbu
 
 @c    THE NEW TESTAMENT OF OUR LORD AND SAVIOUR JESUS CHRIST
 

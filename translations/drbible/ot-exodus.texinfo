@@ -1,3 +1,6 @@
+@node papiremoi pagbu, , , pamoi pagbu
+@chapter papiremoi pagbu             [Book of Exodus]
+
 @c    THE BOOK OF EXODUS
 
 

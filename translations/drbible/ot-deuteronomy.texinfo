@@ -1,3 +1,6 @@
+@node papimumoi pagbu, , , pamoi pagbu
+@chapter papimumoi pagbu          [Book of Deuteronomy]
+
 @c    THE BOOK OF DEUTERONOMY
 KE'UFLA
 

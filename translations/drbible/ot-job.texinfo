@@ -1,3 +1,6 @@
+@node papirenomoi pagbu, , , pamoi pagbu
+@chapter papirenomoi pagbu           [Book of Job]
+
 @c    THE BOOK OF JOB
 
 

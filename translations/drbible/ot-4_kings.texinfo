@@ -1,3 +1,6 @@
+@node papiparemoi pagbu, , , pamoi pagbu
+@chapter papiparemoi pagbu [Fourth Book of Kings]
+
 @c    THE FOURTH BOOK OF KINGS
 
 

@@ -1,3 +1,6 @@
+@node papivomumoi pagbu, , , pamoi pagbu
+@chapter papivomumoi pagbu [First Book of Machabees]
+
 @c    THE FIRST BOOK OF MACHABEES
 
 

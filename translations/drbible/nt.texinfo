@@ -1,7 +1,34 @@
 @node remoi pagbu, cimoi pagbu, pamoi pagbu, Top
+@chapter remoi pagbu [The New Testament]
 
 @menu
 @c * repipamoi pagbu::	[Gospel According to St. Matthew]
+@c * repiremoi pagbu::	[Gospel According to St. Mark]
+@c * repicimoi pagbu::	[Gospel According to St. Luke]
+* repivomoi pagbu::	[Gospel According to St. John]
+* repimumoi pagbu::	[Acts of the Apostles]
+@c * repixamoi pagbu::	[Epistle of St. Paul to the Romans]
+@c * repizemoi pagbu::	[First Epistle of St. Paul to the Corinthians]
+@c * repibimoi pagbu::	[Second Epistle of St. Paul to the Corinthians]
+@c * repisomoi pagbu::	[Epistle of St. Paul to the Galatians]
+@c * repirenomoi pagbu::	[Epistle of St. Paul to the Ephesians]
+@c * repirepamoi pagbu::	[Epistle of St. Paul to the Philippians]
+@c * repireremoi pagbu::	[Epistle of St. Paul to the Colossians]
+@c * repirecimoi pagbu::	[First Epistle of St. Paul to the Thessalonians]
+@c * repirevomoi pagbu::	[Second Epistle of St. Paul to the Thessalonians]
+@c * repiremumoi pagbu::	[First Epistle of St. Paul to Timothy]
+@c * repirexamoi pagbu::	[Second Epistle of St. Paul to Timothy]
+@c * repirezemoi pagbu::	[Epistle of St. Paul to Titus]
+@c * repirebimoi pagbu::	[Epistle of St. Paul to Philemon]
+@c * repiresomoi pagbu::	[Epistle of St. Paul to the Hebrews]
+@c * repicinomoi pagbu::	[Catholic Epistle of St. James the Apostle]
+@c * repicipamoi pagbu::	[First Epistle of St. Peter the Apostle]
+@c * repiciremoi pagbu::	[Second Epistle of St. Peter the Apostle]
+@c * repicicimoi pagbu::	[First Epistle of St. John the Apostle]
+@c * repicivomoi pagbu::	[Second Epistle of St. John the Apostle]
+@c * repicimumoi pagbu::	[Third Epistle of St. John the Apostle]
+@c * repicixamoi pagbu::	[Catholic Epistle of St. Jude the Apostle]
+@c * repicizemoi pagbu::	[Apocalypse of St. John the Apostle]
 @end menu
 
 @c    THE NEW TESTAMENT OF OUR LORD AND SAVIOUR JESUS CHRIST

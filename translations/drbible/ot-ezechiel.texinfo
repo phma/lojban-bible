@@ -1,3 +1,6 @@
+@node papicipamoi pagbu, , , pamoi pagbu
+@chapter papicipamoi pagbu           [Prophecy of Ezechiel]
+
 @c    THE PROPHECY OF EZECHIEL
 
 

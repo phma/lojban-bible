@@ -1,3 +1,6 @@
+@node repivomoi pagbu, , , remoi pagbu
+@chapter repivomoi pagbu [Gospel According to St. John]
+
 @c    THE HOLY GOSPEL OF JESUS CHRIST ACCORDING TO ST. JOHN
 
 

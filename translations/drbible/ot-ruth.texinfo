@@ -1,3 +1,7 @@
+@node papibimoi pagbu, , , pamoi pagbu
+@chapter papibimoi pagbu             [Book of Ruth]
+
+
 @c    THE BOOK OF RUTH
 
 

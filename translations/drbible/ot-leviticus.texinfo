@@ -1,3 +1,6 @@
+@node papicimoi pagbu, , , pamoi pagbu
+@chapter papicimoi pagbu             [Book of Leviticus]
+
 @c    THE BOOK OF LEVITICUS
 JAVNRLEVI
 

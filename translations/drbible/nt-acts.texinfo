@@ -1,3 +1,6 @@
+@node repimumoi pagbu, , , remoi pagbu
+@chapter repimumoi pagbu [Acts of the Apostles]
+
 @c    THE ACTS OF THE APOSTLES
 
 LE SELZU'E BE LE NOTYJANSU
