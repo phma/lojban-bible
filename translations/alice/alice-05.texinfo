@@ -80,15 +80,23 @@ cinmo le milxe se cizra .i xu do tugni li'u
 @c      `Well, perhaps your feelings may be different,' said Alice;
 @c    `all I know is, it would feel very queer to ME.'
 
-lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis.
+lu .o'ocu'i pe'i do cnimo le drata sei la alis. cusku .i mi djuno
+ledu'u ba'e mi da'i cinmo le se cizra li'u
+
 @c      `You!' said the Caterpillar contemptuously.  `Who are YOU?'
+.i lu ba'e do ga'i sei le ciftoldi cu tolsi'a cusku .i do ba'e ma li'u
 
 @c      Which brought them back again to the beginning of the
 @c    conversation.  Alice felt a little irritated at the Caterpillar's
 @c    making such VERY short remarks, and she drew herself up and said,
 @c    very gravely, `I think, you ought to tell me who YOU are, first.'
+.i di'u xruti ra le krasi be le pu'u simtavla .i la .alis cu milxe fanza
+le nu le ciftoldi cu cusku le tcetordi pinka gi'e sanli zenba gi'e tcejunri
+cusku lu pe'i do .ei cusku le sedu'u ba'e do mo puku li'u
+
 
 @c      `Why?' said the Caterpillar.
+.i lu ki'u ma li'u se cusku le ciftoldi
 
 @c      Here was another puzzling question; and as Alice could not
 @c    think of any good reason, and as the Caterpillar seemed to be in
@@ -96,6 +104,7 @@ lu .o'ocu'i pe'i do cnimo le drata li'u se cusku la alis.
 
 @c      `Come back!' the Caterpillar called after her.  `I've something
 @c    important to say!'
+.i lu ko xruti ko sei le ciftoldi fa'a krixa .i mi le vajni .ei cu cusku li'u
 
 @c      This sounded promising, certainly:  Alice turned and came back
 @c    again.
@@ -273,6 +282,10 @@ lenu tulcti lo pagbu be le zunle cmalu
 @c    see, when she looked down, was an immense length of neck, which
 @c    seemed to rise like a stalk out of a sea of green leaves that lay
 @c    far below her.
+lu .ua le stedu be mi zifre li'u se cusku la .alis fi'o tonga le ka gleki
+poi bazi binxo le ka tepselspaji ca lenu facki le du'u na ka'e tolcri
+kei le janco .i .abu fa'ani'a catlu gi'e viska lo tcebra clani cnebo po'o
+poi stani simsa sanli le xamsi fi lo ni'azu crino pezli
 
 @c      `What CAN all that green stuff be?' said Alice.  `And where
 @c    HAVE my shoulders got to?  And oh, my poor hands, how is it I

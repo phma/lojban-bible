@@ -84,7 +84,7 @@ sezydicra kei pu le nu abu ca'o farlu fo lo condi mutce jinto
 
 i ga le jinto cu mutce le ka condi gi abu mutce le ka masno le nu farlu
 i ni'ibo le temci cu mutce banzu ca le nu farlu kei le nu catlu le sruri
-gi'e kucli le du'u makau bazi fasnu i pamai abu troci le nu catlu le 
+gi'e kucli le du'u makau bazi fasnu i pamai abu troci le nu catlu le
 cnita gi'e facki le du'u abu makau klama i ku'i dukse le ka manku kei
 le nu ka'e viska i remai abu catlu lei mlana be le jinto gi'e facki le
 du'u my culno loi kabri tanxe ku joi loi cukta kajna i abu viska loi
@@ -151,7 +151,7 @@ ti nuzlo gi'i sralo tosa'a abu troci le nu krorinsa kei ca le nu tavla
 i ko se xanri le nu krorinsa ca le nu farlu i pe'ipei do ka'e snada toi
 i ny ba jinvi le du'u mi toldjuno ke cmalu nixli kei le nu mi te preti
 i ei mi na te preti i ju'ocu'i mi viska cy noi ba'o ciska ke'a da li'u
-
+@c {abu za'ure'u} means "for the A>th time" and does not parse here.
 @c Antipodes are studukti, so how about snudukti? -phma
 
 @c      Down, down, down.  There was nothing else to do, so Alice soon

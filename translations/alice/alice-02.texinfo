@@ -85,6 +85,7 @@ i lu ei do ckeji sei la alis cusku i do barda nixli to ju'o drani toi
 i i'enai ca'o tai klaku i le'o ko ca sisti li'u i ku'i abu za'o klaku
 loi litce be li so'i ja'e le nu abu se sruri lo barda lalxu noi centre
 li ji'ipano le ka condi gi'e preja le xadba be le kumfa
+@c {tai klaku} does not parse. Neither does {taiku klaku}.
 
 @c      After a time she heard a little pattering of feet in the
 @c    distance, and she hastily dried her eyes to see what was coming.
@@ -101,15 +102,16 @@ li ji'ipano le ka condi gi'e preja le xadba be le kumfa
 
 i bazaku abu tirna lo nu cmalu stapa le darno gi'e sutra le ka sudgau
 lei kanla kei tezu'e le nu viska le nu makau klama i klama fa le blabi
-ractu noi xruti gi'e melbi dasni gi'e jgari lo blabi ke kanba gluta 
-remei fa'u lo barda bifpra le re xance i ry sutra bajra klama gi'e
-sezysku lu oi le noltroni'u zo'u ba'a ny ba cilce fengu va'o le nu mi 
-gasnu le nu ny denpa li'u i la alis cu tai cinmo le nu tolpacna kei 
+ractu noi xruti gi'e melbi dasni gi'e jgari lo blabi ke kanba gluta
+remei ku fa'u lo barda bifpra le re xance i ry sutra bajra klama gi'e
+sezysku lu oi le noltroni'u zo'u ba'a ny ba cilce fengu va'o le nu mi
+gasnu le nu ny denpa li'u i la alis cu tai cinmo le nu tolpacna kei
 ja'e le nu bredi le nu cpedu le nunsidju roda iseki'ubo ca le nu le
 ractu abu jibni kei abu co'a co'e sepi'o lo dizlo je toldarsi voksa
 lu pe'u doi ractu li'u i le ractu cu suksa se jenca gi'e falcru lei
 blabi ke kanba gluta e le bifpra gi'e bajra mo'ine'i le manku rai
 le ka sutra
+@c dizlo ki'a voksa?
 
 @c      Alice took up the fan and gloves, and, as the hall was very
 @c    hot, she kept fanning herself all the time she went on talking:
@@ -124,14 +126,14 @@ le ka sutra
 @c    them.
 
 i la alis cu lebna le bifpra e lei gluta gi'e co'a pilno by ki'u le nu
-le kumfa cu glare kei ze'a le nu ca'o cusku lu oi ue roda cizra ca le 
-cabdei i ca le purlamdei roda fadni fasnu i mi kucli le du'u xukau da 
+le kumfa cu glare kei ze'a le nu ca'o cusku lu oi ue roda cizra ca le
+cabdei i ca le purlamdei roda fadni fasnu i mi kucli le du'u xukau da
 galfi mi ca le nicte i ei mi pensi i xu mi mintu ca le nu mi cikna
 binxo ca le zi cerni i pe'iru'e ba'anai mi cinmo le nu mi frica milxe
 i ku'i va'o le nu mi na mintu kei jersi preti fa le du'u mi du makau
 i la'e di'u cu barda nabmi li'u i abu co'a pensi ro le verba poi ke'a
 abu slabu gi'e mintu le ka nanca ku'o tezu'e le nu jdice le du'u xukau
-cumki fa le nu galfi abu su'o vy 
+cumki fa le nu galfi abu su'o vy
 
 @c      `I'm sure I'm not Ada,' she said, `for her hair goes in such
 @c    long ringlets, and mine doesn't go in ringlets at all; and I'm
@@ -151,16 +153,16 @@ cumki fa le nu galfi abu su'o vy
 
 i lu ju'o mi na du la adas sei abu cusku ki'u le nu ge le abu kerfa cu
 clani sarlu gi le memimoi cu nasai sarlu i ji'a ju'o mi na du la mabel
-ki'u le nu ge mi djuno so'i vrici gi my y'y djuno lo tolmutce i ji'a 
-ge my du my gi mi du mi i oi ue roda cfipu i mi cipygau fi le ka ca 
-djuno roda poi mi pu djuno i pilji li vo li mu fa li pare i pilji li vo 
-li xa fa li paci i pilji li vo li ze i oi mi noroi ba snada tu'a li reno 
+ki'u le nu ge mi djuno so'i vrici gi my y'y djuno lo tolmutce i ji'a
+ge my du my gi mi du mi i oi ue roda cfipu i mi cipygau fi le ka ca
+djuno roda poi mi pu djuno i pilji li vo li mu fa li pare i pilji li vo
+li xa fa li paci i pilji li vo li ze i oi mi ba noroi snada tu'a li reno
 va'o le nu tai masno i ku'i le pilji porsi na vajni i e'u troci tu'a le
 tedyske i la londn raltca la paris i la paris raltca la romas i la romas
 sa la'e di'u naldrani ju'o i ju'o pu galfi mi la mabel i mi troci le nu
 cusku lu ua le cmalu li'u li'u i abu punji lei kruca xance lei tuple
-tai le nu cusku le se cilre kei gi'e co'a sitsku i ku'i le voksa cu se 
-sance lo rufsu je cizra i lei valsi na mintu le se tcaci 
+tai le nu cusku le se cilre kei gi'e co'a sitsku i ku'i le voksa cu se
+sance lo rufsu je cizra i lei valsi na mintu le se tcaci
 
 @c                `How doth the little crocodile
 @c                  Improve his shining tail,
@@ -200,17 +202,17 @@ sance lo rufsu je cizra i lei valsi na mintu le se tcaci
 @c    down!  I am so VERY tired of being all alone here!'
 
 i lu ju'o lei valsi na drani sei la alis uu cusku li'u i lei abu kanla
-cu za'ure'u tisna loi se klaku ca le nu di'a co'e lu ja'o mi du la 
+cu za'ure'u tisna loi se klaku ca le nu di'a co'e lu ja'o mi du la
 mabel i mi ba bilga le nu xabju le pindi ke cmalu zdani gi'e ponse
-ji'ino selkei gi'e oi cilre so'isai da i ai na go'i i mi mu'o jdice 
+ji'ino selkei gi'e oi cilre so'isai da i ai na go'i i mi mu'o jdice
 fi la'e di'u fe el du'u mi ganai du la mabel gi ti stali i noda de
 ba prali le nu de setca le de stedu gi'e cusku lu ko barkla doi dirba
 li'u i mi ba fa'aga'u catlu gi'e cusku lu ja'o mi ma du i pamai ko
 mi jungau la'e di'u ibabo va'o le nu mi nelci le nu mi makau du keikei
 mi barkla i va'o le nu mi na nelci kei mi ti denpa le nu mi drata li'u
-i ku'i oi sei la alis suksa klaku krica i au su'o da ca'a setca le da 
+i ku'i oi sei la alis suksa klaku krica i au su'o da ca'a setca le da
 stedu i mi tai titpa le nu mi ti nonkansa li'u
- 
+
 @c      As she said this she looked down at her hands, and was
 @c    surprised to see that she had put on one of the Rabbit's little
 @c    white kid gloves while she was talking.  `How CAN I have done
@@ -227,7 +229,7 @@ gluta pe le ractu ze'a le nu tavla i lu va'o ma mi ka'e gasnu la'e di'u
 sei abu pensi i ja'u mi za'ure'u jdika le ka barda li'u i abu sa'irbi'o
 gi'e klama le jubme tezu'e le nu sezmerli fi jy kei gi'e facki le du'u
 ru'akau abu ca centre li ji'imuno gi'e sutra le nu ca'o jdika i abu bazi
-facki le du'u rinka la'e di'u fa le nu jgari le bifpra kei kei gi'e 
+facki le du'u rinka la'e di'u fa le nu jgari le bifpra kei kei gi'e
 sutra falcru by puzi le nu mu'osai jdika
 
 @c    `That WAS a narrow escape!' said Alice, a good deal frightened at
@@ -275,7 +277,7 @@ li repimu
 @c    suppose, by being drowned in my own tears!  That WILL be a queer
 @c    thing, to be sure!  However, everything is queer to-day.'
 
-i lu au mi na pu klaku lo tai mutce sei la alis ca le nu limna gi'e 
+i lu au mi na pu klaku lo tai mutce sei la alis ca le nu limna gi'e
 troci le nu tolcri lo bartu pluta cu cusku i ru'a sfasa mi la'e di'u
 le nu mrobi'o jinru lei mi se klaku i ju'o la'e di'u ba cizra i ku'i
 roda cizra ca le cabdei li'u
@@ -290,7 +292,7 @@ i caku abu tirna le nu da jaurjanli bu'u le lalxu zaku i abu jbize'a
 limna tezu'e le nu zgana le nu da mokau i pamai abu jinvi le du'u da
 odbenu ja rirxyxirma i ku'i remai abu morji le nu abu makau ca mitre
 kei gi'e bazi viska le nu da smacu po'oru'e gi'e mintu abu le ka pu
-sakli 
+sakli
 
 @c      `Would it be of any use, now,' thought Alice, `to speak to this
 @c    mouse?  Everything is so out-of-the-way down here, that I should
@@ -307,10 +309,10 @@ sakli
 i lu xu da mi prali sei la alis pensi le nu tavla le vi smacu i roda
 bu'u le cnita cu tai tolfadni ja'e le nu pe'i lakne fa le nu ta ka'e
 tavla iseju noda mi tolprali le nu troci li'u iseki'ubo abu co'a co'e
-lu doi smacu xu do se slabu le pluta be le bartu be le bu'u lalxu i 
+lu doi smacu xu do se slabu le pluta be le bartu be le bu'u lalxu i
 mi mutce le ka tatpi le nu ru'u limna doi smacu li'u to la alis pu
 jinvi le du'u ju'okau ta drani le ka tadji nu tavla lo smacu i abu
-noroi pu zukte lo simsa gi'eku'i morji le nu tcidu fi le latmo gerna 
+noroi pu zukte lo simsa gi'eku'i morji le nu tcidu fi le latmo gerna
 cukta pe le bruna fe lo'u lo smacu -- sera'a lo smacu -- seka'a lo smacu
 -- lo smacu -- doi smacu le'u i le smacu cu terpreti mutce catlu abu
 gi'e simlu le ka rinsa fi le nu ze'i ga'orgau pa le cmalu kanla i ku'i
@@ -337,6 +339,7 @@ smacu cu suksa plipe le bartu be le djacu gi'e simlu le ka desku le
 nu terpa i lu oise'i ko mi fraxu sei la alis noi xersmadi le du'u abu
 crogau le danlu le cnirango cu sutra krixa i mi mulno le ka tolmorji
 le nu do na nelci lo'e mlatu li'u
+@c {abu za'ure'u} is an error.
 
 @c      `Not like cats!' cried the Mouse, in a shrill, passionate
 @c    voice.  `Would YOU like cats if you were me?'
@@ -411,9 +414,9 @@ ka vlipa gi'e mutce le ka kalsygau le lalxu ca le nu klama
 @c    the shore, and then I'll tell you my history, and you'll
 @c    understand why it is I hate cats and dogs.'
 
-i abu xutla trisku lu doi smacu dirba ko za'ure'u xruti i nu'edo'u 
+i abu xutla trisku lu doi smacu dirba ko za'ure'u xruti i nu'edo'u
 mi'o na ba casnu genai lo'e mlatu ginaiji'a lo'e gerku va'o le nu
-do na nelci li'u i ca le nu le smacu di'u tirna kei sy dutselfarbi'o 
+do na nelci li'u i ca le nu le smacu di'u tirna kei sy dutselfarbi'o
 gi'e masno limna xruti abu i le flira cu mutce le ka blabi to ja'e le
 nu cinmo sei la alis pensi toi i sy dizlo je desku voksa cusku lu e'u
 mi'o klama le korbi ibabo mi do tavla le mi lisri i do ba jimpe le du'u
