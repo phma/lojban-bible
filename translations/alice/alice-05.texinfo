@@ -32,10 +32,18 @@ so'oroi je puza ze'aca binxo
 @c      `What do you mean by that?' said the Caterpillar sternly.
 @c    `Explain yourself!'
 
+.i lu ma smuni di'u li'u se cusku .o'onairu'edai ga'idai le ciftoldi fa lu
+ko ko ciksi li'u
+
 @c      `I can't explain MYSELF, I'm afraid, sir' said Alice, `because
 @c    I'm not myself, you see.'
 
+.i lu mi na kakne le nu ciksi mi .i .u'u ga'inai li'u se cusku la alis.
+fa lu .iki'ubo le ka mi na du mi ku do se ganse li'u
+
 @c      `I don't see,' said the Caterpillar.
+
+.i lu mi na ganse li'u se cusku le ciftoldi
 
 @c      `I'm afraid I can't put it more clearly,' Alice replied very
 @c    politely, `for I can't understand it myself to begin with; and
