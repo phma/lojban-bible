@@ -207,18 +207,35 @@ le jitfa cakyrespa cu masno je badri mutce sanga di'e
 @c    Alice, feeling very glad that it was over at last:  `and I do so
 @c    like that curious song about the whiting!'
 
+i lu ki'e i le nu dansu cu mutce le ka jai cinri fai le nu catlu sei
+la alis noi mutce gleki le nu uo mulno cu cusku i mi ja'asai nelci
+le cinri selsanga be sera'a le labyfi'e li'u
+
 @c      `Oh, as to the whiting,' said the Mock Turtle, `they--you've
 @c    seen them, of course?'
 
+i lu a'a le labyfi'e zo'u sei le jitfa cakyrespa cu cusku ly to do
+ly pu ca'a viska li'apei toi li'u
+
 @c      `Yes,' said Alice, `I've often seen them at dinn--' she
 @c    checked herself hastily.
+
+i lu go'i sei la alis cusku i mi ly so'iroi viska vi le sairpaln-
+sei abu sutra sezydicra li'u
 
 @c      `I don't know where Dinn may be,' said the Mock Turtle, `but
 @c    if you've seen them so often, of course you know what they're
 @c    like.'
 
+i lu mi na djuno le du'u la sairpaln makau zvati sei le jitfa cakyrespa
+cu cusku i ku'i va'o le nu do ly tai so'iroi viska kei se slabu le nu
+makau ly jvinu li'u
+
 @c      `I believe so,' Alice replied thoughtfully.  `They have their
 @c    tails in their mouths--and they're all over crumbs.'
+
+i lu ia sei la alis pensi spuda le ly rebla cu nenri le ly moklu i ly
+cpana loi nabyspi li'u 
 
 @c      `You're wrong about the crumbs,' said the Mock Turtle:
 @c    `crumbs would all wash off in the sea.  But they HAVE their tails
@@ -226,18 +243,37 @@ le jitfa cakyrespa cu masno je badri mutce sanga di'e
 @c    yawned and shut his eyes.--`Tell her about the reason and all
 @c    that,' he said to the Gryphon.
 
+i lu do srera tu'a lei nabyspi sei le jitfa cakyrespa cu cusku i loi
+nabyspi cu se jisybi'o va'o le nu jinru le xamsi i ku'i le ly rebla 
+ja'a nenri le ly moklu i krinu la'e di'u fa sei caku le jitfa cakyrespa
+cu sipcmo gi'e kanla ga'orgau i ko ta tavla le krinu e ro srana sei
+fi le cpicinfo cu cusku li'u 
+
 @c      `The reason is,' said the Gryphon, `that they WOULD go with
 @c    the lobsters to the dance.  So they got thrown out to sea.  So
 @c    they had to fall a long way.  So they got their tails fast in
 @c    their mouths.  So they couldn't get them out again.  That's all.'
 
+i lu krinu fa sei le cpicinfo le nu ly ja'a kansa le xasyjiknu le nu
+dansu i seki'ubo ly se renro fi le xamsi i seki'ubo ly farlu lo darno
+i seki'ubo ly carmi setca le rebla le moklu i seki'ubo ly ka'enai
+tolsetca i uo li'u
+
 @c      `Thank you,' said Alice, `it's very interesting.  I never knew
 @c    so much about a whiting before.'
+
+i lu ki'e sei la alis cusku i cinri mutce i mi pu noroi djuno lo tai 
+mutce lo labyfi'e li'u
 
 @c      `I can tell you more than that, if you like,' said the
 @c    Gryphon.  `Do you know why it's called a whiting?'
 
+i lu do'a mi do ka'e tavla lo se jmina sei le cpicinfo i xu do djuno
+le du'u makau krinu le nu zo labyfi'e cmene li'u
+
 @c      `I never thought about it,' said Alice.  `Why?'
+
+i lu mi la'e di'u noroi pensi sei la alis cusku i ma krinu li'u 
 
 @c      `IT DOES THE BOOTS AND SHOES.' the Gryphon replied very
 @c    solemnly.
