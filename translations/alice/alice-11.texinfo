@@ -1,12 +1,12 @@
 @node    papamo'o, paremo'o, panomo'o, Top
-@chapter papamo'o ma zerle'a le djataurte
+@chapter papamo'o ma zerle'a lei rutytisna
 
 
 @c                               CHAPTER XI
                                papamo'o ckupau
 
 @c                          Who Stole the Tarts?
-                          ma zerle'a le djataurte
+                          ma zerle'a lei rutytisna
 
 @c      The King and Queen of Hearts were seated on their throne when
 @c    they arrived, with a great crowd assembled about them--all sorts
@@ -21,10 +21,27 @@
 @c    to be no chance of this, so she began looking at everything about
 @c    her, to pass away the time.
 
+i le risna noltrunau e le risna noltruni'u cu zutse le vo'a nolstizu
+ca le nu tolcliva i lo barda premei cu jmaji le sruri i ro klesi be 
+lei cmalu cipni joi danlu be'o e ji'a le karda romei i le nolse'u cu
+sanli ca'u le remei gi'e se rinju lo linsi gi'e jbini lo sonci remei
+noi fanta i jibni le noltrunau fa le blabi ractu noi jgari nu'i ge 
+lo tabra lo xance gi lo skapi te ciska clanu le drata i satci midju 
+le kumfa fa lo jubme noi se cpana lo barda palne be loi rutytisna noi 
+tai xamgu se jvinu ja'e le nu la alis xagji ri'a le nu catlu i lu au 
+mulgau le nunpai sei abu pensi gi'e fairgau le cidja li'u i ku'i la'e 
+di'u simlu le ka na lakne i seki'ubo abu co'a catlu ro sruri be abu 
+tezu'e le nu le temci cu canlu     
+
 @c      Alice had never been in a court of justice before, but she had
 @c    read about them in books, and she was quite pleased to find that
 @c    she knew the name of nearly everything there.  `That's the
 @c    judge,' she said to herself, `because of his great wig.'
+
+i la alis pu noroi zvati lo nunpai kumfa gi'e ku'i pu ca'a tcidu lo
+srana be ky loi cukta gi'e se pluka le nu facki le du'u djuno le du'u
+makau cmene so'a zvati i lu ta pajni sei abu sezysku ki'u le nu ta
+dasni lo barda krebasti li'u
 
 @c      The judge, by the way, was the King; and as he wore his crown
 @c    over the wig, (look at the frontispiece if you want to see how he
