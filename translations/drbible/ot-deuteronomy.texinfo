@@ -1,6 +1,9 @@
 @c    THE BOOK OF DEUTERONOMY
+KE'UFLA
 
+.iva'i
 
+DI'E VALSI
 
 @c    This Book is called DEUTERONOMY, which signifies a SECOND LAW, because
 @c    it repeats and inculcates the ordinances formerly given on mount Sinai,
@@ -19,6 +22,9 @@
 @c    Jordan, in the plain wilderness, over against the Red Sea, between
 @c    Pharan and Thophel and Laban and Haseroth, where there is very much
 @c    gold.
+1:1. ni'oni'o di'e valsi co se cusku la moces. ro la .isra,EL. ze'o la .iarDEN. ne'i
+le xa'urcau po'u la .araVAT. te'e la suf. bu'u la paRAN. bi'i ke la toFEL.
+joi la lyVAN. joi la xatseROT. joi la diza'AV.
 
 @c    1:2. Eleven days' journey from Horeb by the way of mount Seir to
 @c    Cadesbarne.
@@ -1608,12 +1614,18 @@
 
 @c    14:4. These are the beasts that you shall eat, the ox, and the sheep,
 @c    and the goat,
+14:4. lo mabru zo'u do se curmi citka lo'e bakni .e lo'e lanme .e lo'e kanba
 
 @c    14:5. The hart and the roe, the buffle, the chamois, the pygarg, the
 @c    wild goat, the camelopardalus.
+14:5. .e lo'e mirli .e lo'e dorkada .e lo'e jaxmoru .e lo'e bajbakni .e lo'e
+baknrto .e lo'e .antilope .e lo'e djirafa
+@c {jaxmoru} and {baknrto} are placeholders
 
 @c    14:6. Every beast that divideth the hoof in two parts, and cheweth the
 @c    cud, you shall eat.
+14:6. .i ga ge lo sufti be da cu se pagbu re da  gi da xejzalvi lo se toltu'o ginai ko
+citka da
 
 @c    14:7. But of them that chew the cud, but divide not the hoof, you shall
 @c    not eat, such as the camel, the hare, and the cherogril:  because they
@@ -1630,24 +1642,37 @@
 @c    they are unclean.
 
 @c    14:11. All birds that are clean you shall eat.
+14:11. ni'o ro cipni poi jinsa zo'u do citka
 
 @c    14:12. The unclean eat not:  to wit, the eagle, and the grype, and the
 @c    osprey,
+14:12. .i la'edi'e na se citka ko .i ro cipnrxakuila .e ro vultura .e ro
+cipnrxalieto
 
 @c    14:13. The ringtail, and the vulture, and the kite according to their
 @c    kind:
+14:13. .e ro cipnrgupa .e ro falkone .e ro cipnrdaia be da
+
+PIKTCITA. le vi liste cu bu'u frica le liste vi le 11moi be la javnrlevi
+le lerpoi be fi so'u valsi .i cumki srera
 
 @c    14:14. And all of the raven's kind:
+14:14. .e ro cipnrkorvo be da
 
 @c    14:15. And the ostrich, and the owl, and the larus, and the hawk
 @c    according to its kind:
+14:15. .e ro strutione .e ro glauka .e ro cipnrlaro .e ro .akcipitro be da
 
 @c    14:16. The heron, and the swan, and the stork,
+14:16. .e ro cipnrkosu .e ro cipnrjancufu
 
 @c    14:17. And the cormorant, the porphirion, and the night crow,
+14:17. .e ro fipydaklycpi .e ro cipnrvispreda .e ro flakrokoraka
 
 @c    14:18. The bittern, and the charadrion, every one in their kind:  the
 @c    houp also and the bat.
+14:18. .e ro cipnrkikonia .e ro cipnrxarde'a be da .e ro cipnrpupupa .e ro
+volmabru
 
 @c    14:19. Every thing that creepeth, and hath little wings, shall be
 @c    unclean, and shall not be eaten.

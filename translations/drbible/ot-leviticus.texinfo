@@ -1,6 +1,10 @@
 @c    THE BOOK OF LEVITICUS
+JAVNRLEVI
 
+.iva'i
 
+KIXSKU
+@c anyone have a better word for "call" in this context?
 
 @c    This Book is called LEVITICUS, because it treats of the Offices,
 @c    Ministries, Rites and Ceremonies of the Priests and Levites.  The
@@ -1060,12 +1064,12 @@ citka da
 @c    11:4. But whatsoever cheweth indeed the cud, and hath a hoof, but
 @c    divideth it not, as the camel, and others:  that you shall not eat, but
 @c    shall reckon it among the unclean.
-11:4. .iku'i ganai ge da xejzalvi lo se toltu'o ginai lo sufti be da cu relselpau
-mu'a lo kumte gi do na citka da gi'e da toljinsa ga'a do
+11:4. .iku'i ganai ge da xejyzalvi lo se toltu'o ginai lo sufti be da cu relselpau
+tomu'a lo kumte toi gi do na citka da gi'e da toljinsa ga'a do
 
 @c    11:5. The cherogrillus which cheweth the cud, but divideth not the
 @c    hoof, is unclean.
-11:5. .i ro mabrlxirake cu xejzalvi lo se toltu'o gi'enai relselpau se sufti
+11:5. .i ro mabrlxirake cu xejyzalvi lo se toltu'o gi'enai relselpau se sufti
 gi'eni'ibo toljinsa ga'a do
 
 @c    The cherogrillus. . .Some suppose it to be the rabbit, others the
@@ -1084,7 +1088,7 @@ PIKTCITA. .i ro ractu cu ta'e citka le kalci be vo'a be'o noi pe'a toltu'o
 
 @c    11:7. And the swine, which, though it divideth the hoof, cheweth not
 @c    the cud.
-11:7. .i ro xarju cu relselpau se sufti gi'enai xejzalvi lo se toltu'o
+11:7. .i ro xarju cu relselpau se sufti gi'enai xejyzalvi lo se toltu'o
 gi'eni'ibo toljinsa ga'a do
 
 @c    11:8. The flesh of these you shall not eat, nor shall you touch their
@@ -1124,14 +1128,14 @@ vultura .e ro cipnrxalieto
 @c    common.
 
 @c    11:14. And the kite, and the vulture, according to their kind.
-11:14. .e ro cipnrgupa .e ro falkone be roda
+11:14. .e ro cipnrgupa .e ro falkone be da
 
 @c    11:15. And all that is of the raven kind, according to their likeness.
-11:15. .e ro cipnrkorvo be roda
+11:15. .e ro cipnrkorvo be da
 
 @c    11:16. The ostrich, and the owl, and the larus, and the hawk according
 @c    to its kind.
-11:16. .e ro cipnrbatiana .e ro glauka .e ro cipnrlaro .e ro .akcipitro be roda
+11:16. .e ro strutione .e ro glauka .e ro cipnrlaro .e ro .akcipitro be da
 
 @c    11:17. The screech owl, and the cormorant, and the ibis.
 11:17. .e ro cipnrkosu .e ro flakrokoraka .e ro cipnrjancufu
@@ -1144,7 +1148,7 @@ vultura .e ro cipnrxalieto
 
 @c    11:19. The heron, and the charadroin according to its kind, the houp
 @c    also, and the bat.
-11:19. .e ro cipnrkikonia .e ro cipnrxarde'a .e ro cipnrpupupa .e ro volmabru
+11:19. .e ro cipnrkikonia .e ro cipnrxarde'a be da .e ro cipnrpupupa .e ro volmabru
 
 @c    11:20. Of things that fly, whatsoever goeth upon four feet, shall be
 @c    abominable to you.

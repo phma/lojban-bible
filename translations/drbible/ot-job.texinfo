@@ -3201,36 +3201,49 @@
 @c    comprehend his power and wisdom.
 
 @c    38:1. Then the Lord answered Job out of a whirlwind, and said:
+38:1. ni'o la .iaves. to'o le vilbi'e cu spuda be tu'a la .i,OV. cusku lu
 
 @c    The Lord.  That is, an angel speaking in the name of the Lord.
 
 @c    38:2. Who is this that wrappeth up sentences in unskilful words?
+38:2. ma vi te mangu'i le <`etsah> lei juncau valsi?
 
 @c    38:3. Gird up thy loins like a man:  I will ask thee, and answer thou
 @c    me.
+38:3. .i ko tatygau le befsri tai lo'e vlinau .i mi terpreti fo do .ije
+ko jungau mi
 
 @c    38:4. Where wast thou when I laid the foundations of the earth?  tell me
 @c    if thou hast understanding.
+38:4. ni'o do zvati ma ca le terdi krazba? .i ko cusku le se jimpe
 
 @c    38:5. Who hath laid the measures thereof, if thou knowest or who hath
 @c    stretched the line upon it?
+38:5. .i ma cimde platu ty to xu do djuno toi .i ma ty skori merli?
 
 @c    38:6. Upon what are its bases grounded?  or who laid the corner stone
 @c    thereof,
+38:6. .i le ty zbepi ma cu vreta? .i ma punji le ty manri rokci?
 
 @c    38:7. When the morning stars praised me together, and all the sons of
 @c    God made a joyful melody?
+38:7. ca lenu lei cerni tarci cu slagleki .ije ro cevni bersa cu girsanga kei
 
 @c    38:8. Who shut up the sea with doors, when it broke forth as issuing
 @c    out of the womb:
+38:8. .i ga'orgau le re vorme fo le xamsi noi pojli'a le xy gutra
 
 @c    38:9. When I made a cloud the garment thereof, and wrapped it in a mist
 @c    as in swaddling bands?
+38:9. .i mi taxygau le dilnu xy gi'e sruro dasygau le xamsi fi le bumru
 
 @c    38:10. I set my bounds around it, and made it bars and doors:
+38:10. .i mi jitygau fi xy gi'e punji le xy garna le re vorme
 
 @c    38:11. And I said:  Hitherto thou shalt come, and shalt go no further,
 @c    and here thou shalt break thy swelling waves.
+38:11. .i mi cusku lu ko fe'epu'o klama gi'enai vy pagre .i le punli boxna
+be ko cu vi porpi li'u
 
 @c    38:12. Didst thou since thy birth command the morning, and shew the
 @c    dawning of the day its place?
