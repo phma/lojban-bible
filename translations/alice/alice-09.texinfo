@@ -122,6 +122,7 @@ i lu ju'o do pensi sezretsku le du'u makau krinu le nu mi na srupunji
 le mi birka le do xadmidju sei ba lo nundenpa le noltroni'u cu cusku 
 i krinu fa le nu mi na'e lacri le do xagycpi le nu tarti i e'upei mi
 troci le nu cipra li'u
+@c do skudji zo xagycpi ji zo fagypci? mi'e pier
 
 @c      `HE might bite,' Alice cautiously replied, not feeling at all
 @c    anxious to have the experiment tried.
