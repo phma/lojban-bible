@@ -12,6 +12,11 @@
 @c    fur clinging close to them, and all dripping wet, cross, and
 @c    uncomfortable.
 
+i je'u cizra simlu gunma co jmaji le se rirxe i lei cipni zo'u
+seke dandu pimlu i lei danlu zo'u seke kerfa co snipa le
+jibni be dy ije le romei zo'u cilmo carmi gi'e fengu
+gi'e na'e kufra
+
 @c      The first question of course was, how to get dry again:  they
 @c    had a consultation about this, and after a few minutes it seemed
 @c    quite natural to Alice to find herself talking familiarly with
@@ -22,6 +27,15 @@
 @c    and, as the Lory positively refused to tell its age, there was no
 @c    more to be said.
 
+i le pamoi co preti cu li'a du'u ta'i makau rere'u sudga i casnu la'edi'u
+ije zi lo mentu be li so'u ba simlu le ka rarna kei fa le nu la alis
+goi ko'a cu facki le du'u ko'a pendo tavla ra setaida'i le nu
+ko'a se slabu ra roroi le nu ko'a jmive i je'u ko'a pu je'aze'u daupro
+la loris noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
+junmau li'u po'o ije la'edi'u zo'u la alis na curmi secau le nu
+djuno le du'u ly jai nanca makau ije ji'u le nu la loris cu je'a tolsarxe
+le nu cusku le du'u makau se jai nanca ly na se sumji se cusku
+
 @c      At last the Mouse, who seemed to be a person of authority among
 @c    them, called out, `Sit down, all of you, and listen to me!  I'LL
 @c    soon make you dry enough!'  They all sat down at once, in a large
@@ -29,12 +43,24 @@
 @c    anxiously fixed on it, for she felt sure she would catch a bad
 @c    cold if she did not get dry very soon.
 
+i uo la smacu noi simlu co catni ra cu krixa lu ko zutse doi rodo
+gi'e tinju'i mi i ba'e mi cu bazi sudgau je'u do li'u i le romei cu
+zutse caze'iku gi'e djine co se midju la smacu i la alis ca'o xanka catlu
+sy ki'u le nu ko'a birti le du'u co'a bilma bai le nu na sudbi'o baziku
+
 @c      `Ahem!' said the Mouse with an important air, `are you all ready?
 @c    This is the driest thing I know.  Silence all round, if you please!
 @c    "William the Conqueror, whose cause was favoured by the pope, was
 @c    soon submitted to by the English, who wanted leaders, and had been
 @c    of late much accustomed to usurpation and conquest.  Edwin and
 @c    Morcar, the earls of Mercia and Northumbria--"'
+
+i lu ta'a sei la smacu cu vajni simlu cusku xu ro do bredi i la'edi'e
+cu sudrai lo'i se slabu be mi i ro ko smaji e'o i lu la uiliam poi
+jamji'a ku noi se nelcu'a la papas cu pukiku bazi trubi'o loi glepre
+ku noi ke'a turni djica gi'e puziku mutce co se slabu le nu trubasti je 
+jamji'a i la eduin joi la morkar goi lei turni be la mersias fa'u 
+la nortumbrias li'u
 
 @c      `Ugh!' said the Lory, with a shiver.
 
