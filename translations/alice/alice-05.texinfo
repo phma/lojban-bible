@@ -177,6 +177,25 @@ i la alis polje lei xance gi'e co'a co'e di'e
 @c        But, now that I'm perfectly sure I have none,
 @c          Why, I do it again and again.'
 
+@format
+
+      do tolci'o doi paf sei le citnau cu cusku
+      i le kerfa be do ca'a blabi
+      i ku'i do ru'i lolsanli le stedu
+      i do jinvi xu le du'u drani
+
+      i ca le mi nuncitno sei la uiliam spuda
+      mi terpa le nu mi se benxai 
+      i caku ju'osai mi noda se besna    
+      i uisai mi ka'e roroi co'e
+
+      i le citnau cu cusku do ke'u tolci'o
+      gi'e ba'o binxo lo plana
+      i ku'i do plipe puzi vi le vorme
+      i ma krinu le nu ka'e go'i
+
+@end format      
+
 @c        `You are old,' said the youth, `as I mentioned before,
 @c          And have grown most uncommonly fat;
 @c        Yet you turned a back-somersault in at the door--
