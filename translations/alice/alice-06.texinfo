@@ -507,19 +507,39 @@ canci
 @c    this, she looked up, and there was the Cat again, sitting on a
 @c    branch of a tree.
 
+i la alis ze'i denpa gi'e xadba pacna lo'e nu za'ure'u viska my 
+i ku'i my na tolcanci i baku za lo mentu be paji'ire abu di'a cadzu
+fa'a le se cusku se xabju be le cibmasti cicyractu i lu mi pu viska
+lo'e mapypre sei abu sezysku i le cibmasti cicyractu cu mutce zmadu 
+fi le ka cinri i la'acu'i ki'u le du'u ca vonmasti kei cycy na traji 
+fenki i su'omai na tai fenki du'i le nu no'a ca le cibmasti li'u i
+ca le nu abu cusku di'u kei abu fa'aga'u catlu i le mlatu cu za'ure'u
+zvati gi'e zutse lo jimca be lo tricu
+
 @c      `Did you say pig, or fig?' said the Cat.
 .i lu do cusku zo xarju ji zo narju li'u se cusku le mlatu
 
 @c      `I said pig,' replied Alice; `and I wish you wouldn't keep
 @c    appearing and vanishing so suddenly:  you make one quite giddy.'
 
+i lu mi pu cusku zo xarju sei la alis spuda i au do na za'o suksa 
+canci je tolcanci i do gasnu le nu mutce le ka se cfipu li'u
+
 @c      `All right,' said the Cat; and this time it vanished quite slowly,
 @c    beginning with the end of the tail, and ending with the grin,
 @c    which remained some time after the rest of it had gone.
 
+i lu je'e sei le mlatu cu cusku li'u i caku my masno mutce canci 
+co'a le fanmo be le rebla co'u le nu cisma noi ze'a renvi ba le nu
+le drata pagbu ba'o klama 
+
 @c      `Well!  I've often seen a cat without a grin,' thought Alice;
 @c    `but a grin without a cat!  It's the most curious thing I ever
 @c    saw in my life!'
+
+i lu ue mi so'iroi viska lo mlatu pe secau lo'e nu cisma sei la alis
+pensi i ku'i lo nu cisma pe secau lo'e mlatu i traji le ka cizra kei
+lei se viska be mi bei ze'e le nu mi jmive li'u
 
 @c      She had not gone much farther before she came in sight of the
 @c    house of the March Hare:  she thought it must be the right house,
