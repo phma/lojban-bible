@@ -84,7 +84,7 @@ i xu do cusku li'u
 
 @c      `Not I!' said the Lory hastily.
 
-i lu mi na go'i sei la cipnrlori sutra co cusku li'u
+i lu mi na go'i sei la cipnrlori cu sutra co cusku li'u
 
 @c      `I thought you did,' said the Mouse.  `--I proceed.  "Edwin and
 @c    Morcar, the earls of Mercia and Northumbria, declared for him:
