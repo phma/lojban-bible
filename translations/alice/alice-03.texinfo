@@ -123,6 +123,8 @@ lu lu facki fi da fe le du'u se djica fa le nu kansa la edgar atelin le nu
 @c Sorry, bad translation, added it. -adam
 penmi la uiliam gi'e friti fi ubu fe le nu turni i le nuntra be la uiliam
 ca le nu cfari cu fadni i ku'i le nuntolclite be lai norman ne ubu li'u 
+@c Should be "lei se natmrnormane" or the like. "lai norman" means
+@c a mass of people named Norman. -phma
 i pei doi do iu sei sy ca'o cusku jecabo carcra be la alis li'u
 
 @c      `As wet as ever,' said Alice in a melancholy tone:  `it doesn't
