@@ -594,23 +594,23 @@
  ni'e      NIhE     selbri to operand                         convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen
  ni'o      NIhO     new topic                                 discursive: paragraph break; introduce new topic
  no'i      NIhO     old topic                                 discursive: paragraph break; resume previous topic
- voi       NOI      descriptive clause                        non-veridical restrictive clause used to form complicated le-like descriptions using "ke'a"
- noi       NOI      incidental clause                         non-restrictive relative clause; attaches subordinate bridi with incidental information
- poi       NOI      restrictive clause                        restrictive relative clause; attaches subordinate bridi with identifying information to a sumti
- ni        NU       amount abstract                           abstractor: quantity/amount abstractor; x1 is quantity/amount of [bridi] measured on scale x2
- du'u      NU       bridi abstract                            abstractor: predication/bridi abstractor; x1 is predication [bridi] expressed in sentence x2
- si'o      NU       concept abstract                          abstractor: idea/concept abstractor; x1 is x2's concept of [bridi]
- nu        NU       event abstract                            abstractor: generalized event abstractor; x1 is state/process/achievement/activity of [bridi]
- li'i      NU       experience abstract                       abstractor: experience abstractor; x1 is x2's experience of [bridi] (participant or observer)
- ka        NU       property abstract                         abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by [bridi]
- jei       NU       truth abstract                            abstractor: truth-value abstractor; x1 is truth value of [bridi] under epistemology x2
- su'u      NU       unspecif abstract                         abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstraction of type x2
+ voi       NOI      cláusula descriptiva                      non-veridical restrictive clause used to form complicated le-like descriptions using "ke'a"
+ noi       NOI      cláusula incidental                       non-restrictive relative clause; attaches subordinate bridi with incidental information
+ poi       NOI      cláusula restrictiva                      restrictive relative clause; attaches subordinate bridi with identifying information to a sumti
+ ni        NU       cantidad                                  abstractor: quantity/amount abstractor; x1 is quantity/amount of [bridi] measured on scale x2
+ du'u      NU       bridi                                     abstractor: predication/bridi abstractor; x1 is predication [bridi] expressed in sentence x2
+ si'o      NU       concepto                                  abstractor: idea/concept abstractor; x1 is x2's concept of [bridi]
+ nu        NU       evento                                    abstractor: generalized event abstractor; x1 is state/process/achievement/activity of [bridi]
+ li'i      NU       experiencia                               abstractor: experience abstractor; x1 is x2's experience of [bridi] (participant or observer)
+ ka        NU       propiedad                                 abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by [bridi]
+ jei       NU       valor de verdad                           abstractor: truth-value abstractor; x1 is truth value of [bridi] under epistemology x2
+ su'u      NU       abstracción no específica                 abstractor: generalized abstractor (how); x1 is [bridi] as a non-specific abstraction of type x2
  sedu'u    NU*      sentence abstract                         compound abstractor: sentence/equation abstract; x1 is text expressing [bridi] which is x2
- zu'o      NU1      activity abstract                         abstractor: activity (event) abstractor; x1 is abstract activity of [bridi] composed of x2
- mu'e      NU1      point-event abstract                      abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of [bridi]
- pu'u      NU1      process abstract                          abstractor: process (event) abstractor; x1 is process of [bridi] proceeding in stages x2
- za'i      NU1      state abstract                            abstractor: state (event) abstractor; x1 is continuous state of [bridi] being true
- nu'a      NUhA     operator to selbri                        convert mathematical expression (mex) operator to a selbri/tanru component
+ zu'o      NU1      actividad                                 abstractor: activity (event) abstractor; x1 is abstract activity of [bridi] composed of x2
+ mu'e      NU1      evento puntual                            abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of [bridi]
+ pu'u      NU1      proceso                                   abstractor: process (event) abstractor; x1 is process of [bridi] proceeding in stages x2
+ za'i      NU1      estado                                    abstractor: state (event) abstractor; x1 is continuous state of [bridi] being true
+ nu'a      NUhA     operador a selbri                         convert mathematical expression (mex) operator to a selbri/tanru component
  nu'i      NUhI     start fore termset                        start forethought termset construct; marks start of place structure set with logical connection
  nu'u      NUhU     end fore termset                          elidable terminator: end forethought termset; usually elidable except with following sumti
  paki'o    PA*      1,000                                     number/quantity: 1,000 expressed with comma
@@ -673,47 +673,47 @@
  ze        PA1      7                                         digit/number: 7 (digit) [seven]
  bi        PA1      8                                         digit/number: 8 (digit) [eight]
  so        PA1      9                                         digit/number: 9 (digit) [nine]
- dau       PA2      hex digit A                               digit/number: hex digit A (decimal 10) [ten]
- fei       PA2      hex digit B                               digit/number: hex digit B (decimal 11) [eleven]
- gai       PA2      hex digit C                               digit/number: hex digit C (decimal 12) [twelve]
- jau       PA2      hex digit D                               digit/number: hex digit D (decimal 13) [thirteen]
- rei       PA2      hex digit E                               digit/number: hex digit E (decimal 14) [fourteen]
- vai       PA2      hex digit F                               digit/number: hex digit F (decimal 15) [fifteen]
- pi        PA3      decimal point                             digit/number: radix (number base) point; default decimal
- pi'e      PA3      digit separator                           digit/number:separates digits for base >16, not current standard, or variable (e.g. time, date)
- fi'u      PA3      fraction slash                            digit/number: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio
- za'u      PA3      greater than                              digit/number: greater than
- me'i      PA3      less than                                 digit/number: less than
- ni'u      PA3      negative number                           digit/number: minus sign; negative number); default any negative
- ki'o      PA3      number comma                              digit/number: number comma; thousands
- ce'i      PA3      percent                                   digit/number: % percentage symbol, hundredths
- ma'u      PA3      positive number                           digit/number: plus sign; positive number; default any positive
- ra'e      PA3      repeating decimal                         digit/number: repeating digits (of a decimal) follow
- da'a      PA4      all except                                digit/number: all except n; all but n; default 1
- so'a      PA4      almost all                                digit/number: almost all (digit/number)
- ji'i      PA4      approximately                             digit/number: approximately (default the typical value in this context) (number)
- su'o      PA4      at least                                  digit/number: at least (some); no less than
- su'e      PA4      at most                                   digit/number: at most (all); no more than
- ro        PA4      each                                      digit/number: each, all
- rau       PA4      enough                                    digit/number: enough; subjective
- so'u      PA4      few                                       digit/number: few
- so'i      PA4      many                                      digit/number: many
- so'e      PA4      most                                      digit/number: most
- so'o      PA4      several                                   digit/number: several
- mo'a      PA4      too few                                   digit/number: too few; subjective
- du'e      PA4      too many                                  digit/number: too many; subjective
- te'o      PA5      exponential e                             digit/number: exponential e (approx 2.71828...)
- ka'o      PA5      imaginary i                               digit/number: imaginary i; square root of -1
- ci'i      PA5      infinity                                  digit/number: infinity; followed by digits => aleph cardinality
- tu'o      PA5      null operand                              digit/number: null operand (used in unary operations); a non-specific/elliptical number
- xo        PA5      number ?                                  digit/number: number/digit/lerfu question
+ dau       PA2      dígito hexadecimal A                      digit/number: hex digit A (decimal 10) [ten]
+ fei       PA2      dígito hexadecimal B                      digit/number: hex digit B (decimal 11) [eleven]
+ gai       PA2      dígito hexadecimal C                      digit/number: hex digit C (decimal 12) [twelve]
+ jau       PA2      dígito hexadecimal D                      digit/number: hex digit D (decimal 13) [thirteen]
+ rei       PA2      dígito hexadecimal E                      digit/number: hex digit E (decimal 14) [fourteen]
+ vai       PA2      dígito hexadecimal F                      digit/number: hex digit F (decimal 15) [fifteen]
+ pi        PA3      punto decimal                             digit/number: radix (number base) point; default decimal
+ pi'e      PA3      separador de dígitos                      digit/number:separates digits for base >16, not current standard, or variable (e.g. time, date)
+ fi'u      PA3      barra de fracción                         digit/number: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio
+ za'u      PA3      mayor que                                 digit/number: greater than
+ me'i      PA3      menor que                                 digit/number: less than
+ ni'u      PA3      número negativo                           digit/number: minus sign; negative number); default any negative
+ ki'o      PA3      separador de miles                        digit/number: number comma; thousands
+ ce'i      PA3      porcentaje                                digit/number: % percentage symbol, hundredths
+ ma'u      PA3      número positivo                           digit/number: plus sign; positive number; default any positive
+ ra'e      PA3      decimales repetidos                       digit/number: repeating digits (of a decimal) follow
+ da'a      PA4      todos excepto                             digit/number: all except n; all but n; default 1
+ so'a      PA4      casi todos                                digit/number: almost all (digit/number)
+ ji'i      PA4      aproximadamente                           digit/number: approximately (default the typical value in this context) (number)
+ su'o      PA4      por lo menos                              digit/number: at least (some); no less than
+ su'e      PA4      a lo sumo                                 digit/number: at most (all); no more than
+ ro        PA4      cada                                      digit/number: each, all
+ rau       PA4      suficientes                               digit/number: enough; subjective
+ so'u      PA4      pocos                                     digit/number: few
+ so'i      PA4      muchos                                    digit/number: many
+ so'e      PA4      la mayoría                                digit/number: most
+ so'o      PA4      varios                                    digit/number: several
+ mo'a      PA4      demasiado pocos                           digit/number: too few; subjective
+ du'e      PA4      demasiados                                digit/number: too many; subjective
+ te'o      PA5      exponencial e                             digit/number: exponential e (approx 2.71828...)
+ ka'o      PA5      imaginario i                              digit/number: imaginary i; square root of -1
+ ci'i      PA5      infinidad                                 digit/number: infinity; followed by digits => aleph cardinality
+ tu'o      PA5      operando nulo                             digit/number: null operand (used in unary operations); a non-specific/elliptical number
+ xo        PA5      número ?                                  digit/number: number/digit/lerfu question
  pai       PA5      pi                                        digit/number: pi (approximately 3.1416...)
- no'o      PA5      typical value                             digit/number: typical/average value
+ no'o      PA5      valor típico                              digit/number: typical/average value
  pe'e      PEhE     termset conn mark                         marks the following connective as joining termsets
  pe'o      PEhO     fore mex operator                         forethought flag for mathematical expression (mex) Polish (forethought) operator
- ba        PU       after                                     time tense relation/direction: will [selbri]; after [sumti]; default future tense
- pu        PU       before                                    time tense relation/direction: did [selbri]; before/prior to [sumti]; default past tense
- ca        PU       during                                    time tense relation/direction: is [selbri]; during/simultaneous with [sumti]; present tense
+ ba        PU       después                                   time tense relation/direction: will [selbri]; after [sumti]; default future tense
+ pu        PU       antes                                     time tense relation/direction: did [selbri]; before/prior to [sumti]; default past tense
+ ca        PU       durante                                   time tense relation/direction: is [selbri]; during/simultaneous with [sumti]; present tense
  puzu      PU*      a long time before                        time tense: a long time before; (tense/modal)
  puza      PU*      a medium time before                      time tense: a medium time before; (tense/modal)
  puzi      PU*      a short time before                       time tense: a short time before; (tense/modal)
@@ -749,32 +749,32 @@
  reroi     ROI*     twice                                     tense interval modifier; objectively quantified tense; defaults as time tense
  so'eroi   ROI*     usually                                   tense interval modifier: usually; objectively quantified tense; defaults as time tense
  sa        SA       erase expresión                           erase complete or partial expresión; next word shows how much erasing to do
- se        SE       2nd conversion                            2nd conversion; switch 1st/2nd places
- te        SE       3rd conversion                            3rd conversion; switch 1st/3rd places
- ve        SE       4th conversion                            4th conversion; switch 1st/4th places
- xe        SE       5th conversion                            5th conversion; switch 1st/5th places
+ se        SE       2da conversión                            2nd conversion; switch 1st/2nd places
+ te        SE       3ra conversión                            3rd conversion; switch 1st/3rd places
+ ve        SE       4ta conversión                            4th conversion; switch 1st/4th places
+ xe        SE       5ta conversión                            5th conversion; switch 1st/5th places
  jaigau    SE*      agent conversion                          makes x1 the agent of a bridi; old 1st place moves to extra place (fai)
  jaivi     SE*      location conversion                       convert location tense (tagged) place to 1st place; 1st place moves to extra place (fai)
  jaica     SE*      time conversion                           convert time tense (tagged) place to 1st place; 1st place moves to extra place (fai)
- sei       SEI      discursive bridi                          start discursive (metalinguistic) bridi
+ sei       SEI      bridi discursivo                          start discursive (metalinguistic) bridi
  ti'o      SEI      mex precedence                            mathematical expression (mex) operator precedence (discursive)
- se'u      SEhU     end discursive                            elidable terminator: end discursive bridi or mathematical precedence;usually elidable
+ se'u      SEhU     fin discursivo                            elidable terminator: end discursive bridi or mathematical precedence;usually elidable
  si        SI       erase word                                erase the last Lojban word, treating non-Lojban text as a single word
  soi       SOI      reciprocal sumti                          discursive: reciprocal sumti marker; indicates a reciprocal relationship between sumti
  su        SU       erase discourse                           erase to start of discourse or text; drop subject or start over
- ru'i      TAhE     continuously                              tense interval modifier: continuously; subjective tense/modal; defaults as time tense
- ta'e      TAhE     habitually                                tense interval modifier: habitually; subjective tense/modal; defaults as time tense
- di'i      TAhE     regularly                                 tense interval modifier: regularly; subjective tense/modal; defaults as time tense
- na'o      TAhE     typically                                 tense interval modifier: characteristically/typically; tense/modal; defaults as time tense
+ ru'i      TAhE     continuamente                             tense interval modifier: continuously; subjective tense/modal; defaults as time tense
+ ta'e      TAhE     habitualmente                             tense interval modifier: habitually; subjective tense/modal; defaults as time tense
+ di'i      TAhE     regularmente                              tense interval modifier: regularly; subjective tense/modal; defaults as time tense
+ na'o      TAhE     típicamente                               tense interval modifier: characteristically/typically; tense/modal; defaults as time tense
  na'onai   TAhE*    atypically                                tense interval modifier: atypically; subjective tense/modal; defaults as time tense
  di'inai   TAhE*    irregularly                               tense interval modifier: irregularly/aperiodically; tense/modal; defaults as time tense
  ta'enai   TAhE*    non-habitually                            tense interval modifier: non-habitually; subjective tense/modal; defaults as time tense
  ru'inai   TAhE*    occasionally                              tense interval modifier: occasional/intermittent/discontinuous; defaults as time tense
- tei       TEI      composite lerfu                           composite letteral follows; used for muti-character letterals
+ tei       TEI      lerfu compuesto                           composite letteral follows; used for muti-character letterals
  te'u      TEhU     end mex converters                        elidable terminator: end conversion between non-mex and mex; usually elidable
  to'i      TO       editorial unquote                         open editorial unquote (within a quote); contains grammatical text; mark with editorial insert
- to        TO       start parenthesis                         left parenthesis; start of parenthetical note which must be grammatical Lojban text
- toi       TOI      end parenthesis                           elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text
+ to        TO       abre paréntesis                           left parenthesis; start of parenthetical note which must be grammatical Lojban text
+ toi       TOI      cierra paréntesis                         elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text
  tu'e      TUhE     start text scope                          start of multiple expresión scope; used for logical/non-logical/ordinal joining of sentences
  tu'u      TUhU     end text scope                            elidable terminator: end multiple expresión scope; seldom elidable
 .e'ucu'i   UI*1     abandon suggestion                        attitudinal: suggestion - abandon suggest - warning
@@ -994,52 +994,52 @@
  vi        VA       aquí                                      location tense distance: here at ... ; at or a very short/tiny distance from ...
  va        VA       allí                                      location tense distance: near to ... ; there at ...; a medium/small distance from ...
  vu        VA       allá                                      location tense distance: far from ... ; yonder at ... ; a long distance from ...
- vau       VAU      end simple bridi                          elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti
- vei       VEI      left bracket                              left mathematical bracket
- ve'u      VEhA     big space interval                        location tense interval: a large region of space
- ve'a      VEhA     small space interval                      location tense interval: a small/medium region of space
- ve'i      VEhA     tiny space interval                       location tense interval: a tiny region of space
- ve'e      VEhA     whole space interval                      location tense interval: the whole of space
- ve'o      VEhO     right bracket                             right mathematical bracket
- vi'i      VIhA     1-space interval                          dimensionality of space interval tense: 1-space interval; along a line
- vi'a      VIhA     2-space interval                          dimensionality of space interval tense: 2-space interval; throughout an area
- vi'u      VIhA     3-space interval                          dimensionality of space interval tense: 3-space interval; throughout a space
- vi'e      VIhA     4-space interval                          dimensionality of space interval tense: 4-space interval; throughout a spacetime
- vu'o      VUhO     long scope relative                       joins relative clause/phrase to complete complex or logically connected sumti in afterthought
- ge'a      VUhU0    null operator                             mathematical operator: null mathematical expression (mex) operator (used in >2-ary ops)
- fu'u      VUhU0    unspecif operator                         n-ary mathematical operator: elliptical/unspecified mathematical expression (mex) operator
- fe'i      VUhU1    divided by                                n-ary mathematical operator: divided by; division operator; [(((a / b) / c) / ...)]
- vu'u      VUhU1    minus                                     n-ary mathematical operator: minus; subtraction operator; [(((a - b) - c) - ...)]
- su'i      VUhU1    plus                                      n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)]
- pi'i      VUhU1    times                                     n-ary mathematical operator: times; multiplication operator; [(((a * b) * c) * ...)]
- gei       VUhU2    exponential notation                      trinary mathematical operator: order of magnitude/value/base; [b * (c to the a power)]
- ju'u      VUhU2    number base                               binary mathematical operator: number base; [a interpreted in the base b]
- pa'i      VUhU2    ratio                                     binary mathematical operator: ratio; [the ratio of a to b]
- fa'i      VUhU2    reciprocal of                             unary mathematical operator: reciprocal; multiplicative inverse; [1/a]
- te'a      VUhU2    to the power                              binary mathematical operator: to the power; exponential; [a to the b power]
- cu'a      VUhU3    absolute value                            unary mathematical operator: absolute value/norm  |a|
- va'a      VUhU3    additive inverse                          unary mathematical operator: additive inverse; [- a]
+ vau       VAU      fin bridi simple                          elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti
+ vei       VEI      abre paréntesis                           left mathematical bracket
+ ve'u      VEhA     intervalo espacial grande                 location tense interval: a large region of space
+ ve'a      VEhA     intervalo espacial medio                  location tense interval: a small/medium region of space
+ ve'i      VEhA     intervalo espacial pequeño                location tense interval: a tiny region of space
+ ve'e      VEhA     intervalo espacial total                  location tense interval: the whole of space
+ ve'o      VEhO     cierra parentesis                         right mathematical bracket
+ vi'i      VIhA     intervalo espacial 1D                     dimensionality of space interval tense: 1-space interval; along a line
+ vi'a      VIhA     intervalo espacial 2D                     dimensionality of space interval tense: 2-space interval; throughout an area
+ vi'u      VIhA     intervalo espacial 3D                     dimensionality of space interval tense: 3-space interval; throughout a space
+ vi'e      VIhA     intervalo especial 4D                     dimensionality of space interval tense: 4-space interval; throughout a spacetime
+ vu'o      VUhO     relativo alcance largo                    joins relative clause/phrase to complete complex or logically connected sumti in afterthought
+ ge'a      VUhU0    operador nulo                             mathematical operator: null mathematical expression (mex) operator (used in >2-ary ops)
+ fu'u      VUhU0    operador no específico                    n-ary mathematical operator: elliptical/unspecified mathematical expression (mex) operator
+ fe'i      VUhU1    dividido por                              n-ary mathematical operator: divided by; division operator; [(((a / b) / c) / ...)]
+ vu'u      VUhU1    menos                                     n-ary mathematical operator: minus; subtraction operator; [(((a - b) - c) - ...)]
+ su'i      VUhU1    más                                       n-ary mathematical operator: plus; addition operator; [(((a + b) + c) + ...)]
+ pi'i      VUhU1    multiplicado por                          n-ary mathematical operator: times; multiplication operator; [(((a * b) * c) * ...)]
+ gei       VUhU2    notación exponencial                      trinary mathematical operator: order of magnitude/value/base; [b * (c to the a power)]
+ ju'u      VUhU2    base numérica                             binary mathematical operator: number base; [a interpreted in the base b]
+ pa'i      VUhU2    razón                                     binary mathematical operator: ratio; [the ratio of a to b]
+ fa'i      VUhU2    recíproco de                              unary mathematical operator: reciprocal; multiplicative inverse; [1/a]
+ te'a      VUhU2    potencia                                  binary mathematical operator: to the power; exponential; [a to the b power]
+ cu'a      VUhU3    valor absoluto                            unary mathematical operator: absolute value/norm  |a|
+ va'a      VUhU3    inverso aditivo                           unary mathematical operator: additive inverse; [- a]
  ne'o      VUhU3    factorial                                 unary mathematical operator: factorial; a!
- de'o      VUhU3    logarithm                                 binary mathematical operator: logarithm; [log/ln a to base b]; default base 10 or e
- fe'a      VUhU3    nth root of                               binary mathematical operator: nth root of; inverse power [a to the 1/b power]
- sa'o      VUhU4    derivative                                trinary mathematical operator: [derivative of a with respect to b of degree c]
+ de'o      VUhU3    logaritmo                                 binary mathematical operator: logarithm; [log/ln a to base b]; default base 10 or e
+ fe'a      VUhU3    raíz enésima de                           binary mathematical operator: nth root of; inverse power [a to the 1/b power]
+ sa'o      VUhU4    derivada                                  trinary mathematical operator: [derivative of a with respect to b of degree c]
  ri'o      VUhU4    integral                                  trinary mathematical operator: [integral of a with respect to b over range c]
- sa'i      VUhU4    matrix of columns                         n-ary mathematical operator: operands are vectors to be treated as matrix columns
- pi'a      VUhU4    matrix of rows                            n-ary mathematical operator: operands are vectors to be treated as matrix rows
- si'i      VUhU4    sigma summation                           trinary mathematical operator: [sigma summation of a using variable b over range c]
- re'a      VUhU4    transpose                                 unary mathematical operator: matrix transpose/dual; A*
- xi        XI       subscript                                 subscript; attaches a numer of letteral string following as a subscript onto grammar structures
-.y         Y        hesitation                                hesitation noise; maintains the floor while speaker decides what to say next
+ sa'i      VUhU4    matríz de columnas                        n-ary mathematical operator: operands are vectors to be treated as matrix columns
+ pi'a      VUhU4    matríz de filas                           n-ary mathematical operator: operands are vectors to be treated as matrix rows
+ si'i      VUhU4    sumatoria                                 trinary mathematical operator: [sigma summation of a using variable b over range c]
+ re'a      VUhU4    transpuesto                               unary mathematical operator: matrix transpose/dual; A*
+ xi        XI       subíndice                                 subscript; attaches a numer of letteral string following as a subscript onto grammar structures
+.y         Y        duda                                      hesitation noise; maintains the floor while speaker decides what to say next
  co'i      ZAhO     achievative                               interval event contour: at the instantaneous point of ...; achievative; point event   >|<
- pu'o      ZAhO     anticipative                              interval event contour: in anticipation of ...;  until ... ; inchoative         ----|     |
- co'u      ZAhO     cessative                                 interval event contour: at the ending point of ... even if not done; cessative      |  >< |
- mo'u      ZAhO     completive                                interval event contour: at the natural ending point of ...; completive              |    >|<
- ca'o      ZAhO     continuative                              interval event contour: during ...; continuative                                    |-----|
- co'a      ZAhO     initiative                                interval event contour: at the starting point of ...; initiative                   >|<    |
- de'a      ZAhO     pausative                                 event contour for a temporary halt and ensuing pause in a process
- ba'o      ZAhO     perfective                                interval event contour: in the aftermath of ...; since ...; perfective              |     |----
+ pu'o      ZAhO     anticipativo                              interval event contour: in anticipation of ...;  until ... ; inchoative         ----|     |
+ co'u      ZAhO     cesativo                                  interval event contour: at the ending point of ... even if not done; cessative      |  >< |
+ mo'u      ZAhO     completivo                                interval event contour: at the natural ending point of ...; completive              |    >|<
+ ca'o      ZAhO     continuativo                              interval event contour: during ...; continuative                                    |-----|
+ co'a      ZAhO     iniciativo                                interval event contour: at the starting point of ...; initiative                   >|<    |
+ de'a      ZAhO     pausativo                                 event contour for a temporary halt and ensuing pause in a process
+ ba'o      ZAhO     perfectivo                                interval event contour: in the aftermath of ...; since ...; perfective              |     |----
  di'a      ZAhO     resumptitive                              event contour for resumption of a paused process
- za'o      ZAhO     superfective                              interval event contour: continuing too long after natural end of ...; superfective  |     ---->
+ za'o      ZAhO     superfectivo                              interval event contour: continuing too long after natural end of ...; superfective  |     ---->
  fe'emo'u  ZAhO*    at the far end of                         location event contour tense: completive in space; at the far end of ...
  fe'eco'i  ZAhO*    at the point of                           location event contour tense: achievative in space; at the point of ...
  fe'eba'o  ZAhO*    beyond                                    location event contour tense: perfective in space; beyond the place of ...
@@ -1053,21 +1053,21 @@
  puca'o    ZAhO*    was then                                  time tense: was then; (tense/modal)
  baca'o    ZAhO*    will be then                              time tense: will be then; (tense/modal)
  zei       ZEI      lujvo glue                                joins preceding and following words into a lujvo
- ze'u      ZEhA     long time interval                        time tense interval: a long amount of time
- ze'a      ZEhA     medium time interval                      time tense interval: a medium length of time
- ze'i      ZEhA     short time interval                       time tense interval: an instantaneous/tiny/short amount of time
- ze'e      ZEhA     whole time interval                       time tense interval: the whole of time
+ ze'u      ZEhA     intervalo temporal largo                  time tense interval: a long amount of time
+ ze'a      ZEhA     intervalo temporal medio                  time tense interval: a medium length of time
+ ze'i      ZEhA     intervalo temporal corto                  time tense interval: an instantaneous/tiny/short amount of time
+ ze'e      ZEhA     intervalo temporal total                  time tense interval: the whole of time
  ze'aba    ZEhA*    for a while after                         time tense: a medium time interval offset towards the future; (tense/modal)
  ze'apu    ZEhA*    for a while before                        time tense: a medium time interval offset towards the past; (tense/modal)
  ze'aca    ZEhA*    for a while during                        time tense: a medium time interval spanning the present; (tense/modal)
- zu        ZI       long time                                 time tense distance: long distance in time
- za        ZI       medium time                               time tense distance: medium distance in time
- zi        ZI       short time                                time tense distance: instantaneous-to-short distance in time
+ zu        ZI       tiempo largo                              time tense distance: long distance in time
+ za        ZI       tiempo medio                              time tense distance: medium distance in time
+ zi        ZI       tiempo corto                              time tense distance: instantaneous-to-short distance in time
  zi'e      ZIhE     rel clause joiner                         joins relative clauses which apply to the same sumti
  zo        ZO       1-word quote                              quote next word only; quotes a single Lojban word (not a cmavo compound or tanru)
  zoi       ZOI      non-Lojban quote                          delimited non-Lojban quotation; the result treated as a block of text
  la'o      ZOI      the non-Lojban named                      delimited non-Lojban name; the resulting quote sumti is treated as a name
- zo'u      ZOhU     end prenex                                marks end of logical prenex quantifiers/topic identification and start of sentence bridi
+ zo'u      ZOhU     fin prenex                                marks end of logical prenex quantifiers/topic identification and start of sentence bridi
  slaka bu  BY*      close-comma                               letteral: Lojban "," character
  denpa bu  BY*      pause symbol                              letteral: Lojban "." character
  le go'i   KOhA*    the x1 of last bridi                      description pro-sumti: reuses the value of the x1 of the previous bridi
