@@ -120,10 +120,10 @@ la'e di'u la'a jetnu toi li'u
 
 i mo'ini'a mo'ini'a mo'ini'a i xu le nu farlu cu noroi mulno i lu mi
 kucli le du'u mi ca minli li xokau le ni farlu sei abu cladu cusku i
-ia mi pu'o jibni le midju be le terdi i ka'u minli li voki'o le ni 
-cnita tosa'a la alis pu cilre so'o da la'e di'u le ckule i zu'u le 
-cabna na matrai le nu jarco le ka djuno kei kei ki'u le nu noda abu 
-tirna i zu'unai le nu rapsku cu xamgu abu le nu crebi'o toi i go'i i 
+ia mi pu'o jibni le midju be le terdi i ka'u minli li voki'o le ni
+cnita tosa'a la alis pu cilre so'o da la'e di'u le ckule i zu'u le
+cabna na matrai le nu jarco le ka djuno kei kei ki'u le nu noda abu
+tirna i zu'unai le nu rapsku cu xamgu abu le nu crebi'o toi i go'i i
 le se minli cu jibni drani i ku'i mi kucli le du'u makau ti
 stuzrlatitudi gi'e stuzrlongitudi li'u i to la alis nasai djuno le
 du'u makau smuni ga zo stuzrlatitudi gi zo stuzrlongitudi i ku'i abu
@@ -142,7 +142,7 @@ jinvi le du'u melbi je banli valsi toi
 @c    never do to ask:  perhaps I shall see it written up somewhere.'
 
 i caku abu za'ure'u co'a co'e i lu mi kucli le du'u xukau mi ba farlu
-ba'e pagre le terdi i u'isai tolcanci le jbini be lei prenu poi cadzu 
+ba'e pagre le terdi i u'isai tolcanci le jbini be lei prenu poi cadzu
 fau le nu le stedu cu cnita i pe'i lei cnidukti tosa'a abu gleki le nu
 noda tirna kei caku ki'u le nu le valsi nasai drani sance toi i ku'i
 ei mi te preti le cmene be le gugde le du'u mokau i lu pe'u doi ninmu
@@ -150,6 +150,8 @@ ti nuzlo gi'i sralo tosa'a abu troci le nu krorinsa kei ca le nu tavla
 i ko se xanri le nu krorinsa ca le nu farlu i pe'ipei do ka'e snada toi
 i ny ba jinvi le du'u mi toldjuno ke cmalu nixli kei le nu mi te preti
 i ei mi na te preti i ju'ocu'i mi viska cy noi ba'o ciska ke'a da li'u
+
+@c Antipodes are studukti, so how about snudukti? -phma
 
 @c      Down, down, down.  There was nothing else to do, so Alice soon
 @c    began talking again.  `Dinah'll miss me very much to-night, I
@@ -168,22 +170,22 @@ i ei mi na te preti i ju'ocu'i mi viska cy noi ba'o ciska ke'a da li'u
 @c    bat?' when suddenly, thump! thump! down she came upon a heap of
 @c    sticks and dry leaves, and the fall was over.
 
-i mo'ini'a mo'ini'a mo'ini'a i no drata be la'e di'e ka'e se zukte 
-iseki'ubo la alis za'ure'u co'a tavla i lu ju'o la dinas ba mutce le 
-ka se claxu mi kei ca le cabnicte tosa'a la dinas cu mlatu toi i a'o 
-da ba morji tu'a le dy ladru palna ti'u le sanmi tcika i au doi dinas 
+i mo'ini'a mo'ini'a mo'ini'a i no drata be la'e di'e ka'e se zukte
+iseki'ubo la alis za'ure'u co'a tavla i lu ju'o la dinas ba mutce le
+ka se claxu mi kei ca le cabnicte tosa'a la dinas cu mlatu toi i a'o
+da ba morji tu'a le dy ladru palna ti'u le sanmi tcika i au doi dinas
 noi dirba mi do'u do mi kansa le cnita i u'u no smacu cu zvati le vacri
-i ku'i da'ibi'unai do ka'e kavbu lo volratcu noi ka'u mutce le ka simsa 
-lo'e smacu i ku'i a'u xu lo'e mlatu cu citka lo'e volratcu li'u i caku 
+i ku'i da'ibi'unai do ka'e kavbu lo volratcu noi ka'u mutce le ka simsa
+lo'e smacu i ku'i a'u xu lo'e mlatu cu citka lo'e volratcu li'u i caku
 la alis co'a sipydji lifri gi'e di'a senva sezysku lu xu lo'e mlatu cu
-citka lo'e volratcu i xu lo'e mlatu cu citka lo'e volratcu li'u 
+citka lo'e volratcu i xu lo'e mlatu cu citka lo'e volratcu li'u
 esu'oroibo lu xu lo'e volratcu cu citka lo'e mlatu li'u iki'ubo ki'u
 le nu abu ka'e dafydu'a no le re preti kei na vajni mutce fa le nu
-porsi makau i abu lifri le nu pu'o sipna kei gi'e puzi co'a senva 
-le nu abu xanjaisi'u cadzu kansa la dinas gi'e cusku lu ju'i doi dinas  
-ko mi jungau le jetnu i xu do su'oroi citka lo volratcu li'u ca le nu 
-suksa fa le nu abu mo'u farlu le cpana be lo derxi be loi grana ku joi 
-loi sudga pezli 
+porsi makau i abu lifri le nu pu'o sipna kei gi'e puzi co'a senva
+le nu abu xanjaisi'u cadzu kansa la dinas gi'e cusku lu ju'i doi dinas
+ko mi jungau le jetnu i xu do su'oroi citka lo volratcu li'u ca le nu
+suksa fa le nu abu mo'u farlu le cpana be lo derxi be loi grana ku joi
+loi sudga pezli
 
 @c      Alice was not a bit hurt, and she jumped up on to her feet in a
 @c    moment:  she looked up, but it was all dark overhead; before her
@@ -197,9 +199,9 @@ loi sudga pezli
 @c    hanging from the roof.
 
 i la alis nasai se xrani gi'e zi sanli fi le jamfu gi'e catlu le gapru
-noi ku'i manku mulno i crane abu fa lo drata ke clani vorme i le blabi 
-ractu cu za'o se viska gi'e sutra le nu litru vy i ei la alis na denpa 
-i abu klama tai tu'a le brife gi'e ja'aru'e snada le nu tirna le nu ry 
+noi ku'i manku mulno i crane abu fa lo drata ke clani vorme i le blabi
+ractu cu za'o se viska gi'e sutra le nu litru vy i ei la alis na denpa
+i abu klama tai tu'a le brife gi'e ja'aru'e snada le nu tirna le nu ry
 cusku lu oi doi le mi kerlo joi zbikre do'u ca'o binxo lo lerci li'u i
 abu jibni trixe ry ca le nu pagre le kojna iku'i ry ca na za'o se viska
 i abu facki le du'u abu zvati lo clani je dziseldru kumfa noi se gusni
@@ -226,12 +228,12 @@ ba za'ure'u bartu
 @c    in the lock, and to her great delight it fitted!
 
 ibaziku abu penmi lo cmalu ke cibyseltuple jubme be lo sligu blaci i
-cpana jy fa no na'e bo lo cmatce ke solji ckiku i abu pamoi jinvi le 
-du'u cy ckiku pa le stela be lo kumfa vorme i ku'i uinaidai ga le 
+cpana jy fa no na'e bo lo cmatce ke solji ckiku i abu pamoi jinvi le
+du'u cy ckiku pa le stela be lo kumfa vorme i ku'i uinaidai ga le
 stela cu dukse la ka barda gi le ckiku cu dukse le ka cmalu iseju
 cy ka'e kargau no sy i ku'i ca le remoi abu penmi lo dizlo murta noi
 abu na pu sanji ke'a i my murta lo cmalu vorme noi mitre li pici i
-abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti  
+abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 
 @c      Alice opened the door and found that it led into a small
 @c    passage, not much larger than a rat-hole:  she knelt down and
@@ -246,17 +248,17 @@ abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 @c    had happened lately, that Alice had begun to think that very few
 @c    things indeed were really impossible.
 
-i la alis kargau le vrogai gi'e facki le du'u vy se jersi lo cmalu 
+i la alis kargau le vrogai gi'e facki le du'u vy se jersi lo cmalu
 vorme noi na bramau lo ratcu kevna i abu cidni sanli gi'e catlu le se
 vorme noi traji le ka melbi lei purdi poi ze'e se viska i a'osaidai
 abu barkla le manku kumfa gi'e cadzu jbini lei va zdani be loi carmi
-xrula be'o ku joi lei va lenku jinto i ku'i abu ka'enai gregau le 
-ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre 
+xrula be'o ku joi lei va lenku jinto i ku'i abu ka'enai gregau le
+ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre
 kei sei la alis uu pensi sy tolmutce le ka se pilno secau lei mi janco
 i au mi ka'e se polje tai tu'a lo darvistci i pe'i mi ka'e go'i va'o
-le nu mi djuno le du'u mi co'a co'e ta'i makau li'u i lei puzi nalfadni 
-fasnu tai so'imoi ja'e le nu la alis co'a jinvi le du'u so'usai da 
-ca'a nalcumki 
+le nu mi djuno le du'u mi co'a co'e ta'i makau li'u i lei puzi nalfadni
+fasnu tai so'imoi ja'e le nu la alis co'a jinvi le du'u so'usai da
+ca'a nalcumki
 
 @c      There seemed to be no use in waiting by the little door, so she
 @c    went back to the table, half hoping she might find another key on
@@ -267,11 +269,11 @@ ca'a nalcumki
 @c    beautifully printed on it in large letters.
 
 i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
-le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy 
-cpana kei se.u tu'a lo cukta co javni be le nu ta'i makau polje lo prenu 
-tai tu'a lo darvistci i ca le ca krefu abu facki le du'u jy se cpana lo 
+le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy
+cpana kei se.u tu'a lo cukta co javni be le nu ta'i makau polje lo prenu
+tai tu'a lo darvistci i ca le ca krefu abu facki le du'u jy se cpana lo
 cmalu botpi to lu noi ju'o na pu zvati ti sei la alis cusku li'u toi i
-sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe 
+sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe
 li'u cu melbi prina ke'a sepi'o loi barda lerfu
 
 @c      It was all very well to say `Drink me,' but the wise little
@@ -288,15 +290,15 @@ li'u cu melbi prina ke'a sepi'o loi barda lerfu
 @c    later.
 
 i xamgu fa le nu cusku lu ko mi pinxe li'u i ku'i la alis noi prije
-na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku 
+na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku
 gi'e facki le du'u xukau da sinxa zo vindu li'u i abu pu tcidu so'o
-melbi ke cmalu lisri loi verba poi jelca se xrani gi'e se citka 
+melbi ke cmalu lisri loi verba poi jelca se xrani gi'e se citka
 loi cilce danlu gi'e lifri loi drata tolpluka ki'u le nu na morji
 lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo xunre
 glare tunta cu jelca xrani lo za'o jgari be ty zi'e no'u mu'a le nu
 va'o le nu condi mutce sraku le degji sepi'o lo dakfu kei ty ta'e
-ciblu cirko i abu noroi tolmorji le du'u le nu da dukse le ka pinxe 
-lo se botpi be le se tcita be zo vindu bazi ja bazu banza da    
+ciblu cirko i abu noroi tolmorji le du'u le nu da dukse le ka pinxe
+lo se botpi be le se tcita be zo vindu bazi ja bazu banza da
 
 @c      However, this bottle was NOT marked `poison,' so Alice ventured
 @c    to taste it, and finding it very nice, (it had, in fact, a sort
@@ -307,7 +309,7 @@ lo se botpi be le se tcita be zo vindu bazi ja bazu banza da
 i ku'i le vi botpi na se tcita zo vindu iseki'ubo la alis darsi le nu
 vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
 mixre be lo jbatisna ku joi lo sovykruji ku joi lo grutrxananase kujoi
-lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba 
+lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba
 
 @c         *       *       *       *       *       *       *
 
@@ -326,7 +328,7 @@ lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba
 @c      `What a curious feeling!' said Alice; `I must be shutting up
 @c    like a telescope.'
 
-i lu ue cizra selga'e sei la alis cusku i ru'a ju'o mi se polje tai 
+i lu ue cizra selga'e sei la alis cusku i ru'a ju'o mi se polje tai
 tu'a lo darvistci li'u
 
 @c      And so it was indeed:  she was now only ten inches high, and
@@ -343,9 +345,9 @@ tu'a lo darvistci li'u
 i ca'a co'e i caku abu cenmitre li so'u remu i le abu flira cu cambi'o
 seja'e le nu pensi le nu caku abu mapti le cmalu vorme le ka pagre
 fi le melbi purdi i ku'i pamai abu denpa le nu zgana le du'u xukau
-abu za'o brajdika i abu milxe le ka xanka la'e di'u i lu cumki fa le 
-nu co'e co'u sei la alis sezysku le nu mi mo'u canci tai tu'a lo 
-lakyga'a fagri i mi kucli le du'u mi makau simsa va'o da'i la'e di'u 
+abu za'o brajdika i abu milxe le ka xanka la'e di'u i lu cumki fa le
+nu co'e co'u sei la alis sezysku le nu mi mo'u canci tai tu'a lo
+lakyga'a fagri i mi kucli le du'u mi makau simsa va'o da'i la'e di'u
 li'u i abu troci le nu se xanri le nu lo lakyga'a fagri makau simsa
 ba le nu le lakyga'a cu se gusydicra i abu ka'enai morji lo nu viska
 lo tai dacti

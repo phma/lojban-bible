@@ -20,10 +20,10 @@
 @c    swim in the pool, and the great hall, with the glass table and
 @c    the little door, had vanished completely.
 
-i me le blabi ractu noi masno bajra xruti gi'e xanka ke sruri catlu ca 
+i me le blabi ractu noi masno bajra xruti gi'e xanka ke sruri catlu ca
 le nu klama kei tai le nu ry da pu cirko i abu tirna le nu ry tolylau
 sezysku lu oi le noltroni'u i oi le noltroni'u doi dirba xance be mi
-doi skapi be mi doi zbikre be mi zo'u ny da mi ba catrymi'e ju'osai 
+doi skapi be mi doi zbikre be mi zo'u ny da mi ba catrymi'e ju'osai
 ijo ro mabrnfuru cu mabrnfuru i mi ko'a ma falcru li'u i la alis zi
 smadi le du'u ry sisku le bifpra e le blabi ke kanba gluta remei i
 abu noi xendo co'a kalte ko'a i ku'i ko'a na se viska i roda simlu
@@ -39,9 +39,9 @@ vasru le blaci jubme e le cmalu vorme ba'o mulno canci
 
 i baziku le ractu cu sanji la alis noi ru'u kalte kei gi'e fengu tonga
 krisku fi abu fe lu ue doi meri,An do ma zukte bu'u le bartu i ko ca
-bajra klama le zdani gi'e bevri lo gluta remei e lo bifpra mi i ko 
+bajra klama le zdani gi'e bevri lo gluta remei e lo bifpra mi i ko
 sutra li'u i la alis cu tai terpa ja'e le nu abu zi bajra fa'a le
-farna poi ry jarco ku'o gi'e na troci le ni ciksi le se srera be ry 
+farna poi ry jarco ku'o gi'e na troci le ni ciksi le se srera be ry
 
 @c      `He took me for his housemaid,' she said to herself as she ran.
 @c    `How surprised he'll be when he finds out who I am!  But I'd
@@ -53,14 +53,14 @@ farna poi ry jarco ku'o gi'e na troci le ni ciksi le se srera be ry
 @c    and be turned out of the house before she had found the fan and
 @c    gloves.
 
-i lu ry ba se spaji ca le nu facki le du'u mi makau du i ku'i 
+i lu ry ba se spaji ca le nu facki le du'u mi makau du i ku'i
 e'e mi bevri le bifpra e lei gluta ry y'y va'o le nu da'i mi tolcri
 li'u i ca le nu cusku di'u kei abu penmi lo cnici ke cmalu zdani
 noi le ke'a vrogai cu se dandu lo carmi lastu tapla noi le cmene
 po'u lu blabi ractu li'u se ciska fi ke'a i abu nerkla secau le nu
-darxi kei gi'e sutra le nu serti cpare kei gi'e terpa le nu ge penmi 
+darxi kei gi'e sutra le nu serti cpare kei gi'e terpa le nu ge penmi
 la mari,An poi fatci gi se barklagau fi le zdani pu le nu tolcri le
-bifpra e lei gluta  
+bifpra e lei gluta
 
 @c      `How queer it seems,' Alice said to herself, `to be going
 @c    messages for a rabbit!  I suppose Dinah'll be sending me on
@@ -71,13 +71,13 @@ bifpra e lei gluta
 @c    on, `that they'd let Dinah stop in the house if it began ordering
 @c    people about like that!'
 
-i lu ua cizra sei la alis sezysku fa le nu mi selfu lo ractu i ru'a 
-za'umai la dinas mi ba minde li'u i abu co'a se xanri loi klesi be 
+i lu ua cizra sei la alis sezysku fa le nu mi selfu lo ractu i ru'a
+za'umai la dinas mi ba minde li'u i abu co'a se xanri loi klesi be
 lei cuntu be'o poi da'i fasnu i lu doi nix alis ko ca klama ti gi'e
 bredi le nu cadzu li'u i lu mi bazi klama doi kurji i ku'i ei mi jundi
 le vi kevna gi'e fanta le nu le smacu cu barkla li'u i lu ku'i ianai
 sei la alis ca'o co'e curmi le nu la dinas cu stali le zdani va'o le
-nu dy lei prenu co'a tai minde li'u   
+nu dy lei prenu co'a tai minde li'u
 
 @c      By this time she had found her way into a tidy little room with
 @c    a table in the window, and on it (as she had hoped) a fan and two
@@ -92,16 +92,16 @@ nu dy lei prenu co'a tai minde li'u
 @c    really I'm quite tired of being such a tiny little thing!'
 
 i caku abu zvati lo cnici ke cmalu kumfa noi lo jubme cu lamji le
-canko be ke'a gi'e se cpana to du'i le abu se pacna toi lo bifpra e 
+canko be ke'a gi'e se cpana to du'i le abu se pacna toi lo bifpra e
 reji'ici cmatce ke blabi ke kanba gluta remei i abu lebna le bifpra
-e pa le gluta remei gi'e pu'o cliva le kumfa ca le nu le nu abu catlu 
+e pa le gluta remei gi'e pu'o cliva le kumfa ca le nu le nu abu catlu
 cu se farna lo cmalu botpi noi sanli le jibni be le minra i ca le ca
 krefu noda by tcita fi'o valsi lu ko mi pinxe li'u i ku'i abu gacri
 vimcu gi'e punji by le abu ctebi i lu ju'o ca ro nu mi pinxe ja citka
 lo du kei sei abu sezysku ba'e da poi cinri ca fasnu iseki'ubo mi ba
 zgana le nu le vi botpi makau gasnu i a'o ti gasnu le nu mi za'ure'u
 banro lo barda i mi mutce le ka tatpi le nu tai cmatce li'u
- 
+
 @c      It did so indeed, and much sooner than she had expected:
 @c    before she had drunk half the bottle, she found her head pressing
 @c    against the ceiling, and had to stoop to save her neck from being
@@ -112,10 +112,10 @@ banro lo barda i mi mutce le ka tatpi le nu tai cmatce li'u
 
 i ja'a ca'a gasnu la'e di'u pu ko'a poi abu pacna le nu gasnu ca ke'a
 i pu le nu abu mo'u pinxe le xadba be le se botpi kei le abu stedu ca'o
-catke le drudi i abu bilga le nu korcu kei le nu marbi le abu cnebo 
+catke le drudi i abu bilga le nu korcu kei le nu marbi le abu cnebo
 le nu porpi i abu sutra le nu punji le botpi kei gi'e sezysju lu banzu
 i a'o mi co'u banro icaku mi ka'enai pagre le vorme i au mi na pu pinxe
-lo tai mutce li'u   
+lo tai mutce li'u
 
 @c      Alas! it was too late to wish that!  She went on growing, and
 @c    growing, and very soon had to kneel down on the floor:  in
@@ -127,8 +127,8 @@ lo tai mutce li'u
 @c    whatever happens.  What WILL become of me?'
 
 i oi dukse le ka lerci fa le nu djica la'edi'u i abu za'o banro gi'e
-banro gi'e bazi bilga le nu cidysa'i le loldi ibazibo le canlu na banzu 
-la'edi'u ji'asai i abu troci le nu vreta gi'e punji nu'ige lo cidni le 
+banro gi'e bazi bilga le nu cidysa'i le loldi ibazibo le canlu na banzu
+la'edi'u ji'asai i abu troci le nu vreta gi'e punji nu'ige lo cidni le
 lamji be le vorme gi le drata birka le sruri be le stedu i ku'i abu za'o
 banro i romai abu tolse'a lo birka pa'o le canko gi'e setca lo jamfu
 le danmo tubnu gi'e sezysku lu uo mi ka'enai gasnu lo bancu i mi ma ba
@@ -141,7 +141,7 @@ lifri li'u
 
 i la alis se funca le nu le cmalu ke makfa botpi ca mulno le ka ce'u
 makau rinka i abu na banro lo bramau gi'e ku'i mutce le ka tolkufra i
-za'a na cumki fa le nu abu za'ure'u bartu le kumfa iseki'ubo abu tolgei 
+za'a na cumki fa le nu abu za'ure'u bartu le kumfa iseki'ubo abu tolgei
 uenai
 
 @c      `It was much pleasanter at home,' thought poor Alice, `when one
@@ -157,13 +157,13 @@ uenai
 @c    HERE.'
 
 i lu le zdani cu mutce zmadu le ka pluka sei la alis uu pensi i bu'u zy
-na roroi zenba joi jdika gi'e roroi se minde loi smacu e loi ractu i 
+na roroi zenba joi jdika gi'e roroi se minde loi smacu e loi ractu i
 aunairu'e mi na klama fo le ractu kevna i ku'i i ku'i cizra fa le tai
-nu jmive i mi ja'a kucli le du'u mi makau pu ca'a lifri i ca le nu mi 
-tcidu loi crida lisri kei mi krici le nu lo tai cuntu noroi fasnu i 
-caku mi cy midju i ei finti lo cukta mi i ei go'i i ai ca le nu mi ba'o 
-banro kei mi cy finti i ku'i mi ca ba'o banro sei abu badri tonga jmina 
-i ba'unai le bu'u canlu na banzu le nu banro lo bancu li'u 
+nu jmive i mi ja'a kucli le du'u mi makau pu ca'a lifri i ca le nu mi
+tcidu loi crida lisri kei mi krici le nu lo tai cuntu noroi fasnu i
+caku mi cy midju i ei finti lo cukta mi i ei go'i i ai ca le nu mi ba'o
+banro kei mi cy finti i ku'i mi ca ba'o banro sei abu badri tonga jmina
+i ba'unai le bu'u canlu na banzu le nu banro lo bancu li'u
 
 @c      `But then,' thought Alice, `shall I NEVER get any older than I
 @c    am now?  That'll be a comfort, one way--never to be an old woman--
@@ -187,7 +187,7 @@ cukta li'u
 
 i abu ca'o co'e i pamai darlu lo mlana gi'e remai darlu le drata gi'e
 zbasu lo vajni nuncasnu le romei i ku'i ba lo mentu be li so'o abu tirna
-lo voksa noi bartu gi'e sisti tezu'e le nu tinzga 
+lo voksa noi bartu gi'e sisti tezu'e le nu tinzga
 
 @c      `Mary Ann!  Mary Ann!' said the voice.  `Fetch me my gloves
 @c    this moment!'  Then came a little pattering of feet on the
@@ -199,8 +199,8 @@ lo voksa noi bartu gi'e sisti tezu'e le nu tinzga
 i lu doi meriAn doi meriAn sei le voksa cu cusku ko bevri lei mi gluta
 mi caku li'u ibabo tirna lo nu cmalu ke jamfu stapa lei serti i la alis
 djuno le du'u le ractu cu klama tezu'e le nu sisku abu i abu desku ja'e
-le nu deskygau le zdani i abu tolmorji le nu ge abu ca kilto le ractu 
-le ka barda giseki'ubo noda krinu le nu terpa ry    
+le nu deskygau le zdani i abu tolmorji le nu ge abu ca kilto le ractu
+le ka barda giseki'ubo noda krinu le nu terpa ry
 
 @c      Presently the Rabbit came up to the door, and tried to open it;
 @c    but, as the door opened inwards, and Alice's elbow was pressed
@@ -222,10 +222,10 @@ sezysku lu ai mi srukla gi'e nerkla fo le canko li'u
 
 i lu na ba go'i sei la alis pensi li'u i abu denpa le nu abu krici le
 du'u tirna le nu le ractu cu cnita le canko ibazi abu jai suksa fai
-le nu pejgau le xance gi'e jgari le vacri i abu kavbu noda gi'eku'i 
+le nu pejgau le xance gi'e jgari le vacri i abu kavbu noda gi'eku'i
 tirna lo cmalu se krixa e lo nu farlu e lo porpi blaci sance gi'e
 nibji'i la'e di'u le du'u cumki fa le nu ry farlu lo guzme tanxe a
-lo simsa  
+lo simsa
 
 @c      Next came an angry voice--the Rabbit's--`Pat! Pat!  Where are
 @c    you?'  And then a voice she had never heard before, `Sure then
@@ -248,7 +248,7 @@ i lu pau re'i pat ta poi zvati le canko cu mo li'u
 
 @c      `Sure, it's an arm, yer honour!'  (He pronounced it `arrum.')
 
-i lu ju'o ta birka doi banli li'u to py bacru zoi zoi birrrka zoi toi 
+i lu ju'o ta birka doi banli li'u to py bacru zoi zoi birrrka zoi toi
 
 @c      `An arm, you goose!   Who ever saw one that size?  Why, it
 @c    fills the whole window!'
@@ -280,9 +280,9 @@ lu ju'o mi na nelci doi banli i nasai go'i li'u e lu ko zukte tai le
 mi te minde doi tolvri li'u i romai abu rere'u pejgau le xance gi'e
 rere'u jgari le vacri i caku tirna re cmalu se krixa e lo porpi blaci
 sance bancu i lu ue xokau guzme tanxe cu zvati sei la alis pensi i a'u
-ma bazi se zukte i le nu lacpu mi pa'o le canko zo'u au kakne i ju'o 
+ma bazi se zukte i le nu lacpu mi pa'o le canko zo'u au kakne i ju'o
 mi na djica le nu stali ti ze'a makau li'u
-  
+
 @c      She waited for some time without hearing anything more:  at
 @c    last came a rumbling of little cartwheels, and the sound of a
 @c    good many voices all talking together:  she made out the words:
@@ -299,14 +299,14 @@ mi na djica le nu stali ti ze'a makau li'u
 
 i abu ze'a denpa gi'e tirna no za'umoi i romai tirna lo sance be lo
 cmalu carce xislu e so'isai voksa noi tavla kansi'u i abu snada le nu
-jimpe tu'a lei valsi i lu le drata serti ma zvati i ua ei mi bevri 
+jimpe tu'a lei valsi i lu le drata serti ma zvati i ua ei mi bevri
 le pamei i la bil cu co'e le drata i ju'i bil ko ta ti bevri doi citno
-i ko ta punji le vi kojna i na go'i i puku ko ta jonsimgau i ta za'o 
+i ko ta punji le vi kojna i na go'i i puku ko ta jonsimgau i ta za'o
 na preja lo galtu banzu i ju'o ta ba xamgu banzu i ko na tcila jundi
 i ju'i bil ko jgari le vi skori i xu le drudi ba sarji i ko jundi le
 va kluza tapla i oi ta ca'o farlu ju'i cnita to cladu popsna toi i
-ma ta gasnu i ru'a la bil i ma ba cnita klama fo le danmo tubnu i mi 
-na.e ko go'i i ai mi na go'i i la bil ba go'i i ju'i bil le selse'u 
+ma ta gasnu i ru'a la bil i ma ba cnita klama fo le danmo tubnu i mi
+na.e ko go'i i ai mi na go'i i la bil ba go'i i ju'i bil le selse'u
 do minde le nu do cnita klama fo le danmo tubnu li'u
 
 @c      `Oh! So Bill's got to come down the chimney, has he?' said
@@ -348,22 +348,22 @@ doi pendo i do ma pu lifri i ko mi'a jungau la'e di'u li'u
 @c    is, something comes at me like a Jack-in-the-box, and up I goes
 @c    like a sky-rocket!'
 
-i romai go'i lo cmalu je ruble je tolylau voksa to lu ta me la bil 
+i romai go'i lo cmalu je ruble je tolylau voksa to lu ta me la bil
 sei la alis pensi li'u toi pe lu mi ja'aru'e djuno i banzu ki'e i
-le cabna cu xagmau fi tu'a mi iku'i mi dukse le ka jenca kei le nu 
-jungau i mi djuno le po'o du'u da mi catke tai lo danre selkei 
+le cabna cu xagmau fi tu'a mi iku'i mi dukse le ka jenca kei le nu
+jungau i mi djuno le po'o du'u da mi catke tai lo danre selkei
 plipe i mi tolfa'u tai lo tsani jakne li'u
 
 @c      `So you did, old fellow!' said the others.
 
-i lu ie do ca'a go'i doi pendo sei lei drata cu cusku li'u 
+i lu ie do ca'a go'i doi pendo sei lei drata cu cusku li'u
 
 @c      `We must burn the house down!' said the Rabbit's voice; and
 @c    Alice called out as loud as she could, `If you do.  I'll set
 @c    Dinah at you!'
 
 i lu ei mi'o jelgau le zdani sei le ractu voksa cu cusku li'u i la
-alis krixa rai le ka cladu kei lu ganai go'i gi mi ba je'icru 
+alis krixa rai le ka cladu kei lu ganai go'i gi mi ba je'icru
 la dinas do li'u
 
 @c      There was a dead silence instantly, and Alice thought to
@@ -373,9 +373,10 @@ la dinas do li'u
 @c    barrowful will do, to begin with.'
 
 i zi smaji mulno i la alis pensi lu a'u ta ba zukte ma i ei va'o
-le nu prije cu vimcu le drudi li'u i bazi lo mentu be li paji'ire
+le nu prije cu vimcu le drudi li'u i bazi lo mentu be li pabi'ire
 co'a za'ure'u ru'u muvdu i la alis tirna le nu le ractu cu cusku
 lu pa carcylai cu banzu le nu co'a co'e li'u
+@c paji'ire is about twelve - maybe ten to fourteen.
 
 @c      `A barrowful of WHAT?' thought Alice; but she had not long to
 @c    doubt, for the next moment a shower of little pebbles came
@@ -397,11 +398,11 @@ ke smaji mulno
 @c    can't possibly make me larger, it must make me smaller, I
 @c    suppose.'
 
-i la alis se spaji sanji le nu ro le bidju cu binxo lo cmalu nanba 
+i la alis se spaji sanji le nu ro le bidju cu binxo lo cmalu nanba
 ca le nu vreta le loldi i lo carmi co'a sidbo fi le abu menli i lu
 va'o le nu mi citka pa le nanba sei abu pensi i ju'o ba rinka le nu
-mi cenba le ka barda i ka'enaisai brazengau mi i ja'o ju'o pe'i 
-cmazengau mi li'u  
+mi cenba le ka barda i ka'enaisai brazengau mi i ja'o ju'o pe'i
+cmazengau mi li'u
 
 @c      So she swallowed one of the cakes, and was delighted to find
 @c    that she began shrinking directly.  As soon as she was small
@@ -416,10 +417,11 @@ cmazengau mi li'u
 i seki'ubo abu tunlo pa le nanba gi'e gleki le nu facki le du'u abu
 ca co'a cmaze'a i ca le nu abu cmalu banzu le nu pagre le vorme keikei
 abu bajra klama le bartu be le zdani gi'e penmi lo so'imei be loi cmalu
-danlu e cipni vu'o noi denpa i le cmalu rebyrespala uu no'u la bil midju 
-lei ro da gi'e se sarju re smacrkobaiu noi dunda lo se botpi i roda 
-sutra fa'a la alis ca le nu abu tolcanci i ku'i abu to'o bajra rai le 
+danlu e cipni vu'o noi denpa i le cmalu rebyrespala uu no'u la bil midju
+lei ro da gi'e se sarju re smacrkobaiu noi dunda lo se botpi i roda
+sutra fa'a la alis ca le nu abu tolcanci i ku'i abu to'o bajra rai le
 ka sutra gi'ebazi snura zvati lo denmi ricmei
+@c rebyrespala ki'a .i zo rebyrespa xu basti
 
 @c      `The first thing I've got to do,' said Alice to herself, as she
 @c    wandered about in the wood, `is to grow to my right size again;

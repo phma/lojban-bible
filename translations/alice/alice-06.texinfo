@@ -37,12 +37,12 @@ parkla lo milxe co bartu be le ricmei ki'u le nu tinju'i
 @c    words a little, `From the Queen.  An invitation for the Duchess
 @c    to play croquet.'
 
-i pamai le finpe selfu cu tolsa'e le cnita be le sy birka lo barda 
+i pamai le finpe selfu cu tolsa'e le cnita be le sy birka lo barda
 xatra noi jibni dunli sy le ka barda i sy dunda xy le drata gi'e
-junri tonga cusku lu fi le noltroni'u cu fityti'i fa le noltruni'u 
+junri tonga cusku lu fi le noltroni'u cu fityti'i fa le noltruni'u
 fe le nu kelcrkroke li'u i le plipyrespa cu mintu fi le ka junri tonga
-kei gi'e milxe stika le valsi porsi gi'e refsku lu fa le nolruni'u 
-cu fityti'i fi le noltroni'u fe le nu kelcrkroke li'u   
+kei gi'e milxe stika le valsi porsi gi'e refsku lu fa le nolruni'u
+cu fityti'i fi le noltroni'u fe le nu kelcrkroke li'u
 
 @c      Then they both bowed low, and their curls got entangled
 @c    together.
@@ -58,7 +58,7 @@ xrebi'o
 i la alis tai cmila mu'i la'e di'u ja'e le nu bilga le nu bajra xruti
 le ricmei ki'u le nu terpa le nu ry tirna abu i ca le nu abu za'ure'u
 mipri catlu kei ge le finpe selfu ba'o cliva gi le drata cu zutse le
-loldi ne'a le vorme gi'e bebna catlu fa'a le tsani 
+loldi ne'a le vorme gi'e bebna catlu fa'a le tsani
 
 @c      Alice went timidly up to the door, and knocked.
 
@@ -72,10 +72,10 @@ i la alis toldarsi klama le vorme gi'e darxi
 @c    and sneezing, and every now and then a great crash, as if a dish
 @c    or kettle had been broken to pieces.
 
-i lu noda do prali le nu darxi sei le selfu cu cusku i go'i ki'u reda 
+i lu noda do prali le nu darxi sei le selfu cu cusku i go'i ki'u reda
 i pamai mi do dunli le ka zvati le mokau mlana be le vorme i remai ne'i
 cupra lo tai savru ja'e le nu noda do ka'e tirna li'u i ju'o lo tolfadni
-savru ca'o nenri i ru'i cmoni je senci i ru'inai barda sance tai le nu 
+savru ca'o nenri i ru'i cmoni je senci i ru'inai barda sance tai le nu
 lo palta a lo patxu cu porpi
 
 @c      `Please, then,' said Alice, `how am I to get in?'
@@ -90,10 +90,10 @@ i lu pe'udo'u sei la alis cusku mi nerkla ta'i ma li'u
 @c    perhaps he can't help it,' she said to herself; `his eyes are so
 @c    VERY nearly at the top of his head.  But at any rate he might
 @c    answer questions.--How am I to get in?' she repeated, aloud.
- 
-i lu le nu do darxi cu racli sei le selfu secau le nu jundi abu kei 
+
+i lu le nu do darxi cu racli sei le selfu secau le nu jundi abu kei
 di'a co'e va'o le nu da'i le vorme cu jbini mi'o i mu'a va'o le nu
-da'i do nenri kei ge do ka'e darxi gi mi ka'e curmi le nu do barkla 
+da'i do nenri kei ge do ka'e darxi gi mi ka'e curmi le nu do barkla
 li'u i sy catlu le tsani ze'a le nu tavla i la alis jinvi le du'u
 ju'osai sy tolclite la'e di'u i lu ku'i ju'ocu'i ta ka'enai rivbi
 la'e di'u sei abu sezysku i lei ta kanla tai jibni le gapru be le 
@@ -135,19 +135,19 @@ loi preti li'u
 @c    creatures argue.  It's enough to drive one crazy!'
 
 i li'a la'e di'u jetnu i ku'i la alis na nelci le nu te cusku di'u
-i lu oi sei abu bacru sezysku ro le danlu cu darlu i banzu le nu 
-fenkygau li'u 
+i lu oi sei abu bacru sezysku ro le danlu cu darlu i banzu le nu
+fenkygau li'u
 
 @c      The Footman seemed to think this a good opportunity for
 @c    repeating his remark, with variations.  `I shall sit here,' he
 @c    said, `on and off, for days and days.'
 
 i le selfu cu simlu le ka jinvi le du'u mapti le nu za'ure'u te pinka
-i lu mi ti ba zutse sei sy cusku ru'inaiku ze'a lo djedi be li so'i li'u  
+i lu mi ti ba zutse sei sy cusku ru'inaiku ze'a lo djedi be li so'i li'u
 
 @c      `But what am I to do?' said Alice.
 
-i lu ku'i ei mi ma zukte sei la alis cusku li'u 
+i lu ku'i ei mi ma zukte sei la alis cusku li'u
 
 @c      `Anything you like,' said the Footman, and began whistling.
 
@@ -167,14 +167,15 @@ bebna li'u i abu kargau le vorme gi'e nerkla
 
 i le vorme cu pluta lo barda jupku'a noi culno lo danmo ve'a lo fanmo
 kubi'i le drata i le noltroni'u cu zutse lo cibyseltuple stizu bu'u le
-midju gi'e kurji lo cifnu i le jukpe cu korcu ga'u le fagri gi'e jicla
+midju gi'e kurji lo cifnu i le jukpa cu korcu ga'u le fagri gi'e jicla
 do'e lo barda patxu noi simlu le ka culno lo stasu
 
 @c      `There's certainly too much pepper in that soup!' Alice said to
 @c    herself, as well as she could for sneezing.
 
-i lu ju'o pidu'e tsaprpaprika cu nenri le va stasu li'u se sezysku 
+i lu ju'o pidu'e tsaprpaprika cu nenri le va stasu li'u se sezysku
 la alis noi ru'i senci
+@c tsaprpaprika noi kapsiku ku'o ji tsaprpiperi?
 
 @c      There was certainly too much of it in the air.  Even the
 @c    Duchess sneezed occasionally; and as for the baby, it was
@@ -182,27 +183,46 @@ la alis noi ru'i senci
 @c    only things in the kitchen that did not sneeze, were the cook,
 @c    and a large cat which was sitting on the hearth and grinning from
 @c    ear to ear.
+.i pidu'e ty nenri ju'o le vacri .i ji'acai le noltroni'u cu ru'inai senci
+.ije le ba'e cifnu cu ru'i desfau senci joi kakcmoni .i le'i ro da poi zvati
+le jupku'a gi'e na senci cu du le jukpa ce lo barda mlatu poi zutse le
+fagystizu gi'e relkerlo ganra cisma
 
 @c      `Please would you tell me,' said Alice, a little timidly, for
 @c    she was not quite sure whether it was good manners for her to
 @c    speak first, `why your cat grins like that?'
+.i lu pe'u do ko cusku le sedu'u sei la .alis cu milxe terpa cusku ri'a
+le nu na djuno le du'u xukau le nu pamoi tavla cu clite se'u le do
+mlatu cu taiku cisma mu'i makau li'u
 
 @c      `It's a Cheshire cat,' said the Duchess, `and that's why.  Pig!'
+.i lu ta tcicymlatu sei le noltroni'u cu cusku .i la'edi'u krinu .i ko
+xarju li'u
 
 @c      She said the last word with such sudden violence that Alice
 @c    quite jumped; but she saw in another moment that it was addressed
 @c    to the baby, and not to her, so she took courage, and went on
 @c    again:--
+.i lenu ny tcevlile bacru le selyli'erai valsi cu mukti lenu la .alis suksa
+plipe .iku'i .abu bazi jimpe ledu'u tavla fi le cifnu .enai vo'a .isemu'ibo
+virnu lenu di'a cusku
 
 @c      `I didn't know that Cheshire cats always grinned; in fact, I
 @c    didn't know that cats COULD grin.'
+lu mi na djuno le du'u le'e tcicymlatu cu piroroi gancisma .i ju'o mi
+na djuno ledu'u lo mlatu ba'e ka'e gancisma li'u
 
 @c      `They all can,' said the Duchess; `and most of 'em do.'
+.i lu ro co'e cu ka'e co'e sei le noltroni'u cu cusku .ije piso'i le
+co'e cu pu'i co'e li'u
 
 @c      `I don't know of any that do,' Alice said very politely,
 @c    feeling quite pleased to have got into a conversation.
+.i lu mi na djuno le du'u pu'i co'e ke'i da poi co'e li'u tceclite se cusku
+la .alis noi mutce se pluka le nu jorne fi le nunsimtavla
 
 @c      `You don't know much,' said the Duchess; `and that's a fact.'
+.i do djuno piso'uda sei le noltroni'u cu cusku .ije di'u fatci li'u
 
 @c      Alice did not at all like the tone of this remark, and thought
 @c    it would be as well to introduce some other subject of
@@ -228,8 +248,10 @@ la alis noi ru'i senci
 @c    knowledge.  `Just think of what work it would make with the day
 @c    and night!  You see the earth takes twenty-four hours to turn
 @c    round on its axis--'
+.i le terdi di'i lo cacra be li revo cu carna .iseni'ibo li'u
 
 @c      `Talking of axes,' said the Duchess, `chop off her head!'
+.i le noltroni'u cu cusku lu le catra zo'u ko vimcu le stedu ti li'u
 
 @c      Alice glanced rather anxiously at the cook, to see if she meant
 @c    to take the hint; but the cook was busily stirring the soup, and
@@ -386,9 +408,13 @@ la alis noi ru'i senci
 
 @c      `By-the-bye, what became of the baby?' said the Cat.  `I'd
 @c    nearly forgotten to ask.'
+.i lu ta'o le cifnu cu binxo ma sei le mlatu cu cusku .i mi jibni tolmo'i
+lenu terpreti li'u
 
 @c      `It turned into a pig,' Alice quietly said, just as if it had
 @c    come back in a natural way.
+.i lu binxo lo xarju li'u smaji se cusku la .alis tai lenu my cu fadni
+xruti vo'a
 
 @c      `I thought it would,' said the Cat, and vanished again.
 
@@ -402,6 +428,7 @@ la alis noi ru'i senci
 @c    branch of a tree.
 
 @c      `Did you say pig, or fig?' said the Cat.
+.i lu do cusku zo xarju ji zo narju li'u se cusku le mlatu
 
 @c      `I said pig,' replied Alice; `and I wish you wouldn't keep
 @c    appearing and vanishing so suddenly:  you make one quite giddy.'
