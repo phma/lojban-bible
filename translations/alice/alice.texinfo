@@ -70,12 +70,12 @@ This work, in all forms, is explicitely placed in the public domain.
 * vomo'o::	[The Rabbit Sends in a Little Bill]
 * mumo'o::	[Advice from a Caterpillar]
 * xamo'o::	[Pig And Pepper]
-* zemo'o::	[A Mad Tea-Party]
+* zemo'o::	fenki tcati te salci
 * bimo'o::	[The Queen's Croquet-Ground]
 * somo'o::	[The Mock Turtle's Story]
 * panomo'o::	[The Lobster Quadrille]
-* papamo'o::	[Who Stole the Tarts?]
-* paremo'o::	[Alice's Evidence]
+* papamo'o::	ma zerle'a le djataurte
+* paremo'o::	le sidydatni po'e la alis.
 @end menu
 
 @node le fukpi, pamo'o, Top, Top

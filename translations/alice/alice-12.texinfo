@@ -1,11 +1,12 @@
 @node    paremo'o, , papamo'o, Top
-@chapter paremo'o [Alice's Evidence]
+@chapter paremo'o le sidydatni po'e la alis.
 
 
 @c                               CHAPTER XII
+                               paremo'o ckupau
 
 @c                            Alice's Evidence
-
+                         le sidydatni po'e la alis.
 
 @c      `Here!' cried Alice, quite forgetting in the flurry of the
 @c    moment how large she had grown in the last few minutes, and she
@@ -44,6 +45,7 @@
 @c    Alice.
 
 @c      `Nothing,' said Alice.
+lu noda li'u se cusku la alis
 
 @c      `Nothing WHATEVER?' persisted the King.
 

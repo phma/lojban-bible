@@ -1,11 +1,12 @@
 @node    papamo'o, paremo'o, panomo'o, Top
-@chapter papamo'o [Who Stole the Tarts?]
+@chapter papamo'o ma zerle'a le djataurte
 
 
 @c                               CHAPTER XI
+                               papamo'o ckupau
 
 @c                          Who Stole the Tarts?
-
+                          ma zerle'a le djataurte
 
 @c      The King and Queen of Hearts were seated on their throne when
 @c    they arrived, with a great crowd assembled about them--all sorts
