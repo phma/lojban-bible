@@ -1144,9 +1144,9 @@ sorgu sog           sorgo           x1 es una cantidad de sorgo (grano) de espec
 sovda sov     so'a  huevo           x1 es un huevo de organismo/madre x2; (tarbi)
 spaji paj           sorprender      x1 (evento) sorprende a x2;
 spali               lustrar         x1 lustra/pule/saca brillo a objeto/superficie x2 con pomada x3 usando herramienta x4;
-spano san           español        x1 refleja cultura/nacionalidad/idioma español en aspecto x2; (xispo)
+spano san           español         x1 refleja cultura/nacionalidad/idioma español en aspecto x2; (xispo)
 spati     spa       planta          x1 es una planta/vegetal de especie/variedad x2;
-speni     spe       cónyuge        x1 es cónyuge/esposo/esposa/marido/mujer de x2 por lazo/relación/ley/costumbre/tradición x3;
+speni     spe       cónyuge         x1 es cónyuge/esposo/esposa/marido/mujer de x2 por lazo/relación/ley/costumbre/tradición x3;
 spisa     spi       pedazo          x1 es un pedazo/porción/fragmento/trozo de x2; (pagbu)
 spita               hospital        x1 es un hospital en localidad x2 para pacientes x3 con mal/condición x4;
 spofu pof     po'u  roto            x1 está roto/inoperable/estropeado/no funciona en propiedad/aspecto x2; (kanro)
@@ -1157,14 +1157,14 @@ sraji raj           vertical        x1 es vertical en marco de referencia x2; (p
 sraku rak           rascar          x1 (abrasivo) rasca/erosiona x2; (katna, mosra, plixa)
 sralo               australiano     x1 refleja cultura/nacionalidad/geografía australiana en aspecto x2;
 srana         ra'a  concernir       x1 concierne/es relevante a x2; (ckini, steci)
-srasu sas           césped         x1 es una expansión de cesped/pasto/hierba de especie/variedad x2;
+srasu sas           césped          x1 es una expansión de cesped/pasto/hierba de especie/variedad x2;
 srera     sre       errar           x1 yerra/se equivoca/falla en x2 (evento), error bajo condiciones x3 según estándar x4;
-srito               sánscrito      x1 refleja cultura/nacionalidad/idioma sánscrito/védico en aspecto x2; (xindo, xurdo)
+srito               sánscrito       x1 refleja cultura/nacionalidad/idioma sánscrito/védico en aspecto x2; (xindo, xurdo)
 sruma         ru'a  suponer         x1 supone/asume que x2 (du'u) es cierto acerca de x3;
 sruri rur sru       rodear          x1 rodea/circunda a x2 en dirección/dimensión/plano x3; (se nenri, se jbini, bartu)
 stace sac           sincero         x1 es sincero/honesto/abierto/franco ante x2 sobre asunto/hecho x3; (tcica)
 stagi               vegetal         x1 es un vegetal/parte comestible x2 de planta x3;
-staku tak           cerámica       x1 es una cantidad de cerámica hecha por x2 de composición x3 con forma x4;
+staku tak           cerámica        x1 es una cantidad de cerámica hecha por x2 de composición x3 con forma x4;
 stali     sta       quedar          x1 queda/permanece en/con x2; (canci, ralte, stodi)
 stani               tallo           x1 es un tallo/tronco de planta/especie x2; (metafora: apoyo principal)
 stapa tap           caminar         x1 camina/da pasos/anda sobre superficie x2 usando miembros x3; (cadzu)
@@ -1196,7 +1196,7 @@ sumti sum     su'i  argumento       x1 es un argumento del predicado/función x2 
 sunga sug           ajo             x1 es un ajo de especie/variedad x2;
 sunla sul           lana            x1 es una cantidad de lana de animal/especie/fuente x2;
 surla sur           relajarse       x1 se relaja/descansa haciendo x2 (evento); (tatpi, cando, vreta)
-sutra sut           rapido          x1 es rapido/veloz en hacer/realizar x2 (evento); (masno)
+sutra sut           rapido          x1 es rápido/veloz en hacer/realizar x2 (evento); (masno)
 ta    taz           eso             sumti: eso; demostrativo
 tabno tab           carbón          x1 es una cantidad de carbón/grafito/diamante (C);
 tabra               trompeta        x1 es una trompeta/trombón/cuerno/bugle (instrumento musical de viento);

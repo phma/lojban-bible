@@ -446,56 +446,56 @@
  ke'e      KEhE     fin agrupación                            elidable terminator: end of tanru left grouping override (usually elidable)
  ki        KI       tense default                             tense/modal: set/use tense default; establishes new open scope space/time/modal reference base
  roda      KOhA*    todos                                     logically quantified universal sumti: everything (unless restricted)
- la'edi'u  KOhA*    last utterance it                         pro-sumti: the referent of the last utterance; the state described: "IT was fun"
+ la'edi'u  KOhA*    last expresión it                         pro-sumti: the referent of the last expresión; the state described: "IT was fun"
  noda      KOhA*    ninguno                                   logically quantified sumti: nothing at all (unless restricted)
  da        KOhA1    alguno 1                                  logically quantified existential pro-sumti: there exists something 1 (usually restricted)
  de        KOhA1    alguno 2                                  logically quantified existential pro-sumti: there exists something 2 (usually restricted)
  di        KOhA1    alguno 3                                  logically quantified existential pro-sumti: there exists something 3 (usually restricted)
- da'u      KOhA2    earlier utterance                         pro-sumti: a remote past utterance; "She couldn't have known that IT would be true."
- da'e      KOhA2    eventual utterance                        pro-sumti: remote future utterance; "He'll tell you tomorrow. IT will be a doozy."
- di'u      KOhA2    last utterance                            pro-sumti: the last utterance
- di'e      KOhA2    next utterance                            pro-sumti: the next utterance
- de'u      KOhA2    recent utterance                          pro-sumti: a recent utterance
- de'e      KOhA2    soon utterance                            pro-sumti: a near future utterance
- dei       KOhA2    this utterance                            pro-sumti: this utterance
- do'i      KOhA2    unspecif utterance                        pro-sumti: elliptical/unspecified utterance variable
- ko        KOhA3    imperative                                pro-sumti: you (imperative); make it true for you, the listener
- mi        KOhA3    me                                        pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative
- mi'o      KOhA3    me and you                                pro-sumti: me/we the speaker(s)/author(s) & you the listener(s)
- ma'a      KOhA3    we with you                               pro-sumti: me/we the speaker(s)/author(s) & you the listener(s) & others unspecified
- mi'a      KOhA3    we, not you                               pro-sumti: me/we the speaker(s)/author(s) & others unspecified, but not you, the listener
- do        KOhA3    you                                       pro-sumti: you listener(s); identified by vocative
- do'o      KOhA3    you and others                            pro-sumti: you the listener & others unspecified
- ko'a      KOhA4    it-1                                      pro-sumti: he/she/it/they #1 (specified by goi)
- fo'u      KOhA4    it-10                                     pro-sumti: he/she/it/they #10 (specified by goi)
- ko'e      KOhA4    it-2                                      pro-sumti: he/she/it/they #2 (specified by goi)
- ko'i      KOhA4    it-3                                      pro-sumti: he/she/it/they #3 (specified by goi)
- ko'o      KOhA4    it-4                                      pro-sumti: he/she/it/they #4 (specified by goi)
- ko'u      KOhA4    it-5                                      pro-sumti: he/she/it/they #5 (specified by goi)
- fo'a      KOhA4    it-6                                      pro-sumti: he/she/it/they #6 (specified by goi)
- fo'e      KOhA4    it-7                                      pro-sumti: he/she/it/they #7 (specified by goi)
- fo'i      KOhA4    it-8                                      pro-sumti: he/she/it/they #8 (specified by goi)
- fo'o      KOhA4    it-9                                      pro-sumti: he/she/it/they #9 (specified by goi)
- vo'a      KOhA4    x1 it                                     pro-sumti: repeats 1st place of main bridi of this sentence
- vo'e      KOhA4    x2 it                                     pro-sumti: repeats 2nd place of main bridi of this sentence
- vo'i      KOhA4    x3 it                                     pro-sumti: repeats 3rd place of main bridi of this sentence
- vo'o      KOhA4    x4 it                                     pro-sumti: repeats 4th place of main bridi of this sentence
- vo'u      KOhA4    x5 it                                     pro-sumti: repeats 5th place of main bridi of this sentence
- ru        KOhA5    earlier sumti                             pro-sumti: a remote past sumti, before all other in-use backcounting sumti
- ri        KOhA5    last sumti                                pro-sumti: the last sumti, as determined by back-counting rules
- ra        KOhA5    recent sumti                              pro-sumti: a recent sumti before the last one, as determined by back-counting rules
- ta        KOhA6    that there                                pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener
- tu        KOhA6    that yonder                               pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker&listener
- ti        KOhA6    this here                                 pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker
- zi'o      KOhA7    nonexistent it                            pro-sumti: fills a sumti place, deleting it from selbri place structure;changes selbri semantics
- ke'a      KOhA7    relativized it                            pro-sumti: relativized sumti (object of relative clause)
+ da'u      KOhA2    expresión anterior                        pro-sumti: a remote past expresión; "She couldn't have known that IT would be true."
+ da'e      KOhA2    expresión eventual                        pro-sumti: remote future expresión; "He'll tell you tomorrow. IT will be a doozy."
+ di'u      KOhA2    expresión última                          pro-sumti: the last expresión
+ di'e      KOhA2    expresión siguiente                       pro-sumti: the next expresión
+ de'u      KOhA2    expresión reciente                        pro-sumti: a recent expresión
+ de'e      KOhA2    expresión próxima                         pro-sumti: a near future expresión
+ dei       KOhA2    expresión actual                          pro-sumti: this expresión
+ do'i      KOhA2    expresión no específica                   pro-sumti: elliptical/unspecified expresión variable
+ ko        KOhA3    imperativo                                pro-sumti: you (imperative); make it true for you, the listener
+ mi        KOhA3    yo                                        pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative
+ mi'o      KOhA3    tú/ustedes y yo                           pro-sumti: me/we the speaker(s)/author(s) & you the listener(s)
+ ma'a      KOhA3    tú/ustedes, otros y yo                    pro-sumti: me/we the speaker(s)/author(s) & you the listener(s) & others unspecified
+ mi'a      KOhA3    nosotros sin ustedes                      pro-sumti: me/we the speaker(s)/author(s) & others unspecified, but not you, the listener
+ do        KOhA3    tú/ustedes                                pro-sumti: you listener(s); identified by vocative
+ do'o      KOhA3    tú/ustedes y otros                        pro-sumti: you the listener & others unspecified
+ ko'a      KOhA4    ello-1                                    pro-sumti: he/she/it/they #1 (specified by goi)
+ fo'u      KOhA4    ello-10                                   pro-sumti: he/she/it/they #10 (specified by goi)
+ ko'e      KOhA4    ello-2                                    pro-sumti: he/she/it/they #2 (specified by goi)
+ ko'i      KOhA4    ello-3                                    pro-sumti: he/she/it/they #3 (specified by goi)
+ ko'o      KOhA4    ello-4                                    pro-sumti: he/she/it/they #4 (specified by goi)
+ ko'u      KOhA4    ello-5                                    pro-sumti: he/she/it/they #5 (specified by goi)
+ fo'a      KOhA4    ello-6                                    pro-sumti: he/she/it/they #6 (specified by goi)
+ fo'e      KOhA4    ello-7                                    pro-sumti: he/she/it/they #7 (specified by goi)
+ fo'i      KOhA4    ello-8                                    pro-sumti: he/she/it/they #8 (specified by goi)
+ fo'o      KOhA4    ello-9                                    pro-sumti: he/she/it/they #9 (specified by goi)
+ vo'a      KOhA4    x1 ello                                   pro-sumti: repeats 1st place of main bridi of this sentence
+ vo'e      KOhA4    x2 ello                                   pro-sumti: repeats 2nd place of main bridi of this sentence
+ vo'i      KOhA4    x3 ello                                   pro-sumti: repeats 3rd place of main bridi of this sentence
+ vo'o      KOhA4    x4 ello                                   pro-sumti: repeats 4th place of main bridi of this sentence
+ vo'u      KOhA4    x5 ello                                   pro-sumti: repeats 5th place of main bridi of this sentence
+ ru        KOhA5    sumti anterior                            pro-sumti: a remote past sumti, before all other in-use backcounting sumti
+ ri        KOhA5    sumti último                              pro-sumti: the last sumti, as determined by back-counting rules
+ ra        KOhA5    sumti reciente                            pro-sumti: a recent sumti before the last one, as determined by back-counting rules
+ ta        KOhA6    ése                                       pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener
+ tu        KOhA6    aquél                                     pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker&listener
+ ti        KOhA6    éste                                      pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker
+ zi'o      KOhA7    elimina argumento                         pro-sumti: fills a sumti place, deleting it from selbri place structure;changes selbri semantics
+ ke'a      KOhA7    pro-sumti relativo                        pro-sumti: relativized sumti (object of relative clause)
  ma        KOhA7    sumti ?                                   pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank
- zu'i      KOhA7    typical it                                pro-sumti: the typical sumti value for this place in this relationship; affects truth value
- zo'e      KOhA7    unspecif it                               pro-sumti: an elliptical/unspecified value; has some value which makes bridi true
- ce'u      KOhA8    lambda                                    pseudo-quantifier binding a variable within an abstraction that represents an open place
- ku        KU       end sumti                                 elidable terminator: end description, modal, or negator sumti; often elidable
+ zu'i      KOhA7    el típico                                 pro-sumti: the typical sumti value for this place in this relationship; affects truth value
+ zo'e      KOhA7    sumti no especificado                     pro-sumti: an elliptical/unspecified value; has some value which makes bridi true
+ ce'u      KOhA8    relativo de abstracción                   pseudo-quantifier binding a variable within an abstraction that represents an open place
+ ku        KU       fin de sumti                              elidable terminator: end description, modal, or negator sumti; often elidable
  ku'e      KUhE     end mex forethought                       elidable terminator: end mathematical (mex) forethought (Polish) expression; often elidable
- ku'o      KUhO     end relative clause                       elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses
+ ku'o      KUhO     fin de cláusula relativa                  elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses
  la        LA       that named                                name descriptor: the one(s) called ... ; takes name or selbri description
  lai       LA       the mass of named                         name descriptor: the mass of individual(s) named ... ; takes name or selbri description
  la'i      LA       the set of named                          name descriptor: the set of those named ... ; takes name or selbri description
@@ -536,13 +536,13 @@
  lu        LU       quote                                     start grammatical quotation; quoted text should be grammatical on its own
  lu'u      LUhU     end sumti qualifiers                      elidable terminator: end of sumti qualifiers; usually elidable except before a sumti
 01090 Lojban         LogFlash cmavo list 09/16/98        01090
- mo'o      MAI      section ordinal                           higher-order utterance ordinal suffix; converts a number to ordinal, usually a section/chapter
- mai       MAI      sentence ordinal                          utterance ordinal suffix; converts a number to an ordinal, such as an item or paragraph number
- pamai     MAI*     firstly                                   discursive: first utterance ordinal
- romai     MAI*     lastly                                    discursive utterance ordinal: finally; last utterance ordinal
- remai     MAI*     secondly                                  discursive: second utterance ordinal
- nomo'o    MAI*     section 0                                 discursive utterance ordinal: zeroth section/chapter ordinal; foreword
- pamo'o    MAI*     section 1                                 discursive utterance ordinal: first section/chapter ordinal
+ mo'o      MAI      section ordinal                           higher-order expresión ordinal suffix; converts a number to ordinal, usually a section/chapter
+ mai       MAI      sentence ordinal                          expresión ordinal suffix; converts a number to an ordinal, such as an item or paragraph number
+ pamai     MAI*     firstly                                   discursive: first expresión ordinal
+ romai     MAI*     lastly                                    discursive expresión ordinal: finally; last expresión ordinal
+ remai     MAI*     secondly                                  discursive: second expresión ordinal
+ nomo'o    MAI*     section 0                                 discursive expresión ordinal: zeroth section/chapter ordinal; foreword
+ pamo'o    MAI*     section 1                                 discursive expresión ordinal: first section/chapter ordinal
  ma'o      MAhO     operand to operator                       convert letteral string or other mathematical expression (mex) operand to mex operator
  me        ME       sumti to selbri                           convert sumti to selbri/tanru element; x1 is specific to [sumti] in aspect x2
  me'u      MEhU     end sumti to selbri                       elidable terminator: end sumti that was converted to selbri; usually elidable
@@ -748,7 +748,7 @@
  du'eroi   ROI*     too many times                            tense interval modifier: too many times objective tense, defaults as time tense
  reroi     ROI*     twice                                     tense interval modifier; objectively quantified tense; defaults as time tense
  so'eroi   ROI*     usually                                   tense interval modifier: usually; objectively quantified tense; defaults as time tense
- sa        SA       erase utterance                           erase complete or partial utterance; next word shows how much erasing to do
+ sa        SA       erase expresión                           erase complete or partial expresión; next word shows how much erasing to do
  se        SE       2nd conversion                            2nd conversion; switch 1st/2nd places
  te        SE       3rd conversion                            3rd conversion; switch 1st/3rd places
  ve        SE       4th conversion                            4th conversion; switch 1st/4th places
@@ -775,8 +775,8 @@
  to'i      TO       editorial unquote                         open editorial unquote (within a quote); contains grammatical text; mark with editorial insert
  to        TO       start parenthesis                         left parenthesis; start of parenthetical note which must be grammatical Lojban text
  toi       TOI      end parenthesis                           elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text
- tu'e      TUhE     start text scope                          start of multiple utterance scope; used for logical/non-logical/ordinal joining of sentences
- tu'u      TUhU     end text scope                            elidable terminator: end multiple utterance scope; seldom elidable
+ tu'e      TUhE     start text scope                          start of multiple expresión scope; used for logical/non-logical/ordinal joining of sentences
+ tu'u      TUhU     end text scope                            elidable terminator: end multiple expresión scope; seldom elidable
 .e'ucu'i   UI*1     abandon suggestion                        attitudinal: suggestion - abandon suggest - warning
 .o'onai    UI*1     anger                                     attitudinal: patience - mere tolerance - anger
 .oiro'i    UI*1     anxiety                                   attitudinal: emotional complaint
@@ -890,110 +890,110 @@
  ki'anai   UI*6     understanding                             non-question: understanding of something said
  bu'ocu'i  UI*7     continue emotion                          attitudinal contour: start emotion - continue emotion - end emotion
  bu'onai   UI*7     end emotion                               attitudinal contour: start emotion - continue emotion - end emotion
-.i'a       UI1      acceptance                                attitudinal: acceptance - blame                                                                           (cf. nalna'e, nalpro, no'epro, nalzugjdi)
-.ie        UI1      agreement                                 attitudinal: agreement - disagreement                                                                     (cf. tugni)
-.a'e       UI1      alertness                                 attitudinal: alertness - exhaustion                                                                       (cf. sanji, cikna, tatpi)
-.u'i       UI1      amusement                                 attitudinal: amusement - weariness                                                                        (cf. selzdi, selxajmi, xalbo)
-.i'o       UI1      appreciation                              attitudinal: appreciation - envy                                                                          (cf. ckire, jilra)
-.i'e       UI1      approval                                  attitudinal: approval - non-approval - disapproval                                                        (cf. zanru)
-.a'a       UI1      attentive                                 attitudinal: attentive - inattentive - avoiding                                                           (cf. jundi, rivbi)
-.ia        UI1      belief                                    attitudinal: belief - skepticism - disbelief                                                              (cf. krici, jinvi)
-.o'i       UI1      caution                                   attitudinal: caution - rashness                                                                           (cf. capyrivbi, capfanta, srerivbi, srefanta, naldarsi, seljde)
-.o'e       UI1      closeness                                 attitudinal: closeness - distance                                                                         (cf. cnijbi, cnikansa)
-.e'e       UI1      competence                                attitudinal: competence - incompetence/inability                                                          (cf. kakne, certu)
-.oi        UI1      complaint                                 attitudinal: complaint - pleasure                                                                         (cf. pante, pluka, kufra)
-.uo        UI1      completion                                attitudinal: completion - incompleteness                                                                  (cf. mulno, mansa, fanmo, snada)
-.e'i       UI1      constraint                                attitudinal: feeling constraint - independence - challenge/resistance against constraint                  (cf. selri'u, seljimte)
-.u'o       UI1      courage                                   attitudinal: courage - timidity - cowardice                                                               (cf. virnu)
-.au        UI1      desire                                    attitudinal: desire - indifference - reluctance                                                           (cf. djica)
-.ua        UI1      discovery                                 attitudinal: discovery - confusion/searching                                                              (cf. facki, cfipu, sisku)
-.a'i       UI1      effort                                    attitudinal: effort - no special effort - repose                                                          (cf. gunka, slunandu, guksurla, troci, selprogunka)
-.i'u       UI1      familiarity                               attitudinal: familiarity - mystery                                                                        (cf. slabu, nalni'o, kufra)
-.ii        UI1      fear                                      attitudinal: fear - security                                                                              (cf. terpa, snura)
-.u'a       UI1      gain                                      attitudinal: gain - loss                                                                                  (cf. jinga, selne'u, prali, cirko)
-.ui        UI1      happiness                                 attitudinal: happiness - unhappiness                                                                      (cf. gleki)
-.a'o       UI1      hope                                      attitudinal: hope - despair                                                                               (cf. pacna)
-.ai        UI1      intent                                    attitudinal: intent - indecision - rejection/refusal                                                      (cf. termu'i, terzu'e, seljdi, selcu'a)
-.a'u       UI1      interest                                  attitudinal: interest - disinterest - repulsion                                                           (cf. cinri, selcni)
-.iu        UI1      love                                      attitudinal: love - no love lost - hatred                                                                 (cf. prami)
-.ei        UI1      obligation                                attitudinal: obligation - freedom                                                                         (cf. bilga, zifre)
-.o'o       UI1      patience                                  attitudinal: patience - mere tolerance - anger                                                            (cf. fengu, to'ersteba, de'acni
-.e'a       UI1      permission                                attitudinal: granting permission - prohibiting                                                            (cf. curmi)
-.uu        UI1      pity                                      attitudinal: pity - cruelty                                                                               (cf. kecti)
-.o'a       UI1      pride                                     attitudinal: pride - modesty/humility - shame                                                             (cf. jgira, cumla, ckeji)
-.o'u       UI1      relaxation                                attitudinal: relaxation - composure - stress                                                              (cf. surla, cnilanxe, dunku)
-.u'u       UI1      repentance                                attitudinal: repentance - lack of regret - innocence                                                      (cf. xenru, zugycni)
-.e'o       UI1      request                                   attitudinal: request - negative request                                                                   (cf. cpedu, pikci)
-.io        UI1      respect                                   attitudinal: respect - disrespect                                                                         (cf. sinma)
-.e'u       UI1      suggestion                                attitudinal: suggestion - abandon suggest - warning                                                       (cf. stidi, kajde)
-.ue        UI1      surprise                                  attitudinal: surprise - not really surprised - expectation                                                (cf. spaji)
+.i'a       UI1      aceptación                                attitudinal: acceptance - blame                                                                           (cf. nalna'e, nalpro, no'epro, nalzugjdi)
+.ie        UI1      acuerdo                                   attitudinal: agreement - disagreement                                                                     (cf. tugni)
+.a'e       UI1      alerta                                    attitudinal: alertness - exhaustion                                                                       (cf. sanji, cikna, tatpi)
+.u'i       UI1      diversión                                 attitudinal: amusement - weariness                                                                        (cf. selzdi, selxajmi, xalbo)
+.i'o       UI1      apreciación                               attitudinal: appreciation - envy                                                                          (cf. ckire, jilra)
+.i'e       UI1      aprobación                                attitudinal: approval - non-approval - disapproval                                                        (cf. zanru)
+.a'a       UI1      atención                                  attitudinal: attentive - inattentive - avoiding                                                           (cf. jundi, rivbi)
+.ia        UI1      creencia                                  attitudinal: belief - skepticism - disbelief                                                              (cf. krici, jinvi)
+.o'i       UI1      precaución                                attitudinal: caution - rashness                                                                           (cf. capyrivbi, capfanta, srerivbi, srefanta, naldarsi, seljde)
+.o'e       UI1      cercanía                                  attitudinal: closeness - distance                                                                         (cf. cnijbi, cnikansa)
+.e'e       UI1      competencia                               attitudinal: competence - incompetence/inability                                                          (cf. kakne, certu)
+.oi        UI1      queja                                     attitudinal: complaint - pleasure                                                                         (cf. pante, pluka, kufra)
+.uo        UI1      culminación                               attitudinal: completion - incompleteness                                                                  (cf. mulno, mansa, fanmo, snada)
+.e'i       UI1      restricción                               attitudinal: feeling constraint - independence - challenge/resistance against constraint                  (cf. selri'u, seljimte)
+.u'o       UI1      coraje                                    attitudinal: courage - timidity - cowardice                                                               (cf. virnu)
+.au        UI1      deseo                                     attitudinal: desire - indifference - reluctance                                                           (cf. djica)
+.ua        UI1      descubrimiento                            attitudinal: discovery - confusion/searching                                                              (cf. facki, cfipu, sisku)
+.a'i       UI1      esfuerzo                                  attitudinal: effort - no special effort - repose                                                          (cf. gunka, slunandu, guksurla, troci, selprogunka)
+.i'u       UI1      familiaridad                              attitudinal: familiarity - mystery                                                                        (cf. slabu, nalni'o, kufra)
+.ii        UI1      miedo                                     attitudinal: fear - security                                                                              (cf. terpa, snura)
+.u'a       UI1      ganancia                                  attitudinal: gain - loss                                                                                  (cf. jinga, selne'u, prali, cirko)
+.ui        UI1      felicidad                                 attitudinal: happiness - unhappiness                                                                      (cf. gleki)
+.a'o       UI1      esperanza                                 attitudinal: hope - despair                                                                               (cf. pacna)
+.ai        UI1      intención                                 attitudinal: intent - indecision - rejection/refusal                                                      (cf. termu'i, terzu'e, seljdi, selcu'a)
+.a'u       UI1      interés                                   attitudinal: interest - disinterest - repulsion                                                           (cf. cinri, selcni)
+.iu        UI1      amor                                      attitudinal: love - no love lost - hatred                                                                 (cf. prami)
+.ei        UI1      obligación                                attitudinal: obligation - freedom                                                                         (cf. bilga, zifre)
+.o'o       UI1      paciencia                                 attitudinal: patience - mere tolerance - anger                                                            (cf. fengu, to'ersteba, de'acni
+.e'a       UI1      permiso                                   attitudinal: granting permission - prohibiting                                                            (cf. curmi)
+.uu        UI1      compasión                                 attitudinal: pity - cruelty                                                                               (cf. kecti)
+.o'a       UI1      orgullo                                   attitudinal: pride - modesty/humility - shame                                                             (cf. jgira, cumla, ckeji)
+.o'u       UI1      relajación                                attitudinal: relaxation - composure - stress                                                              (cf. surla, cnilanxe, dunku)
+.u'u       UI1      arrepentimiento                           attitudinal: repentance - lack of regret - innocence                                                      (cf. xenru, zugycni)
+.e'o       UI1      pedido                                    attitudinal: request - negative request                                                                   (cf. cpedu, pikci)
+.io        UI1      respeto                                   attitudinal: respect - disrespect                                                                         (cf. sinma)
+.e'u       UI1      sugestión                                 attitudinal: suggestion - abandon suggest - warning                                                       (cf. stidi, kajde)
+.ue        UI1      sorpresa                                  attitudinal: surprise - not really surprised - expectation                                                (cf. spaji)
 .i'i       UI1      togetherness                              attitudinal: togetherness - privacy                                                                       (cf. kansa, gumna, sivni, sepli)
-.u'e       UI1      wonder                                    attitudinal: wonder - commonplace                                                                         (cf. manci, fadni)
- ba'a      UI2      I anticipate                              evidential: I expect - I experience - I remember                                                          (cf. bavykri, lifri, morji)
- ja'o      UI2      I conclude                                evidential: I conclude                                                                                    (cf. selni'i, ni'ikri)
- ca'e      UI2      I define                                  evidential: I define                                                                                      (cf. mitcu'a, mitsmu)
- su'a      UI2      I generalize                              evidential: I generalize - I particularize; discursive: abstractly - concretely                           (cf. sucta, sucni'i)
- ti'e      UI2      I hear                                    evidential: I hear (hearsay)                                                                              (cf. tirna, sitna, tcidu)
+.u'e       UI1      asombro                                   attitudinal: wonder - commonplace                                                                         (cf. manci, fadni)
+ ba'a      UI2      anticipación                              evidential: I expect - I experience - I remember                                                          (cf. bavykri, lifri, morji)
+ ja'o      UI2      conclusión                                evidential: I conclude                                                                                    (cf. selni'i, ni'ikri)
+ ca'e      UI2      definición                                evidential: I define                                                                                      (cf. mitcu'a, mitsmu)
+ su'a      UI2      generalización                            evidential: I generalize - I particularize; discursive: abstractly - concretely                           (cf. sucta, sucni'i)
+ ti'e      UI2      dicen que                                 evidential: I hear (hearsay)                                                                              (cf. tirna, sitna, tcidu)
  ka'u      UI2      I know culturally                         evidential: I know by cultural means (myth or custom)                                                     (cf. kluju'o)
  se'o      UI2      I know internally                         evidential: I know by internal experience (dream, vision, or personal revelation)                         (cf. senva)
- za'a      UI2      I observe                                 evidential: I observe                                                                                     (cf. zgana, lanli)
- pe'i      UI2      I opine                                   evidential: I opine (subjective claim)                                                                                      (cf. jinvi)
- ru'a      UI2      I postulate                               evidential: I postulate                                                                                   (cf. sruma)
+ za'a      UI2      observación                               evidential: I observe                                                                                     (cf. zgana, lanli)
+ pe'i      UI2      opinión                                   evidential: I opine (subjective claim)                                                                                      (cf. jinvi)
+ ru'a      UI2      postulado                                 evidential: I postulate                                                                                   (cf. sruma)
  ju'a      UI2      I state                                   evidential: I state - (default) elliptical/non-specific basis                                             (cf. xusra)
  ta'o      UI3      by the way                                discursive: by the way - returning to main point                                                          (cf. denpa, cneterta'a)
- ra'u      UI3      chiefly                                   discursive: chiefly - equally - incidentally                                                              (cf. ralju, vajni)
- li'a      UI3      clearly                                   discursive: clearly - obscurely                                                                           (cf. klina)
- ba'u      UI3      exaggeration                              discursive: exaggeration - accuracy - understatement                                                      (cf. satci, dukse)
- mu'a      UI3      for example                               discursive: for example - omitting - end examples                                                         (cf. mupli)
- do'a      UI3      generously                                discursive: generously - parsimoniously                                                                   (cf. dunda)
- to'u      UI3      in brief                                  discursive: in brief - in detail                                                                          (cf. tordu, clani, tcidu)
- va'i      UI3      in other words                            discursive: in other words - in the same words                                                            (cf. cneselsku)
- pa'e      UI3      justice                                   discursive: justice - prejudice                                                                           (cf. tcinydracu'a, tcinydrapai, vudypai)
- zu'u      UI3      on the one hand                           discursive: on the one hand - on the other hand                                                           (cf. karbi, frica. dukti)
- sa'e      UI3      precisely speaking                        discursive: precisely speaking - loosely speaking                                                         (cf. satci, jibni)
- la'a      UI3      probability                               discursive: probability - improbability                                                                   (cf. lakne)
- ke'u      UI3      repeating                                 discursive: repeating - continuing                                                                        (cf. refbasna, krefu, rapli, velde'a)
+ ra'u      UI3      principalmente                            discursive: chiefly - equally - incidentally                                                              (cf. ralju, vajni)
+ li'a      UI3      claramente                                discursive: clearly - obscurely                                                                           (cf. klina)
+ ba'u      UI3      exageración                               discursive: exaggeration - accuracy - understatement                                                      (cf. satci, dukse)
+ mu'a      UI3      ejemplo                                   discursive: for example - omitting - end examples                                                         (cf. mupli)
+ do'a      UI3      generosamente                             discursive: generously - parsimoniously                                                                   (cf. dunda)
+ to'u      UI3      en breve                                  discursive: in brief - in detail                                                                          (cf. tordu, clani, tcidu)
+ va'i      UI3      en otras palabras                         discursive: in other words - in the same words                                                            (cf. cneselsku)
+ pa'e      UI3      justicia                                  discursive: justice - prejudice                                                                           (cf. tcinydracu'a, tcinydrapai, vudypai)
+ zu'u      UI3      por un lado                               discursive: on the one hand - on the other hand                                                           (cf. karbi, frica. dukti)
+ sa'e      UI3      precisión                                 discursive: precisely speaking - loosely speaking                                                         (cf. satci, jibni)
+ la'a      UI3      probablemente                             discursive: probability - improbability                                                                   (cf. lakne)
+ ke'u      UI3      repitiendo                                discursive: repeating - continuing                                                                        (cf. refbasna, krefu, rapli, velde'a)
  sa'u      UI3      simply speaking                           discursive: simply - elaborating                                                                          (cf. sampu, pluja)
- da'i      UI3      supposing                                 discursive: supposing - in fact                                                                           (cf. sruma)
- je'u      UI3      truth                                     discursive: truth - falsity                                                                               (cf. jetnu)
- sa'a      UI3a     editorial insertion                       discursive: material inserted by editor/narrator (bracketed text)                                         (cf. setca)
- kau       UI3a     indirect question                         discursive: marks word serving as focus of indirect question: "I know WHO went to the store"
+ da'i      UI3      suposición                                discursive: supposing - in fact                                                                           (cf. sruma)
+ je'u      UI3      verdad                                    discursive: truth - falsity                                                                               (cf. jetnu)
+ sa'a      UI3a     inserción editorial                       discursive: material inserted by editor/narrator (bracketed text)                                         (cf. setca)
+ kau       UI3a     pregunta indirecta                        discursive: marks word serving as focus of indirect question: "I know WHO went to the store"
  ta'u      UI3a     making a tanru                            discursive: making a tanru - expanding the tanru                                                          (cf. tanru)
- na'i      UI3a     metalinguistic not                        discursive: metalinguistic negator                                                                        (cf. naldra, nalmapti)
- jo'a      UI3a     metalinguistic yes                        discursive: metalinguistic affirmer                                                                       (cf. drani)
- bi'u      UI3a     new information                           discursive: newly introduced information - previously introduced information                              (cf. nindatni, saurdatni)
- li'o      UI3a     omitted text                              discursive: omitted text (quoted material)
- pau       UI3a     question follows                          discursive: optional question premarker                                                                   (cf. preti)
- mi'u      UI3b     ditto                                     discursive: ditto                                                                                         (cf. mintu)
- ku'i      UI3b     however                                   discursive: however/but/in contrast                                                                       (cf. karbi, dukti, nalpanra)
- ji'a      UI3b     in addition                               discursive: additionally                                                                                  (cf. jmina)
- si'a      UI3b     similarly                                 discursive: similarly                                                                                     (cf. simsa, panra)
- po'o      UI3b     uniquely                                  discursive: uniquely, only, solely: the only relevant case                                                (cf. pamei, mulno, frica)
- pe'a      UI3c     figurative                                marks a construct as figurative (non-literal/metaphorical) speech/text
- ro'i      UI4      emotional                                 emotion category/modifier: emotional - denying emotion                                                    (cf. cinmo)
+ na'i      UI3a     no metalinguistico                        discursive: metalinguistic negator                                                                        (cf. naldra, nalmapti)
+ jo'a      UI3a     sí metalinguistico                        discursive: metalinguistic affirmer                                                                       (cf. drani)
+ bi'u      UI3a     información nueva                         discursive: newly introduced information - previously introduced information                              (cf. nindatni, saurdatni)
+ li'o      UI3a     texto omitido                             discursive: omitted text (quoted material)
+ pau       UI3a     pregunta                                  discursive: optional question premarker                                                                   (cf. preti)
+ mi'u      UI3b     lo dicho                                  discursive: ditto                                                                                         (cf. mintu)
+ ku'i      UI3b     sin embargo                               discursive: however/but/in contrast                                                                       (cf. karbi, dukti, nalpanra)
+ ji'a      UI3b     además                                    discursive: additionally                                                                                  (cf. jmina)
+ si'a      UI3b     similarmente                              discursive: similarly                                                                                     (cf. simsa, panra)
+ po'o      UI3b     sólo                                      discursive: uniquely, only, solely: the only relevant case                                                (cf. pamei, mulno, frica)
+ pe'a      UI3c     figurativo                                marks a construct as figurative (non-literal/metaphorical) speech/text
+ ro'i      UI4      emocional                                 emotion category/modifier: emotional - denying emotion                                                    (cf. cinmo)
  ro'e      UI4      mental                                    emotion category/modifier: mental - mindless                                                              (cf. menli)
- ro'o      UI4      physical                                  emotion category/modifier: physical - denying physical                                                    (cf. xadni)
+ ro'o      UI4      físico                                    emotion category/modifier: physical - denying physical                                                    (cf. xadni)
  ro'u      UI4      sexual                                    emotion category/modifier: sexual - sexual abstinence                                                     (cf. cinse)
  ro'a      UI4      social                                    emotion category/modifier: social - antisocial                                                            (cf. jikca)
- re'e      UI4      spiritual                                 emotion category/modifier: religious/spiritual/worship - sacrilege                                        (cf. lijda)
- le'o      UI5      aggressive                                attitudinal modifier: aggressive - passive - defensive                                                    (cf. gunta, bandu)
- ju'o      UI5      certainty                                 attitudinal modifier: certainty - uncertainty - impossibility                                             (cf. birti, cumki)
- fu'i      UI5      easy                                      attitudinal modifier: easy - difficult                                                                    (cf. frili)
- dai       UI5      empathy                                   attitudinal modifier: marks empathetic use of preceding attitudinal; shows another's feelings             (cf. cnijmi)
+ re'e      UI4      espiritual                                emotion category/modifier: religious/spiritual/worship - sacrilege                                        (cf. lijda)
+ le'o      UI5      agresivo                                  attitudinal modifier: aggressive - passive - defensive                                                    (cf. gunta, bandu)
+ ju'o      UI5      certeza                                   attitudinal modifier: certainty - uncertainty - impossibility                                             (cf. birti, cumki)
+ fu'i      UI5      fácil                                     attitudinal modifier: easy - difficult                                                                    (cf. frili)
+ dai       UI5      empatía                                   attitudinal modifier: marks empathetic use of preceding attitudinal; shows another's feelings             (cf. cnijmi)
  ga'i      UI5      hauteur                                   attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of lower rank              (cf. gapru, cnita)
- zo'o      UI5      humorously                                attitudinal modifier: humorously - dully - seriously                                                      (cf. xajmi, junri)
- be'u      UI5      lack                                      attitudinal modifier: lack/need - presence/satisfaction - satiation                                       (cf. claxu, nitcu, mansa)
- ri'e      UI5      release of emotion                        attitudinal modifier: release of emotion - emotion restraint                                              (cf. cniri'u, cnicru)
- se'i      UI5      self-oriented                             attitudinal modifier: self-oriented - other-oriented                                                      (cf. sevzi, drata)
- se'a      UI5      self-sufficiency                          attitudinal modifier: self-sufficiency - dependency                                                       (cf. sezysei, kantcu)
- vu'e      UI5      virtue                                    attitudinal modifier: virtue - sin                                                                        (cf. vrude, zungi)
- ki'a      UI6      textual confusion                         attitudinal question: confusion about something said                                                      (cf. cfipu, kucli)
- xu        UI6      true-false ?                              discursive: true-false question
- ge'e      UI6      unspecif emotion                          attitudinal: elliptical/unspecified/non-specific emotion; no particular feeling
- bu'o      UI7      start emotion                             attitudinal contour: start emotion - continue emotion - end emotion
- vi        VA       here at                                   location tense distance: here at ... ; at or a very short/tiny distance from ...
- va        VA       there at                                  location tense distance: near to ... ; there at ...; a medium/small distance from ...
- vu        VA       yonder at                                 location tense distance: far from ... ; yonder at ... ; a long distance from ...
+ zo'o      UI5      humor                                     attitudinal modifier: humorously - dully - seriously                                                      (cf. xajmi, junri)
+ be'u      UI5      carencia                                  attitudinal modifier: lack/need - presence/satisfaction - satiation                                       (cf. claxu, nitcu, mansa)
+ ri'e      UI5      descarga de emoción                       attitudinal modifier: release of emotion - emotion restraint                                              (cf. cniri'u, cnicru)
+ se'i      UI5      autoorientado                             attitudinal modifier: self-oriented - other-oriented                                                      (cf. sevzi, drata)
+ se'a      UI5      autosuficiencia                           attitudinal modifier: self-sufficiency - dependency                                                       (cf. sezysei, kantcu)
+ vu'e      UI5      virtud                                    attitudinal modifier: virtue - sin                                                                        (cf. vrude, zungi)
+ ki'a      UI6      confusión textual                         attitudinal question: confusion about something said                                                      (cf. cfipu, kucli)
+ xu        UI6      acaso ?                                   discursive: true-false question
+ ge'e      UI6      emoción no específica                     attitudinal: elliptical/unspecified/non-specific emotion; no particular feeling
+ bu'o      UI7      comienzo de emoción                       attitudinal contour: start emotion - continue emotion - end emotion
+ vi        VA       aquí                                      location tense distance: here at ... ; at or a very short/tiny distance from ...
+ va        VA       allí                                      location tense distance: near to ... ; there at ...; a medium/small distance from ...
+ vu        VA       allá                                      location tense distance: far from ... ; yonder at ... ; a long distance from ...
  vau       VAU      end simple bridi                          elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti
  vei       VEI      left bracket                              left mathematical bracket
  ve'u      VEhA     big space interval                        location tense interval: a large region of space
