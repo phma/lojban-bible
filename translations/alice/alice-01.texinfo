@@ -246,6 +246,18 @@ abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 @c    had happened lately, that Alice had begun to think that very few
 @c    things indeed were really impossible.
 
+i la alis kargau le vrogai gi'e facki le du'u vy se jersi lo cmalu 
+vorme noi na bramau lo ratcu kevna i abu cidni sanli gi'e catlu le se
+vorme noi traji le ka melbi lei purdi poi ze'e se viska i a'osaidai
+abu barkla le manku kumfa gi'e cadzu jbini lei va zdani be loi carmi
+xrula be'o ku joi lei va lenku jinto i ku'i abu ka'enai gregau le 
+ji'asai stedu le vorme i lu va'o ji'asai le nu le mi stedu ka'e pagre 
+kei sei la alis uu pensi sy tolmutce le ka se pilno secau lei mi janco
+i au mi ka'e se polje tai tu'a lo darvistci i pe'i mi ka'e go'i va'o
+le nu mi djuno le du'u mi co'a co'e ta'i makau li'u i lei puzi nalfadni 
+fasnu tai so'imoi ja'e le nu la alis co'a jinvi le du'u so'usai da 
+ca'a nalcumki 
+
 @c      There seemed to be no use in waiting by the little door, so she
 @c    went back to the table, half hoping she might find another key on
 @c    it, or at any rate a book of rules for shutting people up like
@@ -253,6 +265,14 @@ abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 @c    certainly was not here before,' said Alice,) and round the neck
 @c    of the bottle was a paper label, with the words `DRINK ME'
 @c    beautifully printed on it in large letters.
+
+i ru'adai na prali fa le nu denpa fi le cmalu vorme iseki'ubo abu xruti
+le jubme gi'e xadba pacna le nu abu facki le du'u lo drata ckiku jy 
+cpana kei se.u tu'a lo cukta co javni be le nu ta'i makau polje lo prenu 
+tai tu'a lo darvistci i ca le ca krefu abu facki le du'u jy se cpana lo 
+cmalu botpi to lu noi ju'o na pu zvati ti sei la alis cusku li'u toi i
+sruri le botpi cnebo fa lo pelji tcita noi lei valsi po'u lu ko mi pinxe 
+li'u cu melbi prina ke'a sepi'o loi barda lerfu
 
 @c      It was all very well to say `Drink me,' but the wise little
 @c    Alice was not going to do THAT in a hurry.  `No, I'll look
@@ -267,11 +287,27 @@ abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 @c    `poison,' it is almost certain to disagree with you, sooner or
 @c    later.
 
+i xamgu fa le nu cusku lu ko mi pinxe li'u i ku'i la alis noi prije
+na bazi zukte la'e di'u i lu na go'i i pamai mi catlu sei abu cusku 
+gi'e facki le du'u xukau da sinxa zo vindu li'u i abu pu tcidu so'o
+melbi ke cmalu lisri loi verba poi jelca se xrani gi'e se citka 
+loi cilce danlu gi'e lifri loi drata tolpluka ki'u le nu na morji
+lei sampu jivni poi lei pendo cu ctuca ku'o no'u mu'a le nu lo xunre
+glare tunta cu jelca xrani lo za'o jgari be ty zi'e no'u mu'a le nu
+va'o le nu condi mutce sraku le degji sepi'o lo dakfu kei ty ta'e
+ciblu cirko i abu noroi tolmorji le du'u le nu da dukse le ka pinxe 
+lo se botpi be le se tcita be zo vindu bazi ja bazu banza da    
+
 @c      However, this bottle was NOT marked `poison,' so Alice ventured
 @c    to taste it, and finding it very nice, (it had, in fact, a sort
 @c    of mixed flavour of cherry-tart, custard, pine-apple, roast
 @c    turkey, toffee, and hot buttered toast,) she very soon finished
 @c    it off.
+
+i ku'i le vi botpi na se tcita zo vindu iseki'ubo la alis darsi le nu
+vu'irga'e le selvau kei gi'e facki le nu sy pluka to je'u sy vrusi lo
+mixre be lo jbatisna ku joi lo sovykruji ku joi lo grutrxananase kujoi
+lo seljukpa xukre'u ku joi lo satmatne ku joi lo glare ke matne jelnanba 
 
 @c         *       *       *       *       *       *       *
 
@@ -279,8 +315,19 @@ abu troci le nu le cmalu ke solji ckiku cu co'e le stela i uidai mapti
 
 @c         *       *       *       *       *       *       *
 
+@format
+
+         *       *       *       *       *       *       *
+             *       *       *       *       *       *
+         *       *       *       *       *       *       *
+
+@end format
+
 @c      `What a curious feeling!' said Alice; `I must be shutting up
 @c    like a telescope.'
+
+i lu ue cizra selga'e sei la alis cusku i ju'o mi se polje tai lo 
+darvistci li'u
 
 @c      And so it was indeed:  she was now only ten inches high, and
 @c    her face brightened up at the thought that she was now the right
