@@ -48,6 +48,11 @@ dasni lo barda krebasti li'u
 @c    did it,) he did not look at all comfortable, and it was certainly
 @c    not becoming.
 
+i ta'o le pajni cu du le noltrunau noi dasni le nolmapku nega'u 
+le krebasti to ko catlu le craxra va'o le nu do djica le nu viska
+le nu dasni ta'i makau toi gi'enaisai simlu le ka kufra i ju'o 
+na melbi mapti
+
 @c      `And that's the jury-box,' thought Alice, `and those twelve
 @c    creatures,' (she was obliged to say `creatures,' you see, because
 @c    some of them were animals, and some were birds,) `I suppose they
@@ -57,13 +62,27 @@ dasni lo barda krebasti li'u
 @c    meaning of it at all.  However, `jury-men' would have done just
 @c    as well.
 
+i lu ta pairkamni tsina sei la alis pensi i lei va pare danlu to ei 
+abu cusku zo danlu ki'u le nu ge su'o dy mabru gi su'o dy cipni toi
+cu pe'i pairkamnycmi li'u i abu reji'iciroi cusku le romoi valsi gi'e
+jgira mutce ki'u le nu jinvi to drani toi le du'u so'usai cmalu nixli
+le me abu moi cu djuno le du'u makau smuni i ku'i zo paicmi ji'a mapti
+banzu 
+
 @c      The twelve jurors were all writing very busily on slates.
 @c    `What are they doing?'  Alice whispered to the Gryphon.  `They
 @c    can't have anything to put down yet, before the trial's begun.'
 
+i ro le pare pairkamnycmi cu zuktce ciska fi lo tanbo i lu tu ma zukte 
+sei la alis fi le cpicinfo cu tolylau cusku i noda kakne le nu tu 
+ciska kei pu le nu le nunpai cu cfari li'u
+
 @c      `They're putting down their names,' the Gryphon whispered in
 @c    reply, `for fear they should forget them before the end of the
 @c    trial.'
+
+i lu tu ciska le tu cmene sei le cpicinfo cu tolylau spuda ki'u le nu
+terpa le nu tolmorji pu le nu le nunpai cu tolcfari li'u
 
 @c      `Stupid things!' Alice began in a loud, indignant voice, but
 @c    she stopped hastily, for the White Rabbit cried out, `Silence in
