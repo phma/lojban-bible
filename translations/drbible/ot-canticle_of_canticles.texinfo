@@ -1,5 +1,5 @@
 @node		papirevomo'o, selsa'a1, pamo'o, pamo'o
-@chapter	papirevomo'o le selsa'a pe la solomon.
+@chapter	papirevomo'o la selsa'a pe la solomon.
 
 @menu
 * selsa'a1::	[Song of Solomon Chapter 1]
@@ -9,7 +9,7 @@
 @end menu
 
 @c    SOLOMON'S CANTICLE OF CANTICLES
-le selsa'a pe la solomon.
+la selsa'a pe la solomon.
 
 
 @c    This Book is called the Canticle of Canticles, that is to say, the most
@@ -31,7 +31,7 @@ le selsa'a pe la solomon.
 
 @c "This is this song of songs, which is solomon's".
 @c numbers bumped to fit with the majority of bibles
-1:1. ni'oni'o di'e me le selsa'a pe ro selsa'a fi'o finti la solomon.
+1:1. ni'oni'o di'e me la selsa'a pe ro selsa'a fi'o finti la solomon.
 
 @c    1:1. Let him kiss me with the kiss of his mouth:  for thy breasts are
 @c    better than wine,
