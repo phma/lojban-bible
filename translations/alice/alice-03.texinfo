@@ -33,6 +33,10 @@ goi ko'a cu facki le du'u ko'a pendo tavla ra setaida'i le nu
 ko'a se slabu ra roroi le nu ko'a jmive i je'u ko'a pu je'aze'u daupro
 la cipnrlori noi uo badri carna gi'e cusku lu mi tolcitmau do gi'eja'ebo
 @c stidi lu le cipnrlori li'u .i ro cipnrlori cu babgalo mi'e pier.
+@c i mi tugni i po'o mi pu na djuno le du'u la'ozoi Lory zoi sinxa makau
+@c ije mi lazni i ku'i zo babgalo ki'a
+@c i lei vi se casnu sumti cu cmene ija'ebo mi pilno zo la enai zo le
+@c mi'e adam
 junmau li'u po'o ije la'edi'u zo'u la alis na curmi secau le nu
 djuno le du'u ly jai nanca makau ije ki'u le nu la cipnrlori cu je'a tolsarxe
 le nu cusku le du'u makau se jai nanca ly na se sumji se cusku
