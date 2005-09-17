@@ -31,7 +31,9 @@ la selsa'a pe la solomon.
 
 @c "This is this song of songs, which is solomon's".
 @c numbers bumped to fit with the majority of bibles
-1:1. ni'oni'o di'e me la selsa'a pe ro selsa'a fi'o finti la solomon.
+
+@c traji: "X of Xs" is the Hebrew superlative.
+1:1. ni'oni'o di'e me la traji selsa'a fi'e la solomon.
 
 @c    1:1. Let him kiss me with the kiss of his mouth:  for thy breasts are
 @c    better than wine,
@@ -47,10 +49,12 @@ moklu .imu'ibo le do kamprami cu zmadu loi vanju
 @c    1:2. Smelling sweet of the best ointments.  Thy name is as oil poured
 @c    out:  therefore young maidens have loved thee.
 
-1:3. .i pluka fa le panci be do .i le cmene be do tai loi ctile cu
+1:3. .i pluka fa le xagrai raspanci be do .i le cmene be do tai loi grasu cu
 ze'o cavyfle .i .uenai lo nixli puco'i gletu do
 @c help!  I don't have any idea how to get the ointment/perfume stuff in
 @c there (same thing in 1:4) -jrd.
+@c raspanci. n.b. lo ctile is a hydrocarbon; oils of biological origin grasu.
+@c In en: the distinction is liquid vs. solid; not in jbo:. -phma
 
 @c    1:3. Draw me:  we will run after thee to the odour of thy ointments.  The
 @c    king hath brought me into his storerooms:  we will be glad and rejoice
@@ -81,7 +85,7 @@ gleki je salci do ca leza'i morji fi le do kamprami .enai lei vanju
 @c    1:4. I am black but beautiful, O ye daughters of Jerusalem, as the
 @c    tents of Cedar, as the curtains of Solomon.
 
-1:5. .i mi xekri gi'e ku'i melbi doi tixnu pe'a be la DJErusalem. fi da
+1:5. .i mi xekri gi'e ku'i melbi doi tixnu pe'a be la ierucalem. fi da
 poi simsa le murzda pe la kedar. .e le murta pe la solomon.
 @c the various translations i looked at are ambigious as to whether the
 @c speaker is black in the qualities described, or beautiful in them; I went
@@ -129,13 +133,15 @@ re'o le murzda pe le lanli'e
 @c    1:8. To my company of horsemen, in Pharao's chariots, have I likened
 @c    thee, O my love.
 
-1:9. .i mi do karbi loi xirma pe le la faros xirxelkla doi do noi
+1:9. .i mi do karbi loi xirma pe le la faron xirxelkla doi do noi
 mi prami ke'a
 
 @c    1:9. Thy cheeks are beautiful as the turtledove's, thy neck as jewels.
 
 1:10. .i le flira be do cu melbi fi tu'a lo jemna .i le cnebo be do cu
 go'i fi tu'a le linsi poi solji
+@c Apparently the word תרים, which Douay translates as "turtledoves" (turturu), is
+@c ambiguous and can also mean some kind of jewelry.
 
 @c    1:10. We will make thee chains of gold, inlaid with silver.
 
@@ -146,7 +152,8 @@ go'i fi tu'a le linsi poi solji
 
 @c anyone know how to better fu'ivla-ify "Nardostachys jatamansi"?  Or perhaps
 @c would be better to do as some translations and just say "my perfume"? -jrd
-1:12. .i ca lenu le nolraitru pu vreta kei le mi genjrnardostatce cu benji
+@c {nardostaxi} is enough. "stachys" is Greek, so "ch" is {x}. -phma
+1:12. .i ca lenu le nolraitru pu vreta kei le mi nardostaxi cu benji
 le panci be ri
 
 @c    1:12. A bundle of myrrh is my beloved to me, he shall abide between my
@@ -159,14 +166,17 @@ vreta le jbini be le'i mi tatru
 @c    Engaddi.
 
 @c spatrsupresu is attempted fu'ivla of genus Cupressus. --jrd
-1:14. .i pe'a me lo spatrsupresu girzu poi xabju le vanju foldi be
-vi la engadis fa le mi selprami
+@c It's not cypress, it's henna, which is כפר in Hebrew, and the LXX
+@c translated it by sound as κυπρος.
+1:14. .i pe'a me lo me'andi rulgri poi xabju le vanfoi be
+vi la engydis fa le mi selprami
 
 @c    1:14. Behold thou are fair, O my love, behold thou are fair, thy eyes
 @c    are as those of doves.
 
 1:15. .i ko viska leza'i do melbi doi do noi mi prami ke'a .i ko viska
 leza'i do melbi .i le do klana cu simsa lo papcpi
+@c papcpi? tcacpi? kolmba? -phma
 
 @c    1:15. Behold thou art fair, my beloved, and comely.  Our bed is
 @c    flourishing.
@@ -181,7 +191,7 @@ trina .iji'a le mi'o ckana cu crino
 
 1:17. .i le mi'o zdani cu se zbasu fi lei mudri be lo tricrsedrus
 .e lo spatrsupresu tricu
-
+@c Hebrew for cypress is ברותים. Greek is κυπαρισσοι. Compare henna above. -phma
 
 @c    Canticle of Canticles Chapter 2
 @node		remoi selsanga, cimoi selsanga, pamoi selsanga, papirevomoi pagbu
@@ -192,8 +202,10 @@ trina .iji'a le mi'o ckana cu crino
 @c    2:1. I am the flower of the field, and the lily of the valleys.
 
 @c fu'ivla xrulrlili'u from genus Lilium.
-2:1. ni'oni'o mi me pe'a lo rozgu pe la caron. gi'e me pe'a lo
-xrulrlili'u pe lo ma'arbi'i
+@c The rose of Sharon is not a rose. fu'irvlagau fi le xebro.
+@c {xrulrlili'u} sounds really awful. Inventing {kartujli}. -phma
+2:1. ni'oni'o mi me pe'a lo xapsele pe la caron. gi'e me pe'a lo
+kartujli pe lo ma'arbi'i
 
 @c    I am the flower of the field. . .Christ professes himself the flower of
 @c    mankind, yea, the Lord of all creatures:  and, ver. 2, declares the
@@ -202,7 +214,7 @@ xrulrlili'u pe lo ma'arbi'i
 
 @c    2:2. As the lily among thorns, so is my love among the daughters.
 
-2:2. .i tu'a lo xrulrlili'u be ne'i loi kiljimca cu simsa le se
+2:2. .i tu'a lo kartujli be ne'i loi kiljimca cu simsa le se
 prami be mi bei ne'i pe'a loi nixli
 
 @c    2:3. As the apple tree among the trees of the woods, so is my beloved
@@ -236,8 +248,8 @@ xance cu birjai mi
 @c    harts of the field, that you stir not up, nor make the beloved to
 @c    awake, till she please.
 
-2:7. .i mi minde do doi tixnu pe'a be la DJErusalem. ca'i le nakni
-je fetsi mirli pe le foldi lenu do na gasnu lenu le kamprami cu
+2:7. .i mi minde do doi tixnu pe'a be la .ierucalem. ca'i le dorkada
+ja mirli pe le foldi lenu do na gasnu lenu le kamprami cu
 cikna kei pu leza'i ri djica
 
 @c    2:8. The voice of my beloved, behold he cometh leaping upon the
@@ -254,7 +266,7 @@ vi le barda cmama kei .e le kelpi'e fo le ga'u mo'ipa'o cmama'a
 @c    behind our wall, looking through the windows, looking through the
 @c    lattices.
 
-2:9. .i le mi selprami cu simsa lo fetsi mirli .a lo citno je nakni
+2:9. .i le mi selprami cu simsa lo dorkada .a lo citno je nakni
 mirli .i za'a ko'a sanli ti'a le mi'a bitmu gi'e catlu pa'o le canko
 gi'e viska pa'o le cankyli'i
 
@@ -266,19 +278,19 @@ gi'e viska pa'o le cankyli'i
 
 @c    2:11. For winter is now past, the rain is over and gone.
 
-2:11. .imu'ibo le dunra cu mulno .ijebo le carmi cu fanmo
+2:11. .imu'ibo le dunra cu mulno .ijebo le carvi cu fanmo
 
 @c    2:12. The flowers have appeared in our land, the time of pruning is
 @c    come:  the voice of the turtle is heard in our land:
 
-2:12. .i le xrula cu tolcanci le tumla .i le temci pe le puvsanga cu cabna
-.i le voksa be lo papcpi cu ka'e tirna ne'i le tumla
+2:12. .i le xrula cu tolcanci le tumla .i le temci pe le puvysanga cu cabna
+.i le voksa be lo turturu cu ka'e tirna ne'i le tumla
 
 @c    2:13. The fig tree hath put forth her green figs:  the vines in flower
 @c    yield their sweet smell.  Arise, my love, my beautiful one, and come:
 
 2:13. .i lo figytricu cu sabji le ri crino figre .i le parspa noi
-ca ponse lo xrula cu se panci leka titla .i ko ckali'a doi le mi
+ca se xrula cu se panci leka titla .i ko ckali'a doi le mi
 selprami do'u doi melbi gi'e klama li'u
 
 @c    2:14. My dove in the clefts of the rock, in the hollow places of the
@@ -286,8 +298,8 @@ selprami do'u doi melbi gi'e klama li'u
 @c    is sweet, and thy face comely.
 
 2:14. .i doi papcpi noi jbini lei rokci vi le mipri pagbu be le cmana
-ku'o ko jarco le flira be do mi .i ko curmi lenu mi tirna le voksa
-be do sepi'o le kerlo be mi .imu'ibo le voksa be do cu titla .ijebo
+ku'o ko jarco le flira be do mi .i mi tirna le voksa
+be ko sepi'o le kerlo be mi .imu'ibo le voksa be do cu titla .ijebo
 le flira be do cu melbi
 
 @c    2:15. Catch us the little foxes that destroy the vines:  for our
@@ -303,13 +315,13 @@ le mi'o vanju foldi cu bevri le kukte vanjba
 @c    2:16. My beloved to me, and I to him who feedeth among the lilies,
 
 2:16. .i mi prami ko'a .ije ko'a prami mi .i le ko'a terlanme cu citka
-vi lo xrulrlili'u
+vi lo kartujli
 
 @c    2:17. Till the day break, and the shadows retire.  Return:  be like, my
 @c    beloved, to a roe, or to a young hart upon the mountains of Bether.
 
 2:17. .i pu'o leza'i le djedi cu cfari gi'e lei ctino cu cliva .i
-ko carna doi le mi selprami .i ko simsa lo fetsi ja citno jebo nakni
+ko carna doi le mi selprami .i ko simsa lo dorkada ja citno
 mirli be ga'u le cmana pe la beter.
 
 
@@ -339,7 +351,7 @@ mi pruxi cu prami ku'o gi'e na facki ri
 @c    found him not.
 
 3:2. .i mi ba ckali'a gi'e litru le vi'a tcadu .i vi'a le klaji .e
-le rotsu dargu mi ba sisku da poi le mi pruxi cu prami .i mi pu
+le ganra dargu mi ba sisku da poi le mi pruxi cu prami .i mi pu
 sisku gi'e na facki ri
 
 @c    3:3. The watchmen who keep the city, found me:  Have you seen him, whom
@@ -361,8 +373,8 @@ mi jbena ke'a
 @c    of the fields, that you stir not up, nor awake my beloved, till she
 @c    please.
 
-3:5. .i mi minde do doi tixnu pe'a be la DJErusalem. ca'i le nakni
-je fetsi mirli pe le foldi lenu do na gasnu lenu le kamprami cu
+3:5. .i mi minde do doi tixnu pe'a be la .ierucalem. ca'i le dorkada
+ja mirli pe le foldi lenu do na gasnu lenu le kamprami cu
 cikna kei pu leza'i ri djica
 
 @c    3:6. Who is she that goeth up by the desert, as a pillar of smoke of
@@ -376,7 +388,7 @@ frankensens. .e ro le purmo pe le vecnu
 @c    surrounded the bed of Solomon?
 
 3:7. .i za'a le ckaxelkla pe la solomon. .i cino le vrirai nanmu
-pe la EZrei,al.
+pe la .israEL.
 
 @c    3:8. All holding swords, and most expert in war:  every man's sword upon
 @c    his thigh, because of fears in the night.
@@ -387,7 +399,7 @@ certu le nundamba .imu'ibo le se terpa cu nicte
 @c    3:9. King Solomon hath made him a litter of the wood of Libanus:
 
 3:9. .i la solomon. noi nolraitru cu zbasu le ckaxelkla le mudri
-pe la lubnogug.
+pe la lubnygug.
 
 @c    3:10. The pillars thereof he made of silver, the seat of gold, the
 @c    going up of purple:  the midst he covered with charity for the daughters
