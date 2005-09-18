@@ -1,5 +1,5 @@
 @node		papirevomoi pagbu, pamoi selsanga, pamoi pagbu, pamoi pagbu
-@chapter	papirevomo'o la selsa'a pe la solomon.
+@chapter	papirevomo'o la selsa'a pe la clomon.
 
 @menu
 * pamoi selsanga::	[Song of Solomon Chapter 1]
@@ -9,7 +9,7 @@
 @end menu
 
 @c    SOLOMON'S CANTICLE OF CANTICLES
-la selsa'a pe la solomon.
+la selsa'a pe la clomon.
 
 
 @c    This Book is called the Canticle of Canticles, that is to say, the most
@@ -32,8 +32,8 @@ la selsa'a pe la solomon.
 @c "This is this song of songs, which is solomon's".
 @c numbers bumped to fit with the majority of bibles
 
-@c traji: "X of Xs" is the Hebrew superlative.
-1:1. ni'oni'o di'e me la traji selsa'a fi'e la solomon.
+@c traji: "X of Xs" is the Hebrew superlative. -phma
+1:1. ni'oni'o di'e me la traji selsa'a fi'e la clomon.
 
 @c    1:1. Let him kiss me with the kiss of his mouth:  for thy breasts are
 @c    better than wine,
@@ -53,7 +53,7 @@ moklu .imu'ibo le do kamprami cu zmadu loi vanju
 ze'o cavyfle .i .uenai lo nixli puco'i gletu do
 @c help!  I don't have any idea how to get the ointment/perfume stuff in
 @c there (same thing in 1:4) -jrd.
-@c raspanci. n.b. lo ctile is a hydrocarbon; oils of biological origin grasu.
+@c raspanci. lo ctile is a hydrocarbon; oils of biological origin grasu.
 @c In en: the distinction is liquid vs. solid; not in jbo:. -phma
 
 @c    1:3. Draw me:  we will run after thee to the odour of thy ointments.  The
@@ -86,7 +86,7 @@ gleki je salci do ca leza'i morji fi le do kamprami .enai lei vanju
 @c    tents of Cedar, as the curtains of Solomon.
 
 1:5. .i mi xekri gi'e ku'i melbi doi tixnu pe'a be la ierucalem. fi da
-poi simsa le murzda pe la kedar. .e le murta pe la solomon.
+poi simsa le murzda pe la kedar. .e le murta pe la clomon.
 @c the various translations i looked at are ambigious as to whether the
 @c speaker is black in the qualities described, or beautiful in them; I went
 @c with the latter because melbi has a place for it .u'i -jrd
@@ -100,9 +100,8 @@ poi simsa le murzda pe la kedar. .e le murta pe la solomon.
 @c    my colour:  the sons of my mother have fought against me, they have made
 @c    me the keeper in the vineyards:  my vineyard I have not kept.
 
-1:6. .i ko na caltu mi mu'i leza'i mi xekri ri'a lenu gau le solri
-le mi skari cu binxo .i le bersa be le mi mamta cu damba mi .i tu'a
-ri rinka lenu mi kurji le vanju foldi .iku'i le mi vanju foldi na
+1:6. .i ko toljundi leza'i mi xekri seja'e lenu lo solri cu skari'a mi .i le bersa
+be le mi mamta cu damba mi .i gau ri mi kurji le vanfoi .iku'i le mi vanfoi na
 se kurji mi
 
 @c    1:6. Shew me, O thou whom my soul loveth, where thou feedest, where
@@ -138,10 +137,14 @@ mi prami ke'a
 
 @c    1:9. Thy cheeks are beautiful as the turtledove's, thy neck as jewels.
 
-1:10. .i le flira be do cu melbi fi tu'a lo jemna .i le cnebo be do cu
-go'i fi tu'a le linsi poi solji
+1:10. .i le flira be do cu melbi ne'i le jmedjine .i le cnebo be do cu
+go'i ne'i le bidjylinsi
 @c Apparently the word תרים, which Douay translates as "turtledoves" (turturu), is
-@c ambiguous and can also mean some kind of jewelry.
+@c ambiguous and can also mean some kind of jewelry. -phma
+@c Checked further. The turtledove is also called the ring-dove. The translation
+@c "like turtledoves" is from כתרים; "in circlets" is בתרים, which is the MT
+@c reading. -phma
+@c Should the last word be {bidju}, {bidjylinsi}, or {boijmelinsi}? -phma
 
 @c    1:10. We will make thee chains of gold, inlaid with silver.
 
@@ -159,7 +162,7 @@ le panci be ri
 @c    1:12. A bundle of myrrh is my beloved to me, he shall abide between my
 @c    breasts.
 
-1:13. .i pe'a me lo bakfu be la mir. fa le mi selprami .i ri ba
+1:13. .i pe'a me lo bakfu be lo molmolo fa le mi selprami .i ri ba
 vreta le jbini be le'i mi tatru
 
 @c    1:13. A cluster of cypress my love is to me, in the vineyards of
@@ -182,15 +185,18 @@ leza'i do melbi .i le do klana cu simsa lo papcpi
 @c    flourishing.
 
 1:16. .i ko viska leza'i do melbi doi do noi mi prami ke'a ku'o gi'e cinse
-trina .iji'a le mi'o ckana cu crino
+trina .iji'a le mi'o ckana cu pezykai
 @c other translations use "green" or "verdant".  I'm not sure if a pe'a
 @c should be attached or not.. --jrd
+@c Not {crino}, that would be ירק. According to CCJ, they're in a vineyard
+@c with a henna hedge.
+@c See http://www.hennapage.com/henna/encyclopedia/growing/songofsongs.html .
 
 @c    1:16. The beams of our houses are of cedar, our rafters of cypress
 @c    trees.
 
-1:17. .i le mi'o zdani cu se zbasu fi lei mudri be lo tricrsedrus
-.e lo spatrsupresu tricu
+1:17. .i le mi'o zdani cu se greku lei mudri be lo ricrcedro
+gi'e ve bitmu lo cidyku'u
 @c Hebrew for cypress is ברותים. Greek is κυπαρισσοι. Compare henna above. -phma
 
 @c    Canticle of Canticles Chapter 2
@@ -241,7 +247,7 @@ lo plise .imu'ibo mi bilma pe'a fi le kamprami
 @c    2:6. His left hand is under my head, and his right hand shall embrace
 @c    me.
 
-2:6. .i le ko'a zunle xance cu cnita le mi stedi .ije le ko'a pritu
+2:6. .i le ko'a zunle xance cu cnita le mi stedu .ije le ko'a pritu
 xance cu birjai mi
 
 @c    2:7. I adjure you, O ye daughters of Jerusalem, by the roes, and the
@@ -268,7 +274,7 @@ vi le barda cmama kei .e le kelpi'e fo le ga'u mo'ipa'o cmama'a
 
 2:9. .i le mi selprami cu simsa lo dorkada .a lo citno je nakni
 mirli .i za'a ko'a sanli ti'a le mi'a bitmu gi'e catlu pa'o le canko
-gi'e viska pa'o le cankyli'i
+gi'e viska pa'o le julne
 
 @c    2:10. Behold my beloved speaketh to me:  Arise, make haste, my love, my
 @c    dove, my beautiful one, and come.
@@ -289,9 +295,10 @@ gi'e viska pa'o le cankyli'i
 @c    2:13. The fig tree hath put forth her green figs:  the vines in flower
 @c    yield their sweet smell.  Arise, my love, my beautiful one, and come:
 
-2:13. .i lo figytricu cu sabji le ri crino figre .i le parspa noi
+2:13. .i lo figytricu cu sabji le ri lirfigre .i le parspa noi
 ca se xrula cu se panci leka titla .i ko ckali'a doi le mi
 selprami do'u doi melbi gi'e klama li'u
+@c Should {parspa} be {vanspa}? It is a vineyard.
 
 @c    2:14. My dove in the clefts of the rock, in the hollow places of the
 @c    wall, shew me thy face, let thy voice sound in my ears:  for thy voice
@@ -352,19 +359,19 @@ mi pruxi cu prami ku'o gi'e na facki ri
 
 3:2. .i mi ba ckali'a gi'e litru le vi'a tcadu .i vi'a le klaji .e
 le ganra dargu mi ba sisku da poi le mi pruxi cu prami .i mi pu
-sisku gi'e na facki ri
+sisku gi'e na tolcri ri
 
 @c    3:3. The watchmen who keep the city, found me:  Have you seen him, whom
 @c    my soul loveth?
 
-3:3. .i le pulji poi kurji le tcadu cu facki mi .i mi cusku fi ri
+3:3. .i le pulji poi kurji le tcadu cu tolcri mi .i mi cusku fi ri
 fe lu xu do viska da poi le mi pruxi cu prami li'u
 
 @c    3:4. When I had a little passed by them, I found him whom my soul
 @c    loveth:  I held him:  and I will not let him go, till I bring him into my
 @c    mother's house, and into the chamber of her that bore me.
 
-3:4. .i ba'o lenu mi pagre vi le pulji kei mi facki ko'a poi le mi
+3:4. .i ba'o lenu mi pagre vi le pulji kei mi tolcri ko'a poi le mi
 pruxi cu prami .i mi birjai ko'a gi'e na sisti pu'o lenu mi lidne
 ko'a fi'o selkla le zdani pe le mi mamta ne'i le sipku'a pe da poi
 mi jbena ke'a
@@ -381,13 +388,13 @@ cikna kei pu leza'i ri djica
 @c    aromatical spices, of myrrh, and frankincense, and of all the powders
 @c    of the perfumer?
 
-3:6. .i ma klama fi le sudyfoi tai lo danmo kamju pe la mir. .e la
-frankensens. .e ro le purmo pe le vecnu
+3:6. .i ma klama fi le sudyfoi tai lo danmo kamju pe lo molmolo .e lo
+.albona .e ro le purmo pe le vecnu
 
 @c    3:7. Behold threescore valiant ones of the most valiant of Israel,
 @c    surrounded the bed of Solomon?
 
-3:7. .i za'a le ckaxelkla pe la solomon. .i cino le vrirai nanmu
+3:7. .i za'a le beicka pe la clomon. .i cino le vrirai nanmu
 pe la .israEL.
 
 @c    3:8. All holding swords, and most expert in war:  every man's sword upon
@@ -398,7 +405,7 @@ certu le nundamba .imu'ibo le se terpa cu nicte
 
 @c    3:9. King Solomon hath made him a litter of the wood of Libanus:
 
-3:9. .i la solomon. noi nolraitru cu zbasu le ckaxelkla le mudri
+3:9. .i la clomon. noi nolraitru cu zbasu le beicka le mudri
 pe la lubnygug.
 
 @c    3:10. The pillars thereof he made of silver, the seat of gold, the
@@ -407,14 +414,14 @@ pe la lubnygug.
 
 3:10. le kamju pe ri cu se zbasu fi le rijno .ije le loldi cu se
 zbasu fi le solji .ije le stizu cu zirpu .i le midju cu selgai pe'a
-le prami be le tixnu pe'a be la DJErusalem.
+le prami be le tixnu pe'a be la .ierucalem.
 
 @c    3:11. Go forth, ye daughters of Sion, and see king Solomon in the
 @c    diadem, wherewith his mother crowned him in the day of the joy of his
 @c    heart.
 
-3:11. .i ko klama doi tixnu pe'a be la zion. gi'e viska ko'a goi
-la solomon. noi nolraitru .e le slosedyta'u poi le ko'a mamta cu
+3:11. .i ko klama doi tixnu pe'a be la tsion. gi'e viska ko'a goi
+la clomon. noi nolraitru .e le slosedyta'u poi le ko'a mamta cu
 dunda ko'a ca le djedi pe le specfari'i pe ko'a ca le djedi pe lenu
 ko'a gleki
 
