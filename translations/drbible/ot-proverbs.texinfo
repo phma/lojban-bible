@@ -906,11 +906,17 @@
 @c    11:1. A deceitful balance is an abomination before the Lord:  and a just
 @c    weight is his will.
 
+11:1. ni'o lo tcica laxtci cu se dapma la .iaves .ibo lo satci martilju cu se djica ra
+
 @c    11:2. Where pride is, there also shall be reproach:  but where humility
 @c    is, there also is wisdom.
 
+11:2. .i lo se'ijgi cu seltolsi'a .iku'i lo cumla cu jarco lo ka prije
+
 @c    11:3. The simplicity of the just shall guide them:  and the
 @c    deceitfulness of the wicked shall destroy them.
+
+11:3. .i lo sacpai cu se gidva lo ka ri sampu .i lo palci cu se daspo lo ka ri tcica
 
 @c    11:4. Riches shall not profit in the day of revenge:  but justice shall
 @c    deliver from death.
@@ -967,6 +973,8 @@
 
 @c    11:22. A golden ring in a swine's snout, a woman fair and foolish.
 
+11:22. .i lo melbi ninmu poi rivbi lo logji cu solji djine seljadni xarju
+
 @c    11:23. The desire of the just is all good, the expectation of the
 @c    wicked is indignation.
 
@@ -978,6 +986,9 @@
 
 @c    11:26. He that hideth up corn, shall be cursed among the people:  but a
 @c    blessing upon the head of them that sell.
+
+11:26. .i lo ralte be lo gurni cu se dapma lo natmi .iku'i lo stedu be lo vecnu
+cu se toldapma
 
 @c    11:27. Well doth he rise early who seeketh good things; but he that
 @c    seeketh after evil things, shall be oppressed by them.
@@ -1102,6 +1113,8 @@
 
 @c    13:4. The sluggard willeth, and willeth not:  but the soul of them that
 @c    work, shall be made fat.
+
+13:4. .i lo lazni cu djica gi'enai cpacu .iku'i lo sevzi be lo gunka cu bazypo'e
 
 @c    13:5. The just shall hate a lying word:  but the wicked confoundeth, and
 @c    shall be confounded.
