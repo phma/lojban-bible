@@ -18,22 +18,38 @@
 @c    1:1. In the days of Assuerus, who reigned from India to Ethiopia over a
 @c    hundred and twenty seven provinces:
 
+1:1. ni'oni'o la bi'u .axacuiroc. nolraitru la xingug. bi'i la .itiopias. vu'o
+no'u lo pareze jecpau
+
 @c    1:2. When he sat on the throne of his kingdom, the city Susan was the
 @c    capital of his kingdom.
+
+1:2. .iseca'obo le nolraitru cu zutse le trustizu bene'i la cucan. poi badzda
 
 @c    1:3. Now in the third year of his reign he made a great feast for all
 @c    the princes, and for his servants, for the most mighty of the Persians,
 @c    and the nobles of the Medes, and the governors of the provinces in his
 @c    sight,
 
+1:3. .i ca le cimoi be le .abu nuntru be'o nanca cu gasnu le nu ro le ra turni
+.e le ra selfu cu pixsla ga'a le perso ja natmrmedi jatna .e le partamu .e le
+turni be le jecpau
+
 @c    1:4. That he might shew the riches of the glory of his kingdom, and the
 @c    greatness, and boasting of his power, for a long time, to wit, for a
 @c    hundred and fourscore days.
+
+1:4. .i jarco le ka le seltru cu ricfu je carmi .e le ka .abu banli je tsali
+ze'u lo djedi be li so'i pabino
 
 @c    1:5. And when the days of the feast were expired, he invited all the
 @c    people that were found in Susan, from the greatest to the least:  and
 @c    commanded a feast to be made seven days in the court of the garden, and
 @c    of the wood, which was planted by the care and the hand of the king.
+
+1:5. .i ca le nu co'u pixsla .abu jajycpe ro zvati be la cucan. prenu noi banli
+bi'i tolba'i ku'o le purdi be le nolraitru be'o selsruklo tezu'e pixsla ca'o
+lo djedi be li ze
 
 @c    1:6. And there were hung up on every side sky coloured, and green, and
 @c    violet hangings, fastened with cords of silk, and of purple, which were
@@ -42,17 +58,32 @@
 @c    porphyry and white marble:  which was embellished with painting of
 @c    wonderful variety.
 
+1:6. .i lo labmatli .e lo ri'orbu'u .e lo blanu cu se lasna fi lo rijno djine
+lo matlrbutsi joi zirpu skori .i lo marmoru kamju cu sabji .i lo rijno ckana
+.e lo solji ckana@footnote{.a lu lo rijno joi solji ckana li'u} cu cpana lo
+xunro'i joi marmoru joi boijmemai joi xekro'i loldi
+@c I'm not sure what some of these stones are, let alone the best translation. -phma
+
 @c    1:7. And they that were invited, drank in golden cups, and the meats
 @c    were brought in divers vessels one after another.  Wine also in
 @c    abundance and of the best was presented, as was worthy of a king's
 @c    magnificence.
 
+1:7. .i punji le selpinxe lo solji kabri .i lo'i vrici kabri cu ficsi'u .i lo
+nolraitru vanju cu mutce le ka le nolraitru cu dunda
+
 @c    1:8. Neither was there any one to compel them to drink that were not
 @c    willing, but as the king had appointed, who set over every table one of
 @c    his nobles, that every man might take what he would.
 
+1:8. .i flalu le nu pinxe bai noda fu le nolraitru noi minde lei prenu pe le
+ri zdani lo nu simna lo se djica be ro remna
+
 @c    1:9. Also Vasthi the queen made a feast for the women in the palace,
 @c    where king Assuerus was used to dwell.
+
+1:9. .i ji'a la .uactin. noi noltruspe cu pixslagau lei ninmu pe le truzda
+be la .axacuiroc. noi nolraitru
 
 @c    1:10. Now on the seventh day, when the king was merry, and after very
 @c    much drinking was well warmed with wine, he commanded Mauman, and
