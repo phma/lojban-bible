@@ -1,5 +1,5 @@
 @node    vomoi pagbu
-@chapter no'ino'i vomo'o la ractu cu benji lo cmalu me la bil
+@chapter ni'oni'o vomo'o la ractu cu benji lo cmalu me la bil
 
 
 @c                               CHAPTER IV

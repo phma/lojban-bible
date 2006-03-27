@@ -1,5 +1,5 @@
 @node    somoi pagbu
-@chapter no'ino'i somo'o lisri fi la jitfa cakyrespa
+@chapter ni'oni'o somo'o lisri fi la jitfa cakyrespa
 
 
 @c                               CHAPTER IX

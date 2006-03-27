@@ -1,5 +1,5 @@
 @node    bimoi pagbu
-@chapter no'ino'i bimo'o noltruni'u kelcrkroke bo foldi
+@chapter ni'oni'o bimo'o noltruni'u kelcrkroke bo foldi
 
 
 @c                              CHAPTER VIII

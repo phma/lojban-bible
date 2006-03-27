@@ -59,7 +59,7 @@ finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 
 @ifinfo
 @node Top
-@top no'ino'ino'i la alis. cizra je cinri zukte vi le selmacygu'e
+@top ni'oni'oni'o la alis. cizra je cinri zukte vi le selmacygu'e
 
 no'i dei cu xe fanva la'o gy. Alice's Adventures In Wonderland gy. poi
 se finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
@@ -82,7 +82,7 @@ se finti la'o gy. Lewis Carroll gy. .i le nu fanva cu ranji
 @end ifinfo
 
 @node le fukpi te curmi
-@unnumbered no'ino'i le fukpi te curmi [Copying Permissions]
+@unnumbered ni'oni'o le fukpi te curmi [Copying Permissions]
 
 This work, in all forms, is explicitely placed in the public domain.
 @c explicitely?

@@ -1,5 +1,5 @@
 @node    zemoi pagbu
-@chapter no'ino'i zemo'o fenki ke tcati kansi'u
+@chapter ni'oni'o zemo'o fenki ke tcati kansi'u
 
 @c                               CHAPTER VII
 @c                                 zemo'o 

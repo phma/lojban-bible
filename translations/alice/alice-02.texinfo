@@ -1,5 +1,5 @@
 @node    remoi pagbu
-@chapter no'ino'i remo'o le se klaku lalxu
+@chapter ni'oni'o remo'o le se klaku lalxu
 
 @c                               CHAPTER II
 

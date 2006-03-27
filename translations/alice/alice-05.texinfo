@@ -1,5 +1,5 @@
 @node    mumoi pagbu
-@chapter no'ino'i mumo'o se djusku lo ciftoldi
+@chapter ni'oni'o mumo'o se djusku lo ciftoldi
 
 
 @c                                CHAPTER V

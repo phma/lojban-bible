@@ -1,5 +1,5 @@
 @node    cimoi pagbu
-@chapter no'ino'i cimo'o le me la kaukus nu bajra jivna e le clani lisri
+@chapter ni'oni'o cimo'o le me la kaukus nu bajra jivna e le clani lisri
 
 
 @c                               CHAPTER III

@@ -1,5 +1,5 @@
 @node    pamoi pagbu
-@chapter no'ino'i pamo'o mo'ini'a le ractu kevna
+@chapter ni'oni'o pamo'o mo'ini'a le ractu kevna
 
 @c                                CHAPTER I
 
