@@ -465,7 +465,7 @@ ractu ginai cafmi'a sei la alis te preti li'u
 @c    Turtle angrily:  `really you are very dull!'
 
 i lu mi'a te cmene ra lu ractu cafmi'a li'u ki'u le nu ra ctuca mi'a sei
-la jitfa cakyrespa cu fange cusku i je'u do bebna mutce li'u
+la jitfa cakyrespa cu fengu cusku i je'u do bebna mutce li'u
 
 @c      `You ought to be ashamed of yourself for asking such a simple
 @c    question,' added the Gryphon; and then they both sat silent and
