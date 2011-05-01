@@ -4,4 +4,6 @@ contain all the translations of the Bible into Lojban that have been
 done, as of the initial commit; please add the others. For write 
 permission, ask Pierre.
 
+For documentation of USFM, see http://paratext.ubs-translations.org/about/usfm .
+
 https://github.com/phma/lojban-bible/blob/master/Matthew.usfm
