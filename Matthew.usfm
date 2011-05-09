@@ -1,73 +1,87 @@
 \id MAT
-\h Matthew
-\toc2 Matthew
-\h 	ni'o lo xagydatnynoi\f +I think the grammer here is off.\f* befi la .mataios.  
+\h mataios
+\toc1 lo xagdatnynoi befi la .mataios.
+\rem +I think the grammer here is off.\rem*
+\toc2 mataios
+\mt2 ni'o lo xagydatnynoi befi la
+\mt1 .mataios.  
 
 \c 1
 \v 1 
-ni'o lo krasi pe la .iesus. .i zo'e se trumapkyprenu.\f + Or "xrison" but the word, as used in the New Testament,  
-is a title and not a name. The term means Anointed One and carries the idea of a rescuer or deliverer and of a regent or monarch; also in verse 18.\f*
-  .i zo'e bersa la doVID. .i zo'e bersa la .ab,ro'OM.
+ni'o lo krasi pe la .iesus. po'u le trumapkyprenu
+\rem + Or "xrison" but the word, as used in the New Testament,  
+is a title and not a name. The term means Anointed One and carries the idea of a rescuer or deliverer and of a regent or monarch; also in verse 18.\rem*
+\rem Changed footnote to remark. Footnotes should be in Lojban. -phma\rem*
+  noi seldze la daVID. noi seldze la .avra'AM.
+\rem V versus B is a quibble, as they're the same letter in Hebrew (unless they're ו, which is never B), and Greek was in the process of changing the pronunciation of β.
+\rem "seldze", not "bersa", since Hebrew בן is used for nth grandsons and people with characteristics as well as sons. -phma
 
-\h 	ni'o lo dzepoi pe la .iesus.
+\s 	ni'o lo dzepoi pe la .iesus.
 \v 2 	
-ni'o la .ab,ro'OM. patfu la .iitsXOK.
-  .i la .iitsXOK. patfu la .ia'akOB.
-  .i la .ia'akOB. patfu la .ii'u,DOX. e lo ri bruna.
+ni'o la .avra'AM. patfu la .iitsXAK.
+  .i la .iitsXAK. patfu la .iaKOV.
+\rem Or "ia,aKOV", but there is no "h" in the name. \rem*
+  .i la .iaKOV. patfu la .ie'uDAS. e lo ri bruna.
 \v 3 
-  .i la .ii'u,DOX. patfu la ferkatnas. e la xunycernis. fi'o mamta la toMOR.
-  .i la ferkatnas. patfu la xets,RON.
-  .i la xets,RON. patfu la rom. 
+  .i la .ie'uDAS. patfu la perets. e la zerax. fi'o mamta la taMAR.
+\rem Leave the meanings of Perez and Zerah in Genesis where they were named. -phma\rem*
+  .i la perets. patfu la xetsRON.
+  .i la xetsRON. patfu la ram. 
 \v 4 
-  .i la rom.  patfu la .am,i,nadAB.
-  .i la .am,i,nadAB. patfu la naxCYN.
-  .i la naxCYN. patfu la salMYN.
+  .i la ram.  patfu la .aminaDAV.
+  .i la .aminaDAB. patfu la naxyCON.
+  .i la naxyCON. patfu la salMON.
 \v 5 
-  .i la salMYN.e la roXOB. rirni la bo'az.
-  .i la bo'az.e la rut. rirni la .o,BEID.
-  .i la .o,BEID. patfu la .iica'is.
+  .i la salMON. e la raXAV. rirni la bo,az.
+\rem Should this be "fi'o mamta" like Tamar? -phma\rem*
+  .i la bo,az. e la rut. rirni la .oVED.
+  .i la .oVED. patfu la .iicais.
 \v 6 
-  .i la .iica'is. patfu la doVID. nolraitru.
-ni'o la doVID.e fetspe pe la .u,ri'IAX. rirni la cel,u,MON.
+  .i la .iicais. patfu la daVID. poi nolraitru.
+ni'o la daVID. e le fetspe be la .u,ri,IAS. rirni la cyloMON.
 \v 7 
-  .i la cel,u,MON. patfu la rex,abOM.
-  .i la rex,abOM. patfu la .ab,i'IAX.
-  .i la .ab,i'IAX. patfu la .o,SO.
+  .i la cyloMON. patfu la ryxav,AM.
+  .i la ryxav,AM. patfu la .avi,IAS.
+  .i la .avi,IAS. patfu la .aSAS.
 \v 8 
-  .i la .o,SO. patfu la .ie'xocoFOT.
-  .i la .ie'xocoFOT. patfu la .ioROM.
-  .i la .ioROM. patfu la .uz,zi'IAX'.
+  .i la .aSAS. patfu la .ie'ocaFAT.
+  .i la .ie'ocaFAT. patfu la .ioRAM.
+  .i la .ioRAM. patfu la .uzi,IAS.
 \v 9 
-  .i la .uz,zi'IAX'. patfu la .ioTOM.
-  .i la .ioTOM. patfu la .o,XOZ.
-  .i la .o,XOZ. patfu la xizyki,IAS.
+  .i la .uzi,IAS. patfu la .ioTAM.
+  .i la .ioTAM. patfu la .aXAZ.
+  .i la .aXAZ. patfu la xizyki,IAS.
 \v 10 
-  .i la xizyki,IAS. patfu la men,ac,EX.
-  .i la men,ac,EX. patfu la .o,MYN.
-  .i la .o,MYN. patfu la ioci,IAX.
+  .i la xizyki,IAS. patfu la mynaCES.
+  .i la mynaCES. patfu la .aMON.
+  .i la .aMON. patfu la .ioci,IAS.
 \v 11 
-  .i la ioci'IAX. patfu la iek,onIAX. e lo ri bruna. 
-  .i zo'e cabdei zo'e bevri zo'e babilon.
+  .i la .ioci,IAS. patfu la .iexonIAS.\f + \fr 1:11 \ft la .iexonIAS. du la .iexoiaXIN. i zo .iexonIAS. mintu zo .iexoiaXIN.\f* e lo ri bruna
+  ca le nu bevri le natmi la baVEL.
+\rem "babilon" or "bavilon" is ok too, "baVEL" is the Hebrew.
 \v 12 
-ni'o zo'e bevri zo'e babilon. mulcabna 
-     la iek,onIAX. patfu la ce'al,ti'EIL.
-  .i la ce'al,ti'EIL. patfu la zer,ub,boBEL.
+ni'o ba le nu bevri le natmi la baVEL. kei
+     la .iexonIAS. patfu la ce,alti,EL.
+  .i la ce,alti,EL. patfu la zerubaVEL.
 \v 13 
-  .i la zer,ub,boBEL. patfu la .abi'UD.
-  .i la .abi'UD. patfu la .el,i,akAIM.
-  .i la .el,i,akAIM. patfu la .adZOR.
+  .i la zerubaVEL. patfu la .avi'UD.
+  .i la .avi'UD. patfu la .eliaKIM.
+  .i la .eliaKIM. patfu la .aZOR.
+\rem According to Delitzch, it's "aZUR". -phma\rem*
 \v 14 
-  .i la .adZOR. patfu la sad,OK.
-  .i la sad,OK. patfu la .axAIM.
-  .i la .axAIM. patfu la .eli'UD.
+  .i la .aZOR. patfu la tsaDOK.
+  .i la tsaDOK. patfu la .aXIM.
+\rem Delitzch: "iaXIM" -phma\rem*
+  .i la .aXIM. patfu la .eli'UD.
 \v 15 
-  .i la .eli'UD. patfu la .el,e'adzar.
-  .i la .el,e'adzar. patfu la mat,AN.
-  .i la mat,AN. patfu la .i,ak,OB.
+  .i la .eli'UD. patfu la .el,aZAR.
+  .i la .el,aZAR. patfu la maTAN.
+  .i la maTAN. patfu la .iaKOV.
 \v 16 
-  .i la .i,ak,OB. patfu la .i'oSEIF. nakspe la mari'as. 
-  .i la mari'as. se jbena la .iesus. 
-  .i zo'e se trumapkyprenu.
+  .i la .iaKOV. patfu la .ioSEF. noi nakspe la mariam. 
+  .i la mariam. se jbena la .iesus.
+\rem mariam (or maRIAM): so in most of the NT. "Μαρίας", the form here, is the genitive case. \rem*
+  .i ri se valsi zo trumapkyprenu.
 \v 17
 \v 18
 \v 19
