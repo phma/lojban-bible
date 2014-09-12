@@ -16,6 +16,8 @@ Ruth 2
 
 ceirka'ixu'a:prophet:x1 prophesies x2 about x3 on behalf of x4 who is the god of people/religion x5
 
+pronabi:prophet:x1 is a prophet of god x2 prophesying message x3
+
 sudyselxadni:withered
 John 5
 
@@ -189,6 +191,7 @@ partamu: x1 is a partam (some Persian title) of x2 (?)
 Esther 1
 
 rasycu'a:anoint:x1 chooses x2 from among x3 and anoints with oil x4
+rasplicu'a:anoint:x1 chooses x2 from among x3 for purpose x4 and anoints with oil x5
 
 tertugyfla:covenant, pact:f1 is a covenant specifying f2=t3 for community f3=(t1 or both) under conditions f4 by lawgiver f5=(t2 or both)
 
