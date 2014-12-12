@@ -1,9 +1,11 @@
 \id GEN
-\h Genesis
-\toc2 Genesis
-KRASI
+\ide UTF-8
+\h krasi
+\toc2 krasi
+\ms krasi
+\s finti le munje
 \c 1
-to'i la'e lu KRASI li'u pamoi parcatu toi ---------------------------------
+\rem la'e lu KRASI li'u pamoi parcatu toi ---------------------------------
 \v 1
 ni'o la cevni co'a finti le tsani .e le terdi
 \v 2
@@ -345,7 +347,8 @@ ganlo le tricu be le kamji'e
 \v 6
 \v 7
 \v 8
-to'i la'e lu NO,AX li'u remoi parcatu toi ---------------------------------
+\ms nox
+\h krasi | 2 nox
 \v 9
 \v 10
 \v 11
@@ -505,7 +508,8 @@ to'i la'e lu NO,AX li'u remoi parcatu toi ---------------------------------
 \v 31
 \v 32
 \c 12
-to'i la'e lu KO KLAMA li'u cimoi parcatu toi ---------------------------------
+\h krasi | 3 ko klama
+\ms ko klama
 \v 1
 \v 2
 \v 3
@@ -638,7 +642,8 @@ to'i la'e lu KO KLAMA li'u cimoi parcatu toi ---------------------------------
 \v 26
 \v 27
 \c 18
-to'i la'e lu JARCO li'u vomoi parcatu toi ---------------------------------
+\h krasi | 4 jarco
+\ms jarco
 \v 1
 \v 2
 \v 3
@@ -793,7 +798,8 @@ to'i la'e lu JARCO li'u vomoi parcatu toi ---------------------------------
 \v 23
 \v 24
 \c 23
-to'i la'e lu LA SARAT PU NANCA li'u mumoi parcatu toi ---------------------------------
+\ms la .sarat. pu nanca
+\h krasi | 5 la .sarat. pu nanca
 \v 1
 \v 2
 \v 3
@@ -901,7 +907,8 @@ to'i la'e lu LA SARAT PU NANCA li'u mumoi parcatu toi --------------------------
 \v 16
 \v 17
 \v 18
-to'i la'e lu DZECITRI li'u xamoi parcatu toi ---------------------------------
+\ms dzecitri
+\h krasi | 6 dzecitri
 \v 19
 \v 20
 \v 21
@@ -1011,7 +1018,8 @@ to'i la'e lu DZECITRI li'u xamoi parcatu toi ---------------------------------
 \v 7
 \v 8
 \v 9
-to'i la'e lu CLIVA li'u zemoi parcatu toi ---------------------------------
+\ms cliva
+\h krasi | 7 cliva
 \v 10
 \v 11
 \v 12
@@ -1164,7 +1172,8 @@ to'i la'e lu CLIVA li'u zemoi parcatu toi ---------------------------------
 \c 32
 \v 1
 \v 2
-to'i la'e lu LIDNE BENJI li'u bimoi parcatu toi ---------------------------------
+\ms lidne benji
+\h krasi | 8 lidne benji
 \v 3
 .i la .iaKOV. cu lidne be ri be'o benji fi la .eSAV noi bruna vo'a
 vi la se,IR. noi tutra le gugde po'u la .eDOM. ku'o ku'o fu le xe benji
@@ -1325,7 +1334,8 @@ vi la se,IR. noi tutra le gugde po'u la .eDOM. ku'o ku'o fu le xe benji
 \v 42
 \v 43
 \c 37
-to'i la'e lu XABJU li'u somoi parcatu toi ---------------------------------
+\ms xabju
+\h krasi | 9 xabju
 \v 1
 .i la .iaKOV. xabju le gugde poi se xabju le patfu be vo'a zi'eno'u la kyna,an noi gugde
 \v 2
@@ -1564,7 +1574,8 @@ cu kansa .ibu .i ro se gasnu be .ibu cu se snada gau la turni
 \v 22
 \v 23
 \c 41
-to'i la'e lu CO'U NANCA li'u panomoi parcatu toi ---------------------------------
+\ms co'u nanca
+\h krasi | 10 co'u nanca
 \v 1
 \v 2
 \v 3
@@ -1714,6 +1725,8 @@ to'i la'e lu CO'U NANCA li'u panomoi parcatu toi -------------------------------
 \v 15
 \v 16
 \v 17
+\ms jbikla
+\h krasi | 11 jbikla
 \v 18
 \v 19
 \v 20
@@ -1823,6 +1836,8 @@ to'i la'e lu CO'U NANCA li'u panomoi parcatu toi -------------------------------
 \v 25
 \v 26
 \v 27
+\ms pu xabju
+\h krasi | 12 pu xabju
 \v 28
 \v 29
 \v 30
