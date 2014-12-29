@@ -1,6 +1,8 @@
 \id NUM
 \h Numbers
 \toc2 Numbers
+\ms kutytu'a
+\h kutytu'a
 \c 1
 \v 1
 \v 2
@@ -164,6 +166,9 @@
 \v 18
 \v 19
 \v 20
+\ms gercon
+\h kutytu'a | 35 gercon
+\rem #21 is כי תשא (את ראש בני ישראל); this is נשא (את ראש בני גרשון). Both would be "kancu" in Lojban.
 \v 21
 \v 22
 \v 23
@@ -343,6 +348,8 @@
 \v 87
 \v 88
 \v 89
+\ms tergusygau
+\h kutytu'a | 36 tergusygau
 \c 8
 \v 1
 \v 2
@@ -482,6 +489,8 @@
 \v 13
 \v 14
 \v 15
+\ms ko benji
+\h kutytu'a | 37 ko benji
 \c 13
 \v 1
 \v 2
@@ -605,6 +614,8 @@
 \v 39
 \v 40
 \v 41
+\ms korax
+\h kutytu'a | 38 korax
 \c 16
 \v 1
 \v 2
@@ -703,6 +714,8 @@
 \v 30
 \v 31
 \v 32
+\ms xunre bakni
+\h kutytu'a | 39 xunre bakni
 \c 19
 \v 1
 \v 2
@@ -795,6 +808,8 @@
 \v 35
 \c 22
 \v 1
+\ms balak
+\h kutytu'a | 40 balak
 \v 2
 \v 3
 \v 4
@@ -902,6 +917,8 @@
 \v 7
 \v 8
 \v 9
+\ms pinxas
+\h kutytu'a | 41 pinxas
 \v 10
 \v 11
 \v 12
@@ -1075,6 +1092,8 @@
 \v 39
 \c 30
 \v 1
+\ms carbata
+\h kutytu'a | 42 carbata
 \v 2
 \v 3
 \v 4
@@ -1189,6 +1208,8 @@
 \v 40
 \v 41
 \v 42
+\ms velpruce le nunkla
+\h kutytu'a | 43 velpruce le nunkla
 \c 33
 \v 1
 \v 2
