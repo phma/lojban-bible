@@ -1,6 +1,7 @@
 \id 1MA
 \h 1 Maccabees
 \toc2 1 Maccabees
+\c 1
 \v 1
 \v 2
 \v 3
@@ -96,6 +97,7 @@ jdajbu be ca'u le jdajbu be fo le cevni
 \v 65
 \v 66
 \v 67
+\c 2
 \v 1
 \v 2
 \v 3
@@ -155,7 +157,7 @@ jdajbu be ca'u le jdajbu be fo le cevni
 \v 57
 \v 58
 \v 59
-PIKTCITA. va'i la cadrax. fa'u la .abednegon. fa'u la meicax.
+\rem PIKTCITA. va'i la cadrax. fa'u la .abednegon. fa'u la meicax.
 \v 60
 \v 61
 \v 62
@@ -167,6 +169,7 @@ PIKTCITA. va'i la cadrax. fa'u la .abednegon. fa'u la meicax.
 \v 68
 \v 69
 \v 70
+\c 3
 \v 1
 \v 2
 \v 3
@@ -227,6 +230,7 @@ PIKTCITA. va'i la cadrax. fa'u la .abednegon. fa'u la meicax.
 \v 68
 \v 59
 \v 60
+\c 4
 \v 1
 \v 2
 \v 3

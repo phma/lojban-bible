@@ -83,7 +83,7 @@ befydzu zi'epoi se ferti lei djacu (ku'o) zi'e ne ja'i lora jutsi ge'u
 .e piro loi se nalci cipni ne ja'i lori jutsi
 .i zgana fa la cevni fi'o se jinvi loza'i xamgu
 \v 22
-.i cesto'edapma(?!?) ra fa la cevni secu'u lu ko seljbe je
+.i cesto'edapma ra fa la cevni secu'u lu ko seljbe je
 so'imei gi'e se culno lei djacu pe ne'i lei xamsi
 .ije .e'o loi cipni cu so'imei tu'i le terdi li'u
 \v 23
@@ -108,7 +108,7 @@ piro loi terdi .e piro loi befydzu noi befydzu loi terdi li'u
 .i seri'a loza'i se tarmi le tarmi be la cevni cu finti fo'a (???)
 .i seri'a loza'i nakni ce fetsi cu finti fo'a (???)
 \v 28
-.i cesto'edapma(???!!) fo'a fa la cevni
+.i cesto'edapma fo'a fa la cevni
 .ije cusku fi fo'a fa la cevni fe lu ko seljbe je so'imei gi'e se culno loi
 terdi gi'e jinga ri
 .i ko turni loi xamsi finpe .e loi tsani cipni .e piro loi danlu poi
@@ -135,7 +135,7 @@ mulno fa le tsani .ebo le terdi .e piro loi jenmi girzu pe ri
 .i mulri'a fa la cevni ca le zemoi djedi levo'a se gunka (?) noi vo'a zbasu
 .i cadysti fa la cevni ca le zemoi djedi piro leivo'a se gunka noi vo'a zbasu
 \v 3
-.i cesto'edapma (/?!/) fa la cevni le zemoi djedi gi'e cesri'a ri ki'u lenu
+.i cesto'edapma fa la cevni le zemoi djedi gi'e cesri'a ri ki'u lenu
 ca ri cadysti piro lei se gunka poi la cevni cu finti je zbasu
 \v 4
 ni'oni'o di'e lisri le nu finti le tsani .e le terdi .i ca le nu la .iaves. noi cevni
@@ -349,6 +349,7 @@ ganlo le tricu be le kamji'e
 \v 8
 \ms nox
 \h krasi | 2 nox
+\rem to'i la'e lu NO,AX li'u remoi parcatu toi
 \v 9
 \v 10
 \v 11
@@ -510,6 +511,7 @@ ganlo le tricu be le kamji'e
 \c 12
 \h krasi | 3 ko klama
 \ms ko klama
+\rem to'i la'e lu KO KLAMA li'u cimoi parcatu toi
 \v 1
 \v 2
 \v 3
@@ -644,6 +646,7 @@ ganlo le tricu be le kamji'e
 \c 18
 \h krasi | 4 jarco
 \ms jarco
+\rem to'i la'e lu JARCO li'u vomoi parcatu toi
 \v 1
 \v 2
 \v 3
@@ -800,6 +803,7 @@ ganlo le tricu be le kamji'e
 \c 23
 \ms la .sarat. pu nanca
 \h krasi | 5 la .sarat. pu nanca
+\rem to'i la'e lu LA SARAT PU NANCA li'u mumoi parcatu toi
 \v 1
 \v 2
 \v 3
@@ -909,6 +913,7 @@ ganlo le tricu be le kamji'e
 \v 18
 \ms dzecitri
 \h krasi | 6 dzecitri
+\rem to'i la'e lu DZECITRI li'u xamoi parcatu toi
 \v 19
 \v 20
 \v 21
@@ -1020,6 +1025,7 @@ ganlo le tricu be le kamji'e
 \v 9
 \ms cliva
 \h krasi | 7 cliva
+\rem to'i la'e lu CLIVA li'u zemoi parcatu toi
 \v 10
 \v 11
 \v 12
@@ -1174,6 +1180,7 @@ ganlo le tricu be le kamji'e
 \v 2
 \ms lidne benji
 \h krasi | 8 lidne benji
+\rem to'i la'e lu LIDNE BENJI li'u bimoi parcatu toi
 \v 3
 .i la .iaKOV. cu lidne be ri be'o benji fi la .eSAV noi bruna vo'a
 vi la se,IR. noi tutra le gugde po'u la .eDOM. ku'o ku'o fu le xe benji
@@ -1336,6 +1343,7 @@ vi la se,IR. noi tutra le gugde po'u la .eDOM. ku'o ku'o fu le xe benji
 \c 37
 \ms xabju
 \h krasi | 9 xabju
+\rem to'i la'e lu XABJU li'u somoi parcatu toi
 \v 1
 .i la .iaKOV. xabju le gugde poi se xabju le patfu be vo'a zi'eno'u la kyna,an noi gugde
 \v 2
@@ -1576,6 +1584,7 @@ cu kansa .ibu .i ro se gasnu be .ibu cu se snada gau la turni
 \c 41
 \ms nanca li re
 \h krasi | 10 nanca li re
+\rem to'i la'e lu CO'U NANCA li'u panomoi parcatu toi
 \v 1
 \v 2
 \v 3
