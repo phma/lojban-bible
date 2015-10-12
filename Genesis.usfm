@@ -132,7 +132,7 @@ xamgu
 ni'oni'o
 mulno fa le tsani .ebo le terdi .e piro loi jenmi girzu pe ri
 \v 2
-.i mulri'a fa la cevni ca le zemoi djedi levo'a se gunka (?) noi vo'a zbasu
+.i mulri'a fa la cevni ca le zemoi djedi levo'a se gunka noi vo'a zbasu
 .i cadysti fa la cevni ca le zemoi djedi piro leivo'a se gunka noi vo'a zbasu
 \v 3
 .i cesto'edapma fa la cevni le zemoi djedi gi'e cesri'a ri ki'u lenu
@@ -161,15 +161,15 @@ lo vrude .e lo palci
 ni'o lo rirxe cu cliva la .eden. gi'e cimdu'a le purdi gi'e se fendi
 fi voda
 \v 11
-.i le pamoi se cmene zo .piCON. gi'e sruri piro la xaviLOT. no'u le
+.i le pamoi cu se cmene zo .piCON. gi'e sruri piro la xaviLOT. no'u le
 tumla noi se zvati lo solji
 \v 12
-to le vi ra ku solji cu xamgu .iji'a lo krilrbdola .e lo ja'unro'i
+to le va solji cu xamgu .iji'a lo krilrbdola .e lo ja'unro'i
 cu zvati ra toi
 \v 13
-.i le remoi rirxe se cmene zo .giXON. gi'e sruri piro la kuc. noi tumla
+.i le remoi rirxe cu se cmene zo .giXON. gi'e sruri piro la kuc. noi tumla
 \v 14
-.i le cimoi rirxe se cmene zo .xidekel. gi'e litru le stuna be la .aCUR.
+.i le cimoi rirxe cu se cmene zo .xidekel. gi'e litru le stuna be la .aCUR.
 .i le vomoi cu du la .uFRAT.
 \v 15
 ni'o la .iaves. noi cevni cu punji le nanmu le purdi tezu'e lenu gunka
@@ -185,7 +185,7 @@ le dutsimsa sidju be ny li'u
 \v 19
 .i la .iaves. noi cevni pu zbasu fi le dertu fe ro danlu pe le terdi
 .e ro cipni pe le vacri .ije klagau fi la .aDAM. tezu'e lenu facki
-le du'u te cmene makau .ija'ebo le se cmene be ro jmive bei la .aDAM be'o
+le du'u te cmene makau .ija'ebo le se cmene be ro jmive bei la .aDAM be'o ku
 cmene ca'e jy
 \v 20
 .i la .aDAM. cmedu'a fi ro mabru .e ro cipni pe le tsani .e ro danlu pe le
@@ -231,33 +231,34 @@ zbasu lo palku lo figre pezli
 va'o le donri brife kei .i la .aDAM. .e le ri speni cu mipri vo'a le flira be
 la .iaves noi cevni be'o lei tricu be ne'i le purdi
 \v 9
-.i la .iaves. noi cevni cu klacpe la .adam. gi'e cusku lu do zvati ma?
+.i la .iaves. noi cevni cu klacpe la .adam. gi'e cusku lu do zvati ma
 li'u
 \v 10
 .i .abu dafsku lu mi tirna le voksa be do ne'i le purdi .ije mi terpa mu'i
 lenu mi tafcau kei .ije mi mipri mi li'u
 \v 11
-.i cusku lu ma jungau do le du'u tafcau? .i xu do citka le tricu poi mi
-minde do lenu na citka ce'u? li'u
+.i cusku lu ma jungau do le du'u tafcau .i xu do citka le tricu poi mi
+minde do lenu na citka ce'u li'u
 \v 12
 .i la .aDAM. cusku lu le ninmu poi do kansa dunda ce'u mi cu dunda lei
 tricu mi .ije mi citka li'u
 \v 13
-.i la .iaves. noi cevni cu cusku lu do zukte la'edi'u ma? li'u le ninmu
+.i la .iaves. noi cevni cu cusku lu do zukte la'edi'u ma li'u le ninmu
 .i dafsku lu le since cu tcica mi lenu citka li'u
 \v 14
 .i la .iaves. noi cevni cu cusku lu mu'i lenu do zukte la'edi'u kei do
 seldapmau ro mabru .e ro cilce danlu fo lenu cpare fo le betfu kei .e lenu
 citka loi pulce ze'u lenu do jmive li'u le since
 \v 15
-.i mi gasnu lenu do ce le ninmu pe'eje ledo panzi ce le ra panzi cu simbradi
-lenu ge ra darxi do fo le stedu gi do darxi ra fo le jamfu li'u le since
+\rem grammar error with the termset ??
+\rem .i mi gasnu lenu do ce le ninmu pe'eje ledo panzi ce le panzi pe ra cu simbradi
+\rem lenu ge ra darxi do fo le stedu gi do darxi ra fo le jamfu li'u le since
 \v 16
 .i cusku lu mi zengau do le ni pazvau cortu .i do cortu se jbena lo panzi
-.i do <cuqat> le do speni .ije ri turni do li'u le ninmu
+.i do se trina le do speni .ije ri turni do li'u le ninmu
 \v 17
 .i fi la .aDAM. cusku fe lu mu'i lenu do tibytu'i le do speni le nu citka
-le tricu poi mi minde do lenu na citka ce'u keikeikei, dapma le terdi fi'o pagre
+le tricu poi mi minde do lenu na citka ce'u kei kei kei dapma le terdi fi'o pagre
 do .i do cortu citka le teryru'e ze'u lenu do jmive
 \v 18
 .i dunda le jesyspa .e le kardoni do .i do citka le srasu pe le foldi
@@ -277,7 +278,7 @@ le xance le grute gi'e citka gi'e ze'e jmive
 .i la .iaves. noi cevni cu klagau .abu fo le purdi bevi la .eden. tezu'e
 lenu gunka le dertu noi marji ke'a
 \v 24
-.i catke le nanmu .i punji lo ridrkruvi .e lo slilu dakyxa'i <lahat> tezu'e
+.i catke le nanmu .i punji lo ridrkruvi .e lo slilu dakyxa'i poi se fagri tezu'e
 ganlo le tricu be le kamji'e
 \c 4
 \v 1
@@ -1355,6 +1356,7 @@ sei .ibu nanla gi'e kansa lei bersa be la bilXAT. .e la zilPAT. vu'o noi speni l
 gi'e ja'ebo finti seva'u la .ioSEF. fe lo dasri taxfu
 \v 4
 .i lei bruna cu jmibi'o le du'u prami fa le patfu be vo'a la .ioSEF. serai piroi loi bruna kei gi'e
+\rem ??xebni
 xebni .ibu gi'e tolka'e le nu panpi tavla .ibu
 \v 5
 .i la .ioSEF. cu senva lo se senva gi'e cusku fi lei bruna be vo'a .i zenba le ka xebni .ibu
@@ -1417,7 +1419,7 @@ le ri taxfu no'u le dasri taxfu noi se dasni .ibu
 ne'i ky.
 \v 25
 .i tsebi'o mu'i le nu nanba citka kei gi'e galcta gi'e viska le nu .ua sirji
-girzu be loi prenrxiisma,eli cu jbikla fi la gil,AD. .i lei kumte cu bevri la nyXOT.
+girzu be loi prenrxiisma,eli cu jbikla fi la gileAD. .i lei kumte cu bevri la nyXOT.
 .e la tsyris. .e la lot. .i klama gi'e bevri fi le misrygu'e
 \v 26
 .i la .ie'uDAX cu cusku fi lei bruna be vo'a fe lu ma prali fi le nu mi'o
@@ -1495,14 +1497,14 @@ le turni be vo'a be'o noi misro
 .i le turni be .ibu cu jimpe le du'u la turni cu kansa .ibu ja'e le nu
 ro se gasnu be .ibu se snada gau la turni
 \v 4
-.i la .ioSEF. pluka gi'e selfu .i le turni cu fuzygau .ibu le zdani be vo'a
+.i la .ioSEF. pluka gi'e selfu .i le turni cu fuzgau .ibu le zdani be vo'a
 .ije ro se ponse be le turni se dunda fi .ibu
 \v 5
-.i co'aku ca le nu fuzygau fi le zdani be vo'a be'o .e ro se ponse be vo'a kei
+.i co'aku ca le nu fuzgau fi le zdani be vo'a be'o .e ro se ponse be vo'a kei
 la turni cu zandapma le zdani be le misro ki'u la .ioSEF. .i la turni cu zandapma
-ro *zdani* ja foldi se ponse (be my.)
+ro zdani ja foldi se ponse be my.
 \v 6
-.i toljunri ro se ponse gi'e fuzygau la .ioSEF. gi'e na jundi da ji'a poi
+.i toljunri ro se ponse gi'e fuzgau la .ioSEF. gi'e na jundi da ji'a poi
 na se citka be vo'a nanba .i la .ioSEF. cu melbi gi'e pluka se catlu
 \v 7
 .i babo la speni'u be le turni cu catlu la .ioSEF. gi'e cusku lu ko vreta
@@ -1528,7 +1530,7 @@ le bartu
 \v 13
 .i ca le nu le ninmu sanji le nu tolcpa le taxfu le xance gi'e bajykla le bartu kei
 \v 14
-le ninmu cu kixta'a lei selfu xabju be le zdani gi'e cusku lu *re'u* klagau
+le ninmu cu kixta'a lei selfu xabju be le zdani gi'e cusku lu re'u klagau
 le xebro mu'i le nu ckasu mi'a .i klama mi mu'i le nu vreta kansa mi .i mi
 krixa lo cladu mutce
 \v 15
@@ -1552,7 +1554,7 @@ pinfu cu pinfu .i .ibu xabju le pinfu zdani
 .i la turni cu kansa la .ioSEF. gi'e xendo .ibu gi'e pukygau .ibu le
 pinfu zdani fuzme
 \v 22
-.i le pinfu zdani fuzme cu fuzygau la .ioSEF. ro pinfu poi xabju le pinfu zdani
+.i le pinfu zdani fuzme cu fuzgau la .ioSEF. ro pinfu poi xabju le pinfu zdani
 .ije ro vu ta'e se gasnu cu se gasnu .ibu
 \v 23
 .i le pinfu zdani fuzme na sanji lo fasnu be va'o le pinfu zdani .i la turni
