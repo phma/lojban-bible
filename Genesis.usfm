@@ -251,9 +251,9 @@ tricu mi .ije mi citka li'u
 seldapmau ro mabru .e ro cilce danlu fo lenu cpare fo le betfu kei .e lenu
 citka loi pulce ze'u lenu do jmive li'u le since
 \v 15
-\rem grammar error with the termset ??
-\rem .i mi gasnu lenu do ce le ninmu pe'eje ledo panzi ce le panzi pe ra cu simbradi
-\rem lenu ge ra darxi do fo le stedu gi do darxi ra fo le jamfu li'u le since
+\rem grammar error here with jbofihe, but not camxes.
+.i mi gasnu lenu do ce le ninmu pe'eje ledo panzi ce le panzi pe ra cu simbradi
+lenu ge ra darxi do fo le stedu gi do darxi ra fo le jamfu li'u le since
 \v 16
 .i cusku lu mi zengau do le ni pazvau cortu .i do cortu se jbena lo panzi
 .i do se trina le do speni .ije ri turni do li'u le ninmu
@@ -279,8 +279,8 @@ le xance le grute gi'e citka gi'e ze'e jmive
 .i la .iaves. noi cevni cu klagau .abu fo le purdi bevi la .eden. tezu'e
 lenu gunka le dertu noi marji ke'a
 \v 24
-.i catke le nanmu .i punji lo ridrkruvi .e lo slilu dakyxa'i poi se fagri tezu'e
-ganlo le tricu be le kamji'e
+.i catke le nanmu .i punji lo ridrkruvi .e lo slilu dakyxa'i poi se fagri
+tezu'e lo nu ganlo le tricu be le kamji'e
 \c 4
 \v 1
 \v 2
@@ -1356,9 +1356,8 @@ sei .ibu nanla gi'e kansa lei bersa be la bilXAT. .e la zilPAT. vu'o noi speni l
 .i la .iisra,EL. prami la .ioSEF. serai piro loi bersa be vo'a ki'u le nu vo'e bersa co tolcitno
 gi'e ja'ebo finti seva'u la .ioSEF. fe lo dasri taxfu
 \v 4
-.i lei bruna cu jmibi'o le du'u prami fa le patfu be vo'a la .ioSEF. serai piroi loi bruna kei gi'e
-\rem ??xebni
-xebni .ibu gi'e tolka'e le nu panpi tavla .ibu
+.i lei bruna cu jmibi'o le du'u prami fa le patfu be vo'a la .ioSEF. serai piro loi bruna kei gi'e
+by xebni .ibu gi'e tolka'e le nu panpi tavla .ibu
 \v 5
 .i la .ioSEF. cu senva lo se senva gi'e cusku fi lei bruna be vo'a .i zenba le ka xebni .ibu
 \v 6
@@ -1419,7 +1418,7 @@ le ri taxfu no'u le dasri taxfu noi se dasni .ibu
 .i by. bevri .ibu gi'e renro .ibu le kevna .i le kevna cu kunti .i na djacu
 ne'i ky.
 \v 25
-.i tsebi'o mu'i le nu nanba citka kei gi'e galcta gi'e viska le nu .ua sirji
+.i tsebi'o mu'i le nu nanba citka kei gi'e galcta gi'e viska le nu .ua lo sirji
 girzu be loi prenrxiisma,eli cu jbikla fi la gileAD. .i lei kumte cu bevri la nyXOT.
 .e la tsyris. .e la lot. .i klama gi'e bevri fi le misrygu'e
 \v 26
