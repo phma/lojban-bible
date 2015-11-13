@@ -284,13 +284,16 @@ le kanla be do
 .i ko racyju'i gi'e na tolmo'i tu'a la .iaves. ku noi cevni do ku'o ta'i lo nu co'u tinbe loi te minde joi
 loi se pajni joi loi flalu vu'o pe ibu je poi mi ca minde do ke'a
 \v 12 
-.i tezu'ebo rivbi va'o lo nu do mo'u citka jebo cu tolxagji je cu zbasu lo zabna zdani je cu xabju ri
-\v 13 
-je loi cagda'u be do ferti se panzi je loi rijno joi loi solji vu'o po do 
-memyze'a je loi ro se ponse be do memyze'a sai kei
+.i tezu'ebo rivbi va'o lo nu
+do mo'u citka gi'e tolxagji gi'e zbasu lo zabna zdani gi'e xabju ri
+\v 13
+gi'e ponse loi cagda'u noi ferti se panzi
+e loi rijno joi loi solji vu'o noi memyze'a 
+e loi se ponse noi ro ke'a memyze'a sai
+kei
 \v 14
 lo nu lo menli be do co'a se'ijgi je do tolmo'i tu'a la .iaves. ku noi cevni do 
-je noi vimcu do la .misr. ku no'u le tutra pe lo ka bapse'u
+zi'e noi pu vimcu do la .misr. ku no'u le tutra pe lo ka bapse'u
 \v 15
 \v 16
 \v 17
@@ -456,8 +459,8 @@ citka da
 \v 11
 ni'o ro cipni poi jinsa zo'u do citka
 \v 12
-.i la'edi'e na se citka ko .i ro cipnrxakuila .e ro vultura .e ro
-cipnrxalieto
+.i la'edi'e na se citka ko .i ro cipnrxaku'ila .e ro vultura .e ro
+cipnrxali'eto
 \v 13
 .e ro cipnrgupa .e ro falkone .e ro cipnrdaia be da
 \rem PIKTCITA. le vi liste cu bu'u frica le liste vi le 11moi be la javnrlevi
@@ -465,13 +468,13 @@ cipnrxalieto
 \v 14
 .e ro cipnrkorvo be da
 \v 15
-.e ro strutione .e ro glauka .e ro cipnrlaro .e ro .akcipitro be da
+.e ro struti'one .e ro glauka .e ro cipnrlaro .e ro .akcipitro be da
 \v 16
 .e ro cipnrkosu .e ro cipnrjancufu
 \v 17
 .e ro fipydaklycpi .e ro cipnrvispreda .e ro flakrokoraka
 \v 18
-.e ro cipnrkikonia .e ro cipnrxarde'a be da .e ro cipnrpupupa .e ro
+.e ro cipnrkikoni'a .e ro cipnrxarde'a be da .e ro cipnrpupupa .e ro
 volmabru
 \v 19
 \v 20
@@ -687,7 +690,7 @@ volmabru
 \v 6 \va 7 \va* 
 \v 7 \va 8 \va* .i ko na se rigni lo prenrxadomi .iki'ubo ri tunba do .i ko na se rigni lo misro .iki'ubo do fangyvi'e ri lo ri tumla
 \rem Uses three terbri of undefined lujvo "fangyvi'e"; I had to backtrack to make sure you're not using {lo misro} to refer to both the people and the land :p. Probably should be either defined or expanded. - zipcpi
-\v 8 \va 9 \va* .i ba lo cimei rorlinsi lo seldze be xai cu nerkla .e'a lo nunjmaji pe la .iaves.
+\v 8 \va 9 \va* .i ba lo cimei rorlinsi lo seldze be py .a my cu nerkla .e'a lo nunjmaji pe la .iaves.
 \rem "lo la .iaves. ku nunjmaji" is ungrammatical. -phma
 \rem Yes, ma'i the official (pre-BCM) grammar. BCM-neutral style is more difficult than I thought, cause the pre-BCM essentially treats LA differently depending on whether it's followed by brivla or cmevla. But enough politics; can't go wrong with {pe}. -zipcpi
 \v 9 \va 10 \va* ni'o ca lo nu do se ginka jamna lo bradi be do kei ko rivbi ro xlali
@@ -699,10 +702,10 @@ volmabru
 \v 14 \va 15 \va* .i la .iaves. noi cevni do cu cadzu lo jbini be lo do ginka tezu'e lonu nurxru do gi'e jigygau do fo lo bradi .isemu'ibo lo ko ginka cu censa tezu'e lonu ko'a genai viska lo toljinsa bene'i do ginai carna cliva do
 \rem "jibni" or "jbini"?
 \rem "jibni" is the more literal translation of "קרב", but "jbini" (which could be בין) makes more sense. Changed. -phma
-\v 15 \va 16 \va* ni'o lo selbapselfu poi jinga lo kamzi'e lo selse'u gi'e klama do zo'u ko na xruti ko'e lo selse'u 
+\v 15 \va 16 \va* ni'o lo selbapselfu poi jinga lo ka zifre kei lo selse'u gi'e klama do zo'u ko na xruti ko'e lo selse'u 
 \v 16 \va 17 \va* .i.e'adai ko'e xabju vi do lo tervro poi cuxna ke'a .i ko na kustru ko'e
 \v 17 \va 18 \va* ni'o lo fetsi ja nakni sra'eli cu e'anai datcensygle
-\v 18 \va 19 \va* .i ko na bevri lo te gleve'u .a lo velve'u be lo gerku lo zdani be la .iaves. noi cevni do ku'o mu'i lo nu nupre .i rorexai rigni la .iaves.
+\v 18 \va 19 \va* .i ko na bevri lo te gleve'u .a lo velve'u be lo gerku lo zdani be la .iaves. noi cevni do ku'o mu'i lo nu nupre .i ro le re se gasnu cu rigni la .iaves.
 \v 19 \va 20 \va* ni'o na dejyterze'a lo jdini .a lo cidja .a lo drata seldejni lo tunba be do ko
 \v 20 \va 21 \va* .i dejyterze'a fi lo fange .e'a .enai lo tunba do .itezu'ebo la .iaves. noi cevni do cu zandapma ro lo xance selzu'e be do bei ne'i lo tumla poi do ba ponse
 \v 21 \va 22 \va* ni'o ca lo nu do nupre da la .iaves. noi cevni do kei ko na'e lerci mulgau da .ija la .iaves. noi cevni do cu camcpe da do .ijebo lo nu na zukte cu rinka lo nu do ckaji lo ka zekri
@@ -720,7 +723,7 @@ volmabru
 \v 5 ni'o lo puzi speni cu .e'i na sonci lo jenmi gi'e na bilga lo nu selfu .i .einai ra zifre ze'e lo nanca be li pa lo nu geirgau lo ninmu poi speni ra
 \v 6 ni'o ko na dejnuple'a lo molki selxadba ja pamei .i la'edi'u dunli lo nu dejnuple'a lo zumjmive
 \rem Verse 6 uses חבל, verse 13 uses עבט, I don't know what the difference is. -phma
-\v 7 ni'o lo zerle'a be lo tunba be vo'a be'o goi ko'a noi seldze la .IIsra'el. ku'o gi'e jajgau ko'a gi'e vecnu ko'a cu mrobi'o .e'i .i ko jelspo lo palci poi menre do
+\v 7 ni'o lo zerle'a be lo tunba be vo'a be'o goi ko'a noi seldze la .IIsra'el. ku gi'e jajgau ko'a gi'e vecnu ko'a cu mrobi'o .e'i .i ko jelspo lo palci pe ne'a do
 \v 8 ni'o lo selbilma be fi la .tsarat. zo'u ko seljde zukte lo se ctuca be lo .elvita jdaca'i .i lo termi'e be ri bei mi cu seljde se zukte ko
 \rem does "ri" refer to "lo .elvita jdaca'i" or "lo se ctuca be lo .elvita jdaca'i"? -phma
 \rem I think it's the latter - zipcpi
